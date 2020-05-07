@@ -65,7 +65,7 @@ def process_dictionary(language_code, overwrite=False):
                 w.writerow([foreign_word, english_word, google_translation])
 
 def get_translation_dictionary(language_code, overwrite=False):
-    """ Gets dictionary for spanish to english translation
+    """ Gets dictionary for foreign to english translation
     """
     process_dictionary(language_code, overwrite=overwrite)
 
@@ -116,6 +116,9 @@ def create_foreign_to_foreign_dictionary(language_code1, language_code2, overwri
                 w.writerow([foreign_word, google_translation, english_word])
 
 def get_foreign_to_foreign_dictionary(language_code1, language_code2):
+    """ Gets dictionary for k_means foreign to foreign translation, give two
+    language codes. If one doesn't exist it will be created
+    """
     create_foreign_to_foreign_dictionary(language_code1, language_code2)
 
     filename = FOREIGN_TO_FOREIGN_PATH.format(language_code1, language_code2)
@@ -127,6 +130,8 @@ def get_foreign_to_foreign_dictionary(language_code1, language_code2):
 
 
 def read_raw_dictionary(language_code):
+    """ Reads raw dictionary from language code, used for median max cosine calc
+    """
     with open(RAW_DICTIONARY_PATH + language_code, 'r', encoding='utf-8') as f:
         r = csv.reader(f, delimiter='\t')
         d = {row[0]:row[1] for row in r}
@@ -135,7 +140,10 @@ def read_raw_dictionary(language_code):
 
 
 def main():
-    LANGS = ("en", "fr", "ar", "az", "es", "id", "de", "tr", "zh", "hi", "it", "vi", "th", "cy")
+    """ Used for preprocessing dictionaries with GOOGLE API. Cannot parallelize,
+    or else will run into API rate_limit errors.
+    """
+    LANGS = ("en", "fr", "ar", "az", "es", "id", "de", "tr", "hi", "it", "vi", "th", "cy")
     for lc1 in ["cy"]:
         for lc2 in LANGS[8:]:
             print("STARTED {} to {}".format(lc1.upper(), lc2.upper()))

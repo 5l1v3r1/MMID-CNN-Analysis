@@ -94,7 +94,8 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
     :param language_code1: ISO 639-1 language code for the first language
     :param language_code2: ISO 639-1 language code for the second language
     :param n_jobs: indicates how many cores k-means should use, see sklearn docs
-    :param save_every: how often to update the homogeneity
+    :param save_every: how often to update the homogeneity scores in # iterations
+    :param print_every: how often to print status in # iterations
     :param overwrite: whether to overwrite the scores if a file already exists
     """
     # In case the user passes in same lang twice for the language code
@@ -136,7 +137,7 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
     start = time.time()
 
     for i, lang1_word in enumerate(translation_d.keys()):
-        if i % print_every == 0:
+        if i % print_every == 0 and i != 0:
             print("{} to {} Iteration: {:6} Completed: {:6.2f}%% Elapsed Time: {} Time Remaining: {}".format(language_code1,
                                                                                                     language_code2,
                                                                                                     i,
@@ -146,7 +147,7 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
                                                                                                     timeRemaining(start, i, num_words))
                   )
 
-        if i % save_every == 0:
+        if i % save_every == 0 and i != 0:
             save_scores(h_score_list, language_code1, language_code2)
 
         lang2_word, english_word = translation_d[lang1_word]

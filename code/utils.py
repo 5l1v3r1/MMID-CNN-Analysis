@@ -3,6 +3,7 @@ import math
 import csv
 import pandas as pd
 import os
+import PATHS
 
 def timeSince(since):
     now = time.time()

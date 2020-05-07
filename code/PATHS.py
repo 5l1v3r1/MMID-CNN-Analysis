@@ -1,7 +1,7 @@
 ## Path to a folder called Score Results, where all results will be written to
 SCORE_RESULTS_FOLDER="../Score-Results"
 
-## Path to folder with dictionaries
+## Path to folder with pre-processed dictionaries
 DICTIONARY_PATH="../dictionaries"
 
 ## Path to folder with CNN language packages *not provided see README*
