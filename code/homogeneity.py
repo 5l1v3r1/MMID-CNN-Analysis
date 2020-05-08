@@ -18,61 +18,6 @@ LANG_PACKAGE_PATH = PATHS.LANGUAGE_PACKAGES_PATH
 
 langcode2name = get_language_code_mapping()
 
-def get_cnn_index(language_code, lang_package):
-    """ Gets mapping between words and file numbers for .pkls """
-    name = langcode2name[language_code].lower()
-    lang_package = lang_package.lower()
-
-    if name == "english":
-        tsv_path = LANG_PACKAGE_PATH + lang_package + "/english_path_index.tsv"
-
-        if not os.path.isfile(tsv_path):
-            raise FileNotFoundError("Couldn't find index path for english in package {}".format(lang_package))
-    else:
-        tsv_path = LANG_PACKAGE_PATH + lang_package + \
-            "/" + name.title() + "_path_index.tsv"
-
-        if not os.path.isfile(tsv_path):
-            tsv_path = LANG_PACKAGE_PATH + lang_package + \
-                "/" + name.lower() + "_path_index.tsv"
-
-        if not os.path.isfile(tsv_path):
-            raise FileNotFoundError(
-                "Couldn't find index path for {} in package {}".format(language_code, lang_package))
-
-    with open(tsv_path, 'r', encoding='utf-8') as f:
-        r = csv.reader(f, delimiter='\t')
-        d = {row[0]: row[1] for row in r}
-
-    return d
-
-
-def get_matrix(file_number, language_code, lang_package):
-    """ Helper function to save scores, gets matr """
-    lang_package = lang_package.lower()
-    lang = langcode2name[language_code]
-    lang = lang.strip().lower()
-
-    if lang == 'english':
-        file_path = LANG_PACKAGE_PATH + lang_package + \
-            "/english-features/" + str(file_number) + ".pkl"
-    else:
-        file_path = LANG_PACKAGE_PATH + lang_package + "/" + \
-            lang.title() + "-features/" + str(file_number) + ".pkl"
-
-        if not os.path.isfile(file_path):
-            file_path = LANG_PACKAGE_PATH + lang_package + "/" + \
-                lang.lower() + "-features/" + str(file_number) + ".pkl"
-
-        if not os.path.isfile(file_path):
-            return None
-
-    with open(file_path, 'rb') as fid:
-        obj = pickle.Unpickler(fid, encoding='latin-1').load()
-
-    return obj.toarray()
-
-
 def save_scores(h_scores, language_code1, language_code2, sort=True):
     """ Helper function to save scores """
     file_name = OUTPUT_FILE.format(language_code1, language_code2)

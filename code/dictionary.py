@@ -1,5 +1,6 @@
 from google.cloud import translate_v2 as translate
 from nltk.stem.snowball import SnowballStemmer
+from utils import get_cnn_index, get_language_code_mapping
 import os
 import csv
 import PATHS
@@ -130,13 +131,40 @@ def get_foreign_to_foreign_dictionary(language_code1, language_code2):
 
 
 def read_raw_dictionary(language_code):
-    """ Reads raw dictionary from language code, used for median max cosine calc
-    """
+    """ Reads raw dictionary from language code, used for median max cosine calc """
     with open(RAW_DICTIONARY_PATH + language_code, 'r', encoding='utf-8') as f:
         r = csv.reader(f, delimiter='\t')
         d = {row[0]:row[1] for row in r}
 
     return d
+
+def check_dictionary(language_code1, language_code2):
+    """ Checks the dictionary to see how many words can be used for calculations.
+    Returns the following:
+    (total words, usable, unusable, usable/total_words)
+    """
+    if language_code1 == language_code2:
+        print("Dictionary between same languages does not exist")
+        return
+
+    langcode2name = get_language_code_mapping()
+    if language_code2 == "en":
+        package = langcode2name[language_code1]
+    else:
+        package = langcode2name[language_code2]
+
+    index = get_cnn_index(language_code2, package)
+    d = get_foreign_to_foreign_dictionary(language_code1, language_code2)
+
+    total = len(d)
+    num_usable = 0
+
+    for word in d.values():
+        if word in index:
+            num_usable += 1
+
+    return total, num_usable, total - num_usable, num_usable/total
+
 
 
 def main():

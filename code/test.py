@@ -1,8 +1,8 @@
 from utils import *
+from dictionary import check_dictionary
 
-d = get_language_code_mapping()
+LANGS = ("en", "fr", "ar", "az", "es", "id", "de", "tr", "hi", "it", "vi", "th", "cy")
 
-langs = ("en", "fr", "ar", "az", "es", "id", "de", "tr", "hi", "it", "vi", "th", "cy")
-
-for lang in langs:
-    print("-", d[lang])
+for lc1 in LANGS:
+    for lc2 in LANGS:
+        print(lc1, lc2, check_dictionary(lc1, lc2))

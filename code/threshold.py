@@ -7,8 +7,9 @@ from processDictionary import *
 from utils import *
 from prettytable import PrettyTable
 from plotData import plot_hist
+import PATHS
 
-RESULTS_PATH = "{}"
+RESULTS_PATH = PATH.SCORE_RESULTS_FOLDER + "/{}"
 
 def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
     cosine_d1 = read_cosine_TSV(lc1)

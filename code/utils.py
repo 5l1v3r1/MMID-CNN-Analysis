@@ -5,6 +5,62 @@ import pandas as pd
 import os
 import PATHS
 
+# Path to the a pkl file that contains a matrix for a language
+MATRIX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}-features/{}.pkl"
+
+INDEX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}_path_index.tsv"
+
+
+def get_language_code_mapping():
+    """ Creates dict that returns language from ISO 639-1 code key """
+    path = PATHS.LANGUAGE_CODES
+    with open(path, 'r', encoding='utf-8') as f:
+        r = csv.reader(f, delimiter='\t')
+        d = {row[1]: row[2] for row in r}
+    return d
+
+langcode2name = get_language_code_mapping()
+
+def get_matrix(file_number, language_code, lang_package):
+    """ Retrieves matrix from pkl """
+    lang_package = lang_package.lower()
+    lang = langcode2name[language_code]
+    lang = lang.strip().lower()
+
+    file_path = MATRIX_PATH.format(lang_package, lang, file_number)
+
+    if not os.path.isfile(file_path):
+        file_path = MATRIX_PATH.format(lang_package, lang.title(), file_number)
+
+    if not os.path.isfile(file_path):
+        return None
+
+    with open(file_path, 'rb') as fid:
+        obj = pickle.Unpickler(fid, encoding='latin-1').load()
+
+    return obj.toarray()
+
+def get_cnn_index(language_code, lang_package):
+    """ Gets mapping between language's words and file numbers """
+    name = langcode2name[language_code].lower()
+    lang_package = lang_package.lower()
+
+    file_path = INDEX_PATH.format(lang_package, name)
+
+    if not os.path.isfile(file_path):
+        file_path = INDEX_PATH.format(lang_package, name.title())
+
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(
+            "Couldn't find index path for {} in package {}".format(language_code, lang_package))
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        r = csv.reader(f, delimiter='\t')
+        d = {row[0]: row[1] for row in r}
+
+    return d
+
+
 def timeSince(since):
     now = time.time()
     s = now - since
@@ -55,14 +111,6 @@ def print_hist2d(h):
     print(" "* 8, end="")
     for item in xedge[1:]: print("{:5.2f} ".format(item), end="")
     print("\n")
-
-
-def get_language_code_mapping():
-    path = PATHS.LANGUAGE_CODES
-    with open(path, 'r', encoding='utf-8') as f:
-        r = csv.reader(f, delimiter='\t')
-        d = {row[1]: row[2] for row in r}
-    return d
 
 def read_cosine_TSV(language_code):
     PATH  = "/project/multilm/nikzad/Analyze-CNN-code/Score-Results/{}_median_cosine.tsv"
