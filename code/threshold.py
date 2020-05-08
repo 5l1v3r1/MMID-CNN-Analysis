@@ -3,13 +3,12 @@ import pickle
 import numpy as np
 import csv
 import sys
-from processDictionary import *
+from dictionary import *
 from utils import *
 from prettytable import PrettyTable
-from plotData import plot_hist
 import PATHS
 
-RESULTS_PATH = PATH.SCORE_RESULTS_FOLDER + "/{}"
+RESULTS_PATH = PATHS.SCORE_RESULTS_FOLDER + "/Threshold/{}"
 
 def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
     cosine_d1 = read_cosine_TSV(lc1)
@@ -83,15 +82,31 @@ def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
 
     return t
 
+def get_nans(language_code1, language_code2):
+    result = check_dictionary(language_code1, language_code2)
+    result = list(result)
+    result[-1] = "{:2.2f}%%".format(result[-1])
+    t = PrettyTable()
+    t.field_names = ["Usable Words", "Unusable Words", "Total", "% Usable"]
+    t.add_row(result)
+    return t
+
+
 def threshold_all(homogeneity_threshold, cosine_threshold, langs, file_name):
     "translation goes rows to columns"
     big_table = PrettyTable()
-    big_table.field_names = [""] + langs
+    big_table.field_names = ["Translation", "Result", "Num Nan"]
+
+    s = "{} to {}"
+
     for lang1 in langs:
-        row = [lang1]
         for lang2 in langs:
-            sub_t = threshold(homogeneity_threshold, cosine_threshold, lang1, lang2)
-            row.append(sub_t)
+            if lang1 != lang2:
+                row = [s.format(lang1, lang2)]
+                sub_t = threshold(homogeneity_threshold, cosine_threshold, lang1, lang2)
+                nans = get_nans(lang1, lang2)
+                row.append(sub_t)
+                row.append(nans)
         big_table.add_row(row)
     with open(file_name,"w+") as f:
         f.write(big_table.get_string())
@@ -195,9 +210,9 @@ def main():
             file name, cosine threshold, homogeneity threshold\n\
             instead got {}".format(len(sys.argv)))
 
-    LANGS = ["fr", "ar", "az", "es", "id", "de", "tr"]
-    # threshold_all(homogeneity_threshold, cosine_threshold, LANGS, file_name)
-    rank_all(homogeneity_threshold, cosine_threshold, LANGS)
+    LANGS = ["en", "fr", "ar", "az", "es", "id", "de", "tr", "hi", "it", "vi", "th", "cy"]
+    threshold_all(homogeneity_threshold, cosine_threshold, LANGS, file_name)
+    # rank_all(homogeneity_threshold, cosine_threshold, LANGS)
 
 
 if __name__=="__main__":

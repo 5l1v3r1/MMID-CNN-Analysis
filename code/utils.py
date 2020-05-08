@@ -3,6 +3,7 @@ import math
 import csv
 import pandas as pd
 import os
+import pickle
 import PATHS
 
 # Path to the a pkl file that contains a matrix for a language
@@ -10,6 +11,9 @@ MATRIX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}-features/{}.pkl"
 
 INDEX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}_path_index.tsv"
 
+COSINE_PATH = PATHS.SCORE_RESULTS_FOLDER + "/Median-Max-Cosine-Similarity/{}_med_max_cosine.tsv"
+
+HOMOGENEITY_PATH = PATHS.SCORE_RESULTS_FOLDER + "/Homogeneity/{}_to_{}_homogeneity_scores.tsv"
 
 def get_language_code_mapping():
     """ Creates dict that returns language from ISO 639-1 code key """
@@ -113,8 +117,7 @@ def print_hist2d(h):
     print("\n")
 
 def read_cosine_TSV(language_code):
-    PATH  = "/project/multilm/nikzad/Analyze-CNN-code/Score-Results/{}_median_cosine.tsv"
-    path = PATH.format(language_code)
+    path = COSINE_PATH.format(language_code)
     if os.path.isfile(path):
         with open(path, "r", encoding='utf-8') as f:
             r = csv.reader(f, delimiter='\t')
@@ -125,8 +128,7 @@ def read_cosine_TSV(language_code):
         return None
 
 def read_homogeneity_TSV(language_code1, language_code2):
-    PATH = "/project/multilm/nikzad/Analyze-CNN-code/Score-Results/{}_to_{}_homogeneity_scores.tsv"
-    path = PATH.format(language_code1, language_code2)
+    path = HOMOGENEITY_PATH.format(language_code1, language_code2)
     column_names = ["lang1_word", "lang2_word", "h_score", "english_word"]
     if os.path.isfile(path):
         with open(path, "r", encoding='utf-8') as f:

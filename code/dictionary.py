@@ -148,22 +148,28 @@ def check_dictionary(language_code1, language_code2):
         return
 
     langcode2name = get_language_code_mapping()
-    if language_code2 == "en":
-        package = langcode2name[language_code1]
+
+    if language_code2 == 'en':
+        package_name = langcode2name[language_code1]
     else:
-        package = langcode2name[language_code2]
+        package_name = langcode2name[language_code2]
 
-    index = get_cnn_index(language_code2, package)
-    d = get_foreign_to_foreign_dictionary(language_code1, language_code2)
+    if language_code1 == 'en':
+        translation_d = get_translation_dictionary(language_code2)
+    elif language_code2 == 'en':
+        translation_d = get_translation_dictionary(language_code1)
+    else:
+        translation_d = get_foreign_to_foreign_dictionary(language_code1, language_code2)
 
-    total = len(d)
+    index = get_cnn_index(language_code2, package_name)
+    total = len(translation_d)
     num_usable = 0
 
-    for word in d.values():
+    for word, english in translation_d.values():
         if word in index:
             num_usable += 1
 
-    return total, num_usable, total - num_usable, num_usable/total
+    return  num_usable, total - num_usable, total, num_usable/total
 
 
 
