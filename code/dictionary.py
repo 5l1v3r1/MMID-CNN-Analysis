@@ -1,4 +1,4 @@
-from google.cloud import translate_v2 as translate
+# from google.cloud import translate_v2 as translate
 from nltk.stem.snowball import SnowballStemmer
 from utils import get_cnn_index, get_language_code_mapping
 import os

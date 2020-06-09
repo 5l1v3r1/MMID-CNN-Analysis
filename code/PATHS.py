@@ -8,7 +8,7 @@ DICTIONARY_PATH="../dictionaries"
 LANGUAGE_PACKAGES_PATH=""
 
 ## Path to raw dictionaries from MMID dataset
-RAW_DICTIONARY_PATH=""
+RAW_DICTIONARY_PATH="../raw dictionaries"
 
 ## Path to tsv containing ISO 639-1 language codes
 LANGUAGE_CODES="../iso639-1.tsv"
