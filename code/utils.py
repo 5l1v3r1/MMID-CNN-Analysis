@@ -4,26 +4,33 @@ import csv
 import pandas as pd
 import os
 import PATHS
+import pickle
 
 # Path to the a pkl file that contains a matrix for a language
 MATRIX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}-features/{}.pkl"
 
-INDEX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}_path_index.tsv"
+INDEX_PATHS = [path + "/{}/{}_path_index.tsv" for path in PATHS.LANGUAGE_PACKAGES_PATHS]
 
+COSINE_PATH = PATHS.SCORE_RESULTS_FOLDER + \
+    "/Median-Max-Cosine-Similarity/{}_med_max_cosine.tsv"
+
+HOMOGENEITY_PATH = PATHS.SCORE_RESULTS_FOLDER + \
+    "/Homogeneity/{}_to_{}_homogeneity_scores.tsv"
 
 def get_language_code_mapping():
     """ Creates dict that returns language from ISO 639-1 code key """
     path = PATHS.LANGUAGE_CODES
     with open(path, 'r', encoding='utf-8') as f:
         r = csv.reader(f, delimiter='\t')
-        d = {row[1]: row[2] for row in r}
+        d = {row[1]: row[2].split(" ")[0].lower() for row in r}
+    d["ceb"] = "cebuano"
     return d
 
 langcode2name = get_language_code_mapping()
 
 def get_matrix(file_number, language_code, lang_package):
     """ Retrieves matrix from pkl """
-    lang_package = lang_package.lower()
+    lang_package = langcode2name[lang_package].lower()
     lang = langcode2name[language_code]
     lang = lang.strip().lower()
 
@@ -43,22 +50,20 @@ def get_matrix(file_number, language_code, lang_package):
 def get_cnn_index(language_code, lang_package):
     """ Gets mapping between language's words and file numbers """
     name = langcode2name[language_code].lower()
-    lang_package = lang_package.lower()
+    lang_package = langcode2name[lang_package].lower()
 
-    file_path = INDEX_PATH.format(lang_package, name)
+    for index_path in INDEX_PATHS:
+        for lang_name in (name, name.title()):
+            file_path = index_path.format(lang_package, lang_name)
 
-    if not os.path.isfile(file_path):
-        file_path = INDEX_PATH.format(lang_package, name.title())
+            if os.path.isfile(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    r = csv.reader(f, delimiter='\t')
+                    d = {row[0]: row[1] for row in r}
+                return d
 
-    if not os.path.isfile(file_path):
-        raise FileNotFoundError(
-            "Couldn't find index path for {} in package {}".format(language_code, lang_package))
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        r = csv.reader(f, delimiter='\t')
-        d = {row[0]: row[1] for row in r}
-
-    return d
+    raise FileNotFoundError(
+        "Couldn't find index path for {} in package {}".format(language_code, lang_package))
 
 
 def timeSince(since):
@@ -113,25 +118,23 @@ def print_hist2d(h):
     print("\n")
 
 def read_cosine_TSV(language_code):
-    PATH  = "/project/multilm/nikzad/Analyze-CNN-code/Score-Results/{}_median_cosine.tsv"
-    path = PATH.format(language_code)
+    path = COSINE_PATH.format(language_code)
     if os.path.isfile(path):
         with open(path, "r", encoding='utf-8') as f:
             r = csv.reader(f, delimiter='\t')
             d = {row[0]: row[1] for row in r}
         return d
     else:
-        # print("File with the name {} does not exist.".format(path))
+        print("File with the name {} does not exist.".format(path))
         return None
 
 def read_homogeneity_TSV(language_code1, language_code2):
-    PATH = "/project/multilm/nikzad/Analyze-CNN-code/Score-Results/{}_to_{}_homogeneity_scores.tsv"
-    path = PATH.format(language_code1, language_code2)
+    path = HOMOGENEITY_PATH.format(language_code1, language_code2)
     column_names = ["lang1_word", "lang2_word", "h_score", "english_word"]
     if os.path.isfile(path):
         with open(path, "r", encoding='utf-8') as f:
             df = pd.read_csv(f, delimiter='\t', names=column_names)
         return df.replace("None", None)
     else:
-        # print("File with the name {} does not exist.".format(path))
+        print("File with the name {} does not exist.".format(path))
         return None

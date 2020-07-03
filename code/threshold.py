@@ -3,13 +3,13 @@ import pickle
 import numpy as np
 import csv
 import sys
-from processDictionary import *
+from dictionary import *
 from utils import *
 from prettytable import PrettyTable
-from plotData import plot_hist
 import PATHS
 
-RESULTS_PATH = PATH.SCORE_RESULTS_FOLDER + "/{}"
+RESULTS_PATH = PATHS.SCORE_RESULTS_FOLDER + "/Threshold/{}"
+
 
 def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
     cosine_d1 = read_cosine_TSV(lc1)
@@ -43,22 +43,24 @@ def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
 
     for col in df.columns[2:]:
         df[col] = df[col].astype(float)
-
-
-    df = df[df["lang1_median_max_cosine"]!=-1]
-    df = df[df["lang2_median_max_cosine"]!=-1]
+    df = df[df["lang1_median_max_cosine"] != -1]
+    df = df[df["lang2_median_max_cosine"] != -1]
 
     high_h_df = df[df["h_score"] > homogeneity_threshold]
     low_h_df = df[df["h_score"] <= homogeneity_threshold]
 
     for i, data in enumerate([high_h_df, low_h_df, df]):
         temp = data[data["lang1_median_max_cosine"] > cosine_threshold]
-        rows[i][0] = len(temp[temp["lang2_median_max_cosine"] > cosine_threshold])
-        rows[i][1] += len(temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
+        rows[i][0] = len(
+            temp[temp["lang2_median_max_cosine"] > cosine_threshold])
+        rows[i][1] += len(temp[temp["lang2_median_max_cosine"]
+                               <= cosine_threshold])
 
         temp = data[data["lang1_median_max_cosine"] <= cosine_threshold]
-        rows[i][2] = len(temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
-        rows[i][1] += len(temp[temp["lang2_median_max_cosine"] > cosine_threshold])
+        rows[i][2] = len(
+            temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
+        rows[i][1] += len(temp[temp["lang2_median_max_cosine"]
+                               > cosine_threshold])
 
         rows[i][3] = len(data)
 
@@ -83,17 +85,34 @@ def threshold(homogeneity_threshold, cosine_threshold, lc1, lc2):
 
     return t
 
+
+def get_nans(language_code1, language_code2):
+    result = check_dictionary(language_code1, language_code2)
+    result = list(result)
+    result[-1] = "{:2.2f}%%".format(result[-1])
+    t = PrettyTable()
+    t.field_names = ["Usable Words", "Unusable Words", "Total", "% Usable"]
+    t.add_row(result)
+    return t
+
+
 def threshold_all(homogeneity_threshold, cosine_threshold, langs, file_name):
-    "translation goes rows to columns"
     big_table = PrettyTable()
-    big_table.field_names = [""] + langs
+    big_table.field_names = ["Translation", "Result", "Num Nan"]
+
+    s = "{} to {}"
+
     for lang1 in langs:
-        row = [lang1]
         for lang2 in langs:
-            sub_t = threshold(homogeneity_threshold, cosine_threshold, lang1, lang2)
-            row.append(sub_t)
-        big_table.add_row(row)
-    with open(file_name,"w+") as f:
+            if lang1 != lang2:
+                row = [s.format(lang1, lang2)]
+                sub_t = threshold(homogeneity_threshold,
+                                  cosine_threshold, lang1, lang2)
+                nans = get_nans(lang1, lang2)
+                row.append(sub_t)
+                row.append(nans)
+                big_table.add_row(row)
+    with open(file_name, "w+") as f:
         f.write(big_table.get_string())
 
 
@@ -124,28 +143,28 @@ def get_ratio(homogeneity_threshold, cosine_threshold, lc1, lc2):
 
     for col in df.columns[2:]:
         df[col] = df[col].astype(float)
-
-
-    df = df[df["lang1_median_max_cosine"]!=-1]
-    df = df[df["lang2_median_max_cosine"]!=-1]
+    df = df[df["lang1_median_max_cosine"] != -1]
+    df = df[df["lang2_median_max_cosine"] != -1]
 
     high_h_df = df[df["h_score"] > homogeneity_threshold]
     low_h_df = df[df["h_score"] <= homogeneity_threshold]
 
     for i, data in enumerate([high_h_df, low_h_df, df]):
         temp = data[data["lang1_median_max_cosine"] > cosine_threshold]
-        rows[i][0] = len(temp[temp["lang2_median_max_cosine"] > cosine_threshold])
-        rows[i][1] += len(temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
+        rows[i][0] = len(
+            temp[temp["lang2_median_max_cosine"] > cosine_threshold])
+        rows[i][1] += len(temp[temp["lang2_median_max_cosine"]
+                               <= cosine_threshold])
 
         temp = data[data["lang1_median_max_cosine"] <= cosine_threshold]
-        rows[i][2] = len(temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
-        rows[i][1] += len(temp[temp["lang2_median_max_cosine"] > cosine_threshold])
+        rows[i][2] = len(
+            temp[temp["lang2_median_max_cosine"] <= cosine_threshold])
+        rows[i][1] += len(temp[temp["lang2_median_max_cosine"]
+                               > cosine_threshold])
 
         rows[i][3] = len(data)
-
-
-    if  len(df)!= 0:
-        ratio = rows[2][0]/rows[-1][ -1]
+    if len(df) != 0:
+        ratio = rows[2][0]/rows[-1][-1]
         return ratio
     else:
         return -1
@@ -153,16 +172,18 @@ def get_ratio(homogeneity_threshold, cosine_threshold, lc1, lc2):
 
 def rank_all(homogeneity_threshold, cosine_threshold, langs):
    for lang in langs:
-        worst, best, ratio_list = rank(homogeneity_threshold, cosine_threshold, lang, langs)
+       worst, best, ratio_list = rank(
+           homogeneity_threshold, cosine_threshold, lang, langs)
 
-        print(lang.upper())
-        print("Worst", worst, "Best", best)
-        for label, ratio in ratio_list:
+       print(lang.upper())
+       print("Worst", worst, "Best", best)
+       for label, ratio in ratio_list:
             print("{} : {}, ".format(label, ratio), end="")
-        print("\n\n")
+       print("\n\n")
+
 
 def rank(homogeneity_threshold, cosine_threshold, lc, langs):
-    ratio_list= []
+    ratio_list = []
     best = -10
     worst = 10
     for lang in langs:
@@ -180,6 +201,7 @@ def rank(homogeneity_threshold, cosine_threshold, lc, langs):
 
     return worst_s, best_s, ratio_list
 
+
 def main():
     if len(sys.argv) == 3:
         cosine_threshold = float(sys.argv[2])
@@ -195,10 +217,11 @@ def main():
             file name, cosine threshold, homogeneity threshold\n\
             instead got {}".format(len(sys.argv)))
 
-    LANGS = ["fr", "ar", "az", "es", "id", "de", "tr"]
-    # threshold_all(homogeneity_threshold, cosine_threshold, LANGS, file_name)
-    rank_all(homogeneity_threshold, cosine_threshold, LANGS)
+    LANGS = ["en", "fr", "ar", "az", "es", "id",
+             "de", "tr", "hi", "it", "vi", "th", "cy"]
+    threshold_all(homogeneity_threshold, cosine_threshold, LANGS, file_name)
+    # rank_all(homogeneity_threshold, cosine_threshold, LANGS)
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     main()

@@ -1,9825 +1,9825 @@
-$	$	$
-+	+	+
-=	=	=
-a	to	to
-ab	ab	ab
-abajo	down	down
-abandona	discarded	give up
-abandonado	abandoned	abandoned
-abandonar	leave	leave
-abandonaron	abandoned	abandoned
-abandono	abandonment	abandonment
-abandonó	abandoned	abandonment
-abarca	to embrace	encompasses
-abarcan	span	encompass
-abc	abc	abc
-abdominal	abdominal	abdominal
-abejas	bees	bees
-abierta	open	open
-abiertamente	openly	openly
-abiertas	open	open
-abierto	open	open
-abogado	lawyer	attorney
-abolición	abolition	abolition
-abordar	approach	approach
-aborto	abortion	abortion
-aborígenes	aborigines	aboriginal
-about	alrededor de	about
-abraham	abraham	abraham
-abre	opens	opens
-abril	april	april
-abrir	open	open
-abrió	opened	opened
-absoluta	absolutely	absolute
-absolutamente	absolutely	absolutely
-absoluto	absolut	absolute
-absorbe	absorb	absorbs
-absorción	absorption	absorption
-abstracción	abstraction	abstraction
-abstracta	abstract	abstract
-abstracto	abstract	abstract
-abstractos	abstract	abstract
-abuela	grandmother	grandmother
-abuelo	grandfather	grandfather
-abundancia	abundance	abundance
-abundante	abundant	abundant
-abundantes	abundant	abundant
-abuso	abuse	abuse
-ac	ac	ac
-acaba	ends	just
-acabar	finish	finish
-acabó	finished	finished
-academia	academy	academy
-academias	academies	academies
-académica	academic	academic
-académico	academic	academic
-académicos	academic	academics
-acaso	perhaps	perhaps
-acceder	accede	to access
-accesible	accessible	accessible
-acceso	access	access
-accesorios	accessories	accessories
-accidente	accident	accident
-accidentes	accidents	accidents
-acciones	actions	actions
-acción	action	action
-aceite	oil	oil
-aceleración	acceleration	acceleration
-acelerado	accelerated	accelerated
-acelerador	throttle	throttle
-acento	accent	accent
-acepta	accepted	you accept
-aceptable	acceptable	acceptable
-aceptación	acceptance	acceptance
-aceptada	accepted	accepted
-aceptadas	accepted	accepted
-aceptado	accepted	accepted
-aceptados	accepted	accepted
-aceptan	accepted	accept
-aceptar	accept	to accept
-aceptó	accept	i agree
-acerca	about	about
-acercamiento	approach	close up
-acercarse	getting close	getting closer
-acero	steel	steel
-aceros	steel	steels
-aclarar	clarify	clear out
-acogida	reception	reception
-acompaña	accompany	accompany
-acompañada	accompanied	accompanied
-acompañado	accompanied	accompanied
-acontecimiento	event	event
-acontecimientos	events	events
-acorde	in accordance	chord
-acordes	chords	chords
-acta	record	minutes
-actitud	attitude	attitude
-actitudes	attitude	attitudes
-activa	active	active
-activación	activation	activation
-activamente	actively	actively
-activas	active	active
-actividad	activity	exercise
-actividades	activities	activities
-activo	active	active
-activos	assets	assets
-acto	act	act
-actor	actor	actor
-actores	actors	actors
-actos	acts	acts
-actriz	actress	actress
-actuaciones	performances	performances
-actuación	performance	performance
-actual	current	current
-actuales	current	current
-actualidad	actuality	present
-actualización	update	upgrade
-actualmente	at present	at present
-actuando	acting	acting
-actuar	act	act
-actuó	acted	acted
-actúa	acts	act
-actúan	acts	they act
-acudir	go	come
-acuerdo	agreement	agreement
-acuerdos	agreements	agreements
-acumula	accumulates	accumulates
-acumulación	accumulation	accumulation
-acusaciones	accusation	accusations
-acusación	accusation	accusation
-acusado	accused	accused
-acusó	accused	accused
-acuáticos	aquatic	aquatic
-acuíferos	aquifer	aquifers
-acuñado	coined	coined
-acústica	acoustic	acoustics
-ad	ad	ad
-adam	adam	adam
-adaptaciones	adaptations	adaptations
-adaptación	adaptation	adaptation
-adaptada	adapter	adapted
-adaptadas	adapted	adapted
-adaptado	adapted	adapted
-adaptados	adapter	adapted
-adaptar	adap	to adapt
-adaptarse	adapt	adapt
-adecuada	adequate	adequate
-adecuadamente	adequately	adequately
-adecuadas	suitable	adequate
-adecuado	appropriate	suitable
-adecuados	adequate	suitable
-adelante	forward	ahead
-además	also	further
-adhesión	adherence	accession
-adicción	addiction	addiction
-adicional	additional	additional
-adicionales	additional	additional
-adicionalmente	additionally	additionally
-adición	addition	addition
-adjetivo	adjective	adjective
-adjetivos	adjectives	adjectives
-administración	administration	administration
-administrador	administrator	administrator
-administrar	managing	manage
-administrativa	administrative	administrative
-administrativas	administrative	administrative
-administrativo	administrative	administrative
-administrativos	administratives	administrative
-admiración	admiration	admiration
-admite	admites	admits
-adn	dna	dna
-adolescencia	adolescence	adolescence
-adolescente	teenager	teen
-adolescentes	teenagers	teenagers
-adolf	adolf	adolf
-adolfo	adolfo	adolfo
-adopción	adoption	adoption
-adopta	adopts	adopt
-adoptada	adopted	adopted
-adoptado	adopted	adopted
-adoptar	adopt	adopt
-adoptaron	took up	they adopted
-adoptó	adopted	adopted
-adoración	worship	worship
-adquiere	acquires	acquires
-adquieren	obtain	they acquire
-adquirida	acquired	acquired
-adquirido	acquired	acquired
-adquiriendo	acquiring	acquiring
-adquirieron	acquired	they acquired
-adquirir	purchase	acquire
-adquirió	acquired	acquired
-adquisición	acquisition	acquisition
-adulta	adult	adult
-adulto	adult	adult
-adultos	adults	adults
-advenimiento	advent	advent
-adversario	adversary	adversary
-adyacente	adjacent	adjacent
-adyacentes	adjacent	adjacent
-aeropuerto	airport	airport
-aeropuertos	airport	airports
-afecta	affects	it affects
-afectada	affected	affected
-afectadas	affected	affected
-afectado	affected	affected
-afectados	concerned	affected
-afectan	affect	affect
-afectar	to affect	to affect
-afecto	affect	affected
-afectó	affected	affected
-afganistán	afghanistan	afghanistan
-aficionado	amateur	amateur
-aficionados	amateurs	amateurs
-afición	hobby	hobby
-afines	related	related
-afinidad	affinity	affinity
-afirma	afirm	it states
-afirmaba	said	claimed
-afirmaciones	affirmations	affirmations
-afirmación	affirmation	affirmation
-afirman	say	they claim
-afirmando	stating	affirming
-afirmar	assert	say
-afirmó	said	he claimed
-africana	african	african
-africanas	african	african
-africano	african	african
-africanos	africans	africans
-afroamericanos	african american	african americans
-afueras	outskirts	outskirts
-agencia	agency	agency
-agencias	agencies	agencies
-agenda	diary	schedule
-agente	agent	agent
-agentes	agents	agents
-agosto	august	august
-agotamiento	exhaustion	exhaustion
-agraria	agrarian	agrarian
-agrega	add	add
-agregado	added	aggregate
-agregar	add	add
-agregó	added	added
-agresivo	aggresive	aggressive
-agricultores	farmers	farmers
-agricultura	agriculture	farming
-agrupa	group	groups
-agrupaciones	groups	groupings
-agrupación	grouping	group
-agrupan	grouped	group
-agrupar	gather	group
-agrícola	agricultural	agricultural
-agrícolas	agricultural	agricultural
-agua	water	water
-aguas	water	waters
-aguda	acute	sharp
-agudo	acute	acute
-aguja	needle	needle
-agujero	hole	hole
-agujeros	holes	holes
-agustín	agustin	agustin
-ah	ah	ah
-ahora	now	now
-ahí	there	there
-air	air	air
-aire	air	air
-aislada	isolated	isolated
-aisladas	isolated	isolated
-aislado	isolated	isolated
-aislados	isolated	isolated
-aislamiento	isolation	isolation
-ajedrez	chess	chess
-al	to the	to the
-ala	wing	to
-alan	alan	alan
-alas	wings	wings
-alba	alba	sunrise
-albania	albania	albania
-alberga	hosts	houses
-alberto	alberto	alberto
-album	album	album
-alcalde	mayor	mayor
-alcalá	alcala	alcala
-alcance	scope	scope
-alcanos	alkanes	alkanes
-alcanza	reaches	achieves
-alcanzado	reached	reached
-alcanzan	reach	they reach
-alcanzando	reaching	reaching
-alcanzar	reach	reach
-alcanzaron	reached	reached
-alcanzó	reached	reached
-alchemist	alchemist	alchemist
-alcohol	alcohol	alcohol
-alcoholes	alcohols	spirits
-aldea	village	village
-aldeas	villages	villages
-aleaciones	alloy	alloys
-aleación	alloy	alloy
-alegre	cheerful	cheerful
-alegría	joy	joy
-alejado	remote	remote
-alejados	distant	far away
-alejandro	alejandro	alexander
-alejandría	alexandria	would move away
-alelo	allele	allele
-alelos	alleles	alleles
-alemana	german	german
-alemanas	german	german
-alemanes	germans	germans
-alemania	germany	germany
-alemán	german	german
-alerta	alert	alert
-alex	alex	alex
-alexander	alexander	alexander
-alfa	alpha	alpha
-alfabetización	alphabetization	literacy
-alfabeto	alphabet	alphabet
-alfonso	alfonzo	alfonso
-alfred	alfred	alfred
-alfredo	alfredo	alfred
-algas	algae	algae
-algo	something	something
-algodón	cotton	cotton
-algoritmo	algorithm	algorithm
-algoritmos	algorithmes	algorithms
-alguien	someone	someone
-alguna	some	any
-algunas	some	some
-alguno	some	any
-algunos	some	some
-algún	some	some
-ali	ali	ali
-aliada	allied	ally
-aliadas	allies	allies
-aliado	allied	ally
-aliados	allies	allies
-alianza	alliance	alliance
-alianzas	alliances	alliances
-alice	alice	alice
-alimentación	feeding	feeding
-alimento	food	food
-alimentos	food	foods
-alineados	aligned	aligned
-all	all	there
-allan	allan	allan
-allen	allen	allen
-allmusic	all music	allmusic
-allá	further	there
-allí	there	there
-alma	soul	soul
-almacenados	stored	stored
-almacenamiento	storage	storage
-almacenar	store	to stock
-almas	souls	souls
-almirante	admiral	admiral
-alonso	alonso	alonso
-alpes	alpes	alps
-alquimia	alchemy	alchemy
-alquimista	alchemist	alchemist
-alquimistas	alchemists	alchemists
-alrededor	around	around
-alrededores	surroundings	surroundings
-alta	high	high
-altamente	highly	highly
-altas	high	high
-alteraciones	alterations	alterations
-alteración	altering	disturbance
-alterar	alter	alter
-alterna	alternating	alternating
-alternativa	alternative	alternative
-alternativas	alternative	alternatives
-alternativo	alternative	alternative
-altiplano	plateau	plateau
-altitud	altitude	altitude
-alto	high	high
-altos	high	high
-altruismo	altruism	altruism
-altura	height	height
-alturas	heights	heights
-alucinaciones	hallucinations	hallucinations
-aluminio	aluminum	aluminum
-alumno	student	student
-alumnos	students	students
-alusión	allusion	allusion
-am	am	a.m
-ama	loves	loves
-amanecer	dawn	dawn
-amante	lover	lover
-amantes	lovers	lovers
-amar	to love	to love
-amaranta	amaranth	amaranth
-amarilla	yellow	yellow
-amarillo	yellow	yellow
-amazonas	amazons	amazon
-ambas	both	both
-ambiental	environmental	environmental
-ambientales	environmental	environmental
-ambiente	environment	environment
-ambientes	environment	environments
-ambigüedad	ambiguity	ambiguity
-ambos	both	both of them
-amenaza	threat	threat
-amenazas	threats	threats
-america	america	america
-american	american	american
-americana	american	american
-americanas	americans	american
-americano	american	american
-americanos	american	american people
-amiga	friend	friend
-amigo	friend	friend
-amigos	friends	friends
-aminoácido	amino acid	amino acid
-aminoácidos	amino acids	amino acids
-amistad	friendship	friendship
-amo	love	love
-amor	love	love
-amorosa	loving	loving
-amplia	wide	wide
-ampliación	expansion	extension
-ampliamente	widely	widely
-ampliar	enlarge	enlarge
-amplio	large	large
-amplios	wide	spacious
-amplitud	largeness	amplitude
-amplió	increase	large
-américa	america	america
-américas	americas	americas
-an	an	an
-ana	ana	ana
-anal	anal	anal
-analiza	analyze	analyze
-analizar	analyze	analyze
-analogía	analogy	analogy
-analítica	analytical	analytics
-anarquismo	anarchism	anarchism
-anarquista	anarchist	anarchist
-anarquistas	anarchists	anarchists
-anarquía	anarchy	anarchy
-anatolia	anatolia	anatolia
-anatomía	anatomy	anatomy
-ancestro	ancestor	ancestor
-ancestros	ancestors	ancestors
-ancha	wide	wide
-ancho	width	width
-anciano	elder	old man
-ancianos	elderly	elderly
-andalucía	andalusia	andalusia
-anderson	anderson	anderson
-andes	andes	andes
-andina	andean	andean
-andrea	andrea	andrea
-andrew	andrew	andrew
-andré	andre	andré
-andrés	andrew	andrew
-andrómeda	andromeda	andromeda
-andy	andy	andy
-anemia	anemia	anemia
-anexión	annexation	annexation
-anfibios	amphibian	amphibians
-angiospermas	angiosperm	angiosperms
-anglosajona	anglo-saxon	anglo-saxon
-anglosajón	anglo-saxon	anglo-saxon
-angular	angular	angular
-angustia	anguish	anguish
-anillo	ring	ring
-anillos	rings	rings
-animación	animations	animation
-animada	animated	lively
-animados	animated	animated
-animal	animal	animal
-animales	animals	animals
-anime	anime	anime
-aniversario	anniversary	anniversary
-anna	anna	anna
-anne	anne	anne
-ano	anus	year
-ansiedad	anxiety	anxiety
-ante	before	before
-antecedente	antecedent	antecedent
-antecedentes	antecedents	background
-antecesor	predecessor	ancestor
-antepasado	ancestor	ancestor
-antepasados	ancestors	ancestors
-anterior	previous	previous
-anteriores	previous	previous
-anterioridad	anteriority	anteriority
-anteriormente	previously	previously
-antes	before	before
-antibióticos	antibiotics	antibiotics
-anticuerpos	antibodies	antibodies
-antigua	ancient	ancient
-antiguamente	formerly	formerly
-antiguas	ancient	ancient
-antiguo	ancient	old
-antiguos	former	ancient
-antigüedad	antique	antiquity
-antillas	antilles	antilles
-antipsicóticos	antipsychotics	antipsychotics
-antisemitismo	anti-semitism	anti-semitism
-antivirales	antiviral	antiviral
-antología	anthology	anthology
-anton	anton	anton
-antonella	antonella	antonella
-antonio	antonio	antonio
-antropogénico	anthropogenics	anthropogenic
-antropología	anthropology	anthropology
-antropólogos	anthropologists	anthropologists
-antártica	antarctica	antarctica
-antártico	antarctic	antarctic
-antártida	antarctica	antarctica
-antígenos	antigen	antigens
-anual	annual	annual
-anuales	annual	yearly
-anualmente	yearly	annually
-anunciado	announced	announced
-anuncio	advertising	ad
-anuncios	advertisements	advertisements
-anunció	announced	ad
-análisis	analysis	analysis
-análogo	analogous	analogous
-anónima	anonymous	anonymous
-aparato	aparatus	apparatus
-aparatos	appliances	appliances
-aparece	appears	appears
-aparecen	appear	appear
-aparecer	appear	appear
-aparecido	appeared	appeared
-apareciendo	appearing	appearing
-aparecieron	appeared	appeared
-apareció	showed up	showed up
-aparecía	appeared	appeared
-aparente	apparent	apparent
-aparentemente	apparently	apparently
-apariciones	apparitions	appearances
-aparición	appearance	appearance
-apariencia	appearence	appearance
-apartado	paragraph	pulled apart
-apartamento	apartment	apartment
-aparte	apart	apart
-apego	attachment	attachment
-apellido	last name	last name
-apenas	barely	barely
-apertura	opening	opening
-apetito	appetite	appetite
-aplica	applied	apply
-aplicable	applicable	applicable
-aplicaciones	applications	applications
-aplicación	application	application
-aplicada	applied	applied
-aplicadas	applied	applied
-aplicado	applied	applied
-aplican	apply	apply
-aplicando	applying	applying
-aplicar	apply	apply
-aplicarse	apply	apply
-aplicó	applied	applied
-apocalipsis	apocalypses	apocalypse
-apogeo	peak	apogee
-apolo	apollo	apollo
-aporta	provides	brings
-aportaciones	contributions	contributions
-aportación	prokaryotes	input
-aportan	provide	bring
-aportar	contribute	contribute
-aporte	contribution	input
-aportes	contributions	contributions
-aportó	contribution	contributed
-apoya	supports	supports
-apoyada	supported	supported
-apoyado	supported	supported
-apoyan	support	support
-apoyar	support	support
-apoyo	support	support for
-apoyó	support	support for
-aprecia	appreciates	appreciates
-apreciar	appreciate	to appreciate
-aprender	learn	to learn
-aprendiz	apprentice	apprentice
-aprendizaje	learning	learning
-aprendió	learned	learned
-aprobación	approval	approval
-aprobada	approved	approved
-aprobado	approved	approved
-aprobó	approved	approved
-apropiado	appropriate	appropriate
-aprovechamiento	exploitation	exploitation
-aprovechando	taking advantage	taking advantage
-aprovechar	benefit	to take advantage of
-aprovechó	took advantage	took advantage
-aproximaciones	approximation	approaches
-aproximación	approach	approach
-aproximada	approximate	approximate
-aproximadamente	approximately	approximately
-aproximado	approximate	approximate
-aptitud	fitness	fitness
-apuntan	point	aim
-apéndice	appendix	appendix
-apóstoles	apostles	apostles
-aquel	that	that
-aquella	that	that
-aquellas	those	those
-aquello	that	that
-aquellos	those	those
-aquiles	achilles	achilles
-aquino	aquino	not here
-aquél	that	that
-aquí	here	here
-arabia	arabia	arabia
-aragón	aragon	aragon
-arcadio	arcadio	arcadio
-arcaico	archaic	archaic
-archaea	archaea	archaea
-archipiélago	archipelago	archipelago
-archivo	archive	archive
-archivos	files	records
-arcilla	clay	clay
-arco	arc	arc
-arcos	arches	bows
-arena	sand	sand
-argel	algiers	algiers
-argelia	algeria	algeria
-argentina	argentina	argentina
-argentinas	argentinian	argentina
-argentino	argentinian	argentinian
-argentinos	argentinian	argentines
-argumenta	argues	argue
-argumentan	argue	they argue
-argumentando	arguing	arguing
-argumento	argument	argument
-argumentos	arguments	arguments
-arias	arias	arias
-ariel	ariel	ariel
-aristocracia	aristocracy	aristocracy
-aristotélica	aristotelian	aristotelian
-aristóteles	aristotle	aristotle
-aritmética	arithmetic	arithmetic
-arma	weapon	weapon
-armada	navy	navy
-armadas	armed	armed
-armado	armed	armed
-armados	armed	armed
-armando	armando	assembling
-armas	guns	weapons
-armonía	harmony	harmony
-armstrong	armstrong	armstrong
-armónica	harmonic	harmonica
-arn	arn	arn
-arnm	marn	arnm
-arnold	arnold	arnold
-arqueas	archaeas	archaea
-arqueología	archeology	archeology
-arqueológica	archaeological	archaeological
-arqueológicas	archaeological	archaeological
-arqueológico	archaeological	archaeological
-arqueológicos	archaeological	archaeological
-arquitecto	architect	architect
-arquitectos	architect	architects
-arquitectura	architecture	architecture
-arquitectónico	architectural	architectural
-arquímedes	archimedes	archimedes
-arreglo	arrangement	arrangement
-arreglos	arrangements	arrangements
-arriba	up above	above
-arroyo	stream	stream
-arroz	rice	rice
-art	art	art
-arte	art	art
-artefactos	artifacts	artifacts
-arteria	artery	artery
-arterial	arterial	arterial
-arterias	arteries	arteries
-artes	arts	arts
-artesanos	craftsmen	craftsmen
-artesanía	crafts	crafts
-arthur	autor	arthur
-articulaciones	articulations	joints
-articulación	articulation	joint
-artificial	artificial	artificial
-artificiales	artificial	artificial
-artillería	artillery	artillery
-artista	artist	artist
-artistas	artists	artists
-arts	arts	arts
-arturo	arturo	arthur
-artículo	article	article
-artículos	artifacts	articles
-artística	artistic	artistic
-artísticas	artistic	artistic
-artístico	artistic	artistic
-artísticos	artistic	artistic
-arzobispo	archbishop	archbishop
-as	as	ace
-asamblea	assembly	assembly
-ascendencia	ancestry	ancestry
-ascenso	ascent	ascent
-ascii	ascii	ascii
-asegura	ensures	ensures
-aseguran	afirm	they assure
-asegurar	ensure	ensure
-aseguró	assure	assured
-asentamiento	settlement	settlement
-asentamientos	settlement	settlements
-asesinado	murdered	murdered
-asesinados	assassinated	murdered
-asesinato	assassination	murder
-asesinatos	murders	murders
-asexual	asexual	asexual
-asia	asia	asia
-asigna	assigned	assign
-asignación	assignment	assignment
-asignado	assigned	assigned
-asignar	assign	to assign
-asimilación	assimilation	assimilation
-asimismo	aswell	likewise
-asistencia	assistance	assistance
-asistente	assistant	assistant
-asistir	assist	assist
-asistió	attended	attended
-asiática	asian	asian
-asiático	asian	asian
-asiáticos	asian	asians
-asocia	associates	associate
-asociaciones	associations	associations
-asociación	association	association
-asociada	associated	associate
-asociadas	associated	associated
-asociado	associated	associated
-asociados	associated	associates
-asocian	associate	associate
-aspecto	appearence	appearance
-aspectos	aspects	aspects
-asperger	asperger	asperger
-association	association	association
-asteroides	asteroids	asteroids
-astronomía	astronomy	astronomy
-astronómica	astronomical	astronomical
-astros	stars	stars
-astrónomo	astronomer	astronomer
-astrónomos	astronomers	astronomers
-asturias	asturias	asturias
-asume	assume	assume
-asumir	assume	assume
-asumió	assume	assumed
-asunción	asuncion	assumption
-asunto	matter	affair
-asuntos	subject, topic; issue; thing; affair; case; concern	affairs
-así	like that	so
-at	at	at
-ataca	attacks	attacks
-atacan	attack	they attack
-atacar	attack	attack
-atacaron	attacked	attacked
-atacó	attacked	attacked
-ataque	attack	attack
-ataques	attacks	attacks
-atenas	athens	athens
-atención	attention	attention
-atendiendo	attending	attending
-atenea	athena	athena
-atentado	attempt	attempt
-atentados	attacks	attacks
-atlas	atlas	atlas
-atletas	athletes	athletes
-atletismo	athletics	athletics
-atlántica	atlantic	atlantic
-atlántico	atlantic	atlantic
-atmosférica	atmospheric	atmospheric
-atmosférico	atmospheric	atmospheric
-atmósfera	atmosphere	atmosphere
-atp	atp	atp
-atracción	attraction	attraction
-atractivo	attraction	attractive
-atraen	attract	attract
-atraer	attract	attract
-atrajo	attracted	attracted
-atravesar	cross	cross
-atraviesa	crosses	pierces
-atraído	attracted	attracted
-atribuido	attributed	attributed
-atributos	attributes	attributes
-atribuye	attributes	attributes
-atribuyen	attribute	attribute
-atrás	ago	behind
-atómica	atomic	atomic
-atómico	atomic	atomic
-atómicos	atomics	atomic
-audición	audition	hearing
-audiencia	audience	audience
-audiencias	audience	hearings
-audio	audio	audio
-auge	rise	boom
-auguste	auguste	august
-augusto	august	august
-aumenta	increases	increases
-aumentado	increased	increased
-aumentan	increase	increase
-aumentando	increasing	increasing
-aumentar	increase	increase
-aumento	increase	increase
-aumentó	increase	increase
-aun	yet	yet
-aunque	although	even if
-aureliano	aureliano	aurelian
-ausencia	absence	absence
-austin	austin	austin
-austral	southern	southern
-australia	australia	australia
-australiana	australian	australian
-australiano	australian	australian
-australianos	australian	australians
-austria	austria	austria
-austrohúngaro	austro-hungarian	austro-hungarian
-autismo	autism	autism
-autista	autist	autistic
-autistas	autistic	autistic
-auto	car	car
-autoestima	self-esteem	self esteem
-automática	automatic	automatic
-automáticamente	automatically	automatically
-automóvil	automobile	car
-automóviles	cars	automobiles
-autonomía	autonomy	autonomy
-autopista	highway	highway
-autor	author	author
-autora	author	author
-autores	authors	authors
-autoridad	authority	authority
-autoridades	authorities	authorities
-autorización	authorization	authorization
-autorretrato	self-portrait	self-portrait
-autoría	authorship	authorship
-auténtica	authentic	authentic
-auténtico	authentic	authentic
-autónoma	autonomous	autonomous
-autónomas	autonomous	autonomous
-autónomo	autonomous	autonomous
-auxiliar	assistant	assistant
-avance	advance	advance
-avances	advances	advances
-avanza	advances	get moving
-avanzada	advanced	advanced
-avanzadas	advanced	advanced
-avanzado	advanced	advanced
-avanzados	advanced	advanced
-avanzar	move forward	move along
-ave	bird	bird
-avenida	avenue	avenue
-aventura	adventure	adventure
-aventuras	adventures	adventures
-aves	birds	birds
-aviación	aviation	aviation
-aviones	aircraft	planes
-aviso	notice	notice
-avión	plane	plane
-avril	avril	avril
-award	award	award
-awards	awards	awards
-axiomas	axioms	axioms
-axl	axl	axl
-axones	axon	axons
-axón	axon	axon
-ayuda	help	help
-ayudado	helped	helped
-ayudan	help	help
-ayudar	help	help
-ayudaron	helped	they helped
-ayudó	helped	helped
-ayuntamiento	city council	town hall
-azar	chance	random
-azida	azide	azide
-azufre	sulfur	sulfur
-azul	blue	blue
-azules	blue	blue
-azúcar	sugar	sugar
-azúcares	sugars	sugars
-aérea	aerial	aerial
-aéreas	aerials	aerial
-aéreo	plane	aerial
-añade	add	add
-añaden	add	add
-añadido	added	added
-añadiendo	adding	adding
-añadir	add	add
-añadió	added	added
-año	year	year
-años	years	years
-aún	even	yet
-b	b	b
-babilonia	babylon	babylon
-baby	baby	baby
-bach	bach	bach
-back	back	back
-bacon	bacon	bacon
-bacteria	bacteria	bacterium
-bacteriana	bacterial	bacterial
-bacterianas	bacterial	bacterial
-bacterias	bacteria	bacteria
-bad	bad	bad
-bahía	bay	bay
-baile	dance	dance
-baja	low	low
-bajas	low	low
-bajista	bass player	bass player
-bajo	low	low
-bajos	low	low
-balada	ballad	ballad
-baladas	ballads	balads
-balance	balance	balance
-balanza	balance	balance
-balcanes	balkans	balkans
-ball	ball	ball
-ballet	ballet	ballet
-baloncesto	basketball	basketball
-balonmano	handball	handball
-baltimore	baltimore	baltimore
-balón	ball	ball
-banco	bank	bank
-bancos	banks	banks
-band	band	band
-banda	band	band
-bandas	bands	bands
-bandera	flag	flag
-banderas	flags	flags
-bando	side	side
-bandos	sides	sides
-bang	bang	bang
-bar	bar	pub
-barbar	barbar	barbar
-barcelona	barcelona	barcelona
-barco	ship	ship
-barcos	boats	boats
-barra	bar	bar
-barras	bars	bars
-barrera	barrier	barrier
-barreras	barriers	barriers
-barrett	barrett	barrett
-barrio	neighborhood	neighborhood
-barrios	neighborhood	neighborhoods
-barro	mud	mud
-barroca	baroque	baroque
-barroco	baroque	baroque
-bart	bart	bart
-bartolomé	bartolomé	bartholomew
-barça	barça	barça
-barómetro	barometer	barometer
-basa	based	based
-basaba	based	based
-basada	based	based
-basadas	based	based
-basado	based	based
-basados	based	based
-basan	based	base
-base	base	base
-bases	bases	bases
-basta	enough	enough
-bastante	quite	quite
-bastantes	quite a few	enough
-basura	waste	garbage
-basándose	based	basing
-basílica	basilica	basilica
-basó	base	based
-batalla	battle	battle
-batallas	battles	battles
-baterista	drummer	drummer
-batería	battery	battery
-baterías	battery	batteries
-batista	batista	cambric
-batman	batman	batman
-bautismo	baptism	baptism
-bautista	baptist	baptist
-baño	bathroom	bath
-bbc	bbc	bbc
-be	esta	be
-beatles	beatles	beatles
-beber	drinking water	to drink
-bebida	drink	drink
-bebidas	drinks	drinks
-bebé	baby	baby
-beethoven	beethoven	beethoven
-belice	belize	belize
-bell	bell	bell
-bella	bella	beautiful
-bellas	beautiful	beautiful
-belleza	beauty	beauty
-bello	beautiful	beautiful
-benedetti	benedetti	benedetti
-beneficio	benefit	benefit
-beneficios	benefits	benefits
-benito	benito	benedict
-benjamin	benjamin	benjamin
-benzoína	benzoine	benzoin
-berlín	berlin	berlin
-bermudas	bermudas	bermuda
-bernabéu	bernabeu	bernabéu
-bernard	bernard	bernard
-bernardo	bernard	bernard
-besante	bezant	kissing
-beso	kiss	kiss
-best	best	best
-bestia	beast	beast
-beta	beta	beta
-biblia	bible	bible
-bibliografía	bibliography	bibliography
-biblioteca	library	library
-bibliotecas	libraries	libraries
-bielorrusia	belarus	belarus
-bien	good	all right
-bienes	goods	goods
-bienestar	wellfare	wellness
-big	big	big
-bill	bill	bill
-billy	billy	billy
-binario	binary	binary
-biodiversidad	biodiversity	biodiversity
-biografía	biography	biography
-biografías	biographies	biographies
-biología	biology	biology
-biológica	biological	biological
-biológicas	biological	biological
-biológico	biological	biological
-biológicos	biological	biological
-bioma	biome	biome
-biomas	biomes	biomes
-biomasa	biomass	biomass
-bioquímica	biochemistry	biochemistry
-biosfera	biosphere	biosphere
-bioética	bioethic	bioethics
-bit	bit	bit
-bizantina	byzantine	byzantine
-bizantino	byzantine	byzantine
-biógrafo	biographer	biographer
-biólogos	biologists	biologists
-blair	blair	blair
-blake	blake	blake
-blanca	white	white
-blancas	white	white
-blanco	white	white
-blancos	whites	whites
-bleach	bleach	bleach
-blog	blog	blog
-blood	blood	blood
-bloque	block	block
-bloqueo	block	blocking
-bloques	blocks	blocks
-blue	blue	blue
-blues	blues	blues
-bluetooth	bluetooth	bluetooth
-bluray	bluray	bluray
-bob	bob	bob
-bobby	bobby	bobby
-bobinas	coils	coils
-boca	mouth	mouth
-boda	wedding	wedding
-bodas	weddings	wedding
-bogotá	bogota	bogota
-bohr	bohr	bohr
-bola	ball	ball
-bolivia	bolivia	bolivia
-boliviano	bolivian	bolivian
-bolsa	bag	bag
-bolívar	bolivar	bolivar
-bomba	bomb	bomb
-bombardeo	bombing	bombing
-bombardeos	bombings	shelling
-bombas	bombs	bombs
-bonaparte	bonaparte	bonaparte
-book	book	book
-books	books	books
-boom	boom	boom
-borde	edge	edge
-border|px	border	border | px
-bordes	edges	edges
-bordo	board	board
-borges	borges	borges
-bosque	forest	forest
-bosques	forests	forests
-botánica	botany	botany
-botón	button	button
-boys	boys	boys
-brando	brando	brando
-braque	braque	braque
-brasil	brazil	brazil
-brasileña	brasilian woman	brazilian
-brasileño	brazilian	brazilian
-brazo	arm	arm
-brazos	arms	arms
-break	break	break
-bretaña	britain	brittany
-breton	breton	breton
-breve	brief	brief
-brevemente	briefly	briefly
-breves	brief	brief
-brian	brian	brian
-brillante	brilliant	sparkly
-brillantes	brilliant	bright
-brillo	brightness	brightness
-brinda	provides	provides
-britney	britney	britney
-británica	british	british
-británicas	british	british
-británico	british	british
-británicos	british	british
-bronce	bronze	bronze
-brote	outbreak	outbreak
-brotes	outbreaks	sprouts
-brown	brown	brown
-bruce	bruce	bruce
-bruma	mist	mist
-bruno	bruno	bruno
-bruselas	brussels	brussels
-bruto	stupid	stupid
-budismo	buddhism	buddhism
-buen	good	good
-buena	good	good
-buenas	good	good
-buendía	goodday	good day
-bueno	good	good
-buenos	good	good ones
-bulgaria	bulgaria	bulgaria
-buques	ships	ships
-burgos	burgos	burgos
-burguesa	bourgeois	bourgeois
-burguesía	bourgeoisie	bourgeoisie
-burton	burton	burton
-bus	bus	bus
-busca	searches	search
-buscaba	looked	i was looking for
-buscan	search	looking for
-buscando	looking	searching
-buscar	search	search
-buscó	sought	i search
-bush	bush	bush
-business	business	business
-by	por	by
-báltico	baltic	baltic
-básica	basic	basic
-básicamente	basically	basically
-básicas	basics	basic
-básico	basics	basic
-básicos	basic	basic
-béisbol	baseball	baseball
-bélgica	belgium	belgium
-bóveda	vault	vault
-búsqueda	search	search
-c	c	c
-ca	as	ac
-caballero	gentleman	gentleman
-caballeros	knights	gentlemen
-caballería	cavalry	chivalry
-caballo	horse	horse
-caballos	horses	horses
-cabe	fits	fits
-cabecera	header	headboard
-cabello	hair	hair
-cabeza	head	head
-cabezas	heads	heads
-cable	cable	cable
-cables	cables	cables
-cabo	end	cape
-cacao	cocoa	cocoa
-cada	each	each
-cadena	station	chain
-cadenas	networks	chains
-cadáver	corpse	corpse
-cadáveres	corpses	corpses
-cae	falls	falls off
-caen	fall	fall
-caer	fall	fall
-café	coffee	coffee
-cairo	cairo	cairo
-caja	box	box
-calcio	calcium	calcium
-calcula	calculates	calculate
-calcular	calculate	calculate
-calderón	calderón	pilot whale
-calendario	calendar	calendar
-calentamiento	warming	heating
-calibre	caliber	caliber
-calidad	quality	quality
-caliente	hot	hot
-calientes	hot	hot
-califica	qualify	qualify
-calificó	qualified	qualified
-caliza	limestone	limestone
-calle	street	street
-calles	streets	streets
-calor	heat	hot
-calzado	footwear	footwear
-cama	bed	bed
-cambia	changes	change
-cambiado	changed	changed
-cambian	change	change
-cambiando	changing	changing
-cambiar	change	change
-cambiaron	they changed	they changed
-cambio	change	change
-cambios	changes	changes
-cambió	changed	change
-camboya	camboya	cambodia
-cambridge	cambridge	cambridge
-cameron	cameron	cameron
-camilo	camilo	camilo
-camino	way	path
-caminos	roads	roads
-camisas	shirts	shirts
-camiseta	shirt	shirt
-camp	camp	camp
-campaña	campaign	bell
-campañas	campaigns	bells
-campeonato	championship	championship
-campeonatos	championships	championships
-campeones	champions	champions
-campesino	farmer	farmer
-campesinos	farmers	farmers
-campeón	champion	champion
-campo	countryside	field
-campos	fields	fields
-canadiense	canadian	canadian
-canadienses	canadian	canadians
-canadá	canada	canada
-canal	channel	channel
-canales	channels	channels
-canarias	canary	canary islands
-canciller	chancellor	chancellor
-canciones	songs	songs
-canción	song	song
-candidato	candidates	candidate
-candidatos	candidates	candidates
-candidatura	candidacy	candidacy
-candidiasis	candidiasis	yeast infection
-canon	canon	canyon
-cant	can't	cant
-cantando	singing	singing
-cantante	singer	singer
-cantantes	singers	singers
-cantar	sing	sing
-cantidad	quantity	quantity
-cantidades	amounts	quantities
-canto	sing	singing
-cantos	songs	songs
-caos	chaos	chaos
-capa	layer	cap
-capaces	capable	able
-capacidad	capacity	capacity
-capacidades	capacities	capacities
-capas	layers	layers
-capaz	able	able
-capilares	capillary	capillaries
-capilla	chapel	chapel
-capital	capital	capital
-capitales	capitals	capitals
-capitalismo	capitalism	capitalism
-capitalista	capitalist	capitalist
-capitol	capitol	capitol
-capitán	captain	captain
-captación	catchment	catchment
-captar	capture	capture
-captura	capture	capture
-capturado	captured	captured
-capturados	captured	captured
-capturar	capture	capture
-capítulo	chapter	chapter
-capítulos	chapters	chapters
-cara	face	face
-caracas	caracas	caracas
-caracteres	characters	characters
-caracteriza	characterizes	characterizes
-caracterización	characterization	characterization
-caracterizada	characterized	characterized
-caracterizado	characterized	characterized
-caracterizan	characterize	characterize
-caracterizó	characterized	characterized
-característica	characteristic	characteristic
-características	characteristics	features
-característico	characteristic	characteristic
-característicos	characteristics	characteristic
-caras	faces	faces
-caravasar	caravanserai	caravanserai
-carbohidratos	carbohydrates	carbohydrates
-carbono	carbon	carbon
-carbón	coal	coal
-cardenal	cardinal	cardinal
-cardiovascular	cardiovascular	cardiovascular
-cardíaco	cardiac	cardiac
-carece	lacks	lacks
-carecen	lack	they lack
-carencia	lack	lack
-carga	load	load
-cargadas	loaded	loaded
-cargado	loaded	loaded
-cargas	loads	loads
-cargo	position	position
-cargos	charges	charges
-caribe	caribbean	caribbean
-caridad	charity	charity
-carl	carl	carl
-carlos	carlos	charles
-carmen	carmen	carmen
-carnaval	carnival	carnival
-carne	meat	meat
-caro	expensive	expensive
-carpelos	carpels	carpels
-carranza	carranza	carranza
-carrera	career	career
-carreras	races	careers
-carretera	highway	highway
-carreteras	roads	roads
-carro	car	car
-carta	letter	letter
-cartagena	cartagena	cartagena
-cartago	carthage	carthage
-cartas	letters	letters
-carter	carter	sump
-cartografía	cartography	mapping
-cartón	cardboard	paperboard
-carácter	character	character
-casa	house	house
-casado	married	married
-casaron	married	they married
-casarse	get married	get marry
-casas	houses	houses
-cascada	waterfall	waterfall
-casco	helmet	helmet
-casi	almost	almost
-casillas	boxes	boxes
-caso	case	case
-casos	cases	cases
-castellana	castilian	castilian
-castellano	spanish	spanish
-castigo	punishment	punishment
-castilla	castile	castile
-castillo	castillo	castle
-castro	castro	castro
-casó	married	case
-catalana	catalan	catalan
-catalina	catalina	katherine
-cataluña	catalonia	catalonia
-catalán	catalan	catalan
-catedral	cathedral	cathedral
-categoría	category	category
-categoríaactores	category actors	category actors
-categoríafilósofos	category philosopher	categoryphilosophers
-categoríagrupos	catagories groups	categorygroups
-categoríahistoria	category history	categoryhistory
-categoríanovelas	category novels	category novels
-categorías	category	categories
-categoríaseries	category series	categories series
-categoríatérminos	category: terms	category terms
-cateto	leg	leg
-catetos	leg	legs
-catolicismo	catholicism	catholicism
-catorce	fourteen	fourteen
-catálogo	catalog	catalogue
-católica	catholic	catholic
-católico	catholic	catholic
-católicos	catholics	catholic
-causa	cause	cause
-causada	caused	caused
-causadas	caused	caused
-causado	caused	caused
-causan	cause	cause
-causando	caused	causing
-causante	causing	cause
-causar	causing	cause
-causas	causes	causes
-causó	caused	caused
-cavidad	cavity	cavity
-cavidades	cavities	cavities
-cayó	was taken	it fell
-caza	hunting	hunting
-caída	fall	drop
-caído	fallen	fallen
-caña	cane	cane
-cd	cd	cd
-celda	cell	cell
-celdas	cells	cells
-celebra	celebrated	celebrates
-celebraciones	celebrations	celebrations
-celebración	celebration	celebration
-celebrada	celebrated	held
-celebrado	celebrated	celebrated
-celebran	celebrated	celebrate
-celebrar	celebrate	celebrate
-celebró	celebrated	held
-celeste	celeste	light blue
-celestes	celestial	celestial
-cell	celula	cell
-celsius	celsius	celsius
-celular	cell	mobile
-celulares	celular	cell phones
-celulosa	cellulose	cellulose
-cementerio	cemetary	cemetery
-cena	dinner	dinner
-censo	census	census
-censura	censorship	censorship
-centenario	centenary	centenary
-center	center	center
-centra	focuses	centers
-centrada	centered	centered
-centrado	centered	centered
-central	central	central
-centrales	central	central
-centran	center	center
-centro	center	center
-centroamericana	central american	central american
-centroamérica	central america	central america
-centros	centers	centers
-centró	focused	center
-century	century	century
-cepa	strain	strain
-cepas	strains	strains
-cera	wax	wax
-cerca	near	close
-cercana	close	close
-cercanas	nearby	nearby
-cercano	nearby	near
-cercanos	nearby	nearby
-cercanía	proximity	closeness
-cercanías	vicinity	surroundings
-cerdo	hog	pork
-cerdos	pigs	pigs
-cereales	cereals	cereals
-cerebral	cerebral	cerebral
-cerebrales	brain	brain
-cerebro	brain	brain
-ceremonia	ceremony	ceremony
-ceremoniales	ceremonial	ceremonial
-ceremonias	ceremonies	ceremonies
-cero	zero	zero
-cerrada	closed	closed
-cerradas	closed	closed
-cerrado	closed	closed
-cerrar	close	close
-cerro	hill	hill
-cerros	hills	hills
-cerró	closed	hill
-certeza	certainty	certainty
-certificado	certificate	certificate
-cervantes	cervantes	cervantes
-cerveza	beer	beer
-cervical	cervical	cervical
-cerámica	ceramic	ceramics
-ch	ch	ch
-chaco	chaco	chaco
-chad	chad	chad
-championship	championship	championship
-chandler	chandler	chandler
-channel	channel	channel
-charles	charles	charles
-charlie	charlie	charlie
-che	che	che
-checa	czech	czech
-checoslovaquia	czechoslovakia	czechoslovakia
-chernóbil	chernobyl	chernobyl
-chiapas	chiapas	chiapas
-chica	girl	girl
-chicago	chicago	chicago
-chico	boy	boy
-chicos	boys	boys
-chihuahua	chihuahua	chihuahua
-chile	chile	chile
-chilena	chilean	chilean
-chileno	chilean	chilean
-chili	chili	chili
-china	china	china
-chino	chinese	chinese
-chinos	chinese	chinese
-chipre	cyprus	cyprus
-chocolate	chocolate	chocolate
-choice	choice	choice
-choque	shock	shock
-chris	chris	chris
-christian	christian	christian
-christopher	christopher	christopher
-chuck	chuck	chuck
-chávez	chavez	chavez
-cia	cia	inc
-cicerón	cicero	cicero
-ciclo	cycle	cycle
-ciclos	cycles	cycles
-cid	cid	cid
-ciego	blind	blind
-cielo	sky	sky
-cielos	heavens	heavens
-cien	one hundred	one hundred
-ciencia	science	science
-ciencias	science	science
-ciento	hundred	hundred
-cientos	hundreds	hundreds
-científica	scientific	scientific
-científicas	scientific	scientific
-científico	scientific	scientific
-científicos	scientists	scientists
-cierra	closes	close
-cierre	closing	closing
-cierta	certain	certain
-ciertamente	certainly	certainly
-ciertas	certain	certain
-cierto	certain	true
-ciertos	some	some
-cifra	figure	figure
-cifras	firgures	figures
-cilindro	cylinder	cylinder
-cima	top	top
-cinco	five	five
-cincuenta	fifty	fifty
-cine	movie theater	cinema
-cinematográfica	cinematographic	cinematographic
-cinetocoro	kinetochore	kinetochore
-cinta	videotape	headband
-cintas	tapes	tapes
-cinturón	belt	belt
-cinética	kinetic	kinetics
-circuito	circuit	circuit
-circuitos	circuits	circuits
-circula	circulates	circulates
-circulación	circulation	circulation
-circular	circular	circular
-circulares	circular	circular
-circuncisión	circumcision	circumcision
-circundante	surrounding	surrounding
-circunferencia	circumference	circumference
-circunstancia	circumstance	circumstance
-circunstancias	circumstances	circumstances
-cirugía	surgery	surgery
-cita	quote	appointment
-citada	quoted	quoted
-citado	aforementioned	aforementioned
-citados	mentioned	quoted
-citar	quote	quote
-citas	quotes	quotes
-citoesqueleto	cytoskeleton	cytoskeleton
-citoplasma	cytoplasm	cytoplasm
-city	city	city
-ciudad	city	city
-ciudadano	citizen	citizen
-ciudadanos	citizens	citizens
-ciudadanía	citizenship	citizenship
-ciudadela	citadel	citadel
-ciudades	cities	cities
-ciudadesestado	countrystate	citystate
-civil	civil	civil
-civiles	civilians	civilians
-civilizaciones	civilizations	civilizations
-civilización	civilization	civilization
-clado	clade	clade
-clara	clear	clear
-claramente	clearly	clearly
-claras	clear	clear
-claridad	clearly	clarity
-claro	light	clear
-claros	clear	clear
-clase	class	class
-clases	classes	lessons
-clasicismo	classicism	classicism
-clasifica	classified	classifies
-clasificaciones	classifications	classifications
-clasificación	classification	classification
-clasificado	classified	classified
-clasifican	classified	classify
-clasificar	classify	sort out
-clasificarse	classify	qualify
-claude	claude	claude
-claudio	claudio	claudio
-clave	password	key
-claves	key	keys
-clero	clergy	clergy
-cliente	client	client
-clientes	customers	customers
-clima	weather	weather
-climas	climates	climates
-climatología	climatology	climatology
-climática	climate	climatic
-climáticas	climatic	climatic
-climático	climate	climate
-climáticos	climatic	climatic
-clinton	clinton	clinton
-clonación	cloning	cloning
-cloro	chlorine	chlorine
-cloroplastos	chloroplasts	chloroplasts
-club	club	club
-clubes	clubs	clubs
-clásica	classic	classical
-clásicas	classics	classic
-clásico	classical	classic
-clásicos	classics	classics
-clínica	clinic	clinic
-clínicas	clinics	clinics
-clínico	clinic	clinical
-clínicos	clinical	clinical
-clítoris	clitoris	clitoris
-co	co	co
-coalición	coalition	coalition
-cobain	cobain	cobain
-cobertura	coverage	coverage
-cobra	charges	cobra
-cobre	copper	copper
-coca	coke	coke
-cocacola	coca cola	coke
-cocaína	cocaine	cocaine
-coche	coche	car
-cociente	quotient	quotient
-cocina	kitchen	kitchen
-codifica	encode	encode
-codificación	coding	coding
-codifican	encoding	encode
-coeficiente	coefficient	coefficient
-cognitiva	cognitive	cognitive
-cognitivas	cognitive	cognitive
-coherente	coherent	coherent
-cohesión	cohesion	cohesion
-coincide	coincides	match
-coinciden	match	match
-coincidir	coincide	coincide
-coito	intercourse	intercourse
-cola	tail	tail
-colaboración	colaboration	collaboration
-colaboradores	collaborators	collaborators
-colaboró	colaborated	collaborated
-colapso	collapse	collapse
-cold	cold	cold
-coldplay	coldplay	coldplay
-colecciones	collections	collections
-colección	collection	collection
-colectiva	collective	collective
-colectivo	collective	collective
-colectivos	collectives	collectives
-colegio	school	school
-colegios	colleges	colleges
-colesterol	cholesterol	cholesterol
-colinas	hills	hills
-college	college	college
-coloca	places	place
-colocar	placing	place
-colocó	placed	placed
-colombia	colombia	colombia
-colombiana	colombian	colombian
-colombiano	colombian	colombian
-colonia	colony	suburb
-colonial	colonial	colonial
-coloniales	colonial	colonial
-colonias	colonies	colonies
-colonización	colonization	colonization
-colonos	settlers	colonists
-color	color	color
-colorado	colorado	colorado
-colores	colors	colors
-columbia	columbia	columbia
-columna	column	column
-columnas	columns	columns
-colón	colombus	colon
-coma	comma	eat
-comandante	commander	commander
-combate	combat	combat
-combates	fighting	fighting
-combatientes	fighters	fighters
-combatir	fight	fight
-combina	combines	combines
-combinaciones	combinations	combinations
-combinación	combination	combination
-combinada	combined	combined
-combinado	combined	combined
-combinan	combine	combine
-combinar	mix	to combine
-combustible	fuel	fuel
-combustibles	fuels	fuels
-combustión	combustion	combustion
-comedia	comedy	comedy
-comedias	comedies	comedies
-comentario	commentary	commentary
-comentarios	comments	comments
-comentó	commented	commented
-comenzaba	began	started
-comenzado	started	started
-comenzando	starting	starting
-comenzar	start	start
-comenzaron	started	they started
-comenzó	started	started
-comer	eat	eat
-comercial	commercial	commercial
-comerciales	commercial	commercial
-comercialización	commercialization	commercialization
-comerciantes	traders	merchants
-comercio	commerce	commerce
-cometas	comets	kites
-comida	food	food
-comienza	begins	begins
-comienzan	start	begin
-comienzo	start	start
-comienzos	beginning	beginnings
-comillas	quotation marks	quotation marks
-comisión	commission	commission
-comité	commitee	committee
-commons	commons	commons
-como	as	how
-company	company	company
-compara	compare	compare
-comparable	comparable	comparable
-comparación	comparison	comparison
-comparada	compare	compared
-comparado	compared	compared
-comparar	to buy	compare
-comparte	share	share
-comparten	share	share
-compartida	shared	shared
-compartido	shared	shared
-compartir	share	share
-compatibilidad	compatibility	compatibility
-compatible	compatible	compatible
-compatibles	compatable	compatible
-compañero	partner	companion
-compañeros	companions	companions
-compañía	company	company
-compañías	companies	companies
-compensar	compensate	make up for
-competencia	competition	competition
-competencias	competence	competencies
-competiciones	competitions	competitions
-competición	competition	competition
-competir	compete	to compete
-competitividad	competitivity	competitiveness
-compilación	compilation	compilation
-compleja	complex	complex
-complejas	complex	complex
-complejidad	complexity	complexity
-complejo	complex	complex
-complejos	complexes	complexes
-complementaria	complementary	complementary
-complementarios	complementary	complementary
-complemento	complement	complement
-completa	completely	complete
-completamente	completely	completely
-completar	complete	to complete
-completas	complet	complete
-completo	fully	full
-completos	complete	full
-complicaciones	complications	complications
-complicada	complicate	complicated
-complicado	complicated	complicated
-compone	composed	make up
-componen	make up	make up
-componente	component	component
-componentes	components	components
-componer	write	to compose
-comportamiento	behavior	behavior
-comportamientos	behaviors	behaviors
-composiciones	compositions	compositions
-composición	composition	composition
-compositor	composer	composer
-compositores	composers	composers
-compra	purchase	purchase
-comprar	buy	to buy
-comprende	includes	understands
-comprenden	include	understand
-comprender	understand	understand
-comprendido	understood	understood
-comprensión	understanding	understanding
-comprobar	check	check
-compromiso	compromise	commitment
-compromisos	commitments	commitments
-compró	bought	i buy
-compuesta	composed	compound
-compuestas	composed	composite
-compuesto	compound	compound
-compuestos	compound	compounds
-compuso	composed	composed
-computación	computation	computing
-computador	computer	computer
-computadora	computer	computer
-computadoras	computers	computers
-computadores	computers	computers
-comuna	commune	commune
-comunes	common	common
-comunicaciones	communications	communications
-comunicación	communication	communication
-comunicar	communicate	communicate
-comunicarse	communicate	communicate
-comunidad	community	community
-comunidades	communities	communities
-comunismo	communism	communism
-comunista	communist	communist
-comunistas	communists	communists
-comunitario	community	community
-común	common	common
-comúnmente	commonly	commonly
-con	with	with
-concebido	conceived	conceived
-concebir	conceive	conceive
-concedió	granted	granted
-concentra	concentrates	concentrates
-concentraciones	concentrations	concentrations
-concentración	concentration	concentration
-concentrado	concentrated	concentrated
-concentran	concentrated	concentrate
-concepciones	conceptions	conceptions
-concepción	conception	conception
-concepto	concept	concept
-conceptos	concepts	concepts
-conceptual	conceptual	conceptual
-concibe	conceive	conceive
-conciencia	conscience	awareness
-concierto	concert	concert
-conciertos	concerts	concerts
-concilio	council	council
-concluir	conclude	conclude
-conclusiones	conclusions	conclusions
-conclusión	conclusion	conclusion
-concluye	concludes	concludes
-concluyó	finished	concluded
-concreta	concrete	concrete
-concretamente	specifically	specifically
-concretas	concrete	concrete
-concreto	concrete	concrete
-concretos	concrete	concrete
-concurso	contest	competition
-condado	county	county
-conde	count	count
-condena	condemns	sentence
-condenado	condemned	condemned
-condensación	condensation	condensation
-condiciones	conditions	terms
-condición	condition	condition
-conducción	conduction	driving
-conduce	leads	she drives
-conducido	conducted	driven
-conducir	drive	drive
-conducta	conduct	conduct
-conductas	behaviors	behaviors
-conductividad	conductivity	conductivity
-conducto	conduit	conduit
-conductor	conductor	driver
-conductores	drivers	conductors
-conductos	duct	ducts
-condujeron	conducted	they drove
-condujo	directed	drove
-condón	condom	condom
-conecta	connect	connect
-conectados	connected	connected
-conectan	connect	connect
-conectar	connect	connect
-conexiones	connections	connections
-conexión	connection	connection
-confederaciones	confederations	confederations
-confederación	confederation	confederacy
-conferencia	conference	conference
-conferencias	conferences	conferences
-confianza	trust	trust
-confiere	confer	confers
-configuración	configuration	setting
-confirmado	confirmed	confirmed
-confirmó	confirmed	confirmed
-conflicto	conflict	conflict
-conflictos	conflicts	conflicts
-conforma	conforms	conform
-conformación	conformation	conformation
-conformada	conformed	shaped
-conformado	conformed	conformed
-conforman	make up	make up
-conforme	as	according
-confundir	confuse	confuse
-confundirse	confused	get confused
-confusión	confusion	confusion
-congo	congo	congo
-congreso	congress	congress
-conjugación	conjugation	conjugation
-conjunciones	conjunction	conjunctions
-conjunción	conjunction	conjunction
-conjunta	joint	joint
-conjuntamente	jointly	jointly
-conjunto	conjunct	set
-conjuntos	sets	sets
-conlleva	leads	entails
-cono	cone	cone
-conoce	known	known
-conocemos	know	we know
-conocen	know	know
-conocer	known	know
-conocida	known	known
-conocidas	known	known
-conocido	known	known
-conocidos	known	known
-conocieron	meet	they met
-conocimiento	knowledge	knowledge
-conocimientos	knowledge	knowledge
-conoció	met	she met
-conocía	knew	knew
-conocían	known	they knew
-conquista	conquest	conquest
-conquistar	conquer	conquer
-conquistó	conquered	conquered
-consciente	conscient	aware
-conscientes	aware	conscious
-consecución	attainment	achievement
-consecuencia	consequence	consequence
-consecuencias	consequences	consequences
-consecuente	consequences	consequent
-consecuentemente	consequently	consequently
-consecutivas	consecutive	consecutive
-consecutivos	consecutive	in a row
-conseguido	acquired	got
-conseguir	get	get
-consejo	advise	advice
-consejos	councils	tips
-consenso	consensus	consensus
-consentimiento	consent	consent
-conserva	kept	preserves
-conservación	conservation	conservation
-conservado	conserved	conserved
-conservadores	conservators	conservatives
-conservan	preserve	they keep
-conservar	preserve	keep
-considera	consider	considers
-consideraba	considered	considered
-consideraban	considered	they considered
-considerable	considerables	considerable
-considerablemente	considerably	considerably
-consideraciones	considerations	considerations
-consideración	consideration	consideration
-considerada	considered	considered
-consideradas	considered	considered
-considerado	considered	considered
-considerados	considered	considered
-consideramos	consider	we consider
-consideran	considered	consider
-considerando	considering	considering
-considerar	considerate	to consider
-consideraron	considered	they considered
-considerarse	considered	consider
-consideró	considered	i consider
-consigo	with it	with him
-consigue	gets	get
-consiguen	get	they get
-consiguiendo	getting	getting
-consiguiente	consequent	consequent
-consiguieron	gained	they got
-consiguió	got	got
-consiste	consists	consists
-consisten	consist	consist
-consistencia	consistancy	consistency
-consistente	consistent	consistent
-consistió	consisted	consisted
-consistía	consisted	consisted
-consolidación	consolidation	consolidation
-consolidar	consolidate	consolidate
-consolidó	consolidated	consolidated
-consonante	consonant	consonant
-conspiración	conspiracy	conspiracy
-consta	features	consists
-constancia	constancy	constancy
-constante	constant	constant
-constantemente	constantly	constantly
-constantes	constant	constants
-constantinopla	constantinople	constantinople
-constitucional	constitutional	constitutional
-constitucionales	constitutionals	constitutional
-constituciones	constitutions	constitutions
-constitución	constitution	constitution
-constituida	formed	constituted
-constituidas	constituted	constituted
-constituido	constitute	constituted
-constituir	constitutes	constitute
-constituye	constitutes	it constitutes
-constituyen	constitute	constitute
-constituyendo	constituting	constituting
-constituyente	constituent	constituent
-constituyentes	constituents	constituents
-constituyó	constituted	constituted
-construcciones	buildings	buildings
-construcción	construction	building
-construida	built	built
-construidas	built	built
-construido	built	constructed
-construidos	built	built
-construir	to construct	build
-construye	builds	build
-construyendo	building	building
-construyeron	they built	they built
-construyó	built	built
-consulta	consulting	query
-consultado	consulted	consulted
-consultar	consult	consult
-consume	consumed	consume
-consumen	consume	consume
-consumidor	consumer	consumer
-consumidores	consumers	consumers
-consumir	consume	consume
-consumo	consumption	consumption
-contaba	had	counted
-contaban	counted on	they counted
-contabilidad	accountancy	accounting
-contable	accountant	accountant
-contables	accounting	accountants
-contacto	contact	contact
-contactos	contacts	contacts
-contagio	contagion	contagion
-contaminación	polution	pollution
-contaminante	polluting	pollutant
-contaminantes	pollutants	pollutants
-contando	counting	counting
-contar	count	tell
-contemporánea	contemporary	contemporary
-contemporáneo	contemporary	contemporary
-contemporáneos	contemporary	contemporaries
-contenedor	container	container
-contener	contained	contain
-contenida	contained	contained
-contenido	content	content
-contenidos	contents	contents
-contenía	contained	contained
-contexto	context	context
-contextos	contexts	contexts
-contienda	contender	contest
-contiene	contains	contains
-contienen	contain	they contain
-continental	continental	continental
-continentales	continental	continental
-continente	continent	continent
-continentes	continents	continents
-continua	continuos	keep going
-continuación	to be continued	continuation
-continuado	continued	continued
-continuamente	continuously	continually
-continuar	continue	continue
-continuaron	continued	they continued
-continuas	continuous	continuous
-continuidad	continuity	continuity
-continuo	continuous	continuous
-continuó	continued	continuous
-continúa	continues	keep going
-continúan	continue	continue
-contra	against	against
-contracción	contraction	contraction
-contradicciones	contradictions	contradictions
-contradicción	contradiction	contradiction
-contraer	contracting	contract
-contraposición	in contrast	opposed
-contraria	contrary	contrary
-contrario	contrary	contrary
-contrarios	opposing	opposites
-contraste	contrast	contrast
-contratado	hired	hired
-contrato	contract	contract
-contratos	contracts	contracts
-contrató	contracted	contract
-contribuciones	contribution	contributions
-contribución	contribution	contribution
-contribuido	contribute	contributed
-contribuir	contribute	contribute
-contribuye	contributes	contributes
-contribuyen	contribute	contribute
-contribuyeron	contributed	contributed
-contribuyó	contributed	contributed
-control	control	control
-controla	control	controls
-controlada	controlled	controlled
-controladas	controlled	controlled
-controlado	controlled	checked
-controlador	controller	controller
-controladores	drivers	drivers
-controlados	controlled	controlled
-controlan	control	control
-controlar	control	control
-controles	controls	controls
-controversia	controversy	controversy
-controversias	controversies	controversies
-controvertido	controversial	controversial
-contó	counted	counted
-convencer	convince	to convince
-convencido	convinced	convinced
-convencional	conventional	conventional
-convencionales	conventional	conventional
-convenciones	conventions	conventions
-convenció	convinced	convinced
-convención	convention	convention
-conveniente	convenient	convenient
-convenio	agreement	agreement
-convento	convent	convent
-convergencia	convergence	convergence
-conversaciones	talks	conversations
-conversación	conversation	conversation
-conversión	conversion	conversion
-convertido	converted	converted
-convertir	convert	turn into
-convertirse	turn	become
-convertiría	transform, convert; proselytize	would convert
-conviene	should	it suits
-convierte	turns into	turns
-convierten	become	turn
-convirtiendo	converting	turning
-convirtieron	became	turned
-convirtiéndose	becoming	becoming
-convirtió	became	turned
-convivencia	coexistence	coexistence
-cool	cool	cool
-cooper	cooper	cooper
-cooperación	cooperation	cooperation
-coordenadas	coordinates	coordinates
-coordinación	coordination	coordination
-copa	cup	cup
-copas	cups	cups
-copia	copy	copy
-copias	copies	do you copy
-coral	coral	coral
-corazón	heart	heart
-cordero	lamb	lamb
-cordillera	mountain range	mountain range
-cordilleras	mountains	mountain ranges
-corea	korea	korea
-coro	chorus	chorus
-corona	crown	crown
-coronel	colonel	colonel
-corporal	body	bodily
-corporales	corporal	body
-corporation	corporation	corporation
-corpus	corpus	corpus
-corral	corral	corral
-corre	runs	run
-corrección	correction	correction
-correcta	correct	correct
-correctamente	correctly	correctly
-correcto	right	right
-correlación	correlation	correlation
-correo	mail	mail
-correr	run	run
-corresponde	corresponds	corresponds
-corresponden	belong	correspond
-correspondencia	correspondence	correspondence
-correspondiente	correspondent	correspondent
-correspondientes	corresponding	corresponding
-correspondía	corresponds	corresponded
-corriente	current	stream
-corrientes	currents	currents
-corrosión	corrosion	corrosion
-corrupción	corruption	corruption
-corta	short	short
-cortar	cut	cut
-cortas	short	short
-corte	cut	cut
-cortes	cortes	cuts
-corteza	cortex	cortex
-corto	short	short
-cortos	short	shorts
-cortés	courtly	cuts
-corán	koran	koran
-cos	cos	cos
-cosa	thing	thing
-cosas	things	things
-coseno	cosine	cosine
-cosgrove	cosgrove	cosgrove
-cosmología	cosmology	cosmology
-cosmos	cosmos	cosmos
-costa	coast	coast
-costarricense	costa rican	costa rican
-costas	coasts	coasts
-coste	cost	cost
-costera	coastal	coastal
-costeras	coastal	coastal
-costes	expenses	costs
-costo	cost	cost
-costos	cost	costs
-costumbre	tradition	habit
-costumbres	customs	customs
-cotidiana	every day	everyday
-cotidiano	daily	daily
-coulomb	coulomb	coulomb
-country	country	country
-cpu	cpu	cpu
-crazy	crazy	crazy
-crea	creates	creates
-creaciones	creations	creations
-creacionismo	creationism	creationism
-creación	creation	creation
-creada	created	created
-creadas	created	created
-creado	created	created
-creador	creator	creator
-creadores	creators	creators
-creados	created	created
-crean	create	create
-creando	creating	creating
-crear	create	create
-crearon	created	they created
-creativa	creative	creative
-creatividad	creativity	creativity
-creativo	creative	creative
-creativos	creative	creative
-crece	grows	it grows
-crecen	grow	they grow
-crecer	grow	grow
-crecido	grown	grown up
-creciendo	growing	growing
-creciente	growing	growing
-crecimiento	growth	increase
-creció	grew up	grew up
-cree	believed	believe
-creen	believe	believe
-creencia	belief	belief
-creencias	beliefs	beliefs
-creer	believe	believe
-creo	i believe	i think
-crepúsculo	twilight	twilight
-creta	crete	crete
-creyentes	believers	believers
-creyó	believed	believed
-creía	believed	believed
-creían	believed	they believed
-creó	i	i think
-criatura	creature	creature
-criaturas	creatures	creatures
-crimen	crime	crime
-criminales	criminal	criminals
-criollos	creoles	creole
-crisis	crisis	crisis
-cristal	crystal	crystal
-cristales	crystal	crystals
-cristiana	christian	christian
-cristianas	christian	christian
-cristiandad	cristianity	christendom
-cristianismo	christianism	christianity
-cristiano	christian	christian
-cristianos	christians	christians
-cristo	christ	christ
-cristóbal	christopher	cristobal
-criterio	criterion	criterion
-criterios	criteria	criteria
-criticada	criticism	criticized
-criticado	criticized	criticized
-criticó	criticized	critical
-croacia	croatia	croatia
-cromatina	chromatin	chromatin
-cromosoma	chromosome	chromosome
-cromosomas	chromosomes	chromosomes
-cromátidas	chromatid	chromatids
-cronología	chronology	chronology
-cronológico	chronological	chronological
-cruce	crossing	crossing
-cruceros	cruises	cruise ships
-cruces	crossing	crosses
-crucial	crucial	crucial
-crudo	raw	raw
-cruz	cross	cross
-cruzada	crusade	crusade
-cruzadas	cross	crossed
-cruzados	crossed	crusaders
-cruzar	cross	cross
-cráneo	skull	skull
-crédito	credit	credit
-créditos	credits	credits
-crímenes	crimes	crimes
-crítica	critics	review
-críticas	critics	critics
-crítico	critic	critical
-críticos	critics	critics
-crónica	chronic	chronicle
-crónicas	chronicles	chronicles
-cuaderno	notebook	notebook
-cuadernos	notebooks	notebooks
-cuadrada	squared	square
-cuadrado	square	square
-cuadrados	squares	squares
-cuadro	picture	picture
-cuadros	squares	picture
-cual	which	which one
-cuales	which	which
-cualidad	quality	quality
-cualidades	qualities	qualities
-cualquier	any	any
-cualquiera	any	anyone
-cuando	when	when
-cuantas	few	how many
-cuanto	regarding	how much
-cuantos	how many	how many
-cuarenta	forty	forty
-cuarta	fourth	quarter
-cuartel	barracks	barracks
-cuarteto	quartet	quartet
-cuartetos	quartets	quartets
-cuarto	forth	room
-cuartos	rooms	rooms
-cuatro	four	four
-cuba	cuba	cuba
-cubana	cuban	cuban
-cubano	cuban	cuban
-cubanos	cubans	cubans
-cubierta	covered	cover
-cubiertas	covered	covers
-cubierto	covered	covered
-cubismo	cubism	cubism
-cubre	covers	it covers
-cubren	cover	cover
-cubrir	cover	cover
-cuello	neck	neck
-cuenca	basin	basin
-cuencas	basins	basins
-cuenta	account	account
-cuentan	count	count
-cuentas	beads	beads
-cuento	story	story
-cuentos	stories	stories
-cuerda	rope	rope
-cuerdas	ropes	ropes
-cuero	leather	leather
-cuerpo	body	body
-cuerpos	bodies	bodies
-cuestiones	issues	issues
-cuestión	question	question
-cueva	cave	cave
-cuidado	caution	watch out
-cuidados	cares	care
-cullen	cullen	cullen
-culminó	culminated	culminated
-culpable	guilty	guilty
-cultivo	culture	culture
-cultivos	crops	crops
-culto	cult	worship
-cultos	cults	cults
-cultura	culture	culture
-cultural	cultural	cultural
-culturales	cultural	cultural
-culturalmente	culturally	culturally
-culturas	cultures	cultures
-cumbre	summit	summit
-cumple	meets	meets
-cumplen	meet	meet
-cumplimiento	observance	compliance
-cumplir	comply	comply
-cuna	cradle	cradle
-cuota	fee	share
-curiosamente	curiously	curiously
-curiosidad	curiosity	curiosity
-curioso	curious	curious
-curso	course	course
-cursos	courses	courses
-curva	curve	curve
-curvas	curved	curves
-curvatura	curvature	curvature
-cuya	who's	whose
-cuyas	whose	whose
-cuyo	whose	whose
-cuyos	whose	whose
-cuál	wich	which one
-cuáles	which	which
-cuándo	when	when
-cuántica	quantum	quantum
-cyrus	cyrus	cyrus
-cádiz	cadiz	cadiz
-cálculo	calculation	calculation
-cálculos	calculations	calculations
-cálido	warm	warm
-cálidos	warm	warm
-cáliz	calyx	chalice
-cámara	camera	camera
-cámaras	cameras	cameras
-cáncer	cancer	cancer
-cápita	capita	capita
-cápside	capsid	capsid
-cárcel	jail	jail
-cáucaso	caucasus	caucasus
-célebre	celebrated	celebrated
-célebres	famous	famous
-célula	cell	cell
-células	cells	cells
-césar	caesar	cease
-cézanne	cezanne	cezanne
-círculo	circle	circle
-círculos	circles	circles
-código	code	code
-códigos	codes	codes
-cómic	comic	comic
-cómics	comics	comics
-cómo	how	how
-córdoba	cordoba	cordova
-cósmica	cosmic	cosmic
-cúpula	dome	dome
-d	d	d
-da	gives	gives
-daba	gave	gave
-daban	gave	gave
-dada	given	dadaist
-dadas	given	given
-dado	given	dice
-dados	dice	dices
-dadá	given	dadaist
-dama	lady	lady
-dan	they give	give
-dando	giving	giving
-daniel	daniel	daniel
-dante	dante	dante
-danza	dance	dance
-danzas	dances	dances
-danés	danish	danish
-dar	give	give
-dark	oscuridad	dark
-darle	give	give him
-darse	to give	give
-darwin	darwin	darwin
-darwinismo	darwinism	darwinism
-dará	will give	give to
-daría	would give	would give
-data	data	data
-datan	date	date
-dato	piece of data	fact
-datos	data	data
-dave	dave	dave
-david	david	david
-davis	davis	davis
-daño	harm	hurt
-daños	damages	damage
-dc	dc	dc
-de	of	from
-debajo	bellow	below
-debate	debate	debate
-debates	debates	debates
-debe	should	should
-debemos	we must	we must
-deben	owe	they should
-deber	duty	must
-deberes	homework	homework
-deberse	caused by	owe
-deberá	shall	shall
-deberán	shall	shall
-debería	should	should
-deberían	should	they should
-debida	due	due
-debido	due	due
-debieron	had to	they should
-debilidad	weakness	weakness
-debió	due	should have
-debut	debut	debut
-debutó	debuted	debuted
-debía	should	should
-debían	owed	they should
-decadencia	decadence	decline
-decenas	tens	tens
-decide	decides	decides
-deciden	decide	they decide
-decidido	decided	decided
-decidieron	decided	they decided
-decidir	decide	decide
-decidió	decided	he decided
-decimal	decimal	decimal
-decimales	decimals	decimals
-decir	say	tell
-decirse	tell	tell
-decisiones	decisions	decisions
-decisiva	decisive	decisive
-decisivo	decisive	decisive
-decisión	decision	decision
-declara	declare	declares
-declaraciones	statements	statements
-declaración	statement	statement
-declarada	declared	declared
-declarado	declared	declared
-declarar	declare	to declare
-declaró	declared	declared
-declive	slope	slope
-decoración	decoration	decor
-decreto	decree	decree
-decía	said	he said
-dedica	dedicated	dedicates
-dedicada	dedicated	dedicated
-dedicadas	dedicated	dedicated
-dedicado	dedicated	dedicated
-dedicados	dedicated	dedicated
-dedicó	dedicated	dedicated
-dedos	fingers	fingers
-deduce	deducted	deduce
-deducir	deduct	deduct
-defecto	default	default
-defectos	defects	defects
-defender	defend	defend
-defendiendo	defending	defending
-defendió	defended	defended
-defendía	defended	defended
-defensa	defense	defending
-defensas	defenses	defenses
-defensiva	defensive	defensive
-defensor	defender	defender
-defensores	defenders	defenders
-deficiencia	deficiency	deficiency
-defiende	defend	defends
-defienden	defend	defend
-define	defined	define
-definen	define	define
-definiciones	definitions	definitions
-definición	definition	definition
-definida	defined	definite
-definidas	defined	defined
-definido	defined	definite
-definidos	defined	defined
-definir	define	define
-definirse	defined	define
-definitiva	definitive	definitive
-definitivamente	definitely	definitely
-definitivo	final	definitive
-deforestación	deforestation	deforestation
-deformación	deformation	deformation
-degradación	degradation	degradation
-deidad	deity	deity
-deidades	deities	deities
-deja	leaves	let
-dejaba	left	left
-dejado	left	left
-dejan	leave	leave
-dejando	leaving	leaving
-dejar	leave	leave
-dejaron	leave	they left
-dejó	left	left
-del	of	of the
-delante	forward	in front of
-delegados	delegates	delegates
-delgada	thin	thin
-delgado	thin	thin
-della	della	della
-delta	delta	delta
-demanda	demand	demand
-demandas	demands	demands
-demasiado	too much	too
-demi	demi	from my
-democracia	democracy	democracy
-democracias	democracies	democracies
-democrática	democratic	democratic
-democrático	democratic	democratic
-democráticos	democratics	democratic
-demografía	demography	demography
-demográfica	demographic	demographic
-demográfico	demographic	demographic
-demostración	demonstration	demonstration
-demostrado	demonstrated	demonstrated
-demostrar	demostrate	show
-demostraron	proved	they showed
-demostró	showed	showed
-demuestra	shows	shows
-demuestran	demonstrate	show
-demás	others	the rest
-den	give	give
-dengue	dengue	dengue
-denomina	called	called
-denominaciones	denominations	denominations
-denominación	denomination	denomination
-denominada	called	called
-denominadas	called	called
-denominado	denominated	called
-denominados	called	called
-denominan	called	denominate
-denominar	denominate	name
-denominó	call	denominated
-denota	to denote	of note
-densa	dense	dense
-densidad	density	density
-denso	dense	dense
-dentro	inside	inside
-departamento	department	department
-departamentos	department	departments
-depende	depends	it depends
-dependen	depend	depend
-dependencia	dependence	dependence
-dependiendo	depending	depending
-dependiente	dependent	dependent
-dependientes	dependents	dependents
-deporte	sport	sport
-deportes	sports	sports
-deportiva	sport	sporty
-deportivas	sports	sneakers
-deportivo	sports	sports
-deportivos	sporting	sports
-depp	depp	depp
-depresión	depression	depression
-depósito	deposit	deposit
-depósitos	deposits	deposits
-der	der	right
-derecha	right	right
-derecho	right	right
-derechos	rights	rights
-deriva	derivates	drift
-derivación	derivation	derivation
-derivada	derivative	derived
-derivadas	derived	derivatives
-derivado	derived	derivative
-derivados	derivates	derivatives
-derivan	derive	derive
-derrocar	topple	topple
-derrota	defeat	defeat
-derrotado	defeated	defeated
-derrotar	defeat	defeat
-derrotó	defeated	defeated
-des	de los	des
-desafío	challenge	challenge
-desaparece	disappears	disappears
-desaparecer	disappear	disappear
-desaparecido	missing	missing
-desapareció	dissapeared	he disappeared
-desaparición	disappearance	disappearance
-desarrolla	develops	develops
-desarrollada	developed	developed
-desarrolladas	developed	developed
-desarrollado	developed	developed
-desarrollados	developed	developed
-desarrollan	develope	develop
-desarrollando	developing	developing
-desarrollar	develop	develop
-desarrollaron	developed	they developed
-desarrollarse	develop	develop
-desarrollo	development	development
-desarrollos	development	developments
-desarrolló	developed	development
-desastre	disaster	disaster
-desastres	disasters	disasters
-descanso	break	break
-descarga	download	download
-descartes	descartes	discards
-descendencia	offspring	offspring
-descendiente	descendant	descendant
-descendientes	descendents	decendents
-descenso	decline	decline
-descomposición	decomposition	decomposition
-desconoce	unknown	unknown
-desconocida	unknown	unknown
-desconocidas	unknown	unknown
-desconocido	unknown	unknown
-desconocidos	unknown	unknown
-descontento	discontent	discontent
-describe	describes	describes
-describen	describe	describe
-describir	describe	describe
-describió	described	described
-descripciones	descriptions	descriptions
-descripción	description	description
-descrita	described	described
-descritas	described	described
-descrito	described	described
-descritos	described	described
-descubierta	discovered	discovered
-descubierto	discovered	discovered
-descubiertos	covered	discovered
-descubre	discover	discover
-descubrieron	discovered	they discovered
-descubrimiento	discovery	discovery
-descubrimientos	discovers	discoveries
-descubrir	discover	discover
-descubrió	discovered	discovered
-desde	since	since
-desea	wish	you want
-deseaba	wished	wished
-deseado	wanted	wanted
-desean	wish	they want
-desechos	waste	waste
-desemboca	ends	empties
-desembocan	lead to	flow
-desempeña	plays	plays
-desempeñan	perform	they play
-desempeño	performance	performance
-desempeñó	performance	performance
-desempleo	unemployment	unemployment
-deseo	desire	wish
-deseos	wishes	wishes
-desgaste	wear	wear
-desierto	desert	desert
-desiertos	deserts	deserts
-designa	designates	designates
-designado	designated	designated
-designan	designated	designate
-designar	assign	appoint
-desigual	unequal	unequal
-desigualdad	inequality	inequality
-desintegración	disintegration	disintegration
-desnudo	naked	naked
-desnudos	nudes	nudes
-desorden	disorder	disorder
-desplaza	displace	displaces
-desplazamiento	displacement	displacement
-desplazan	displace	displace
-despliegue	deployment	deployment
-desprende	removed	detaches
-después	after	after
-destaca	stand	stands out
-destacada	marked	featured
-destacadas	featured	featured
-destacado	outstanding	outstanding
-destacados	prominent	featured
-destacan	stand out	stand out
-destacando	highlighting	highlighting
-destacar	highlight	highlight
-destacaron	highlighted	highlighted
-destacó	outshine	highlighted
-destilación	distillation	distillation
-destinada	destined	destined
-destinadas	departed for	destined
-destinado	destined	destined
-destinados	destined	destined
-destino	destination	destination
-destinos	destinations	destinations
-destrucción	destruction	destruction
-destruida	destroyed	destroyed
-destruido	destroyed	destroyed
-destruir	destroy	destroy
-desuso	disuse	disuse
-desventaja	handicap	disadvantage
-desviación	deviation	deviation
-detallada	detailed	detailed
-detalle	detail	detail
-detalles	details	details
-detección	detection	detection
-detectado	detected	detected
-detectar	detect	detect
-detener	stop	stop
-detenido	stopped	stopped
-deterioro	deterioration	deterioration
-determina	determines	determines
-determinación	determination	determination
-determinada	determined	determined
-determinadas	certain	certain
-determinado	determined	determined
-determinados	determined	determined
-determinan	determine	determine
-determinante	determinant	determinant
-determinantes	determinants	determinants
-determinar	determine	decide
-determinó	determined	determined
-detiene	stops	stops
-detractores	detractors	detractors
-detrás	behind	behind
-deuda	debt	debt
-deudas	debts	debts
-di	di	gave
-diabetes	diabetes	diabetes
-diagnóstico	diagnosis	diagnosis
-diagonal	diagonal	diagonal
-diagrama	diagram	diagram
-diagramas	diagrams	diagrams
-dialecto	dialect	dialect
-dialectos	dialects	dialects
-dialéctica	dialectic	dialectics
-dialéctico	dialectic	dialectical
-diamante	diamond	diamond
-diana	diana	diana
-diaria	daily	daily
-diario	newspaper	diary
-diarios	daily	daily
-dibujar	draw	to draw
-dibujo	drawing	he drew
-dibujos	drawings	drawings
-diccionario	dictionary	dictionary
-dice	says	he says
-dicen	say	they say
-dicha	such	bliss
-dichas	these	said
-dicho	said	saying
-dichos	said	sayings
-diciembre	december	december
-diciendo	saying	saying
-dick	dick	dick
-dictador	dictator	dictator
-dictadura	dictatorship	dictatorship
-dictaduras	dictatorships	dictatorships
-dieciséis	sixteen	sixteen
-diego	diego	diego
-dientes	teeth	teeth
-dieron	gave	gave
-dieta	diet	diet
-diez	ten	ten
-diferencia	difference	difference
-diferenciación	differentiation	differentiation
-diferenciadas	differentiated	differentiated
-diferencial	differential	differential
-diferenciales	differentials	spreads
-diferencian	differentiation	differentiate
-diferenciar	differentiate	differentiate
-diferencias	differences	differences
-diferente	different	different
-diferentes	different	different
-dificultad	difficulty	difficulty
-dificultades	difficulties	difficulties
-difiere	differs	differs
-difieren	differ	differ
-difundido	released	diffused
-difundir	propagate	spread
-difusión	diffusion	diffusion
-difícil	tough	hard
-difíciles	difficult	difficult
-difícilmente	hardly	hardly
-digestivo	digestive	digestive
-digestión	digestion	digestion
-digital	digital	digital
-digitales	digitals	digital
-dignidad	dignity	dignity
-dijo	said	said
-dilatación	dilatation	dilatation
-dimensiones	dimensions	dimensions
-dimensión	dimension	dimension
-dinamarca	denmark	denmark
-dinamismo	dynamism	dynamism
-dinastía	dynasty	dynasty
-dinastías	dynasties	dynasties
-dinero	money	money
-dinámica	dynamic	dynamic
-dinámicas	dynamic	dynamic
-dinámico	dynamic	dynamic
-dio	lead	it gave
-diodo	diode	diode
-diodos	diode	diodes
-dios	god	god
-diosa	goddess	goddess
-dioses	gods	gods
-diplomáticas	diplomatics	diplomatic
-diplomático	diplomat	diplomatic
-diputados	deputy	deputies
-direcciones	addresses	addresses
-dirección	address	address
-directa	direct	direct
-directamente	directly	directly
-directiva	directive	directive
-directo	direct	direct
-director	director	director
-directores	directors	directors
-directorio	directory	directory
-directos	direct	direct
-dirige	adresses	directs
-dirigen	directed	lead
-dirigente	leading	leader
-dirigentes	leaders	leaders
-dirigida	directed	directed
-dirigidas	directed	directed
-dirigido	directed	managed
-dirigidos	lead	directed
-dirigieron	directed	directed
-dirigir	directing	lead
-dirigirse	to steer	heading down
-dirigió	guided	he directed
-discapacidad	disability	disability
-disciplina	discipline	discipline
-disciplinas	disciplines	disciplines
-disco	disk	disk
-discografía	discography	discography
-discográfica	record company	record label
-discográfico	record	record
-discos	discs	discs
-discreta	discreet	discreet
-discriminación	discrimination	discrimination
-discurso	speech	speech
-discursos	speeches	speeches
-discusiones	discussions	discussions
-discusión	discussion	discussion
-discutido	discussed	argued
-discípulo	disciple	disciple
-discípulos	disciples	disciples
-diseñada	designed	designed
-diseñado	designed	designed
-diseñados	designed	designed
-diseñar	design	to design
-diseño	design	design
-diseños	designs	designs
-diseñó	designed	design
-disforia	dysphoria	dysphoria
-disfunción	dysfunction	dysfunction
-disidentes	dissident	dissidents
-disminución	decrease	decrease
-disminuido	diminished	diminished
-disminuir	decrease	decrease
-disminuye	decrease	decreases
-disminuyendo	decreasing	decreasing
-disminuyó	decreased	decreased
-disney	disney	disney
-disoluciones	solutions	solutions
-disolución	dissolution	dissolution
-disolvente	solvent	solvent
-disolver	dissolve	dissolve
-dispersión	dispersion	dispersion
-dispone	available	has
-disponen	have	have
-disponer	dispose	provide
-disponibilidad	availability	availability
-disponible	available	available
-disponibles	available	available
-disponía	good	had
-disposiciones	provisions	provisions
-disposición	disposition	provision
-dispositivo	device	device
-dispositivos	device	devices
-dispuesto	eager	ready
-dispuestos	ready	ready
-disputa	dispute	dispute
-disputas	disputes	disputes
-distancia	distance	distance
-distancias	distances	distances
-distante	distant	distant
-distinciones	distinctions	distinctions
-distinción	distinction	distinction
-distingue	distinguishes	distinguishes
-distinguen	distinguish	distinguish
-distinguir	distinguish	distinguish
-distinta	different	different
-distintas	different	different
-distintivo	distinctive	distinctive
-distinto	different	different
-distintos	different	different
-distorsión	distortions	distortion
-distribuciones	distributions	distributions
-distribución	distribution	distribution
-distribuidos	distributed	distributed
-distribuir	distribute	to distribute
-distrito	district	district
-distritos	districts	districts
-diversa	diverse	diverse
-diversas	several	various
-diversidad	diversity	diversity
-diversos	various	various
-divide	divided	divide
-dividen	divide	divide
-dividida	divided	divided
-dividido	divided	divided
-divididos	divided	divided
-dividir	divide	divide
-dividirse	be divided	be divided
-dividió	divided	divided
-divina	divine	divine
-divinas	divine	divine
-divinidad	divinity	divinity
-divino	divine	divine
-divisiones	divisions	divisions
-división	division	division
-divorcio	divorce	divorce
-divulgación	divulgation	divulgation
-diálogo	dialogue	dialogue
-diálogos	dialogues	dialogues
-diámetro	diameter	diameter
-dióxido	dioxide	dioxide
-dj	dj	dj
-do	haga	do
-doblaje	dubbing	dubbing
-doble	double	double
-dobles	doubles	double
-doce	twelve	twelve
-doctor	doctor	doctor
-doctrina	doctrine	doctrine
-doctrinas	doctrines	doctrines
-documentación	documentation	documentation
-documentado	documented	documented
-documental	documentary	documentary film
-documentales	documentary	documentaries
-documento	document	document
-documentos	documents	documents
-dolor	pain	pain
-dolores	pains	pains
-dominación	domination	domination
-dominada	dominated	dominated
-dominado	dominated	dominated
-dominante	dominant	dominant
-dominantes	dominant	dominant
-dominar	to dominate	to dominate
-domingo	sunday	sunday
-dominicana	dominican	dominican
-dominicano	dominican	dominican
-dominio	domain	domain
-dominios	domains	domains
-doméstico	domestic	domestic
-domésticos	domestic	domestic
-don	don	don
-donde	where	where
-dont	don't	no
-dorada	golden	golden
-dorado	golden	golden
-dorsal	dorsal	dorsal
-dos	two	two
-dosis	dose	dose
-douglas	douglas	douglas
-down	down	down
-dr	dr	dr
-dragon	dragon	dragon
-drama	drama	drama
-dramaturgo	playwright	playwright
-dramática	dramatic	dramatic
-dramático	dramatic	dramatic
-droga	drug	drug
-drogas	drugs	drugs
-drásticamente	drastically	drastically
-du	du	du
-duda	doubt	doubt
-dudas	doubts	doubts
-dueño	owner	owner
-duff	duff	duff
-dulce	fresh	candy
-duodeno	duodenum	duodenum
-duplicación	duplication	duplication
-duque	duke	duke
-dura	hard	hard
-duración	duration	duration
-duramente	harshly	harshly
-durante	during	during
-duras	hard	hard
-dureza	hard	hardness
-duro	hard	lasted
-duros	hard	hard
-duró	lasted	lasted
-dándole	giving	giving
-débil	weak	weak
-débiles	weak	weak
-década	decade	decade
-décadas	decades	decades
-décima	tenth	tenth
-déficit	deficit	deficit
-día	day	day
-días	days	days
-díaz	diaz	diaz
-dígitos	digits	digits
-dólares	dollars	dollars
-dónde	where	where
-dúo	duo	duo
-e	and	and
-early	early	early
-ebullición	boiling	boiling
-eclipse	eclipse	eclipse
-eco	echo	echo
-ecología	ecology	ecology
-ecológica	ecological	ecological
-ecológico	ecological	ecological
-ecológicos	ecological	ecological
-economistas	economist	economists
-economía	economy	economy
-economías	economies	economies
-económica	economic	economic
-económicamente	economically	economically
-económicas	economic	economic
-económico	economic	economic
-económicos	economic	economic
-ecosistema	ecosystem	ecosystem
-ecosistemas	ecosystems	ecosystems
-ecuaciones	equations	equations
-ecuación	equation	equation
-ecuación|	equation	equation |
-ecuador	ecuador	ecuador
-ecuatorial	equatorial	equatorial
-ed	ed	ed
-edad	age	age
-edades	ages	ages
-edgar	edgar	edgar
-edge	edge	edge
-ediciones	editions	editions
-edición	edition	edition
-edificio	building	building
-edificios	building	buildings
-edison	edison	edison
-editado	edited	edited
-editar	edit	edit
-editor	editor	editor
-editores	editors	editors
-editorial	editorial	editorial
-editó	edited	edited
-eduardo	eduardo	eduardo
-educación	education	education
-educativa	educational	educational
-educativo	educational	educational
-educativos	educational	educational
-ee	uu	ee
-eeuu	usa	usa
-ee uu	the united states	usa
-efectiva	effective	effective
-efectivamente	effectively	effectively
-efectivo	effective	cash
-efectivos	effective	effective
-efecto	effect	effect
-efectos	effects	effects
-efectuar	make	make
-eficaces	effective	effective
-eficacia	eficiency	effectiveness
-eficaz	efficient	effective
-eficiencia	efficiency	efficiency
-eficiente	efficient	efficient
-eficientes	efficient	efficient
-efron	efron	efron
-egeo	aegean	aegean
-egipcia	egyptian	egyptian
-egipcio	egyptian	egyptian
-egipcios	egyptian	egyptians
-egipto	egypt	egypt
-ego	ego	ego
-egoísmo	selfishness	selfishness
-einstein	einstein	einstein
-einstenio	einsteinium	einsteinium
-ej	ex	ex
-eje	axis	axis
-ejecución	execution	execution
-ejecuta	run	run
-ejecutado	executed	executed
-ejecutados	executed	executed
-ejecutar	execute	run
-ejecutivo	executive	executive
-ejecutivos	executive	executives
-ejemplar	copy	copy
-ejemplares	exemplary	exemplary
-ejemplo	example	example
-ejemplos	examples	examples
-ejerce	exercises	exercises
-ejercen	exercise	they exercise
-ejercer	exercise	exercise
-ejercicio	exercise	exercise
-ejercicios	exercises	exercises
-ejercida	exercised	exercised
-ejercido	exercised	exercised
-ejerció	perform	wielded
-ejes	axes	axes
-ejército	army	army
-ejércitos	armies	armies
-el	the	the
-elabora	elaborate	elaborate
-elaboración	elaboration	elaboration
-elaborada	elaborated	elaborate
-elaboradas	elaborated	elaborate
-elaborado	elaborated	elaborated
-elaborados	elaborated	elaborate
-elaborar	elaborate	to elaborate
-elaboró	elaborated	elaborated
-elasticidad	elasticity	elasticity
-elecciones	elections	elections
-elección	election	choice
-electo	elected	elect
-electoral	electoral	electoral
-electorales	electorals	electoral
-electricidad	electricity	electricity
-electromagnetismo	electromagnetism	electromagnetism
-electromagnética	electromagnetic	electromagnetic
-electromagnéticas	electromagnetics	electromagnetic
-electromagnético	electromagnetic	electromagnetic
-electrones	electrons	electrons
-electrón	electron	electron
-electrónica	electronic	electronics
-electrónico	electronic	electronic
-electrónicos	electronics	electronic
-elegida	choosen	chosen
-elegido	elected	chosen one
-elegidos	elected	chosen
-elegir	choose	to choose
-elemental	elemental	elementary
-elementales	elemental	elementals
-elemento	element	element
-elementos	elements	elements
-elena	elena	elena
-elenco	cast	cast
-eleva	raises	elevates
-elevación	elevation	elevation
-elevada	elevated	elevated
-elevadas	high	high
-elevado	high	high
-elevados	elevated	elevated
-elevar	elevate	raise
-eligió	decided	elected
-elimina	discarded	removes
-eliminación	elimination	elimination
-eliminado	removed	removed
-eliminar	remove	remove
-eliminó	eliminated	removed
-elizabeth	elizabeth	elizabeth
-ella	she	she
-ellas	they	they
-ello	it	it
-ellos	them	they
-elogió	praised	praise
-elvis	elvis	elvis
-eléctrica	electric	electrical
-eléctricas	electrical	electrical
-eléctrico	electric	electric
-eléctricos	electrical	electrical
-em	los	em
-emancipación	emancipation	emancipation
-embajada	embassy	embassy
-embajador	ambassador	ambassador
-embarazada	pregnant	pregnant
-embarazo	pregnancy	pregnancy
-embarcó	embarkation	embarked
-embargo	however	embargo
-emblema	emblem	emblem
-embrionario	embryonic	embryonic
-embrión	embryo	embryo
-emergencia	emergency	emergency
-emi	emi	emi
-emigración	emigration	emigration
-emiliano	emiliano	emiliano
-emilio	emilio	emilio
-eminem	eminem	eminem
-emisiones	emissions	emissions
-emisión	broadcast	issue
-emisor	transmitter	transmitter
-emisoras	station	stations
-emite	emit	emits
-emiten	issued	emit
-emitida	issue	issued
-emitido	issued	issued
-emitidos	issued	cast
-emitir	emite	to emit
-emitió	emited	emitted
-emma	emma	emma
-emo	emo	emo
-emocional	emotional	emotional
-emocionales	emotional	emotional
-emociones	emotions	emotions
-emoción	emotion	emotion
-emperador	emperor	emperor
-emperadores	emperors	emperors
-empezado	started	started
-empezando	starting	starting
-empezar	start	start
-empezaron	they started	they started
-empezó	started	it started
-empieza	start	starts
-empiezan	begin	they start
-empirismo	empiricism	empiricism
-emplea	used	employs
-empleada	employed	employee
-empleadas	employed	employed
-empleado	employee	employee
-empleados	employees	employees
-emplean	employ	employ
-empleando	employing	employing
-emplear	use	use
-empleo	job	job
-empleó	use	job
-emprendió	began	undertook
-empresa	company	business
-empresarial	business	business
-empresarios	businessman	businessmen
-empresas	company	business
-empuje	push	push
-empírica	empiric	empirical
-empírico	empiric	empirical
-en	in	in
-enamorado	in love	in love
-encabezado	fortified	header
-encarga	takes charge	commission
-encargada	charge	manager
-encargado	in charge	in charge
-encargados	assigned	managers
-encargan	tasks	order
-encargo	task	charge
-encargó	ordered	charge
-enciclopedia	encyclopedia	encyclopedia
-encima	over	over
-encontraba	found	found
-encontraban	find	they found
-encontradas	found	found
-encontrado	found	found
-encontrados	found	found
-encontramos	found	we find
-encontrar	find	find
-encontraron	found	they found
-encontrarse	meet	meet
-encontró	found	he found
-encuentra	find	find
-encuentran	find	find
-encuentre	meets	find
-encuentro	meeting	meeting
-encuentros	encounters	encounters
-encuesta	poll	poll
-encuestas	poll	polls
-encyclopedia	encyclopedia	encyclopedia
-encéfalo	brain	brain
-ende	hence	ende
-endoplasmático	endoplasmic	endoplasmic
-enemigo	enemy	enemy
-enemigos	enemies	enemies
-energética	energetic	energetic
-energético	energetic	energetic
-energéticos	energetic	energetic
-energía	energy	energy
-energías	energies	energies
-enero	january	january
-enfermedad	disease	disease
-enfermedades	illnesses	diseases
-enfermo	sick	sick
-enfermos	sick	sick
-enfoque	point of view	focus
-enfoques	approaches	approaches
-enfrenta	face	faces
-enfrentamiento	confrontation	confrontation
-enfrentamientos	cooling	clashes
-enfrentar	confront	deal
-enfrentaron	faced	they faced
-enfrentarse	face	face
-enfrentó	face	faced
-enfriamiento	cooling	cooling
-engels	engels	engels
-engloba	encompasses	encompasses
-enlace	link	link
-enlaces	links	links
-enorme	huge	huge
-enormemente	enormously	enormously
-enormes	huge	huge
-enrique	enrique	enrique
-enriquecido	enriched	enriched
-ensamblaje	assembly	assembly
-ensayo	essay	test
-ensayos	essays	essays
-enseñanza	teaching	teaching
-enseñanzas	teachings	teachings
-enseñar	teach	teach
-enseñó	teached	i teach
-ente	entity	entity
-entender	understand	understand
-entenderse	be understood	be understood
-entendida	understood	understood
-entendido	understood	it is understood
-entendimiento	understanding	understanding
-entera	whole	whole
-entero	whole	whole
-enteros	entire	integers
-enterrado	buried	buried
-entertainment	entertainment	entertainment
-entes	entities	entities
-entidad	entity	entity
-entidades	entities	entities
-entiende	understands	understands
-entonces	then	so
-entorno	enviroment	environment
-entornos	environment	environments
-entra	enters	enters
-entrada	inbox	entry
-entradas	entrances	tickets
-entrado	late	entered
-entran	play	they enter
-entrando	entering	entering
-entrar	enter	get in
-entraron	entered	they entered
-entre	between	between
-entrega	awards	delivery
-entregado	delivered	delivered
-entregó	returned	he delivered
-entrenador	coach	coach
-entrenamiento	training	training
-entretenimiento	entertainment	entertainment
-entrevista	interview	interview
-entrevistas	interviews	interviews
-entropía	entropy	entropy
-entró	entered	i enter
-entusiasmo	enthusiasm	enthusiasm
-enunciado	statement	statement
-envejecimiento	aging	aging
-enviado	sent	sent
-enviados	sent	sent
-enviando	sending	sending
-enviar	send	send
-envió	sent	shipping
-envoltura	envelope	envelope
-envía	sends	send
-envío	sending	shipping
-enzima	enzyme	enzyme
-enzimas	enzymes	enzymes
-ep	ep	ep
-epidemia	epidemic	epidemic
-epidemias	epidemics	epidemics
-epidemiología	epidemiology	epidemiology
-episodio	episode	episode
-episodios	episodes	episodes
-epistemología	epistemology	epistemology
-epstein	epstein	epstein
-equilibrio	balance	balance
-equipo	team	equipment
-equipos	equipment	equipment
-equivale	equivales	equals
-equivalencia	equivalent	equivalence
-equivalente	equivalent	equivalent
-equivalentes	equivalent	equivalents
-er	st	er
-era	was	was
-eran	were	they were
-erección	erection	erection
-erich	eric	erich
-ernesto	ernest	ernesto
-ernst	ernst	ernst
-erosión	erosion	erosion
-error	error	error
-errores	errors	mistakes
-erróneamente	mistakenly	wrongly
-eruditos	scholars	scholars
-eréctil	erectile	erectile
-es	is	it is
-esa	that	that
-esas	those	those
-escala	scale	scale
-escalar	climb	climb
-escalas	scales	scales
-escandinavia	scandinavia	scandinavia
-escandinavo	scandinavian	scandinavian
-escapar	escape	escape
-escape	escape	escape
-escasa	little	limited
-escasas	scarce	scarce
-escasez	shortage	shortage
-escaso	scarce	scarce
-escasos	scarce	scarce
-escena	scene	scene
-escenario	stage	stage
-escenarios	scenarios	scenarios
-escenas	scenes	scenes
-esclavitud	slavery	slavery
-esclavo	slave	slave
-esclavos	slaves	slaves
-esclerosis	sclerosis	sclerosis
-escocia	scotland	scotland
-escolar	school	school
-escolares	school	schoolchildren
-escolástica	scholasticism	scholasticism
-escribe	write	writes
-escriben	write it	they write
-escribiendo	writing	writing
-escribieron	written	they wrote
-escribir	write	to write
-escribió	wrote	wrote
-escribía	wrote	wrote
-escrita	written	written
-escritas	written	written
-escrito	written	written
-escritor	writer	writer
-escritores	writers	writers
-escritorio	desk	desk
-escritos	writings	writings
-escritura	writing	writing
-escrituras	scriptures	scriptures
-escuchar	hear	hear
-escudo	shield	shield
-escuela	school	school
-escuelas	schools	schools
-escultor	sculptor	sculptor
-escultores	sculptors	sculptors
-escultura	sculpture	sculpture
-esculturas	sculptures	sculptures
-escándalo	scandal	scandal
-ese	that	that
-esencia	essence	essence
-esencial	essential	essential
-esenciales	essential	essential
-esencialmente	essentially	essentially
-esfera	sphere	sphere
-esferas	spheres	spheres
-esfuerzo	effort	effort
-esfuerzos	efforts	efforts
-esférica	spherical	spherical
-eslavos	slavic	slavs
-eso	that	that
-esos	those	those
-espacial	space	space
-espaciales	space	space
-espacio	space	space
-espacios	spaces	spaces
-espaciotiempo	space-time	space time
-espada	sword	sword
-espalda	back	back
-esparta	sparta	sparta
-españa	spain	spain
-español	spanish	spanish
-española	spanish	spanish
-españolas	spanishs	spanish
-españoles	spaniards	spanish people
-especiación	speciation	speciation
-especial	special	special
-especiales	specials	special
-especialista	specialist	specialist
-especialistas	specialists	specialists
-especialización	specialization	specialization
-especializada	specialized	specialized
-especializadas	specialized	specialized
-especializado	specialized	specialized
-especializados	specialized	specialized
-especialmente	especially	especially
-especie	specie	species
-especies	species	species
-especificaciones	specifications	specs
-especificación	specification	specification
-especificar	specify	specify
-espectadores	viewers	spectators
-espectro	spectrum	spectrum
-espectáculo	show	show
-espectáculos	shows	shows
-especulaciones	speculations	speculations
-especulación	speculation	speculation
-específica	specifically	specific
-específicamente	specifically	specifically
-específicas	specific	specific
-específico	specific	specific
-específicos	specific	specific
-espejo	mirror	mirror
-espejos	mirrors	mirrors
-espera	expected	wait
-esperaba	hoped	i expected
-esperado	expected	expected
-esperando	waiting	waiting
-esperanza	hope	hope
-esperar	wait	wait
-espermatozoides	sperm	sperm
-espesor	thickness	thickness
-espinal	spinal	spinal
-espiral	spiral	spiral
-espiritual	spiritual	spiritual
-espirituales	spirituals	spiritual
-esplendor	splendor	splendor
-espontánea	spontaneous	spontaneous
-espontáneamente	spontaneously	spontaneously
-esporas	spores	spores
-esposa	wife	wife
-esposo	husband	husband
-espíritu	spirit	spirit
-espíritus	spirits	spirits
-esqueleto	skeleton	skeleton
-esquema	scheme	scheme
-esquemas	schemes	schemes
-esquina	corner	corner
-esquizofrenia	schizophrenia	schizophrenia
-esta	this	is
-estaba	was	i was
-estaban	were	they were
-estabilidad	stability	stability
-estable	stable	stable
-establece	establish	establishes
-establecen	claimed	establish
-establecer	establish	establish
-establecerse	settle	settle
-establecida	established	established
-establecidas	established	established
-establecido	established	settled down
-establecidos	established	established
-estableciendo	established	setting
-establecieron	established	established
-establecimiento	establishment	establishment
-establecimientos	establishment	establishments
-estableció	established	established
-establecía	stablished	established
-estables	stable	stable
-estaciones	seasons	seasons
-estación	station	station
-estadio	stadium	stadium
-estadios	stadiums	stadiums
-estado	state	state
-estados	states	state
-estadounidense	american	u.s
-estadounidenses	american	americans
-estadística	statistics	statistics
-estadísticas	statistics	statistics
-estadístico	statistics	statistical
-estadísticos	statistician	statisticians
-estallido	outbreak	outbreak
-estambres	stamens	stamens
-estamos	we are	we&#39;re
-estancia	stay	stay
-estando	being	being
-estar	to be	to be
-estará	will be	will be
-estaría	will be	it would
-estas	these	these
-estatal	state	state
-estatales	state	state
-estatua	statue	statue
-estatuas	statues	statues
-estatus	status	status
-estatuto	statute	statute
-estaño	tin	tin
-este	east	east
-estela	stela	wake
-estelar	stellar	stellar
-esteroides	steroids	steroids
-estilo	style	style
-estilos	styles	styles
-estima	estimate	esteem
-estimaciones	estimates	estimates
-estimación	estimate	estimate
-estimada	esteemed	dear
-estimado	estimated	dear
-estiman	estimate	estimate
-estimula	stimulates	stimulates
-estimulación	stimulation	stimulation
-esto	this	this
-estonia	estonia	estonia
-estos	these	these
-estoy	i am	i am
-estrategia	strategy	strategy
-estrategias	strategies	strategies
-estratégica	strategic	strategic
-estratégico	strategic	strategic
-estrecha	narrow	narrow
-estrechamente	tightly	tightly
-estrechas	narrow	narrow
-estrecho	narrow	narrow
-estrella	star	star
-estrellas	stars	stars
-estrenada	released	released
-estreno	premiere	premiere
-estrenó	release	premiere
-estricta	strict	strict
-estrictamente	strictly	strictly
-estricto	strict	strict
-estructura	structure	structure
-estructural	structural	structural
-estructurales	structural	structural
-estructuras	structures	structures
-estrés	stress	stress
-estudia	study	study
-estudiada	studied	studied
-estudiadas	studied	studied
-estudiado	studied	studied
-estudiados	studied	studied
-estudian	study	they study
-estudiando	studying	studying
-estudiante	student	student
-estudiantes	students	students
-estudiar	study	study
-estudio	study	study
-estudios	studies	studies
-estudiosos	scholars	scholars
-estudió	studied	study
-estuviera	was	was
-estuvieron	were	were
-estuvo	was	he was
-está	is	is
-están	are	is it so
-estándar	standard	standard
-estándares	standards	standards
-estática	statics	static
-esté	is	east
-estén	are	are
-estética	aesthetics	esthetic
-estéticas	aesthetic	aesthetic
-estético	aesthetics	aesthetic
-estímulo	stimulus	stimulus
-estímulos	stimuli	stimuli
-estípula	stipulates	stipule
-estómago	stomach	stomach
-esófago	esophagus	esophagus
-et	et	et
-etanol	ethanol	ethanol
-etapa	stage	stage
-etapas	stages	stages
-etc	etc	etc
-etcétera	et cetera	etc
-eterna	eternal	eternal
-eterno	eternal	eternal
-etimología	etymology	etymology
-etiología	etiology	etiology
-etiopía	ethiopia	ethiopia
-etiqueta	label	label
-etiquetas	labels	labels
-etnia	ethnicity	ethnicity
-etnias	ethnic groups	ethnicities
-etnografía	ethnography	ethnography
-eucariontes	eukaryotes	eukaryotes
-eucariota	eukaryotic	eukaryote
-eucariotas	eukaryotic	eukaryotes
-euclides	euclid	euclid
-euro	euro	euro
-europa	europe	europe
-europea	european	european
-europeas	european	european
-europeo	european	european
-europeos	european	european
-eutanasia	euthanasia	euthanasia
-eva	eve	eve
-evaluación	evaluation	evaluation
-evaluar	evaluate	evaluate
-evangelio	gospel	gospel
-evangelios	gospels	gospels
-evento	event	event
-eventos	events	events
-eventualmente	eventually	eventually
-evidencia	evidence	evidence
-evidencias	evidence	evidence
-evidente	evident	evident
-evidentes	evidents	evident
-evil	evil	evil
-evita	avoid	avoid
-evitando	avoiding	avoiding
-evitar	avoid	avoid
-evolucionado	evolved	evolved
-evolucionar	evolve	evolve
-evolucionó	evolved	evolved
-evolución	evolution	evolution
-evolutiva	evolutionary	evolutionary
-evolutivo	evolutionary	evolutionary
-evolutivos	evolutionary	evolutionary
-ex	former	former
-exacta	exact	exact
-exactamente	exactly	exactly
-exactas	exact	exact
-exactitud	accuracy	accuracy
-exacto	exact	exact
-examen	exam	exam
-excavaciones	excavations	excavations
-excel	excel	excel
-excelencia	excellence	excellence
-excelente	excellent	excellent
-excepcional	exceptional	exceptional
-excepciones	exceptions	exceptions
-excepción	exception	exception
-excepto	except	except
-excesiva	excessive	excessive
-excesivo	excessive	excessive
-exceso	excess	excess
-excitación	excitement	excitement
-exclusiva	exclusive	exclusive
-exclusivamente	exclusively	exclusively
-exclusivo	exclusive	exclusive
-exclusión	exclusion	exclusion
-exhibición	exhibition	display
-exige	demands	demands
-exigencias	requirement	requirements
-exilio	exile	exile
-exista	exist	exist
-existan	exist	exist
-existe	exist	exists
-existen	exist	exist
-existencia	existence	existence
-existencialismo	existentialism	existentialism
-existente	existant	existing
-existentes	existing	existing
-existido	existed	existed
-existiendo	existing	existing
-existieron	existed	they existed
-existir	existed	exist
-existió	existed	existed
-existía	existed	existed
-existían	existed	they existed
-exitosa	successful	successful
-exitoso	successful	successful
-exitosos	successful	successful
-expandir	expand	expand
-expandirse	expand	expand
-expandió	expanded	expanded
-expansión	expansion	expansion
-expectativas	expectations	expectations
-expediciones	expeditions	expeditions
-expedición	expedition	expedition
-experience	experience	experience
-experiencia	experience	experience
-experiencias	experiences	experiences
-experimenta	experiments	experience
-experimentación	experimentation	experimentation
-experimentado	experienced	experienced
-experimental	experimental	experimental
-experimentales	experimentals	experimental
-experimentan	experiment	they experience
-experimentar	experiment	to experience
-experimento	experiment	experiment
-experimentos	expirements	experiments
-experimentó	experimented	experiment
-experto	expert	expert
-expertos	experts	experts
-explica	explains	explain
-explicaciones	explanations	explanations
-explicación	explanation	explanation
-explican	explain	explain
-explicar	explain	explain
-explicó	explained	explained
-exploración	exploration	exploration
-explorar	to explore	to explore
-explosión	explosion	explosion
-explotación	exploitation	exploitation
-explícita	explicit	explicit
-explícitamente	explicitly	explicitly
-expone	exposes	exposes
-exponente	exponent	exponent
-exponentes	exponents	exponents
-exportaciones	exports	exports
-exportación	exportation	export
-exposiciones	expositions	exhibitions
-exposición	exposition	exposition
-expresa	expresses	express
-expresada	expressed	expressed
-expresado	expressed	expressed
-expresan	express	express
-expresar	express	express
-expresarse	express	express oneself
-expresiones	expressions	expressions
-expresionismo	expressionism	expressionism
-expresionista	expressionist	expressionist
-expresionistas	expressionists	expressionists
-expresión	expression	expression
-expresó	expressed	express
-expuesta	exposed	exposed
-expuestas	exposed	exposed
-expuesto	exposed	exposed
-expuestos	exposed	exposed
-expulsado	expelled	expelled
-expulsión	expulsion	expulsion
-expuso	exposed	exposed
-extender	extend	to extend
-extendida	extended	extended
-extendido	extended	extended
-extendió	extended	spread
-extensa	extense	extensive
-extensas	extensive	extensive
-extensiones	extensions	extensions
-extensión	extension	extension
-extenso	extensive	extensive
-extensos	extense	extensive
-exterior	exterior	exterior
-exteriores	outer	outdoor
-exterminio	extermination	extermination
-externa	external	external
-externas	external	external
-externo	external	external
-externos	external	external
-extiende	extends	extends
-extienden	extend	extend
-extinción	extinction	extinction
-extra	extra	extra
-extracción	extraction	extraction
-extrae	extracts	extract
-extraer	extract	extract
-extranjera	foreign	foreign
-extranjeras	foreign	foreign
-extranjero	foreigner	foreign
-extranjeros	foreign	foreign
-extraordinaria	extraordinary	extraordinary
-extraordinario	extraordinary	extraordinary
-extraña	strange	strange
-extraño	strange	strange
-extrema	extreme	extreme
-extremadamente	extremely	extremely
-extremas	extreme	extreme
-extremo	extreme	extreme
-extremos	extremes	extremes
-exámenes	tests	exams
-eyaculación	ejaculation	ejaculation
-eólica	wind	wind
-f	f	f
-fa	fa	fa
-fabricación	manufacturing	manufacturing
-fabricante	maker	maker
-fabricantes	manufacturers	manufacturers
-fabricar	manufacture	manufacture
-facciones	factions	factions
-facebook	facebook	facebook
-fachada	front	facade
-facilidad	ease	ease
-facilita	facilitates	facilitates
-facilitar	facilitate	to ease
-facto	law	de facto
-factor	factor	factor
-factores	factors	factors
-facultad	faculty	faculty
-facultades	faculties	faculties
-fagocito	phagocytes	phagocyte
-falla	failure	failure
-fallas	failures	failures
-fallecimiento	death	death
-falleció	passed away	passed away
-fallo	failure	failure
-fallos	failures	failures
-falsa	false	false
-falso	false	false
-falsos	false	false
-falta	lack	lack
-faltas	faults	faults
-fama	fame	fame
-familia	family	family
-familiar	family	family
-familiares	relatives	relatives
-familias	families	families
-famosa	famous	famous
-famosas	famous	famous
-famoso	famous	famous
-famosos	famous	famous
-fans	fans	fans
-fantasía	fantasy	fantasy
-fantástico	fantastic	fantastic
-fanáticos	fans	fanatics
-fascismo	fascism	fascism
-fascista	fascist	fascist
-fascistas	fascist	fascists
-fase	phase	phase
-fases	phases	phases
-fauna	fauna	wildlife
-favor	favor	favor
-favorable	favorable	favorable
-favorables	favorable	favorable
-favorece	favors	favors
-favorecer	favored	favor
-favorito	favorite	favourite
-fbi	fbi	fbi
-fc	fc	fc
-fe	faith	faith
-febrero	february	february
-fecha	date	date
-fechas	dates	dates
-fecundación	fertilization	fertilization
-fecundidad	fertility	fertility
-federación	federation	federation
-federal	federal	federal
-federales	federal	federal
-federico	federic/ federick	frederick
-felicidad	happiness	happiness
-felipe	felipe	felipe
-feliz	happy	happy
-femenina	femenine	feminine
-femeninas	female	female
-femenino	female	female
-femeninos	female	female
-fenomenología	phenomenology	phenomenology
-fenotipo	phenotype	phenotype
-fenómeno	phenomenon	phenomenon
-fenómenos	phenomena	phenomena
-feo	ugly	ugly
-ferdinand	ferdinand	ferdinand
-feria	fair	fair
-ferias	fairs	fairs
-fermentación	fermentation	fermentation
-fernando	fernando	fernando
-fernández	fernandez	fernandez
-ferrocarril	railway	railway
-ferrocarriles	railways	railways
-fertilidad	fertility	fertility
-festival	festival	festival
-festividad	festivity	festivity
-festividades	festivities	festivities
-feto	fetus	fetus
-feudal	feudal	feudal
-feudales	feudals	feudal
-feudalismo	feudalism	feudalism
-feudo	fief	fief
-fiable	reliable	reliable
-fibra	fiber	fiber
-fibras	fibers	fibers
-ficción	fiction	fiction
-ficticio	fictional	fictional
-fidel	fidel	fidel
-fidelidad	fidelity	fidelity
-fiebre	fever	fever
-fiel	faithful	faithful
-fieles	faithful	faithful
-fiesta	party	party
-fiestas	partys	parties
-fifa	fifa	fifa
-figura	figured	figure
-figuran	figure	figure
-figuras	figures	figures
-fija	fixed	fixed
-fijación	fixation	fixation
-fijado	set	set
-fijar	fix	pin up
-fijas	fixed	fixed
-fijo	fixed	permanent
-fijos	fixed	fixed
-fila	row	row
-filamentos	filaments	filaments
-filas	rows	rows
-filial	subsidiary	subsidiary
-filipinas	philippines	philippines
-filipo	philip	philippi
-film	film	film
-filmación	shooting	shooting
-filme	film	film
-filmografía	filmography	filmography
-filo	phylum	edge
-filosofal	philosophical	philosopher
-filosofía	philosophy	philosophy
-filosófica	philosophical	philosophical
-filosóficas	philosophical	philosophical
-filosófico	philosophical	philosophical
-filosóficos	philosophical	philosophical
-filtro	filter	filter
-filósofo	philosopher	philosopher
-filósofos	philosophers	philosophers
-fin	end	end
-fina	fina	fine
-final	final	final
-finales	end	endings
-finalidad	finality	purpose
-finalización	end	ending
-finalizar	finalize	finalize
-finalizó	ended	ended
-finalmente	finally	finally
-financiación	financing	financing
-financiera	financial	financial
-financieras	financial	financial
-financiero	financial	financial
-financieros	financial	financial
-finanzas	finances	finance
-fines	purposes	purposes
-finito	finite	finite
-finlandia	finland	finland
-firma	firm	firm
-firmado	signed	signed
-firmar	signing	sign
-firmaron	signed	they signed
-firme	firm	firm
-firmó	signed	signed
-first	primer	first
-fiscal	fiscal	fiscal
-fiscales	prosecutors	prosecutors
-fisiología	physiology	physiology
-fisión	fission	fission
-flamenco	flamenco	flemish
-flecha	arrow	arrow
-flexibilidad	flexibility	flexibility
-flor	flower	flower
-flora	flora	flora
-floral	floral	floral
-florales	floral	floral
-florencia	florence	florence
-florentino	florentine	florentine
-flores	flowers	flowers
-florida	florida	florida
-flota	fleet	fleet
-fluido	fluid	fluid
-fluidos	fluid	fluids
-flujo	flow	flow
-flujos	flows	flows
-fobofobia	photophobia	phophobia
-foco	focus	focus
-folclore	folklore	folklore
-folio	folio	invoice
-fomentar	encourage	foment
-fondo	background	background
-fondos	funds	money
-football	football	football
-for	for	for
-ford	ford	ford
-forestal	forest	forest
-forestales	forests	forest
-forma	shape	shape
-formaba	formed	formed
-formaban	formed	formed
-formaciones	formations	formations
-formación	formation	training
-formada	formed	formed
-formadas	formed	formed
-formado	formed	formed
-formados	formed	formed
-formal	formal	formal
-formales	formal	formal
-formalmente	formally	formally
-forman	form	they form
-formando	forming	forming
-formar	forming	to form
-formaron	formed	formed
-formas	forms	shapes
-formato	format	format
-formatos	format	formats
-formulación	formuling	formulation
-formó	formed	formed
-foro	forum	forum
-fortaleza	fortress	strength
-fortuna	fortune	fortune
-fosfato	phosphate	phosphate
-foto	photo	photo
-fotografía	photography	photography
-fotografías	photographs	photographs
-fotones	photons	photons
-fotos	photos	photos
-fotosíntesis	photosynthesis	photosynthesis
-fotógrafo	photographer	photographer
-foundation	foundation	foundation
-fox	fox	fox
-frac	tails	tails
-fracaso	failure	failure
-fracasó	failure	failure
-fracciones	fractions	fractions
-fracción	fraction	fraction
-fragmento	fragment	fragment
-fragmentos	fragments	fragments
-francesa	french	french
-francesas	french	french
-francesco	francesco	francesco
-franceses	french	french
-francia	france	france
-francis	francis	francis
-francisco	francisco	francisco
-franco	franc	frank
-francos	franks	francs
-francés	french	french
-franja	stripe	stripe
-frank	frank	frank
-franklin	franklin	franklin
-franquicia	franchise	franchise
-franquista	franco	franco
-franz	franz	franz
-françois	françois	françois
-frase	phrase	sentence
-frases	phrases	phrases
-fray	friar	brother
-frecuencia	frequencies	frequency
-frecuencias	frequencies	frequencies
-frecuente	frequent	frequent
-frecuentemente	frequently	frequently
-frecuentes	frequents	frequent
-fred	fred	fred
-freddie	freddie	freddie
-frente	front	front
-frentes	fronts	fronts
-fresco	fresh	cool
-freud	freud	freud
-fricción	friction	friction
-frida	frida	frida
-friedrich	friedrich	friedrich
-from	from	desde
-frontal	frontal	frontal
-frontera	border	border
-fronteras	borders	borders
-frutas	fruit	fruits
-fruto	fruit	fruit
-frutos	fruits	fruits
-fría	cold	cold
-frías	cold	cold
-frío	cold	cold
-fríos	cold	cold
-fue	was	it was
-fuego	fire	fire
-fuente	source	source
-fuentes	sources	sources
-fuera	outside	outside
-fueran	were	were
-fueron	were	were
-fuerte	strong	strong
-fuertemente	strongly	strongly
-fuertes	heavy	powerful
-fuerza	strenght	strength
-fuerzas	forces	forces
-fuese	was	was
-fuesen	were	were
-fuga	leakage	leakage
-fullmetal	fullmetal	fullmetal
-fumar	smoke	smoke
-funciona	works	works
-funcional	functional	functional
-funcionales	functional	functional
-funcionalidad	functionality	functionality
-funcionamiento	operation	functioning
-funcionan	function	do they work
-funcionando	working	working
-funcionar	function	function
-funcionarios	officials	officials
-funciones	functions	functions
-función	function	function
-fundación	foundation	foundation
-fundada	founded	founded
-fundado	founded	founded
-fundador	founder	founder
-fundadores	founders	founders
-fundamental	fundamental	fundamental
-fundamentales	fundamentals	fundamental
-fundamentalmente	fundamentally	fundamentally
-fundamento	basis	basis
-fundamentos	foundations	fundamentals
-fundar	found	found
-fundaron	founded	founded
-fundición	foundry	foundry
-fundó	founded	founded
-funeral	funeral	funeral
-funk	funk	funk
-fusión	fusion	fusion
-futbolista	soccer player	soccer player
-futbolistas	soccer players	football players
-futura	future	future
-futuras	future	future
-futuro	future	future
-futuros	future	futures
-fábrica	factory	factory
-fábricas	factories	factories
-fábula	fable	fable
-fábulas	fables	fables
-fácil	easy	easy
-fáciles	easy	easy
-fácilmente	easily	easily
-fármacos	drugs	drugs
-félix	felix	felix
-fértil	fertile	fertile
-física	physics	physical
-físicamente	physically	physically
-físicas	physics	physical
-físico	physics	physical
-físicos	physical	physical
-fórmula	formula	formula
-fórmulas	formulas	formulas
-fósforo	phosphorus	match
-fósil	fossil	fossil
-fósiles	fossil	fossil
-fútbol	soccer	football
-g	g	g
-gabinete	cabinet	cabinet
-gabriela	gabriela	gabriela
-gaga	gaga	gaga
-galaxia	galaxy	galaxy
-galaxias	galaxies	galaxies
-galería	gallery	gallery
-gales	wales	welsh
-galicia	galicia	galicia
-galilea	galilee	galilee
-galilei	galilei	galilei
-galileo	galileo	galileo
-gama	range	spectrum
-gametos	gametes	gametes
-gamma	gamma	gamma
-gana	win	wins
-ganadería	cattle raising	cattle raising
-ganado	livestock	won
-ganador	winner	winner
-ganadora	winner	winner
-ganancia	profit	gain
-ganancias	profits	profits
-ganando	winning	winning
-ganar	win	win
-ganaron	won	they won
-gandalf	gandalf	gandalf
-gandhi	gandhi	gandhi
-ganglios	ganglia	ganglia
-ganó	won	won
-garantiza	guarantees	guarantees
-garantizar	guarantee	to guarantee
-garantía	warranty	warranty
-garcía	garcia	garcia
-garganta	throat	throat
-gary	gary	gary
-gas	gas	gas
-gaseoso	gaseous	gaseous
-gases	gases	gases
-gasto	guest	expenditure
-gastos	expenses	expenses
-gastritis	gastritis	gastritis
-gastronomía	gastronomy	gastronomy
-gastrulación	gastrulation	gastrulation
-gato	cat	cat
-gauguin	gauguin	gauguin
-gay	gay	gay
-gemelos	twin	twins
-gen	gene	gen
-genera	generates	generate
-generaciones	generations	generations
-generación	generation	generation
-generada	generated	generated
-generado	generated	generated
-generador	generated	generator
-generados	generated	generated
-general	general	general
-generales	generals	general
-generalización	generalization	generalization
-generalizada	generalized	widespread
-generalizado	generalized	generalized
-generalmente	generally	usually
-generan	generates	generate
-generando	generating	generating
-generar	generate	generate
-generó	generated	gender
-genes	genes	genes
-genio	genius	genius
-genital	genital	genital
-genitales	genitals	genitals
-genocidio	genocide	genocide
-genoma	genome	genome
-genomas	genomes	genomes
-gente	people	people
-genérico	generic	generic
-genética	genetic	genetics
-genéticamente	genetically	genetically
-genéticas	geneticasa	genetics
-genético	genetic	genetic
-genéticos	genetic	genetic
-geografía	geography	geography
-geográfica	geographic	geographic
-geográficamente	geographically	geographically
-geográficas	geographic	geographic
-geográfico	geographical	geographical
-geográficos	geographics	geographic
-geología	geology	geology
-geológica	geologic	geological
-geológicos	geologic	geological
-geometría	geometry	geometry
-geométrica	geometric	geometric
-geométricas	geometric	geometric
-geométrico	geometric	geometric
-geométricos	geometrics	geometric
-georg	georg	georg
-george	george	george
-georgia	georgia	georgia
-georgianos	georgian	georgians
-germánico	germanic	germanic
-gestación	gestation	gestation
-gestión	management	management
-gesto	gesture	gesture
-get	get	get
-gibraltar	gibraltar	gibraltar
-gigante	giant	giant
-gigantes	giant	giants
-gil	gil	gil
-gilmour	glimour	gilmour
-gimnasia	gymnastics	gymnastics
-ginebra	geneva	geneva
-giorgio	giorgio	giorgio
-giovanni	giovanni	giovanni
-gira	tour	tour
-giran	turn	turn
-girar	turn	turn
-giras	tours	you tour
-girl	niña	girl
-girls	girls	girls
-giro	turn	turn
-gitanos	gypsies	gypsies
-glam	glam	glam
-glande	glans	glans
-global	global	global
-globales	global	global
-globalización	globalization	globalization
-gloria	glory	glory
-glosario	glossary	glossary
-glucosa	glucose	glucose
-glándula	gland	gland
-glándulas	glands	glands
-glóbulos	globules	globules
-gobernador	governor	governor
-gobernante	gobernor	ruler
-gobernantes	rulers	rulers
-gobernó	ruled	ruled
-gobierno	government	government
-gobiernos	governments	governments
-goethe	goethe	goethe
-gogh	gogh	gogh
-gol	goal	goal
-goles	goals	goals
-golfo	gulf	gulf
-golgi	golgi	golgi
-golpe	coup	knock
-golpes	hits	hits
-gomez	gomez	gomez
-gonzalo	gonzalo	gonzalo
-gonzález	gonzalez	gonzalez
-good	good	good
-gordon	gordon	gordon
-gould	gould	gould
-gpl	gpl	gpl
-grabaciones	records	recordings
-grabación	recording	recording
-grabada	recorded	recorded
-grabado	recording	recorded
-grabados	engravings	engravings
-grabar	carve	record
-grabó	recorded	recorded
-gracia	grace	grace
-gracias	thanks	thanks
-gradiente	gradient	gradient
-grado	grade	grade
-grados	degrees	degrees
-gradual	gradual	gradual
-gradualmente	gradually	gradually
-grafito	graphite	graphite
-gram	gram	gram
-gramatical	grammatical	grammatical
-grammy	grammy	grammy
-gramática	grammar	grammar
-gran	great	great
-granada	grenade	pomegranate
-grand	grand	grand
-grande	big	big
-grandes	big	big
-grano	grain	grain
-granos	grain	grain
-grasa	grease	grease
-grasas	fats	fats
-grasos	fatty	fatty
-gratuita	free	free
-gratuito	free	gratuitous
-grave	serious	serious
-gravedad	seriousness	gravity
-gravemente	seriously	seriously
-graves	serious	serious
-gravitacional	gravitational	gravitational
-gravitación	gravitation	gravitation
-gravitatoria	gravitational	gravitational
-gravitatorio	gravitational	gravitational
-great	grandioso	great
-grecia	greece	greece
-green	green	green
-gregorio	gregorio	gregory
-griega	greek	greek
-griegas	greek	greek
-griego	greek	greek
-griegos	greeks	greeks
-gripe	flu	flu
-gris	gray	gray
-grueso	thick	thick
-grunge	grunge	grunge
-grupo	group	group
-grupos	groups	groups
-gráfica	graphic	graph
-gráficas	graphic	graphics
-gráfico	graphic	graphic
-gráficos	graphics	graphics
-guaraní	guaraní	guaraní
-guarda	related	guard
-guardameta	goalkeeper	goalkeeper
-guardar	save	save
-guardia	guard	guard
-guatemala	guatemala	guatemala
-guatemalteca	guatemalan	guatemalan
-guatemalteco	guatemalan	guatemalan
-guayana	guyana	guiana
-guayaquil	guayaquil	guayaquil
-gubernamental	governmental	governmental
-gubernamentales	government	government
-guerra	war	war
-guerras	wars	wars
-guerrero	warrior	warrior
-guerreros	warriors	warriors
-guerrilla	guerrilla	warfare
-guerrillas	guerrillas	guerrillas
-guerrillero	guerrilla	guerrilla
-guerrilleros	guerrilla	guerrillas
-guevara	guevara	guevara
-guillermo	guillermo	william
-guinea	guinea	guinea
-guion	script	script
-guitarra	guitar	guitar
-guitarras	guitars	guitars
-guitarrista	guitar player	guitarist
-guitarristas	guitarist	guitarists
-guns	guns	guns
-gusta	likes	like
-gustaba	liked	liked
-gustavo	gustavo	gustavo
-gusto	comfort	taste
-gustos	tastes	pleasures
-gutiérrez	guitierrez	gutiérrez
-guy	guy	guy
-guyana	guyana	guyana
-guía	guide	guide
-guías	guides	guides
-género	gender	gender
-géneros	genres	genders
-génesis	genesis	genesis
-génica	gene	gene
-gótica	gothic	gothic
-gótico	gothic	gothic
-ha	has	he has
-habana	havana	havana
-haber	having been	to have
-haberse	having	have
-habido	have been	have been
-habiendo	having	having
-habilidad	hability	skill
-habilidades	skills	abilities
-habitación	room	room
-habitan	inhabit	inhabit
-habitantes	inhabitants	population
-habitual	regular	habitual
-habituales	regular	usual
-habitualmente	usually	habitually
-habla	speaks	speaks
-hablaba	talked	she spoke
-hablada	spoken	spoken
-hablado	spoken	spoken
-hablan	speak	they speak
-hablando	talking	speaking
-hablantes	speakers	speakers
-hablar	talk	talk
-habló	spoke	i speak
-habrá	will	there will be
-habría	would have	there would be
-habrían	would have	would have
-había	was	there was
-habían	had	they had
-hace	makes	make
-hacen	make	make
-hacer	make	do
-hacerlo	to make it	do what
-hacerse	be known	to be made
-hacia	towards	toward
-hacienda	estate	estate
-haciendo	doing	doing
-hacía	toward	toward
-hacían	did	they did
-haga	make	make
-haití	haiti	haiti
-hall	hall	hall
-halla	is	find
-hallado	found	found
-hallan	find	find
-hallar	pull	find
-hallazgo	find	finding
-hallazgos	finds	findings
-halloween	halloween	halloween
-hambre	hunger	hungry
-hamburgo	hamburger	hamburg
-hamilton	hamilton	hamilton
-hamlet	hamlet	hamlet
-han	have	have
-hannah	hannah	hannah
-hans	hans	hans
-hard	hard	hard
-hardcore	hardcore	hardcore
-hardy	hardy	hardy
-harris	harris	harris
-harrison	harrison	harrison
-hart	hart	hart
-hará	will do	will
-haría	would do	would do
-hasta	until	until
-have	have	have
-hawking	hawking	hawking
-hay	there is	there is
-haya	has	beech
-hayan	have	have
-hazañas	exploits	feats
-hd	hd	hd
-he	there	i have
-heart	corazón	heart
-heath	heath	heath
-heavy	heavy	heavy
-hebra	strand	strand
-hebras	threads	strands
-hebreo	hebrew	hebrew
-hecha	made	done
-hechas	made	made
-hecho	done	done
-hechos	facts	acts
-hegel	hegel	hegel
-hegemonía	hegemony	hegemony
-heinrich	heinrich	heinrich
-helenístico	hellenistic	hellenistic
-helio	helium	helium
-hell	hell	hell
-hembras	females	females
-hemiplejía	hemiplegia	hemiplegia
-hemisferio	hemisphere	hemisphere
-hemoglobina	hemoglobin	hemoglobin
-hemos	we have	we have
-hendrix	hendrix	hendrix
-henri	henry	henri
-henry	henry	henry
-hepatitis	hepatitis	hepatitis
-hepática	hepatic	hepatic
-herbert	herbert	herbert
-heredero	heir	inheritor
-hereditario	hereditary	hereditary
-herencia	inheritance	heritage
-herida	wounded	wound
-heridas	wounds	wounds
-herido	wounded	injured
-hermana	sister	sister
-hermanas	sisters	sisters
-hermann	hermann	hermann
-hermano	brother	brother
-hermanos	siblings	siblings
-hernández	hernandez	hernandez
-herramienta	tool	tool
-herramientas	tools	tools
-heródoto	herodotus	herodotus
-hiciera	did	did
-hicieron	did	they made
-hidalgo	noble	gentleman
-hidrocarburos	hydrocarbons	hydrocarbons
-hidroeléctrica	hydroelectric	hydroelectric
-hidrografía	hydrography	hydrography
-hidroxilo	hydroxyl	hydroxyl
-hidráulica	hydraulic	hydraulics
-hidrógeno	hydrogen	hydrogen
-hielo	ice	ice
-hierba	grass	grass
-hierro	iron	iron
-higiene	hygiene	hygiene
-hija	daughter	daughter
-hijas	daughter	daughters
-hijo	son	son
-hijos	children	sons
-hill	hill	hill
-hilo	cord	thread
-hilos	threads	threads
-himno	anthem	anthem
-hindenburg	hindenburg	hindenburg
-hinduismo	hinduism	hinduism
-hinduistas	hindu	hinduists
-hindú	hindu	hindu
-hip	hip	hip
-hipertensión	hypertension	hypertension
-hipopotasemia	hypokalemia	hypokalemia
-hipotenusa	hypotenuse	hypotenuse
-hipotálamo	hypothalamus	hypothalamus
-hipótesis	hypothesis	hypothesis
-hispana	hispanic	hispanic
-hispania	hispania	hispania
-hispanoamericano	spanish american	spanish american
-hispanoamérica	hispanic	spanish america
-histonas	histones	histones
-historia	history	history
-historiador	historian	historian
-historiadores	historians	historians
-historias	stories	stories
-historiografía	historiography	historiography
-history	history	history
-histórica	historical	historical
-históricamente	historically	historically
-históricas	historic	historical
-histórico	historic	historical
-históricos	historic	historical
-hitler	hitler	hitler
-hito	milestone	milestone
-hitos	milestones	milestones
-hizo	did	did
-hn	hn	hn
-ho	h2o	ho
-hockey	hockey	hockey
-hogar	home	home
-hogares	homes	homes
-hoja	sheet	sheet
-hojas	leaves	leaves
-holanda	holland	holland
-holandés	dutch	dutch
-hollywood	hollywood	hollywood
-holocausto	holocaust	holocaust
-hombre	man	man
-hombres	men	mens
-home	home	home
-homenaje	tribute	tribute
-homeostasis	homeostasis	homeostasis
-homero	homer	homer
-homo	homo	homo
-homogéneo	homogeneous	homogeneous
-homonimia	homonymy	homonymy
-homosexual	homosexual	homosexual
-homosexuales	homosexuals	homosexual
-homosexualidad	homosexuality	homosexuality
-homéricos	homerics	homeric
-homólogos	counterpart	counterparts
-homónima	homonyme	namesake
-homónimo	homonymic, pertaining to a homonym, pertaining to a word spelled and pronounced as another word but with a different meaning	namesake
-honduras	honduras	honduras
-hong	hong	hong
-hongo	fungus	fungus
-hongos	mushrooms	mushrooms
-honor	honor	honor
-honores	honors	honors
-hop	hop	hop
-hope	hope	hope
-hora	time	time
-horario	hours	schedule
-horas	hours	hours
-horizontal	horizontal	horizontal
-horizontales	horizontal	horizontal
-horizonte	horizon	horizon
-hormigón	concrete	concrete
-hormona	hormone	hormone
-hormonas	hormones	hormones
-horno	oven	oven
-hornos	ovens	ovens
-hospital	hospital	hospital
-hospitales	hospitals	hospitals
-host	host	host
-hotel	hotel	hotel
-hoteles	hotels	hotels
-hotmail	hotmail	hotmail
-house	house	house
-howard	howard	howard
-hoy	today	today
-html	html	html
-http	http	http
-hubble	hubble	hubble
-hubiera	would have	would have
-hubiese	difficult	would have
-hubo	was	there was
-hueco	hole	hole
-huecos	gaps	gaps
-huelga	strike	strike
-huella	footprint	paw print
-huellas	footprints	footprints
-huerta	turn	vegetable plot
-hueso	bone	bone
-huesos	bones	bones
-huevo	egg	egg
-huevos	eggs	eggs
-hugo	hugo	hugo
-huir	run away	run away
-human	human	human
-humana	human	human
-humanas	human	human
-humanidad	humanity	humanity
-humanismo	humanism	humanism
-humanista	humanistic	humanist
-humano	human	human
-humanos	humans	humans
-hume	hume	hume
-humedad	humidity	humidity
-humor	humor	humor
-hungría	hungary	hungary
-huso	spindle	spindle
-hábitat	habitat	habitat
-hábitats	habitats	habitats
-hábitos	habits	habits
-héctor	hector	hector
-hélice	helix	propeller
-héroe	hero	hero
-héroes	heroes	heroes
-híbrido	hybrid	hybrid
-híbridos	hybrids	hybrids
-hígado	liver	liver
-húmeda	wet	wet
-húmedo	wet	damp
-húmedos	moist	wet
-húngaro	hungarian	hungarian
-i	i	i
-ian	ian	ian
-iba	was going	i was going
-iban	went	were going
-ibm	ibm	ibm
-ibn	ibn	ibn
-ibérica	iberian	iberian
-icarly	icarly	icarly
-ichigo	ichigo	ichigo
-icono	icon	icon
-idea	idea	idea
-ideal	ideal	ideal
-ideales	ideals	ideal
-idealismo	idealism	idealism
-ideas	ideas	ideas
-identidad	identity	identity
-identidades	identities	identities
-identifica	identifies	identifies
-identificación	identification	id
-identificado	identified	identified
-identifican	identify	identify
-identificar	identify	identify
-ideología	ideology	ideology
-ideologías	ideology	ideologies
-ideológica	ideologic	ideological
-ideológico	ideologic	ideological
-idioma	language	language
-idiomas	languages	languages
-ido	gone	gone
-idénticas	identical	identical
-idéntico	identical	identical
-idénticos	identical	identical
-iglesia	church	church
-iglesias	churchs	churches
-ignacio	gym	ignacio
-ignorancia	ignorance	ignorance
-igual	same with	same
-igualdad	equality	equality
-iguales	equals	equal
-igualmente	equally	equally
-ii	ii	ii
-iii	iii	iii
-il	il	il
-ilegal	illegal	illegal
-iluminación	illumination	illumination
-iluminados	illumined	illuminated
-ilusión	illusion	delusion
-ilustración	illustration	illustration
-ilustrado	illustrated	illustrated
-ilustrados	illustrated	illustrated
-ilíada	iliad	iliad
-im	im	im
-imagen	image	image
-imaginación	imagination	imagination
-imitación	imitation	imitation
-imitar	imitate	imitate
-immanuel	immanuel	immanuel
-impacto	impact	impact
-impactos	impact	impacts
-impedir	prevent	prevent
-imperial	imperial	imperial
-imperialismo	imperialism	imperialism
-imperio	empire	empire
-imperios	empires	empires
-impide	prevents	prevents
-impidió	stopped	prevented
-implantación	implantation	implantation
-implementación	implementation	implementation
-implica	implies	it implies
-implicaciones	implications	implications
-implicadas	involved	involved
-implicados	involved	involved
-implican	involve	involve
-impone	impose	imposes
-imponer	impose	impose
-importa	matter	matter
-importaciones	imports	imports
-importación	import	import
-importancia	importance	importance
-importante	important	important
-importantes	important	important
-importar	matter	to import
-imposibilidad	impossibility	impossibility
-imposible	impossible	impossible
-imposición	imposition	imposition
-imprenta	printing	printing
-imprescindible	essential	essential
-impresiones	feelings	impressions
-impresionismo	impressionism	impressionism
-impresión	print	print
-impreso	printed	printed
-impresora	printer	printer
-impresoras	printer	printers
-impuesto	tax	tax
-impuestos	taxes	taxes
-impulsado	driven	driven
-impulso	impulse	impulse
-impulsos	impulses	impulses
-impulsó	impulse	impulse
-impuso	imposed	imposed
-imágenes	images	images
-imán	magnet	magnet
-in	in	in
-inc	inc.	inc
-inca	inca	inca
-incapaces	incapable	incapable
-incapacidad	inability	inability
-incapaz	unable	be unable
-incas	incas	inca
-incendio	fire	fire
-incendios	fires	fires
-incertidumbre	uncertainty	uncertainty
-incidencia	incidence	incidence
-incidente	incident	incident
-incidentes	incidents	incidents
-inclinación	inclination	inclination
-inclinado	inclined	inclined
-incluida	included	included
-incluidas	included	included
-incluido	included	included
-incluidos	included	included
-incluir	include	include
-inclusive	inclusive	inclusive
-inclusión	inclusion	inclusion
-incluso	even	even
-incluye	including	it includes
-incluyen	include	include
-incluyendo	including	including
-incluyeron	included	included
-incluyó	included	included
-incluía	included	included
-incluían	included	included
-incompleta	incomplete	incomplete
-inconsciente	unconscious	unconscious
-inconvenientes	disadvantages	drawbacks
-incorpora	incorporates	incorporates
-incorporación	incorporation	incorporation
-incorporado	incorporated	incorporated
-incorporan	incorporate	incorporate
-incorporando	incorporating	incorporating
-incorporar	incorporate	to incorporate
-incorporó	incorporated	incorporated
-incrementa	increases	increases
-incrementado	increased	increased
-incremental	incremental	incremental
-incrementando	growing	increasing
-incrementar	increase	increase
-incremento	increase	increase
-incrementos	increments	increments
-incrementó	increase	increase
-incubación	incubation	incubation
-independencia	independence	independence
-independiente	independent	independent
-independientemente	independently	regardless
-independientes	independent	independent
-india	india	india
-indias	indian	indian
-indica	indicates	indicates
-indicado	indicated	indicated
-indicador	indicator	indicator
-indicadores	indicators	indicators
-indican	indicate	indicate
-indicando	indicating	indicating
-indicar	indicate	indicate
-indicios	indications	clues
-indio	indian	indian
-indios	indians	indians
-indirecta	indirect	hint
-indirectamente	indirectly	indirectly
-indirecto	indirect	indirect
-indispensable	indispensable	indispensable
-individual	individual	individual
-individuales	individual	individual
-individualismo	individualism	individualism
-individuo	individual	individual
-individuos	individuals	individuals
-indonesia	indonesia	indonesia
-inducción	induction	induction
-industria	industry	industry
-industrial	industrial	industrial
-industriales	industries	industrial
-industrialización	industrialization	industrialization
-industrias	industries	industries
-indígena	indigenous	indigenous
-indígenas	natives	natives
-inercia	inertia	inertia
-inercial	inertial	inertial
-inestabilidad	instability	instability
-inevitable	inevitable	inevitable
-infancia	childhood	childhood
-infantería	infantry	infantry
-infantil	infantile	childish
-infantiles	childish	infantile
-infecciones	infections	infections
-infecciosas	infectious	infectious
-infección	infection	infection
-infectada	infected	infected
-infectadas	infected	infected
-infectado	infected	infected
-infectados	infected	infected
-infectan	infect	infect
-infectar	infect	infect
-inferior	lower	lower
-inferiores	lower	lower
-infierno	hell	hell
-infinita	infinite	infinite
-infinito	infinite	infinite
-inflación	inflation	inflation
-inflamación	inflamation	inflammation
-influencia	influence	influence
-influenciada	influenced	influenced
-influenciado	influenced	influenced
-influenciados	influenced	influenced
-influencias	influences	influences
-influenza	influenza	influenza
-influido	influenced	influenced
-influir	influence	influence
-influjo	influence	influence
-influye	influence	influences
-influyen	influence	influence
-influyente	influential	influential
-influyentes	influential	influential
-influyó	influenced	influenced
-informa	inform	informs
-informaciones	information	information
-información	information	information
-informal	informal	informal
-informe	report	report
-informes	reports	reports
-informática	informatics	computing
-informático	computing	computer
-informáticos	informatic	computer
-informó	found	reported
-infracción	infraction	infringement
-infraestructura	infrastructure	infrastructure
-infraestructuras	infrastructure	infrastructures
-ingeniero	engineer	engineer
-ingenieros	engineer	engineers
-ingeniería	engineering	engineering
-ingesta	intake	intake
-inglaterra	england	england
-inglesa	english	english
-inglesas	english	english
-ingleses	english	english
-inglés	english	english
-ingredientes	ingredients	ingredients
-ingresar	go to	enterokay
-ingreso	entry	entry
-ingresos	income	income
-ingresó	entered	entry
-inhibe	inhibit	inhibits
-inhibidores	inhibitors	inhibitors
-inicia	starts	start
-iniciada	started	started
-iniciado	initiated	initiated
-inicial	initial	initial
-iniciales	initial	initials
-inicialmente	initially	initially
-iniciar	start	start
-iniciaron	began	started
-iniciativa	initiative	initiative
-iniciativas	initiatives	initiatives
-inicio	start	start
-inicios	beginning	the beginning
-inició	started	start
-inmediata	immediate	immediate
-inmediatamente	immediately	immediately
-inmediato	immediately	righ now
-inmensa	immense	immense
-inmigración	immigration	immigration
-inmigrantes	immigrants	immigrants
-inminente	imminent	imminent
-inmune	immune	immune
-inmunidad	immunity	immunity
-inmunitario	immune	immune
-innovaciones	innovations	innovations
-innovación	innovation	innovation
-innumerables	countless	innumerable
-inquisición	inquisition	inquisition
-inscripción	inscription	inscription
-insectos	insects	insects
-inserción	insertion	insertion
-insistió	insisted	insisted
-inspiración	inspirations	inspiration
-inspirada	inspired	inspired
-inspiradas	inspired	inspired
-inspirado	inspired	inspired
-inspirados	inspired	inspired
-inspiró	inspired	inspired
-instalaciones	installations	installations
-instalación	installation	installation
-instalado	installed	installed
-instalar	install	install
-instaló	installed	installed
-instancia	instance	instance
-instante	instant	instant
-instantánea	instant	snapshot
-institucional	institutional	institutional
-instituciones	institutions	institutions
-institución	institution	institution
-instituto	institute	institute
-instrucciones	instructions	instructions
-instrucción	instruction	instruction
-instrumental	instrumental	instrumental
-instrumento	instrument	instrument
-instrumentos	instruments	instruments
-insuficiencia	inadequacy	insufficiency
-insulina	insuline	insulin
-integra	integrates	integra
-integración	integration	integration
-integrada	integrated	integrated
-integrado	integrated	integrated
-integrados	integrated	integrated
-integral	integral	integral
-integran	integrate	integrate
-integrante	member	member
-integrantes	members	members
-integrar	integrate	to integrate
-integridad	integrity	integrity
-intel	intel	intel
-intelectual	intellectual	intellectual
-intelectuales	intellectual	intellectuals
-inteligencia	intelligence	intelligence
-inteligente	intelligent	intelligent
-inteligentes	smart	smart
-intenciones	intentions	intentions
-intención	intention	intention
-intensa	intense	intense
-intensamente	intensely	intensely
-intensidad	intensity	intensity
-intenso	intense	intense
-intensos	intenses	intense
-intenta	try	try
-intentado	tried	tried
-intentan	try	they try
-intentando	trying	trying
-intentar	try	try
-intentaron	attempted	they tried
-intento	attempt	tried
-intentos	attempts	attempts
-intentó	attempted	tried
-interacciones	interactions	interactions
-interacción	interaction	interaction
-interactuar	interact	to interact
-interactúan	interact	they interact
-intercambio	exchange	exchange
-intercambios	exchanges	exchanges
-interesa	interests	interested
-interesado	interested	interested
-interesados	interested	interested
-interesante	interesting	interesting
-interesantes	interesting	interesting
-intereses	interests	interests
-interfase	interface	interface
-interfaz	interface	interface
-interferencia	interference	interference
-interior	interior	inside
-interiores	interior	interiors
-intermedia	intermediate	intermediate
-intermedias	intermediate	intermediate
-intermedio	intermediate	intermediate
-intermedios	intermediates	intermediate
-interna	internal	internal
-internacional	international	international
-internacionales	international	international
-internacionalmente	internationally	internationally
-internas	interns	internal
-international	international	international
-internet	internet	internet
-interno	internal	internal
-internos	internal	internal
-interpreta	interprets	interprets
-interpretaciones	interpretations	interpretations
-interpretación	interpretation	interpretation
-interpretada	interpreted	interpreted
-interpretado	interprets	interpreted
-interpretando	interpreting	interpreting
-interpretar	interpret	interpret
-interpretó	interpreted	interpreted
-interrupción	interruption	interruption
-intersección	intersection	intersection
-intertropical	intertropical	intertropical
-intervalo	interval	interval
-intervalos	intervals	intervals
-intervenciones	interventions	interventions
-intervención	intervention	intervention
-intervenir	take part	to intervene
-interviene	intervene	intervenes
-intervienen	intervene	intervene
-interés	interest	interest
-intestino	intestine	intestine
-introducción	introduction	introduction
-introduce	introduce	introduce
-introducen	introduce	introduce
-introducido	introduced	inserted
-introducir	introduce	introduce
-introdujeron	introduced	they introduced
-introdujo	introduced	introduced
-intuición	intuition	intuition
-intérprete	intrepreter	interpreter
-intérpretes	interpreters	interpreters
-inundaciones	floods	floods
-inusual	unusual	unusual
-invasiones	invasions	invasions
-invasión	invasion	invasion
-invención	invention	invention
-inventado	invented	made up
-inventario	inventory	inventory
-invento	invention	invention
-inventor	inventor	inventor
-inventó	invented	invention
-invernadero	greenhouse	greenhouse
-inversa	inverse	inverse
-inversiones	investment	investments
-inversión	inversion	investment
-inverso	reverse	reverse
-investigaciones	research	research
-investigación	investigation	investigation
-investigador	investigator	investigator
-investigadores	researchers	researchers
-investigar	investigate	research
-invierno	winter	winter
-inviernos	winters	winters
-invitado	invited	invited
-invitados	guests	guests
-invitó	invited	invited
-involucra	involve	involves
-involucradas	involved	involved
-involucrados	involved	involved
-inyección	injection	injection
-ion	ion	ion
-iones	ions	ions
-ip	ip	ip
-ir	go	go
-ira	anger	go to
-irak	iraq	iraq
-irlanda	ireland	ireland
-irlandesa	irish	irish
-irlandés	irish	irish
-iron	iron	iron
-irracional	irrational	irrational
-irregular	irregular	irregular
-irregulares	irregular	irregular
-irán	iran	iran
-is	is	is
-isaac	isaac	isaac
-isabel	isabel	isabel
-isbn	isbn	isbn
-isla	island	island
-islam	islam	islam
-island	island	island
-islandia	iceland	iceland
-islas	islands	islands
-islámica	islamic	islamic
-islámico	islamic	islamic
-iso	iso	iso
-israel	israel	israel
-israelí	israeli	israeli
-istmo	isthmus	isthmus
-isótopo	isotopes	isotope
-isótopos	isotopes	isotopes
-it	it	item
-italia	italy	italy
-italiana	italian	italian
-italianas	italian	italian
-italiano	italian	italian
-italianos	italians	italians
-ix	ix	ix
-izquierda	left	left
-izquierdo	left	left
-j	j	j
-jack	jack	jack
-jackson	jackson	jackson
-jacob	jacob	jacob
-jacques	jacques	jacques
-jagger	jagger	jagger
-jaime	jaime	james
-jam	jam	jam
-jamaica	jamaica	jamaica
-james	james	james
-jamás	never	never
-janeiro	janeiro	janeiro
-japonesa	japanese	japanese
-japonesas	japanese	japanese
-japoneses	japaneses	japanese
-japonés	japanese	japanese
-japón	japan	japan
-jardines	gardens	gardens
-jardín	garden	yard
-jason	jason	jason
-java	java	java
-javier	javier	javier
-jazz	jazz	jazz
-jedi	jedi	jedi
-jefe	boss	boss
-jefes	bosses	bosses
-jeff	jeff	jeff
-jehová	jehova	jehovah
-jerarquía	hierarchy	hierarchy
-jersey	jersey	sweater
-jerusalén	jerusalem	jerusalem
-jesucristo	jesus christ	jesus christ
-jesús	jesus	jesus
-jim	jim	jim
-jimmy	jimmy	jimmy
-jiménez	jimenez	jimenez
-joan	joan	joan
-joaquín	joaquin	joaquin
-joe	joe	joe
-johann	johann	johann
-johannes	johannes	johannes
-john	john	john
-johnny	johnny	johnny
-johnson	johnson	johnson
-jon	jon	jon
-jonas	jonas	jonas
-jones	jones	jones
-jorge	jorge	george
-jornada	journey	working day
-joseph	joseph	joseph
-josé	josé	josé
-journal	journal	journal
-joven	young	young
-jr	jr	jr
-juan	juan	juan
-juana	joan	joan
-judaísmo	judaism	judaism
-judea	judea	judea
-judicial	judicial	judicial
-judiciales	judicials	judicial
-judía	jewish	bean
-judías	jewish	jewish
-judío	jew	jew
-judíos	jews	jews
-jueces	judge	judges
-juega	plays	play
-juegan	play	they play
-juego	game	game
-juegos	games	games
-juez	judge	judge
-jugado	played	played
-jugador	player	player
-jugadores	players	players
-jugando	playing	playing
-jugar	play	to play
-jugó	played	juice
-juicio	judgement	judgment
-juicios	judgement	judgments
-julieta	juliet	juliet
-julio	july	july
-jump	jump	jump
-junio	june	june
-junta	meeting	meeting
-juntas	meetings	together
-junto	together	together
-juntos	together	together
-juramento	oath	oath
-jurisdicción	jurisdiction	jurisdiction
-jurídica	legal	legal
-jurídicas	legal	legal
-jurídico	legal	legal
-jurídicos	legal	legal
-justa	fair	fair
-justicia	justice	justice
-justifica	justified	justifies
-justificación	justification	justification
-justificar	justify	justify
-justo	fair	fair
-juvenil	youthful	youth
-juventud	youth	youth
-jóvenes	young	young boys
-júpiter	jupiter	jupiter
-k	k	k
-kahlo	kahlo	kahlo
-kant	kant	kant
-karl	karl	karl
-kaón	kaon	kaon
-keith	keith	keith
-kelvin	kelvin	kelvin
-kepler	kepler	kepler
-kevin	kevin	kevin
-kids	kids	kids
-kilómetros	kilometers	kilometres
-king	king	king
-kiss	beso	kiss
-km²	km2	km²
-kong	kong	kong
-kristen	kristen	kristen
-kurt	kurt	kurt
-la	the	the
-label	label	label
-labios	lips	lips
-labor	work	work
-laboral	labor	labor
-laborales	labor	labor
-laboratorio	laboratory	laboratory
-laboratorios	laboratories	laboratories
-labores	jobs	labors
-lado	side	side
-lados	sides	sides
-lago	lake	lake
-lagos	lakes	lakes
-laguna	lagoon	lagoon
-lagunas	lagoons	gaps
-lanza	launches	spear
-lanzada	thrown	thrown
-lanzado	released	thrown out
-lanzados	released	thrown
-lanzamiento	launch	launching
-lanzamientos	throwing	releases
-lanzar	release	throw
-lanzaron	throw	threw
-lanzó	released	he launched
-lapso	lapse	lapse
-larga	long	long
-largas	long	long
-largo	long	long
-largos	long	long
-las	the	the
-last	last	last
-latente	latent	latent
-lateral	lateral	side
-laterales	lateral	lateral
-latin	latin	latin
-latina	latin	latin
-latino	latin	latin
-latinoamericana	latin american	latin american
-latinoamericano	latin american	latin american
-latinoamericanos	latin american	latin americans
-latinoamérica	latin america	latin america
-latinos	latinos	latinos
-latitud	latitude	latitude
-latitudes	latitudes	latitudes
-latín	latin	latin
-lazarillo	lazarillo de tormes	guide
-lazos	binds	ties
-lc	lc	lc
-le	him	you
-lealtad	loyalty	loyalty
-leche	milk	milk
-lector	reader	reader
-lectores	readers	readers
-lectura	reading	reading
-lecturas	readings	readings
-led	led	led
-lee	lee	read
-leer	read	read
-legado	legacy	legacy
-legal	legal	legal
-legales	legals	legal
-legalmente	legally	legally
-legislación	legislation	legislation
-legislativa	legislative	legislative
-legislativo	legislative	legislative
-legitimidad	legitimacy	legitimacy
-legión	legion	legion
-legítimo	legitimate	legitimate
-leibniz	leibniz	leibniz
-lejano	far	far
-lejos	far	far
-lema	motto	motto
-lengua	language	language
-lenguaje	language	language
-lenguajes	languages	idioms
-lenguas	languages	tongues
-lenin	lenin	lenin
-lennon	lennon	lennon
-lenta	slow	slow
-lentamente	slowly	slowly
-lento	slow	slow
-leonard	leonard	leonard
-leonardo	leonardo	leonardo
-lerdo	dull	dull
-les	them	them
-lesiones	injuries	injuries
-lesión	injury	injury
-letonia	latvia	latvia
-letra	letter	lyrics
-letras	letters	letters
-leucemia	leukemia	leukemia
-levaduras	yeasts	yeast
-levantamiento	raising	lifting
-levantar	lift	lift up
-leve	light	mild
-lewis	lewis	lewis
-ley	law	law
-leyenda	legend	legend
-leyendas	legend	legends
-leyes	laws	laws
-leyó	read	read
-leído	read	read
-león	lion	lion
-libera	frees	liberates
-liberación	liberation	release
-liberada	released	released
-liberado	released	released
-liberados	liberators	released
-liberal	liberal	liberal
-liberales	liberals	liberal
-liberalismo	liberalism	liberalism
-liberan	release	release
-liberar	liberate	break free
-libertad	freedom	freedom
-libertades	liberties	liberties
-libertador	liberator	liberator
-libertario	libertarian	libertarian
-libia	libya	libya
-libre	free	free
-libremente	freely	freely
-libres	free	free
-libro	book	book
-libros	books	books
-licencia	license	license
-licenciado	graduate	graduate
-licencias	licenses	licenses
-licor	liqueur	liqueur
-liderado	led	led
-liderazgo	leadership	leadership
-life	life	life
-liga	league	league
-ligada	tied to	tied
-ligado	linked	bound
-ligados	associated	linked
-ligas	league	suspenders
-ligera	light	light
-ligeramente	slightly	slightly
-ligeras	light	light
-ligero	light	light
-ligeros	light	light
-like	like	like
-lima	lime	lime
-limita	limited	limits
-limitaciones	limitations	limitations
-limitación	limitation	limitation
-limitada	limited	limited
-limitadas	limited	limited
-limitado	limited	limited
-limitados	limited	limited
-limitar	limit	limit
-limpieza	cleanness	cleaning
-linaje	lineage	lineage
-linajes	lineage	lineages
-lincoln	lincoln	lincoln
-linda	pretty	cute
-lineal	linear	linear
-lineales	linear	linear
-linfocitos	lymphocytes	lymphocytes
-linfáticos	lymphatic	lymphatic
-lingüística	linguistic	linguistics
-lingüísticas	linguistic	linguistic
-lingüístico	linguistic	linguistic
-lingüísticos	linguistics	linguistic
-linkin	linkin	linkin
-linneo	linnaeus	linnaeus
-linux	linux	linux
-lipídica	lipid	lipid
-lisa	plain	smooth
-lisboa	lisbon	lisbon
-liso	smooth	smooth
-lista	list	list
-listado	list	list
-listas	list	lists
-literal	literal	literal
-literalmente	literally	literally
-literaria	literary	literary
-literarias	literary	literary
-literario	literary	literary
-literarios	literary	literary
-literatura	literature	literature
-little	little	little
-lituania	lithuania	lithuania
-live	live	live
-liverpool	liverpool	liverpool
-llama	called	call
-llamaba	called	called
-llamaban	called	they called
-llamada	call	call
-llamadas	called	calls
-llamado	called	called
-llamados	called	called
-llamamos	we call	we call
-llaman	call	they call
-llamar	to call	to call
-llamaron	called	they called
-llamarse	called	called
-llamó	called	i call
-llano	flat	flat
-llanos	plains	plains
-llanura	plain	plain
-llanuras	plains	plains
-llega	comes to be	arrives
-llegaba	came	arrived
-llegada	arrival	arrival
-llegado	has come	arrived
-llegan	reach	arrive
-llegando	arriving	arriving
-llegar	go	get
-llegaron	arrived	arrived
-llegaría	would arrive	would arrive
-llegue	arrival	i arrived
-llegó	got	i arrive
-llena	full	full
-lleno	full	full
-lleva	carries	carries
-llevaba	had	wore
-llevaban	had on	they wore
-llevada	carried	carried
-llevado	taken	led
-llevados	carried	carried
-llevan	carry	they carry
-llevar	have	carry
-llevaron	brought	they carried
-llevaría	would carry	would carry
-llevó	drove	i wear
-lluvia	rain	rain
-lluvias	rains	rains
-lo	the	the
-lobo	wolf	wolf
-local	local	local
-locales	local	local
-localidad	town	location
-localidades	localities	localities
-localiza	located	locate
-localización	location	location
-localizada	located	located
-localizado	located	located
-localmente	locally	locally
-logaritmo	logarithm	logarithm
-logra	achieve	achieves
-logrado	achieved	accomplished
-logran	accomplish	they achieve
-logrando	achieving	achieving
-lograr	achieve	achieve
-lograron	accomplished	they got
-logro	achievement	achievement
-logros	achievements	achievements
-logró	achievement	achievement
-london	london	london
-londres	london	london
-longitud	length	length
-longitudes	lengths	lengths
-lope	lope	lope
-lord	lord	lord
-lorenzo	lorenzo	lawrence
-los	the	the
-louis	louis	louis
-louvre	louvre	louvre
-lovato	lovato	lovato
-love	amor	sees it
-lp	lp	lp
-lucas	luke	luke
-luces	lights	lights
-lucha	fight	fight
-luchador	fighter	fighter
-luchando	fighting	fighting
-luchar	fight	to struggle
-luchas	fights	fights
-luchó	fought	fought
-lucro	profit	profit
-ludovico	ludovico	ludovico
-ludwig	ludwig	ludwig
-luego	then	then
-lugar	place	place
-lugares	places	places
-luis	luis	luis
-lujo	deluxe	luxury
-luke	luke	luke
-luminosa	light	luminous
-luna	moon	moon
-lunar	lunar	lunar
-lunes	mondays	monday
-lutero	luther	luther
-luxemburgo	luxembourg	luxembourg
-luz	light	light
-láctea	milky	milky
-lámina	sheet	sheet
-láminas	plates	sheets
-láser	laser	to be
-lázaro	lazaro	lazarus
-léonard	leonard	léonard
-léxico	lexicon	lexicon
-líbano	lebanon	lebanon
-líbero	libero	libero
-líder	leader	leader
-líderes	leaders	leaders
-límite	limits	limit
-límites	limits	limits
-línea	line	line
-líneas	lines	lines
-lípidos	lipids	lipids
-líquida	liquid	liquid
-líquido	liquid	liquid
-líquidos	liquids	liquids
-lírica	lyric	lyric
-lírico	lyric	lyrical
-lóbulo	lobe	lobe
-lógica	logic	logic
-lógicas	logical	logical
-lógico	logical	logical
-lógicos	logic	logical
-lópez	lopez	lopez
-m	m	m
-ma	ma	ma
-mac	mac	mac
-macedonia	macedonia	macedonia
-machine	machine	machine
-macho	male	male
-machos	males	males
-machu	machu	machu
-macizo	solid	solid
-macondo	macondo	macondo
-madera	wood	wood
-maderas	woods	woods
-madero	wood	log
-madonna	madonna	madonna
-madre	mother	mother
-madres	mothers	mothers
-madrid	madrid	madrid
-maduración	maturity	maturation
-madurez	maturity	maturity
-maduro	mature	mature
-maestra	teacher	teacher
-maestras	teachers	teachers
-maestro	teacher	teacher
-maestros	teachers	teachers
-magdalena	magdalene	cupcake
-magia	magic	magic
-magna	magna	magna
-magnesio	magnesium	magnesium
-magnetismo	magnetism	magnetism
-magnitud	magnitude	magnitude
-magnitudes	magnitudes	magnitudes
-magno	magnum	great
-magnética	magnetic	magnetic
-magnético	magnetic	magnetic
-magnéticos	magnetic	magnetic
-mago	wizard	wizard
-mahoma	muhammad	muhammad
-maiden	maiden	maiden
-mal	bad	evil
-mala	bad	bad
-malas	bad	bad
-malo	bad	bad
-malos	bad	bad
-mamíferos	mammals	mammals
-man	man	man
-mancha	mancha	stain
-manchas	spots	spots
-manchester	manchester	manchester
-mancomunidad	commonwealth	commonwealth
-mandato	mandate	mandate
-mando	comman	i send
-manejar	use	drive
-manejo	drive	driving
-manera	way	way
-maneras	ways	ways
-manga	manga	sleeve
-manhattan	manhattan	manhattan
-manifestaciones	manifestations	manifestations
-manifestación	manifestation	manifestation
-manifestó	manifested	manifested
-manifiesta	manifest	manifest
-manifiestan	manifest	manifest
-manifiesto	manifest	manifest
-manipulación	manipulation	handling
-manipular	manipulate	handle
-mano	hand	hand
-manos	hands	hands
-manson	manson	manson
-mantener	keep	keep
-mantenerse	keep	keep
-mantenido	kept	kept
-manteniendo	keeping	keeping
-mantenimiento	maintenance	maintenance
-mantenía	maintained	kept
-mantenían	held	they kept
-mantiene	maintains	maintains
-mantienen	maintained	they keep
-manto	mantle	mantle
-mantuvieron	maintained	they kept
-mantuvo	maintainted	kept up
-manual	manual	handbook
-manuel	manuel	manuel
-manufactura	manufacture	manufacture
-manuscrito	manuscript	manuscript
-manuscritos	manuscripts	manuscripts
-manzana	apple	apple
-mapa	map	map
-mapas	maps	maps
-maquillaje	makeup	makeup
-maquinaria	machinery	machinery
-mar	sea	sea
-maracaibo	maracaibo	maracaibo
-maravillas	wonders	wonders
-marca	mark	brand
-marcada	marked	marked
-marcado	marking	marked
-marcadores	markers	markers
-marcados	marked	marked
-marcan	mark	mark
-marcar	mark	mark
-marcas	brand	brands
-marcel	marcel	marcel
-march	march	march
-marcha	march	march
-marco	framework	framework
-marcos	frames	frames
-marcó	framework	framework
-mares	seas	seas
-marfil	ivory	ivory
-margarita	margaret	daisy flower
-margen	margin	margin
-marginal	marginal	marginal
-maria	maria	mary
-mariano	mariano	mariano
-marido	husband	husband
-marie	marie	marie
-marina	marine	marine
-marinas	marine	marine
-marino	marine	marine
-marinos	marine	marine
-mario	mario	mario
-mariscal	marshall	marshal
-mark	mark	mark
-marketing	marketing	marketing
-marqués	marquis	marquis
-marruecos	morocco	morocco
-marshall	marshall	marshall
-marta	marta	martha
-marte	mars	mars
-martin	martin	martin
-martín	martin	martin
-martínez	martinez	martinez
-marxismo	marxism	marxism
-marxista	marxist	marxist
-marxistas	marxists	marxists
-mary	mary	mary
-marzo	march	march
-maría	maria	mary
-marítima	maritime	maritime
-marítimo	maritime	maritime
-mas	more	more
-masa	mass	mass
-masacre	massacre	slaughter
-masas	masses	masses
-masculina	masculine	masculine
-masculino	male	male
-masculinos	male	male
-masiva	massive	massive
-masivas	massive	massive
-masivo	massive	massive
-masivos	massive	massive
-maslow	maslow	maslow
-mason	mason	mason
-mastigophora	mastigophora	mastigophora
-masturbación	masturbation	masturbation
-matar	kill	kill
-match	match	match
-mate	mate	mate
-matemática	math	math
-matemáticamente	mathematically	mathematically
-matemáticas	mathematics	mathematics
-matemático	mathematic	mathematical
-matemáticos	mathematicians	mathematicians
-mateo	matthew	matthew
-materia	matter	subject
-material	material	material
-materiales	materials	materials
-materialismo	materialism	materialism
-materias	subjects	subjects
-materna	maternal	maternal
-matrimonio	marriage	marriage
-matrimonios	marriages	marriages
-matriz	matrix	matrix
-matt	matt	matt
-matthew	matthew	matthew
-mauricio	mauricio	mauricio
-max	max	max
-maximiliano	maximiliano	maximilian
-maxwell	maxwell	maxwell
-may	may	may
-maya	maya	maya
-mayas	mayans	mayan
-mayo	may	may
-mayor	bigger	higher
-mayores	majority	greater
-mayoritaria	majority	majority
-mayoritariamente	mostly	mostly
-mayormente	mainly	mainly
-mayoría	mostly	most
-maíz	corn	corn
-mañana	morning	morning
-mc	mc	mc
-mccartney	mccartney	mccartney
-mcmahon	mcmahon	mcmahon
-me	me	i
-mecanismo	mechanism	mechanism
-mecanismos	mechanisms	mechanisms
-mecanizado	mechanized	machining
-mecenas	patrons	patron
-mecánica	mechanics	mechanics
-mecánicas	mechanicals	mechanical
-mecánico	mechanical	mechanical
-mecánicos	mechanics	mechanical
-medalla	medal	medal
-medallas	medals	medals
-media	half	half
-mediados	mid	mid
-mediano	medium	medium
-mediante	by	through
-medias	average	socks
-medicamentos	drugs	medicines
-medicina	medicine	medicine
-mediciones	measurements	measurements
-medición	measuring	measurement
-medida	measure	measure
-medidas	measures	measurements
-medieval	medieval	medieval
-medievales	medieval	medieval
-medina	medina	medina
-medio	medium	medium
-medioambientales	environmental	environmental
-medios	media	media
-medir	to measure	to size
-mediterránea	mediterranean	mediterranean
-mediterráneo	mediterranean	mediterranean
-meiosis	meiosis	meiosis
-mejor	best	best
-mejora	improvement	improvement
-mejorado	improved	improved
-mejorando	improving	getting better
-mejorar	to improve	to get better
-mejoras	improvements	improvements
-mejores	major	top
-mejoró	improved	got better
-mellitus	mellitus	mellitus
-melodía	melody	melody
-melodías	melodies	melodies
-membrana	membrane	membrane
-membranas	membranes	membranes
-memoria	memory	memory
-memorial	memorial	memorial
-memorias	memories	memories
-memphis	memphis	memphis
-men	men	menu
-menciona	mentions	mentions
-mencionada	mentioned	mentioned
-mencionadas	mentioned	mentioned
-mencionado	mentioned	mentioned
-mencionados	mentioned	mentioned
-mencionar	mentioned	to mention
-mencionó	mentioned	mentioned
-mención	mention	mention
-mendel	mendel	mendel
-mendoza	mendoza	mendoza
-menor	lower	less
-menores	minors	minors
-menos	less	less
-mensaje	message	message
-mensajero	messenger	delivery courier
-mensajes	messages	messages
-mental	mental	mental
-mentales	mental	mental
-mentalidad	mentality	mentality
-mente	mind	mind
-menudo	often	often
-mera	mere	mere
-meramente	merely	merely
-mercaderes	merchant	merchants
-mercado	market	market
-mercados	markets	markets
-mercancías	goods	goods
-mercantilismo	mercantilism	mercantilism
-mercantilistas	mercantilists	mercantilists
-mercosur	mercosur	mercosur
-mercurio	mercury	mercury
-meridional	southern	southern
-mero	mere	mere
-mes	month	month
-mesa	table	table
-meses	months	months
-meseta	plateau	plateau
-mesoamericana	mesoamerican	mesoamerican
-mesoamericanas	mesoamerican	mesoamerican
-mesoamericano	mesoamerican	mesoamerican
-mesoamericanos	mesoamericans	mesoamericans
-mesoamérica	mesoamerica	mesoamerica
-mesopotamia	mesopotamia	mesopotamia
-messenger	messenger	messenger
-messi	messi	messi
-mestizaje	mixing	miscegenation
-meta	goal	goal
-metabolismo	metabolism	metabolism
-metabólica	metabolic	metabolic
-metabólicas	metabolics	metabolic
-metafísica	metaphysics	metaphysics
-metafísico	metaphysical	metaphysical
-metal	metal	metal
-metales	metals	metals
-metalurgia	metallurgy	metallurgy
-metano	methane	methane
-metas	goals	goals
-metatarso	metatarsus	metatarsus
-metodología	methodology	methodology
-metro	meter	meter
-metropolitana	metropolitan	metropolitan
-metros	meters	meter
-metáfora	metaphor	metaphor
-metálica	metalic	metallic
-metálico	metal	metal
-metálicos	metal	metallic
-mexicana	mexican	mexican
-mexicano	mexican	mexican
-mexicanos	mexicans	mexicans
-mezcla	mix	mixture
-mezclan	mixed	mix
-mezclas	mixtures	mixes
-mezquita	mosque	mosque
-mi	my	me
-michael	michael	michael
-michaels	michaels	michaels
-michel	michel	michel
-mick	mick	mick
-micro	micro	micro
-microondas	microwave	microwave oven
-microorganismos	microorganisms	microorganisms
-microprocesador	microprocessor	microprocessor
-microscopio	microscope	microscope
-microsoft	microsoft	microsoft
-microtúbulos	microtubule	microtubules
-micrófono	microphone	microphone
-mide	measures	measure
-miden	measure	measure
-miedo	fear	fear
-miel	honey	honey
-miembro	member	member
-miembros	members	members
-mientras	while	while
-migraciones	migration	migrations
-migración	migration	migration
-miguel	miguel	miguel
-mike	mike	mike
-mil	thousand	thousand
-milagro	miracle	miracle
-milan	milan	milan
-milenio	millennium	millennium
-miles	thousands	thousands
-militar	military	military
-militares	military	military
-miller	miller	miller
-millones	millions	millions
-millón	million	million
-milán	milan	milan
-minas	mines	mines
-mineral	mineral	mineral
-minerales	minerals	minerals
-minería	mining	mining
-ministerio	ministry	ministry
-ministro	minister	minister
-ministros	ministers	ministers
-minoría	minority	minority
-minorías	minorities	minorities
-minuto	minutes	minute
-minutos	minutes	minutes
-miopatía	myopathy	myopathy
-mira	look	look
-mirada	look	look
-mis	my	my
-misa	mass	mass
-misantropía	misanthropy	misanthropy
-misiles	missiles	missile
-misiones	missions	missions
-misión	mission	mission
-misma	same	same
-mismas	same	themselves
-mismo	same	same
-mismos	same	themselves
-misterio	mystery	mystery
-mitad	half	half
-mito	myth	myth
-mitocondrias	mitochondria	mitochondria
-mitología	mythology	mythology
-mitos	myths	myths
-mitosis	mitosis	mitosis
-mixta	mixed	mixed
-mixto	mixed	mixed
-mm	mm	mm
-moda	fashion	fashion
-modalidad	modality	modality
-modalidades	modalities	modalities
-modelo	model	model
-modelos	models	models
-moderado	moderate	moderate
-moderna	modern	modern
-modernas	modern	modern
-modernidad	modernity	modernity
-modernismo	modernism	modernism
-moderno	modern	modern
-modernos	moderns	modern
-modifica	modifies	modify
-modificaciones	modifications	modifications
-modificación	modification	modification
-modificada	modified	modified
-modificadas	modified	modified
-modificado	modified	modified
-modificar	modify	modify
-modo	mode	mode
-modos	modes	modes
-modulación	modulation	modulation
-moisés	moses	moses
-molde	mold	mold
-molecular	molecular	molecular
-moleculares	molecular	molecular
-molibdeno	molybdenum	molybdenum
-molina	molina	mill
-molinos	mills	mills
-molécula	molecule	molecule
-moléculas	molecules	molecules
-momento	moment	moment
-momentos	moments	moments
-monarca	king	monarch
-monarquía	monarchy	monarchy
-monarquías	monarchies	monarchies
-monasterio	monastery	monastery
-moneda	currency	currency
-monedas	coins	coins
-monetaria	monetary	monetary
-monetario	monetary	monetary
-monica	monica	monica
-monitor	monitor	monitor
-monitores	monitors	monitors
-mono	monkey	monkey
-monopolio	monopoly	monopoly
-monopolios	monopolies	monopolies
-monopolista	monopolist	monopolist
-monroe	monroe	monroe
-montaje	mounting	mounting
-montana	montana	montana
-montaña	mountain	montana
-montañas	mountains	mountains
-montañosa	mountainous	mountainous
-montañosas	mountainous	mountainous
-monte	mount	mountain
-montes	mountains	mountains
-montevideo	montevideo	montevideo
-monumental	monumental	monumental
-monumento	monument	monument
-monumentos	monuments	monuments
-monómeros	monomers	monomers
-moon	luna	moon
-moore	moore	moore
-moral	moral	moral
-morales	moral	moral
-more	more	more
-morelos	morelos	morelos
-morfología	morphology	morphology
-morir	die	to die
-mortal	deadly	mortal
-mortales	mortal	deadly
-mortalidad	mortality	mortality
-mosaico	mosaics	mosaic
-moscú	moscow	moscow
-mostraba	showed	showed
-mostrado	displayed	shown
-mostrando	showing	showing
-mostrar	show	to show
-mostraron	showed	they showed
-mostró	showed	he showed
-motivación	motivation	motivation
-motivo	reason	reason
-motivos	reasons	reasons
-motivó	reason	reason
-motor	motor	motor
-motores	motors	motors
-mover	move	move
-moverse	move	move
-movilidad	mobility	mobility
-movimiento	movement	movement
-movimientos	movements	movements
-mozart	mozart	mozart
-mr	mr	mr
-msn	msn	msn
-mt	mt	mt
-mucha	a lot	a lot
-muchas	many	many
-mucho	a lot	a lot
-muchos	many	many
-mucosa	mucus	mucous membrane
-mudó	mute	mute
-muere	dies	go dead
-mueren	die	die
-muerta	dead	dead
-muerte	death	death
-muertes	deaths	deaths
-muerto	dead	dead
-muertos	dead	dead
-muestra	showing	shows
-muestran	show	show
-muestras	samples	samples
-mueve	touches	move
-mueven	move	move
-mujer	woman	woman
-mujeres	women	women
-multimedia	multimedia	multimedia
-multinacionales	multinational	multinationals
-multiplicación	multiplication	multiplication
-multitud	crowd	crowd
-mundial	worldwide	world
-mundiales	world	world
-mundialmente	worldwide	worldwide
-mundo	world	world
-mundos	worlds	worlds
-municipal	municipality	municipal
-municipales	municipal	municipal
-municipio	municipe	municipality
-municipios	municipalities	municipalities
-murallas	walls	ramparts
-murieron	died	they died
-murió	died	died
-muro	wall	wall
-muros	wall	walls
-murphy	murphy	murphy
-murray	murray	murray
-muscular	muscular	muscular
-musculares	muscular	muscular
-museo	museum	museum
-museos	museums	museums
-music	music	music
-musical	musical	musical
-musicales	musical	musicals
-mussolini	mussolini	mussolini
-musulmana	muslim	muslim
-musulmanes	muslims	muslims
-musulmán	muslim	muslim
-mutaciones	mutations	mutations
-mutación	mutation	mutation
-mutua	mutual	mutual
-mutuamente	mutually	mutually
-muy	very	very
-my	my	my
-mágico	magic	magical
-málaga	malaga	malaga
-mánager	manager	manager
-máquina	machine	machine
-máquinas	machines	machines
-mármol	marble	marble
-márquez	márquez	marquez
-más	more	plus
-máscara	mask	mask
-máscaras	masks	more expensive
-máxima	maximum	maximum
-máximas	maximum	maxims
-máximo	maximum	maximum
-máximos	maximum	highs
-médica	medical	medical
-médicas	medical	medical
-médici	medici	medic
-médico	doctor	doctor
-médicos	medical	medical
-médula	spinal	marrow
-mérito	merit	merit
-método	method	method
-métodos	methods	methods
-métrica	metric	metrics
-méxico	mexico	mexico
-mí	me	me
-mínima	minimum	minimal
-mínimas	minimum	minimum
-mínimo	minimum	minimum
-mínimos	minimum	minima
-mística	mystical	mysticism
-módem	modem	modem
-módems	modems	modems
-módulo	module	module
-módulos	modules	modules
-móvil	mobile	mobile
-móviles	mobile	mobiles
-múltiple	multiple	multiple
-múltiples	multiple	multiple
-múnich	munich	munich
-músculo	muscle	muscle
-músculos	muscles	muscles
-música	music	music
-músico	musician	musician
-músicos	musician	musicians
-n	n	n
-na	n/a	na
-nace	born	born
-nacen	born	are born
-nacer	born	be born
-nacida	born	born
-nacido	born	born
-nacidos	born	born
-naciente	nascent	nascent
-nacieron	born	they were born
-nacimiento	birth	birth
-nacional	national	national
-nacionales	national	national
-nacionalidad	nationality	nationality
-nacionalismo	nationalism	nationalism
-nacionalista	nationalist	nationalist
-nacionalistas	nationalists	nationalists
-naciones	nations	nations
-nació	was born	was born
-nación	nation	nation
-nada	nothing	nothing
-nadie	no one	no one
-nanotecnología	nanotechnology	nanotechnology
-napoleón	napoleon	napoleon
-naranja	orange	orange
-nariz	nose	nose
-narra	narrates	narrates
-narraciones	narratives	narrations
-narrador	narrator	storyteller
-narrativa	narrative	narrative
-narrativo	narrative	narrative
-naruto	naruto	naruto
-nasa	nasa	pot
-natal	native	native
-natalidad	birth	birth
-national	national	national
-nativa	native	native
-nativo	native	native
-nativos	natives	native people
-natural	natural	natural
-naturales	natural	natural
-naturaleza	nature	nature
-naturalismo	naturalism	naturalism
-naturalista	naturalist	naturalist
-naturalmente	naturally	naturally
-naval	naval	naval
-navales	naval	naval
-navarra	navarre	navarre
-navarro	navarrese	navarrese
-nave	ship	ship
-navegación	navigation	navigation
-navegador	browser	browser
-navegadores	browsers	browsers
-naves	ships	ships
-navidad	christmas	christmas
-nazi	nazi	nazi
-nazis	nazi	nazis
-nazismo	nazism	nazism
-necesaria	necessary	necessary
-necesariamente	necessarily	necessarily
-necesarias	necessary	necessary
-necesario	necessary	necessary
-necesarios	necessary	necessary
-necesidad	need	need
-necesidades	needs	needs
-necesita	needed	needs to
-necesitaba	need	needed
-necesitan	need	they need
-neerlandés	dutch	dutch
-negación	negation	negation
-negativa	negative	negative
-negativamente	negatively	negatively
-negativas	negative	negative
-negativo	negative	negative
-negativos	negatives	negatives
-negociaciones	talks	talks
-negociación	negotiation	negotiation
-negocio	business	deal
-negocios	business	business
-negra	black	black
-negras	black	black
-negro	black	black
-negros	blacks	black
-negó	denied	denied
-nelson	nelson	nelson
-neoliberalismo	neoliberalism	neoliberalism
-neolítico	neolithic	neolithic
-neruda	neruda	neruda
-nervio	nerve	nerve
-nervios	nerves	nerves
-nerviosas	nervous	nervous
-nervioso	nervous	nervous
-neta	net	net
-network	network	network
-neumonía	pneumonia	pneumonia
-neurona	neuron	neuron
-neuronal	neural	neural
-neuronas	neurons	neurons
-neutral	neutral	neutral
-neutralidad	neutrality	neutrality
-neutro	neutral	neutral
-neutrones	neutrons	neutrons
-news	news	news
-newton	newton	newton
-ni	nor	neither
-nicaragua	nicaragua	nicaragua
-nicaragüense	nicaraguan	nicaraguan
-nick	nick	nick
-nickelodeon	nickelodeon	nickelodeon
-nicolás	nicolas	nicholas
-niega	denies	denies
-niegan	deny	deny
-nietzsche	nietzsche	nietzsche
-nieve	snow	snow
-night	noche	night
-nikola	nikola	nikola
-nilo	nile	nile
-ninguna	any	none
-ninguno	none	none
-ningún	none	no
-ninja	ninja	ninja
-nirvana	nirvana	nirvana
-nitrógeno	nitrogen	nitrogen
-nivel	level	level
-niveles	levels	levels
-nixon	nixon	nixon
-niña	girl	girl
-niñas	girls	girls
-niñez	childhood	childhood
-niño	kid	kid
-niños	children	children
-no	no	do not
-nobel	nobel	nobel
-noble	noble	noble
-nobles	noble	noble
-nobleza	nobility	nobility
-noche	night	night
-noches	nights	nights
-nociones	notions	notions
-noción	notion	notion
-nocturna	night	nocturnal
-noel	noel	noel
-nombra	appoints	appoints
-nombrado	appointed	appointed
-nombrados	appointed	named
-nombramiento	appointment	appointment
-nombrar	appoint	to name
-nombre	name	name
-nombres	names	names
-nombró	named	named
-nomenclatura	nomenclature	nomenclature
-nominaciones	nominations	nominations
-nominación	nomination	nomination
-nominada	nominated	nominated
-nominado	nominated	nominated
-nominal	nominal	nominal
-nordeste	northeast	northeast
-noreste	northeast	northeast
-norma	rule	rule
-normal	normal	normal
-normales	normal	normal
-normalmente	normally	usually
-normas	rules	rules
-normativa	rules	normative
-noroeste	northeastern	northwest
-norte	north	north
-norteamericana	north american	north american
-norteamericano	north american	north american
-norteamérica	north america	north america
-noruega	norway	norway
-nos	us	us
-nosotros	us	we
-nostradamus	nostradamus	nostradamus
-nota	note	note
-notable	remarkable	remarkable
-notablemente	noticeably	notably
-notables	notable	notable
-notación	notation	notation
-notar	visible	notice
-notas	notes	notes
-note	note	notice
-noticia	news	news
-noticias	news	news
-novedad	novelty	novelty
-novedades	novelties	news
-novela	novel	novel
-novelas	novels	novels
-novelista	novelist	novelist
-noveno	ninth	nineth
-noventa	ninety	ninety
-novia	girlfriend	girlfriend
-noviembre	november	november
-novio	boyfriend	boyfriend
-now	now	now
-nu	nu	wildebeest
-nube	cloud	cloud
-nubes	clouds	clouds
-nuclear	nuclear	nuclear
-nucleares	nuclears	nuclear
-nucleico	nucleic	nucleic
-nucleicos	nucleic	nucleic
-nucleótidos	nucleotids	nucleotides
-nuestra	our	our
-nuestras	our	our
-nuestro	our	our
-nuestros	ours	our
-nueva	new	new
-nuevamente	again	again
-nuevas	new	new
-nueve	nine	nine
-nuevo	new	new
-nuevos	new	new
-nula	zero	void
-nulo	null	null
-numeración	numerals	numeration
-numerosas	numerous	numerous
-numerosos	numerous	numerous
-numérica	numerics	numerical
-numérico	numeric	numerical
-nunca	never	never
-nutrición	nutrition	nutrition
-nutrientes	nutrients	nutrients
-n°	number	no.
-nº	number	no.
-náhuatl	nahuatl	nahuatl
-nápoles	naples	naples
-níquel	nickel	nickel
-nótese	notice	notice
-núcleo	core	core
-núcleos	nuclei	nuclei
-número	number	number
-números	numbers	numbers
-o	or	or
-oasis	oasis	oasis
-obama	obama	obama
-obesidad	obesity	obesity
-obispo	bishop	bishop
-obispos	bishops	bishops
-objetiva	objective	objective
-objetividad	objectivity	objectivity
-objetivo	objective	objective
-objetivos	objective	objectives
-objeto	object	object
-objetos	objects	objects
-obliga	forces	oblige
-obligaciones	obligations	obligations
-obligación	obligation	obligation
-obligada	forced	forced
-obligado	obliged	obliged
-obligados	forced	bound
-obligatoria	compulsory	compulsory
-obligatorio	mandatory	required
-obligó	forced	forced
-obra	work	work
-obras	works	plays
-obregón	obregon	obregón
-obrera	worker	worker
-obrero	worker	worker
-obreros	workers	workers
-observa	notes	watch
-observable	observable	observable
-observaciones	observations	observations
-observación	observation	observation
-observado	observed	observed
-observador	observer	observer
-observadores	observers	observers
-observados	observed	observed
-observan	observe	observe
-observando	observing	observing
-observar	observe	observe
-observarse	observed	be observed
-observatorio	observatory	observatory
-observó	observed	i observe
-obstante	nevertheless	nevertheless
-obstáculo	obstacle	obstacle
-obstáculos	obstacles	obstacles
-obtención	obtainment	obtaining
-obtener	get	get
-obtenida	reached	obtained
-obtenidas	obtained	obtained
-obtenido	obtained	obtained
-obtenidos	obtained	obtained
-obteniendo	obtaining	getting
-obtenía	got	got
-obtiene	gets	get
-obtienen	obtained	they get
-obtuvieron	obtained	they got
-obtuvo	got	got
-obviamente	obviously	obviously
-obvio	obvious	obvious
-ocasionalmente	occasionally	occasionally
-ocasiones	occasions	occasions
-ocasionó	caused	caused
-ocasión	occasion	chance
-occidental	western	western
-occidentales	westerners	western
-occidente	west	west
-oceanía	oceania	oceania
-oceánica	oceanic	oceanic
-oceánicas	oceanic	oceanic
-oceánico	oceanic	oceanic
-ochenta	eighty	eighty
-ocho	eight	eight
-ocio	leisure	leisure
-octava	eighth	eighth
-octavio	octavio	octavius
-octubre	october	october
-ocular	ocular	ocular
-oculta	hidden	hidden
-ocultar	to hide	hide
-ocupa	occupies	occupies
-ocupación	occupation	occupation
-ocupada	occupied	busy
-ocupado	occupied	occupied
-ocupados	taken	busy
-ocupan	occupy	occupy
-ocupando	occupying	occupying
-ocupar	occupy	occupy
-ocuparon	occupied	occupied
-ocupó	occupied	occupied
-ocurre	happens	it happens
-ocurren	occur	occur
-ocurrido	happened	happened
-ocurrir	occur	occur
-ocurrió	happened	occurred
-océano	ocean	ocean
-océanos	oceans	oceans
-odio	odium, hatred, enmity; odiousness	hate
-odisea	odyssey	odyssey
-odiseo	odysseus	odysseus
-oeste	west	west
-of	de	of
-ofensiva	offensive	offensive
-oferta	offer	offer
-office	office	office
-oficial	official	official
-oficiales	official	officers
-oficialmente	officially	officially
-oficina	office	office
-oficinas	offices	offices
-oficio	job	job
-ofrece	offers	offers
-ofrecen	offer	offer
-ofrecer	offer	offer
-ofreció	offered	offered
-ofrendas	offerings	offerings
-oh	oh	oh
-ojo	eye	eye
-ojos	eyes	eyes
-ola	wave	wave
-oleada	wave	wave
-olga	olga	olga
-olmeca	olmec	olmec
-olmecas	olmecs	olmecs
-olvidar	forget	forget
-olímpico	olympic	olympic
-olímpicos	olympic	olympics
-omar	omar	omar
-oms	who	who
-once	eleven	eleven
-onda	wave	wave
-ondas	waves	waves
-one	uno	one
-online	online	on-line
-ono	ono	or not
-ontología	ontology	ontology
-onu	un	un
-op	op	op
-opciones	options	options
-opción	option	option
-opera	opera	opera
-operaciones	operations	operations
-operación	operation	operation
-operador	operator	operator
-operadores	operators	operators
-operar	operate	operate
-operativo	operative	operative
-operativos	operative	operative
-opiniones	opinions	opinions
-opinión	opinion	opinion
-opone	opposes	opposes
-oponen	oppose	oppose
-oportunidad	opportunity	opportunity
-oportunidades	opportunities	opportunities
-oposición	opposition	opposition
-opositores	opponent	opponents
-opuesta	opposite	opposite
-opuestas	opposite	opposites
-opuesto	opposite	opposite
-opuestos	opposite	opposites
-opuso	opposed	opposed
-or	or	or
-oraciones	prayers	prayers
-oración	prayer	sentence
-oral	oral	oral
-orbital	orbital	orbital
-orbitales	orbital	orbitals
-orden	order	order
-ordena	orders	orders
-ordenación	ordination	ordination
-ordenada	orderly	ordered
-ordenado	ordered	organized
-ordenador	computer	computer
-ordenadores	computers	computers
-ordenados	ordered	organized
-ordenamiento	organization	ordering
-ordenar	order	order
-ordenó	ordered	ordered
-ordinario	ordinary	ordinary
-organismo	organism	organism
-organismos	organisms	organisms
-organiza	organize	organizes
-organizaciones	organizations	organizations
-organización	organization	organization
-organizada	organized	organized
-organizadas	organized	organized
-organizado	organized	organized
-organizados	organized	organized
-organizan	organize	organize
-organizar	organize	organize
-organizó	organized	organized
-orgasmo	orgasm	orgasm
-orgullo	pride	pride
-orgánica	organic	organic
-orgánicas	organic	organic
-orgánico	organic	organic
-orgánicos	organic	organic
-orgánulos	organelle	organelles
-orientación	orientation	orientation
-orientada	oriented	oriented
-orientadas	oriented	oriented
-orientado	oriented	oriented
-oriental	oriental	oriental
-orientales	eastern	eastern
-oriente	east	east
-origen	origin	origin
-origina	originates	originates
-originado	originated	originated
-original	original	original
-originales	original	original
-originalidad	originality	originality
-originalmente	originally	originally
-originan	originate	originate
-originaria	original	original
-originario	originated	original
-originarios	originating	original
-originó	originated	originated
-orillas	shores	shores
-orina	urine	urine
-orinoco	orinoco	orinoco
-orlando	orlando	orlando
-orleans	orlean	orleans
-oro	gold	gold
-orozco	orozco	orozco
-orquesta	orchestra	orchestra
-ortega	grouse	ortega
-ortodoxa	orthodox	orthodox
-ortodoxos	orthodox	orthodox
-ortografía	orthography	orthography
-orígenes	origins	origins
-os	os	you
-oscar	oscar	oscar
-oscila	ranges	oscillates
-oscilación	oscillation	oscillation
-oscura	dark	dark
-oscuras	dark	dark
-oscuridad	darkness	darkness
-oscuro	dark	dark
-oscuros	dark	dark
-oso	bear	bear
-otan	nato	nato
-otomano	ottoman	ottoman
-otorga	concedes	grants
-otorgado	awarded	awarded
-otorgó	granted	awarded
-otoño	fall	autumn
-otra	other	other
-otras	others	others
-otro	other	other
-otros	other	others
-otto	otto	otto
-out	out	out
-ovario	ovary	ovary
-oxford	oxford	oxford
-oxidación	oxidation	oxidation
-oxígeno	oxygen	oxygen
-ozono	ozone	ozone
-oído	ear	ear
-pablo	pablo	pablo
-paciente	patient	patient
-pacientes	patients	patients
-pacto	pact	covenant
-pacífica	peaceful	peaceful
-pacífico	pacific	peaceful
-padre	father	father
-padres	parents	parents
-pagar	pay	pay
-page	page	page
-pago	payment	payment
-pagos	payment	payments
-paisaje	landscape	landscape
-paisajes	landscapes	landscapes
-paja	straw	straw
-pakistán	pakistan	pakistan
-palabra	word	word
-palabras	words	words
-palacio	palace	palace
-palacios	palaces	palaces
-paladar	palate	palate
-palanca	lever	lever
-paleolítico	paleolithic	paleolithic
-palestina	palestine	palestine
-palestinos	palestinians	palestinians
-palma	palm	palm
-palos	sticks	sticks
-pan	bread	bread
-panamá	panama	panama
-pandemia	pandemic	pandemic
-pandemias	pandemics	pandemics
-panorama	panorama	panorama
-pantalla	screen	screen
-panteón	pantheon	pantheon
-panzer	panzer	panzer
-papa	potatoe	father
-papas	potatoes	potatoes
-papel	paper	paper
-papeles	papers	papers
-papiro	papyrus	papyrus
-paquete	package	package
-paquetes	packages	packages
-par	pair	pair
-para	for	for
-paradigma	paradigm	paradigm
-paraguay	paraguay	paraguay
-paraguaya	paraguayan	paraguayan
-paralela	parallel	parallel
-paralelamente	at the same time	parallel
-paralelas	parallel	parallel
-paralelo	parallel	parallel
-paralelos	parallel	parallels
-paramore	paramore	paramore
-paraná	parana	parana
-paraíso	paradise	paradise
-parcial	partial	partial
-parcialmente	partially	partially
-pardo	pardo	brown
-parece	seems	it seems
-parecen	seem	they look like
-parecer	seem	seem
-parecida	alike	alike
-parecido	similar	similar
-parecía	seemed	looked like
-pared	wall	wall
-paredes	walls	walls
-pareja	couple	partner
-parejas	couples	couples
-parentesco	similarity	relationship
-pares	pair	pairs
-parientes	relatives	family members
-paris	paris	paris
-park	park	park
-parker	parker	parker
-parlamentaria	parliamentary	parliamentary
-parlamento	parliament	parliament
-parpadeo	flicker	flicker
-parque	park	park
-parques	parks	parks
-parte	part	part
-parten	come from	depart
-partes	parts	parts
-participa	participates	participates
-participación	participation	participation
-participado	participated	participated
-participan	participate	participate
-participantes	participants	participants
-participar	participate	take part
-participaron	participated	participated
-participó	participated	he participated
-particular	particular	particular
-particulares	individuals	individuals
-particularidad	particularity	particularity
-particularmente	particularly	particularly
-partida	party	departure
-partidarios	supporters	supporters
-partidas	items	games
-partido	party	match
-partidos	parties	matches
-partiendo	cutting	starting off
-partir	from now on	depart
-partió	departed	departed
-parto	birth	birth
-party	party	party
-partícula	particle	particle
-parábola	parable	parable
-parámetro	parameter	parameter
-parámetros	parameter	parameters
-parásitos	parasites	parasites
-paréntesis	parenthesis	parenthesis
-parís	paris	paris
-pasa	pass	pass
-pasaba	was handed down	happened
-pasadas	past	past
-pasado	past	past
-pasados	past	past
-pasaje	passage	passage
-pasajeros	passengers	passengers
-pasajes	passages	tickets
-pasan	go through	pass
-pasando	passing	going
-pasar	pass	pass
-pasaron	went	they passed
-pascal	pascal	pascal
-pascua	easter	easter
-pascual	pascual	paschal
-pase	pass	pass
-paseo	walk	walk
-pasiones	passions	passions
-pasivo	passive	passive
-pasión	passion	passion
-paso	step	he passed
-pasos	steps	steps
-pasta	pasta	pasta
-pasteur	pasteur	pasteur
-pastores	shepherds	shepherds
-pasó	went	he passed
-patente	patent	patent
-patentes	patents	patents
-patio	backyard	playground
-patito	duckling	duckling
-patria	homeland	homeland
-patricios	patricians	patricians
-patrimonio	heritage	heritage
-patrones	patterns	patterns
-patrón	pattern	pattern
-pattinson	pattinson	pattinson
-paulatinamente	gradually	gradually
-paulo	paulo	paul
-pausa	pause	pause
-pautas	guidelines	guidelines
-paz	peace	peace
-país	country	country
-países	countries	countries
-pc	pc	pc
-pe	hence	pe
-pearl	pearl	pearl
-pecado	sin	sin
-pecados	sin	sins
-peces	fish	fishes
-pecho	chest	chest
-peculiar	peculiar	peculiar
-pedir	ask	ask for
-pedro	pedro	peter
-pekín	beijing	beijing
-pelea	fight	fight
-peligro	danger	danger
-peligrosos	dangerous	dangerous
-pelo	hair	hair
-pelota	ball	ball
-película	movie	movie
-películas	films	films
-pena	grief	pain
-penal	penal	penal
-penales	criminal	penal
-pendiente	pending	pending
-pene	penis	penis
-penetración	penetration	penetration
-pensaba	thought	thought
-pensado	thought	thought-out
-pensador	thinker	thinker
-pensadores	thinkers	thinkers
-pensamiento	thought	thought
-pensamientos	thoughts	thoughts
-pensando	thinking	thinking
-pensar	thinking	think
-pensó	thought	thought
-pentium	pentium	pentium
-península	peninsula	peninsula
-peor	worst	worst
-peppers	peppers	peppers
-pequeña	little	little
-pequeñas	small	little
-pequeño	small	small
-pequeños	small	little ones
-per	per	per
-percepción	perception	perception
-percibe	perceived	perceives
-percibido	perceived	perceived
-percibir	perceive	perceive
-percusión	percussion	percussion
-perder	losing	to lose
-perdida	lost	lost
-perdido	lost	lost
-perdidos	lost	lost
-perdiendo	losing	losing
-perdieron	lost	they lost
-perdió	lost	lost
-perfección	perfection	perfection
-perfecta	perfect	perfect
-perfectamente	perfectly	perfectly
-perfecto	perfect	perfect
-perfil	profile	profile
-perfiles	profiles	profiles
-periférica	peripheral	peripheral
-periférico	peripheral	peripheral
-periféricos	peripheral	peripherals
-periodismo	journalism	journalism
-periodista	journalist	journalist
-periodistas	journalists	journalists
-periodo	period	period
-periodos	periods	periods
-periódica	periodic	periodic
-periódicamente	periodically	periodically
-periódicas	periodic	periodic
-periódico	newspaper	newspaper
-periódicos	newspapers	newspapers
-permanece	remains	it remains
-permanecen	remain	remain
-permanecer	stay	stay
-permanecieron	stayed	they remained
-permaneció	remained	remained
-permanencia	permanence	permanence
-permanente	permanent	permanent
-permanentes	permanent	permanent
-permiso	permission	excuse me
-permita	allow	allow
-permitan	allow	allow
-permite	allows	it allows
-permiten	allow	allow
-permitido	allowed	permitted
-permitiendo	allowing	allowing
-permitieron	allowed	allowed
-permitir	allow	allow
-permitiría	allow	would allow
-permitió	allowed	allowed
-permitía	allowed	allowed
-permitían	allowed	they allowed
-pero	but	but
-perpendicular	perpendicular	perpendicular
-perro	dog	dog
-perros	dogs	dogs
-perry	perry	perry
-persa	persian	persian
-persas	persian	persians
-persecución	persecution	persecution
-persona	person	person
-personaje	character	character
-personajes	character	characters
-personal	personal	personal
-personales	personal	personal
-personalidad	personality	personality
-personalidades	personalities	personalities
-personalmente	personally	personally
-personas	people	persons
-perspectiva	perspective	perspective
-perspectivas	perspective	prospects
-pertenece	belongs	belongs
-pertenecen	belong	belong
-perteneciente	belonging	belonging
-pertenecientes	belonging	belonging
-pertenecía	was owned	belonged
-pertenencia	belonged	belonging
-peruana	peruvian woman	peruvian
-peruano	peruvian	peruvian
-período	period	period
-períodos	periods	periods
-perón	perón	perón
-perú	peru	peru
-pesada	heavy	heavy
-pesado	heavy	heavy
-pesados	heavy	heavy
-pesar	in spite of	to weigh
-pesca	fishing	fishing
-pescado	fish	fish
-pese	in spite of	i weighed
-peso	weight	weight
-pesos	weights	pesos
-peste	plague	plague
-peter	peter	peter
-petición	petition	petition
-petroglifo	petroglyphs	petroglyph
-petróleo	petroleum	petroleum
-petén	petén	petén
-peña	peña	pain
-ph	ph	ph
-phil	phil	phil
-phoebe	phoebe	phoebe
-pi	pi	pi
-piaget	piaget	piaget
-piano	piano	piano
-pib	gnp	gp
-picasso	picasso	picasso
-picchu	picchu	picchu
-pico	peak	peak
-picos	peaks	spikes
-pide	asks	asks
-pidió	asked	asked
-pie	foot	foot
-piece	piece	piece
-piedad	mercy	piety
-piedra	stone	stone
-piedras	stones	stones
-piel	skin	skin
-piensa	think	think
-piensan	think	think
-pierde	looses	misses
-pierden	loose	they lose
-piernas	legs	legs
-piero	piero	piero
-pies	feet	feet
-pieza	piece	piece
-piezas	pieces	pieces
-pigmentos	pigments	pigments
-pilar	pillar	pillar
-pilares	pillars	pillars
-piloto	pilot	pilot
-pinaza	pinnace	pinnace
-pink	pink	pink
-pino	pine	pine tree
-pintado	painted	painted
-pintor	painter	painter
-pintores	painters	painters
-pintura	paint	painting
-pinturas	paints	paintings
-pintó	painted	painted
-pionero	pioneer	pioneer
-pioneros	pioneers	pioneers
-piratas	pirates	pirates
-pirámide	pyramid	pyramid
-pirámides	pyramids	pyramids
-piso	floor	floor
-pista	track	track
-pistas	tracks	tracks
-pitt	pitt	pitt
-pitágoras	pythagoras	pythagoras
-placa	plate	license plate
-placas	plates	plates
-placer	pleasure	pleasure
-plan	plan	plan
-plana	plane	flat
-planas	flat	flat
-planeado	planned	planned
-planes	plans	plans
-planeta	planet	planet
-planetario	planetary	planetary
-planetas	planet	planets
-planificación	planning	planning
-plano	plain	flat
-planos	blueprints	blueprints
-planta	plant	plant
-plantae	plantae	plantae
-plantas	plants	plants
-plantea	raises	raises
-planteamiento	approach	approach
-plantear	pose	pose
-planteó	raised	raised
-plasma	plasma	plasma
-plasmática	plasma	plasma
-plata	silver	silver
-plataforma	platform	platform
-plataformas	platforms	platforms
-platino	platinum	platinum
-plato	dish	plate
-platos	dishes	dishes
-platón	platon	plato
-playa	beach	beach
-playas	beaches	beaches
-plaza	square	square
-plazas	places	plazas
-plazo	term	term
-please	please	por favor
-plebeyos	commoners	commoners
-plena	full	full
-plenamente	fully	fully
-pleno	full	full
-plomo	lead	lead
-plumas	feathers	feathers
-plural	plural	plural
-pluricelulares	multicellular	multicellular
-plutarco	plutarco	plutarch
-plántula	seedling	seedling
-plásticas	plastics	plastic
-plástico	plastic	plastic
-plásticos	plastics	plastics
-plátano	banana	banana
-pm	pm	p.m
-poblacional	population	populational
-poblaciones	populations	populations
-población	population	population
-poblada	populated	populated
-poblado	populated	populated
-pobladores	inhabitants	settlers
-poblados	populated	towns
-pobre	poor	poor
-pobres	poor	poor
-pobreza	poverty	poverty
-poca	little	little
-pocas	few	few
-poco	little	little bit
-pocos	few	few
-podemos	we can	we can
-poder	power	power
-poderes	powers	powers
-poderosa	powerful	powerful
-poderoso	powerful	powerful
-poderosos	powerful	powerful
-podido	could	i have
-podrá	can	may
-podrán	will be able	will be able
-podría	could	could
-podríamos	could	we could
-podrían	could	could
-podía	could	could
-podían	they could	they could
-poe	poe	poe
-poema	poem	poem
-poemas	poems	poems
-poesía	poetry	poetry
-poeta	poet	poet
-poetas	poets	poets
-polaco	polish	polish
-polar	polar	polar
-polares	polar	polar
-polarización	polarization	polarization
-polen	pollen	pollen
-policial	police	police
-policía	police	police
-polimerasa	polymerase	polymerase
-polimerización	polymerization	polymerization
-polinomio	polynomial	polynomial
-polinomios	polynomial	polynomials
-polo	pole	pole
-polonia	poland	poland
-polos	poles	poles
-polvo	powder	powder
-polémica	controversy	controversy
-polémicas	polemic	controversial
-polígono	polygon	polygon
-polímero	polymer	polymer
-polímeros	polymers	polymers
-política	politics	politics
-políticamente	politically	politically
-políticas	policies	policies
-político	political	political
-políticos	politicians	politicians
-pone	put	places
-ponen	put	put
-poner	put	put on
-ponerse	set	to put on
-poniendo	putting	putting up
-pop	pop	pop
-popper	popper	popper
-popular	popular	popular
-populares	popular	popular
-popularidad	popularity	popularity
-popularizó	popularized	popularized
-popularmente	popularly	popularly
-por	by	by
-porcentaje	percentage	percentage
-porcentajes	percentages	percentages
-porcina	swine	swine
-porción	portion	portion
-porfiriato	porfiriato	porfiriato
-porfirio	porfirio	porfirio
-pornografía	pornography	pornography
-poros	pores	pores
-porque	because	why
-porqué	why	why
-porta	holder	holder
-portaaviones	aircraft carrier	aircraft carrier
-portada	front	cover page
-portadores	carrier	carriers
-portal	portal	portal
-portería	goal	goal
-portugal	portugal	portugal
-portuguesa	portuguese	portuguese
-portugueses	portuguese	portuguese
-portugués	portuguese	portuguese
-portátiles	laptops	laptops
-porvenir	future	future
-posee	has	has
-poseen	have	they possess
-poseer	to own	own
-posesiones	possessions	possessions
-posesión	possession	possession
-poseía	possessed	possessed
-poseían	possessed	they had
-posguerra	postwar	postwar period
-posibilidad	possibility	possibility
-posibilidades	possibilities	possibilities
-posible	possible	possible
-posiblemente	possibly	possibly
-posibles	possible	possible
-posiciones	positions	positions
-posición	position	position
-positiva	positive	positive
-positivas	positive	positive
-positivismo	positivism	positivism
-positivo	positive	positive
-positivos	positives	positive
-post	post	post
-posterior	front	later
-posteriores	later	later
-posterioridad	posteriority	posteriority
-posteriormente	later	later
-postes	poles	poles
-postula	postulated	postulate
-postulado	postulate	postulate
-postulados	postulates	postulates
-postura	position	position
-posturas	postures	postures
-potable	potable	potable
-potasio	potassium	potassium
-potencia	power	power
-potencial	potential	potential
-potenciales	potential	potential
-potencialmente	potentially	potentially
-potencias	powers	powers
-potente	powerful	powerful
-potentes	powerful	powerful
-potosí	potosí	potosi
-potter	potter	potter
-powerpoint	powerpoint	powerpoint
-poética	poetic	poetics
-poético	poetic	poetic
-pp	partido popular	pp
-practica	practice	practice
-practicado	practice	practiced
-practican	practice	they practice
-practicar	practice	to practice
-prado	meadow	meadow
-praga	prague	prague
-precede	precedes	precedes
-precedente	precedent	preceding
-precedentes	precedent	precedents
-preceptos	precepts	precepts
-precio	price	price
-precios	prizes	prices
-precipitaciones	showers	rainfall
-precipitación	precipitation	precipitation
-precisa	accurate	accurate
-precisamente	precisely	precisely
-precisas	precise	accurate
-precisión	precision	precision
-preciso	precise	precise
-precisos	accurate	accurate
-preclásico	preclassic	preclassical
-precolombina	pre-columbian	pre-columbian
-precursor	precursor	precursor
-precursores	precursos	pioneers
-predecesor	predecessor	predecessor
-predecir	predict	predict
-predicado	predicate	predicate
-predicciones	predictions	predictions
-predomina	predominates	predominates
-predominan	predominates	predominate
-predominante	predominant	predominant
-predominantemente	predominant	predominantly
-predominio	predominance	predominance
-preferencia	preferably	preference
-preferentemente	preferably	preferably
-prefieren	prefer	prefer
-prefijo	prefix	prefix
-pregunta	question	question
-preguntas	questions	questions
-preguntó	ask	i ask
-prehistoria	prehistory	prehistory
-prejuicios	prejudice	prejudice
-premier	premier	premier
-premio	prize	prize
-premios	awards	awards
-premisa	premise	premise
-premisas	premises	premises
-prensa	press	press
-preocupaciones	concerns	concerns
-preocupación	concern	concern
-prepara	prepares	prepare
-preparación	preparation	preparation
-preparado	prepared	prepared
-preparar	prepare	prepare
-prepucio	foreskin	foreskin
-presencia	presence	presence
-presenta	arises	presents
-presentaba	presented	presented
-presentaciones	presentations	presentations
-presentación	presentation	presentation
-presentado	presented	presented
-presentados	presented	presented
-presentan	present	present
-presentando	presenting	presenting
-presentar	to present	present
-presentaron	presented	presented
-presentarse	present themselves	introduce oneself
-presente	present	present
-presentes	presents	present
-presentó	present	presented
-preservación	preservation	preservation
-preservar	preserve	preserve
-presidencia	presidency	presidency
-presidencial	presidential	presidential
-presidenciales	presidentials	presidential
-presidente	president	president
-presidentes	presidents	presidents
-presión	pressure	pressure
-presley	presley	presley
-presos	prisoners	prisoners
-press	press	press
-prestaciones	benefits	benefits
-prestigio	prestige	prestige
-presupuesto	budget	budget
-pretende	looking for	aims to
-pretendía	pretended	intended
-prevalencia	prevalence	prevalence
-prevención	prevention	prevention
-prevenir	to prevent	to prevent
-previa	previous	previous
-previamente	previously	previously
-previas	previous	previous
-previo	previous	previous
-previos	previous	previous
-previsto	expected	provided
-prima	cousin	cousin
-primaria	primary	primary
-primarias	primary	primary
-primario	primary	primary
-primarios	primary	primary
-primas	raw	cousins
-primates	primates	primates
-primavera	spring	spring
-primer	first	first
-primera	first	first
-primeras	first	first
-primero	first	first
-primeros	first	first
-primitiva	primitive	primitive
-primitivas	primitive	primitive
-primitivo	primitive	primitive
-primitivos	primitive	primitive
-primo	cousin	cousin
-primordial	primordial	primordial
-primos	cousins	cousins
-princesa	princess	princess
-principal	principal	principal
-principales	main	main
-principalmente	mainly	mainly
-principio	beginning	beginning
-principios	beginning	beginning
-priori	priori	priori
-prioridad	priority	priority
-prisionero	prisoner	prisoner
-prisioneros	prisoners	prisoners
-prisión	prison	prison
-privada	private	private
-privadas	private	private
-privado	private	private
-privados	privates	private
-privilegiados	privileges	privileged
-privilegio	privilege	privilege
-privilegios	privileges	privileges
-pro	pro	pro
-probabilidad	probability	probability
-probabilidades	probabilities	odds
-probable	probable	probable
-probablemente	probably	probably
-probar	try	try
-problema	problem	problem
-problemas	problems	problems
-problemática	problematic	problematic
-procariotas	prokaryotic	prokaryotes
-procede	proceed	proceeds
-proceden	come	come
-procedente	from	coming
-procedentes	coming	coming
-proceder	proceed	proceed
-procedimiento	procedure	process
-procedimientos	procedures	procedures
-procesador	processor	processor
-procesadores	processors	processors
-procesamiento	processing	processing
-procesar	process	process
-proceso	process	process
-procesos	processes	processes
-proclamó	proclaimed	proclaimed
-producciones	productions	productions
-producción	production	production
-produce	produces	produces
-producen	produce	produce
-producida	produced	produced
-producidas	produced	produced
-producido	produced	produced
-producidos	produced	produced
-produciendo	produce	producing
-producir	produce	produce
-producirse	produced	occur
-productividad	productivity	productivity
-productivo	productive	productive
-productivos	productives	productive
-producto	product	product
-productor	producer	producer
-productora	producing	producer
-productores	producers	producers
-productos	products	products
-producía	produced	produced
-produjeron	produced	produced
-produjo	produced	produced
-produzca	produce	produce
-profase	prophase	prophase
-profesional	professional	professional
-profesionales	professionals	professionals
-profesión	profession	profession
-profesor	professor	teacher
-profesores	professors	teachers
-profeta	prophets	prophet
-profunda	deep	deep
-profundamente	deeply	deeply
-profundas	deep	deep
-profundidad	depth	depth
-profundo	deep	deep
-profundos	deep	deep
-programa	program	program
-programación	programming	programming
-programador	programmer	programmer
-programas	programs	programs
-progresiva	progressive	progressive
-progresivamente	progressively	progressively
-progresivo	progressive	progressive
-progresión	progression	progression
-progreso	progress	progress
-prohibición	prohibition	prohibition
-prohibido	prohibited	prohibited
-prohibió	prohibited	banned
-project	project	project
-proletariado	proletariat	proletariat
-proliferación	proliferation	proliferation
-prolongación	prolongation	extension
-prolongada	prolonged	prolonged
-promedio	average	average
-promesa	promise	promise
-promocionar	promote	promote
-promoción	promotion	promotion
-promover	promote	promote
-promueve	promote	promotes
-promueven	promote	promote
-pronombres	pronouns	pronouns
-pronto	soon	soon
-pronunciación	pronunciation	pronunciation
-pronóstico	forecast	forecast
-propaga	propagate	propagates
-propagación	propagation	propagation
-propagan	spread	spread
-propaganda	advertising	propaganda
-propia	own	own
-propiamente	properly	properly
-propias	own	own
-propició	led	propitiated
-propiedad	property	property
-propiedades	properties	properties
-propietario	owner	owner
-propietarios	owners	owners
-propio	own	own
-propios	own	own
-propone	proposed	proposes
-proponen	propose	they propose
-proponer	propose	propose
-proponía	proposed	proposed
-proporciona	provides	provides
-proporcional	proportional	proportional
-proporcionan	provide	provide
-proporcionar	provide	provide
-proporciones	proportions	proportions
-proporcionó	provide	provided
-proporción	proportion	proportion
-proposiciones	propositions	propositions
-proposición	proposition	proposition
-propuesta	proposed	proposal
-propuestas	proposals	proposals
-propuesto	proposal	proposed
-propuso	proposed	proposed
-propósito	purpose	purpose
-propósitos	purposes	purposes
-prosa	prose	prose
-prosperidad	prosperity	prosperity
-protagonismo	leadership	leadership
-protagonista	protagonist	protagonist
-protagonistas	protagonists	protagonists
-protagonizada	featuring	starring
-protagonizó	starred	starred
-protección	protection	protection
-protector	protector	protective
-protege	protect	protects
-proteger	protect	to protect
-protegidas	protected	protected
-protegido	protected	protected
-protegidos	protected	protected
-proteica	protein	protein
-protesta	protest	protest
-protestante	protester	protestant
-protestantes	protestants	protestants
-protestantismo	protestantism	protestantism
-protestas	protests	protests
-proteína	protein	protein
-proteínas	proteins	protein
-protistas	protists	protists
-protocolo	protocol	protocol
-protocolos	protocoles	protocols
-protones	protons	protons
-protón	proton	proton
-proudhon	proudhon	proudhon
-provee	provide	provides
-proveer	provide	provide
-proveniente	coming from	coming
-provenientes	coming	coming
-proviene	comes from	comes from
-provienen	proceeded	come from
-provincia	province	province
-provincial	provincial	provincial
-provinciales	provincial	provincial
-provincias	provinces	provinces
-provisional	provisional	provisional
-provoca	provokes	provokes
-provocada	produced	provoked
-provocado	caused	caused
-provocan	provoke	provoke
-provocando	causing	provoking
-provocar	bring about	to provoke
-provocaron	caused	provoked
-provocó	provoked	provoked
-proyecciones	projections	projections
-proyección	projection	projection
-proyecto	project	draft
-proyectos	projects	projects
-prueba	test	test
-pruebas	tests	tests
-prusia	prussia	prussia
-práctica	practice	practice
-prácticamente	practically	practically
-prácticas	practical	practices
-práctico	practical	practical
-prácticos	practical	practical
-préstamos	loans	loans
-príncipe	prince	the prince
-príncipes	princes	princes
-prólogo	prelude	foreword
-próxima	next	next
-próximas	next	next
-próximo	next	next
-próximos	next	next
-psicoanálisis	psychoanalysis	psychoanalysis
-psicología	psychology	psychology
-psicológica	psychological	psychological
-psicológico	psychological	psychological
-psicológicos	psychological	psychological
-psicoterapia	psychotherapy	psychotherapy
-publica	publishes	publishes
-publicaciones	publishings	publications
-publicación	publication	publication
-publicada	published	published
-publicadas	published	published
-publicado	published	published
-publicados	published	published
-publicar	to publish	to post
-publicaron	published	published
-publicidad	advertising	advertising
-publicó	issued	public
-pudiendo	enabling	being able
-pudiera	could	could
-pudieran	could	they could
-pudieron	could	could
-pudiese	could	could
-pudo	could	could
-puebla	town	people
-pueblo	people	village
-pueblos	towns	towns
-pueda	can	can
-puedan	can	can
-puede	may	may
-pueden	pueden	they can
-puente	bridge	bridge
-puentes	bridges	bridges
-puerta	door	door
-puertas	doors	doors
-puerto	port	port
-puertos	ports	ports
-pues	since	well
-puesta	placing	put
-puesto	position	market stall
-puestos	positions	posts
-pulmonar	pulmonary	pulmonary
-pulmones	lungs	lungs
-punk	punk	punk
-punta	tip	tip
-puntas	points	tips
-punto	point	point
-puntos	points	points
-puntuación	punctuation	punctuation
-puntual	punctual	punctual
-puntuales	punctuality	punctual
-pura	pure	pure
-puramente	purely	purely
-puras	pure	pure
-pureza	purity	purity
-puro	pure	pure
-puros	pures	cigars
-pusieron	put	they put
-puso	put	put
-página	page	page
-páginas	pages	pages
-pájaros	birds	birds
-páncreas	pancreas	pancreas
-párrafo	paragraph	paragraph
-pérdida	loss	lost
-pérdidas	losses	losses
-pérez	perez	perez
-pétalos	petals	petals
-pío	principle,	cheep
-pública	public	public
-públicamente	publically	publicly
-públicas	public	public
-público	public	public
-públicos	public	public
-q	q	what
-que	which	what
-quebec	quebec	quebec
-quechua	quechua	quechua
-queda	remains	remains
-quedaba	was	left
-quedaban	remained	remained
-quedado	left	left
-quedan	remain	remain
-quedando	being	staying
-quedar	become	stay
-quedaron	staid	they were
-quedarse	stay	stay
-quedaría	remain	would stay
-quedó	stayed	stayed
-quema	burn	burning
-querer	wanting	want
-querido	dear	dear
-quería	wanted	wanted to
-querían	wanted	they wanted
-quien	who	who
-quienes	who	who
-quiera	wants	want
-quiere	wants	wants
-quieren	want	they want
-quiero	i want	i want
-quijote	quixote	quixote
-quince	fifteen	fifteen
-quinetoscopio	quinetoscope	kinescope
-quinona	quinone	quinone
-quinta	fifth	fifth
-quinto	fifth	fifth
-quiso	wanted	wanted
-quito	quito	take off
-quizá	perhaps	maybe
-quizás	maybe	maybe
-quién	who	who
-qué	what	than
-química	chemistry	chemistry
-químicas	chemical	chemical
-químico	chemical	chemical
-químicos	chemical	chemical
-r	r	r
-ra	ra	ra
-rachel	rachel	rachel
-racial	racial	racial
-raciales	racial	racial
-racional	rational	rational
-racionales	rational	rational
-racionalismo	rationalism	rationalism
-racismo	racism	racism
-radiaciones	radiation	radiation
-radiación	radiation	radiation
-radiactivos	radioactive	radioactive
-radica	lies	lies
-radical	radical	radical
-radicales	radicals	radical
-radicalmente	radically	radically
-radio	radio	radio
-radios	radios	radios
-ram	ram	ram
-rama	branch	branch
-ramas	branches	branches
-rammstein	rammstein	rammstein
-ramón	ramon	ramón
-rango	rank	rank
-rap	rap	rap
-rapidez	speed	speed
-rara	rarely	weird
-raramente	rarely	rarely
-raras	rare	rare
-raro	rare	rare
-rasgo	feature	feature
-rasgos	features	features
-ratón	mouse	mouse
-ray	ray	ray
-rayo	lightning	lightning
-rayos	rays	ray
-raza	race	race
-razas	races	races
-razonamiento	reasoning	reasoning
-razones	reasons	reasons
-razón	reason	reason
-raíces	roots	estate
-raíz	root	root
-raúl	raul	raul
-rb	rb	rb
-re	re	re
-reacciona	reacts	reaction to
-reacciones	reactions	reactions
-reacción	reaction	reaction
-reactor	reactor	reactor
-reactores	reactors	reactors
-real	real	real
-reales	real	real
-realice	fulfilled	perform
-realidad	reality	reality
-realismo	realism	realism
-realista	realistic	realistic
-realistas	realists	realistic
-realiza	done	makes
-realizaba	made	performed
-realizaban	performed	performed
-realización	realization	realization
-realizada	made	made
-realizadas	made	made
-realizado	undertaken	accomplished
-realizados	made	made
-realizan	do	perform
-realizando	doing	doing
-realizar	do	perform
-realizaron	they performed	they made
-realizarse	be	perform
-realizó	made	made
-realmente	really	really
-rebelde	rebel	rebel
-rebeldes	rebels	rebels
-rebelión	rebellion	rebellion
-recepción	reception	reception
-receptor	receiver	receiver
-receptores	receivers	receivers
-rechaza	rejects	denies
-rechazada	rejected	rejected
-rechazado	rejected	rejected
-rechazan	reject	reject
-rechazar	reject	to refuse
-rechazo	rejection	rejection
-rechazó	rejected	rejection
-recibe	receives	receives
-reciben	receive	receive
-recibida	recieve	received
-recibido	received	received
-recibiendo	receiving	receiving
-recibieron	received	received
-recibir	receive	to receive
-recibió	received	he received
-recibía	received	received
-reciclado	recycled	recycling
-reciclaje	recycling	recycling
-reciente	recent	recent
-recientemente	recently	recently
-recientes	recent	recent
-recinto	enclosure	enclosure
-recipiente	vessel	container
-recién	newly	newly
-reclutamiento	recruitment	recruitment
-recoge	collects	collect
-recogen	collect	collect
-recoger	pick up	collect
-recolección	recollection	harvest
-recombinación	recombination	recombination
-recomendable	recommended	recommendable
-recomendaciones	recommendations	recommendations
-recomendación	recommendation	recommendation
-recomienda	recommended	recommends
-reconciliación	reconciliation	reconciliation
-reconoce	admits	recognize
-reconocen	recognize	they recognize
-reconocer	recognize	recognize
-reconocida	recognize	recognized
-reconocidas	recognize	recognized
-reconocido	recognized	recognized
-reconocidos	recognize	recognized
-reconocimiento	recognition	recognition
-reconocimientos	surveys	acknowledgments
-reconoció	recognized	recognized
-reconocía	recognize	recognized
-reconstrucción	reconstruction	reconstruction
-reconstruir	rebuild	rebuild
-recopilación	compilation	compilation
-recopilatorio	compilation	compilation
-recordar	remember	remember
-recorre	traverses	runs
-recorrer	travel	travel
-recorrido	route	travel
-recreación	recreation	recreation
-recta	straight	straight
-rectas	straight	straight
-recto	straight	straight
-rectángulo	rectangle	rectangle
-rectángulos	rectangles	rectangles
-recuerda	remember	remember
-recuerdo	memory	memory
-recuerdos	memories	memories
-recuperación	recovery	recovery
-recuperar	recover	recover
-recurrente	recurrent	recurrent
-recurrentes	recurring	recurring
-recurrir	appeal	appeal
-recurso	resource	resource
-recursos	resources	resources
-red	net	net
-redacción	drafting	drafting
-redes	nets	nets
-reducción	reduction	reduction
-reduce	reduces	reduces
-reducen	reduce	reduce
-reducida	reduced	reduced
-reducido	reduced	reduced
-reduciendo	reducing	reducing
-reducir	reduce	reduce
-redujo	reduced	reduced
-reelección	re-election	re-election
-reemplazado	replaced	replaced
-reemplazar	replace	replace
-reemplazo	replacement	replacement
-referencia	reference	reference
-referencias	references	references
-referente	referent	referrer
-referentes	concerning	references
-referido	referred	referred
-referirse	refer	refer
-referéndum	referendum	referendum
-refiere	refers	refers
-refieren	refer	refer
-refinado	refined	refined
-refiriéndose	referring	referring
-refleja	reflects	reflects
-reflejado	reflected	reflected
-reflejan	reflect	reflect
-reflejar	reflect	reflect
-reflejo	reflect	reflection
-reflexiones	reflections	reflections
-reflexión	reflection	reflection
-reforma	reforms	reform
-reformas	reforms	reforms
-refrigeración	refrigeration	refrigeration
-refugiados	refugees	refugees
-regalo	gift	present
-regalos	gifts	gifts
-regeneración	regeneration	regeneration
-reggae	reggae	reggae
-regional	regional	regional
-regionales	regional	regional
-regiones	regions	regions
-registrada	registered	registered
-registrado	registered	registered
-registrados	registered	registered
-registran	register	register
-registrar	record	to register
-registro	registry	registry
-registros	records	records
-región	region	region
-regla	rule	ruler
-reglamento	regulation	regulation
-reglas	rules	rules
-regresa	returns	came back
-regresar	come back	to return
-regreso	return	return
-regresó	returned	return
-regula	regulates	regulates
-regulación	regulation	regulation
-regulan	regulate	regulate
-regular	regular	regular
-regulares	regularly	regular
-regularmente	regularly	regularly
-regímenes	regimes	regimes
-rehabilitación	rehabilitation	rehabilitation
-reich	reich	reich
-reina	queen	queen
-reinado	reign	reign
-reino	kingdom	kingdom
-reinos	kingdoms	kingdoms
-reivindicaciones	claims	claims
-relaciona	relates	relates
-relacionada	related	related
-relacionadas	related	related
-relacionado	related	related
-relacionados	related	related
-relacionan	relate	relate
-relaciones	relationships	relations
-relación	relationship	relationship
-relajación	relaxation	relaxation
-relata	relates	relates
-relativa	relative	relative
-relativamente	relatively	relatively
-relativas	relative	relative
-relatividad	relativity	relativity
-relativista	relativistic	relativistic
-relativo	relative	relative
-relativos	relative	relative
-relato	story	story
-relatos	stories	stories
-relevancia	relevance	relevance
-relevante	relevant	relevant
-relevantes	relevant	relevant
-relieve	relief	relief
-relieves	reliefs	reliefs
-religiones	religions	religions
-religiosa	religious	religious
-religiosas	religious	religious
-religioso	religious	religious
-religiosos	religious	religious
-religión	religion	religion
-reliquias	relic	relics
-reloj	watch	watch
-relojes	watches	clocks
-remedios	remedies	remedies
-remonta	overcomes	comeback
-remontan	date back	come back
-renacentista	renaissance	renaissance
-renacimiento	renaissance	renaissance
-renal	renal	renal
-rendición	surrender	surrender
-rendimiento	performance	performance
-renombre	renown	renown
-renovable	renewable	renewable
-renovables	renewable	renewable
-renovación	renewal	renewal
-renta	rent	rent
-renuncia	resignation	resignation
-renunció	quit	i quit
-rené	rene	i laughed
-reología	rheology	rheology
-reparación	repair	repair
-reparto	distribution	distribution
-repercusiones	repercussions	repercussions
-repercusión	repercussion	repercussion
-repertorio	repertoire	repertoire
-repetición	repetition	repetition
-repetidas	repeated	repeated
-repetir	repeat	repeat
-repite	repeated	repeat
-replicación	replication	replication
-reposo	rest	repose
-representa	represents	it represents
-representaba	represented	represented
-representaban	represented	they represented
-representaciones	representations	representations
-representación	representation	representation
-representada	represented	represented
-representadas	represented	represented
-representado	represented	represented
-representados	represented	represented
-representan	represent	represent
-representando	representing	representing
-representante	representative	representative
-representantes	representatives	representatives
-representar	represent	represent
-representativa	representative	representative
-representativo	representative	representative
-representativos	representative	representative
-representó	represented	represented
-represión	repression	repression
-reproducción	reproduction	reproduction
-reproducen	reproduce	reproduce
-reproducir	reproduce	play
-reproducirse	reproduce	breed
-reproductiva	reproductive	reproductive
-reproductivo	reproductive	reproductive
-reproductor	player	player
-reptiles	reptiles	reptiles
-republicana	republican	republican
-republicano	republican	republican
-republicanos	republican	republicans
-reputación	reputation	reputation
-república	republic	republic
-repúblicas	republics	republics
-requerido	required	required
-requerimientos	requirements	requirements
-requiere	required	requires
-requieren	require	require
-requisito	requirement	requirement
-requisitos	requirements	requirements
-resaltar	highlight	highlight
-rescate	rescue	rescue
-research	research	research
-reserva	reserve	reservation
-reservas	reserves	bookings
-reside	resides	resides
-residencia	residence	home
-residentes	resident	residents
-residuales	residual	residual
-residuos	residuals	waste
-resistencia	resistance	resistance
-resistencias	resistences	resistors
-resistente	resistant	resistant
-resistentes	resistant	resistant
-resistir	resist	to resist
-resolución	resolution	resolution
-resolver	solve	solve
-resonancia	resonance	resonance
-respaldo	back	back
-respectivamente	respectively	respectively
-respectivas	respective	respective
-respectivos	respective	respective
-respecto	respect	respect
-respetar	respect	respect
-respeto	respect	respect
-respiración	breathing	breathing
-respiratoria	respiratory	respiratory
-respiratorias	respiratory	respiratory
-respiratorio	respiratory	respiratory
-responde	reacts	answer back
-responden	respond	respond
-responder	respond	reply
-respondió	answered	answered
-responsabilidad	responsibility	responsibility
-responsable	responsible	responsable
-responsables	responsible	responsible
-respuesta	response	reply
-respuestas	answers	answers
-resta	subtraction	subtraction
-restantes	remaining	remaining
-restauración	restoration	restoration
-restaurantes	restaurants	restaurants
-resto	rest	rest
-restos	remains	remains
-restricciones	restrictions	restrictions
-restricción	restriction	restriction
-restringido	restricted	restricted
-resuelto	resolved	resolved
-resulta	becomes	result
-resultaba	resulted	it turned out
-resultado	result	outcome
-resultados	results	results
-resultan	result	turn out
-resultando	resulting	resulting
-resultante	resulting	resulting
-resultar	result	result
-resultaron	turned out	turned out
-resultó	turned out	turned out
-resumen	summary	summary
-resurrección	resurrection	resurrection
-retina	retina	retina
-retirada	withdrawal	withdrawal
-retirado	retired	retired
-retirar	remove	remove
-retirarse	retire	backing out
-retiro	retirement	retirement
-retiró	retired	retirement
-retorno	return	return
-retraso	delay	delay
-retrato	portrait	portrait
-retratos	portraits	pictures
-retroalimentación	feedback	feedback
-retículo	reticle	reticle
-retórica	rhetoric	rhetoric
-reunieron	gathered	gathered
-reuniones	meetings	meetings
-reunir	gather	gather
-reunirse	get together	get together
-reunió	met	met
-reunión	gathering	meeting
-revela	reveal	reveals
-revelación	revelation	revelation
-revelan	reveal	reveal
-reveló	revealed	revealed
-revisión	revision	revision
-revista	magazine	magazine
-revistas	magazines	journals
-revolucionaria	revolutionary	revolutionary
-revolucionarias	revolutionary	revolutionary
-revolucionario	revolutionary	revolutionary
-revolucionarios	revolutionary	revolutionaries
-revoluciones	revolutions	revolutions
-revolución	revolution	revolution
-revuelta	revolt	revolt
-revueltas	revolts	revolts
-revés	backwards	reverse
-rey	king	king
-reyes	kings	kings
-reúne	remeet	gathers
-reúnen	gather	gather
-rhythm	rhythm	rhythm
-ribosomas	ribosomes	ribosomes
-rica	rich	delicious
-ricardo	richard	richard
-ricas	rich	rich
-richard	richard	richard
-rico	rich	rich
-ricos	rich	rich
-riesgo	risk	risk
-riesgos	risks	risks
-rige	rule	rules
-rigen	prevail	they rule
-rights	rights	rights
-rigidez	rigidity	rigidity
-rigor	rigor	rigor
-rihanna	rihanna	rihanna
-rima	rhyme	rhyme
-rimas	rhymes	rhymes
-rin	rim	rin
-ring	ring	ring
-riqueza	wealth	wealth
-riquezas	riches	riches
-ritmo	rhythm	rhythm
-ritmos	rhythms	rhythms
-rito	rite	rite
-ritos	rites	rites
-ritual	ritual	ritual
-rituales	rituals	rituals
-rival	rival	rival
-rivales	rivals	rivals
-rivalidad	rivalry	rivalry
-rivera	rivera	riverbank
-riñones	kidneys	kidneys
-riñón	kidney	kidney
-road	road	road
-robert	robert	robert
-roberto	roberto	robert
-roca	rock	rock
-rocas	rocks	rocks
-rock	rock	rock
-rodaje	shoot	filming
-rodas	rhodes	rhodes
-rodea	surrounds	surrounds
-rodeada	surrounded	surrounded
-rodeado	surrounded	surrounded
-rodeados	surrounded	surrounded
-rodean	surrounds	surround
-rodrigo	rodrigo	rodrigo
-rodríguez	rodriguez	rodriguez
-roger	roger	roger
-roja	red	red
-rojas	reds	red
-rojo	red	red
-rojos	red	red
-rol	role	role
-roll	roll	roll
-rolling	rolling	rolling
-roma	rome	rome
-roman	roman	roman
-romana	roman	roman
-romanas	roman	roman
-romance	romance	romance
-romances	romance	romances
-romano	roman	roman
-romanos	romans	romans
-romanticismo	romanticism	romanticism
-romboide	rhomboid	rhomboid
-romeo	romeo	romeo
-romero	rosemary	rosemary
-rompe	break	breaks
-romper	break	to break
-rompió	broke	broke
-romántica	romantic	romantic
-romántico	romantic	romantic
-románticos	romantic	romantic
-ron	rum	ron
-ronald	ronald	ronald
-ronaldo	ronaldo	ronaldo
-ronda	round	round
-ropa	clothes	clothing
-rosa	rose	pink
-rosario	rosary	rosary beads
-rosas	roses	roses
-rose	rose	rose
-roses	roses	roses
-rostro	face	face
-rotación	rotation	rotation
-rousseau	rousseau	rousseau
-rowling	rowling	rowling
-roy	roy	roy
-royal	royal	royal
-rss	rss	rss
-rubén	ruben	ruben
-rudolf	rudolf	rudolf
-rueda	wheel	wheel
-ruedas	wheels	wheels
-rugby	rugby	rugby
-ruido	noise	noise
-ruinas	ruins	ruins
-ruiz	ruiz	ruiz
-rukia	rukia	rukia
-rumania	romania	romania
-rumanía	romania	romania
-rumbo	course	course
-rumores	rumors	rumors
-ruptura	rupture	breaking off
-rural	rural	rural
-rurales	rural	rural
-rusa	russian	russian
-rusia	russia	russia
-ruso	russian	russian
-rusos	russian	russians
-russell	russell	russell
-ruta	route	route
-rutas	routes	routes
-rutherford	rutherford	rutherford
-rápida	fast	fast
-rápidamente	quickly	quickly
-rápidas	fast	fast
-rápido	fast	quick
-rápidos	rapid	rapid
-récord	record	record
-récords	records	records
-régimen	regime	regime
-rígida	rigid	stiff
-rígido	rigid	rigid
-río	river	river
-ríos	rivers	rivers
-rítmica	rhythmic	rhythmic
-rómulo	romulus	romulus
-s	s	s
-sabana	savannah	bed sheet
-sabbath	sabbath	sabbath
-sabe	knows	knows
-sabemos	we know	we know
-saber	to know	to know
-sabiduría	wisdom	wisdom
-sabio	wise	wise
-sabor	flavor	flavor
-sabía	knew	i knew
-sabían	knew	they knew
-sacar	throw	take
-sacerdote	priest	priest
-sacerdotes	priests	priests
-sacrificio	sacrifice	sacrifice
-sacrificios	sacrifices	sacrifices
-sacro	sacral	sacrum
-sacó	bag	coat
-saga	saga	saga
-sagrada	sacred	sacred
-sagrado	sacred	sacred
-sagrados	sacred	sacred
-sahara	sahara	sahara
-saint	saint	saint
-sal	salt	salt
-sala	room	living room
-salamanca	salamanca	salamanca
-salario	salary	salary
-salarios	wages	wages
-salas	rooms	rooms
-sale	leaves	comes out
-salen	leave	they leave
-sales	salts	you go out
-salida	exit	exit
-salieron	were released	they left
-salir	rise	go out
-saliva	saliva	saliva
-salió	released	he left
-salomón	solomon	solomon
-salto	jump	jump
-salud	health	health
-saludable	healthy	healthy
-salvación	salvation	salvation
-salvador	salvador	savior
-salvaje	wild	wild
-salvajes	wild	wild
-salvar	save	save
-salvo	except	except
-salón	class room	living room
-sam	sam	sam
-samuel	samuel	samuel
-san	saint	saint
-sana	healthy	fury
-sancho	sancho	sancho
-sanción	sanction	sanction
-sangre	blood	blood
-sanguínea	circulatory	sanguine
-sanguíneo	sanguinary	sanguine
-sanguíneos	blood	blood
-sanidad	health	health
-sanitaria	sanitary	sanitary
-sanitario	sanitary	sanitary
-santa	saint	holy
-santiago	santiago	santiago
-santo	holy	holy
-santos	saints	saints
-sapiens	sapiens	sapiens
-saque	took out	take out
-sartre	sartre	sartre
-sasuke	sasuke	sasuke
-satisfacción	satisfaction	satisfaction
-satisfacer	satisfy	satisfy
-saturno	saturn	saturn
-satélite	satellite	satelite
-satélites	satellites	satellites
-school	school	school
-science	science	science
-scott	scott	scott
-scriptstyle	scriptstyle	scriptstyle
-se	did	i know
-sea	be	be
-sean	be	be
-sebastian	sebastian	sebastian
-sebastián	sebastian	sebastian
-seca	dry	dry
-secas	dry	dry
-secciones	sections	sections
-sección	section	section
-seco	dry	dry
-secos	dry	dried
-secreciones	secretions	secretions
-secreción	secretion	secretion
-secreta	secret	secret
-secretario	secretary	secretary
-secretaría	secretary	secretary
-secreto	secret	secret
-secretos	secrets	secrets
-sector	sector	sector
-sectores	sectors	sectors
-secuela	sequel	sequel
-secuencia	sequence	sequence
-secuencias	sequences	sequences
-secular	secular	secular
-secundaria	high school	high school
-secundarias	secondary	high schools
-secundario	secondary	secondary
-secundarios	secondary	secondary
-sede	headquarters	campus
-sedes	headquarters	venues
-sedimentos	sediment	sediment
-segmento	segment	segment
-segmentos	segments	segments
-segovia	segovia	segovia
-segregación	segregation	segregation
-seguida	followed	followed
-seguido	followed	following
-seguidores	followers	followers
-seguidos	followed	followed
-seguimiento	monitoring	tracing
-seguir	follow	follow
-segunda	second	second
-segundo	second	second
-segundos	seconds	seconds
-segura	safe	safe
-seguramente	surely	surely
-seguridad	security	security
-seguro	insurance	insurance
-seguros	insurance	insurance
-seguía	followed	still
-seguían	continue to	they kept
-según	according	according
-seis	six	six
-seiyū	seiyü	seiyū
-seleccionados	selected	selected
-seleccionar	select	to select
-selecciones	selections	selections
-selección	national team	selection
-selectiva	selective	selective
-selenio	selenium	selenium
-sello	stamp	stamp
-sellos	seal	seals
-selva	jungle	jungle
-selvas	jungles	jungles
-semana	week	week
-semanas	weeks	weeks
-semejante	similar	similar
-semejantes	similar	alike
-semejanza	resembling	likeness
-semejanzas	similarities	similarities
-semen	semen	semen
-semiconductor	semiconductor	semiconductor
-semillas	seeds	seeds
-semántica	semantics	semantics
-sen	sen	sen
-senado	senate	senate
-senadores	senators	senators
-sencilla	simple	simple
-sencillas	simple	simple
-sencillo	simple	simple
-sencillos	singles	simple
-seno	sinus	breast
-sensaciones	sensations	sensations
-sensación	sensation	sensation
-sensibilidad	sensitivity	sensitivity
-sensible	sensitive	sensitive
-sensibles	sensitive	sensitive
-sensorial	sensory	sensory
-sensoriales	sensory	sensory
-sentado	sitting	seated
-sentencia	judgment	judgment
-sentido	sense	sense
-sentidos	senses	senses
-sentimental	sentimental	sentimental
-sentimiento	feeling	feeling
-sentimientos	feelings	feelings
-sentir	feel	feel
-sentirse	feel	feel
-sentía	felt	felt
-separa	separates	to stop
-separación	separation	separation
-separada	separated	separated
-separadas	separate	separated
-separado	separated	separated
-separados	separated	separated
-separan	separate	separate
-separar	separate	pull apart
-separarse	seperate	break away
-septentrional	northern	northern
-septiembre	september	september
-ser	being	be
-serbia	servian	serbian
-serena	collected	serene
-seres	beings	beings
-seria	serious	would
-seriamente	seriously	seriously
-serie	series	serie
-series	series	series
-serio	serious	i laughed
-serios	serious	serious
-serlo	being	be
-serna	serna	serna
-serpiente	snake	snake
-serrano	mountain highland	highlander
-service	service	service
-servicio	service	service
-servicios	services	services
-servido	served	served
-servidor	server	server
-servidores	servers	servers
-servir	serve	to serve
-será	will be	will be
-serán	will be	will be
-sería	serious	would
-serían	would be	would
-sesenta	sixty	sixty
-sesiones	session	sessions
-sesión	session	session
-set	set	set
-setenta	seventy	seventy
-severo	severe	severe
-sevilla	seville	seville
-sex	sex	sex
-sexo	sex	sex
-sexos	sexes	sexes
-sexta	sixth	sixth
-sexto	sixth	sixth
-sexual	sexual	sexual
-sexuales	sexuals	sexual
-sexualidad	sexuality	sexuality
-sexualmente	sexually	sexually
-señal	signal	signal
-señala	signal	points
-señalado	pointed out	indicated
-señalan	point	point
-señalar	signal	point
-señales	signals	signs
-señaló	pointed	he pointed
-señor	sir	mr
-señora	ms	ms
-señores	sirs	sirs
-shakespeare	shakespeare	shakespeare
-shakira	shakira	shakira
-sheldon	sheldon	sheldon
-shift	shift	shift
-shinigami	shinigami	shinigami
-show	show	show
-shōnen	shonen	shōnen
-si	if	yes
-sialorrea	sialorrhea	sialorrhea
-sicilia	sicily	sicily
-sida	aids	aids
-sido	been	been
-siempre	always	always
-siendo	being	being
-siente	feel	feel
-sienten	feel	feel
-sierra	mountain range	mountain range
-sierras	saws	saws
-siervos	serf	servants
-siete	seven	seven
-siglas	acronym	acronym
-siglo	century	century
-siglos	centuries	centuries
-sigmund	sigmund	sigmund
-significa	signifies	it means
-significaba	meant	meant
-significación	significance	significance
-significado	meaning	meaning
-significados	meanings	meanings
-significar	to mean	to mean
-significativa	significant	significant
-significativamente	significantly	significantly
-significativas	significant	significant
-significativo	significant	significant
-significativos	significant	significant
-significó	meant	meant
-signo	sign	sign
-signos	signs	signs
-sigue	still	follow
-siguen	follow	continue
-siguiendo	following	following
-siguiente	next	next
-siguientes	following	following
-siguieron	continued	they followed
-siguió	continued	continued
-silencio	silence	silence
-silicio	silicon	silicon
-silla	chair	chair
-silva	silva	silva
-simbolismo	symbolism	symbolism
-simboliza	symbolizes	symbolizes
-simbólica	symbolic	symbolic
-simbólico	symbolic	symbolic
-simetría	symmetry	symmetry
-similar	similar	similary
-similares	similar	similar
-similitud	similarity	similarity
-similitudes	similarities	similarities
-simon	simon	simon
-simpatía	sympathy	sympathy
-simple	simple	simple
-simplemente	simply	simply
-simples	simple	simple
-simplificar	simplify	simplify
-simpson	simpson	simpson
-simultánea	simultaneous	simultaneous
-simultáneamente	simultaneously	simultaneously
-simón	simon	simon
-sin	without	without
-sinaí	sinai	sinai
-sindicatos	unions	unions
-sinfonía	symphony	symphony
-sinfonías	symphony	symphonies
-sinfónica	symphony	symphony
-single	single	single
-singular	singular	singular
-singularidad	singularity	singularity
-sino	except	if not
-sintagma	syntagma	syntagma
-sintaxis	syntax	syntax
-sintetizar	synthesize	synthesize
-sintió	heard	he felt
-sintético	synthetic	synthetic
-sinónimo	synonymous	synonymous
-sinónimos	synonyms	synonyms
-siquiera	even	not even
-siria	syria	syria
-sirve	works	it serves
-sirven	served	serving
-sirvieron	served	served
-sirvió	served	served
-sistema	system	system
-sistemas	systems	systems
-sistemática	systematic	systematic
-sistemático	systematic	systematic
-sitio	site	site
-sitios	sites	sites
-situaciones	situations	situations
-situación	situation	situation
-situada	located	situated
-situadas	situated	situated
-situado	located	located
-situados	located	situated
-sitúa	places	locates
-sitúan	placed	place
-slipknot	slipknot	slipknot
-smith	smith	smith
-so	so	sw
-soberano	sovereign	sovereign
-soberanía	sovereignty	sovereignty
-sobre	about	on
-sobrenatural	supernatural	supernatural
-sobrenombre	nickname	nickname
-sobresalen	standing out	stand out
-sobrevivir	survive	survive
-sobrino	nephew	nephew
-social	social	social
-sociales	social	social
-socialismo	socialism	socialism
-socialista	socialist	socialist
-socialistas	socialists	socialists
-socialmente	socially	socially
-sociedad	society	society
-sociedades	societies	societies
-society	society	society
-socio	partner	partner
-sociología	sociology	sociology
-socios	partners	partners
-sodio	sodium	sodium
-sofía	sofia	sofia
-sol	sun	sun
-sola	alone	alone
-solamente	only	only
-solar	solar	solar
-solares	solar	solar
-soldado	soldier	soldier
-soldados	soldiers	soldiers
-soldadura	welding	welding
-soledad	loneliness	loneliness
-solicitó	requested	solicitous
-solidaridad	solidarity	solidarity
-solista	soloist	soloist
-solistas	soloists	soloists
-solitario	solo	lonely
-solo	single	alone
-solos	alone	alone
-solubilidad	solubility	solubility
-solucionar	solve	sort out
-soluciones	solutions	solutions
-solución	solution	solution
-soluto	solute	solute
-solía	used to	used to
-solían	used to	used to
-sombra	shadow	shadow
-sombras	shadows	shades
-sombrero	hat	hat
-sometida	submitted	subdued
-sometido	submitted	subdued
-sometidos	submitted	subdued
-somos	we are	we are
-son	being	they are
-sonata	sonata	sonata
-sonatas	sonatas	sonatas
-sonda	probe	probe
-soneto	sonnet	sonnet
-sonetos	sonnets	sonnets
-song	song	song
-sonido	sound	sound
-sonidos	sounds	sounds
-sonora	sound	sonorous
-sonoras	sonorous	sonorous
-sony	sony	sony
-soporta	support	supports
-soportar	resist	put up with
-soporte	support	support
-sorpresa	surprise	surprise
-sospecha	suspicion	suspicion
-sostener	support	to hold
-sostenible	sustainable	sustainable
-sostenida	sustained	sustained
-sostenido	sustained	sustained
-sostenía	held	held
-sostiene	claims	holds
-sostienen	support	they hold
-sostuvo	held	held
-soto	soto	soto
-soul	soul	soul
-sound	sound	sound
-soundtrack	soundtrack	soundtrack
-soviética	soviet	soviet
-soviéticas	soviet	soviet
-soviético	soviet	soviet
-soviéticos	soviets	soviets
-soy	i am	i am
-sp	sp	sp
-spears	spears	spears
-square	square	square
-sr	sr	mr
-stalin	stalin	stalin
-stalingrado	stalingrad	stalingrad
-stanley	stanley	stanley
-starr	starr	starr
-stephen	stephen	stephen
-stephenie	stephenie	stephenie
-steve	steve	steve
-steven	steven	steven
-stewart	stewart	stewart
-stone	stone	stone
-stones	stones	stones
-stravinski	stravinski	stravinski
-stuart	stuart	stuart
-su	it's	his
-suave	soft	soft
-suaves	soft	soft
-sub	sub	sub
-subcampeón	runner-up	runner-up
-subcontinente	subcontinent	subcontinent
-subgéneros	subgenre	subgenres
-subir	upload	rise
-subjetiva	subjective	subjective
-subjetivo	subjective	subjective
-sublevación	uprising	uprising
-sublevado	revolt	rebellious
-sublevados	revolt	uprising
-submarinos	submarine	submarines
-subordinada	subordinate	subordinate
-subsahariana	sub-saharan	sub-saharan
-subsidios	subsidies	subsidies
-subterránea	underground	underground
-subterráneas	underground	underground
-subtropical	subtropical	subtropical
-subunidades	subunits	subunits
-sucede	happens	happens
-suceden	happen	happen
-sucedido	happened	happened
-sucedieron	happened	happened
-sucedió	followed	it happened
-sucesivamente	successively	successively
-sucesivas	successives	successive
-sucesivos	successive	successive
-sucesión	succession	succession
-suceso	event	event
-sucesor	successor	successor
-sucesores	successors	successors
-sucesos	events	events
-sudamericana	south american	south american
-sudamericano	south american	south american
-sudamérica	south america	south america
-sudeste	southeast	southeast
-sudáfrica	south africa	south africa
-sudán	sudan	sudan
-sueca	swedish	swedish
-suecia	sweden	sweden
-sueco	swedish	swedish
-suele	usually	usually
-suelen	usually	usually
-suelo	soil	i usually
-suelos	soils	floors
-suerte	luck	luck
-suez	suez	suez
-sueño	dream	dream
-sueños	dreams	dreams
-suficiente	enough	enough
-suficientemente	enough	enough
-suficientes	enough	enough
-sufijo	suffix	suffix
-sufragio	suffrage	suffrage
-sufre	suffers	suffers
-sufren	suffer	they suffer
-sufrido	suffered	suffered
-sufrieron	suffered	they suffered
-sufrimiento	suffering	suffering
-sufrir	suffer	suffer
-sufrió	suffered	suffered
-sugerido	suggested	suggested
-sugerir	suggest	suggest
-sugiere	suggests	suggests
-sugieren	suggest	suggest
-sugirió	suggested	he suggested
-suicidio	suicide	suicide
-suiza	switzerland	switzerland
-suizo	swiss	swiss
-suizos	swiss	swiss
-sujeta	holds	hold
-sujeto	subject	subject
-sujetos	subjects	subjects
-suma	sum	sum
-sumamente	extremely	extremely
-suman	add up	add up
-sumar	add	add
-suministro	supply	supply
-suministros	supplies	supplies
-sumo	high	sumo
-sun	sun	sun
-super	super	super
-supera	overcomes	beats
-superado	surpassed	overcome
-superan	than	exceed
-superando	overcoming	beating
-superar	to overcome	overcome
-supercopa	super cup	super cup
-superficial	superficial	superficial
-superficiales	superficial	superficial
-superficie	surface	surface
-superficies	surfaces	surfaces
-superior	superior	higher
-superiores	superior	superiors
-superioridad	superiority	superiority
-supervivencia	survival	survival
-supervivientes	survivors	survivors
-superó	surpassed	surpassed
-supone	suppose	suppose
-suponen	suppose	suppose
-suponer	suppose	suppose
-suponía	suppose	supposed
-suprema	supreme	supreme
-supremacía	supremacy	supremacy
-supremo	supreme	supreme
-supresión	suppression	suppression
-supuesta	supposedly	supposed
-supuestamente	supposedly	supposedly
-supuesto	for sure	course
-supuestos	supposed	assumptions
-supuso	supposed	supposed
-sur	south	south
-sureste	southeast	southeast
-surge	arises	arises
-surgen	emerge	arise
-surgido	emerged	emerged
-surgiendo	arising	arising
-surgieron	arose	arose
-surgimiento	emergence	emergence
-surgir	emerge	arise
-surgió	came up	arose
-suroeste	southeast	southwest
-surrealismo	surrealism	surrealism
-surrealista	surreal	surreal
-sus	his	their
-susceptible	susceptible	susceptible
-susceptibles	susceptible	susceptible
-suspensión	suspension	suspension
-sustancia	substance	substance
-sustancial	substantial	substantial
-sustancialmente	substantially	substantially
-sustancias	substances	substances
-sustantivo	noun	noun
-sustantivos	noun	nouns
-sustitución	substitution	substitution
-sustituido	substituted	replaced
-sustituir	replace	replace
-sustituto	substitute	substitute
-sustituyendo	substituting	substituting
-sustrato	substratum	substratum
-suya	his	hers
-suyo	his	yours
-suyos	his	his
-suárez	suarez	suarez
-swing	swing	swing
-system	system	system
-sábado	saturday	saturday
-sánchez	sanchez	sanchez
-são	sao	são
-séptima	seventh	seventh
-séptimo	seventh	seventh
-sí	yes	yes
-sílaba	syllable	syllable
-sílabas	syllables	syllables
-símbolo	symbol	symbol
-símbolos	symbols	symbols
-síndrome	syndrome	syndrome
-síntesis	synthesis	synthesis
-síntoma	symptom	symptom
-síntomas	symptoms	symptom
-sócrates	socrates	socrates
-sólida	solid	solid
-sólidas	solid	solid
-sólido	solid	solid
-sólidos	solid	solids
-sólo	single	alone
-tabaco	tobacco	tobacco
-tabla	table	table
-tablas	boards	boards
-tablero	board	board
-tailandia	thailand	thailand
-taiwán	taiwan	taiwan
-tal	such	such
-talento	talents	talent
-tales	such	such
-talla	carving	size
-taller	workshop	workshop
-tamaño	size	size
-tamaños	sizes	sizes
-también	also	too
-tampoco	neither	neither
-tan	so	so
-tangente	tangent	tangent
-tango	tango	tango
-tanques	tanks	tanks
-tanta	as much	so much
-tantas	so	many
-tanto	therefore	so much
-tantos	so many	so many
-tapa	cover	top
-taquilla	blockbuster	ticket office
-tarda	late	it takes
-tarde	late	late
-tardía	late	late
-tardío	late	late
-tarea	task	homework
-tareas	tasks	chores
-tarjeta	card	card
-tarjetas	cards	cards
-tasa	rate	rate
-tasas	rates	fees
-taxones	taxa	taxa
-taxonomía	taxonomy	taxonomy
-taxón	taxon	taxon
-taylor	taylor	taylor
-te	te	tea
-teatral	theatrical	theatrical
-teatrales	theatrical	theatrical
-teatro	theater	theater
-teatros	theaters	theaters
-techo	roof	the ceiling
-teclado	keyboard	keyboard
-teclados	keyboards	keyboards
-teclas	keys	keys
-tecnología	technology	technology
-tecnologías	technologies	technologies
-tecnológica	technology	technological
-tecnológicas	technological	technological
-tecnológico	technological	technological
-tecnológicos	technological	technological
-tectónica	tectonic	tectonics
-tectónicas	tectonic	tectonic
-teen	teen	teen
-tejido	tissue	tissue
-tejidos	tissues	fabrics
-tela	cloth	cloth
-telecomunicaciones	telecommunications	telecommunications
-telefonía	telephony	telephony
-telefónica	telephonic	telephone
-telescopio	telescope	telescope
-telescopios	telescopes	telescopes
-televisión	television	tv
-teléfono	telephone	phone
-teléfonos	phone	phones
-tema	theme	topic
-temas	themes	themes
-temor	fear	fear
-temperatura	temperature	temperature
-temperaturas	temperature	temperatures
-tempestad	storm	storm
-templado	temperate	tempered
-temple	distemper paint	quenching
-templo	temple	temple
-templos	temples	temples
-temporada	season	season
-temporadas	seasons	seasons
-temporal	temporary	temporary
-temporales	temporary	temporary
-temporalmente	temporarily	temporarily
-temprana	early	early
-tempranas	early	early
-temprano	early	early
-temática	thematic	thematic
-temáticas	thematics	thematic
-temático	thematic	thematic
-tendencia	tendency	trend
-tendencias	trends	trends
-tendrá	will have	will have
-tendrán	will have	will have
-tendría	would have	would have
-tendrían	would have	would have
-tenemos	we have	we have
-tener	to have	to have
-tenga	have	have
-tengan	having	have
-tengo	i have	i have
-tenido	had	had
-teniendo	having	having
-teniente	lieutenant	lieutenant
-tenis	tennis	tennis
-tensiones	tensions	tensions
-tensión	tension	tension
-tenía	had	had
-tenían	got	they had
-teología	theology	theology
-teorema	theorem	theorem
-teoría	theory	theory
-teorías	theories	theories
-teotihuacan	teotihuacan	teotihuacan
-terapia	therapy	therapy
-tercer	third	third
-tercera	third	third
-tercero	third	third
-terceros	third partys	third parties
-tercio	third	third
-tercios	thirds	thirds
-teresa	teresa	teresa
-termidor	thermidor	thermidor
-termina	finished	ends
-terminada	finished	finished
-terminado	finished	finished
-terminal	terminal	terminal
-terminales	terminals	terminals
-terminar	end	finish
-terminaron	ended	finished
-terminología	terminology	terminology
-terminó	ended	finished
-termodinámica	thermodynamics	thermodynamics
-termodinámico	thermodynamic	thermodynamic
-termómetro	thermometer	thermometer
-terremoto	earthquake	earthquake
-terremotos	earthquakes	earthquakes
-terreno	ground	ground
-terrenos	terrains	land
-terrestre	land	land
-terrestres	terrestrial	terrestrial
-territorial	territorial	territorial
-territoriales	territorial	territorial
-territorio	territory	territory
-territorios	territory	territories
-terror	terror	terror
-terrorismo	terrorism	terrorism
-terroristas	terrorist	terrorists
-tesis	thesis	thesis
-tesla	tesla	tesla
-test	test	test
-testamento	will	will
-testigo	witness	witness
-testigos	witnesses	witnesses
-testimonio	testimony	testimony
-testimonios	testimonies	testimonies
-tests	test	tests
-texas	texas	texas
-text	text	text
-textil	textile	textile
-textiles	textile	textiles
-texto	text	text
-textos	texts	texts
-teólogos	theologians	theologians
-teórica	theoretic	theoretical
-teóricamente	theoretically	theoretically
-teórico	theoretical	theoretical
-teóricos	theoretic	theorists
-that	that	that
-theta	theta	theta
-this	this	este
-thomas	thomas	thomas
-thompson	thompson	thompson
-thomson	thomson	thomson
-thrash	trash	thrash
-thumb|	thumb	thumb |
-thumb|el	thumb|the	thumb | the
-thumb|left|el	thumb	thumb | left | el
-thumb|left|la	thumb	thumb | left | la
-thumb|left|px|la	thumb|left|px|the	thumb | left | px | la
-thumb|mapa	thumb|map	thumb | map
-thumb|px|	thumb	thumb | px |
-tic	tic	tic
-tiempo	time	weather
-tiempos	times	time
-tienda	store	store
-tiendas	shops	shops
-tiende	tends	tends
-tienden	tend	tend
-tiene	have	have
-tienen	have	have
-tierra	country	earth
-tierras	lands	land
-tikal	tikal	tikal
-tim	tim	tim
-timbre	ring	doorbell
-time	time	time
-times	times	times
-tinción	staining	staining
-tinta	ink	ink
-tipo	kind	kind
-tipos	types	types
-tiro	shoot	threw
-tiroides	thyroid	thyroid
-tiros	throw	shooting
-tisdale	tisdale	tisdale
-tito	tito	tito
-titulada	titled	titled
-titulado	titled	titled
-titular	head	headline
-tlc	fta	tlc
-to	to	to
-toca	plays	touch
-tocado	touched	touched
-tocando	playing	touching
-tocar	touch	play
-tocaron	played	they touched
-tocó	touched	touched
-toda	all	all
-todas	all	all
-todavía	still	still
-todo	all	everything
-todos	all	everybody
-tokio	tokyo	tokyo
-toledo	toledo	toledo
-tolerancia	tolerance	tolerance
-tolkien	tolkien	tolkien
-toltecas	toltec	toltecs
-tom	tom	tom
-toma	take	taking
-tomaba	took	took
-tomada	taken	taken
-tomadas	taken	taken
-tomado	taken	taken
-toman	take	they take
-tomando	taking	taking
-tomar	take	drink
-tomaron	took	they took
-tommy	tommy	tommy
-tomo	volume	i take
-tomás	footage	you take
-tomó	took	i take
-tono	tone	tone
-tonos	sounds	shades
-tony	tony	tony
-top	top	top
-topografía	topography	topography
-topología	topology	topology
-toque	touch	i touched
-tormenta	storm	storm
-tormentas	storms	storms
-tormes	tormes	tormes
-torneo	tournament	tournament
-torneos	tournaments	tournaments
-torno	lathe	turnstile
-toro	bull	bull
-torre	tower	tower
-torres	towers	towers
-tortura	torture	torture
-torá	torah	torah
-tos	coughing	cough
-total	total	total
-totales	total	totals
-totalidad	all	whole
-totalmente	totally	totally
-tour	tour	tour
-trabaja	works	works
-trabajaba	worked	worked
-trabajado	worked	worked up
-trabajadores	workers	workers
-trabajan	work	they work
-trabajando	working	working
-trabajar	work	to work
-trabajo	work	job
-trabajos	work	jobs
-trabajó	worked	job
-tracia	thracian	thracian
-tracto	tract	tract
-trad	translation	trad
-trade	trade	trade
-tradicional	traditional	traditional
-tradicionales	traditional	traditional
-tradicionalmente	traditionally	traditionally
-tradiciones	tradition	traditions
-tradición	tradition	tradition
-traducciones	translations	translations
-traducción	translation	translation
-traduce	translate	translate
-traducida	translated	translated
-traducido	translated	translated
-tradujo	translated	translated
-traer	bring	bring
-tragedia	tragedy	tragedy
-tragedias	tragedies	tragedies
-traición	treason	treason
-trajo	brought	brought
-trama	plot	plot
-transacciones	transactions	transactions
-transcripción	transcription	transcription
-transcriptasa	transcriptase	transcriptase
-transcurso	course	course
-transferencia	transfer	transfer
-transforma	transforms	transform
-transformaciones	transformations	transformations
-transformación	transformation	transformation
-transformador	transformer	transformer
-transformadores	transformers	transformers
-transforman	transform	transform
-transformar	transform	transform
-transformó	transformed	transformed
-transición	transition	transition
-transistor	transistor	transistor
-transistores	transistors	transistors
-transmisión	transmission	transmission
-transmite	transmit	transmit
-transmiten	transmit	transmit
-transmitida	transmitted	transmitted
-transmitido	transmitted	transmitted
-transmitir	broadcast	to transmit
-transparente	transparent	transparent
-transportar	transport	transport
-transporte	transport	transport
-transportes	transportation	transportation
-tras	after	after
-trascendencia	transcendence	transcendence
-trascendental	transcendental	transcendental
-trasladado	transfer	transferred
-trasladar	move	move
-trasladaron	moved	moved
-trasladarse	move	move
-traslado	transfer	transfer
-trasladó	transfer	transfer
-traspaso	transfer	transfer
-trastorno	disorder	disorder
-trastornos	disorder	disorders
-trata	is	about
-trataba	tried	tried
-tratada	treated	treated
-tratado	treaty	treaty
-tratados	treaties	treaties
-tratamiento	treatment	treatment
-tratamientos	treatments	treatments
-tratan	leaves	try
-tratando	trying	trying
-tratar	trying	try
-trataron	they tried	they tried
-tratarse	brought	treat
-trate	in question	try
-trato	treatment	treatment
-trató	treatment	treatment
-través	through	through
-trayectoria	trajectory	trajectory
-trece	thirteen	thirteen
-treinta	thirty	thirty
-tren	train	train
-trenes	trains	trains
-tres	three	three
-tribu	tribe	tribe
-tribunal	court	court
-tribunales	court	courts
-tribus	tribes	tribes
-tributo	tribute	tribute
-trigo	wheat	wheat
-trigonometría	trigonometry	trigonometry
-trigonométricas	trigonometricals	trigonometric
-trilogía	trilogy	trilogy
-trinidad	trinity	trinity
-triple	triple	triple
-tripulación	crew	crew
-triste	sad	sad
-tristeza	sadness	sadness
-triunfo	triumph	triumph
-triángulo	triangle	triangle
-triángulos	triangles	triangles
-trofeo	trophy	trophy
-trofozoíto	trophozoite	trophozoite
-tronco	trunk	trunk
-trono	throne	throne
-tropas	troops	troops
-tropical	tropical	tropical
-tropicales	tropical	tropical
-troya	troy	trojan
-troyanos	trojans	trojans
-trujillo	trujillo	trujillo
-tráfico	traffic	traffic
-trágica	tragic	tragic
-tránsito	transit	transit
-trío	trio	trio
-tu	your	you
-tuberculosis	tuberculosis	tuberculosis
-tubo	tube	tube
-tubos	tubes	tubes
-tubérculo	tuber	tuber
-tumba	tomb	tomb
-tumbas	graves	graves
-tumor	tumor	tumor
-tumores	tumors	tumors
-turca	turkish	turkish
-turco	turkish	turkish
-turcos	turks	turks
-turismo	tourism	tourism
-turistas	tourists	tourists
-turquía	turkey	turkey
-turística	tourism	tour
-turístico	tourist	tourist
-turísticos	touristics	tourist
-tuviera	had	had
-tuvieran	had	have
-tuvieron	had	they had
-tuvo	had	he had
-tv	tv	tv
-twitter	twitter	twitter
-tyler	tyler	tyler
-táctica	tactic	tactic
-tácticas	tactics	tactics
-técnica	technique	technique
-técnicas	technical	techniques
-técnico	technical	technical
-técnicos	technicians	technicians
-térmica	thermal	thermal
-térmico	thermal	thermal
-térmicos	thermal	thermal
-término	term	finished
-términos	terms	terms
-tía	aunt	aunt
-tío	uncle	uncle
-típica	typical	typical
-típicamente	typically	typically
-típicas	typical	typical
-típico	typical	typical
-típicos	typical	typical
-título	title	title
-títulos	titles	titles
-tóxicos	toxic	toxic
-tú	you	you
-túnel	tunnel	tunnel
-u	or	or
-ubica	located	locates
-ubicación	location	location
-ubicada	located	located
-ubicadas	located	located
-ubicado	located	located
-ubicados	located	located
-ubican	located	locate
-ucrania	ukraine	ukraine
-ue	eu	eu
-uefa	uefa	uefa
-ultramar	overseas	overseas
-ultravioleta	ultraviolet	ultraviolet
-un	one	a
-una	a	a
-unas	the	nail
-und	und	und
-undertaker	undertaker	undertaker
-une	binds	unites
-unen	unite	unite
-unesco	unesco	unesco
-unicelulares	unicellular	unicellular
-unida	united	united
-unidad	unit	unit
-unidades	units	units
-unidas	united	united
-unido	united	united
-unidos	united	united
-unieron	joined	joined
-unificación	unification	unification
-unificado	unified	unified
-unificar	unify	unify
-uniforme	uniform	uniform
-uniformes	uniforms	uniforms
-uniones	unions	unions
-unir	join	link
-unirse	join	join
-unitario	unitary	unitary
-universal	universal	universal
-universales	universal	universal
-universalidad	universality	universality
-universidad	university	college
-universidades	universities	universities
-universitaria	university	university
-universitario	academic	academic
-universitarios	university	university students
-universo	universe	universe
-unió	joined	joined
-unión	union	union
-uno	one	one
-unos	some	some
-up	up	up
-uranio	uranium	uranium
-urano	uranus	uranus
-urbana	urban	urban
-urbanas	urban	urban
-urbano	urban	urban
-urbanos	urban	urban
-urss	ussr	ussr
-uruguay	uruguay	uruguay
-uruguaya	uruguayan	uruguayan
-uruguayo	uruguayan	uruguayan
-us	us	us
-us$	dolares	us $
-usa	uses	uses
-usaba	used	used
-usaban	used	they used
-usada	used	used
-usadas	used	used
-usado	used	used
-usados	used	used
-usan	they use	they use
-usando	using	using
-usar	use	use
-usaron	used	they used
-usarse	used	wear
-usb	usb	usb
-use	usar	wear
-uso	use	use
-usos	uses	applications
-usted	you	you
-usual	usual	usual
-usualmente	usually	usually
-usuario	user	user
-usuarios	users	users
-usó	used	use
-utilidad	utility	utility
-utiliza	uses	uses
-utilizaba	used	used
-utilizaban	used	they used
-utilización	utilization	utilization
-utilizada	used	used
-utilizadas	used	used
-utilizado	used	used
-utilizados	used	used
-utilizan	use	they use
-utilizando	using	using
-utilizar	use	use
-utilizaron	used	they used
-utilizarse	use	be used
-utilizó	used	used
-uu	u.s.a.	uu
-v	v	v
-va	goes	goes
-vacaciones	vacations	holidays
-vacuna	vaccination	vaccine
-vacunación	vaccination	vaccination
-vacunas	vaccines	vaccines
-vacío	emptiness	empty
-vagina	vagina	vagina
-vaginal	vaginal	vaginal
-vale	costs	ok
-valencia	valencia	valencia
-validez	validity	validity
-valladolid	valladolid	valladolid
-valle	valley	valley
-valles	valleys	valleys
-valor	value	value
-valoración	valuation	assessment
-valorar	to value	assess
-valores	values	values
-vampiro	vampire	vampire
-vampiros	vampires	vampires
-van	go	go
-vanguardia	vanguard	vanguard
-vapor	steam	steam
-vargas	vargas	vargas
-variabilidad	variability	variability
-variable	variable	variable
-variables	variables	variables
-variaciones	variations	variations
-variación	variation	variation
-variada	varied	varied
-variadas	varied	varied
-variado	varied	varied
-variados	varied	varied
-variante	variant	variant
-variantes	variants	variants
-variar	vary	to vary
-varias	several	several
-varicela	chickenpox	chickenpox
-variedad	variety	variety
-variedades	varieties	varieties
-variegación	variegation	variegation
-varios	several	various
-varones	males	males
-varsovia	warsaw	warsaw
-varía	varies	it varies
-varían	vary	vary
-varón	male	male
-vasallo	vassal	vassal
-vasari	vasari	vasari
-vasco	basque	basque
-vascular	vascular	vascular
-vasos	glasses	glasses
-vasta	vast	vast
-vaticano	vatican	vatican
-ve	notices	go
-vec	vector	neighbor
-veces	times	times
-vecinos	neighbors	neighbors
-vector	vector	vector
-vectores	vectors	vectors
-vectorial	vectoral	vector
-vega	vega	vega
-vegas	vegas	vegas
-vegetación	vegetation	vegetation
-vegetal	vegetable	vegetable
-vegetales	vegetables	vegetables
-vehículo	vehicle	vehicle
-vehículos	vehicles	vehicles
-veinte	twenty	twenty
-velocidad	speed	speed
-velocidades	speeds	speeds
-vemos	we see	we see
-ven	come	come
-vena	vein	come to
-venas	veins	veins
-vencedores	winners	winners
-vencer	defeating	overcome
-vender	sell	to sell
-vendido	sold	sold
-vendidos	sold	sold
-vendió	sold	sold
-venecia	venice	venice
-venezolana	venezuelan	venezuelan
-venezolano	venezuelan	venezuelan
-venezolanos	venezuelans	venezuelans
-venezuela	venezuela	venezuela
-venganza	revenge	revenge
-venido	arrived	i come
-venta	sale	sale
-ventaja	advantage	advantage
-ventajas	advantages	advantage
-ventana	window	window
-ventanas	windows	windows
-ventas	sales	sales
-ventrículo	ventricle	ventricle
-venus	venus	venus
-venía	came	came
-ver	see	see
-veracruz	veracruz	veracruz
-verano	summer	summer
-veranos	summers	summers
-verbal	verbal	verbal
-verbo	verb	verb
-verbos	verbs	verbs
-verdad	truth	truth
-verdadera	true	true
-verdaderamente	truly	truly
-verdaderas	truly	true
-verdadero	true	true
-verdaderos	true	true
-verdades	truths	truths
-verde	green	green
-verdes	green	green
-verduras	vegetables	vegetables
-verificar	check	check
-verrocchio	verrocchio	verrocchio
-verrugas	wart	warts
-versalles	versailles	versailles
-verse	be	see
-versiones	versions	versions
-versión	version	version
-verso	verse	verse
-versos	verses	verses
-vertebrados	vertebrates	vertebrates
-vertical	vertical	vertical
-verticales	verticals	vertical
-vertiente	slope	slope
-vertientes	slopes	slopes
-vestido	dressed	dress
-vestigios	vestiges	vestiges
-vestimenta	clothes	clothing
-vestir	clothing	wear
-vestuario	clothes	locker room
-vesículas	vesicles	vesicles
-vez	time	time
-veía	saw	saw
-veían	saw	they saw
-vi	vi	saw
-viaja	travels	travels
-viajar	travel	travel
-viaje	travel	travel
-viajeros	travelers	travellers
-viajes	travel	travels
-viajó	travel	traveled
-vicente	vicente	vicente
-vicepresidente	vice president	vice president
-viceversa	vice versa	vice versa
-victoria	victory	victory
-victoriano	victorian	victorian
-victorias	victories	victories
-vida	life	lifetime
-vidas	lives	lives
-video	video	video
-videojuegos	video games	video game
-videos	videos	videos
-vidrio	glass	glass
-vieja	old	old woman
-viejas	old	old
-viejo	old	old
-viejos	old	old
-viena	vienna	vienna
-viendo	seeing	seeing
-viene	comes	comes
-vienen	come	they come
-viento	wind	wind
-vientos	winds	winds
-viernes	friday	friday
-vieron	watched	they saw
-vietnam	vietnam	vietnam
-vietnamita	vietnamese	vietnamese
-vietnamitas	vietnamese	vietnamese
-vigencia	validity	validity
-vigente	current	valid
-vigilancia	surveillance	surveillance
-vigilante	vigilant	vigilant
-vigor	vigor	vigor
-vih	hiv	hiv
-vii	7	vii
-viii	viii	viii
-villa	ville	town
-vincent	vincent	vincent
-vinci	vinci	vinci
-vinculación	entailment	bonding
-vinculada	linked	linked
-vinculado	linked	linked
-vinculados	linked	linked
-vino	wine	wine
-vio	saw	he saw
-viola	violist	viola
-violaciones	violation	violations
-violación	violation	rape
-violencia	violence	violence
-violenta	violent	violent
-violento	violent	violent
-violentos	violent	violent
-violín	fiddle	fiddle
-viral	viral	viral
-virales	viral	viral
-virgen	virgin	virgin
-virginia	virginia	virginia
-viriones	virions	virions
-virión	virion	virion
-virtual	virtual	virtual
-virtualmente	virtually	virtually
-virtud	virtue	virtue
-virtudes	virtues	virtues
-viruela	smallpox	smallpox
-virus	virus	virus
-viscosímetro	viscometer	viscometer
-visible	visible	visible
-visibles	visible	visible
-visiones	visions	visions
-visita	visit	visit
-visitantes	visitors	visitors
-visitar	visited	to visit
-visitas	visits	visits
-visitó	visited	visited
-visión	vision	view
-vista	seen	view
-vistas	watched	views
-visto	watched	viewed
-vistos	watch	seen
-visual	visual	visual
-visuales	visual	visual
-visualización	visualization	display
-vital	vital	vital
-vitales	vital	vital
-vitamina	vitamin	vitamin
-vitaminas	vitamins	vitamins
-viuda	widow	widow
-viva	living	live
-vivas	live	live
-vive	lives	lives
-viven	live	they live
-vivienda	living	living place
-viviendas	houses	households
-viviendo	living	living
-vivientes	living	living
-vivieron	lived	they lived
-vivir	live	live
-vivió	lived	lived
-vivo	live	alive
-vivos	living	alive
-vivía	lived	she lived
-vivían	lived	they lived
-vocablo	word	word
-vocabulario	vocabulary	vocabulary
-vocación	vocation	vocation
-vocal	vocal	vocal
-vocales	vocals	vowels
-vocalista	vocalist	vocalist
-voces	voices	voices
-vol	vol	vol
-volcanes	volcanoes	volcanoes
-volcán	volcano	volcano
-volcánica	volcanic	volcanic
-volcánicas	volcanic	volcanic
-voldemort	voldemort	voldemort
-voleibol	volleyball	volleyball
-voltaire	voltaire	voltaire
-voltaje	voltage	voltage
-volumen	volume	volume
-voluntad	will	will
-voluntaria	voluntary	voluntary
-voluntariamente	voluntarily	voluntarily
-voluntario	voluntary	voluntary
-voluntarios	volunteers	volunteers
-volver	return	return
-volverse	become	become
-volvería	become	would return
-volvieron	again	they came back
-volvió	returned	went back
-volúmenes	volumes	volumes
-von	von	von
-vos	you	you
-votación	vote	vote
-voto	vote	vote
-votos	votes	votes
-voy	go	i go
-voz	voice	voice
-vph	vph	vph
-vuelo	flight	flight
-vuelos	flights	flights
-vuelta	return	return
-vuelto	turned	turned
-vuelve	returns	returns
-vuelven	return again	come back
-vulgar	vulgar	vulgar
-válida	valid	valid
-válido	valid	valid
-válvula	valve	valve
-válvulas	valves	valves
-vázquez	vázquez	vazquez
-véase	see	see
-vértice	vertex	vertex
-vértices	vertices	vertices
-vía	via	via
-vías	tracks	tracks
-víctimas	victims	victims
-víctor	victor	victor
-vídeo	video	video
-vídeos	videos	videos
-vínculo	link	link
-vínculos	links	links
-vírica	viral	viral
-víricas	viral	viral
-vírico	viral	viral
-w	w	w
-wagner	wagner	wagner
-wall	wall	wall
-wallace	wallace	wallace
-walter	walter	walter
-wars	wars	wars
-washington	washington	washington
-watchmen	watchmen	watchmen
-waters	waters	waters
-watson	watson	watson
-way	way	way
-we	we	we
-web	web	web
-weber	weber	weber
-weimar	weimar	weimar
-were	were	were
-west	oeste	west
-when	cuando	when
-white	white	white
-who	quien	quien
-wiki	wiki	wiki
-wikimedia	wikimedia	wikimedia
-wikipedia	wikipedia	wikipedia
-wilhelm	wilhelm	wilhelm
-will	will	will
-william	william	william
-williams	williams	williams
-windows	windows	windows
-wolfgang	wolfgang	wolfgang
-won	won	won
-word	word	word
-world	world	world
-worlds	worlds	worlds
-wrestlemania	wrestlemania	wrestlemania
-wrestling	wrestling	wrestling
-wright	wright	wright
-wwe	wwe	wwe
-wwf	wwf	wwf
-x	x	x
-xi	xi	xi
-xii	xii	xii
-xiii	xiii	xiii
-xiv	xiv	xiv
-xix	xix	xix
-xp	xp	xp
-xpx	xpx	xpx
-xv	xv	xv
-xvi	sixteenth	xvi
-xviii	eighteenth	xviii
-xx	20	xx
-xxi	xxi	xxi
-xy	xy	xy
-y	and	y
-ya	as	already
-yacimientos	deposits	deposits
-yeso	plaster	cast
-yo	i	i
-yodo	iodine	iodine
-york	york	york
-you	you	you
-young	young	young
-your	your	your
-youtube	youtube	youtube
-yucatán	yucatan	yucatan
-yugoslavia	yugoslavia	yugoslavia
-z	z	z
-zapata	zapata	shoe
-zaragoza	zaragoza	saragossa
-zelanda	zealand	zealand
-zeppelin	zeppelin	zeppelin
-zeus	zeus	zeus
-zircón	zircon	zircon
-zona	zone	zone
-zonas	zones	zones
-||left	izquierdo	|| left
- a c	b.c. (before christ)	a c
- d c	d c	d c
- km	km	km
- m	m	m
- millones	million	millions
- mm	mm	mm
- msnm	amsl	masl
- °c	ºc	° c
-ª	th	th
-º	or	º
-×	x	×
-ácida	acid	acidic
-ácido	acid	acid
-ácidos	acids	acids
-áfrica	africa	africa
-águila	eagle	eagle
-álbum	album	album
-álbumes	albums	albums
-álgebra	algebra	algebra
-álvarez	alvarez	alvarez
-ámbito	ambit	ambit
-ámbitos	scopes	scopes
-ámsterdam	amsterdam	amsterdam
-ángel	angel	angel
-ángeles	angeles	angels
-ángulo	angle	angle
-ángulos	angles	angles
-ánimo	mood	cheer up
-árabe	arabic	arab
-árabes	arab	arabs
-árbitro	referee	referee
-árbitros	arbitrators	umpires
-árbol	tree	tree
-árboles	tree	trees
-área	area	area
-áreas	areas	areas
-ártico	arctic	arctic
-átomo	atom	atom
-átomos	atoms	atoms
-áureo	aureal	golden
-él	him	the
-élite	elite	elite
-énfasis	emphasis	emphasis
-épica	epic	epic
-épico	epic	epic
-época	epoch	epoch
-épocas	times	times
-ésta	this	is
-éstas	these	these
-éste	this	east
-éstos	these	these
-ética	ethics	ethics
-éticas	ethics	ethics
-étnica	ethnic	ethnic
-étnico	ethnic	ethnic
-étnicos	ethnics	ethnic
-éxito	success	success
-éxitos	successes	successes
-índice	index	index
-índices	rates	indices
-índico	indicated	indian
-índole	nature	nature
-íntimamente	intimately	intimately
-ó	or	or
-óleo	oil	oil
-ópera	opera	opera
-óperas	opera	operas
-óptica	optical	optics
-óptico	optical	optical
-óptimo	optimum	optimum
-órbita	orbit	orbit
-órbitas	orbit	orbits
-órdenes	orders	orders
-órgano	organ	organ
-órganos	organs	organs
-óscar	oscar	oscar
-ósea	bone	that is
-ósmosis	osmosis	osmosis
-óvulo	ovule	ovum
-óvulos	ovules	ovules
-óxido	oxide	oxide
-óxidos	oxides	oxides
-última	last	last
-últimas	latest	latest
-último	latest	latest
-últimos	last	last
-única	only	only
-únicamente	only	only
-únicas	uniques	unique
-único	only	only
-únicos	unique	unique
-úrsula	ursula	ursula
-útero	uterus	uterus
-útil	useful	useful
-útiles	useful	tools
-α	α	α
-π	π	π
+$	$
++	+
+=	=
+a	to
+ab	ab
+abajo	down
+abandona	discarded
+abandonado	abandoned
+abandonar	leave
+abandonaron	abandoned
+abandono	abandonment
+abandonó	abandonment
+abarca	encompasses
+abarcan	span
+abc	abc
+abdominal	abdominal
+abejas	bees
+abierta	open
+abiertamente	openly
+abiertas	open
+abierto	open
+abogado	lawyer
+abolición	abolition
+abordar	approach
+aborto	abortion
+aborígenes	aborigines
+about	about
+abraham	abraham
+abre	opens
+abril	april
+abrir	open
+abrió	opened
+absoluta	absolute
+absolutamente	absolutely
+absoluto	absolute
+absorbe	absorbs
+absorción	absorption
+abstracción	abstraction
+abstracta	abstract
+abstracto	abstract
+abstractos	abstract
+abuela	grandmother
+abuelo	grandfather
+abundancia	abundance
+abundante	abundant
+abundantes	abundant
+abuso	abuse
+ac	ac
+acaba	just
+acabar	finish
+acabó	finished
+academia	academy
+academias	academies
+académica	academic
+académico	academic
+académicos	academics
+acaso	perhaps
+acceder	accede
+accesible	accessible
+acceso	access
+accesorios	accessories
+accidente	accident
+accidentes	accidents
+acciones	actions
+acción	action
+aceite	oil
+aceleración	acceleration
+acelerado	accelerated
+acelerador	throttle
+acento	accent
+acepta	accepted
+aceptable	acceptable
+aceptación	acceptance
+aceptada	accepted
+aceptadas	accepted
+aceptado	accepted
+aceptados	accepted
+aceptan	accept
+aceptar	accept
+aceptó	accept
+acerca	about
+acercamiento	approach
+acercarse	getting close
+acero	steel
+aceros	steels
+aclarar	clarify
+acogida	reception
+acompaña	accompany
+acompañada	accompanied
+acompañado	accompanied
+acontecimiento	event
+acontecimientos	events
+acorde	in accordance
+acordes	chords
+acta	minutes
+actitud	attitude
+actitudes	attitudes
+activa	active
+activación	activation
+activamente	actively
+activas	active
+actividad	exercise
+actividades	activities
+activo	active
+activos	assets
+acto	act
+actor	actor
+actores	actors
+actos	acts
+actriz	actress
+actuaciones	performances
+actuación	performance
+actual	current
+actuales	current
+actualidad	present
+actualización	update
+actualmente	at present
+actuando	acting
+actuar	act
+actuó	acted
+actúa	act
+actúan	acts
+acudir	come
+acuerdo	agreement
+acuerdos	agreements
+acumula	accumulates
+acumulación	accumulation
+acusaciones	accusations
+acusación	accusation
+acusado	accused
+acusó	accused
+acuáticos	aquatic
+acuíferos	aquifers
+acuñado	coined
+acústica	acoustic
+ad	ad
+adam	adam
+adaptaciones	adaptations
+adaptación	adaptation
+adaptada	adapted
+adaptadas	adapted
+adaptado	adapted
+adaptados	adapted
+adaptar	to adapt
+adaptarse	adapt
+adecuada	adequate
+adecuadamente	adequately
+adecuadas	adequate
+adecuado	suitable
+adecuados	suitable
+adelante	ahead
+además	also
+adhesión	adherence
+adicción	addiction
+adicional	additional
+adicionales	additional
+adicionalmente	further
+adición	addition
+adjetivo	adjective
+adjetivos	adjectives
+administración	administration
+administrador	administrator
+administrar	managing
+administrativa	administrative
+administrativas	administrative
+administrativo	administrative
+administrativos	administrative
+admiración	admiration
+admite	admits
+adn	dna
+adolescencia	adolescence
+adolescente	teen
+adolescentes	teenagers
+adolf	adolf
+adolfo	adolfo
+adopción	adoption
+adopta	adopt
+adoptada	adopted
+adoptado	adopted
+adoptar	adopt
+adoptaron	took up
+adoptó	adopted
+adoración	worship
+adquiere	acquires
+adquieren	obtain
+adquirida	acquired
+adquirido	acquired
+adquiriendo	acquiring
+adquirieron	acquired
+adquirir	acquire
+adquirió	acquired
+adquisición	acquisition
+adulta	adult
+adulto	adult
+adultos	adults
+advenimiento	advent
+adversario	adversary
+adyacente	adjacent
+adyacentes	adjacent
+aeropuerto	airport
+aeropuertos	airports
+afecta	affects
+afectada	affected
+afectadas	affected
+afectado	affected
+afectados	affected
+afectan	affect
+afectar	to affect
+afecto	affected
+afectó	affected
+afganistán	afghanistan
+aficionado	amateur
+aficionados	amateurs
+afición	hobby
+afines	related
+afinidad	affinity
+afirma	afirm
+afirmaba	claimed
+afirmaciones	affirmations
+afirmación	affirmation
+afirman	say
+afirmando	stating
+afirmar	say
+afirmó	said
+africana	african
+africanas	african
+africano	african
+africanos	africans
+afroamericanos	african american
+afueras	outskirts
+agencia	agency
+agencias	agencies
+agenda	diary
+agente	agent
+agentes	agents
+agosto	august
+agotamiento	exhaustion
+agraria	agrarian
+agrega	add
+agregado	added
+agregar	add
+agregó	added
+agresivo	aggresive
+agricultores	farmers
+agricultura	agriculture
+agrupa	groups
+agrupaciones	groups
+agrupación	group
+agrupan	group
+agrupar	group
+agrícola	agricultural
+agrícolas	agricultural
+agua	water
+aguas	waters
+aguda	acute
+agudo	acute
+aguja	needle
+agujero	hole
+agujeros	holes
+agustín	agustin
+ah	ah
+ahora	now
+ahí	there
+air	air
+aire	air
+aislada	isolated
+aisladas	isolated
+aislado	isolated
+aislados	isolated
+aislamiento	isolation
+ajedrez	chess
+al	to the
+ala	to
+alan	alan
+alas	wings
+alba	alba
+albania	albania
+alberga	houses
+alberto	alberto
+album	album
+alcalde	mayor
+alcalá	alcala
+alcance	scope
+alcanos	alkanes
+alcanza	reaches
+alcanzado	reached
+alcanzan	reach
+alcanzando	reaching
+alcanzar	reach
+alcanzaron	reached
+alcanzó	reached
+alchemist	alchemist
+alcohol	alcohol
+alcoholes	spirits
+aldea	village
+aldeas	villages
+aleaciones	alloys
+aleación	alloy
+alegre	cheerful
+alegría	joy
+alejado	remote
+alejados	distant
+alejandro	alexander
+alejandría	alexandria
+alelo	allele
+alelos	alleles
+alemana	german
+alemanas	german
+alemanes	germans
+alemania	germany
+alemán	german
+alerta	alert
+alex	alex
+alexander	alexander
+alfa	alpha
+alfabetización	alphabetization
+alfabeto	alphabet
+alfonso	alfonzo
+alfred	alfred
+alfredo	alfred
+algas	algae
+algo	something
+algodón	cotton
+algoritmo	algorithm
+algoritmos	algorithms
+alguien	someone
+alguna	any
+algunas	some
+alguno	any
+algunos	some
+algún	some
+ali	ali
+aliada	ally
+aliadas	allies
+aliado	ally
+aliados	allies
+alianza	alliance
+alianzas	alliances
+alice	alice
+alimentación	feeding
+alimento	food
+alimentos	food
+alineados	aligned
+all	there
+allan	allan
+allen	allen
+allmusic	all music
+allá	there
+allí	there
+alma	soul
+almacenados	stored
+almacenamiento	storage
+almacenar	store
+almas	souls
+almirante	admiral
+alonso	alonso
+alpes	alps
+alquimia	alchemy
+alquimista	alchemist
+alquimistas	alchemists
+alrededor	around
+alrededores	surroundings
+alta	high
+altamente	highly
+altas	high
+alteraciones	alterations
+alteración	altering
+alterar	alter
+alterna	alternating
+alternativa	alternative
+alternativas	alternatives
+alternativo	alternative
+altiplano	plateau
+altitud	altitude
+alto	tall
+altos	high
+altruismo	altruism
+altura	height
+alturas	heights
+alucinaciones	hallucinations
+aluminio	aluminum
+alumno	student
+alumnos	students
+alusión	allusion
+am	am
+ama	loves
+amanecer	dawn
+amante	lover
+amantes	lovers
+amar	to love
+amaranta	amaranth
+amarilla	yellow
+amarillo	yellow
+amazonas	amazon
+ambas	both
+ambiental	environmental
+ambientales	environmental
+ambiente	environment
+ambientes	environments
+ambigüedad	ambiguity
+ambos	both
+amenaza	threat
+amenazas	threats
+america	america
+american	american
+americana	american
+americanas	american
+americano	american
+americanos	american
+amiga	friend
+amigo	friend
+amigos	friends
+aminoácido	amino acid
+aminoácidos	amino acids
+amistad	friendship
+amo	love
+amor	love
+amorosa	loving
+amplia	wide
+ampliación	extension
+ampliamente	widely
+ampliar	enlarge
+amplio	large
+amplios	wide
+amplitud	largeness
+amplió	large
+américa	america
+américas	americas
+an	an
+ana	ana
+anal	anal
+analiza	analyze
+analizar	analyze
+analogía	analogy
+analítica	analytical
+anarquismo	anarchism
+anarquista	anarchist
+anarquistas	anarchists
+anarquía	anarchy
+anatolia	anatolia
+anatomía	anatomy
+ancestro	ancestor
+ancestros	ancestors
+ancha	wide
+ancho	width
+anciano	elder
+ancianos	elderly
+andalucía	andalusia
+anderson	anderson
+andes	andes
+andina	andean
+andrea	andrea
+andrew	andrew
+andré	andre
+andrés	andrew
+andrómeda	andromeda
+andy	andy
+anemia	anemia
+anexión	annexation
+anfibios	amphibians
+angiospermas	angiosperms
+anglosajona	anglo-saxon
+anglosajón	anglo-saxon
+angular	angular
+angustia	anguish
+anillo	ring
+anillos	rings
+animación	animations
+animada	animated
+animados	animated
+animal	animal
+animales	animals
+anime	anime
+aniversario	anniversary
+anna	anna
+anne	anne
+ano	year
+ansiedad	anxiety
+ante	before
+antecedente	antecedent
+antecedentes	background
+antecesor	ancestor
+antepasado	ancestor
+antepasados	ancestors
+anterior	previous
+anteriores	previous
+anterioridad	anteriority
+anteriormente	previously
+antes	before
+antibióticos	antibiotics
+anticuerpos	antibodies
+antigua	ancient
+antiguamente	formerly
+antiguas	ancient
+antiguo	old
+antiguos	ancient
+antigüedad	antique
+antillas	antilles
+antipsicóticos	antipsychotics
+antisemitismo	anti-semitism
+antivirales	antiviral
+antología	anthology
+anton	anton
+antonella	antonella
+antonio	antonio
+antropogénico	anthropogenic
+antropología	anthropology
+antropólogos	anthropologists
+antártica	antarctica
+antártico	antarctic
+antártida	antarctica
+antígenos	antigen
+anual	annual
+anuales	yearly
+anualmente	yearly
+anunciado	announced
+anuncio	ad
+anuncios	advertisements
+anunció	ad
+análisis	analysis
+análogo	analogous
+anónima	anonymous
+aparato	aparatus
+aparatos	appliances
+aparece	appears
+aparecen	appear
+aparecer	appear
+aparecido	appeared
+apareciendo	appearing
+aparecieron	appeared
+apareció	showed up
+aparecía	appeared
+aparente	apparent
+aparentemente	apparently
+apariciones	apparitions
+aparición	appearance
+apariencia	appearance
+apartado	paragraph
+apartamento	apartment
+aparte	apart
+apego	attachment
+apellido	last name
+apenas	barely
+apertura	opening
+apetito	appetite
+aplica	apply
+aplicable	applicable
+aplicaciones	applications
+aplicación	application
+aplicada	applied
+aplicadas	applied
+aplicado	applied
+aplican	apply
+aplicando	applying
+aplicar	apply
+aplicarse	apply
+aplicó	applied
+apocalipsis	apocalypse
+apogeo	peak
+apolo	apollo
+aporta	provides
+aportaciones	contributions
+aportación	prokaryotes
+aportan	bring
+aportar	contribute
+aporte	contribution
+aportes	contributions
+aportó	contributed
+apoya	supports
+apoyada	supported
+apoyado	supported
+apoyan	support
+apoyar	support
+apoyo	support
+apoyó	support
+aprecia	appreciates
+apreciar	appreciate
+aprender	learn
+aprendiz	apprentice
+aprendizaje	learning
+aprendió	learned
+aprobación	approval
+aprobada	approved
+aprobado	approved
+aprobó	approved
+apropiado	appropriate
+aprovechamiento	exploitation
+aprovechando	taking advantage
+aprovechar	benefit
+aprovechó	took advantage
+aproximaciones	approaches
+aproximación	approach
+aproximada	approximate
+aproximadamente	approximately
+aproximado	approximate
+aptitud	fitness
+apuntan	point
+apéndice	appendix
+apóstoles	apostles
+aquel	that
+aquella	that
+aquellas	those
+aquello	that
+aquellos	those
+aquiles	achilles
+aquino	aquino
+aquél	that
+aquí	here
+arabia	arabia
+aragón	aragon
+arcadio	arcadio
+arcaico	archaic
+archaea	archaea
+archipiélago	archipelago
+archivo	archive
+archivos	records
+arcilla	clay
+arco	arc
+arcos	arches
+arena	sand
+argel	algiers
+argelia	algeria
+argentina	argentina
+argentinas	argentina
+argentino	argentinian
+argentinos	argentinian
+argumenta	argue
+argumentan	argue
+argumentando	arguing
+argumento	argument
+argumentos	arguments
+arias	arias
+ariel	ariel
+aristocracia	aristocracy
+aristotélica	aristotelian
+aristóteles	aristotle
+aritmética	arithmetic
+arma	weapon
+armada	navy
+armadas	armed
+armado	armed
+armados	armed
+armando	armando
+armas	guns
+armonía	harmony
+armstrong	armstrong
+armónica	harmonic
+arn	arn
+arnm	marn
+arnold	arnold
+arqueas	archaea
+arqueología	archeology
+arqueológica	archaeological
+arqueológicas	archaeological
+arqueológico	archaeological
+arqueológicos	archaeological
+arquitecto	architect
+arquitectos	architects
+arquitectura	architecture
+arquitectónico	architectural
+arquímedes	archimedes
+arreglo	arrangement
+arreglos	arrangements
+arriba	up
+arroyo	stream
+arroz	rice
+art	art
+arte	art
+artefactos	artifacts
+arteria	artery
+arterial	arterial
+arterias	arteries
+artes	arts
+artesanos	craftsmen
+artesanía	crafts
+arthur	autor
+articulaciones	articulations
+articulación	joint
+artificial	artificial
+artificiales	artificial
+artillería	artillery
+artista	artist
+artistas	artists
+arts	arts
+arturo	arturo
+artículo	article
+artículos	artifacts
+artística	artistic
+artísticas	artistic
+artístico	artistic
+artísticos	artistic
+arzobispo	archbishop
+as	as
+asamblea	assembly
+ascendencia	ancestry
+ascenso	ascent
+ascii	ascii
+asegura	ensures
+aseguran	afirm
+asegurar	ensure
+aseguró	assured
+asentamiento	settlement
+asentamientos	settlements
+asesinado	murdered
+asesinados	murdered
+asesinato	assassination
+asesinatos	murders
+asexual	asexual
+asia	asia
+asigna	assign
+asignación	assignment
+asignado	assigned
+asignar	assign
+asimilación	assimilation
+asimismo	aswell
+asistencia	assistance
+asistente	assistant
+asistir	assist
+asistió	attended
+asiática	asian
+asiático	asian
+asiáticos	asian
+asocia	associate
+asociaciones	associations
+asociación	association
+asociada	associate
+asociadas	associated
+asociado	associated
+asociados	associates
+asocian	associate
+aspecto	appearance
+aspectos	aspects
+asperger	asperger
+association	association
+asteroides	asteroids
+astronomía	astronomy
+astronómica	astronomical
+astros	stars
+astrónomo	astronomer
+astrónomos	astronomers
+asturias	asturias
+asume	assume
+asumir	assume
+asumió	assumed
+asunción	asuncion
+asunto	matter
+asuntos	subject, topic; issue; thing; affair; case; concern
+así	so
+at	at
+ataca	attacks
+atacan	attack
+atacar	attack
+atacaron	attacked
+atacó	attacked
+ataque	attack
+ataques	attacks
+atenas	athens
+atención	attention
+atendiendo	attending
+atenea	athena
+atentado	attempt
+atentados	attacks
+atlas	atlas
+atletas	athletes
+atletismo	athletics
+atlántica	atlantic
+atlántico	atlantic
+atmosférica	atmospheric
+atmosférico	atmospheric
+atmósfera	atmosphere
+atp	atp
+atracción	attraction
+atractivo	attractive
+atraen	attract
+atraer	attract
+atrajo	attracted
+atravesar	cross
+atraviesa	crosses
+atraído	attracted
+atribuido	attributed
+atributos	attributes
+atribuye	attributes
+atribuyen	attribute
+atrás	behind
+atómica	atomic
+atómico	atomic
+atómicos	atomic
+audición	hearing
+audiencia	audience
+audiencias	audience
+audio	audio
+auge	boom
+auguste	august
+augusto	august
+aumenta	increases
+aumentado	increased
+aumentan	increase
+aumentando	increasing
+aumentar	increase
+aumento	increase
+aumentó	increase
+aun	yet
+aunque	although
+aureliano	aureliano
+ausencia	absence
+austin	austin
+austral	southern
+australia	australia
+australiana	australian
+australiano	australian
+australianos	australian
+austria	austria
+austrohúngaro	austro-hungarian
+autismo	autism
+autista	autistic
+autistas	autistic
+auto	car
+autoestima	self-esteem
+automática	automatic
+automáticamente	automatically
+automóvil	car
+automóviles	cars
+autonomía	autonomy
+autopista	highway
+autor	author
+autora	author
+autores	authors
+autoridad	authority
+autoridades	authorities
+autorización	authorization
+autorretrato	self-portrait
+autoría	authorship
+auténtica	authentic
+auténtico	authentic
+autónoma	autonomous
+autónomas	autonomous
+autónomo	autonomous
+auxiliar	assistant
+avance	advance
+avances	advances
+avanza	advances
+avanzada	advanced
+avanzadas	advanced
+avanzado	advanced
+avanzados	advanced
+avanzar	move forward
+ave	bird
+avenida	avenue
+aventura	adventure
+aventuras	adventures
+aves	birds
+aviación	aviation
+aviones	planes
+aviso	notice
+avión	plane
+avril	avril
+award	award
+awards	awards
+axiomas	axioms
+axl	axl
+axones	axons
+axón	axon
+ayuda	help
+ayudado	helped
+ayudan	help
+ayudar	help
+ayudaron	helped
+ayudó	helped
+ayuntamiento	city council
+azar	chance
+azida	azide
+azufre	sulfur
+azul	blue
+azules	blue
+azúcar	sugar
+azúcares	sugars
+aérea	aerial
+aéreas	aerial
+aéreo	aerial
+añade	add
+añaden	add
+añadido	added
+añadiendo	adding
+añadir	add
+añadió	added
+año	year
+años	years
+aún	yet
+b	b
+babilonia	babylon
+baby	baby
+bach	bach
+back	back
+bacon	bacon
+bacteria	bacteria
+bacteriana	bacterial
+bacterianas	bacterial
+bacterias	bacteria
+bad	bad
+bahía	bay
+baile	dance
+baja	low
+bajas	low
+bajista	bass player
+bajo	low
+bajos	low
+balada	ballad
+baladas	ballads
+balance	balance
+balanza	balance
+balcanes	balkans
+ball	ball
+ballet	ballet
+baloncesto	basketball
+balonmano	handball
+baltimore	baltimore
+balón	ball
+banco	bank
+bancos	banks
+band	band
+banda	band
+bandas	bands
+bandera	flag
+banderas	flags
+bando	side
+bandos	sides
+bang	bang
+bar	bar
+barbar	barbar
+barcelona	barcelona
+barco	ship
+barcos	boats
+barra	bar
+barras	bars
+barrera	barrier
+barreras	barriers
+barrett	barrett
+barrio	neighborhood
+barrios	neighborhoods
+barro	mud
+barroca	baroque
+barroco	baroque
+bart	bart
+bartolomé	bartolomé
+barça	barça
+barómetro	barometer
+basa	based
+basaba	based
+basada	based
+basadas	based
+basado	based
+basados	based
+basan	base
+base	base
+bases	bases
+basta	enough
+bastante	quite
+bastantes	enough
+basura	waste
+basándose	based
+basílica	basilica
+basó	based
+batalla	battle
+batallas	battles
+baterista	drummer
+batería	battery
+baterías	batteries
+batista	batista
+batman	batman
+bautismo	baptism
+bautista	baptist
+baño	bathroom
+bbc	bbc
+be	be
+beatles	beatles
+beber	drinking water
+bebida	drink
+bebidas	drinks
+bebé	baby
+beethoven	beethoven
+belice	belize
+bell	bell
+bella	beautiful
+bellas	beautiful
+belleza	beauty
+bello	beautiful
+benedetti	benedetti
+beneficio	benefit
+beneficios	benefits
+benito	benito
+benjamin	benjamin
+benzoína	benzoin
+berlín	berlin
+bermudas	bermudas
+bernabéu	bernabeu
+bernard	bernard
+bernardo	bernard
+besante	bezant
+beso	kiss
+best	best
+bestia	beast
+beta	beta
+biblia	bible
+bibliografía	bibliography
+biblioteca	library
+bibliotecas	libraries
+bielorrusia	belarus
+bien	well
+bienes	goods
+bienestar	wellfare
+big	big
+bill	bill
+billy	billy
+binario	binary
+biodiversidad	biodiversity
+biografía	biography
+biografías	biographies
+biología	biology
+biológica	biological
+biológicas	biological
+biológico	biological
+biológicos	biological
+bioma	biome
+biomas	biomes
+biomasa	biomass
+bioquímica	biochemistry
+biosfera	biosphere
+bioética	bioethics
+bit	bit
+bizantina	byzantine
+bizantino	byzantine
+biógrafo	biographer
+biólogos	biologists
+blair	blair
+blake	blake
+blanca	white
+blancas	white
+blanco	white
+blancos	whites
+bleach	bleach
+blog	blog
+blood	blood
+bloque	block
+bloqueo	block
+bloques	blocks
+blue	blue
+blues	blues
+bluetooth	bluetooth
+bluray	bluray
+bob	bob
+bobby	bobby
+bobinas	coils
+boca	mouth
+boda	wedding
+bodas	wedding
+bogotá	bogota
+bohr	bohr
+bola	ball
+bolivia	bolivia
+boliviano	bolivian
+bolsa	bag
+bolívar	bolivar
+bomba	bomb
+bombardeo	bombing
+bombardeos	bombings
+bombas	bombs
+bonaparte	bonaparte
+book	book
+books	books
+boom	boom
+borde	edge
+border|px	border
+bordes	edges
+bordo	board
+borges	borges
+bosque	forest
+bosques	forests
+botánica	botany
+botón	button
+boys	boys
+brando	brando
+braque	braque
+brasil	brazil
+brasileña	brazilian
+brasileño	brazilian
+brazo	arm
+brazos	arms
+break	break
+bretaña	britain
+breton	breton
+breve	brief
+brevemente	briefly
+breves	brief
+brian	brian
+brillante	brilliant
+brillantes	brilliant
+brillo	brightness
+brinda	provides
+britney	britney
+británica	british
+británicas	british
+británico	british
+británicos	british
+bronce	bronze
+brote	outbreak
+brotes	outbreaks
+brown	brown
+bruce	bruce
+bruma	mist
+bruno	bruno
+bruselas	brussels
+bruto	stupid
+budismo	buddhism
+buen	good
+buena	good
+buenas	good
+buendía	goodday
+bueno	good
+buenos	good
+bulgaria	bulgaria
+buques	ships
+burgos	burgos
+burguesa	bourgeois
+burguesía	bourgeoisie
+burton	burton
+bus	bus
+busca	search
+buscaba	looked
+buscan	looking for
+buscando	looking
+buscar	search
+buscó	sought
+bush	bush
+business	business
+by	by
+báltico	baltic
+básica	basic
+básicamente	basically
+básicas	basic
+básico	basic
+básicos	basic
+béisbol	baseball
+bélgica	belgium
+bóveda	vault
+búsqueda	search
+c	c
+ca	ac
+caballero	gentleman
+caballeros	gentlemen
+caballería	cavalry
+caballo	horse
+caballos	horses
+cabe	fits
+cabecera	header
+cabello	hair
+cabeza	head
+cabezas	heads
+cable	cable
+cables	cables
+cabo	end
+cacao	cocoa
+cada	every
+cadena	station
+cadenas	networks
+cadáver	corpse
+cadáveres	corpses
+cae	falls
+caen	fall
+caer	fall
+café	coffee
+cairo	cairo
+caja	box
+calcio	calcium
+calcula	calculate
+calcular	calculate
+calderón	calderón
+calendario	calendar
+calentamiento	warming
+calibre	caliber
+calidad	quality
+caliente	hot
+calientes	hot
+califica	qualify
+calificó	qualified
+caliza	limestone
+calle	street
+calles	streets
+calor	hot
+calzado	footwear
+cama	bed
+cambia	change
+cambiado	changed
+cambian	change
+cambiando	changing
+cambiar	change
+cambiaron	they changed
+cambio	change
+cambios	changes
+cambió	change
+camboya	camboya
+cambridge	cambridge
+cameron	cameron
+camilo	camilo
+camino	road
+caminos	roads
+camisas	shirts
+camiseta	t-shirt
+camp	camp
+campaña	bell
+campañas	campaigns
+campeonato	championship
+campeonatos	championships
+campeones	champions
+campesino	farmer
+campesinos	farmers
+campeón	champion
+campo	countryside
+campos	fields
+canadiense	canadian
+canadienses	canadian
+canadá	canada
+canal	channel
+canales	channels
+canarias	canary
+canciller	chancellor
+canciones	songs
+canción	song
+candidato	candidate
+candidatos	candidates
+candidatura	candidacy
+candidiasis	candidiasis
+canon	canon
+cant	can't
+cantando	singing
+cantante	singer
+cantantes	singers
+cantar	sing
+cantidad	quantity
+cantidades	amounts
+canto	singing
+cantos	songs
+caos	chaos
+capa	layer
+capaces	able
+capacidad	capacity
+capacidades	capacities
+capas	layers
+capaz	able
+capilares	capillary
+capilla	chapel
+capital	capital
+capitales	capitals
+capitalismo	capitalism
+capitalista	capitalist
+capitol	capitol
+capitán	captain
+captación	catchment
+captar	capture
+captura	capture
+capturado	captured
+capturados	captured
+capturar	capture
+capítulo	chapter
+capítulos	chapters
+cara	face
+caracas	caracas
+caracteres	characters
+caracteriza	characterizes
+caracterización	characterization
+caracterizada	characterized
+caracterizado	characterized
+caracterizan	characterize
+caracterizó	characterized
+característica	characteristic
+características	features
+característico	characteristic
+característicos	characteristic
+caras	faces
+caravasar	caravanserai
+carbohidratos	carbohydrates
+carbono	carbon
+carbón	coal
+cardenal	cardinal
+cardiovascular	cardiovascular
+cardíaco	cardiac
+carece	lacks
+carecen	lack
+carencia	lack
+carga	load
+cargadas	loaded
+cargado	loaded
+cargas	loads
+cargo	position
+cargos	charges
+caribe	caribbean
+caridad	charity
+carl	carl
+carlos	charles
+carmen	carmen
+carnaval	carnival
+carne	meat
+caro	expensive
+carpelos	carpels
+carranza	carranza
+carrera	race
+carreras	races
+carretera	highway
+carreteras	roads
+carro	car
+carta	letter
+cartagena	cartagena
+cartago	carthage
+cartas	letters
+carter	carter
+cartografía	cartography
+cartón	cardboard
+carácter	character
+casa	house
+casado	married
+casaron	married
+casarse	get married
+casas	houses
+cascada	waterfall
+casco	helmet
+casi	almost
+casillas	boxes
+caso	case
+casos	cases
+castellana	castilian
+castellano	spanish
+castigo	punishment
+castilla	castile
+castillo	castillo
+castro	castro
+casó	case
+catalana	catalan
+catalina	catalina
+cataluña	catalonia
+catalán	catalan
+catedral	cathedral
+categoría	category
+categoríaactores	category actors
+categoríafilósofos	category philosopher
+categoríagrupos	catagories groups
+categoríahistoria	category history
+categoríanovelas	category novels
+categorías	categories
+categoríaseries	category series
+categoríatérminos	category: terms
+cateto	leg
+catetos	legs
+catolicismo	catholicism
+catorce	fourteen
+catálogo	catalog
+católica	catholic
+católico	catholic
+católicos	catholic
+causa	cause
+causada	caused
+causadas	caused
+causado	caused
+causan	cause
+causando	causing
+causante	cause
+causar	cause
+causas	causes
+causó	caused
+cavidad	cavity
+cavidades	cavities
+cayó	was taken
+caza	hunting
+caída	fall
+caído	fallen
+caña	cane
+cd	cd
+celda	cell
+celdas	cells
+celebra	celebrates
+celebraciones	celebrations
+celebración	celebration
+celebrada	held
+celebrado	celebrated
+celebran	celebrate
+celebrar	celebrate
+celebró	held
+celeste	celeste
+celestes	celestial
+cell	cell
+celsius	celsius
+celular	cellular
+celulares	celular
+celulosa	cellulose
+cementerio	cemetary
+cena	dinner
+censo	census
+censura	censorship
+centenario	centenary
+center	center
+centra	centers
+centrada	centered
+centrado	centered
+central	central
+centrales	central
+centran	center
+centro	center
+centroamericana	central american
+centroamérica	central america
+centros	centers
+centró	center
+century	century
+cepa	strain
+cepas	strains
+cera	wax
+cerca	near
+cercana	close
+cercanas	nearby
+cercano	near
+cercanos	nearby
+cercanía	proximity
+cercanías	surroundings
+cerdo	hog
+cerdos	pigs
+cereales	cereals
+cerebral	cerebral
+cerebrales	brain
+cerebro	brain
+ceremonia	ceremony
+ceremoniales	ceremonial
+ceremonias	ceremonies
+cero	zero
+cerrada	closed
+cerradas	closed
+cerrado	closed
+cerrar	close
+cerro	hill
+cerros	hills
+cerró	hill
+certeza	certainty
+certificado	certificate
+cervantes	cervantes
+cerveza	beer
+cervical	cervical
+cerámica	ceramics
+ch	ch
+chaco	chaco
+chad	chad
+championship	championship
+chandler	chandler
+channel	channel
+charles	charles
+charlie	charlie
+che	che
+checa	czech
+checoslovaquia	czechoslovakia
+chernóbil	chernobyl
+chiapas	chiapas
+chica	girl
+chicago	chicago
+chico	boy
+chicos	boys
+chihuahua	chihuahua
+chile	chile
+chilena	chilean
+chileno	chilean
+chili	chili
+china	china
+chino	chinese
+chinos	chinese
+chipre	cyprus
+chocolate	chocolate
+choice	choice
+choque	shock
+chris	chris
+christian	christian
+christopher	christopher
+chuck	chuck
+chávez	chavez
+cia	cia
+cicerón	cicero
+ciclo	cycle
+ciclos	cycles
+cid	cid
+ciego	blind
+cielo	heaven
+cielos	heavens
+cien	hundred
+ciencia	science
+ciencias	science
+ciento	hundred
+cientos	hundreds
+científica	scientific
+científicas	scientific
+científico	scientific
+científicos	scientists
+cierra	close
+cierre	closing
+cierta	certain
+ciertamente	certainly
+ciertas	certain
+cierto	true
+ciertos	some
+cifra	figure
+cifras	figures
+cilindro	cylinder
+cima	top
+cinco	five
+cincuenta	fifty
+cine	movie theater
+cinematográfica	cinematographic
+cinetocoro	kinetochore
+cinta	videotape
+cintas	tapes
+cinturón	belt
+cinética	kinetics
+circuito	circuit
+circuitos	circuits
+circula	circulates
+circulación	circulation
+circular	circular
+circulares	circular
+circuncisión	circumcision
+circundante	surrounding
+circunferencia	circumference
+circunstancia	circumstance
+circunstancias	circumstances
+cirugía	surgery
+cita	appointment
+citada	quoted
+citado	aforementioned
+citados	quoted
+citar	quote
+citas	quotes
+citoesqueleto	cytoskeleton
+citoplasma	cytoplasm
+city	city
+ciudad	city
+ciudadano	citizen
+ciudadanos	citizens
+ciudadanía	citizenship
+ciudadela	citadel
+ciudades	cities
+ciudadesestado	countrystate
+civil	civil
+civiles	civilians
+civilizaciones	civilizations
+civilización	civilization
+clado	clade
+clara	clear
+claramente	clearly
+claras	clear
+claridad	clearly
+claro	clear
+claros	clear
+clase	class
+clases	lessons
+clasicismo	classicism
+clasifica	classified
+clasificaciones	classifications
+clasificación	classification
+clasificado	classified
+clasifican	classify
+clasificar	classify
+clasificarse	qualify
+claude	claude
+claudio	claudio
+clave	key
+claves	keys
+clero	clergy
+cliente	client
+clientes	customers
+clima	weather
+climas	climates
+climatología	climatology
+climática	climatic
+climáticas	climatic
+climático	climate
+climáticos	climatic
+clinton	clinton
+clonación	cloning
+cloro	chlorine
+cloroplastos	chloroplasts
+club	club
+clubes	clubs
+clásica	classical
+clásicas	classic
+clásico	classic
+clásicos	classics
+clínica	clinic
+clínicas	clinics
+clínico	clinical
+clínicos	clinical
+clítoris	clitoris
+co	co
+coalición	coalition
+cobain	cobain
+cobertura	coverage
+cobra	charges
+cobre	copper
+coca	coke
+cocacola	coca cola
+cocaína	cocaine
+coche	car
+cociente	quotient
+cocina	kitchen
+codifica	encode
+codificación	coding
+codifican	encode
+coeficiente	coefficient
+cognitiva	cognitive
+cognitivas	cognitive
+coherente	coherent
+cohesión	cohesion
+coincide	match
+coinciden	match
+coincidir	coincide
+coito	intercourse
+cola	tail
+colaboración	colaboration
+colaboradores	collaborators
+colaboró	colaborated
+colapso	collapse
+cold	cold
+coldplay	coldplay
+colecciones	collections
+colección	collection
+colectiva	collective
+colectivo	collective
+colectivos	collectives
+colegio	school
+colegios	colleges
+colesterol	cholesterol
+colinas	hills
+college	college
+coloca	place
+colocar	place
+colocó	placed
+colombia	colombia
+colombiana	colombian
+colombiano	colombian
+colonia	colony
+colonial	colonial
+coloniales	colonial
+colonias	colonies
+colonización	colonization
+colonos	settlers
+color	color
+colorado	colorado
+colores	colors
+columbia	columbia
+columna	column
+columnas	columns
+colón	colombus
+coma	eat
+comandante	commander
+combate	combat
+combates	fighting
+combatientes	fighters
+combatir	fight
+combina	combines
+combinaciones	combinations
+combinación	combination
+combinada	combined
+combinado	combined
+combinan	combine
+combinar	mix
+combustible	fuel
+combustibles	fuels
+combustión	combustion
+comedia	comedy
+comedias	comedies
+comentario	commentary
+comentarios	comments
+comentó	commented
+comenzaba	started
+comenzado	started
+comenzando	starting
+comenzar	start
+comenzaron	they started
+comenzó	started
+comer	eat
+comercial	commercial
+comerciales	commercial
+comercialización	commercialization
+comerciantes	merchants
+comercio	commerce
+cometas	comets
+comida	food
+comienza	begins
+comienzan	begin
+comienzo	start
+comienzos	beginnings
+comillas	quotation marks
+comisión	commission
+comité	commitee
+commons	commons
+como	how
+company	company
+compara	compare
+comparable	comparable
+comparación	comparison
+comparada	compared
+comparado	compared
+comparar	compare
+comparte	share
+comparten	share
+compartida	shared
+compartido	shared
+compartir	share
+compatibilidad	compatibility
+compatible	compatible
+compatibles	compatible
+compañero	partner
+compañeros	companions
+compañía	company
+compañías	companies
+compensar	compensate
+competencia	competition
+competencias	competence
+competiciones	competitions
+competición	competition
+competir	compete
+competitividad	competitiveness
+compilación	compilation
+compleja	complex
+complejas	complex
+complejidad	complexity
+complejo	complex
+complejos	complex
+complementaria	complementary
+complementarios	complementary
+complemento	complement
+completa	complete
+completamente	completely
+completar	complete
+completas	complete
+completo	full
+completos	full
+complicaciones	complications
+complicada	complicated
+complicado	complicated
+compone	make up
+componen	make up
+componente	component
+componentes	components
+componer	write
+comportamiento	behavior
+comportamientos	behaviors
+composiciones	compositions
+composición	composition
+compositor	composer
+compositores	composers
+compra	purchase
+comprar	to buy
+comprende	understands
+comprenden	understand
+comprender	understand
+comprendido	understood
+comprensión	understanding
+comprobar	check
+compromiso	compromise
+compromisos	commitments
+compró	bought
+compuesta	compound
+compuestas	composed
+compuesto	compound
+compuestos	compounds
+compuso	composed
+computación	computing
+computador	computer
+computadora	computer
+computadoras	computers
+computadores	computers
+comuna	commune
+comunes	common
+comunicaciones	communications
+comunicación	communication
+comunicar	communicate
+comunicarse	communicate
+comunidad	community
+comunidades	communities
+comunismo	communism
+comunista	communist
+comunistas	communists
+comunitario	community
+común	common
+comúnmente	commonly
+con	with
+concebido	conceived
+concebir	conceive
+concedió	granted
+concentra	concentrates
+concentraciones	concentrations
+concentración	concentration
+concentrado	concentrated
+concentran	concentrate
+concepciones	conceptions
+concepción	conception
+concepto	concept
+conceptos	concepts
+conceptual	conceptual
+concibe	conceive
+conciencia	awareness
+concierto	concert
+conciertos	concerts
+concilio	council
+concluir	conclude
+conclusiones	conclusions
+conclusión	conclusion
+concluye	concludes
+concluyó	finished
+concreta	concrete
+concretamente	specifically
+concretas	concrete
+concreto	concrete
+concretos	concrete
+concurso	competition
+condado	county
+conde	count
+condena	sentence
+condenado	condemned
+condensación	condensation
+condiciones	terms
+condición	condition
+conducción	conduction
+conduce	leads
+conducido	driven
+conducir	drive
+conducta	conduct
+conductas	behaviors
+conductividad	conductivity
+conducto	conduit
+conductor	driver
+conductores	drivers
+conductos	ducts
+condujeron	conducted
+condujo	drove
+condón	condom
+conecta	connect
+conectados	connected
+conectan	connect
+conectar	connect
+conexiones	connections
+conexión	connection
+confederaciones	confederations
+confederación	confederation
+conferencia	conference
+conferencias	conferences
+confianza	trust
+confiere	confers
+configuración	configuration
+confirmado	confirmed
+confirmó	confirmed
+conflicto	conflict
+conflictos	conflicts
+conforma	conform
+conformación	conformation
+conformada	conformed
+conformado	conformed
+conforman	make up
+conforme	according
+confundir	confuse
+confundirse	confused
+confusión	confusion
+congo	congo
+congreso	congress
+conjugación	conjugation
+conjunciones	conjunctions
+conjunción	conjunction
+conjunta	joint
+conjuntamente	jointly
+conjunto	set
+conjuntos	sets
+conlleva	leads
+cono	cone
+conoce	known
+conocemos	we know
+conocen	know
+conocer	know
+conocida	known
+conocidas	known
+conocido	known
+conocidos	known
+conocieron	meet
+conocimiento	knowledge
+conocimientos	knowledge
+conoció	met
+conocía	knew
+conocían	known
+conquista	conquest
+conquistar	conquer
+conquistó	conquered
+consciente	aware
+conscientes	conscious
+consecución	achievement
+consecuencia	consequence
+consecuencias	consequences
+consecuente	consequent
+consecuentemente	consequently
+consecutivas	consecutive
+consecutivos	consecutive
+conseguido	got
+conseguir	get
+consejo	advice
+consejos	councils
+consenso	consensus
+consentimiento	consent
+conserva	kept
+conservación	conservation
+conservado	conserved
+conservadores	conservatives
+conservan	preserve
+conservar	keep
+considera	consider
+consideraba	considered
+consideraban	considered
+considerable	considerables
+considerablemente	considerably
+consideraciones	considerations
+consideración	consideration
+considerada	considered
+consideradas	considered
+considerado	considered
+considerados	considered
+consideramos	consider
+consideran	consider
+considerando	considering
+considerar	considerate
+consideraron	considered
+considerarse	consider
+consideró	considered
+consigo	with it
+consigue	get
+consiguen	get
+consiguiendo	getting
+consiguiente	consequent
+consiguieron	gained
+consiguió	got
+consiste	consists
+consisten	consist
+consistencia	consistency
+consistente	consistent
+consistió	consisted
+consistía	consisted
+consolidación	consolidation
+consolidar	consolidate
+consolidó	consolidated
+consonante	consonant
+conspiración	conspiracy
+consta	consists
+constancia	constancy
+constante	constant
+constantemente	constantly
+constantes	constant
+constantinopla	constantinople
+constitucional	constitutional
+constitucionales	constitutional
+constituciones	constitutions
+constitución	constitution
+constituida	constituted
+constituidas	constituted
+constituido	constituted
+constituir	constitute
+constituye	constitutes
+constituyen	constitute
+constituyendo	constituting
+constituyente	constituent
+constituyentes	constituents
+constituyó	constituted
+construcciones	buildings
+construcción	building
+construida	built
+construidas	built
+construido	built
+construidos	built
+construir	to construct
+construye	builds
+construyendo	building
+construyeron	they built
+construyó	built
+consulta	consulting
+consultado	consulted
+consultar	consult
+consume	consume
+consumen	consume
+consumidor	consumer
+consumidores	consumers
+consumir	consume
+consumo	consumption
+contaba	counted
+contaban	counted on
+contabilidad	accounting
+contable	accountant
+contables	accounting
+contacto	contact
+contactos	contacts
+contagio	contagion
+contaminación	contamination
+contaminante	polluting
+contaminantes	pollutants
+contando	counting
+contar	tell
+contemporánea	contemporary
+contemporáneo	contemporary
+contemporáneos	contemporary
+contenedor	container
+contener	contain
+contenida	contained
+contenido	content
+contenidos	contents
+contenía	contained
+contexto	context
+contextos	contexts
+contienda	contest
+contiene	contains
+contienen	contain
+continental	continental
+continentales	continental
+continente	continent
+continentes	continents
+continua	continuos
+continuación	to be continued
+continuado	continued
+continuamente	continually
+continuar	continue
+continuaron	continued
+continuas	continuous
+continuidad	continuity
+continuo	continuous
+continuó	continuous
+continúa	continues
+continúan	continue
+contra	against
+contracción	contraction
+contradicciones	contradictions
+contradicción	contradiction
+contraer	contract
+contraposición	opposed
+contraria	contrary
+contrario	contrary
+contrarios	opposites
+contraste	contrast
+contratado	hired
+contrato	contract
+contratos	contracts
+contrató	contract
+contribuciones	contributions
+contribución	contribution
+contribuido	contributed
+contribuir	contribute
+contribuye	contributes
+contribuyen	contribute
+contribuyeron	contributed
+contribuyó	contributed
+control	control
+controla	controls
+controlada	controlled
+controladas	controlled
+controlado	controlled
+controlador	controller
+controladores	controlers
+controlados	controlled
+controlan	control
+controlar	control
+controles	controls
+controversia	controversy
+controversias	controversies
+controvertido	controversial
+contó	counted
+convencer	convince
+convencido	convinced
+convencional	conventional
+convencionales	conventional
+convenciones	conventions
+convenció	convinced
+convención	convention
+conveniente	convenient
+convenio	agreement
+convento	convent
+convergencia	convergence
+conversaciones	talks
+conversación	conversation
+conversión	conversion
+convertido	converted
+convertir	convert
+convertirse	become
+convertiría	transform, convert; proselytize
+conviene	should
+convierte	turns into
+convierten	turn
+convirtiendo	converting
+convirtieron	turned
+convirtiéndose	becoming
+convirtió	turned
+convivencia	coexistence
+cool	cool
+cooper	cooper
+cooperación	cooperation
+coordenadas	coordinates
+coordinación	coordination
+copa	cup
+copas	cups
+copia	copy
+copias	copies
+coral	coral
+corazón	heart
+cordero	lamb
+cordillera	mountain range
+cordilleras	mountain ranges
+corea	korea
+coro	chorus
+corona	crown
+coronel	colonel
+corporal	bodily
+corporales	body
+corporation	corporation
+corpus	corpus
+corral	corral
+corre	run
+corrección	correction
+correcta	correct
+correctamente	correctly
+correcto	right
+correlación	correlation
+correo	mail
+correr	run
+corresponde	corresponds
+corresponden	belong
+correspondencia	correspondence
+correspondiente	correspondent
+correspondientes	corresponding
+correspondía	corresponds
+corriente	stream
+corrientes	currents
+corrosión	corrosion
+corrupción	corruption
+corta	short
+cortar	cut
+cortas	short
+corte	cut
+cortes	cortes
+corteza	cortex
+corto	short
+cortos	shorts
+cortés	courtly
+corán	koran
+cos	cos
+cosa	thing
+cosas	things
+coseno	cosine
+cosgrove	cosgrove
+cosmología	cosmology
+cosmos	cosmos
+costa	coast
+costarricense	costa rican
+costas	coasts
+coste	cost
+costera	coastal
+costeras	coastal
+costes	costs
+costo	cost
+costos	costs
+costumbre	tradition
+costumbres	custom
+cotidiana	every day
+cotidiano	daily
+coulomb	coulomb
+country	country
+cpu	cpu
+crazy	crazy
+crea	creates
+creaciones	creations
+creacionismo	creationism
+creación	creation
+creada	created
+creadas	created
+creado	created
+creador	creator
+creadores	creators
+creados	created
+crean	create
+creando	creating
+crear	create
+crearon	created
+creativa	creative
+creatividad	creativity
+creativo	creative
+creativos	creative
+crece	grows
+crecen	grow
+crecer	grow
+crecido	grown
+creciendo	growing
+creciente	growing
+crecimiento	increase
+creció	grew up
+cree	believe
+creen	believe
+creencia	belief
+creencias	beliefs
+creer	believe
+creo	i believe
+crepúsculo	twilight
+creta	crete
+creyentes	believers
+creyó	believed
+creía	believed
+creían	believed
+creó	i believe
+criatura	creature
+criaturas	creatures
+crimen	crime
+criminales	criminals
+criollos	creole
+crisis	crisis
+cristal	crystal
+cristales	crystals
+cristiana	christian
+cristianas	christian
+cristiandad	cristianity
+cristianismo	christianity
+cristiano	christian
+cristianos	christians
+cristo	christ
+cristóbal	christopher
+criterio	criterion
+criterios	criteria
+criticada	criticized
+criticado	criticized
+criticó	critical
+croacia	croatia
+cromatina	chromatin
+cromosoma	chromosome
+cromosomas	chromosomes
+cromátidas	chromatids
+cronología	chronology
+cronológico	chronological
+cruce	crossing
+cruceros	cruises
+cruces	crosses
+crucial	crucial
+crudo	raw
+cruz	cross
+cruzada	crusade
+cruzadas	crossed
+cruzados	crossed
+cruzar	cross
+cráneo	skull
+crédito	credit
+créditos	credits
+crímenes	crimes
+crítica	review
+críticas	critics
+crítico	critical
+críticos	critics
+crónica	chronicle
+crónicas	chronicles
+cuaderno	notebook
+cuadernos	notebooks
+cuadrada	square
+cuadrado	square
+cuadrados	squares
+cuadro	picture
+cuadros	picture
+cual	which
+cuales	which
+cualidad	quality
+cualidades	qualities
+cualquier	any
+cualquiera	any
+cuando	when
+cuantas	how many
+cuanto	regarding
+cuantos	how many
+cuarenta	forty
+cuarta	fourth
+cuartel	barracks
+cuarteto	quartet
+cuartetos	quartets
+cuarto	fourth
+cuartos	rooms
+cuatro	four
+cuba	cuba
+cubana	cuban
+cubano	cuban
+cubanos	cubans
+cubierta	cover
+cubiertas	covers
+cubierto	covered
+cubismo	cubism
+cubre	covers
+cubren	cover
+cubrir	cover
+cuello	neck
+cuenca	basin
+cuencas	basins
+cuenta	bill
+cuentan	count
+cuentas	beads
+cuento	story
+cuentos	stories
+cuerda	rope
+cuerdas	ropes
+cuero	leather
+cuerpo	body
+cuerpos	bodies
+cuestiones	issues
+cuestión	question
+cueva	cave
+cuidado	caution
+cuidados	care
+cullen	cullen
+culminó	culminated
+culpable	guilty
+cultivo	culture
+cultivos	crops
+culto	worship
+cultos	cults
+cultura	culture
+cultural	cultural
+culturales	cultural
+culturalmente	culturally
+culturas	cultures
+cumbre	summit
+cumple	meets
+cumplen	meet
+cumplimiento	observance
+cumplir	comply
+cuna	cradle
+cuota	share
+curiosamente	curiously
+curiosidad	curiosity
+curioso	curious
+curso	course
+cursos	courses
+curva	curve
+curvas	curved
+curvatura	curvature
+cuya	whose
+cuyas	whose
+cuyo	whose
+cuyos	whose
+cuál	wich
+cuáles	which
+cuándo	when
+cuántica	quantum
+cyrus	cyrus
+cádiz	cadiz
+cálculo	calculation
+cálculos	calculations
+cálido	warm
+cálidos	warm
+cáliz	calyx
+cámara	camera
+cámaras	cameras
+cáncer	cancer
+cápita	capita
+cápside	capsid
+cárcel	jail
+cáucaso	caucasus
+célebre	celebrated
+célebres	famous
+célula	cell
+células	cells
+césar	caesar
+cézanne	cezanne
+círculo	circle
+círculos	circles
+código	code
+códigos	codes
+cómic	comic
+cómics	comics
+cómo	how
+córdoba	cordoba
+cósmica	cosmic
+cúpula	dome
+d	d
+da	gives
+daba	gave
+daban	gave
+dada	given
+dadas	given
+dado	dice
+dados	dice
+dadá	given
+dama	lady
+dan	give
+dando	giving
+daniel	daniel
+dante	dante
+danza	dance
+danzas	dances
+danés	danish
+dar	give
+dark	dark
+darle	give
+darse	give
+darwin	darwin
+darwinismo	darwinism
+dará	will give
+daría	would give
+data	data
+datan	date
+dato	fact
+datos	data
+dave	dave
+david	david
+davis	davis
+daño	harm
+daños	damage
+dc	dc
+de	of
+debajo	below
+debate	debate
+debates	debates
+debe	should
+debemos	we must
+deben	owe
+deber	should
+deberes	homework
+deberse	owe
+deberá	shall
+deberán	shall
+debería	should
+deberían	should
+debida	due
+debido	due
+debieron	had to
+debilidad	weakness
+debió	due
+debut	debut
+debutó	debuted
+debía	should
+debían	owed
+decadencia	decline
+decenas	tens
+decide	decides
+deciden	decide
+decidido	decided
+decidieron	decided
+decidir	decide
+decidió	decided
+decimal	decimal
+decimales	decimals
+decir	say
+decirse	tell
+decisiones	decisions
+decisiva	decisive
+decisivo	decisive
+decisión	decision
+declara	declares
+declaraciones	statements
+declaración	statement
+declarada	declared
+declarado	declared
+declarar	declare
+declaró	declared
+declive	slope
+decoración	decoration
+decreto	decree
+decía	said
+dedica	dedicates
+dedicada	dedicated
+dedicadas	dedicated
+dedicado	dedicated
+dedicados	dedicated
+dedicó	dedicated
+dedos	fingers
+deduce	deduce
+deducir	deduct
+defecto	default
+defectos	defects
+defender	defend
+defendiendo	defending
+defendió	defended
+defendía	defended
+defensa	defending
+defensas	defenses
+defensiva	defensive
+defensor	defender
+defensores	defenders
+deficiencia	deficiency
+defiende	defend
+defienden	defend
+define	define
+definen	define
+definiciones	definitions
+definición	definition
+definida	defined
+definidas	defined
+definido	defined
+definidos	defined
+definir	define
+definirse	define
+definitiva	definitive
+definitivamente	definitely
+definitivo	definitive
+deforestación	deforestation
+deformación	deformation
+degradación	degradation
+deidad	deity
+deidades	deities
+deja	leaves
+dejaba	left
+dejado	left
+dejan	leave
+dejando	leaving
+dejar	leave
+dejaron	leave
+dejó	left
+del	of
+delante	forward
+delegados	delegates
+delgada	thin
+delgado	thin
+della	della
+delta	delta
+demanda	demand
+demandas	demands
+demasiado	too much
+demi	demi
+democracia	democracy
+democracias	democracies
+democrática	democratic
+democrático	democratic
+democráticos	democratic
+demografía	demography
+demográfica	demographic
+demográfico	demographic
+demostración	demonstration
+demostrado	demonstrated
+demostrar	show
+demostraron	proved
+demostró	showed
+demuestra	shows
+demuestran	show
+demás	the rest
+den	give
+dengue	dengue
+denomina	called
+denominaciones	denominations
+denominación	denomination
+denominada	called
+denominadas	called
+denominado	called
+denominados	called
+denominan	denominate
+denominar	name
+denominó	denominated
+denota	to denote
+densa	dense
+densidad	density
+denso	dense
+dentro	inside
+departamento	department
+departamentos	departments
+depende	depends
+dependen	depend
+dependencia	dependence
+dependiendo	depending
+dependiente	dependent
+dependientes	dependents
+deporte	sport
+deportes	sports
+deportiva	sport
+deportivas	sports
+deportivo	sports
+deportivos	sports
+depp	depp
+depresión	depression
+depósito	deposit
+depósitos	deposits
+der	der
+derecha	right
+derecho	right
+derechos	rights
+deriva	derivates
+derivación	derivation
+derivada	derived
+derivadas	derived
+derivado	derivative
+derivados	derivates
+derivan	derive
+derrocar	topple
+derrota	defeat
+derrotado	defeated
+derrotar	defeat
+derrotó	defeated
+des	de los
+desafío	challenge
+desaparece	disappears
+desaparecer	disappear
+desaparecido	missing
+desapareció	dissapeared
+desaparición	disappearance
+desarrolla	develops
+desarrollada	developed
+desarrolladas	developed
+desarrollado	developed
+desarrollados	developed
+desarrollan	develop
+desarrollando	developing
+desarrollar	develop
+desarrollaron	developed
+desarrollarse	develop
+desarrollo	developing
+desarrollos	developments
+desarrolló	developing
+desastre	disaster
+desastres	disasters
+descanso	break
+descarga	download
+descartes	descartes
+descendencia	offspring
+descendiente	descendant
+descendientes	descendents
+descenso	decline
+descomposición	decomposition
+desconoce	unknown
+desconocida	unknown
+desconocidas	unknown
+desconocido	unknown
+desconocidos	unknown
+descontento	discontent
+describe	describes
+describen	describe
+describir	describe
+describió	described
+descripciones	descriptions
+descripción	description
+descrita	described
+descritas	described
+descrito	described
+descritos	described
+descubierta	uncovered
+descubierto	discovered
+descubiertos	discovered
+descubre	discover
+descubrieron	discovered
+descubrimiento	discovery
+descubrimientos	discovers
+descubrir	discover
+descubrió	discovered
+desde	since
+desea	wish
+deseaba	wished
+deseado	wanted
+desean	wish
+desechos	waste
+desemboca	ends
+desembocan	flow
+desempeña	plays
+desempeñan	perform
+desempeño	performance
+desempeñó	performance
+desempleo	unemployment
+deseo	wish
+deseos	wishes
+desgaste	wear
+desierto	desert
+desiertos	deserts
+designa	designates
+designado	designated
+designan	designate
+designar	appoint
+desigual	unequal
+desigualdad	inequality
+desintegración	disintegration
+desnudo	naked
+desnudos	nudes
+desorden	disorder
+desplaza	displaces
+desplazamiento	displacement
+desplazan	displace
+despliegue	deployment
+desprende	removed
+después	after
+destaca	stand
+destacada	outstanding
+destacadas	featured
+destacado	outstanding
+destacados	featured
+destacan	stand out
+destacando	highlighting
+destacar	highlight
+destacaron	highlighted
+destacó	highlighted
+destilación	distillation
+destinada	destined
+destinadas	destined
+destinado	destined
+destinados	destined
+destino	destination
+destinos	destinations
+destrucción	destruction
+destruida	destroyed
+destruido	destroyed
+destruir	destroy
+desuso	disuse
+desventaja	handicap
+desviación	deviation
+detallada	detailed
+detalle	detail
+detalles	details
+detección	detection
+detectado	detected
+detectar	detect
+detener	stop
+detenido	stopped
+deterioro	deterioration
+determina	determines
+determinación	determination
+determinada	determined
+determinadas	certain
+determinado	determined
+determinados	determined
+determinan	determine
+determinante	determinant
+determinantes	determinants
+determinar	decide
+determinó	determined
+detiene	stops
+detractores	detractors
+detrás	behind
+deuda	debt
+deudas	debts
+di	gave
+diabetes	diabetes
+diagnóstico	diagnosis
+diagonal	diagonal
+diagrama	diagram
+diagramas	diagrams
+dialecto	dialect
+dialectos	dialects
+dialéctica	dialectics
+dialéctico	dialectic
+diamante	diamond
+diana	diana
+diaria	daily
+diario	diary
+diarios	daily
+dibujar	draw
+dibujo	drawing
+dibujos	drawings
+diccionario	dictionary
+dice	says
+dicen	say
+dicha	such
+dichas	said
+dicho	saying
+dichos	said
+diciembre	december
+diciendo	saying
+dick	dick
+dictador	dictator
+dictadura	dictatorship
+dictaduras	dictatorships
+dieciséis	sixteen
+diego	diego
+dientes	teeth
+dieron	gave
+dieta	diet
+diez	ten
+diferencia	difference
+diferenciación	differentiation
+diferenciadas	differentiated
+diferencial	differential
+diferenciales	spreads
+diferencian	differentiate
+diferenciar	differentiate
+diferencias	differences
+diferente	different
+diferentes	different
+dificultad	difficulty
+dificultades	difficulties
+difiere	differs
+difieren	differ
+difundido	released
+difundir	spread
+difusión	diffusion
+difícil	hard
+difíciles	difficult
+difícilmente	hardly
+digestivo	digestive
+digestión	digestion
+digital	digital
+digitales	digital
+dignidad	dignity
+dijo	said
+dilatación	dilatation
+dimensiones	dimensions
+dimensión	dimension
+dinamarca	denmark
+dinamismo	dynamism
+dinastía	dynasty
+dinastías	dynasties
+dinero	money
+dinámica	dynamic
+dinámicas	dynamic
+dinámico	dynamic
+dio	lead
+diodo	diode
+diodos	diodes
+dios	god
+diosa	goddess
+dioses	gods
+diplomáticas	diplomatic
+diplomático	diplomatic
+diputados	deputy
+direcciones	addresses
+dirección	direction
+directa	direct
+directamente	directly
+directiva	directive
+directo	direct
+director	director
+directores	directors
+directorio	directory
+directos	direct
+dirige	adresses
+dirigen	direct
+dirigente	leader
+dirigentes	leaders
+dirigida	directed
+dirigidas	directed
+dirigido	directed
+dirigidos	directed
+dirigieron	directed
+dirigir	lead
+dirigirse	to steer
+dirigió	guided
+discapacidad	disability
+disciplina	discipline
+disciplinas	disciplines
+disco	disk
+discografía	discography
+discográfica	record company
+discográfico	record
+discos	discs
+discreta	discreet
+discriminación	discrimination
+discurso	speech
+discursos	speeches
+discusiones	discussions
+discusión	discussion
+discutido	discussed
+discípulo	disciple
+discípulos	disciples
+diseñada	designed
+diseñado	designed
+diseñados	designed
+diseñar	design
+diseño	design
+diseños	designs
+diseñó	design
+disforia	dysphoria
+disfunción	dysfunction
+disidentes	dissident
+disminución	decrease
+disminuido	diminished
+disminuir	decrease
+disminuye	decreases
+disminuyendo	decreasing
+disminuyó	decreased
+disney	disney
+disoluciones	solutions
+disolución	dissolution
+disolvente	solvent
+disolver	dissolve
+dispersión	dispersion
+dispone	has
+disponen	have
+disponer	provide
+disponibilidad	availability
+disponible	available
+disponibles	available
+disponía	had
+disposiciones	provisions
+disposición	disposition
+dispositivo	device
+dispositivos	device
+dispuesto	ready
+dispuestos	ready
+disputa	dispute
+disputas	disputes
+distancia	distance
+distancias	distances
+distante	distant
+distinciones	distinctions
+distinción	distinction
+distingue	distinguishes
+distinguen	distinguish
+distinguir	distinguish
+distinta	different
+distintas	different
+distintivo	distinctive
+distinto	different
+distintos	different
+distorsión	distortion
+distribuciones	distributions
+distribución	distribution
+distribuidos	distributed
+distribuir	distribute
+distrito	district
+distritos	districts
+diversa	diverse
+diversas	various
+diversidad	diversity
+diversos	various
+divide	divide
+dividen	divide
+dividida	divided
+dividido	divided
+divididos	divided
+dividir	divide
+dividirse	be divided
+dividió	divided
+divina	divine
+divinas	divine
+divinidad	divinity
+divino	divine
+divisiones	divisions
+división	division
+divorcio	divorce
+divulgación	divulgation
+diálogo	dialogue
+diálogos	dialogues
+diámetro	diameter
+dióxido	dioxide
+dj	dj
+do	do
+doblaje	dubbing
+doble	double
+dobles	double
+doce	twelve
+doctor	doctor
+doctrina	doctrine
+doctrinas	doctrines
+documentación	documentation
+documentado	documented
+documental	documentary
+documentales	documentaries
+documento	document
+documentos	documents
+dolor	pain
+dolores	pains
+dominación	domination
+dominada	dominated
+dominado	dominated
+dominante	dominant
+dominantes	dominant
+dominar	to dominate
+domingo	sunday
+dominicana	dominican
+dominicano	dominican
+dominio	domain
+dominios	domains
+doméstico	domestic
+domésticos	domestic
+don	don
+donde	where
+dont	no
+dorada	golden
+dorado	golden
+dorsal	dorsal
+dos	two
+dosis	dose
+douglas	douglas
+down	down
+dr	dr
+dragon	dragon
+drama	drama
+dramaturgo	playwright
+dramática	dramatic
+dramático	dramatic
+droga	drug
+drogas	drugs
+drásticamente	drastically
+du	du
+duda	doubt
+dudas	doubts
+dueño	owner
+duff	duff
+dulce	fresh
+duodeno	duodenum
+duplicación	duplication
+duque	duke
+dura	hard
+duración	duration
+duramente	harshly
+durante	during
+duras	hard
+dureza	hardness
+duro	lasted
+duros	hard
+duró	lasted
+dándole	giving
+débil	weak
+débiles	weak
+década	decade
+décadas	decades
+décima	tenth
+déficit	deficit
+día	day
+días	days
+díaz	diaz
+dígitos	digits
+dólares	dollars
+dónde	where
+dúo	duo
+e	and
+early	early
+ebullición	boiling
+eclipse	eclipse
+eco	echo
+ecología	ecology
+ecológica	ecological
+ecológico	ecological
+ecológicos	ecological
+economistas	economists
+economía	economy
+economías	economies
+económica	economic
+económicamente	economically
+económicas	economic
+económico	economic
+económicos	economic
+ecosistema	ecosystem
+ecosistemas	ecosystems
+ecuaciones	equations
+ecuación	equation
+ecuación|	equation
+ecuador	ecuador
+ecuatorial	equatorial
+ed	ed
+edad	age
+edades	ages
+edgar	edgar
+edge	edge
+ediciones	editions
+edición	edition
+edificio	building
+edificios	buildings
+edison	edison
+editado	edited
+editar	edit
+editor	editor
+editores	editors
+editorial	editorial
+editó	edited
+eduardo	eduardo
+educación	education
+educativa	educational
+educativo	educational
+educativos	educational
+ee	uu
+eeuu	usa
+ee uu	usa
+efectiva	effective
+efectivamente	effectively
+efectivo	effective
+efectivos	effective
+efecto	effect
+efectos	effects
+efectuar	make
+eficaces	effective
+eficacia	eficiency
+eficaz	effective
+eficiencia	efficiency
+eficiente	efficient
+eficientes	efficient
+efron	efron
+egeo	aegean
+egipcia	egyptian
+egipcio	egyptian
+egipcios	egyptians
+egipto	egypt
+ego	ego
+egoísmo	selfishness
+einstein	einstein
+einstenio	einsteinium
+ej	ex
+eje	axis
+ejecución	execution
+ejecuta	run
+ejecutado	executed
+ejecutados	executed
+ejecutar	run
+ejecutivo	executive
+ejecutivos	executives
+ejemplar	copy
+ejemplares	exemplary
+ejemplo	example
+ejemplos	examples
+ejerce	exercises
+ejercen	exercise
+ejercer	exercise
+ejercicio	exercise
+ejercicios	exercises
+ejercida	exercised
+ejercido	exercised
+ejerció	perform
+ejes	axes
+ejército	army
+ejércitos	armies
+el	he
+elabora	elaborate
+elaboración	elaboration
+elaborada	elaborate
+elaboradas	elaborate
+elaborado	elaborated
+elaborados	elaborate
+elaborar	elaborate
+elaboró	elaborated
+elasticidad	elasticity
+elecciones	elections
+elección	choice
+electo	elect
+electoral	electoral
+electorales	electoral
+electricidad	electricity
+electromagnetismo	electromagnetism
+electromagnética	electromagnetic
+electromagnéticas	electromagnetic
+electromagnético	electromagnetic
+electrones	electrons
+electrón	electron
+electrónica	electronics
+electrónico	electronic
+electrónicos	electronic
+elegida	chosen
+elegido	elected
+elegidos	chosen
+elegir	choose
+elemental	elementary
+elementales	elemental
+elemento	element
+elementos	elements
+elena	elena
+elenco	cast
+eleva	raises
+elevación	elevation
+elevada	elevated
+elevadas	high
+elevado	high
+elevados	elevated
+elevar	raise
+eligió	elected
+elimina	discarded
+eliminación	elimination
+eliminado	removed
+eliminar	remove
+eliminó	removed
+elizabeth	elizabeth
+ella	she
+ellas	they
+ello	it
+ellos	they
+elogió	praise
+elvis	elvis
+eléctrica	electrical
+eléctricas	electrical
+eléctrico	electric
+eléctricos	electrical
+em	los
+emancipación	emancipation
+embajada	embassy
+embajador	ambassador
+embarazada	pregnant
+embarazo	pregnancy
+embarcó	embarked
+embargo	however
+emblema	emblem
+embrionario	embryonic
+embrión	embryo
+emergencia	emergency
+emi	emi
+emigración	emigration
+emiliano	emiliano
+emilio	emilio
+eminem	eminem
+emisiones	emissions
+emisión	issue
+emisor	transmitter
+emisoras	stations
+emite	emit
+emiten	emit
+emitida	issued
+emitido	issued
+emitidos	cast
+emitir	emite
+emitió	emitted
+emma	emma
+emo	emo
+emocional	emotional
+emocionales	emotional
+emociones	emotions
+emoción	emotion
+emperador	emperor
+emperadores	emperors
+empezado	started
+empezando	starting
+empezar	start
+empezaron	they started
+empezó	started
+empieza	starts
+empiezan	begin
+empirismo	empiricism
+emplea	used
+empleada	employee
+empleadas	employed
+empleado	employee
+empleados	employees
+emplean	employ
+empleando	employing
+emplear	use
+empleo	job
+empleó	job
+emprendió	began
+empresa	business
+empresarial	business
+empresarios	businessman
+empresas	business
+empuje	push
+empírica	empirical
+empírico	empirical
+en	in
+enamorado	in love
+encabezado	header
+encarga	commission
+encargada	manager
+encargado	in charge
+encargados	assigned
+encargan	order
+encargo	charge
+encargó	charge
+enciclopedia	encyclopedia
+encima	above
+encontraba	found
+encontraban	find
+encontradas	found
+encontrado	found
+encontrados	found
+encontramos	found
+encontrar	find
+encontraron	found
+encontrarse	meet
+encontró	found
+encuentra	find
+encuentran	find
+encuentre	find
+encuentro	meeting
+encuentros	encounters
+encuesta	poll
+encuestas	poll
+encyclopedia	encyclopedia
+encéfalo	brain
+ende	hence
+endoplasmático	endoplasmic
+enemigo	enemy
+enemigos	enemies
+energética	energetic
+energético	energetic
+energéticos	energetic
+energía	energy
+energías	energies
+enero	january
+enfermedad	disease
+enfermedades	illnesses
+enfermo	sick
+enfermos	sick
+enfoque	focus
+enfoques	approaches
+enfrenta	faces
+enfrentamiento	confrontation
+enfrentamientos	cooling
+enfrentar	deal
+enfrentaron	faced
+enfrentarse	face
+enfrentó	faced
+enfriamiento	cooling
+engels	engels
+engloba	encompasses
+enlace	link
+enlaces	links
+enorme	huge
+enormemente	enormously
+enormes	huge
+enrique	enrique
+enriquecido	enriched
+ensamblaje	assembly
+ensayo	test
+ensayos	essays
+enseñanza	teaching
+enseñanzas	teachings
+enseñar	teach
+enseñó	teached
+ente	entity
+entender	understand
+entenderse	be understood
+entendida	understood
+entendido	understood
+entendimiento	understanding
+entera	whole
+entero	whole
+enteros	entire
+enterrado	buried
+entertainment	entertainment
+entes	entities
+entidad	entity
+entidades	entities
+entiende	understands
+entonces	so
+entorno	environment
+entornos	environments
+entra	enters
+entrada	entry
+entradas	entrances
+entrado	entered
+entran	play
+entrando	entering
+entrar	enter
+entraron	entered
+entre	between
+entrega	delivery
+entregado	delivered
+entregó	returned
+entrenador	coach
+entrenamiento	training
+entretenimiento	entertainment
+entrevista	interview
+entrevistas	interviews
+entropía	entropy
+entró	entered
+entusiasmo	enthusiasm
+enunciado	statement
+envejecimiento	aging
+enviado	sent
+enviados	sent
+enviando	sending
+enviar	send
+envió	sent
+envoltura	envelope
+envía	send
+envío	sending
+enzima	enzyme
+enzimas	enzymes
+ep	ep
+epidemia	epidemic
+epidemias	epidemics
+epidemiología	epidemiology
+episodio	episode
+episodios	episodes
+epistemología	epistemology
+epstein	epstein
+equilibrio	balance
+equipo	equipment
+equipos	teams
+equivale	equals
+equivalencia	equivalence
+equivalente	equivalent
+equivalentes	equivalent
+er	st
+era	was
+eran	were
+erección	erection
+erich	eric
+ernesto	ernest
+ernst	ernst
+erosión	erosion
+error	error
+errores	errors
+erróneamente	mistakenly
+eruditos	scholars
+eréctil	erectile
+es	it is
+esa	that
+esas	those
+escala	scale
+escalar	climb
+escalas	scales
+escandinavia	scandinavia
+escandinavo	scandinavian
+escapar	escape
+escape	escape
+escasa	limited
+escasas	scarce
+escasez	shortage
+escaso	scarce
+escasos	scarce
+escena	scene
+escenario	stage
+escenarios	scenarios
+escenas	scenes
+esclavitud	slavery
+esclavo	slave
+esclavos	slaves
+esclerosis	sclerosis
+escocia	scotland
+escolar	school
+escolares	school
+escolástica	scholasticism
+escribe	writes
+escriben	write it
+escribiendo	writing
+escribieron	written
+escribir	write
+escribió	wrote
+escribía	wrote
+escrita	written
+escritas	written
+escrito	written
+escritor	writer
+escritores	writers
+escritorio	desk
+escritos	writings
+escritura	writing
+escrituras	scriptures
+escuchar	hear
+escudo	shield
+escuela	school
+escuelas	schools
+escultor	sculptor
+escultores	sculptors
+escultura	sculpture
+esculturas	sculptures
+escándalo	scandal
+ese	that
+esencia	essence
+esencial	essential
+esenciales	essential
+esencialmente	essentially
+esfera	sphere
+esferas	spheres
+esfuerzo	effort
+esfuerzos	efforts
+esférica	spherical
+eslavos	slavic
+eso	that
+esos	those
+espacial	space
+espaciales	space
+espacio	space
+espacios	spaces
+espaciotiempo	space-time
+espada	sword
+espalda	back
+esparta	sparta
+españa	spain
+español	spanish
+española	spanish
+españolas	spanish
+españoles	spaniards
+especiación	speciation
+especial	special
+especiales	special
+especialista	specialist
+especialistas	specialists
+especialización	specialization
+especializada	specialized
+especializadas	specialized
+especializado	specialized
+especializados	specialized
+especialmente	especially
+especie	species
+especies	species
+especificaciones	specifications
+especificación	specification
+especificar	specify
+espectadores	viewers
+espectro	spectrum
+espectáculo	show
+espectáculos	shows
+especulaciones	speculations
+especulación	speculation
+específica	specific
+específicamente	specifically
+específicas	specific
+específico	specific
+específicos	specific
+espejo	mirror
+espejos	mirrors
+espera	wait
+esperaba	hoped
+esperado	expected
+esperando	waiting
+esperanza	hope
+esperar	wait
+espermatozoides	sperm
+espesor	thickness
+espinal	spinal
+espiral	spiral
+espiritual	spiritual
+espirituales	spiritual
+esplendor	splendor
+espontánea	spontaneous
+espontáneamente	spontaneously
+esporas	spores
+esposa	wife
+esposo	husband
+espíritu	spirit
+espíritus	spirits
+esqueleto	skeleton
+esquema	scheme
+esquemas	schemes
+esquina	corner
+esquizofrenia	schizophrenia
+esta	is
+estaba	was
+estaban	were
+estabilidad	stability
+estable	stable
+establece	establishes
+establecen	establish
+establecer	establish
+establecerse	settle
+establecida	established
+establecidas	established
+establecido	established
+establecidos	established
+estableciendo	established
+establecieron	established
+establecimiento	establishment
+establecimientos	establishments
+estableció	established
+establecía	established
+estables	stable
+estaciones	seasons
+estación	station
+estadio	stadium
+estadios	stadiums
+estado	state
+estados	state
+estadounidense	american
+estadounidenses	americans
+estadística	statistics
+estadísticas	statistics
+estadístico	statistical
+estadísticos	statistician
+estallido	outbreak
+estambres	stamens
+estamos	we are
+estancia	stay
+estando	being
+estar	to be
+estará	will be
+estaría	will be
+estas	these
+estatal	state
+estatales	state
+estatua	statue
+estatuas	statues
+estatus	status
+estatuto	statute
+estaño	tin
+este	east
+estela	wake
+estelar	stellar
+esteroides	steroids
+estilo	style
+estilos	styles
+estima	estimate
+estimaciones	estimates
+estimación	estimate
+estimada	dear
+estimado	dear
+estiman	estimate
+estimula	stimulates
+estimulación	stimulation
+esto	this
+estonia	estonia
+estos	these
+estoy	am
+estrategia	strategy
+estrategias	strategies
+estratégica	strategic
+estratégico	strategic
+estrecha	narrow
+estrechamente	tightly
+estrechas	narrow
+estrecho	narrow
+estrella	star
+estrellas	stars
+estrenada	released
+estreno	premiere
+estrenó	premiere
+estricta	strict
+estrictamente	strictly
+estricto	strict
+estructura	structure
+estructural	structural
+estructurales	structural
+estructuras	structures
+estrés	stress
+estudia	study
+estudiada	studied
+estudiadas	studied
+estudiado	studied
+estudiados	studied
+estudian	study
+estudiando	studying
+estudiante	student
+estudiantes	students
+estudiar	study
+estudio	study
+estudios	studies
+estudiosos	scholars
+estudió	study
+estuviera	was
+estuvieron	were
+estuvo	was
+está	is
+están	are
+estándar	standard
+estándares	standards
+estática	static
+esté	east
+estén	are
+estética	aesthetics
+estéticas	aesthetic
+estético	aesthetic
+estímulo	stimulus
+estímulos	stimuli
+estípula	stipule
+estómago	stomach
+esófago	esophagus
+et	et
+etanol	ethanol
+etapa	stage
+etapas	stages
+etc	etc
+etcétera	etc
+eterna	eternal
+eterno	eternal
+etimología	etymology
+etiología	etiology
+etiopía	ethiopia
+etiqueta	label
+etiquetas	labels
+etnia	ethnicity
+etnias	ethnic groups
+etnografía	ethnography
+eucariontes	eukaryotes
+eucariota	eukaryote
+eucariotas	eukaryotes
+euclides	euclid
+euro	euro
+europa	europe
+europea	european
+europeas	european
+europeo	european
+europeos	european
+eutanasia	euthanasia
+eva	eve
+evaluación	evaluation
+evaluar	evaluate
+evangelio	gospel
+evangelios	gospels
+evento	event
+eventos	events
+eventualmente	eventually
+evidencia	evidence
+evidencias	evidence
+evidente	evident
+evidentes	evident
+evil	evil
+evita	avoid
+evitando	avoiding
+evitar	avoid
+evolucionado	evolved
+evolucionar	evolve
+evolucionó	evolved
+evolución	evolution
+evolutiva	evolutionary
+evolutivo	evolutionary
+evolutivos	evolutionary
+ex	former
+exacta	exact
+exactamente	exactly
+exactas	exact
+exactitud	accuracy
+exacto	exact
+examen	exam
+excavaciones	excavations
+excel	excel
+excelencia	excellence
+excelente	excellent
+excepcional	exceptional
+excepciones	exceptions
+excepción	exception
+excepto	except
+excesiva	excessive
+excesivo	excessive
+exceso	excess
+excitación	excitement
+exclusiva	exclusive
+exclusivamente	exclusively
+exclusivo	exclusive
+exclusión	exclusion
+exhibición	exhibition
+exige	demands
+exigencias	requirements
+exilio	exile
+exista	exist
+existan	exist
+existe	exists
+existen	exist
+existencia	existence
+existencialismo	existentialism
+existente	existing
+existentes	existing
+existido	existed
+existiendo	existing
+existieron	existed
+existir	exist
+existió	existed
+existía	existed
+existían	existed
+exitosa	successful
+exitoso	successful
+exitosos	successful
+expandir	expand
+expandirse	expand
+expandió	expanded
+expansión	expansion
+expectativas	expectations
+expediciones	expeditions
+expedición	expedition
+experience	experience
+experiencia	experience
+experiencias	experiences
+experimenta	experience
+experimentación	experimentation
+experimentado	experienced
+experimental	experimental
+experimentales	experimental
+experimentan	experiment
+experimentar	experiment
+experimento	experiment
+experimentos	experiments
+experimentó	experiment
+experto	expert
+expertos	experts
+explica	explain
+explicaciones	explanations
+explicación	explanation
+explican	explain
+explicar	explain
+explicó	explained
+exploración	exploration
+explorar	to explore
+explosión	explosion
+explotación	exploitation
+explícita	explicit
+explícitamente	explicitly
+expone	exposes
+exponente	exponent
+exponentes	exponents
+exportaciones	exports
+exportación	exportation
+exposiciones	expositions
+exposición	exposition
+expresa	express
+expresada	expressed
+expresado	expresed
+expresan	express
+expresar	express
+expresarse	express
+expresiones	expressions
+expresionismo	expressionism
+expresionista	expressionist
+expresionistas	expressionists
+expresión	expression
+expresó	express
+expuesta	exposed
+expuestas	exposed
+expuesto	exposed
+expuestos	exposed
+expulsado	expelled
+expulsión	expulsion
+expuso	exposed
+extender	extend
+extendida	extended
+extendido	extended
+extendió	spread
+extensa	extensive
+extensas	extensive
+extensiones	extensions
+extensión	extension
+extenso	extensive
+extensos	extensive
+exterior	exterior
+exteriores	outdoor
+exterminio	extermination
+externa	external
+externas	external
+externo	external
+externos	external
+extiende	extends
+extienden	extend
+extinción	extinction
+extra	extra
+extracción	extraction
+extrae	extract
+extraer	extract
+extranjera	foreign
+extranjeras	foreign
+extranjero	foreign
+extranjeros	foreign
+extraordinaria	extraordinary
+extraordinario	extraordinary
+extraña	strange
+extraño	strange
+extrema	extreme
+extremadamente	extremely
+extremas	extreme
+extremo	extreme
+extremos	extremes
+exámenes	tests
+eyaculación	ejaculation
+eólica	wind
+f	f
+fa	fa
+fabricación	manufacturing
+fabricante	maker
+fabricantes	manufacturers
+fabricar	manufacture
+facciones	factions
+facebook	facebook
+fachada	front
+facilidad	ease
+facilita	facilitates
+facilitar	facilitate
+facto	law
+factor	factor
+factores	factors
+facultad	faculty
+facultades	faculties
+fagocito	phagocyte
+falla	failure
+fallas	failures
+fallecimiento	death
+falleció	passed away
+fallo	failure
+fallos	failures
+falsa	false
+falso	false
+falsos	false
+falta	lack
+faltas	faults
+fama	fame
+familia	family
+familiar	family
+familiares	relatives
+familias	families
+famosa	famous
+famosas	famous
+famoso	famous
+famosos	famous
+fans	fans
+fantasía	fantasy
+fantástico	fantastic
+fanáticos	fans
+fascismo	fascism
+fascista	fascist
+fascistas	fascist
+fase	phase
+fases	phases
+fauna	fauna
+favor	favor
+favorable	favorable
+favorables	favorable
+favorece	favors
+favorecer	favor
+favorito	favorite
+fbi	fbi
+fc	fc
+fe	faith
+febrero	february
+fecha	date
+fechas	dates
+fecundación	fertilization
+fecundidad	fertility
+federación	federation
+federal	federal
+federales	federal
+federico	federic/ federick
+felicidad	happiness
+felipe	felipe
+feliz	happy
+femenina	feminine
+femeninas	female
+femenino	female
+femeninos	female
+fenomenología	phenomenology
+fenotipo	phenotype
+fenómeno	phenomenon
+fenómenos	phenomena
+feo	ugly
+ferdinand	ferdinand
+feria	fair
+ferias	fairs
+fermentación	fermentation
+fernando	fernando
+fernández	fernandez
+ferrocarril	railway
+ferrocarriles	railways
+fertilidad	fertility
+festival	festival
+festividad	festivity
+festividades	festivities
+feto	fetus
+feudal	feudal
+feudales	feudal
+feudalismo	feudalism
+feudo	fief
+fiable	reliable
+fibra	fiber
+fibras	fibers
+ficción	fiction
+ficticio	fictional
+fidel	fidel
+fidelidad	fidelity
+fiebre	fever
+fiel	faithful
+fieles	faithful
+fiesta	party
+fiestas	parties
+fifa	fifa
+figura	figure
+figuran	figure
+figuras	figures
+fija	fixed
+fijación	fixation
+fijado	set
+fijar	fix
+fijas	fixed
+fijo	permanent
+fijos	fixed
+fila	row
+filamentos	filaments
+filas	rows
+filial	subsidiary
+filipinas	philippines
+filipo	philip
+film	film
+filmación	shooting
+filme	film
+filmografía	filmography
+filo	edge
+filosofal	philosopher
+filosofía	philosophy
+filosófica	philosophical
+filosóficas	philosophical
+filosófico	philosophical
+filosóficos	philosophical
+filtro	filter
+filósofo	philosopher
+filósofos	philosophers
+fin	end
+fina	fine
+final	final
+finales	end
+finalidad	purpose
+finalización	end
+finalizar	finalize
+finalizó	ended
+finalmente	finally
+financiación	financing
+financiera	financial
+financieras	financial
+financiero	financial
+financieros	financial
+finanzas	finances
+fines	purposes
+finito	finite
+finlandia	finland
+firma	firm
+firmado	signed
+firmar	sign
+firmaron	signed
+firme	firm
+firmó	signed
+first	first
+fiscal	fiscal
+fiscales	prosecutors
+fisiología	physiology
+fisión	fission
+flamenco	flamenco
+flecha	arrow
+flexibilidad	flexibility
+flor	flower
+flora	flora
+floral	floral
+florales	floral
+florencia	florence
+florentino	florentine
+flores	flowers
+florida	florida
+flota	fleet
+fluido	fluid
+fluidos	fluids
+flujo	flow
+flujos	flows
+fobofobia	photophobia
+foco	focus
+folclore	folklore
+folio	folio
+fomentar	encourage
+fondo	background
+fondos	money
+football	football
+for	for
+ford	ford
+forestal	forest
+forestales	forest
+forma	shape
+formaba	formed
+formaban	formed
+formaciones	formations
+formación	training
+formada	formed
+formadas	formed
+formado	formed
+formados	formed
+formal	formal
+formales	formal
+formalmente	formally
+forman	form
+formando	forming
+formar	forming
+formaron	formed
+formas	forms
+formato	format
+formatos	formats
+formulación	formulation
+formó	formed
+foro	forum
+fortaleza	fortress
+fortuna	fortune
+fosfato	phosphate
+foto	photo
+fotografía	photography
+fotografías	photographs
+fotones	photons
+fotos	photos
+fotosíntesis	photosynthesis
+fotógrafo	photographer
+foundation	foundation
+fox	fox
+frac	tails
+fracaso	failure
+fracasó	failure
+fracciones	fractions
+fracción	fraction
+fragmento	fragment
+fragmentos	fragments
+francesa	french
+francesas	french
+francesco	francesco
+franceses	french
+francia	france
+francis	francis
+francisco	francisco
+franco	frank
+francos	franks
+francés	french
+franja	stripe
+frank	frank
+franklin	franklin
+franquicia	franchise
+franquista	franco
+franz	franz
+françois	françois
+frase	sentence
+frases	phrases
+fray	brother
+frecuencia	frequency
+frecuencias	frequencies
+frecuente	frequent
+frecuentemente	frequently
+frecuentes	frequent
+fred	fred
+freddie	freddie
+frente	front
+frentes	fronts
+fresco	cool
+freud	freud
+fricción	friction
+frida	frida
+friedrich	friedrich
+from	from
+frontal	frontal
+frontera	border
+fronteras	borders
+frutas	fruits
+fruto	fruit
+frutos	fruits
+fría	cold
+frías	cold
+frío	cold
+fríos	cold
+fue	was
+fuego	fire
+fuente	source
+fuentes	sources
+fuera	outside
+fueran	were
+fueron	were
+fuerte	strong
+fuertemente	strongly
+fuertes	powerful
+fuerza	force
+fuerzas	forces
+fuese	was
+fuesen	were
+fuga	leakage
+fullmetal	fullmetal
+fumar	smoke
+funciona	works
+funcional	functional
+funcionales	functional
+funcionalidad	functionality
+funcionamiento	operation
+funcionan	function
+funcionando	working
+funcionar	function
+funcionarios	officials
+funciones	functions
+función	function
+fundación	foundation
+fundada	founded
+fundado	founded
+fundador	founder
+fundadores	founders
+fundamental	fundamental
+fundamentales	fundamental
+fundamentalmente	fundamentally
+fundamento	basis
+fundamentos	fundamentals
+fundar	found
+fundaron	founded
+fundición	foundry
+fundó	founded
+funeral	funeral
+funk	funk
+fusión	fusion
+futbolista	soccer player
+futbolistas	soccer players
+futura	future
+futuras	future
+futuro	future
+futuros	futures
+fábrica	factory
+fábricas	factories
+fábula	fable
+fábulas	fables
+fácil	easy
+fáciles	easy
+fácilmente	easily
+fármacos	drugs
+félix	felix
+fértil	fertile
+física	physical
+físicamente	physically
+físicas	physical
+físico	physical
+físicos	physical
+fórmula	formula
+fórmulas	formulas
+fósforo	match
+fósil	fossil
+fósiles	fossil
+fútbol	soccer
+g	g
+gabinete	cabinet
+gabriela	gabriela
+gaga	gaga
+galaxia	galaxy
+galaxias	galaxies
+galería	gallery
+gales	wales
+galicia	galicia
+galilea	galilee
+galilei	galilei
+galileo	galileo
+gama	spectrum
+gametos	gametes
+gamma	gamma
+gana	wins
+ganadería	cattle raising
+ganado	won
+ganador	winner
+ganadora	winner
+ganancia	profit
+ganancias	profits
+ganando	winning
+ganar	win
+ganaron	won
+gandalf	gandalf
+gandhi	gandhi
+ganglios	ganglia
+ganó	won
+garantiza	guarantees
+garantizar	guarantee
+garantía	warranty
+garcía	garcia
+garganta	throat
+gary	gary
+gas	gas
+gaseoso	gaseous
+gases	gases
+gasto	guest
+gastos	expenses
+gastritis	gastritis
+gastronomía	gastronomy
+gastrulación	gastrulation
+gato	cat
+gauguin	gauguin
+gay	gay
+gemelos	twins
+gen	gene
+genera	generate
+generaciones	generations
+generación	generation
+generada	generated
+generado	generated
+generador	generator
+generados	generated
+general	general
+generales	general
+generalización	generalization
+generalizada	widespread
+generalizado	generalized
+generalmente	usually
+generan	generate
+generando	generating
+generar	generate
+generó	gender
+genes	genes
+genio	genius
+genital	genital
+genitales	genitals
+genocidio	genocide
+genoma	genome
+genomas	genomes
+gente	people
+genérico	generic
+genética	genetics
+genéticamente	genetically
+genéticas	genetics
+genético	genetic
+genéticos	genetic
+geografía	geography
+geográfica	geographic
+geográficamente	geographically
+geográficas	geographic
+geográfico	geographical
+geográficos	geographic
+geología	geology
+geológica	geological
+geológicos	geological
+geometría	geometry
+geométrica	geometric
+geométricas	geometric
+geométrico	geometric
+geométricos	geometric
+georg	georg
+george	george
+georgia	georgia
+georgianos	georgians
+germánico	germanic
+gestación	gestation
+gestión	management
+gesto	gesture
+get	get
+gibraltar	gibraltar
+gigante	giant
+gigantes	giant
+gil	gil
+gilmour	glimour
+gimnasia	gymnastics
+ginebra	geneva
+giorgio	giorgio
+giovanni	giovanni
+gira	tour
+giran	turn
+girar	turn
+giras	tours
+girl	girl
+girls	girls
+giro	turn
+gitanos	gypsies
+glam	glam
+glande	glans
+global	global
+globales	global
+globalización	globalization
+gloria	glory
+glosario	glossary
+glucosa	glucose
+glándula	gland
+glándulas	glands
+glóbulos	globules
+gobernador	governor
+gobernante	gobernor
+gobernantes	rulers
+gobernó	ruled
+gobierno	government
+gobiernos	governments
+goethe	goethe
+gogh	gogh
+gol	goal
+goles	goals
+golfo	gulf
+golgi	golgi
+golpe	coup
+golpes	hits
+gomez	gomez
+gonzalo	gonzalo
+gonzález	gonzalez
+good	good
+gordon	gordon
+gould	gould
+gpl	gpl
+grabaciones	recordings
+grabación	recording
+grabada	recorded
+grabado	recorded
+grabados	engravings
+grabar	record
+grabó	recorded
+gracia	grace
+gracias	thanks
+gradiente	gradient
+grado	degree
+grados	degrees
+gradual	gradual
+gradualmente	gradually
+grafito	graphite
+gram	gram
+gramatical	grammatical
+grammy	grammy
+gramática	grammar
+gran	great
+granada	grenade
+grand	grand
+grande	big
+grandes	big
+grano	grain
+granos	grain
+grasa	grease
+grasas	fats
+grasos	fatty
+gratuita	free
+gratuito	free
+grave	serious
+gravedad	gravity
+gravemente	seriously
+graves	serious
+gravitacional	gravitational
+gravitación	gravitation
+gravitatoria	gravitational
+gravitatorio	gravitational
+great	great
+grecia	greece
+green	green
+gregorio	gregorio
+griega	greek
+griegas	greek
+griego	greek
+griegos	greeks
+gripe	flu
+gris	gray
+grueso	thick
+grunge	grunge
+grupo	group
+grupos	groups
+gráfica	graphic
+gráficas	graphics
+gráfico	graphic
+gráficos	graphics
+guaraní	guaraní
+guarda	guard
+guardameta	goalkeeper
+guardar	save
+guardia	guard
+guatemala	guatemala
+guatemalteca	guatemalan
+guatemalteco	guatemalan
+guayana	guiana
+guayaquil	guayaquil
+gubernamental	governmental
+gubernamentales	government
+guerra	war
+guerras	wars
+guerrero	warrior
+guerreros	warriors
+guerrilla	guerrilla
+guerrillas	guerrillas
+guerrillero	guerrilla
+guerrilleros	guerrillas
+guevara	guevara
+guillermo	william
+guinea	guinea
+guion	script
+guitarra	guitar
+guitarras	guitars
+guitarrista	guitarist
+guitarristas	guitarist
+guns	guns
+gusta	like
+gustaba	liked
+gustavo	gustavo
+gusto	taste
+gustos	tastes
+gutiérrez	guitierrez
+guy	guy
+guyana	guyana
+guía	guide
+guías	guides
+género	gender
+géneros	genres
+génesis	genesis
+génica	gene
+gótica	gothic
+gótico	gothic
+ha	has
+habana	havana
+haber	to have
+haberse	to have
+habido	have been
+habiendo	having
+habilidad	skill
+habilidades	skills
+habitación	room
+habitan	inhabit
+habitantes	population
+habitual	regular
+habituales	usual
+habitualmente	usually
+habla	speaks
+hablaba	talked
+hablada	spoken
+hablado	spoken
+hablan	speak
+hablando	speaking
+hablantes	speakers
+hablar	talk
+habló	spoke
+habrá	will
+habría	would have
+habrían	would have
+había	had
+habían	had
+hace	makes
+hacen	make
+hacer	do
+hacerlo	to make it
+hacerse	be known
+hacia	toward
+hacienda	estate
+haciendo	doing
+hacía	toward
+hacían	did
+haga	make
+haití	haiti
+hall	hall
+halla	find
+hallado	found
+hallan	find
+hallar	find
+hallazgo	find
+hallazgos	findings
+halloween	halloween
+hambre	hunger
+hamburgo	hamburg
+hamilton	hamilton
+hamlet	hamlet
+han	have
+hannah	hannah
+hans	hans
+hard	hard
+hardcore	hardcore
+hardy	hardy
+harris	harris
+harrison	harrison
+hart	hart
+hará	will
+haría	would do
+hasta	until
+have	have
+hawking	hawking
+hay	there are
+haya	has
+hayan	have
+hazañas	exploits
+hd	hd
+he	i have
+heart	heart
+heath	heath
+heavy	heavy
+hebra	strand
+hebras	threads
+hebreo	hebrew
+hecha	done
+hechas	made
+hecho	done
+hechos	acts
+hegel	hegel
+hegemonía	hegemony
+heinrich	heinrich
+helenístico	hellenistic
+helio	helium
+hell	hell
+hembras	females
+hemiplejía	hemiplegia
+hemisferio	hemisphere
+hemoglobina	hemoglobin
+hemos	we have
+hendrix	hendrix
+henri	henry
+henry	henry
+hepatitis	hepatitis
+hepática	hepatic
+herbert	herbert
+heredero	heir
+hereditario	hereditary
+herencia	heritage
+herida	wound
+heridas	wounds
+herido	wounded
+hermana	sister
+hermanas	sisters
+hermann	hermann
+hermano	brother
+hermanos	brothers
+hernández	hernandez
+herramienta	tool
+herramientas	tools
+heródoto	herodotus
+hiciera	did
+hicieron	did
+hidalgo	gentleman
+hidrocarburos	hydrocarbons
+hidroeléctrica	hydroelectric
+hidrografía	hydrography
+hidroxilo	hydroxyl
+hidráulica	hydraulic
+hidrógeno	hydrogen
+hielo	ice
+hierba	grass
+hierro	iron
+higiene	hygiene
+hija	daughter
+hijas	daughters
+hijo	son
+hijos	children
+hill	hill
+hilo	thread
+hilos	threads
+himno	anthem
+hindenburg	hindenburg
+hinduismo	hinduism
+hinduistas	hindu
+hindú	hindu
+hip	hip
+hipertensión	hypertension
+hipopotasemia	hypokalemia
+hipotenusa	hypotenuse
+hipotálamo	hypothalamus
+hipótesis	hypothesis
+hispana	hispanic
+hispania	hispania
+hispanoamericano	spanish american
+hispanoamérica	hispanic
+histonas	histones
+historia	history
+historiador	historian
+historiadores	historians
+historias	stories
+historiografía	historiography
+history	history
+histórica	historical
+históricamente	historically
+históricas	historical
+histórico	historical
+históricos	historical
+hitler	hitler
+hito	milestone
+hitos	milestones
+hizo	did
+hn	hn
+ho	h2o
+hockey	hockey
+hogar	home
+hogares	homes
+hoja	leave
+hojas	leaves
+holanda	holland
+holandés	dutch
+hollywood	hollywood
+holocausto	holocaust
+hombre	man
+hombres	men
+home	home
+homenaje	tribute
+homeostasis	homeostasis
+homero	homer
+homo	homo
+homogéneo	homogeneous
+homonimia	homonymy
+homosexual	homosexual
+homosexuales	homosexual
+homosexualidad	homosexuality
+homéricos	homeric
+homólogos	counterparts
+homónima	homonyme
+homónimo	homonymic, pertaining to a homonym, pertaining to a word spelled and pronounced as another word but with a different meaning
+honduras	honduras
+hong	hong
+hongo	fungus
+hongos	mushrooms
+honor	honor
+honores	honors
+hop	hop
+hope	hope
+hora	hour
+horario	hours
+horas	hours
+horizontal	horizontal
+horizontales	horizontal
+horizonte	horizon
+hormigón	concrete
+hormona	hormone
+hormonas	hormones
+horno	oven
+hornos	ovens
+hospital	hospital
+hospitales	hospitals
+host	host
+hotel	hotel
+hoteles	hotels
+hotmail	hotmail
+house	house
+howard	howard
+hoy	today
+html	html
+http	http
+hubble	hubble
+hubiera	would have
+hubiese	would have
+hubo	was
+hueco	hole
+huecos	gaps
+huelga	strike
+huella	footprint
+huellas	footprints
+huerta	turn
+hueso	bone
+huesos	bones
+huevo	egg
+huevos	eggs
+hugo	hugo
+huir	run away
+human	human
+humana	human
+humanas	human
+humanidad	humanity
+humanismo	humanism
+humanista	humanist
+humano	human
+humanos	humans
+hume	hume
+humedad	humidity
+humor	humor
+hungría	hungary
+huso	spindle
+hábitat	habitat
+hábitats	habitats
+hábitos	habits
+héctor	hector
+hélice	helix
+héroe	hero
+héroes	heroes
+híbrido	hybrid
+híbridos	hybrids
+hígado	liver
+húmeda	wet
+húmedo	wet
+húmedos	wet
+húngaro	hungarian
+i	i
+ian	ian
+iba	was going
+iban	went
+ibm	ibm
+ibn	ibn
+ibérica	iberian
+icarly	icarly
+ichigo	ichigo
+icono	icon
+idea	idea
+ideal	ideal
+ideales	ideal
+idealismo	idealism
+ideas	ideas
+identidad	identity
+identidades	identities
+identifica	identifies
+identificación	identification
+identificado	identified
+identifican	identify
+identificar	identify
+ideología	ideology
+ideologías	ideologies
+ideológica	ideological
+ideológico	ideological
+idioma	language
+idiomas	languages
+ido	gone
+idénticas	identical
+idéntico	identical
+idénticos	identical
+iglesia	church
+iglesias	churches
+ignacio	gym
+ignorancia	ignorance
+igual	same
+igualdad	equality
+iguales	equal
+igualmente	equally
+ii	ii
+iii	iii
+il	il
+ilegal	illegal
+iluminación	illumination
+iluminados	illuminated
+ilusión	illusion
+ilustración	illustration
+ilustrado	illustrated
+ilustrados	illustrated
+ilíada	iliad
+im	im
+imagen	image
+imaginación	imagination
+imitación	imitation
+imitar	imitate
+immanuel	immanuel
+impacto	impact
+impactos	impacts
+impedir	prevent
+imperial	imperial
+imperialismo	imperialism
+imperio	empire
+imperios	empires
+impide	prevents
+impidió	stopped
+implantación	implantation
+implementación	implementation
+implica	implies
+implicaciones	implications
+implicadas	involved
+implicados	involved
+implican	involve
+impone	imposes
+imponer	impose
+importa	matter
+importaciones	imports
+importación	import
+importancia	importance
+importante	important
+importantes	important
+importar	matter
+imposibilidad	impossibility
+imposible	impossible
+imposición	imposition
+imprenta	printing
+imprescindible	essential
+impresiones	feelings
+impresionismo	impressionism
+impresión	print
+impreso	printed
+impresora	printer
+impresoras	printers
+impuesto	tax
+impuestos	taxes
+impulsado	driven
+impulso	impulse
+impulsos	impulses
+impulsó	impulse
+impuso	imposed
+imágenes	images
+imán	magnet
+in	in
+inc	inc.
+inca	inca
+incapaces	incapable
+incapacidad	inability
+incapaz	unable
+incas	inca
+incendio	fire
+incendios	fires
+incertidumbre	uncertainty
+incidencia	incidence
+incidente	incident
+incidentes	incidents
+inclinación	inclination
+inclinado	inclined
+incluida	included
+incluidas	included
+incluido	included
+incluidos	included
+incluir	include
+inclusive	inclusive
+inclusión	inclusion
+incluso	even
+incluye	including
+incluyen	include
+incluyendo	including
+incluyeron	included
+incluyó	included
+incluía	included
+incluían	included
+incompleta	incomplete
+inconsciente	unconscious
+inconvenientes	disadvantages
+incorpora	incorporates
+incorporación	incorporation
+incorporado	incorporated
+incorporan	incorporate
+incorporando	incorporating
+incorporar	incorporate
+incorporó	incorporated
+incrementa	increases
+incrementado	increased
+incremental	incremental
+incrementando	increasing
+incrementar	increase
+incremento	increase
+incrementos	increments
+incrementó	increase
+incubación	incubation
+independencia	independence
+independiente	independent
+independientemente	independently
+independientes	independent
+india	india
+indias	indian
+indica	indicates
+indicado	indicated
+indicador	indicator
+indicadores	indicators
+indican	indicate
+indicando	indicating
+indicar	indicate
+indicios	clues
+indio	indian
+indios	indians
+indirecta	indirect
+indirectamente	indirectly
+indirecto	indirect
+indispensable	indispensable
+individual	individual
+individuales	individual
+individualismo	individualism
+individuo	individual
+individuos	individuals
+indonesia	indonesia
+inducción	induction
+industria	industry
+industrial	industrial
+industriales	industrial
+industrialización	industrialization
+industrias	industries
+indígena	indigenous
+indígenas	natives
+inercia	inertia
+inercial	inertial
+inestabilidad	instability
+inevitable	inevitable
+infancia	childhood
+infantería	infantry
+infantil	childish
+infantiles	infantile
+infecciones	infections
+infecciosas	infectious
+infección	infection
+infectada	infected
+infectadas	infected
+infectado	infected
+infectados	infected
+infectan	infect
+infectar	infect
+inferior	lower
+inferiores	lower
+infierno	hell
+infinita	infinite
+infinito	infinite
+inflación	inflation
+inflamación	inflamation
+influencia	influence
+influenciada	influenced
+influenciado	influenced
+influenciados	influenced
+influencias	influences
+influenza	influenza
+influido	influenced
+influir	influence
+influjo	influence
+influye	influences
+influyen	influence
+influyente	influential
+influyentes	influential
+influyó	influenced
+informa	informs
+informaciones	informations
+información	information
+informal	informal
+informe	report
+informes	reports
+informática	computing
+informático	computer
+informáticos	it
+informó	found
+infracción	infraction
+infraestructura	infrastructure
+infraestructuras	infrastructures
+ingeniero	engineer
+ingenieros	engineers
+ingeniería	engineering
+ingesta	intake
+inglaterra	england
+inglesa	english
+inglesas	english
+ingleses	english
+inglés	english
+ingredientes	ingredients
+ingresar	go to
+ingreso	entry
+ingresos	income
+ingresó	entry
+inhibe	inhibits
+inhibidores	inhibitors
+inicia	start
+iniciada	started
+iniciado	initiated
+inicial	initial
+iniciales	initial
+inicialmente	initially
+iniciar	start
+iniciaron	started
+iniciativa	initiative
+iniciativas	initiatives
+inicio	start
+inicios	beginning
+inició	start
+inmediata	immediate
+inmediatamente	immediately
+inmediato	immediately
+inmensa	immense
+inmigración	immigration
+inmigrantes	immigrants
+inminente	imminent
+inmune	immune
+inmunidad	immunity
+inmunitario	immune
+innovaciones	innovations
+innovación	innovation
+innumerables	countless
+inquisición	inquisition
+inscripción	inscription
+insectos	insects
+inserción	insertion
+insistió	insisted
+inspiración	inspiration
+inspirada	inspired
+inspiradas	inspired
+inspirado	inspired
+inspirados	inspired
+inspiró	inspired
+instalaciones	installations
+instalación	installation
+instalado	installed
+instalar	install
+instaló	installed
+instancia	instance
+instante	instant
+instantánea	instant
+institucional	institutional
+instituciones	institutions
+institución	institution
+instituto	institute
+instrucciones	instructions
+instrucción	instruction
+instrumental	instrumental
+instrumento	instrument
+instrumentos	instruments
+insuficiencia	inadequacy
+insulina	insulin
+integra	integrates
+integración	integration
+integrada	integrated
+integrado	integrated
+integrados	integrated
+integral	integral
+integran	integrate
+integrante	member
+integrantes	members
+integrar	integrate
+integridad	integrity
+intel	intel
+intelectual	intellectual
+intelectuales	intellectual
+inteligencia	intelligence
+inteligente	intelligent
+inteligentes	smart
+intenciones	intentions
+intención	intention
+intensa	intense
+intensamente	intensely
+intensidad	intensity
+intenso	intense
+intensos	intense
+intenta	try
+intentado	tried
+intentan	try
+intentando	trying
+intentar	try
+intentaron	they tried
+intento	tried
+intentos	attempts
+intentó	tried
+interacciones	interactions
+interacción	interaction
+interactuar	interact
+interactúan	interact
+intercambio	exchange
+intercambios	exchanges
+interesa	interested
+interesado	interested
+interesados	interested
+interesante	interesting
+interesantes	interesting
+intereses	interests
+interfase	interface
+interfaz	interface
+interferencia	interference
+interior	inside
+interiores	interiors
+intermedia	intermediate
+intermedias	intermediate
+intermedio	intermediate
+intermedios	intermediate
+interna	internal
+internacional	international
+internacionales	international
+internacionalmente	internationally
+internas	internal
+international	international
+internet	internet
+interno	internal
+internos	internal
+interpreta	interprets
+interpretaciones	interpretations
+interpretación	interpretation
+interpretada	interpreted
+interpretado	interpreted
+interpretando	interpreting
+interpretar	interpret
+interpretó	interpreted
+interrupción	interruption
+intersección	intersection
+intertropical	intertropical
+intervalo	interval
+intervalos	intervals
+intervenciones	interventions
+intervención	intervention
+intervenir	take part
+interviene	intervenes
+intervienen	intervene
+interés	interest
+intestino	intestine
+introducción	introduction
+introduce	introduce
+introducen	introduce
+introducido	introduced
+introducir	introduce
+introdujeron	introduced
+introdujo	introduced
+intuición	intuition
+intérprete	intrepreter
+intérpretes	interpreters
+inundaciones	floods
+inusual	unusual
+invasiones	invasions
+invasión	invasion
+invención	invention
+inventado	made up
+inventario	inventory
+invento	invention
+inventor	inventor
+inventó	invention
+invernadero	greenhouse
+inversa	inverse
+inversiones	investments
+inversión	investment
+inverso	reverse
+investigaciones	research
+investigación	investigation
+investigador	investigator
+investigadores	researchers
+investigar	research
+invierno	winter
+inviernos	winters
+invitado	invited
+invitados	guests
+invitó	invited
+involucra	involves
+involucradas	involved
+involucrados	involved
+inyección	injection
+ion	ion
+iones	ions
+ip	ip
+ir	go
+ira	go to
+irak	iraq
+irlanda	ireland
+irlandesa	irish
+irlandés	irish
+iron	iron
+irracional	irrational
+irregular	irregular
+irregulares	irregular
+irán	iran
+is	is
+isaac	isaac
+isabel	isabel
+isbn	isbn
+isla	island
+islam	islam
+island	island
+islandia	iceland
+islas	islands
+islámica	islamic
+islámico	islamic
+iso	iso
+israel	israel
+israelí	israeli
+istmo	isthmus
+isótopo	isotope
+isótopos	isotopes
+it	it
+italia	italy
+italiana	italian
+italianas	italian
+italiano	italian
+italianos	italians
+ix	ix
+izquierda	left
+izquierdo	left
+j	j
+jack	jack
+jackson	jackson
+jacob	jacob
+jacques	jacques
+jagger	jagger
+jaime	james
+jam	jam
+jamaica	jamaica
+james	james
+jamás	never
+janeiro	janeiro
+japonesa	japanese
+japonesas	japanese
+japoneses	japanese
+japonés	japanese
+japón	japan
+jardines	gardens
+jardín	garden
+jason	jason
+java	java
+javier	javier
+jazz	jazz
+jedi	jedi
+jefe	boss
+jefes	bosses
+jeff	jeff
+jehová	jehova
+jerarquía	hierarchy
+jersey	jersey
+jerusalén	jerusalem
+jesucristo	jesus christ
+jesús	jesus
+jim	jim
+jimmy	jimmy
+jiménez	jimenez
+joan	joan
+joaquín	joaquin
+joe	joe
+johann	johann
+johannes	johannes
+john	john
+johnny	johnny
+johnson	johnson
+jon	jon
+jonas	jonas
+jones	jones
+jorge	george
+jornada	journey
+joseph	joseph
+josé	joseph
+journal	journal
+joven	young
+jr	jr
+juan	juan
+juana	joan
+judaísmo	judaism
+judea	judea
+judicial	judicial
+judiciales	judicial
+judía	jewish
+judías	jewish
+judío	jew
+judíos	jews
+jueces	judges
+juega	play
+juegan	play
+juego	game
+juegos	games
+juez	judge
+jugado	played
+jugador	player
+jugadores	players
+jugando	playing
+jugar	play
+jugó	played
+juicio	judgment
+juicios	judgement
+julieta	juliet
+julio	july
+jump	jump
+junio	june
+junta	meeting
+juntas	together
+junto	together
+juntos	together
+juramento	oath
+jurisdicción	jurisdiction
+jurídica	legal
+jurídicas	legal
+jurídico	legal
+jurídicos	legal
+justa	fair
+justicia	justice
+justifica	justified
+justificación	justification
+justificar	justify
+justo	fair
+juvenil	youth
+juventud	youth
+jóvenes	young
+júpiter	jupiter
+k	k
+kahlo	kahlo
+kant	kant
+karl	karl
+kaón	kaon
+keith	keith
+kelvin	kelvin
+kepler	kepler
+kevin	kevin
+kids	kids
+kilómetros	kilometers
+king	king
+kiss	kiss
+km²	km2
+kong	kong
+kristen	kristen
+kurt	kurt
+la	the
+label	label
+labios	lips
+labor	work
+laboral	labor
+laborales	labor
+laboratorio	laboratory
+laboratorios	laboratories
+labores	jobs
+lado	side
+lados	sides
+lago	lake
+lagos	lakes
+laguna	lagoon
+lagunas	gaps
+lanza	launches
+lanzada	thrown
+lanzado	released
+lanzados	thrown
+lanzamiento	launch
+lanzamientos	releases
+lanzar	throw
+lanzaron	throw
+lanzó	released
+lapso	lapse
+larga	long
+largas	long
+largo	long
+largos	long
+las	the
+last	last
+latente	latent
+lateral	side
+laterales	lateral
+latin	latin
+latina	latin
+latino	latin
+latinoamericana	latin american
+latinoamericano	latin american
+latinoamericanos	latin american
+latinoamérica	latin america
+latinos	latinos
+latitud	latitude
+latitudes	latitudes
+latín	latin
+lazarillo	guide
+lazos	binds
+lc	lc
+le	you
+lealtad	loyalty
+leche	milk
+lector	reader
+lectores	readers
+lectura	reading
+lecturas	readings
+led	led
+lee	read
+leer	read
+legado	legacy
+legal	legal
+legales	legal
+legalmente	legally
+legislación	legislation
+legislativa	legislative
+legislativo	legislative
+legitimidad	legitimacy
+legión	legion
+legítimo	legitimate
+leibniz	leibniz
+lejano	far
+lejos	far
+lema	motto
+lengua	language
+lenguaje	language
+lenguajes	languages
+lenguas	languages
+lenin	lenin
+lennon	lennon
+lenta	slow
+lentamente	slowly
+lento	slow
+leonard	leonard
+leonardo	leonardo
+lerdo	dull
+les	them
+lesiones	injuries
+lesión	injury
+letonia	latvia
+letra	lyrics
+letras	letters
+leucemia	leukemia
+levaduras	yeast
+levantamiento	raising
+levantar	lift
+leve	mild
+lewis	lewis
+ley	law
+leyenda	legend
+leyendas	legends
+leyes	laws
+leyó	read
+leído	read
+león	lion
+libera	frees
+liberación	release
+liberada	released
+liberado	released
+liberados	released
+liberal	liberal
+liberales	liberals
+liberalismo	liberalism
+liberan	release
+liberar	liberate
+libertad	freedom
+libertades	liberties
+libertador	liberator
+libertario	libertarian
+libia	libya
+libre	free
+libremente	freely
+libres	free
+libro	book
+libros	books
+licencia	license
+licenciado	graduate
+licencias	licenses
+licor	liqueur
+liderado	led
+liderazgo	leadership
+life	life
+liga	league
+ligada	tied to
+ligado	bound
+ligados	linked
+ligas	league
+ligera	light
+ligeramente	slightly
+ligeras	light
+ligero	light
+ligeros	light
+like	like
+lima	lime
+limita	limits
+limitaciones	limitations
+limitación	limitation
+limitada	limited
+limitadas	limited
+limitado	limited
+limitados	limited
+limitar	limit
+limpieza	cleaning
+linaje	lineage
+linajes	lineages
+lincoln	lincoln
+linda	pretty
+lineal	linear
+lineales	linear
+linfocitos	lymphocytes
+linfáticos	lymphatic
+lingüística	linguistics
+lingüísticas	linguistic
+lingüístico	linguistic
+lingüísticos	linguistic
+linkin	linkin
+linneo	linnaeus
+linux	linux
+lipídica	lipid
+lisa	smooth
+lisboa	lisbon
+liso	smooth
+lista	list
+listado	list
+listas	lists
+literal	literal
+literalmente	literally
+literaria	literary
+literarias	literary
+literario	literary
+literarios	literary
+literatura	literature
+little	little
+lituania	lithuania
+live	live
+liverpool	liverpool
+llama	call
+llamaba	called
+llamaban	called
+llamada	call
+llamadas	calls
+llamado	called
+llamados	called
+llamamos	we call
+llaman	call
+llamar	to call
+llamaron	called
+llamarse	called
+llamó	called
+llano	flat
+llanos	plains
+llanura	plain
+llanuras	plains
+llega	arrives
+llegaba	arrived
+llegada	arrival
+llegado	arrived
+llegan	arrive
+llegando	arriving
+llegar	reach
+llegaron	arrived
+llegaría	would arrive
+llegue	arrival
+llegó	got
+llena	full
+lleno	full
+lleva	carries
+llevaba	wore
+llevaban	had on
+llevada	carried
+llevado	led
+llevados	carried
+llevan	carry
+llevar	bring
+llevaron	brought
+llevaría	would carry
+llevó	drove
+lluvia	rain
+lluvias	rains
+lo	the
+lobo	wolf
+local	local
+locales	local
+localidad	location
+localidades	localities
+localiza	located
+localización	location
+localizada	located
+localizado	located
+localmente	locally
+logaritmo	logarithm
+logra	achieve
+logrado	accomplished
+logran	accomplish
+logrando	achieving
+lograr	achieve
+lograron	accomplished
+logro	achievement
+logros	achievements
+logró	achievement
+london	london
+londres	london
+longitud	length
+longitudes	lengths
+lope	lope
+lord	lord
+lorenzo	lorenzo
+los	the
+louis	louis
+louvre	louvre
+lovato	lovato
+love	amor
+lp	lp
+lucas	luke
+luces	lights
+lucha	fight
+luchador	fighter
+luchando	fighting
+luchar	fight
+luchas	fights
+luchó	fought
+lucro	profit
+ludovico	ludovico
+ludwig	ludwig
+luego	then
+lugar	place
+lugares	places
+luis	luis
+lujo	deluxe
+luke	luke
+luminosa	light
+luna	moon
+lunar	lunar
+lunes	monday
+lutero	luther
+luxemburgo	luxembourg
+luz	light
+láctea	milky
+lámina	sheet
+láminas	sheets
+láser	to be
+lázaro	lazaro
+léonard	leonard
+léxico	lexicon
+líbano	lebanon
+líbero	libero
+líder	leader
+líderes	leaders
+límite	limit
+límites	limits
+línea	line
+líneas	lines
+lípidos	lipids
+líquida	liquid
+líquido	liquid
+líquidos	liquids
+lírica	lyric
+lírico	lyrical
+lóbulo	lobe
+lógica	logic
+lógicas	logical
+lógico	logical
+lógicos	logical
+lópez	lopez
+m	m
+ma	ma
+mac	mac
+macedonia	macedonia
+machine	machine
+macho	male
+machos	males
+machu	machu
+macizo	solid
+macondo	macondo
+madera	wood
+maderas	woods
+madero	wood
+madonna	madonna
+madre	mother
+madres	mothers
+madrid	madrid
+maduración	maturity
+madurez	maturity
+maduro	mature
+maestra	teacher
+maestras	teachers
+maestro	teacher
+maestros	teachers
+magdalena	magdalene
+magia	magic
+magna	magna
+magnesio	magnesium
+magnetismo	magnetism
+magnitud	magnitude
+magnitudes	magnitudes
+magno	great
+magnética	magnetic
+magnético	magnetic
+magnéticos	magnetic
+mago	magician
+mahoma	muhammad
+maiden	maiden
+mal	wrong
+mala	bad
+malas	bad
+malo	bad
+malos	bad
+mamíferos	mammals
+man	man
+mancha	mancha
+manchas	spots
+manchester	manchester
+mancomunidad	commonwealth
+mandato	mandate
+mando	comman
+manejar	drive
+manejo	drive
+manera	way
+maneras	ways
+manga	manga
+manhattan	manhattan
+manifestaciones	manifestations
+manifestación	manifestation
+manifestó	manifested
+manifiesta	manifest
+manifiestan	manifest
+manifiesto	manifest
+manipulación	manipulation
+manipular	handle
+mano	hand
+manos	hands
+manson	manson
+mantener	keep
+mantenerse	keep
+mantenido	kept
+manteniendo	keeping
+mantenimiento	maintenance
+mantenía	kept
+mantenían	held
+mantiene	maintains
+mantienen	maintained
+manto	mantle
+mantuvieron	maintained
+mantuvo	maintainted
+manual	manual
+manuel	manuel
+manufactura	manufacture
+manuscrito	manuscript
+manuscritos	manuscripts
+manzana	apple
+mapa	map
+mapas	maps
+maquillaje	makeup
+maquinaria	machinery
+mar	sea
+maracaibo	maracaibo
+maravillas	wonders
+marca	brand
+marcada	marked
+marcado	marked
+marcadores	markers
+marcados	marked
+marcan	mark
+marcar	mark
+marcas	brand
+marcel	marcel
+march	march
+marcha	march
+marco	framework
+marcos	frames
+marcó	framework
+mares	seas
+marfil	ivory
+margarita	margaret
+margen	margin
+marginal	marginal
+maria	maria
+mariano	mariano
+marido	husband
+marie	marie
+marina	marine
+marinas	marine
+marino	marine
+marinos	marine
+mario	mario
+mariscal	marshal
+mark	mark
+marketing	marketing
+marqués	marquis
+marruecos	morocco
+marshall	marshall
+marta	marta
+marte	mars
+martin	martin
+martín	martin
+martínez	martinez
+marxismo	marxism
+marxista	marxist
+marxistas	marxists
+mary	mary
+marzo	march
+maría	maria
+marítima	maritime
+marítimo	maritime
+mas	more
+masa	mass
+masacre	massacre
+masas	masses
+masculina	male
+masculino	male
+masculinos	male
+masiva	massive
+masivas	massive
+masivo	massive
+masivos	massive
+maslow	maslow
+mason	mason
+mastigophora	mastigophora
+masturbación	masturbation
+matar	kill
+match	match
+mate	mate
+matemática	math
+matemáticamente	mathematically
+matemáticas	mathematics
+matemático	mathematical
+matemáticos	mathematicians
+mateo	matthew
+materia	matter
+material	material
+materiales	materials
+materialismo	materialism
+materias	subjects
+materna	maternal
+matrimonio	marriage
+matrimonios	marriages
+matriz	matrix
+matt	matt
+matthew	matthew
+mauricio	mauricio
+max	max
+maximiliano	maximiliano
+maxwell	maxwell
+may	may
+maya	maya
+mayas	mayans
+mayo	may
+mayor	higher
+mayores	majority
+mayoritaria	majority
+mayoritariamente	mostly
+mayormente	mainly
+mayoría	most
+maíz	corn
+mañana	morning
+mc	mc
+mccartney	mccartney
+mcmahon	mcmahon
+me	i
+mecanismo	mechanism
+mecanismos	mechanisms
+mecanizado	mechanized
+mecenas	patron
+mecánica	mechanics
+mecánicas	mechanical
+mecánico	mechanical
+mecánicos	mechanical
+medalla	medal
+medallas	medals
+media	half
+mediados	mid
+mediano	medium
+mediante	through
+medias	average
+medicamentos	medicines
+medicina	medicine
+mediciones	measurements
+medición	measurement
+medida	measure
+medidas	measurements
+medieval	medieval
+medievales	medieval
+medina	medina
+medio	medium
+medioambientales	environmental
+medios	media
+medir	to measure
+mediterránea	mediterranean
+mediterráneo	mediterranean
+meiosis	meiosis
+mejor	best
+mejora	improvement
+mejorado	improved
+mejorando	improving
+mejorar	to improve
+mejoras	improvements
+mejores	top
+mejoró	improved
+mellitus	mellitus
+melodía	melody
+melodías	melodies
+membrana	membrane
+membranas	membranes
+memoria	memory
+memorial	memorial
+memorias	memories
+memphis	memphis
+men	men
+menciona	mentions
+mencionada	mentioned
+mencionadas	mentioned
+mencionado	mentioned
+mencionados	mentioned
+mencionar	mentioned
+mencionó	mentioned
+mención	mention
+mendel	mendel
+mendoza	mendoza
+menor	less
+menores	minors
+menos	less
+mensaje	message
+mensajero	messenger
+mensajes	messages
+mental	mental
+mentales	mental
+mentalidad	mentality
+mente	mind
+menudo	often
+mera	mere
+meramente	merely
+mercaderes	merchants
+mercado	market
+mercados	markets
+mercancías	goods
+mercantilismo	mercantilism
+mercantilistas	mercantilists
+mercosur	mercosur
+mercurio	mercury
+meridional	southern
+mero	mere
+mes	month
+mesa	table
+meses	months
+meseta	plateau
+mesoamericana	mesoamerican
+mesoamericanas	mesoamerican
+mesoamericano	mesoamerican
+mesoamericanos	mesoamericans
+mesoamérica	mesoamerica
+mesopotamia	mesopotamia
+messenger	messenger
+messi	messi
+mestizaje	mixing
+meta	goal
+metabolismo	metabolism
+metabólica	metabolic
+metabólicas	metabolic
+metafísica	metaphysics
+metafísico	metaphysical
+metal	metal
+metales	metals
+metalurgia	metallurgy
+metano	methane
+metas	goals
+metatarso	metatarsus
+metodología	methodology
+metro	meter
+metropolitana	metropolitan
+metros	meters
+metáfora	metaphor
+metálica	metallic
+metálico	metal
+metálicos	metallic
+mexicana	mexican
+mexicano	mexican
+mexicanos	mexicans
+mezcla	mix
+mezclan	mix
+mezclas	mixtures
+mezquita	mosque
+mi	me
+michael	michael
+michaels	michaels
+michel	michel
+mick	mick
+micro	micro
+microondas	microwave
+microorganismos	microorganisms
+microprocesador	microprocessor
+microscopio	microscope
+microsoft	microsoft
+microtúbulos	microtubules
+micrófono	microphone
+mide	measure
+miden	measure
+miedo	fear
+miel	honey
+miembro	member
+miembros	members
+mientras	while
+migraciones	migrations
+migración	migration
+miguel	michael
+mike	mike
+mil	thousand
+milagro	miracle
+milan	milan
+milenio	millennium
+miles	thousands
+militar	military
+militares	military
+miller	miller
+millones	millions
+millón	million
+milán	milan
+minas	mines
+mineral	mineral
+minerales	minerals
+minería	mining
+ministerio	ministry
+ministro	minister
+ministros	ministers
+minoría	minority
+minorías	minorities
+minuto	minute
+minutos	minutes
+miopatía	myopathy
+mira	look
+mirada	look
+mis	my
+misa	mass
+misantropía	misanthropy
+misiles	missile
+misiones	missions
+misión	mission
+misma	same
+mismas	same
+mismo	same
+mismos	same
+misterio	mystery
+mitad	half
+mito	myth
+mitocondrias	mitochondria
+mitología	mythology
+mitos	myths
+mitosis	mitosis
+mixta	mixed
+mixto	mixed
+mm	mm
+moda	fashion
+modalidad	modality
+modalidades	modalities
+modelo	model
+modelos	models
+moderado	moderate
+moderna	modern
+modernas	modern
+modernidad	modernity
+modernismo	modernism
+moderno	modern
+modernos	modern
+modifica	modify
+modificaciones	modifications
+modificación	modification
+modificada	modified
+modificadas	modified
+modificado	modified
+modificar	modify
+modo	mode
+modos	modes
+modulación	modulation
+moisés	moses
+molde	mold
+molecular	molecular
+moleculares	molecular
+molibdeno	molybdenum
+molina	molina
+molinos	mills
+molécula	molecule
+moléculas	molecules
+momento	moment
+momentos	moments
+monarca	king
+monarquía	monarchy
+monarquías	monarchies
+monasterio	monastery
+moneda	coin
+monedas	coins
+monetaria	monetary
+monetario	monetary
+monica	monica
+monitor	monitor
+monitores	monitors
+mono	monkey
+monopolio	monopoly
+monopolios	monopolies
+monopolista	monopolist
+monroe	monroe
+montaje	mounting
+montana	montana
+montaña	montana
+montañas	mountains
+montañosa	mountainous
+montañosas	mountainous
+monte	mountain
+montes	mountains
+montevideo	montevideo
+monumental	monumental
+monumento	monument
+monumentos	monuments
+monómeros	monomers
+moon	moon
+moore	moore
+moral	moral
+morales	moral
+more	more
+morelos	morelos
+morfología	morphology
+morir	die
+mortal	mortal
+mortales	deadly
+mortalidad	mortality
+mosaico	mosaic
+moscú	moscow
+mostraba	showed
+mostrado	displayed
+mostrando	showing
+mostrar	to show
+mostraron	showed
+mostró	showed
+motivación	motivation
+motivo	reason
+motivos	reasons
+motivó	reason
+motor	motor
+motores	motors
+mover	move
+moverse	move
+movilidad	mobility
+movimiento	movement
+movimientos	movements
+mozart	mozart
+mr	mr
+msn	msn
+mt	mt
+mucha	a lot
+muchas	many
+mucho	much
+muchos	many
+mucosa	mucus
+mudó	mute
+muere	dies
+mueren	die
+muerta	dead
+muerte	death
+muertes	deaths
+muerto	dead
+muertos	dead
+muestra	shows
+muestran	show
+muestras	samples
+mueve	move
+mueven	move
+mujer	woman
+mujeres	women
+multimedia	multimedia
+multinacionales	multinationals
+multiplicación	multiplication
+multitud	crowd
+mundial	world
+mundiales	world
+mundialmente	worldwide
+mundo	world
+mundos	worlds
+municipal	municipal
+municipales	municipal
+municipio	municipality
+municipios	municipalities
+murallas	walls
+murieron	died
+murió	died
+muro	wall
+muros	walls
+murphy	murphy
+murray	murray
+muscular	muscular
+musculares	muscular
+museo	museum
+museos	museums
+music	music
+musical	musical
+musicales	musical
+mussolini	mussolini
+musulmana	muslim
+musulmanes	muslims
+musulmán	muslim
+mutaciones	mutations
+mutación	mutation
+mutua	mutual
+mutuamente	mutually
+muy	very
+my	my
+mágico	magic
+málaga	malaga
+mánager	manager
+máquina	machine
+máquinas	machines
+mármol	marble
+márquez	márquez
+más	more
+máscara	mask
+máscaras	masks
+máxima	maximum
+máximas	maximum
+máximo	maximum
+máximos	maximum
+médica	medical
+médicas	medical
+médici	medici
+médico	doctor
+médicos	medical
+médula	spinal
+mérito	merit
+método	method
+métodos	methods
+métrica	metric
+méxico	mexico
+mí	me
+mínima	minimal
+mínimas	minimum
+mínimo	minimum
+mínimos	minimum
+mística	mystical
+módem	modem
+módems	modems
+módulo	module
+módulos	modules
+móvil	mobile
+móviles	mobile
+múltiple	multiple
+múltiples	multiple
+múnich	munich
+músculo	muscle
+músculos	muscles
+música	music
+músico	musician
+músicos	musicians
+n	n
+na	n/a
+nace	born
+nacen	born
+nacer	born
+nacida	born
+nacido	born
+nacidos	born
+naciente	nascent
+nacieron	were born
+nacimiento	birth
+nacional	national
+nacionales	national
+nacionalidad	nationality
+nacionalismo	nationalism
+nacionalista	nationalist
+nacionalistas	nationalists
+naciones	nations
+nació	was born
+nación	nation
+nada	nothing
+nadie	no one
+nanotecnología	nanotechnology
+napoleón	napoleon
+naranja	orange
+nariz	nose
+narra	narrates
+narraciones	narrations
+narrador	narrator
+narrativa	narrative
+narrativo	narrative
+naruto	naruto
+nasa	nasa
+natal	native
+natalidad	birth
+national	national
+nativa	native
+nativo	native
+nativos	natives
+natural	natural
+naturales	natural
+naturaleza	nature
+naturalismo	naturalism
+naturalista	naturalist
+naturalmente	naturally
+naval	naval
+navales	naval
+navarra	navarre
+navarro	navarrese
+nave	ship
+navegación	navigation
+navegador	browser
+navegadores	browsers
+naves	ships
+navidad	christmas
+nazi	nazi
+nazis	nazis
+nazismo	nazism
+necesaria	necessary
+necesariamente	necessarily
+necesarias	necessary
+necesario	necessary
+necesarios	necessary
+necesidad	need
+necesidades	needs
+necesita	needed
+necesitaba	needed
+necesitan	need
+neerlandés	dutch
+negación	denial
+negativa	negative
+negativamente	negatively
+negativas	negative
+negativo	negative
+negativos	negatives
+negociaciones	talks
+negociación	negotiation
+negocio	deal
+negocios	business
+negra	black
+negras	black
+negro	black
+negros	black
+negó	denied
+nelson	nelson
+neoliberalismo	neoliberalism
+neolítico	neolithic
+neruda	neruda
+nervio	nerve
+nervios	nerves
+nerviosas	nervous
+nervioso	nervous
+neta	net
+network	network
+neumonía	pneumonia
+neurona	neuron
+neuronal	neural
+neuronas	neurons
+neutral	neutral
+neutralidad	neutrality
+neutro	neutral
+neutrones	neutrons
+news	news
+newton	newton
+ni	neither
+nicaragua	nicaragua
+nicaragüense	nicaraguan
+nick	nick
+nickelodeon	nickelodeon
+nicolás	nicolas
+niega	denies
+niegan	deny
+nietzsche	nietzsche
+nieve	snow
+night	night
+nikola	nikola
+nilo	nile
+ninguna	none
+ninguno	none
+ningún	no
+ninja	ninja
+nirvana	nirvana
+nitrógeno	nitrogen
+nivel	level
+niveles	levels
+nixon	nixon
+niña	girl
+niñas	girls
+niñez	childhood
+niño	boy
+niños	children
+no	no
+nobel	nobel
+noble	noble
+nobles	noble
+nobleza	nobility
+noche	night
+noches	nights
+nociones	notions
+noción	notion
+nocturna	night
+noel	noel
+nombra	appoints
+nombrado	appointed
+nombrados	named
+nombramiento	appointment
+nombrar	appoint
+nombre	name
+nombres	names
+nombró	named
+nomenclatura	nomenclature
+nominaciones	nominations
+nominación	nomination
+nominada	nominated
+nominado	nominated
+nominal	nominal
+nordeste	northeast
+noreste	northeast
+norma	rule
+normal	normal
+normales	normal
+normalmente	usually
+normas	rules
+normativa	rules
+noroeste	northeastern
+norte	north
+norteamericana	north american
+norteamericano	north american
+norteamérica	north america
+noruega	norway
+nos	us
+nosotros	us
+nostradamus	nostradamus
+nota	note
+notable	remarkable
+notablemente	noticeably
+notables	notable
+notación	notation
+notar	notice
+notas	notes
+note	notice
+noticia	news
+noticias	news
+novedad	novelty
+novedades	news
+novela	novel
+novelas	novels
+novelista	novelist
+noveno	ninth
+noventa	ninety
+novia	girlfriend
+noviembre	november
+novio	boyfriend
+now	now
+nu	nu
+nube	cloud
+nubes	clouds
+nuclear	nuclear
+nucleares	nuclear
+nucleico	nucleic
+nucleicos	nucleic
+nucleótidos	nucleotides
+nuestra	our
+nuestras	our
+nuestro	our
+nuestros	our
+nueva	new
+nuevamente	again
+nuevas	new
+nueve	nine
+nuevo	new
+nuevos	new
+nula	void
+nulo	null
+numeración	numeration
+numerosas	numerous
+numerosos	numerous
+numérica	numerical
+numérico	numeric
+nunca	never
+nutrición	nutrition
+nutrientes	nutrients
+n°	number
+nº	number
+náhuatl	nahuatl
+nápoles	naples
+níquel	nickel
+nótese	notice
+núcleo	core
+núcleos	nuclei
+número	number
+números	numbers
+o	or
+oasis	oasis
+obama	obama
+obesidad	obesity
+obispo	bishop
+obispos	bishops
+objetiva	objective
+objetividad	objectivity
+objetivo	objective
+objetivos	objectives
+objeto	object
+objetos	objects
+obliga	forces
+obligaciones	obligations
+obligación	obligation
+obligada	forced
+obligado	obliged
+obligados	bound
+obligatoria	compulsory
+obligatorio	required
+obligó	forced
+obra	work
+obras	plays
+obregón	obregon
+obrera	worker
+obrero	worker
+obreros	workers
+observa	watch
+observable	observable
+observaciones	observations
+observación	observation
+observado	observed
+observador	observer
+observadores	observers
+observados	observed
+observan	observe
+observando	observing
+observar	observe
+observarse	observed
+observatorio	observatory
+observó	observed
+obstante	nevertheless
+obstáculo	obstacle
+obstáculos	obstacles
+obtención	obtaining
+obtener	get
+obtenida	obtained
+obtenidas	obtained
+obtenido	obtained
+obtenidos	obtained
+obteniendo	getting
+obtenía	got
+obtiene	get
+obtienen	obtained
+obtuvieron	obtained
+obtuvo	got
+obviamente	obviously
+obvio	obvious
+ocasionalmente	occasionally
+ocasiones	occasions
+ocasionó	caused
+ocasión	chance
+occidental	western
+occidentales	western
+occidente	west
+oceanía	oceania
+oceánica	oceanic
+oceánicas	oceanic
+oceánico	oceanic
+ochenta	eighty
+ocho	eight
+ocio	leisure
+octava	eighth
+octavio	octavio
+octubre	october
+ocular	ocular
+oculta	hidden
+ocultar	to hide
+ocupa	occupies
+ocupación	occupation
+ocupada	occupied
+ocupado	occupied
+ocupados	taken
+ocupan	occupy
+ocupando	occupying
+ocupar	occupy
+ocuparon	occupied
+ocupó	occupied
+ocurre	happens
+ocurren	occur
+ocurrido	happened
+ocurrir	occur
+ocurrió	happened
+océano	ocean
+océanos	oceans
+odio	odium, hatred, enmity; odiousness
+odisea	odyssey
+odiseo	odysseus
+oeste	west
+of	of
+ofensiva	offensive
+oferta	offer
+office	office
+oficial	official
+oficiales	official
+oficialmente	officially
+oficina	office
+oficinas	offices
+oficio	job
+ofrece	offers
+ofrecen	offer
+ofrecer	offer
+ofreció	offered
+ofrendas	offerings
+oh	oh
+ojo	eye
+ojos	eyes
+ola	wave
+oleada	wave
+olga	olga
+olmeca	olmec
+olmecas	olmecs
+olvidar	forget
+olímpico	olympic
+olímpicos	olympics
+omar	omar
+oms	who
+once	eleven
+onda	wave
+ondas	waves
+one	one
+online	online
+ono	ono
+ontología	ontology
+onu	un
+op	op
+opciones	options
+opción	option
+opera	opera
+operaciones	operations
+operación	operation
+operador	operator
+operadores	operators
+operar	operate
+operativo	operative
+operativos	operative
+opiniones	opinions
+opinión	opinion
+opone	opposes
+oponen	oppose
+oportunidad	opportunity
+oportunidades	opportunities
+oposición	opposition
+opositores	opponents
+opuesta	opposite
+opuestas	opposites
+opuesto	opposite
+opuestos	opposites
+opuso	opposed
+or	or
+oraciones	prayers
+oración	sentence
+oral	oral
+orbital	orbital
+orbitales	orbital
+orden	order
+ordena	orders
+ordenación	ordination
+ordenada	ordered
+ordenado	organized
+ordenador	computer
+ordenadores	computers
+ordenados	organized
+ordenamiento	organization
+ordenar	order
+ordenó	ordered
+ordinario	ordinary
+organismo	organism
+organismos	organisms
+organiza	organizes
+organizaciones	organizations
+organización	organization
+organizada	organized
+organizadas	organized
+organizado	organized
+organizados	organized
+organizan	organize
+organizar	organize
+organizó	organized
+orgasmo	orgasm
+orgullo	pride
+orgánica	organic
+orgánicas	organic
+orgánico	organic
+orgánicos	organic
+orgánulos	organelles
+orientación	orientation
+orientada	oriented
+orientadas	oriented
+orientado	oriented
+oriental	oriental
+orientales	eastern
+oriente	east
+origen	origin
+origina	originates
+originado	originated
+original	original
+originales	original
+originalidad	originality
+originalmente	originally
+originan	originate
+originaria	original
+originario	original
+originarios	original
+originó	originated
+orillas	shores
+orina	urine
+orinoco	orinoco
+orlando	orlando
+orleans	orleans
+oro	gold
+orozco	orozco
+orquesta	orchestra
+ortega	grouse
+ortodoxa	orthodox
+ortodoxos	orthodox
+ortografía	orthography
+orígenes	origins
+os	you
+oscar	oscar
+oscila	ranges
+oscilación	oscillation
+oscura	dark
+oscuras	dark
+oscuridad	darkness
+oscuro	dark
+oscuros	dark
+oso	bear
+otan	nato
+otomano	ottoman
+otorga	concedes
+otorgado	awarded
+otorgó	awarded
+otoño	fall
+otra	other
+otras	others
+otro	other
+otros	others
+otto	otto
+out	out
+ovario	ovary
+oxford	oxford
+oxidación	oxidation
+oxígeno	oxygen
+ozono	ozone
+oído	ear
+pablo	pablo
+paciente	patient
+pacientes	patients
+pacto	pact
+pacífica	peaceful
+pacífico	peaceful
+padre	father
+padres	parents
+pagar	pay
+page	page
+pago	payment
+pagos	payments
+paisaje	landscape
+paisajes	landscapes
+paja	straw
+pakistán	pakistan
+palabra	word
+palabras	words
+palacio	palace
+palacios	palaces
+paladar	palate
+palanca	lever
+paleolítico	paleolithic
+palestina	palestine
+palestinos	palestinians
+palma	palm
+palos	sticks
+pan	bread
+panamá	panama
+pandemia	pandemic
+pandemias	pandemics
+panorama	panorama
+pantalla	screen
+panteón	pantheon
+panzer	panzer
+papa	potatoe
+papas	potatoes
+papel	paper
+papeles	papers
+papiro	papyrus
+paquete	package
+paquetes	packages
+par	pair
+para	for
+paradigma	paradigm
+paraguay	paraguay
+paraguaya	paraguayan
+paralela	parallel
+paralelamente	parallel
+paralelas	parallel
+paralelo	parallel
+paralelos	parallel
+paramore	paramore
+paraná	parana
+paraíso	paradise
+parcial	partial
+parcialmente	partially
+pardo	brown
+parece	seems
+parecen	seem
+parecer	seem
+parecida	alike
+parecido	similar
+parecía	seemed
+pared	wall
+paredes	walls
+pareja	couple
+parejas	couples
+parentesco	relationship
+pares	pairs
+parientes	relatives
+paris	paris
+park	park
+parker	parker
+parlamentaria	parliamentary
+parlamento	parliament
+parpadeo	flicker
+parque	park
+parques	parks
+parte	part
+parten	come from
+partes	parts
+participa	participates
+participación	participation
+participado	participated
+participan	participate
+participantes	participants
+participar	take part
+participaron	participated
+participó	participated
+particular	particular
+particulares	individuals
+particularidad	particularity
+particularmente	particularly
+partida	party
+partidarios	supporters
+partidas	games
+partido	match
+partidos	parties
+partiendo	cutting
+partir	from now on
+partió	departed
+parto	birth
+party	party
+partícula	particle
+parábola	parable
+parámetro	parameter
+parámetros	parameters
+parásitos	parasites
+paréntesis	parenthesis
+parís	paris
+pasa	pass
+pasaba	happened
+pasadas	past
+pasado	past
+pasados	past
+pasaje	passage
+pasajeros	passengers
+pasajes	passages
+pasan	pass
+pasando	going
+pasar	happen
+pasaron	went
+pascal	pascal
+pascua	easter
+pascual	pascual
+pase	pass
+paseo	walk
+pasiones	passions
+pasivo	passive
+pasión	passion
+paso	step
+pasos	steps
+pasta	pasta
+pasteur	pasteur
+pastores	shepherds
+pasó	went
+patente	patent
+patentes	patents
+patio	backyard
+patito	duckling
+patria	homeland
+patricios	patricians
+patrimonio	heritage
+patrones	patterns
+patrón	pattern
+pattinson	pattinson
+paulatinamente	gradually
+paulo	paulo
+pausa	pause
+pautas	guidelines
+paz	peace
+país	country
+países	countries
+pc	pc
+pe	hence
+pearl	pearl
+pecado	sin
+pecados	sins
+peces	fish
+pecho	chest
+peculiar	peculiar
+pedir	ask
+pedro	pedro
+pekín	beijing
+pelea	fight
+peligro	danger
+peligrosos	dangerous
+pelo	hair
+pelota	ball
+película	movie
+películas	films
+pena	pain
+penal	penal
+penales	penal
+pendiente	pending
+pene	penis
+penetración	penetration
+pensaba	thought
+pensado	thought
+pensador	thinker
+pensadores	thinkers
+pensamiento	thought
+pensamientos	thoughts
+pensando	thinking
+pensar	think
+pensó	thought
+pentium	pentium
+península	peninsula
+peor	worst
+peppers	peppers
+pequeña	little
+pequeñas	little
+pequeño	little
+pequeños	small
+per	per
+percepción	perception
+percibe	perceives
+percibido	perceived
+percibir	perceive
+percusión	percussion
+perder	losing
+perdida	lost
+perdido	lost
+perdidos	lost
+perdiendo	losing
+perdieron	lost
+perdió	lost
+perfección	perfection
+perfecta	perfect
+perfectamente	perfectly
+perfecto	perfect
+perfil	profile
+perfiles	profiles
+periférica	peripheral
+periférico	peripheral
+periféricos	peripheral
+periodismo	journalism
+periodista	journalist
+periodistas	journalists
+periodo	period
+periodos	periods
+periódica	periodic
+periódicamente	periodically
+periódicas	periodic
+periódico	newspaper
+periódicos	newspapers
+permanece	remains
+permanecen	remain
+permanecer	stay
+permanecieron	stayed
+permaneció	remained
+permanencia	permanence
+permanente	permanent
+permanentes	permanent
+permiso	permission
+permita	allow
+permitan	allow
+permite	allows
+permiten	allow
+permitido	permitted
+permitiendo	allowing
+permitieron	allowed
+permitir	allow
+permitiría	allow
+permitió	allowed
+permitía	allowed
+permitían	allowed
+pero	but
+perpendicular	perpendicular
+perro	dog
+perros	dogs
+perry	perry
+persa	persian
+persas	persians
+persecución	persecution
+persona	person
+personaje	character
+personajes	characters
+personal	personal
+personales	personal
+personalidad	personality
+personalidades	personalities
+personalmente	personally
+personas	people
+perspectiva	perspective
+perspectivas	perspective
+pertenece	belongs
+pertenecen	belong
+perteneciente	belonging
+pertenecientes	belonging
+pertenecía	belonged
+pertenencia	belonging
+peruana	peruvian
+peruano	peruvian
+período	period
+períodos	periods
+perón	perón
+perú	peru
+pesada	heavy
+pesado	heavy
+pesados	heavy
+pesar	in spite of
+pesca	fishing
+pescado	fish
+pese	in spite of
+peso	weight
+pesos	weights
+peste	plague
+peter	peter
+petición	petition
+petroglifo	petroglyph
+petróleo	petroleum
+petén	petén
+peña	pain
+ph	ph
+phil	phil
+phoebe	phoebe
+pi	pi
+piaget	piaget
+piano	piano
+pib	gnp
+picasso	picasso
+picchu	picchu
+pico	peak
+picos	peaks
+pide	requests
+pidió	asked
+pie	foot
+piece	piece
+piedad	mercy
+piedra	stone
+piedras	stones
+piel	skin
+piensa	think
+piensan	think
+pierde	looses
+pierden	loose
+piernas	legs
+piero	piero
+pies	feet
+pieza	piece
+piezas	pieces
+pigmentos	pigments
+pilar	pillar
+pilares	pillars
+piloto	pilot
+pinaza	pinnace
+pink	pink
+pino	pine
+pintado	painted
+pintor	painter
+pintores	painters
+pintura	painting
+pinturas	paintings
+pintó	painted
+pionero	pioneer
+pioneros	pioneers
+piratas	pirates
+pirámide	pyramid
+pirámides	pyramids
+piso	floor
+pista	track
+pistas	tracks
+pitt	pitt
+pitágoras	pythagoras
+placa	plate
+placas	plates
+placer	pleasure
+plan	plan
+plana	flat
+planas	flat
+planeado	planned
+planes	plans
+planeta	planet
+planetario	planetary
+planetas	planets
+planificación	planning
+plano	flat
+planos	blueprints
+planta	plant
+plantae	plantae
+plantas	plants
+plantea	raises
+planteamiento	approach
+plantear	pose
+planteó	raised
+plasma	plasma
+plasmática	plasma
+plata	silver
+plataforma	platform
+plataformas	platforms
+platino	platinum
+plato	plate
+platos	dishes
+platón	platon
+playa	beach
+playas	beaches
+plaza	square
+plazas	places
+plazo	term
+please	please
+plebeyos	commoners
+plena	full
+plenamente	fully
+pleno	full
+plomo	lead
+plumas	feathers
+plural	plural
+pluricelulares	multicellular
+plutarco	plutarco
+plántula	seedling
+plásticas	plastic
+plástico	plastic
+plásticos	plastics
+plátano	banana
+pm	pm
+poblacional	population
+poblaciones	populations
+población	population
+poblada	populated
+poblado	populated
+pobladores	settlers
+poblados	towns
+pobre	poor
+pobres	poor
+pobreza	poverty
+poca	little
+pocas	few
+poco	little bit
+pocos	few
+podemos	we can
+poder	power
+poderes	powers
+poderosa	powerful
+poderoso	powerful
+poderosos	powerful
+podido	i have
+podrá	may
+podrán	will be able
+podría	could
+podríamos	could
+podrían	could
+podía	could
+podían	they could
+poe	poe
+poema	poem
+poemas	poems
+poesía	poetry
+poeta	poet
+poetas	poets
+polaco	polish
+polar	polar
+polares	polar
+polarización	polarization
+polen	pollen
+policial	police
+policía	police
+polimerasa	polymerase
+polimerización	polymerization
+polinomio	polynomial
+polinomios	polynomials
+polo	pole
+polonia	poland
+polos	poles
+polvo	dust
+polémica	controversy
+polémicas	controversial
+polígono	polygon
+polímero	polymer
+polímeros	polymers
+política	politics
+políticamente	politically
+políticas	policies
+político	political
+políticos	politicians
+pone	places
+ponen	put
+poner	place
+ponerse	set
+poniendo	putting
+pop	pop
+popper	popper
+popular	popular
+populares	popular
+popularidad	popularity
+popularizó	popularized
+popularmente	popularly
+por	by
+porcentaje	percentage
+porcentajes	percentages
+porcina	swine
+porción	portion
+porfiriato	porfiriato
+porfirio	porfirio
+pornografía	pornography
+poros	pores
+porque	why
+porqué	why
+porta	holder
+portaaviones	aircraft carrier
+portada	front
+portadores	carriers
+portal	portal
+portería	goal
+portugal	portugal
+portuguesa	portuguese
+portugueses	portuguese
+portugués	portuguese
+portátiles	laptops
+porvenir	future
+posee	has
+poseen	have
+poseer	own
+posesiones	possessions
+posesión	possession
+poseía	possessed
+poseían	possessed
+posguerra	postwar
+posibilidad	possibility
+posibilidades	possibilities
+posible	possible
+posiblemente	possibly
+posibles	possible
+posiciones	positions
+posición	position
+positiva	positive
+positivas	positive
+positivismo	positivism
+positivo	positive
+positivos	positive
+post	post
+posterior	later
+posteriores	later
+posterioridad	posteriority
+posteriormente	later
+postes	poles
+postula	postulate
+postulado	postulate
+postulados	postulates
+postura	position
+posturas	postures
+potable	potable
+potasio	potassium
+potencia	power
+potencial	potential
+potenciales	potential
+potencialmente	potentially
+potencias	powers
+potente	powerful
+potentes	powerful
+potosí	potosí
+potter	potter
+powerpoint	powerpoint
+poética	poetic
+poético	poetic
+pp	partido popular
+practica	practice
+practicado	practiced
+practican	practice
+practicar	practice
+prado	meadow
+praga	prague
+precede	precedes
+precedente	precedent
+precedentes	precedents
+preceptos	precepts
+precio	price
+precios	prizes
+precipitaciones	showers
+precipitación	precipitation
+precisa	accurate
+precisamente	precisely
+precisas	accurate
+precisión	precision
+preciso	precise
+precisos	accurate
+preclásico	preclassic
+precolombina	pre-columbian
+precursor	precursor
+precursores	pioneers
+predecesor	predecessor
+predecir	predict
+predicado	predicate
+predicciones	predictions
+predomina	predominates
+predominan	predominate
+predominante	predominant
+predominantemente	predominantly
+predominio	predominance
+preferencia	preference
+preferentemente	preferably
+prefieren	prefer
+prefijo	prefix
+pregunta	question
+preguntas	questions
+preguntó	ask
+prehistoria	prehistory
+prejuicios	prejudice
+premier	premier
+premio	prize
+premios	awards
+premisa	premise
+premisas	premises
+prensa	press
+preocupaciones	concerns
+preocupación	concern
+prepara	prepare
+preparación	preparation
+preparado	prepared
+preparar	prepare
+prepucio	foreskin
+presencia	presence
+presenta	presents
+presentaba	presented
+presentaciones	presentations
+presentación	presentation
+presentado	presented
+presentados	presented
+presentan	present
+presentando	presenting
+presentar	present
+presentaron	presented
+presentarse	present themselves
+presente	present
+presentes	present
+presentó	presented
+preservación	preservation
+preservar	preserve
+presidencia	presidency
+presidencial	presidential
+presidenciales	presidential
+presidente	president
+presidentes	presidents
+presión	pressure
+presley	presley
+presos	prisoners
+press	press
+prestaciones	benefits
+prestigio	prestige
+presupuesto	budget
+pretende	looking for
+pretendía	intended
+prevalencia	prevalence
+prevención	prevention
+prevenir	to prevent
+previa	previous
+previamente	previously
+previas	previous
+previo	previous
+previos	previous
+previsto	provided
+prima	cousin
+primaria	primary
+primarias	primary
+primario	primary
+primarios	primary
+primas	cousins
+primates	primates
+primavera	spring
+primer	first
+primera	first
+primeras	first
+primero	first
+primeros	first
+primitiva	primitive
+primitivas	primitive
+primitivo	primitive
+primitivos	primitive
+primo	cousin
+primordial	primordial
+primos	cousins
+princesa	princess
+principal	principal
+principales	main
+principalmente	mainly
+principio	beginning
+principios	beginning
+priori	priori
+prioridad	priority
+prisionero	prisoner
+prisioneros	prisoners
+prisión	prison
+privada	private
+privadas	private
+privado	private
+privados	private
+privilegiados	privileged
+privilegio	privilege
+privilegios	privileges
+pro	pro
+probabilidad	probability
+probabilidades	probabilities
+probable	probable
+probablemente	probably
+probar	try
+problema	problem
+problemas	problems
+problemática	problematic
+procariotas	prokaryotes
+procede	proceed
+proceden	come
+procedente	coming
+procedentes	coming
+proceder	proceed
+procedimiento	process
+procedimientos	procedures
+procesador	processor
+procesadores	processors
+procesamiento	prosecution
+procesar	process
+proceso	process
+procesos	processes
+proclamó	proclaimed
+producciones	productions
+producción	production
+produce	produces
+producen	produce
+producida	produced
+producidas	produced
+producido	produced
+producidos	produced
+produciendo	producing
+producir	produce
+producirse	occur
+productividad	productivity
+productivo	productive
+productivos	productive
+producto	product
+productor	producer
+productora	producer
+productores	producers
+productos	products
+producía	produced
+produjeron	produced
+produjo	produced
+produzca	produce
+profase	prophase
+profesional	professional
+profesionales	professionals
+profesión	profession
+profesor	professor
+profesores	teachers
+profeta	prophet
+profunda	deep
+profundamente	deeply
+profundas	deep
+profundidad	depth
+profundo	deep
+profundos	deep
+programa	program
+programación	programming
+programador	programmer
+programas	programs
+progresiva	progressive
+progresivamente	progressively
+progresivo	progressive
+progresión	progression
+progreso	progress
+prohibición	prohibition
+prohibido	prohibited
+prohibió	banned
+project	project
+proletariado	proletariat
+proliferación	proliferation
+prolongación	extension
+prolongada	prolonged
+promedio	average
+promesa	promise
+promocionar	promote
+promoción	promotion
+promover	promote
+promueve	promotes
+promueven	promote
+pronombres	pronouns
+pronto	soon
+pronunciación	pronunciation
+pronóstico	forecast
+propaga	propagate
+propagación	spread
+propagan	spread
+propaganda	advertising
+propia	own
+propiamente	properly
+propias	own
+propició	led
+propiedad	property
+propiedades	properties
+propietario	owner
+propietarios	owners
+propio	own
+propios	own
+propone	proposes
+proponen	propose
+proponer	propose
+proponía	proposed
+proporciona	provides
+proporcional	proportional
+proporcionan	provide
+proporcionar	provide
+proporciones	proportions
+proporcionó	provided
+proporción	proportion
+proposiciones	propositions
+proposición	proposition
+propuesta	proposal
+propuestas	proposals
+propuesto	proposed
+propuso	proposed
+propósito	purpose
+propósitos	purposes
+prosa	prose
+prosperidad	prosperity
+protagonismo	leadership
+protagonista	protagonist
+protagonistas	protagonists
+protagonizada	starring
+protagonizó	starred
+protección	protection
+protector	protector
+protege	protects
+proteger	protect
+protegidas	protected
+protegido	protected
+protegidos	protected
+proteica	protein
+protesta	protest
+protestante	protestant
+protestantes	protestants
+protestantismo	protestantism
+protestas	protests
+proteína	protein
+proteínas	protein
+protistas	protists
+protocolo	protocol
+protocolos	protocols
+protones	protons
+protón	proton
+proudhon	proudhon
+provee	provides
+proveer	provide
+proveniente	coming
+provenientes	coming
+proviene	comes from
+provienen	come from
+provincia	province
+provincial	provincial
+provinciales	provincial
+provincias	provinces
+provisional	provisional
+provoca	provokes
+provocada	provoked
+provocado	caused
+provocan	provoke
+provocando	causing
+provocar	bring about
+provocaron	provoked
+provocó	provoked
+proyecciones	projections
+proyección	projection
+proyecto	project
+proyectos	projects
+prueba	test
+pruebas	tests
+prusia	prussia
+práctica	practice
+prácticamente	practically
+prácticas	practices
+práctico	practical
+prácticos	practical
+préstamos	loans
+príncipe	prince
+príncipes	princes
+prólogo	prelude
+próxima	next
+próximas	next
+próximo	next
+próximos	next
+psicoanálisis	psychoanalysis
+psicología	psychology
+psicológica	psychological
+psicológico	psychological
+psicológicos	psychological
+psicoterapia	psychotherapy
+publica	publishes
+publicaciones	publishings
+publicación	publication
+publicada	published
+publicadas	published
+publicado	published
+publicados	published
+publicar	to publish
+publicaron	published
+publicidad	advertising
+publicó	public
+pudiendo	enabling
+pudiera	could
+pudieran	they could
+pudieron	could
+pudiese	could
+pudo	could
+puebla	people
+pueblo	village
+pueblos	towns
+pueda	can
+puedan	can
+puede	may
+pueden	pueden
+puente	bridge
+puentes	bridges
+puerta	door
+puertas	doors
+puerto	port
+puertos	ports
+pues	well
+puesta	put
+puesto	position
+puestos	posts
+pulmonar	pulmonary
+pulmones	lungs
+punk	punk
+punta	tip
+puntas	points
+punto	point
+puntos	points
+puntuación	punctuation
+puntual	punctual
+puntuales	punctual
+pura	pure
+puramente	purely
+puras	pure
+pureza	purity
+puro	pure
+puros	pures
+pusieron	put
+puso	put
+página	page
+páginas	pages
+pájaros	birds
+páncreas	pancreas
+párrafo	paragraph
+pérdida	lost
+pérdidas	losses
+pérez	perez
+pétalos	petals
+pío	principle,
+pública	public
+públicamente	publicly
+públicas	public
+público	public
+públicos	public
+q	what
+que	than
+quebec	quebec
+quechua	quechua
+queda	remains
+quedaba	left
+quedaban	remained
+quedado	left
+quedan	remain
+quedando	being
+quedar	stay
+quedaron	staid
+quedarse	stay
+quedaría	remain
+quedó	stayed
+quema	burning
+querer	want
+querido	dear
+quería	wanted
+querían	wanted
+quien	who
+quienes	who
+quiera	want
+quiere	wants
+quieren	want
+quiero	i want
+quijote	quixote
+quince	fifteen
+quinetoscopio	quinetoscope
+quinona	quinone
+quinta	fifth
+quinto	fifth
+quiso	wanted
+quito	quito
+quizá	maybe
+quizás	maybe
+quién	who
+qué	than
+química	chemistry
+químicas	chemical
+químico	chemical
+químicos	chemical
+r	r
+ra	ra
+rachel	rachel
+racial	racial
+raciales	racial
+racional	rational
+racionales	rational
+racionalismo	rationalism
+racismo	racism
+radiaciones	radiation
+radiación	radiation
+radiactivos	radioactive
+radica	lies
+radical	radical
+radicales	radical
+radicalmente	radically
+radio	radio
+radios	radios
+ram	ram
+rama	branch
+ramas	branches
+rammstein	rammstein
+ramón	ramon
+rango	rank
+rap	rap
+rapidez	speed
+rara	rarely
+raramente	rarely
+raras	rare
+raro	rare
+rasgo	feature
+rasgos	features
+ratón	mouse
+ray	ray
+rayo	lightning
+rayos	ray
+raza	race
+razas	races
+razonamiento	reasoning
+razones	reasons
+razón	reason
+raíces	estate
+raíz	root
+raúl	raul
+rb	rb
+re	re
+reacciona	reacts
+reacciones	reactions
+reacción	reaction
+reactor	reactor
+reactores	reactors
+real	real
+reales	real
+realice	perform
+realidad	reality
+realismo	realism
+realista	realistic
+realistas	realistic
+realiza	makes
+realizaba	performed
+realizaban	performed
+realización	realization
+realizada	made
+realizadas	made
+realizado	accomplished
+realizados	made
+realizan	perform
+realizando	doing
+realizar	perform
+realizaron	they performed
+realizarse	perform
+realizó	made
+realmente	really
+rebelde	rebel
+rebeldes	rebels
+rebelión	rebellion
+recepción	reception
+receptor	receiver
+receptores	receivers
+rechaza	denies
+rechazada	rejected
+rechazado	rejected
+rechazan	reject
+rechazar	reject
+rechazo	rejection
+rechazó	rejection
+recibe	receives
+reciben	receive
+recibida	received
+recibido	received
+recibiendo	receiving
+recibieron	received
+recibir	receive
+recibió	received
+recibía	received
+reciclado	recycling
+reciclaje	recycling
+reciente	recent
+recientemente	recently
+recientes	recent
+recinto	enclosure
+recipiente	container
+recién	newly
+reclutamiento	recruitment
+recoge	pick up
+recogen	collect
+recoger	collect
+recolección	recollection
+recombinación	recombination
+recomendable	recommendable
+recomendaciones	recommendations
+recomendación	recommendation
+recomienda	recommends
+reconciliación	reconciliation
+reconoce	recognize
+reconocen	recognize
+reconocer	recognize
+reconocida	recognized
+reconocidas	recognized
+reconocido	recognized
+reconocidos	recognized
+reconocimiento	recognition
+reconocimientos	surveys
+reconoció	recognized
+reconocía	recognized
+reconstrucción	reconstruction
+reconstruir	rebuild
+recopilación	compilation
+recopilatorio	compilation
+recordar	remember
+recorre	runs
+recorrer	travel
+recorrido	travel
+recreación	recreation
+recta	straight
+rectas	straight
+recto	straight
+rectángulo	rectangle
+rectángulos	rectangles
+recuerda	remember
+recuerdo	memory
+recuerdos	memories
+recuperación	recovery
+recuperar	recover
+recurrente	recurrent
+recurrentes	recurring
+recurrir	appeal
+recurso	resource
+recursos	means
+red	net
+redacción	drafting
+redes	nets
+reducción	reduction
+reduce	reduces
+reducen	reduce
+reducida	reduced
+reducido	reduced
+reduciendo	reducing
+reducir	reduce
+redujo	reduced
+reelección	re-election
+reemplazado	replaced
+reemplazar	replace
+reemplazo	replacement
+referencia	reference
+referencias	references
+referente	referent
+referentes	references
+referido	referred
+referirse	refer
+referéndum	referendum
+refiere	refers
+refieren	refer
+refinado	refined
+refiriéndose	referring
+refleja	reflects
+reflejado	reflected
+reflejan	reflect
+reflejar	reflect
+reflejo	reflection
+reflexiones	reflections
+reflexión	reflection
+reforma	reform
+reformas	reforms
+refrigeración	refrigeration
+refugiados	refugees
+regalo	present
+regalos	presents
+regeneración	regeneration
+reggae	reggae
+regional	regional
+regionales	regional
+regiones	regions
+registrada	registered
+registrado	registered
+registrados	registered
+registran	register
+registrar	record
+registro	registry
+registros	records
+región	region
+regla	rule
+reglamento	regulation
+reglas	rules
+regresa	returns
+regresar	come back
+regreso	return
+regresó	return
+regula	regulates
+regulación	regulation
+regulan	regulate
+regular	regular
+regulares	regular
+regularmente	regularly
+regímenes	regimes
+rehabilitación	rehabilitation
+reich	reich
+reina	queen
+reinado	reign
+reino	kingdom
+reinos	kingdoms
+reivindicaciones	claims
+relaciona	relates
+relacionada	related
+relacionadas	related
+relacionado	related
+relacionados	related
+relacionan	relate
+relaciones	relationships
+relación	relationship
+relajación	relaxation
+relata	relates
+relativa	relative
+relativamente	relatively
+relativas	relative
+relatividad	relativity
+relativista	relativistic
+relativo	relative
+relativos	relative
+relato	story
+relatos	stories
+relevancia	relevance
+relevante	relevant
+relevantes	relevant
+relieve	relief
+relieves	reliefs
+religiones	religions
+religiosa	religious
+religiosas	religious
+religioso	religious
+religiosos	religious
+religión	religion
+reliquias	relic
+reloj	clock
+relojes	watches
+remedios	remedies
+remonta	overcomes
+remontan	come back
+renacentista	renaissance
+renacimiento	renaissance
+renal	renal
+rendición	surrender
+rendimiento	performance
+renombre	renown
+renovable	renewable
+renovables	renewable
+renovación	renewal
+renta	rent
+renuncia	resignation
+renunció	quit
+rené	rene
+reología	rheology
+reparación	repair
+reparto	distribution
+repercusiones	repercussions
+repercusión	repercussion
+repertorio	repertoire
+repetición	repetition
+repetidas	repeated
+repetir	repeat
+repite	repeat
+replicación	replication
+reposo	rest
+representa	represents
+representaba	represented
+representaban	represented
+representaciones	representations
+representación	representation
+representada	represented
+representadas	represented
+representado	represented
+representados	represented
+representan	represent
+representando	representing
+representante	representative
+representantes	representatives
+representar	represent
+representativa	representative
+representativo	representative
+representativos	representative
+representó	represented
+represión	repression
+reproducción	reproduction
+reproducen	reproduce
+reproducir	play
+reproducirse	reproduce
+reproductiva	reproductive
+reproductivo	reproductive
+reproductor	player
+reptiles	reptiles
+republicana	republican
+republicano	republican
+republicanos	republicans
+reputación	reputation
+república	republic
+repúblicas	republics
+requerido	required
+requerimientos	requirements
+requiere	requires
+requieren	require
+requisito	requirement
+requisitos	requirements
+resaltar	highlight
+rescate	rescue
+research	research
+reserva	reserve
+reservas	reserves
+reside	resides
+residencia	home
+residentes	residents
+residuales	residual
+residuos	waste
+resistencia	resistance
+resistencias	resistences
+resistente	resistant
+resistentes	resistant
+resistir	resist
+resolución	resolution
+resolver	resolve
+resonancia	resonance
+respaldo	back
+respectivamente	respectively
+respectivas	respective
+respectivos	respective
+respecto	respect
+respetar	respect
+respeto	respect
+respiración	breathing
+respiratoria	respiratory
+respiratorias	respiratory
+respiratorio	respiratory
+responde	reacts
+responden	respond
+responder	answer
+respondió	answered
+responsabilidad	responsibility
+responsable	responsible
+responsables	responsible
+respuesta	response
+respuestas	answers
+resta	subtraction
+restantes	remaining
+restauración	restoration
+restaurantes	restaurants
+resto	rest
+restos	remains
+restricciones	restrictions
+restricción	restriction
+restringido	restricted
+resuelto	resolved
+resulta	result
+resultaba	resulted
+resultado	result
+resultados	results
+resultan	result
+resultando	resulting
+resultante	resulting
+resultar	result
+resultaron	turned out
+resultó	turned out
+resumen	summary
+resurrección	resurrection
+retina	retina
+retirada	withdrawal
+retirado	retired
+retirar	remove
+retirarse	retire
+retiro	retirement
+retiró	retirement
+retorno	return
+retraso	delay
+retrato	portrait
+retratos	pictures
+retroalimentación	feedback
+retículo	reticle
+retórica	rhetoric
+reunieron	gathered
+reuniones	meetings
+reunir	gather
+reunirse	get together
+reunió	met
+reunión	meeting
+revela	reveals
+revelación	revelation
+revelan	reveal
+reveló	revealed
+revisión	review
+revista	magazine
+revistas	journals
+revolucionaria	revolutionary
+revolucionarias	revolutionary
+revolucionario	revolutionary
+revolucionarios	revolutionaries
+revoluciones	revolutions
+revolución	revolution
+revuelta	revolt
+revueltas	revolts
+revés	reverse
+rey	king
+reyes	kings
+reúne	gathers
+reúnen	gather
+rhythm	rhythm
+ribosomas	ribosomes
+rica	rich
+ricardo	richard
+ricas	rich
+richard	richard
+rico	rich
+ricos	rich
+riesgo	risk
+riesgos	risks
+rige	rules
+rigen	prevail
+rights	rights
+rigidez	rigidity
+rigor	rigor
+rihanna	rihanna
+rima	rhyme
+rimas	rhymes
+rin	rim
+ring	ring
+riqueza	wealth
+riquezas	riches
+ritmo	rhythm
+ritmos	rhythms
+rito	rite
+ritos	rites
+ritual	ritual
+rituales	rituals
+rival	rival
+rivales	rivals
+rivalidad	rivalry
+rivera	rivera
+riñones	kidneys
+riñón	kidney
+road	road
+robert	robert
+roberto	robert
+roca	rock
+rocas	rocks
+rock	rock
+rodaje	filming
+rodas	rhodes
+rodea	surrounds
+rodeada	surrounded
+rodeado	surrounded
+rodeados	surrounded
+rodean	surround
+rodrigo	rodrigo
+rodríguez	rodriguez
+roger	roger
+roja	red
+rojas	red
+rojo	red
+rojos	red
+rol	role
+roll	roll
+rolling	rolling
+roma	rome
+roman	roman
+romana	roman
+romanas	roman
+romance	romance
+romances	romance
+romano	roman
+romanos	romans
+romanticismo	romanticism
+romboide	rhomboid
+romeo	romeo
+romero	rosemary
+rompe	breaks
+romper	break
+rompió	broke
+romántica	romantic
+romántico	romantic
+románticos	romantic
+ron	rum
+ronald	ronald
+ronaldo	ronaldo
+ronda	round
+ropa	clothes
+rosa	rose
+rosario	rosary
+rosas	roses
+rose	rose
+roses	roses
+rostro	face
+rotación	rotation
+rousseau	rousseau
+rowling	rowling
+roy	roy
+royal	royal
+rss	rss
+rubén	ruben
+rudolf	rudolf
+rueda	wheel
+ruedas	wheel
+rugby	rugby
+ruido	noise
+ruinas	ruins
+ruiz	ruiz
+rukia	rukia
+rumania	romania
+rumanía	romania
+rumbo	course
+rumores	rumors
+ruptura	rupture
+rural	rural
+rurales	rural
+rusa	russian
+rusia	russia
+ruso	russian
+rusos	russians
+russell	russell
+ruta	route
+rutas	routes
+rutherford	rutherford
+rápida	fast
+rápidamente	quickly
+rápidas	fast
+rápido	quick
+rápidos	rapid
+récord	record
+récords	records
+régimen	regime
+rígida	rigid
+rígido	rigid
+río	river
+ríos	rivers
+rítmica	rhythmic
+rómulo	romulus
+s	s
+sabana	savannah
+sabbath	sabbath
+sabe	knows
+sabemos	we know
+saber	to know
+sabiduría	wisdom
+sabio	wise
+sabor	taste
+sabía	knew
+sabían	knew
+sacar	take
+sacerdote	priest
+sacerdotes	priests
+sacrificio	sacrifice
+sacrificios	sacrifices
+sacro	sacral
+sacó	bag
+saga	saga
+sagrada	sacred
+sagrado	sacred
+sagrados	sacred
+sahara	sahara
+saint	saint
+sal	salt
+sala	room
+salamanca	salamanca
+salario	salary
+salarios	wages
+salas	rooms
+sale	leaves
+salen	leave
+sales	salts
+salida	access
+salieron	were released
+salir	leave
+saliva	saliva
+salió	released
+salomón	solomon
+salto	jump
+salud	health
+saludable	healthy
+salvación	salvation
+salvador	salvador
+salvaje	wild
+salvajes	wild
+salvar	save
+salvo	except
+salón	class room
+sam	sam
+samuel	samuel
+san	saint
+sana	healthy
+sancho	sancho
+sanción	sanction
+sangre	blood
+sanguínea	circulatory
+sanguíneo	sanguinary
+sanguíneos	blood
+sanidad	health
+sanitaria	sanitary
+sanitario	sanitary
+santa	holy
+santiago	santiago
+santo	holy
+santos	saints
+sapiens	sapiens
+saque	took out
+sartre	sartre
+sasuke	sasuke
+satisfacción	satisfaction
+satisfacer	satisfy
+saturno	saturn
+satélite	satellite
+satélites	satellites
+school	school
+science	science
+scott	scott
+scriptstyle	scriptstyle
+se	did
+sea	be
+sean	be
+sebastian	sebastian
+sebastián	sebastian
+seca	dry
+secas	dry
+secciones	sections
+sección	section
+seco	dry
+secos	dried
+secreciones	secretions
+secreción	secretion
+secreta	secret
+secretario	secretary
+secretaría	secretary
+secreto	secret
+secretos	secrets
+sector	sector
+sectores	sectors
+secuela	sequel
+secuencia	sequence
+secuencias	sequences
+secular	secular
+secundaria	high school
+secundarias	secondary
+secundario	secondary
+secundarios	secondary
+sede	headquarters
+sedes	headquarters
+sedimentos	sediment
+segmento	segment
+segmentos	segments
+segovia	segovia
+segregación	segregation
+seguida	followed
+seguido	following
+seguidores	followers
+seguidos	followed
+seguimiento	monitoring
+seguir	follow
+segunda	second
+segundo	second
+segundos	seconds
+segura	safe
+seguramente	surely
+seguridad	security
+seguro	safe
+seguros	insurance
+seguía	still
+seguían	continue to
+según	according
+seis	six
+seiyū	seiyü
+seleccionados	selected
+seleccionar	select
+selecciones	selections
+selección	national team
+selectiva	selective
+selenio	selenium
+sello	stamp
+sellos	seal
+selva	jungle
+selvas	jungles
+semana	week
+semanas	weeks
+semejante	similar
+semejantes	alike
+semejanza	resembling
+semejanzas	similarities
+semen	semen
+semiconductor	semiconductor
+semillas	seeds
+semántica	semantics
+sen	sen
+senado	senate
+senadores	senators
+sencilla	simple
+sencillas	simple
+sencillo	simple
+sencillos	simple
+seno	sinus
+sensaciones	sensations
+sensación	sensation
+sensibilidad	sensitivity
+sensible	sensitive
+sensibles	sensitive
+sensorial	sensory
+sensoriales	sensory
+sentado	sitting
+sentencia	judgment
+sentido	sense
+sentidos	senses
+sentimental	sentimental
+sentimiento	feeling
+sentimientos	feelings
+sentir	feel
+sentirse	feel
+sentía	felt
+separa	separates
+separación	separation
+separada	separated
+separadas	separated
+separado	separated
+separados	separated
+separan	separate
+separar	separate
+separarse	seperate
+septentrional	northern
+septiembre	september
+ser	be
+serbia	servian
+serena	collected
+seres	beings
+seria	would be
+seriamente	seriously
+serie	series
+series	series
+serio	serious
+serios	serious
+serlo	be
+serna	serna
+serpiente	snake
+serrano	mountain highland
+service	service
+servicio	service
+servicios	services
+servido	served
+servidor	server
+servidores	servers
+servir	serve
+será	be
+serán	will be
+sería	would be
+serían	would
+sesenta	sixty
+sesiones	sessions
+sesión	session
+set	set
+setenta	seventy
+severo	severe
+sevilla	seville
+sex	sex
+sexo	sex
+sexos	sexes
+sexta	sixth
+sexto	sixth
+sexual	sexual
+sexuales	sexual
+sexualidad	sexuality
+sexualmente	sexually
+señal	signal
+señala	points
+señalado	indicated
+señalan	point
+señalar	point
+señales	signs
+señaló	pointed
+señor	sir
+señora	ms
+señores	sirs
+shakespeare	shakespeare
+shakira	shakira
+sheldon	sheldon
+shift	shift
+shinigami	shinigami
+show	show
+shōnen	shonen
+si	yes
+sialorrea	sialorrhea
+sicilia	sicily
+sida	aids
+sido	been
+siempre	always
+siendo	being
+siente	feel
+sienten	feel
+sierra	saw
+sierras	saws
+siervos	serf
+siete	seven
+siglas	acronym
+siglo	century
+siglos	centuries
+sigmund	sigmund
+significa	signifies
+significaba	meant
+significación	significance
+significado	meaning
+significados	meanings
+significar	to mean
+significativa	significant
+significativamente	significantly
+significativas	significant
+significativo	significant
+significativos	significant
+significó	meant
+signo	sign
+signos	signs
+sigue	follow
+siguen	continue
+siguiendo	following
+siguiente	following
+siguientes	following
+siguieron	continued
+siguió	followed
+silencio	silence
+silicio	silicon
+silla	chair
+silva	silva
+simbolismo	symbolism
+simboliza	symbolizes
+simbólica	symbolic
+simbólico	symbolic
+simetría	symmetry
+similar	similar
+similares	similar
+similitud	similarity
+similitudes	similarities
+simon	simon
+simpatía	sympathy
+simple	simple
+simplemente	simply
+simples	simple
+simplificar	simplify
+simpson	simpson
+simultánea	simultaneous
+simultáneamente	simultaneously
+simón	simon
+sin	without
+sinaí	sinai
+sindicatos	unions
+sinfonía	symphony
+sinfonías	symphonies
+sinfónica	symphony
+single	single
+singular	singular
+singularidad	singularity
+sino	except
+sintagma	syntagma
+sintaxis	syntax
+sintetizar	synthesize
+sintió	heard
+sintético	synthetic
+sinónimo	synonymous
+sinónimos	synonyms
+siquiera	even
+siria	syria
+sirve	works
+sirven	served
+sirvieron	served
+sirvió	served
+sistema	system
+sistemas	systems
+sistemática	systematic
+sistemático	systematic
+sitio	site
+sitios	sites
+situaciones	situations
+situación	situation
+situada	situated
+situadas	situated
+situado	located
+situados	situated
+sitúa	locates
+sitúan	place
+slipknot	slipknot
+smith	smith
+so	so
+soberano	sovereign
+soberanía	sovereignty
+sobre	about
+sobrenatural	supernatural
+sobrenombre	nickname
+sobresalen	stand out
+sobrevivir	survive
+sobrino	nephew
+social	social
+sociales	social
+socialismo	socialism
+socialista	socialist
+socialistas	socialists
+socialmente	socially
+sociedad	society
+sociedades	societies
+society	society
+socio	partner
+sociología	sociology
+socios	partners
+sodio	sodium
+sofía	sofia
+sol	sun
+sola	alone
+solamente	only
+solar	solar
+solares	solar
+soldado	soldier
+soldados	soldiers
+soldadura	welding
+soledad	loneliness
+solicitó	requested
+solidaridad	solidarity
+solista	soloist
+solistas	soloists
+solitario	solo
+solo	alone
+solos	alone
+solubilidad	solubility
+solucionar	solve
+soluciones	solutions
+solución	solution
+soluto	solute
+solía	used to
+solían	used to
+sombra	shadow
+sombras	shadows
+sombrero	hat
+sometida	submitted
+sometido	submitted
+sometidos	submitted
+somos	we are
+son	being
+sonata	sonata
+sonatas	sonatas
+sonda	probe
+soneto	sonnet
+sonetos	sonnets
+song	song
+sonido	sound
+sonidos	sounds
+sonora	sonorous
+sonoras	sonorous
+sony	sony
+soporta	supports
+soportar	resist
+soporte	support
+sorpresa	surprise
+sospecha	suspicion
+sostener	support
+sostenible	sustainable
+sostenida	sustained
+sostenido	sustained
+sostenía	held
+sostiene	holds
+sostienen	support
+sostuvo	held
+soto	soto
+soul	soul
+sound	sound
+soundtrack	soundtrack
+soviética	soviet
+soviéticas	soviet
+soviético	soviet
+soviéticos	soviets
+soy	i am
+sp	sp
+spears	spears
+square	square
+sr	mr
+stalin	stalin
+stalingrado	stalingrad
+stanley	stanley
+starr	starr
+stephen	stephen
+stephenie	stephenie
+steve	steve
+steven	steven
+stewart	stewart
+stone	stone
+stones	stones
+stravinski	stravinski
+stuart	stuart
+su	its
+suave	soft
+suaves	soft
+sub	sub
+subcampeón	runner-up
+subcontinente	subcontinent
+subgéneros	subgenre
+subir	upload
+subjetiva	subjective
+subjetivo	subjective
+sublevación	uprising
+sublevado	revolt
+sublevados	uprising
+submarinos	submarines
+subordinada	subordinate
+subsahariana	sub-saharan
+subsidios	subsidies
+subterránea	underground
+subterráneas	underground
+subtropical	subtropical
+subunidades	subunits
+sucede	happens
+suceden	happen
+sucedido	happened
+sucedieron	happened
+sucedió	followed
+sucesivamente	successively
+sucesivas	successive
+sucesivos	successive
+sucesión	succession
+suceso	event
+sucesor	successor
+sucesores	successors
+sucesos	events
+sudamericana	south american
+sudamericano	south american
+sudamérica	south america
+sudeste	southeast
+sudáfrica	south africa
+sudán	sudan
+sueca	swedish
+suecia	sweden
+sueco	swedish
+suele	usually
+suelen	usually
+suelo	floor
+suelos	soils
+suerte	luck
+suez	suez
+sueño	dream
+sueños	dreams
+suficiente	enough
+suficientemente	enough
+suficientes	enough
+sufijo	suffix
+sufragio	suffrage
+sufre	suffers
+sufren	suffer
+sufrido	suffered
+sufrieron	suffered
+sufrimiento	suffering
+sufrir	suffer
+sufrió	suffered
+sugerido	suggested
+sugerir	suggest
+sugiere	suggests
+sugieren	suggest
+sugirió	suggested
+suicidio	suicide
+suiza	switzerland
+suizo	swiss
+suizos	swiss
+sujeta	hold
+sujeto	subject
+sujetos	subjects
+suma	sum
+sumamente	extremely
+suman	add up
+sumar	add
+suministro	supply
+suministros	supplies
+sumo	high
+sun	sun
+super	super
+supera	overcomes
+superado	overcome
+superan	than
+superando	overcoming
+superar	overcome
+supercopa	super cup
+superficial	superficial
+superficiales	superficial
+superficie	surface
+superficies	surfaces
+superior	higher
+superiores	superior
+superioridad	superiority
+supervivencia	survival
+supervivientes	survivors
+superó	surpassed
+supone	suppose
+suponen	suppose
+suponer	suppose
+suponía	supposed
+suprema	supreme
+supremacía	supremacy
+supremo	supreme
+supresión	suppression
+supuesta	supposed
+supuestamente	supposedly
+supuesto	course
+supuestos	supposed
+supuso	supposed
+sur	south
+sureste	southeast
+surge	arises
+surgen	arise
+surgido	emerged
+surgiendo	arising
+surgieron	arose
+surgimiento	emergence
+surgir	arise
+surgió	arose
+suroeste	southeast
+surrealismo	surrealism
+surrealista	surreal
+sus	their
+susceptible	susceptible
+susceptibles	susceptible
+suspensión	suspension
+sustancia	substance
+sustancial	substantial
+sustancialmente	substantially
+sustancias	substances
+sustantivo	noun
+sustantivos	nouns
+sustitución	substitution
+sustituido	replaced
+sustituir	replace
+sustituto	substitute
+sustituyendo	substituting
+sustrato	substratum
+suya	his
+suyo	yours
+suyos	his
+suárez	suarez
+swing	swing
+system	system
+sábado	saturday
+sánchez	sanchez
+são	sao
+séptima	seventh
+séptimo	seventh
+sí	yes
+sílaba	syllable
+sílabas	syllables
+símbolo	symbol
+símbolos	symbols
+síndrome	syndrome
+síntesis	synthesis
+síntoma	symptom
+síntomas	symptoms
+sócrates	socrates
+sólida	solid
+sólidas	solid
+sólido	solid
+sólidos	solids
+sólo	alone
+tabaco	tobacco
+tabla	table
+tablas	boards
+tablero	board
+tailandia	thailand
+taiwán	taiwan
+tal	such
+talento	talent
+tales	such
+talla	size
+taller	workshop
+tamaño	size
+tamaños	sizes
+también	also
+tampoco	neither
+tan	so
+tangente	tangent
+tango	tango
+tanques	tanks
+tanta	as much
+tantas	many
+tanto	therefore
+tantos	so many
+tapa	top
+taquilla	blockbuster
+tarda	late
+tarde	late
+tardía	late
+tardío	late
+tarea	homework
+tareas	tasks
+tarjeta	card
+tarjetas	cards
+tasa	rate
+tasas	rates
+taxones	taxa
+taxonomía	taxonomy
+taxón	taxon
+taylor	taylor
+te	te
+teatral	theatrical
+teatrales	theatrical
+teatro	theater
+teatros	theaters
+techo	ceiling
+teclado	keyboard
+teclados	keyboards
+teclas	keys
+tecnología	technology
+tecnologías	technologies
+tecnológica	technological
+tecnológicas	technological
+tecnológico	technological
+tecnológicos	technological
+tectónica	tectonic
+tectónicas	tectonic
+teen	teen
+tejido	tissue
+tejidos	fabrics
+tela	cloth
+telecomunicaciones	telecommunications
+telefonía	telephony
+telefónica	telephone
+telescopio	telescope
+telescopios	telescopes
+televisión	tv
+teléfono	telephone
+teléfonos	phone
+tema	topic
+temas	themes
+temor	fear
+temperatura	temperature
+temperaturas	temperatures
+tempestad	storm
+templado	temperate
+temple	temper
+templo	temple
+templos	temples
+temporada	season
+temporadas	seasons
+temporal	temporary
+temporales	temporary
+temporalmente	temporarily
+temprana	early
+tempranas	early
+temprano	early
+temática	thematic
+temáticas	thematic
+temático	thematic
+tendencia	tendency
+tendencias	trends
+tendrá	will have
+tendrán	will have
+tendría	would have
+tendrían	would have
+tenemos	we have
+tener	to have
+tenga	have
+tengan	have
+tengo	i have
+tenido	had
+teniendo	having
+teniente	lieutenant
+tenis	tennis
+tensiones	tensions
+tensión	tension
+tenía	had
+tenían	got
+teología	theology
+teorema	theorem
+teoría	theory
+teorías	theories
+teotihuacan	teotihuacan
+terapia	therapy
+tercer	third
+tercera	third
+tercero	third
+terceros	third parties
+tercio	third
+tercios	thirds
+teresa	teresa
+termidor	thermidor
+termina	ends
+terminada	finished
+terminado	finished
+terminal	terminal
+terminales	terminals
+terminar	finish
+terminaron	finished
+terminología	terminology
+terminó	finished
+termodinámica	thermodynamics
+termodinámico	thermodynamic
+termómetro	thermometer
+terremoto	earthquake
+terremotos	earthquakes
+terreno	ground
+terrenos	land
+terrestre	land
+terrestres	terrestrial
+territorial	territorial
+territoriales	territorial
+territorio	territory
+territorios	territory
+terror	terror
+terrorismo	terrorism
+terroristas	terrorist
+tesis	thesis
+tesla	tesla
+test	test
+testamento	will
+testigo	witness
+testigos	witnesses
+testimonio	testimony
+testimonios	testimonies
+tests	tests
+texas	texas
+text	text
+textil	textile
+textiles	textile
+texto	text
+textos	texts
+teólogos	theologians
+teórica	theoretical
+teóricamente	theoretically
+teórico	theoretical
+teóricos	theoretic
+that	that
+theta	theta
+this	this
+thomas	thomas
+thompson	thompson
+thomson	thomson
+thrash	trash
+thumb|	thumb
+thumb|el	thumb|the
+thumb|left|el	thumb
+thumb|left|la	thumb
+thumb|left|px|la	thumb|left|px|the
+thumb|mapa	thumb|map
+thumb|px|	thumb
+tic	tic
+tiempo	weather
+tiempos	time
+tienda	store
+tiendas	shops
+tiende	tends
+tienden	tend
+tiene	have
+tienen	have
+tierra	earth
+tierras	land
+tikal	tikal
+tim	tim
+timbre	ring
+time	time
+times	times
+tinción	staining
+tinta	ink
+tipo	kind
+tipos	types
+tiro	shoot
+tiroides	thyroid
+tiros	shooting
+tisdale	tisdale
+tito	tito
+titulada	titled
+titulado	titled
+titular	head
+tlc	fta
+to	to
+toca	touch
+tocado	touched
+tocando	playing
+tocar	play
+tocaron	played
+tocó	touched
+toda	all
+todas	all
+todavía	still
+todo	all
+todos	all
+tokio	tokyo
+toledo	toledo
+tolerancia	tolerance
+tolkien	tolkien
+toltecas	toltec
+tom	tom
+toma	taking
+tomaba	took
+tomada	taken
+tomadas	taken
+tomado	taken
+toman	take
+tomando	taking
+tomar	drink
+tomaron	they took
+tommy	tommy
+tomo	volume
+tomás	footage
+tomó	took
+tono	tone
+tonos	sounds
+tony	tony
+top	top
+topografía	topography
+topología	topology
+toque	touch
+tormenta	storm
+tormentas	storms
+tormes	tormes
+torneo	tournament
+torneos	tournaments
+torno	lathe
+toro	bull
+torre	tower
+torres	towers
+tortura	torture
+torá	torah
+tos	cough
+total	total
+totales	total
+totalidad	whole
+totalmente	totally
+tour	tour
+trabaja	works
+trabajaba	worked
+trabajado	worked
+trabajadores	workers
+trabajan	work
+trabajando	working
+trabajar	work
+trabajo	job
+trabajos	jobs
+trabajó	work
+tracia	thracian
+tracto	tract
+trad	translation
+trade	trade
+tradicional	traditional
+tradicionales	traditional
+tradicionalmente	traditionally
+tradiciones	traditions
+tradición	tradition
+traducciones	translations
+traducción	translation
+traduce	translate
+traducida	translated
+traducido	translated
+tradujo	translated
+traer	bring
+tragedia	tragedy
+tragedias	tragedies
+traición	treason
+trajo	brought
+trama	plot
+transacciones	transactions
+transcripción	transcription
+transcriptasa	transcriptase
+transcurso	course
+transferencia	transfer
+transforma	transform
+transformaciones	transformations
+transformación	transformation
+transformador	transformer
+transformadores	transformers
+transforman	transform
+transformar	transform
+transformó	transformed
+transición	transition
+transistor	transistor
+transistores	transistors
+transmisión	transmission
+transmite	transmit
+transmiten	transmit
+transmitida	transmitted
+transmitido	transmitted
+transmitir	broadcast
+transparente	transparent
+transportar	transport
+transporte	transport
+transportes	transportation
+tras	after
+trascendencia	transcendence
+trascendental	transcendental
+trasladado	transfer
+trasladar	move
+trasladaron	moved
+trasladarse	move
+traslado	transfer
+trasladó	transfer
+traspaso	transfer
+trastorno	disorder
+trastornos	disorders
+trata	about
+trataba	tried
+tratada	treated
+tratado	treaty
+tratados	treaties
+tratamiento	treatment
+tratamientos	treatments
+tratan	try
+tratando	trying
+tratar	try
+trataron	they tried
+tratarse	brought
+trate	try
+trato	treatment
+trató	treatment
+través	through
+trayectoria	trajectory
+trece	thirteen
+treinta	thirty
+tren	train
+trenes	trains
+tres	three
+tribu	tribe
+tribunal	court
+tribunales	courts
+tribus	tribes
+tributo	tribute
+trigo	wheat
+trigonometría	trigonometry
+trigonométricas	trigonometric
+trilogía	trilogy
+trinidad	trinity
+triple	triple
+tripulación	crew
+triste	sad
+tristeza	sadness
+triunfo	triumph
+triángulo	triangle
+triángulos	triangles
+trofeo	trophy
+trofozoíto	trophozoite
+tronco	trunk
+trono	throne
+tropas	troops
+tropical	tropical
+tropicales	tropical
+troya	troy
+troyanos	trojans
+trujillo	trujillo
+tráfico	traffic
+trágica	tragic
+tránsito	transit
+trío	trio
+tu	you
+tuberculosis	tuberculosis
+tubo	tube
+tubos	tubes
+tubérculo	tuber
+tumba	tomb
+tumbas	graves
+tumor	tumor
+tumores	tumors
+turca	turkish
+turco	turkish
+turcos	turks
+turismo	tourism
+turistas	tourists
+turquía	turkey
+turística	tour
+turístico	tourist
+turísticos	tourist
+tuviera	had
+tuvieran	have
+tuvieron	had
+tuvo	had
+tv	tv
+twitter	twitter
+tyler	tyler
+táctica	tactic
+tácticas	tactics
+técnica	technique
+técnicas	technical
+técnico	technical
+técnicos	technicians
+térmica	thermal
+térmico	thermal
+térmicos	thermal
+término	finished
+términos	terms
+tía	aunt
+tío	uncle
+típica	typical
+típicamente	typically
+típicas	typical
+típico	typical
+típicos	typical
+título	title
+títulos	titles
+tóxicos	toxic
+tú	you
+túnel	tunnel
+u	or
+ubica	locates
+ubicación	location
+ubicada	located
+ubicadas	located
+ubicado	located
+ubicados	located
+ubican	located
+ucrania	ukraine
+ue	eu
+uefa	uefa
+ultramar	overseas
+ultravioleta	ultraviolet
+un	a
+una	a
+unas	the
+und	und
+undertaker	undertaker
+une	binds
+unen	unite
+unesco	unesco
+unicelulares	unicellular
+unida	united
+unidad	unit
+unidades	units
+unidas	united
+unido	united
+unidos	united
+unieron	joined
+unificación	unification
+unificado	unified
+unificar	unify
+uniforme	uniform
+uniformes	uniforms
+uniones	unions
+unir	link
+unirse	join
+unitario	unitary
+universal	universal
+universales	universal
+universalidad	universality
+universidad	college
+universidades	universities
+universitaria	university
+universitario	academic
+universitarios	university
+universo	universe
+unió	joined
+unión	union
+uno	one
+unos	some
+up	up
+uranio	uranium
+urano	uranus
+urbana	urban
+urbanas	urban
+urbano	urban
+urbanos	urban
+urss	ussr
+uruguay	uruguay
+uruguaya	uruguayan
+uruguayo	uruguayan
+us	us
+us$	dolares
+usa	uses
+usaba	used
+usaban	used
+usada	used
+usadas	used
+usado	used
+usados	used
+usan	they use
+usando	using
+usar	use
+usaron	used
+usarse	wear
+usb	usb
+use	wear
+uso	use
+usos	applications
+usted	you
+usual	usual
+usualmente	usually
+usuario	user
+usuarios	users
+usó	use
+utilidad	utility
+utiliza	uses
+utilizaba	used
+utilizaban	used
+utilización	utilization
+utilizada	used
+utilizadas	used
+utilizado	used
+utilizados	used
+utilizan	they use
+utilizando	using
+utilizar	use
+utilizaron	used
+utilizarse	use
+utilizó	used
+uu	uu
+v	v
+va	goes
+vacaciones	vacations
+vacuna	vaccine
+vacunación	vaccination
+vacunas	vaccines
+vacío	emptiness
+vagina	vagina
+vaginal	vaginal
+vale	costs
+valencia	valencia
+validez	validity
+valladolid	valladolid
+valle	valley
+valles	valleys
+valor	value
+valoración	valuation
+valorar	assess
+valores	values
+vampiro	vampire
+vampiros	vampires
+van	go
+vanguardia	vanguard
+vapor	steam
+vargas	vargas
+variabilidad	variability
+variable	variable
+variables	variables
+variaciones	variations
+variación	variation
+variada	varied
+variadas	varied
+variado	varied
+variados	varied
+variante	variant
+variantes	variants
+variar	vary
+varias	several
+varicela	chickenpox
+variedad	variety
+variedades	varieties
+variegación	variegation
+varios	various
+varones	males
+varsovia	warsaw
+varía	varies
+varían	vary
+varón	male
+vasallo	vassal
+vasari	vasari
+vasco	basque
+vascular	vascular
+vasos	glasses
+vasta	vast
+vaticano	vatican
+ve	go
+vec	vector
+veces	times
+vecinos	neighbors
+vector	vector
+vectores	vectors
+vectorial	vector
+vega	vega
+vegas	vegas
+vegetación	vegetation
+vegetal	vegetable
+vegetales	vegetables
+vehículo	vehicle
+vehículos	vehicles
+veinte	twenty
+velocidad	speed
+velocidades	speeds
+vemos	we see
+ven	come
+vena	vein
+venas	veins
+vencedores	winners
+vencer	overcome
+vender	sell
+vendido	sold
+vendidos	sold
+vendió	sold
+venecia	venice
+venezolana	venezuelan
+venezolano	venezuelan
+venezolanos	venezuelans
+venezuela	venezuela
+venganza	revenge
+venido	arrived
+venta	sale
+ventaja	advantage
+ventajas	advantage
+ventana	window
+ventanas	windows
+ventas	sales
+ventrículo	ventricle
+venus	venus
+venía	came
+ver	see
+veracruz	veracruz
+verano	summer
+veranos	summers
+verbal	verbal
+verbo	verb
+verbos	verbs
+verdad	true
+verdadera	true
+verdaderamente	truly
+verdaderas	true
+verdadero	true
+verdaderos	true
+verdades	truths
+verde	green
+verdes	green
+verduras	vegetables
+verificar	check
+verrocchio	verrocchio
+verrugas	warts
+versalles	versailles
+verse	see
+versiones	versions
+versión	version
+verso	verse
+versos	verses
+vertebrados	vertebrates
+vertical	vertical
+verticales	vertical
+vertiente	slope
+vertientes	slopes
+vestido	dress
+vestigios	vestiges
+vestimenta	clothing
+vestir	wear
+vestuario	clothes
+vesículas	vesicles
+vez	time
+veía	saw
+veían	saw
+vi	saw
+viaja	travels
+viajar	travel
+viaje	travel
+viajeros	travelers
+viajes	travels
+viajó	traveled
+vicente	vicente
+vicepresidente	vice president
+viceversa	vice versa
+victoria	victory
+victoriano	victorian
+victorias	victories
+vida	life
+vidas	lives
+video	video
+videojuegos	video games
+videos	videos
+vidrio	glass
+vieja	old
+viejas	old
+viejo	old
+viejos	old
+viena	vienna
+viendo	seeing
+viene	comes
+vienen	come
+viento	wind
+vientos	winds
+viernes	friday
+vieron	watched
+vietnam	vietnam
+vietnamita	vietnamese
+vietnamitas	vietnamese
+vigencia	validity
+vigente	valid
+vigilancia	surveillance
+vigilante	vigilant
+vigor	vigor
+vih	hiv
+vii	7
+viii	viii
+villa	town
+vincent	vincent
+vinci	vinci
+vinculación	entailment
+vinculada	linked
+vinculado	linked
+vinculados	linked
+vino	came
+vio	saw
+viola	violist
+violaciones	violations
+violación	violation
+violencia	violence
+violenta	violent
+violento	violent
+violentos	violent
+violín	fiddle
+viral	viral
+virales	viral
+virgen	virgin
+virginia	virginia
+viriones	virions
+virión	virion
+virtual	virtual
+virtualmente	virtually
+virtud	virtue
+virtudes	virtues
+viruela	smallpox
+virus	virus
+viscosímetro	viscometer
+visible	visible
+visibles	visible
+visiones	visions
+visita	visit
+visitantes	visitors
+visitar	visited
+visitas	visits
+visitó	visited
+visión	vision
+vista	seen
+vistas	views
+visto	viewed
+vistos	seen
+visual	visual
+visuales	visual
+visualización	visualization
+vital	vital
+vitales	vital
+vitamina	vitamin
+vitaminas	vitamins
+viuda	widow
+viva	live
+vivas	live
+vive	lives
+viven	live
+vivienda	living
+viviendas	houses
+viviendo	living
+vivientes	living
+vivieron	lived
+vivir	live
+vivió	lived
+vivo	alive
+vivos	alive
+vivía	lived
+vivían	lived
+vocablo	word
+vocabulario	vocabulary
+vocación	vocation
+vocal	vocal
+vocales	vocals
+vocalista	vocalist
+voces	voices
+vol	vol
+volcanes	volcanoes
+volcán	volcano
+volcánica	volcanic
+volcánicas	volcanic
+voldemort	voldemort
+voleibol	volleyball
+voltaire	voltaire
+voltaje	voltage
+volumen	volume
+voluntad	will
+voluntaria	voluntary
+voluntariamente	voluntarily
+voluntario	voluntary
+voluntarios	volunteers
+volver	return
+volverse	become
+volvería	become
+volvieron	they returned
+volvió	returned
+volúmenes	volumes
+von	von
+vos	you
+votación	vote
+voto	vote
+votos	votes
+voy	go
+voz	voice
+vph	vph
+vuelo	flight
+vuelos	flights
+vuelta	return
+vuelto	turned
+vuelve	returns
+vuelven	come back
+vulgar	vulgar
+válida	valid
+válido	valid
+válvula	valve
+válvulas	valves
+vázquez	vázquez
+véase	see
+vértice	vertex
+vértices	vertices
+vía	via
+vías	tracks
+víctimas	victims
+víctor	victor
+vídeo	video
+vídeos	videos
+vínculo	link
+vínculos	links
+vírica	viral
+víricas	viral
+vírico	viral
+w	w
+wagner	wagner
+wall	wall
+wallace	wallace
+walter	walter
+wars	wars
+washington	washington
+watchmen	watchmen
+waters	waters
+watson	watson
+way	way
+we	we
+web	web
+weber	weber
+weimar	weimar
+were	were
+west	west
+when	when
+white	white
+who	quien
+wiki	wiki
+wikimedia	wikimedia
+wikipedia	wikipedia
+wilhelm	wilhelm
+will	will
+william	william
+williams	williams
+windows	windows
+wolfgang	wolfgang
+won	won
+word	word
+world	world
+worlds	worlds
+wrestlemania	wrestlemania
+wrestling	wrestling
+wright	wright
+wwe	wwe
+wwf	wwf
+x	x
+xi	xi
+xii	xii
+xiii	xiii
+xiv	xiv
+xix	xix
+xp	xp
+xpx	xpx
+xv	xv
+xvi	sixteenth
+xviii	eighteenth
+xx	20
+xxi	xxi
+xy	xy
+y	and
+ya	as
+yacimientos	deposits
+yeso	cast
+yo	me
+yodo	iodine
+york	york
+you	you
+young	young
+your	your
+youtube	youtube
+yucatán	yucatan
+yugoslavia	yugoslavia
+z	z
+zapata	shoe
+zaragoza	zaragoza
+zelanda	zealand
+zeppelin	zeppelin
+zeus	zeus
+zircón	zircon
+zona	zone
+zonas	zones
+||left	izquierdo
+ a c	b.c. (before christ)
+ d c	d c
+ km	km
+ m	m
+ millones	millions
+ mm	mm
+ msnm	amsl
+ °c	ºc
+ª	th
+º	or
+×	x
+ácida	acid
+ácido	acid
+ácidos	acids
+áfrica	africa
+águila	eagle
+álbum	album
+álbumes	albums
+álgebra	algebra
+álvarez	alvarez
+ámbito	ambit
+ámbitos	scopes
+ámsterdam	amsterdam
+ángel	angel
+ángeles	angels
+ángulo	angle
+ángulos	angles
+ánimo	mood
+árabe	arab
+árabes	arabs
+árbitro	referee
+árbitros	arbitrators
+árbol	tree
+árboles	trees
+área	area
+áreas	areas
+ártico	arctic
+átomo	atom
+átomos	atoms
+áureo	golden
+él	he
+élite	elite
+énfasis	emphasis
+épica	epic
+épico	epic
+época	epoch
+épocas	times
+ésta	is
+éstas	these
+éste	east
+éstos	these
+ética	ethics
+éticas	ethics
+étnica	ethnic
+étnico	ethnic
+étnicos	ethnic
+éxito	success
+éxitos	successes
+índice	index
+índices	rates
+índico	indian
+índole	nature
+íntimamente	intimately
+ó	or
+óleo	oil
+ópera	opera
+óperas	operas
+óptica	optics
+óptico	optical
+óptimo	optimum
+órbita	orbit
+órbitas	orbits
+órdenes	orders
+órgano	organ
+órganos	organs
+óscar	oscar
+ósea	bone
+ósmosis	osmosis
+óvulo	ovule
+óvulos	ovules
+óxido	oxide
+óxidos	oxides
+última	last
+últimas	latest
+último	latest
+últimos	last
+única	only
+únicamente	only
+únicas	unique
+único	only
+únicos	unique
+úrsula	ursula
+útero	uterus
+útil	useful
+útiles	tools
+α	α
+π	π

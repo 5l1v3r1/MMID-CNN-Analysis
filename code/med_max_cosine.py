@@ -69,7 +69,7 @@ def calc_med_max_cosine_similarity(language_code, print_every=100, save_every=50
             path = cnn_index[word]
             mat = get_matrix(path, language_code, lang_package)
 
-            if mat is None:
+            if mat is None or mat.shape[1] != 4096:
                 dist_list[i, :] = np.array([word]+["Nan"]*2, dtype=object)
                 continue
 
@@ -86,7 +86,7 @@ def main():
         lc = sys.argv[1].strip().lower()
         ow = sys.argv[2].strip().lower()
         if ow == "y":
-            calc_med_max_cosine_similarity(lc1, overwrite=True)
+            calc_med_max_cosine_similarity(lc, overwrite=True)
         else:
             calc_med_max_cosine_similarity(lc)
     elif len(sys.argv) == 2:
