@@ -203,25 +203,10 @@ def rank(homogeneity_threshold, cosine_threshold, lc, langs):
 
 
 def main():
-    if len(sys.argv) == 3:
-        cosine_threshold = float(sys.argv[2])
-        homogeneity_threshold = float(sys.argv[1])
-        file_name = RESULTS_PATH.format("threshold_output")
-    elif len(sys.argv) == 4:
-        cosine_threshold = float(sys.argv[2])
-        homogeneity_threshold = float(sys.argv[1])
-        file_name = RESULTS_PATH.format(sys.argv[3])
-
-    else:
-        raise ValueError("Expecting three arguments:\n\
-            file name, cosine threshold, homogeneity threshold\n\
-            instead got {}".format(len(sys.argv)))
-
-    LANGS = ["en", "fr", "ar", "az", "es", "id",
-             "de", "tr", "hi", "it", "vi", "th", "cy"]
-    threshold_all(homogeneity_threshold, cosine_threshold, LANGS, file_name)
-    # rank_all(homogeneity_threshold, cosine_threshold, LANGS)
-
+    LANGS = ["en", "fr", "ar", "az", "es", "id", "de", "tr", "hi", "it", "vi", "th", "cy"]
+    obj = Threshold(0.15, 0.45, LANGS)
+    obj.print_ranks()
+    obj.print_thresholds()
 
 if __name__ == "__main__":
     main()

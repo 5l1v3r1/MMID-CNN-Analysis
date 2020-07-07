@@ -1,6 +1,5 @@
 import os
 import sys
-import pickle
 import numpy as np
 import csv
 from dictionary import get_foreign_to_foreign_dictionary, read_raw_dictionary
@@ -23,24 +22,33 @@ def median_max_cosine(matrix):
     return [median_max, matrix.shape[0]]
 
 
-def calc_med_max_cosine_similarity(language_code, print_every=100, save_every=500, overwrite = False):
+def calc_med_max_cosine_similarity(language_code, lang_package=None, print_every=100, save_every=500, overwrite=False):
     """ Given a ISO 639-1 language_code, calculate the median max cosine_similarity
     for every word in its raw dictionary.
     :param language_code: ISO 639-1 language_code
+    :param lang_package: ISO 639-1 code for different language package. Only for english
     :param save_every: how often to update the homogeneity scores in # iterations
     :param print_every: how often to print status in # iterations
     :param overwrite:whether to overwrite the scores if a file already exists
     """
-    lang_package = langcode2name[language_code].lower()
+    if lang_package is None:
+        lang_package = langcode2name[language_code].lower()
+        d = read_raw_dictionary(language_code)
+        file_name = RESULTS_PATH_SINGLE.format(language_code)
+    elif language_code == "en":
+        lang_package = langcode2name[lang_package].lower()
+        d = read_raw_dictionary(language_code)
+        d = {item: key for key, item in d.items()}
+        file_name = RESULTS_PATH_SINGLE.format(language_code + "_" + lang_package)
+    else:
+        raise AssertionError("Can only pass lang_package with english language code")
 
-    d = read_raw_dictionary(language_code)
+
     cnn_index = get_cnn_index(language_code, lang_package)
 
     num_words = len(d)
 
     dist_list = np.zeros((num_words, 3), dtype=object)
-
-    file_name = RESULTS_PATH_SINGLE.format(language_code)
 
     start = time.time()
 
@@ -70,7 +78,7 @@ def calc_med_max_cosine_similarity(language_code, print_every=100, save_every=50
             mat = get_matrix(path, language_code, lang_package)
 
             if mat is None or mat.shape[1] != 4096:
-                dist_list[i, :] = np.array([word]+["Nan"]*2, dtype=object)
+                dist_list[i, :] = np.array([word]+["None"]*2, dtype=object)
                 continue
 
             scores = median_max_cosine(mat)

@@ -1,4 +1,4 @@
-from google.cloud import translate_v2 as translate
+# from google.cloud import translate_v2 as translate
 from nltk.stem.snowball import SnowballStemmer
 from utils import get_cnn_index, get_language_code_mapping
 import os
@@ -183,7 +183,7 @@ def check_dictionary(language_code1, language_code2):
         if word in index.keys():
             num_usable += 1
 
-    return total, num_usable, total - num_usable, num_usable/total
+    return  num_usable, total - num_usable, total, num_usable/total
 
 
 def main():
