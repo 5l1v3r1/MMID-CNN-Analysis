@@ -57,7 +57,7 @@ pi	pi	Nan
 phoenix	phoenix	Nan
 peygamberin	woli naa	Nan
 peygamberi	woli	Nan
-pembe	awọ pupa	Nan
+pembe	pupa	None
 penaltı	itanran	Nan
 people	eniyan	Nan
 perde	aṣọ-ikele	Nan
@@ -79,14 +79,14 @@ partilerin	ajọ naa	Nan
 partiler	awọn ẹgbẹ	Nan
 oyuncusu	player	Nan
 oyunda	ni ere	Nan
-oyundan	eré náà	Nan
+oyundan	náà	None
 oyunlar	awọn ere	Nan
 oyunları	awọn ere	Nan
 oyunlarına	ere si	Nan
-oyunlarında	eré náà	Nan
+oyunlarında	náà	None
 oyunlarının	ere ti	Nan
 oyunu	eré	Nan
-oyunun	eré náà	Nan
+oyunun	náà	None
 oyununda	ninu ere	Nan
 ozan	ewi	Nan
 oğlu	ọmọ	None
@@ -99,11 +99,11 @@ oyuncuları	awọn oṣere	Nan
 oynamak	mu ṣiṣẹ	Nan
 oynamaktadır	ìtàgé	Nan
 oynamaya	mu ṣiṣẹ	Nan
-oynamış	ti dun	Nan
-oynamıştır	o si ti dun	Nan
+oynamış	dun	None
+oynamıştır	dun	None
 oynanan	dun	None
-oynanır	ti dun	Nan
-oğulları	awọn ọmọ	Nan
+oynanır	dun	None
+oğulları	ọmọ	None
 oynar	mu ṣiṣẹ	Nan
 oynayan	ti ndun	Nan
 oysa	nígbàkan	Nan
@@ -112,7 +112,7 @@ oyuna	eré	Nan
 oyuncak	ọmọ-ọwọ	Nan
 oyuncu	player	Nan
 oyuncular	awọn oṣere	Nan
-oynarlar	wọn ṣere	Nan
+oynarlar	wọn	None
 partileri	awọn ẹgbẹ	Nan
 oğuz	oðuz	Nan
 p	p	Nan
@@ -120,7 +120,7 @@ parası	owo	Nan
 paris	paris	Nan
 parise	paris	Nan
 pariste	paris	Nan
-park	agba duro	Nan
+park	agba	None
 parkı	gbesile	Nan
 parlak	didan	Nan
 parlaklığı	didan	Nan
@@ -165,7 +165,7 @@ radyoaktif	ohun ipanilara	Nan
 rahat	itunu	Nan
 rahatlıkla	irọrun	Nan
 rahatsız	korọrun	Nan
-rahmi	ọmọ inu	Nan
+rahmi	ọmọ	None
 rakam	eeya	Nan
 rakibi	oludije	Nan
 rakip	alatako	Nan
@@ -246,7 +246,7 @@ popüler	gbajumọ	Nan
 porno	ere onihoho	Nan
 pornografi	aworan iwokuwo	Nan
 pornografik	aworan iwokuwo	Nan
-port	awọn ebute oko oju omi	Nan
+port	omi	None
 portakal	ọsan	Nan
 polis	ọlọpa	Nan
 polimeraz	polymerases	Nan
@@ -301,14 +301,14 @@ potter	amọkoko	Nan
 porto	porto	Nan
 pozitif	rere	None
 pratik	ilowo	Nan
-pratikte	di oba	Nan
+pratikte	oba	None
 premier	ajé	Nan
-prens	ọmọ alade	Nan
+prens	ọmọ	None
 presley	presley	Nan
 press	presse	Nan
 princeton	itẹwe	Nan
 prag	prague	Nan
-oynadıkları	wọn ṣere	Nan
+oynadıkları	wọn	None
 oynadı	dun	None
 oylama	idibo	Nan
 olmadığını	boya	Nan
@@ -317,21 +317,21 @@ olmakla	lakoko ti	Nan
 olmaksızın	laisi	Nan
 olmaktan	jije	None
 olmaları	o wa	Nan
-olmalarına	ko si	Nan
-olmalı	yẹ ki o wa	Nan
+olmalarına	ko	None
+olmalı	ki	None
 olmalıdır	o ni lati je	Nan
-olmamakla	sugbon ko	Nan
+olmamakla	ko	None
 olmaması	aini	Nan
 olmamasına	lati jẹ	Nan
-olmamıştır	ko ti ri	Nan
+olmamıştır	ko	None
 olmasa	biotilejepe	Nan
 olması	jije	None
-olmadığından	ko ṣe bẹ	Nan
+olmadığından	ko	None
 olmadığı	kii ṣe	Nan
 olmadıkları	awón kó	Nan
-olmadı	ko ṣe bẹ	Nan
+olmadı	ko	None
 oldukça	oyimbo	Nan
-oldular	wọn wa	Nan
+oldular	wọn	None
 olduğu	iyẹn	Nan
 olduğuna	iyẹn	Nan
 olduğunda	nigbawo	Nan
@@ -348,16 +348,16 @@ olma	jije	None
 olmadan	laisi	Nan
 olgu	lasan	Nan
 olduktan	jẹ iwọ	Nan
-olmasına	ko si	Nan
+olmasına	ko	None
 olmasını	kii ṣe	Nan
 olup	awọn	Nan
 olur	yoo	None
-olurdu	yoo jẹ	Nan
+olurdu	yoo	None
 olurlar	yoo	None
 olursa	yẹ	Nan
 oluyor	ti n ṣẹlẹ	Nan
 oluyordu	o ti n ṣẹlẹ	Nan
-oluşabilir	le šẹlẹ	Nan
+oluşabilir	le	None
 oluşan	akoso	Nan
 oluşmaktadır	o ni	Nan
 oluşması	ibiyi	Nan
@@ -370,14 +370,14 @@ olunan	nigbati awọn	Nan
 olumsuz	odi	Nan
 olumlu	rere	None
 olmasının	jije	None
-olmasıyla	ninu iyen	Nan
-olmaya	ko si	Nan
+olmasıyla	iyen	None
+olmaya	ko	None
 olmayan	ti kii	Nan
-olmayanlar	ti kii ṣe ọmọ ẹgbẹ	Nan
+olmayanlar	ọmọ	None
 olmayı	lati jẹ	Nan
 olmayıp	kiise	Nan
 olmasından	ni otitọ pe	Nan
-olmaz	ko ṣee ṣe	Nan
+olmaz	ko	None
 olmuşlardır	o ti di	Nan
 olmuştu	ti	Nan
 olmuştur	ti	Nan
@@ -387,8 +387,8 @@ olsaydı	ní	None
 olsun	gba	None
 olmuş	kú	Nan
 oluşmuştur	akoso	Nan
-olduklarını	wọn jẹ	Nan
-oldukları	wọn jẹ	Nan
+olduklarını	wọn	None
+oldukları	wọn	None
 okulunda	ni ileiwe	Nan
 okulunu	ile-iwe	Nan
 okuma	ka	Nan
@@ -403,7 +403,7 @@ okyanus	okun	Nan
 okyanusu	okun	Nan
 okyanusuna	òkun	Nan
 ol	jẹ	Nan
-olabilecek	yio je	Nan
+olabilecek	yio	None
 okuluna	awọn ile-iwe	Nan
 okulun	ile-iwe	Nan
 okulu	ile-iwe	Nan
@@ -415,7 +415,7 @@ ok	ọfa	Nan
 okan	ọfa	Nan
 oksijen	atẹgun	Nan
 oktay	oktay	Nan
-olabileceği	yio je	Nan
+olabileceği	yio	None
 okudu	ka	Nan
 okul	ile-iwe	Nan
 okula	si ile iwe	Nan
@@ -425,7 +425,7 @@ okullar	awọn ile-iwe	Nan
 okullarda	ni awọn ile-iwe	Nan
 okulları	awọn ile-iwe	Nan
 okuduğu	o ka	Nan
-olduklarından	wọn jẹ	Nan
+olduklarından	wọn	None
 olabileceğini	le	None
 olabilirler	le	None
 olasılıkla	boya	Nan
@@ -442,18 +442,18 @@ olayı	ìṣẹlẹ	Nan
 olayın	ìṣẹlẹ	Nan
 olağan	tẹlẹ	Nan
 olağanüstü	yatọ	Nan
-oldu	oun ni	Nan
+oldu	oun	None
 olası	ṣeeṣe	Nan
 olarak	bi	Nan
 olanıdır	ni	Nan
 olanı	pẹlu	Nan
 olabilmesi	lati jẹ	Nan
-olacak	yoo jẹ bẹ	Nan
-olacaktı	yoo jẹ	Nan
-olacaktır	yio je	Nan
-olacağı	yio je	Nan
-olacağını	yoo jẹ	Nan
-olamadı	ko le jẹ	Nan
+olacak	yoo	None
+olacaktı	yoo	None
+olacaktır	yio	None
+olacağı	yio	None
+olacağını	yoo	None
+olamadı	le	None
 olabilir	le	None
 olan	ọkan	Nan
 olanak	seese	Nan
@@ -513,7 +513,7 @@ otoriter	onkọwe	Nan
 otto	otto	Nan
 ottoman	otita	Nan
 otu	igbo	Nan
-oturduğu	ijoko rẹ	Nan
+oturduğu	rẹ	None
 otuz	ọgbọn	Nan
 our	tabi	None
 out	lọ kuro	Nan
@@ -543,8 +543,8 @@ osmanlıya	osmanlıya	Nan
 otel	hotẹẹli	Nan
 osmanlıca	osmanlıca	Nan
 organ	eto ara eniyan	Nan
-orduyu	ọmọ ogun	Nan
-orduya	ọmọ ogun	Nan
+orduyu	ogun	None
+orduya	ogun	None
 oluşum	ibiyi	Nan
 oluşumlar	awọn fọọmu	Nan
 oluşumu	ibiyi	Nan
@@ -558,15 +558,15 @@ ona	rẹ	None
 onay	ìmúdájú	Nan
 onayı	ifọwọsi	Nan
 onda	kẹwa	Nan
-ondan	lati ọdọ rẹ	Nan
+ondan	rẹ	None
 oniki	mejila	None
 oluşu	microcomputers	Nan
 oluştuğunu	o waye	Nan
 oluştuğu	lati ṣẹlẹ	Nan
-oluştururlar	wọn ṣẹda	Nan
+oluştururlar	wọn	None
 oluşturarak	ṣiṣẹda	Nan
 oluşturdu	ṣẹda	Nan
-oluşturdular	wọn ṣẹda	Nan
+oluşturdular	wọn	None
 oluşturduğu	ṣẹda	Nan
 oluşturma	ibiyi	Nan
 oluşturmak	ṣẹda	Nan
@@ -581,26 +581,26 @@ oluşturulmuş	ṣẹda	Nan
 oluşturulmuştur	o ti dasi	Nan
 oluşturur	ṣẹda	Nan
 oluşturmuş	ṣẹda	Nan
-onlara	si wọn	Nan
-onlardan	lati ọdọ wọn	Nan
-onlarla	pẹlu wọn	Nan
+onlara	wọn	None
+onlardan	wọn	None
+onlarla	wọn	None
 orantılı	o yẹ	Nan
 oranı	oṣuwọn	Nan
 oranının	oṣuwọn ti	Nan
 oraya	si ibẹ	Nan
-ordu	ọmọ ogun	Nan
-orduda	ninu ẹgbẹ ọmọ ogun	Nan
-ordudan	lati ogun	Nan
+ordu	ogun	None
+orduda	ogun	None
+ordudan	ogun	None
 oranları	awọn oṣuwọn	Nan
-orduları	ọmọ ogun	Nan
-ordunun	ọmọ ogun	Nan
-ordusu	ọmọ ogun	Nan
-ordusuna	ọmọ ogun	Nan
-ordusunda	ọmọ ogun	Nan
-ordusunu	ọmọ ogun	Nan
-ordusunun	ọmọ ogun	Nan
-ordusuyla	ọmọ ogun	Nan
-ordularının	ọmọ ogun	Nan
+orduları	ogun	None
+ordunun	ogun	None
+ordusu	ogun	None
+ordusuna	ogun	None
+ordusunda	ogun	None
+ordusunu	ogun	None
+ordusunun	ogun	None
+ordusuyla	ogun	None
+ordularının	ogun	None
 rekor	igbasilẹ	Nan
 oranla	ju	Nan
 oran	oṣuwọn	Nan
@@ -610,14 +610,14 @@ online	lori ayelujara	Nan
 onu	rẹ-rẹ-rẹ	Nan
 onun	rẹ	None
 onuncu	kẹwa	Nan
-onunla	pẹlu rẹ	Nan
+onunla	rẹ	None
 oranda	ipin	None
 onur	ọlá	Nan
 opera	opera	Nan
 operasyon	isẹ	Nan
 operasyonu	mosi	Nan
 optik	opitika	Nan
-orada	ní bẹ	Nan
+orada	ní	None
 oradan	lati ibẹ	Nan
 oral	ẹnu	Nan
 open	ṣii	Nan
@@ -650,7 +650,7 @@ sesleri	awọn ohun	Nan
 seslerine	ìró	None
 sesli	ẹ̀jẹ́	Nan
 sessiz	dakẹrọrọ	Nan
-seçilen	ti a ti yan	Nan
+seçilen	yan	None
 set	ṣeto	Nan
 seven	ifẹ	Nan
 sever	awọn ololufẹ	Nan
@@ -660,8 +660,8 @@ sevgili	ololufe	Nan
 sevgilisi	ololufe	Nan
 sevgisi	ni ife	Nan
 sevdiği	ni ife	Nan
-sesini	ohun rẹ	Nan
-seçilim	mo yan	Nan
+sesini	rẹ	None
+seçilim	yan	None
 seçilme	dibo	Nan
 sierra	sierra	Nan
 sigara	siga	Nan
@@ -682,14 +682,14 @@ sibirya	siberian	Nan
 si	si	Nan
 show	ṣafihan	Nan
 shepherd	oluṣọ-agutan	Nan
-seçilmiş	ti a ti yan	Nan
-seçilmiştir	ti yan	Nan
+seçilmiş	yan	None
+seçilmiştir	yan	None
 seçim	yiyan	Nan
 seçimi	yiyan	Nan
 seçimle	dibo	Nan
 seçimler	awọn idibo	Nan
 seçimlerde	awọn idibo	Nan
-seçilir	ti a ti yan	Nan
+seçilir	yan	None
 seçimleri	awọn idibo	Nan
 seçme	yan	None
 seçmeler	yiyan	Nan
@@ -702,9 +702,9 @@ seçkin	yato si	Nan
 sina	sina	Nan
 sesin	ìró	None
 ses	ìró	None
-sektörün	eka naa	Nan
+sektörün	eka	None
 sektöründe	ile ise	Nan
-sel	iṣan omi	Nan
+sel	omi	None
 selahaddin	saladin	Nan
 selahattin	selahattin	Nan
 selanik	tẹsalóníkà	Nan
@@ -731,13 +731,13 @@ seddülbahir	seddülbahir	Nan
 selçukluları	seljuks	Nan
 sedef	parili	Nan
 sefere	aago	Nan
-seferi	irin ajo	Nan
-seferinde	ni igba kan	Nan
-seferine	irin ajo	Nan
-seferini	irin ajo	Nan
-seferler	awọn irin ajo	Nan
-seferleri	awọn irin ajo	Nan
-sefer	irin ajo	Nan
+seferi	ajo	None
+seferinde	kan	None
+seferine	ajo	None
+seferini	ajo	None
+seferler	ajo	None
+seferleri	ajo	None
+sefer	ajo	None
 sesi	ìró	None
 selçukluların	awọn seljuks	Nan
 sembolik	apẹẹrẹ	Nan
@@ -770,7 +770,7 @@ senato	alagba	Nan
 sembol	aami	Nan
 senatosu	alagba	Nan
 sene	ọdun	Nan
-senede	ọdun kan	Nan
+senede	kan	None
 seni	iwo	Nan
 senin	rẹ	None
 sentetik	sintetiki	Nan
@@ -789,7 +789,7 @@ sorular	awọn ibeere	Nan
 sorumlu	lodidi	Nan
 sorumludur	jẹ lodidi	Nan
 sorumluluk	ojuse	None
-sorumlusu	ṣeduro fun	Nan
+sorumlusu	fun	None
 sorun	iṣoro	Nan
 sorunlar	awọn iṣoro	Nan
 sorunları	awọn ọran	Nan
@@ -835,7 +835,7 @@ ssc	ssc	Nan
 sscb	ussr	Nan
 sscbnin	awọn ussr	Nan
 spears	awọn ọkọ	Nan
-spaniel	ọmọ ogun	Nan
+spaniel	ogun	None
 soğuk	tutu	Nan
 soyut	áljẹbrà	Nan
 sosyalizm	ọrọ ajumọṣe	Nan
@@ -848,7 +848,7 @@ sovyet	rosia	Nan
 sosyalist	alaifeiruedaomoenikeji	Nan
 sovyetler	soviets	Nan
 soy	igara	Nan
-soyadı	oruko idile	Nan
+soyadı	oruko	None
 soykırım	ipaeyarun	Nan
 soylu	ọlọla	Nan
 soylular	ọlaju	Nan
@@ -857,7 +857,7 @@ soyundan	iru-ọmọ	Nan
 sovyetlerin	soviets	Nan
 sondası	wadi	Nan
 sonda	wadi	Nan
-sonbahar	igba irẹdanu ewe	Nan
+sonbahar	ewe	None
 sistemin	awọn eto	Nan
 sisteminde	awọn eto	Nan
 sistemindeki	awọn eto	Nan
@@ -879,7 +879,7 @@ sisteme	eto	Nan
 sistemdir	eto jẹ	Nan
 sinema	sinima	Nan
 sinemaya	si cinima	Nan
-singapur	orílẹ̀ èdè singapore	Nan
+singapur	orílẹ̀	None
 single	awọn ẹlẹgbẹ	Nan
 singleı	ẹyọkan	Nan
 sini	atẹ	Nan
@@ -966,9 +966,9 @@ ruslar	ara ilu rọ́ṣíà	Nan
 sabiha	sabiha	Nan
 russell	rùn	Nan
 rusyada	ni russia	Nan
-rusyanın	awọn belarus	Nan
+rusyanın	belarus	None
 rusyaya	rísia	Nan
-rusyayı	belarus si	Nan
+rusyayı	belarus	None
 rusça	ara ilu rọsia	Nan
 rutenyum	ruthenium	Nan
 république	république	None
@@ -980,7 +980,7 @@ sahipti	mo ni	Nan
 sahiptir	o ni	Nan
 sahiptirler	ni	Nan
 sahne	ibi isẹlẹ	Nan
-sahnede	lori ipele	Nan
+sahnede	ipele	None
 sahneleri	awọn iwoye	Nan
 sahneye	ibi isere naa	Nan
 sahra	aginjù	Nan
@@ -1004,9 +1004,9 @@ safevi	ailewu	Nan
 safi	àwọn	Nan
 sabri	sabri	Nan
 sagopa	sagopa	Nan
-sahada	ninu oko	Nan
+sahada	oko	None
 sahası	kootu	Nan
-sahasında	ninu oko	Nan
+sahasında	oko	None
 sahibi	oniwun	Nan
 sahibidir	ẹni ni	Nan
 sahil	etikun	Nan
@@ -1060,7 +1060,7 @@ romanyanın	romania	Nan
 romanı	aramada	Nan
 romanın	aramada	Nan
 romanından	aramada	Nan
-romaya	roman to	Nan
+romaya	to	None
 romen	roman	Nan
 ron	ron	Nan
 ronaldinho	ronaldinho	Nan
@@ -1083,7 +1083,7 @@ rolling	yiyi	Nan
 robin	robin	Nan
 rolü	ipa ti	Nan
 rolünü	ipa ti	Nan
-rolüyle	ipa rẹ	Nan
+rolüyle	rẹ	None
 roma	lomu	Nan
 romada	roma	None
 romalı	roman	Nan
@@ -1100,7 +1100,7 @@ sayı	nọmba	Nan
 sayıca	nọmba	Nan
 sayıda	nọmba	Nan
 sayıdaki	nọmba ti	Nan
-sayılabilecek	ni a le gbero	Nan
+sayılabilecek	le	None
 sayılabilir	kika	Nan
 sayılan	ka	Nan
 sayılar	awọn nọmba	Nan
@@ -1113,12 +1113,12 @@ sayesinde	ọpẹ si	Nan
 sayede	ọna	Nan
 sayan	kika	Nan
 savaşın	ja	Nan
-savaşına	ogun lori	Nan
-savaşında	ninu ogun	Nan
-savaşındaki	ninu ogun	Nan
-savaşından	lati ogun	Nan
+savaşına	ogun	None
+savaşında	ogun	None
+savaşındaki	ogun	None
+savaşından	ogun	None
 savaşını	ogun	None
-savaşının	ti ogun	Nan
+savaşının	ogun	None
 sayılır	ka	Nan
 savunan	igbeja	Nan
 savunma	olugbeja	Nan
@@ -1136,8 +1136,8 @@ sağlanması	pese	Nan
 sağlanmıştır	pese	Nan
 sağlanır	pese	Nan
 sağlar	pese	Nan
-sağlarlar	wọn pese	Nan
-sağlayacak	yoo pese	Nan
+sağlarlar	wọn	None
+sağlayacak	yoo	None
 sağlayan	pese	Nan
 sağlık	ilera	Nan
 sağlıklı	ni ilera	Nan
@@ -1163,14 +1163,14 @@ sağ	ni ọtun	Nan
 sağda	ni ọtun	Nan
 sağladı	pese	Nan
 sağladığı	pese	Nan
-sağlam	to lagbara	Nan
+sağlam	to	None
 sağlamak	pese	Nan
 sağlamaktadır	pese	Nan
 sağlamaya	lati pese	Nan
 sağa	ni ọtun	Nan
 savaşçı	jagunjagun	Nan
 savaştan	ogun	None
-savaşta	ninu ogun	Nan
+savaşta	ogun	None
 sanat	aworan	Nan
 sanatlar	ona ona	Nan
 sanatları	ona ona	Nan
@@ -1192,7 +1192,7 @@ san	orin	Nan
 samuel	samueli	Nan
 saldırısına	kọlu	Nan
 saldırıya	kọlu	Nan
-salgın	àjàkálẹ àrùn	Nan
+salgın	àrùn	None
 salih	olododo	Nan
 salon	yara nla ibugbe	Nan
 salonu	gbongan	Nan
@@ -1223,12 +1223,12 @@ savaş	ogun	None
 savaşa	ja	Nan
 savaşan	ija	Nan
 savaşlar	ogun	None
-savaşlarda	ogun inu	Nan
-savaşları	awọn ogun	Nan
+savaşlarda	ogun	None
+savaşları	ogun	None
 savaşlarında	ogun	None
 satışa	tita	Nan
 sebebiyle	nitori	Nan
-sarıyer	fi ipari si	Nan
+sarıyer	fi	None
 saruhan	saruhan	Nan
 santa	santa	None
 santiago	santiago	Nan
@@ -1321,14 +1321,14 @@ küçükçekmece	küçükçekmece	Nan
 kěhàn	kěhàn	Nan
 kıbrıs	kírúsì	Nan
 kıbrısta	cyprus	Nan
-kılan	mu ki	Nan
-kılar	mu ki	Nan
+kılan	ki	None
+kılar	ki	None
 kılcal	ayaba	Nan
 küçük	kekere	None
 kısmında	ni apakan	Nan
 köylü	epa	None
 köy	fi	None
-kuzeni	ọmọ ẹgbọn	Nan
+kuzeni	ọmọ	None
 kuzey	ariwa	Nan
 kuzeybatı	ariwa iwọ-oorun	Nan
 kuzeybatıda	ni ariwa iwọ-oorun	Nan
@@ -1386,7 +1386,7 @@ kömür	eedu	Nan
 köle	ẹrú	Nan
 kökünden	ti ipilẹṣẹ	Nan
 köklü	fidimule	Nan
-kuşkusuz	ko si tabi-tabi	Nan
+kuşkusuz	ko	None
 kuşlar	àwọn ẹyẹ	Nan
 kuşları	àwọn ẹyẹ	Nan
 kuşların	àwọn ẹyẹ	Nan
@@ -1442,7 +1442,7 @@ liderleri	awọn adari	Nan
 lidya	lidia	Nan
 lidyalılar	awọn ara lidia	Nan
 library	ile ikawe	Nan
-let	jẹ ki	Nan
+let	ki	None
 lisesinde	ni ile-iwe giga	Nan
 listelerde	ninu atokọ	Nan
 lostun	o los	Nan
@@ -1488,15 +1488,15 @@ kızları	awọn ọmọbinrin	Nan
 kızlık	wundia	Nan
 kızı	ọmọbinrin	Nan
 kızıl	pupa	None
-kızılay	oṣupa pupa	Nan
-kızılbaş	ori pupa	Nan
+kızılay	pupa	None
+kızılbaş	pupa	None
 kızılötesi	infurarẹẹdi	Nan
 kızılırmak	kızılırmak	Nan
-kış	igba otutu	Nan
+kış	otutu	None
 kışlar	winitutu	Nan
-kışları	igba otutu	Nan
+kışları	otutu	None
 kışı	eniyan	Nan
-kışın	ni igba otutu	Nan
+kışın	otutu	None
 l	l	Nan
 la	la	Nan
 kızlar	awon odomobirin	Nan
@@ -1552,8 +1552,8 @@ lardan	lati lara	Nan
 lahit	ẹṣẹ	Nan
 larus	idin	Nan
 las	las	Nan
-latin	ede latini	Nan
-latince	ede latini	Nan
+latin	latini	None
+latince	latini	None
 lav	lava	Nan
 lavigne	lavigne	Nan
 law	ofin	None
@@ -1571,7 +1571,7 @@ konuşmaları	awọn ibaraẹnisọrọ	Nan
 konuşması	ọrọ	Nan
 konuşmasında	ninu oro re	Nan
 konuşulan	sọ	None
-konuşulmaktadır	o ti sọ	Nan
+konuşulmaktadır	sọ	None
 konuşulur	sọ	None
 konuşur	soro	Nan
 konya	konya	Nan
@@ -1591,10 +1591,10 @@ konularında	awọn ọran	Nan
 korede	ni korea	Nan
 konulu	loju	Nan
 konuma	ipo	None
-konumda	ni ipo	Nan
+konumda	ipo	None
 konumu	ipo	None
 konumuna	junior	Nan
-konumunda	ni ipo	Nan
+konumunda	ipo	None
 konumundadır	o wa ni offline	Nan
 konusu	koko	Nan
 konum	ipo	None
@@ -1602,21 +1602,21 @@ konudaki	awọn akọle	Nan
 korenin	koria	Nan
 korkunç	ẹru	Nan
 koymaktadır	fihan	None
-koymuştur	o ti fi	Nan
+koymuştur	fi	None
 koyu	dudu	Nan
 koyun	agutan	Nan
-kozmik	agba ara	Nan
+kozmik	agba	None
 kozmogoni	ẹwa	Nan
 kozmolojik	ẹla	Nan
 koç	olukọ	Nan
 koçyiğit	koçyiğit	Nan
-koşullar	awọn ipo	Nan
-koşullarda	awọn ipo	Nan
-koşulları	awọn ipo	Nan
-koşulların	awọn ipo	Nan
-koşullarına	awọn ipo	Nan
-koşullarında	ni awọn ipo	Nan
-koyduğu	fi si	Nan
+koşullar	ipo	None
+koşullarda	ipo	None
+koşulları	ipo	None
+koşulların	ipo	None
+koşullarına	ipo	None
+koşullarında	ipo	None
+koyduğu	fi	None
 koydu	gbe	None
 koyar	fi	None
 koyan	fi	None
@@ -1640,7 +1640,7 @@ korunmuş	ni idaabobo	Nan
 kral	ọba	Nan
 konuda	koko	Nan
 kontrolünü	iṣakoso	Nan
-kolera	arun onigbameji	Nan
+kolera	arun	None
 kolları	awọn ọwọ	Nan
 koloni	ileto	Nan
 kolordu	yinbon	Nan
@@ -1702,7 +1702,7 @@ komutanlığına	balogun	Nan
 komutanı	balogun	Nan
 komutasında	ni aṣẹ	Nan
 komutasındaki	labẹ aṣẹ	Nan
-komünist	ọmọ ẹgbẹ ilu	Nan
+komünist	ọmọ	None
 komünistler	awọn alagbọrọ	Nan
 komünizm	communism	Nan
 komutanları	awọn alakoso	Nan
@@ -1725,14 +1725,14 @@ kuranın	awọn idasile	Nan
 kurarak	igbekale	Nan
 kurban	njiya	Nan
 kurdu	ipilẹ	Nan
-kurdular	wọn mulẹ	Nan
-kurduğu	o da	Nan
+kurdular	wọn	None
+kurduğu	da	None
 kurgu	itan-akọọlẹ	Nan
 kurma	ṣeto	Nan
-kurmak	fi idi mulẹ	Nan
+kurmak	fi	None
 kurmanci	kurmanci	Nan
 kurmay	oṣiṣẹ	Nan
-kurmaya	fi idi mulẹ	Nan
+kurmaya	fi	None
 kuramının	ti yii	Nan
 kuramına	yii si	Nan
 kuramı	yii	Nan
@@ -1744,19 +1744,19 @@ kupasında	ni cup	Nan
 kupasını	olowoiyebiye	Nan
 kupasının	awọn cup	Nan
 kupayı	kẹkẹ ẹlẹsẹ mẹrin	Nan
-kurmayı	fi idi mulẹ	Nan
+kurmayı	fi	None
 kurak	gbẹ	Nan
-kurallar	awọn ofin	Nan
-kurallara	awọn ofin	Nan
-kuralları	awọn ofin	Nan
-kurallarına	awọn ofin	Nan
-kurallarını	awọn ofin	Nan
+kurallar	ofin	None
+kurallara	ofin	None
+kuralları	ofin	None
+kurallarına	ofin	None
+kurallarını	ofin	None
 kuram	yii	Nan
 kuramları	awọn imọ-jinlẹ	Nan
 kural	ṣàkóso	Nan
 kum	lododun	Nan
 kurmuş	mulẹ	Nan
-kurmuştur	o ti fi idi mulẹ	Nan
+kurmuştur	fi	None
 kurulu	ọkọ	Nan
 kurulur	ọkọ	Nan
 kuruluş	idasile	Nan
@@ -1810,7 +1810,7 @@ kulesi	ile-iṣọ	Nan
 kullanan	olumulo	Nan
 kullanarak	lilo	Nan
 kullandı	o lo	Nan
-kullandıkları	wọn lo	Nan
+kullandıkları	wọn	None
 kubbe	éù	Nan
 kuantum	kuatomu	Nan
 kronik	onibaje	Nan
@@ -1837,7 +1837,7 @@ kullanmak	lo	Nan
 kullanmaktadır	nlo	Nan
 kullanılır	ti lo	Nan
 kullanılırdı	ti o ti lo	Nan
-kullanılırlar	lo fun	Nan
+kullanılırlar	fun	None
 kullanılıyordu	ti o ti lo	Nan
 kullanım	lo	Nan
 kullanıma	lati lo	Nan
@@ -1846,7 +1846,7 @@ kullanılmıştır	ti lo	Nan
 kullanımına	lati lo	Nan
 kullanımının	ti lilo	Nan
 kullanır	nlo	Nan
-kullanırlar	wọn lo	Nan
+kullanırlar	wọn	None
 kulübe	ojiji	Nan
 kulübü	ọgọ	Nan
 kulübün	bọọlu naa	Nan
@@ -1858,7 +1858,7 @@ kullanılmaya	lilo awọn	Nan
 kullanması	lati lo	Nan
 kullanmaya	lilo	Nan
 kullanmayı	lati lo	Nan
-kullanmışlardır	wọn lo	Nan
+kullanmışlardır	wọn	None
 kullanmıştır	o ti lo	Nan
 kullanıcı	olumulo	Nan
 kullanıcılar	awọn olumulo	Nan
@@ -1871,7 +1871,7 @@ kullanıldığı	bi o ti lo	Nan
 kullanılmak	lati lo	Nan
 kullanılmaktadır	o ti lo	Nan
 kullanılması	lilo	Nan
-kullanılabilir	nkan elo	Nan
+kullanılabilir	nkan	None
 lı	irọ	Nan
 lık	ness	Nan
 m	m	Nan
@@ -1989,7 +1989,7 @@ mm	mm	Nan
 mobil	alagbeka	Nan
 moda	njagun	Nan
 mitolojisi	itan aye atijọ	Nan
-muharebesinde	ninu ogun	Nan
+muharebesinde	ogun	None
 morgan	morgan	None
 morse	pẹtẹlẹ	Nan
 muazzam	tobi pupo	Nan
@@ -2006,7 +2006,7 @@ muhammedi	muhammad ni	Nan
 muhammedin	awọn muhammad	Nan
 muhammet	muhammet	Nan
 muharebe	ija	Nan
-muharebeleri	awọn ogun	Nan
+muharebeleri	ogun	None
 muaviye	muawiyah	Nan
 mu	jẹ	Nan
 mtv	mtv	Nan
@@ -2038,7 +2038,7 @@ nitelikli	tóyẹ	Nan
 niteliği	iseda	Nan
 niçin	idi	Nan
 niğde	niğde	Nan
-nişanı	adehun igbeyawo	Nan
+nişanı	igbeyawo	None
 no	rara.	Nan
 nobel	nobel	None
 nokta	aami	Nan
@@ -2047,7 +2047,7 @@ noktadan	koko	Nan
 noktalar	awọn aaye	Nan
 noktaları	awọn aaye	Nan
 nispeten	afiwera	Nan
-nisan	adehun igbeyawo	Nan
+nisan	igbeyawo	None
 nilüfer	lotus	Nan
 nil	nile	Nan
 new	tuntun	None
@@ -2071,7 +2071,7 @@ nevşehir	nevşehir	Nan
 noktasına	ojuami	Nan
 noktaya	ojuami	Nan
 nüfusa	olugbe	Nan
-nüfusu	olugbe rẹ	Nan
+nüfusu	rẹ	None
 nüfusun	olugbe	Nan
 nüfusunun	ti olugbe	Nan
 nüfuz	ipa	Nan
@@ -2099,7 +2099,7 @@ not	akiyesi	Nan
 noktasında	ni aaye	Nan
 notlar	awọn akọsilẹ	Nan
 numaralı	nomba	Nan
-numarası	nọmba rẹ	Nan
+numarası	rẹ	None
 nun	awọn	Nan
 nur	ina	Nan
 nuri	nuri	Nan
@@ -2161,7 +2161,7 @@ nesil	iran	Nan
 nesin	ohun ti o	Nan
 nesli	iran	Nan
 nesne	nnkan	Nan
-nesnelerin	awọn nkan	Nan
+nesnelerin	nkan	None
 nesnenin	ohun naa	Nan
 net	àwọn	Nan
 nereye	nibo	Nan
@@ -2192,8 +2192,8 @@ mary	màríà	Nan
 marşı	orin oloyin	Nan
 masa	tabili	None
 masal	itan	Nan
-masallar	awon to fun	Nan
-masalları	awon to fun	Nan
+masallar	fun	None
+masalları	fun	None
 mason	mason	Nan
 masonik	masoniki	Nan
 masonlar	awọn ọga	Nan
@@ -2206,12 +2206,12 @@ materyalizm	ile-aye	Nan
 marxın	awọn marx	Nan
 marx	maaki	Nan
 maruz	han	Nan
-martı	ẹyẹ omi òkun	Nan
+martı	omi	None
 mardin	ṣe o	Nan
 mareşal	marshal	Nan
 maria	ọkọ	Nan
 marie	ọkọ	Nan
-mariner	ọkọ oju omi	Nan
+mariner	omi	None
 mark	aami	Nan
 marka	ami	Nan
 mathers	awọn tọkọtaya	Nan
@@ -2220,8 +2220,8 @@ marksizmin	marxism	Nan
 marmara	marmara	Nan
 mars	orin oloyin	Nan
 marshall	marshall	Nan
-marsın	awọn mars	Nan
-mart	oṣu kẹta	Nan
+marsın	mars	None
+mart	kẹta	None
 martin	martin	Nan
 marksizm	marxism	Nan
 marcus	ayase	Nan
@@ -2254,7 +2254,7 @@ mayoz	meiosis	Nan
 mayın	t’emi	Nan
 mayınlar	maini	Nan
 mavi	bulu	Nan
-mayıs	oṣu karun	Nan
+mayıs	karun	None
 maça	spade	Nan
 maçlar	ibaamu	Nan
 maçlarda	ni baramu	Nan
@@ -2289,7 +2289,7 @@ ma	ma	Nan
 maarif	maarif	Nan
 macar	ara ilu hungary	Nan
 macaristan	họnari	Nan
-macarlar	awọn ara ilu hungari ni	Nan
+macarlar	hungari	None
 madalya	medal	Nan
 madalyası	medal	Nan
 mahmud	mahmud	Nan
@@ -2297,7 +2297,7 @@ madde	ọrọ	Nan
 maddelerden	awọn oludoti	Nan
 maddeleri	awọn aṣoju	Nan
 maddelerin	oludoti	Nan
-maddenin	nkan na	Nan
+maddenin	nkan	None
 maddesi	nkan	None
 maddesine	nkan	None
 maddi	ohun elo	Nan
@@ -2327,7 +2327,7 @@ maliye	isuna	Nan
 mahsus	mahsus	Nan
 mahsusa	-ọkọ	Nan
 makale	nkan	None
-makaleler	awọn nkan	Nan
+makaleler	nkan	None
 makam	ọfiisi	Nan
 makamı	aṣẹ	Nan
 makbule	mọrírì	Nan
@@ -2348,7 +2348,7 @@ mezhepleri	denomination	Nan
 mezopotamya	mesopotamia	Nan
 mezopotamyada	ni mesopotamia	Nan
 mezun	gboye	Nan
-mezunları	awọn ọmọ ile-iwe giga	Nan
+mezunları	ọmọ	None
 meşe	igi oaku	Nan
 meşgul	nṣiṣe lọwọ	Nan
 meşhur	olokiki	Nan
@@ -2467,7 +2467,7 @@ meryem	meryem	Nan
 mesafe	jinna	Nan
 mesaj	ifiranṣẹ	Nan
 mescidi	mọṣalaṣi	Nan
-mesela	fun apere	Nan
+mesela	fun	None
 mermer	okuta didan	Nan
 mesele	oro	Nan
 meslek	oojọ	Nan
@@ -2481,7 +2481,7 @@ meselesi	ọrọ ti	Nan
 mirasları	ogún	Nan
 merkürün	makiuri	Nan
 merkezî	aringbungbun	Nan
-mensup	ọmọ ẹgbẹ	Nan
+mensup	ọmọ	None
 merak	iyalẹnu	Nan
 mercek	lẹnsi	Nan
 merdiven	pẹtẹẹsì	Nan
@@ -2570,10 +2570,10 @@ yıldan	ọdun	Nan
 yıldızı	irawo	Nan
 yıllar	ọdun	Nan
 yıllara	awọn ọdun	Nan
-yıllarca	fun ọdun	Nan
+yıllarca	fun	None
 yıllarda	ọdun	Nan
 yıllardan	ti ọdun	Nan
-yıllardır	fun ọdun	Nan
+yıllardır	fun	None
 yılları	ọdun	Nan
 yıldızın	irawo	Nan
 zamanlarda	ni asiko	Nan
@@ -2584,7 +2584,7 @@ yöne	itọsọna	Nan
 yöneldi	ni ṣiṣi	Nan
 yönelen	dari	Nan
 yönelik	ti a pinnu	Nan
-yöneliktir	o jẹ fun	Nan
+yöneliktir	fun	None
 yöneten	ṣàkóso	Nan
 yönetici	oluṣakoso	Nan
 yöneticiler	awọn alakoso	Nan
@@ -2652,12 +2652,12 @@ yöntemlerle	nipasẹ awọn ọna	Nan
 yönü	itọsọna	Nan
 yönünde	si ọna	Nan
 yönündeki	itọsọna naa	Nan
-yönünden	ti a ba nso nipa	Nan
+yönünden	nso	None
 yöntemi	ọna	Nan
 yunanca	griki	Nan
 zamanların	aago	Nan
 zamanı	akoko naa	Nan
-çalışırlar	wọn ṣiṣẹ	Nan
+çalışırlar	wọn	None
 çalışıyor	ṣiṣẹ	Nan
 çalışıyordu	mo n gbiyanju	Nan
 çanakkale	çanakkale	Nan
@@ -2680,14 +2680,14 @@ zamanı	akoko naa	Nan
 çalışmaları	awọn ijinlẹ	Nan
 çalışmaların	ti iṣẹ	Nan
 çalışmalarına	ṣiṣẹ si	Nan
-çalışmalarında	iṣẹ wọn	Nan
-çalışmalarından	iṣẹ wọn	Nan
-çalışmalarını	iṣẹ wọn	Nan
+çalışmalarında	wọn	None
+çalışmalarından	wọn	None
+çalışmalarını	wọn	None
 çarpar	lu	Nan
 çalışmalarının	iṣẹ ti	Nan
 çalışması	iwadi	None
 çalışmasında	ninu iwadii	Nan
-çalışmasını	iwadi awọn	Nan
+çalışmasını	iwadi	None
 çalışmaya	lati ṣiṣẹ	Nan
 çalışmış	ṣiṣẹ	Nan
 çalışmıştır	ṣiṣẹ	Nan
@@ -2698,10 +2698,10 @@ zamanı	akoko naa	Nan
 çarpıcı	yanilenu	Nan
 çağı	akoko	Nan
 çağın	awọn akoko	Nan
-çağına	awọn ọjọ ori	Nan
+çağına	ori	None
 çağında	ni akoko	Nan
 çağının	ti ọjọ-ori	Nan
-çağırdı	ro o	Nan
+çağırdı	ro	None
 çek	ṣayẹwo	Nan
 çeken	ijiya	Nan
 çeker	ṣe	Nan
@@ -2726,7 +2726,7 @@ zamanı	akoko naa	Nan
 çatışmaları	rogbodiyan	None
 çayan	tii	Nan
 çayı	tii mo	Nan
-çağ	ọjọ ori	Nan
+çağ	ori	None
 çağa	akoko	Nan
 çağda	ni akoko	Nan
 çağdaş	imusin	None
@@ -2760,7 +2760,7 @@ zar	ṣẹ	Nan
 zarar	bibajẹ	Nan
 zararlı	iparun	Nan
 zarfında	laarin	None
-zarı	awo ilu	Nan
+zarı	awo	None
 zor	lile	Nan
 zaten	tẹlẹ	Nan
 zazaca	zaza	Nan
@@ -2772,7 +2772,7 @@ zeki	onilàkaye	Nan
 zelanda	hẹlandia	Nan
 zayıf	ailera	Nan
 çalışmaktadır	o ti n ṣiṣẹ	Nan
-zordur	o le nira	Nan
+zordur	le	None
 zorlu	alakikanju	Nan
 °c	c	Nan
 âdem	adam	Nan
@@ -2783,19 +2783,19 @@ zorlu	alakikanju	Nan
 çabaları	akitiyan	Nan
 çabuk	yarayara	Nan
 çalan	ti ndun	Nan
-çalgılar	ohun èlò ìkọrin	Nan
+çalgılar	èlò	None
 çalmaya	ti ndun	Nan
 çalınır	ji	Nan
 çalışan	ṣiṣẹ	Nan
 çalışarak	ṣiṣẹ	Nan
 çalışma	iṣẹ	Nan
 £	£	Nan
- °c	c	Nan
+°c	c	Nan
   	  	Nan
- mm	mm	Nan
+mm	mm	Nan
 zorunda	gbọdọ	Nan
 zorundadır	gbọdọ	Nan
-zorunlu	fi agbara mu	Nan
+zorunlu	agbara	None
 zorunluluğu	ibeere	Nan
 zuko	zuko	Nan
 zübeyde	zübeyde	Nan
@@ -2805,10 +2805,10 @@ zümrüdüanka	phoenix	Nan
 zırhlı	ihamọra	Nan
 zıt	idakeji	Nan
  	 	Nan
- ab	ab	Nan
- km	km	Nan
- km²	km²	Nan
- m	m	Nan
+ab	ab	Nan
+km	km	Nan
+km²	km²	Nan
+m	m	Nan
 zırh	ihamọra	Nan
 yunan	helleniki	Nan
 yumuşak	rirọ	Nan
@@ -2827,7 +2827,7 @@ yazı	nkan	None
 yazıcıoğlu	yazıcıoğlu	Nan
 yazık	aanu	None
 yazılan	kọ	Nan
-yazılar	awọn nkan	Nan
+yazılar	nkan	None
 yazarın	onkọwe	Nan
 yazarı	onkqwe	Nan
 yazarlığı	onkqwe	Nan
@@ -2857,14 +2857,14 @@ yağmur	ojo	None
 yağış	ojoriro	Nan
 yağışlar	ojo	None
 yağışlı	òjò	Nan
-yaş	ọjọ ori	Nan
+yaş	ori	None
 yaşadı	gbé	None
-yaşadıkları	won gbe	Nan
+yaşadıkları	gbe	None
 yaşadığı	gbé	None
 yaşam	igbesi aye	Nan
 yaşama	isofin	Nan
 yaşamak	wa laaye	Nan
-yaşamakta	mon gbe ni	Nan
+yaşamakta	gbe	None
 yaşamaktadır	wa laaye	Nan
 yaşamaya	wa laaye	Nan
 yağ	epo	Nan
@@ -2892,7 +2892,7 @@ yaşamda	ninu igbesi aye	Nan
 yayıncılık	te	Nan
 yayımlanmıştır	o ti tu silẹ	Nan
 yarısından	idaji	None
-yarısını	idaji awọn	Nan
+yarısını	idaji	None
 yarıçapı	ologbo	Nan
 yarış	ije	None
 yarışları	meya-ije	Nan
@@ -2906,20 +2906,20 @@ yasa	wa laaye	Nan
 yasak	ewọ	Nan
 yasaklanmıştır	o jẹ eefi	Nan
 yasaklar	awọn idilọwọ	Nan
-yarısında	idaji ti	Nan
+yarısında	idaji	None
 yarısı	idaji	None
 yarımküre	itatẹtẹ	Nan
 yarımadasının	ile larubawa	Nan
 yarbay	oluṣọ ibisi	Nan
-yardım	egba mi o	Nan
-yardıma	egba mi o	Nan
+yardım	egba	None
+yardıma	egba	None
 yardımcı	oluranlọwọ	Nan
 yardımcılığı	olùrànlówó	Nan
-yardımcısı	egba mi o	Nan
-yardımı	egba mi o	Nan
+yardımcısı	egba	None
+yardımı	egba	None
 yasaktır	o jẹ ewọ	Nan
 yardımıyla	pẹlu iranlọwọ ti	Nan
-yargıtay	kotu tio kaju lo ni orile ede	Nan
+yargıtay	ede	None
 yarı	idaji	None
 yarım	ifemi	Nan
 yarımadanın	ile larubawa	Nan
@@ -2929,9 +2929,9 @@ yarımadasındaki	ile larubawa	Nan
 yargı	idajọ	Nan
 yayın	igbohunsafefe	Nan
 yasal	t’olofin	Nan
-yasaları	awọn ofin	Nan
+yasaları	ofin	None
 yaylası	pẹtẹlẹ	Nan
-yaylı	orisun omi	Nan
+yaylı	omi	None
 yayılan	sipaki	Nan
 yayıldı	tànkálẹ	Nan
 yayılma	tànkálẹ	Nan
@@ -2956,7 +2956,7 @@ yasası	ofin	None
 yasağı	gbesele	Nan
 yatak	ibusun	Nan
 yatakları	ibusun	Nan
-yasalar	awọn ilana	Nan
+yasalar	ilana	None
 yatay	petele	Nan
 yatırım	idoko-owo	Nan
 yatırımlar	idoko-owo	Nan
@@ -2978,29 +2978,29 @@ yok	rárá	Nan
 yoksa	tabi	None
 yoksul	talaka	None
 yoksun	àìní	None
-yoktu	ko ni	Nan
+yoktu	ko	None
 yoktur	kò sí	Nan
 yol	ọna	Nan
 yola	ọna	Nan
 yolcu	ero-ọkọ	Nan
-yolculuk	irin ajo	Nan
-yeşil	alawọ ewe	Nan
-yeğeni	ọmọ arakunrin	Nan
+yolculuk	ajo	None
+yeşil	ewe	None
+yeğeni	ọmọ	None
 yezidin	iwo yezidi	Nan
 yezidi	yezidi	Nan
-yeteneğine	agbara lati	Nan
-yeteneğini	agbara lati	Nan
-yeteri	ti to	Nan
-yeterince	ti to	Nan
-yeterli	ti to	Nan
+yeteneğine	agbara	None
+yeteneğini	agbara	None
+yeteri	to	None
+yeterince	to	None
+yeterli	to	None
 yetersiz	aito	Nan
 yetersizliği	ikuna	Nan
 yolculuğu	gùn	Nan
 yetişen	dagba	Nan
 yetiştirilen	dagba	Nan
 yetki	aṣẹ	Nan
-yetkileri	awọn agbara	Nan
-yetkili	fun ni aṣẹ	Nan
+yetkileri	agbara	None
+yetkili	fun	None
 yetkilileri	awọn oṣiṣẹ	Nan
 yetkisi	aṣẹ	Nan
 yezid	yazid	Nan
@@ -3026,7 +3026,7 @@ yukarıdaki	loke	Nan
 you	iwo	Nan
 yorumu	atunyẹwo	Nan
 yorum	asọye	Nan
-yorkta	ni york	Nan
+yorkta	york	None
 yolla	firanṣẹ	Nan
 yollar	opopona	Nan
 yollarla	awọn ọna	Nan
@@ -3040,12 +3040,12 @@ yolunda	ni ọtun	Nan
 yolunu	ọnà	Nan
 yolunun	ọna	Nan
 yoluyla	nipasẹ	Nan
-yorgun	ti rẹ	Nan
+yorgun	rẹ	None
 york	york	None
 yorka	wara-wara	Nan
 yoluna	ọna lati	Nan
 yetenekli	ẹbun	Nan
-yetenekleri	awọn agbara	Nan
+yetenekleri	agbara	None
 yerçekimi	walẹ	Nan
 yedi	meje	Nan
 yedinci	keje	Nan
@@ -3063,9 +3063,9 @@ yenilenebilir	ti o ṣe sọdọtun	Nan
 yenilgi	ṣẹgun	Nan
 yenilgiye	ṣẹgun	Nan
 yedek	rirọpo	Nan
-yaşındayken	awọn ọjọ ori ti	Nan
+yaşındayken	ori	None
 yaşında	agba	None
-yaşına	ọjọ ori	Nan
+yaşına	ori	None
 yaşamında	igbesi aye	Nan
 yaşamını	igbesi aye	Nan
 yaşamının	ti igbesi aye	Nan
@@ -3076,19 +3076,19 @@ yaşandı	kari	Nan
 yenilik	vationdàs .lẹ	Nan
 yaşanmış	kari	Nan
 yaşar	wa laaye	Nan
-yaşarlar	wọn n gbe	Nan
+yaşarlar	gbe	None
 yaşayan	wa laaye	Nan
 yaşlarda	awọn ọjọ-ori	Nan
 yaşlı	atijọ	Nan
 yaşta	ni ọdun	Nan
-yaşı	ọjọ ori	Nan
+yaşı	ori	None
 yaşanmıştır	o ti ni iriri	Nan
-yenilikler	kini tuntun	Nan
+yenilikler	tuntun	None
 yenilikçi	aratuntun	Nan
 yeniçeri	janissary	Nan
-yerlerinde	gbe sinu	Nan
+yerlerinde	gbe	None
 yerlerinden	ibi ti	Nan
-yerlerini	wọn aye	Nan
+yerlerini	wọn	None
 yerleşen	iṣeṣiro	Nan
 yerleşik	yanju	Nan
 yerleşim	ibugbe	Nan
@@ -3104,14 +3104,14 @@ yeryüzündeki	ile aye	Nan
 yeryüzüne	ile aye	Nan
 yerleşmiştir	o ti wa ni be	Nan
 çekilmek	padasehin	Nan
-yerleri	awọn ipo	Nan
+yerleri	ipo	None
 yerlerde	àwọn ibò	Nan
 yeniçeriler	awọn iṣẹ jandai	Nan
-yenişehir	ilu tuntun	Nan
+yenişehir	tuntun	None
 yer	ibi	Nan
 yeraltı	ipamo	Nan
 yerde	ni aaye	Nan
-yerden	lati ilẹ	Nan
+yerden	ilẹ	None
 yerdir	ibi jẹ	Nan
 yerlere	aaye si	Nan
 yere	ibi	Nan
@@ -3129,16 +3129,16 @@ yerel	agbegbe	Nan
 üstünlüğü	darí	Nan
 ütopyalar	utopias	Nan
 üvey	igbesẹ	Nan
-üye	ọmọ ẹgbẹ	Nan
+üye	ọmọ	None
 üyeler	ẹgbẹ	Nan
-üyeleri	ọmọ ẹgbẹ ti	Nan
-üyelerin	ọmọ ẹgbẹ ti	Nan
-üyelerinden	awọn ọmọ ẹgbẹ rẹ	Nan
-üyelerine	awọn ọmọ ẹgbẹ ti	Nan
-üyelerinin	ọmọ ẹgbẹ ti	Nan
+üyeleri	ọmọ	None
+üyelerin	ọmọ	None
+üyelerinden	rẹ	None
+üyelerine	ọmọ	None
+üyelerinin	ọmọ	None
 üyelik	ẹgbẹ	Nan
-üyesi	ọmọ ẹgbẹ ti	Nan
-üyesidir	omo egbe ni	Nan
+üyesi	ọmọ	None
+üyesidir	egbe	None
 üzere	ninu	Nan
 üzereyken	ibi-afẹde	Nan
 üstünlük	titobi	Nan
@@ -3165,7 +3165,7 @@ yerel	agbegbe	Nan
 ürettiği	o mu wa	Nan
 üzerinde	lori	Nan
 üzerindeki	lórí ẹ	Nan
-ısrar	ta ku	Nan
+ısrar	ku	None
 ısı	igbona	Nan
 ısıl	igbona	Nan
 ısınma	igbona	Nan
@@ -3284,7 +3284,7 @@ yerel	agbegbe	Nan
 şahın	omi	None
 şeylerin	ohun	Nan
 şeytan	satani	Nan
-şia	apele kan	Nan
+şia	kan	None
 şiddet	iwa-ipa	Nan
 şiddeti	iwa-ipa	Nan
 şiddetle	strongly	Nan
@@ -3308,7 +3308,7 @@ yerel	agbegbe	Nan
 şen	ayọ	Nan
 şener	şener	Nan
 şenlik	ajọdun	Nan
-şiirinin	ti oríkì	Nan
+şiirinin	oríkì	None
 şeref	ọlá	Nan
 şeridi	rinhoho	Nan
 şerif	sheriff	Nan
@@ -3320,11 +3320,11 @@ yerel	agbegbe	Nan
 şeriat	sharia	Nan
 şekline	apẹrẹ	Nan
 şiirler	oríkì	None
-şiirlerinde	ni oríkì	Nan
+şiirlerinde	oríkì	None
 şu	iyẹn	Nan
 şubat	oṣu kínní	Nan
 şube	ẹka	Nan
-şubesi	ti eka ti	Nan
+şubesi	eka	None
 şunlardır	jẹ	Nan
 şunları	atẹle naa	Nan
 şövalye	ọbẹ	Nan
@@ -3344,11 +3344,11 @@ yerel	agbegbe	Nan
 şiirlerinin	awọn ewi	Nan
 şikayet	ẹdun	Nan
 şildi	schilt	Nan
-şili	ede chile	Nan
-şimdi	ni bayi	Nan
+şili	ede	None
+şimdi	bayi	None
 şimdiki	lọwọlọwọ	Nan
 şiirleri	oríkì	None
-şimdiye	ni bayi	Nan
+şimdiye	bayi	None
 şirketi	ile-iṣẹ	Nan
 şirketin	ile-iṣẹ naa	Nan
 şirketler	awọn ile-iṣẹ	Nan
@@ -3378,7 +3378,7 @@ yerel	agbegbe	Nan
 şansı	aye	Nan
 şans	aye	Nan
 şanlıurfa	şanlıurfa	Nan
-şampiyonu	ti gba	Nan
+şampiyonu	gba	None
 şair	ewi	Nan
 şairi	ewi	Nan
 şairin	ewi	Nan
@@ -3407,7 +3407,7 @@ yerel	agbegbe	Nan
 şehrine	ilu	Nan
 şehrinin	ilu	Nan
 şehirlerinden	ilu	Nan
-şehzade	ọmọ alade	Nan
+şehzade	ọmọ	None
 şekil	eeya	Nan
 şekilde	ọna	Nan
 şekildedir	jẹ bi	Nan
@@ -3416,15 +3416,15 @@ yerel	agbegbe	Nan
 şekilleri	awọn apẹrẹ	Nan
 şekli	apẹrẹ	Nan
 şeker	suwiti	Nan
-öğrenci	ọmọ ile-iwe	Nan
+öğrenci	ọmọ	None
 şehirlerin	ilu	Nan
 şehirlerde	ilu ni	Nan
 şarkısıyla	pẹlu awọn orin	Nan
 şarkıyı	orin	Nan
 şart	gbọdọ	Nan
-şartlar	awọn ipo	Nan
-şartlarda	ni awọn ofin	Nan
-şartları	awọn ipo	Nan
+şartlar	ipo	None
+şartlarda	ofin	None
+şartları	ipo	None
 şartsız	aisedeede	Nan
 şehirleri	awọn ilu	Nan
 şartı	ibeere	Nan
@@ -3465,11 +3465,11 @@ yaratır	ṣẹda	Nan
 çocuklara	ọmọ	None
 çocukları	ọmọ	None
 çocukların	ọmọ	None
-çıkacak	yio je	Nan
+çıkacak	yio	None
 çocuklarının	ọmọ	None
 çocukluğu	ewe	None
 çocuğu	ọmọ	None
-çocuğun	ọmọ náà	Nan
+çocuğun	náà	None
 çok	pupọ	Nan
 çoklu	lọpọlọpọ	Nan
 çorum	orum	Nan
@@ -3499,15 +3499,15 @@ yaratır	ṣẹda	Nan
 çıkma	farahan	Nan
 çıkaran	ti o npese	Nan
 çıkardı	fa jade	Nan
-çıkardığı	yọ awọn	Nan
+çıkardığı	yọ	None
 çıkarken	nigba ti	Nan
 çıkarma	isediwon	Nan
-çıkarmak	le jade	Nan
-çıkarması	yọ awọn	Nan
+çıkarmak	le	None
+çıkarması	yọ	None
 çıkar	iwulo	None
-çıkarmaya	yọ awọn	Nan
+çıkarmaya	yọ	None
 çıkarılan	ti oniṣowo	Nan
-çıkarıldı	ti yọ kuro	Nan
+çıkarıldı	yọ	None
 çıkarılması	yiyọ	Nan
 çıkarılmış	pipa	Nan
 çıkarılmıştır	kuro	Nan
@@ -3532,7 +3532,7 @@ yaratır	ṣẹda	Nan
 çevreleyen	agbegbe	Nan
 çevresel	ayika	Nan
 çevresi	agbegbe	Nan
-çerçevesinde	laarin ilana ti	Nan
+çerçevesinde	ilana	None
 çerçeve	fireemu	Nan
 çelik	irin	Nan
 çelebinin	ti çelebi	Nan
@@ -3561,7 +3561,7 @@ yaratır	ṣẹda	Nan
 çin	ṣaina	Nan
 çince	ṣaina	Nan
 çincede	ni kannada	Nan
-çinde	ni china	Nan
+çinde	china	None
 çine	ṣaina	Nan
 çini	alẹmọ	Nan
 çinin	awọn alẹmọ	Nan
@@ -3581,7 +3581,7 @@ yaratır	ṣẹda	Nan
 çevrilmiş	itumọ	Nan
 çevrilmiştir	o ti tumọ	Nan
 çevrimiçi	lori ayelujara	Nan
-çeyiz	owo ori	Nan
+çeyiz	ori	None
 çevresine	yika	Nan
 çeyrek	mẹẹdogun	Nan
 çeşit	irú	Nan
@@ -3599,7 +3599,7 @@ yaratır	ṣẹda	Nan
 örneklerinden	awọn apẹẹrẹ	Nan
 örnektir	awọn apẹẹrẹ jẹ	Nan
 örneği	apẹẹrẹ	Nan
-örneğin	fun apere	Nan
+örneğin	fun	None
 örtülü	ti bo	Nan
 örtüsü	ideri	Nan
 örümcek	alantakun	Nan
@@ -3622,7 +3622,7 @@ yaratır	ṣẹda	Nan
 önlemek	ṣe idiwọ	Nan
 önlemler	awọn igbese	Nan
 öykü	itan	Nan
-önünde	niwaju ti	Nan
+önünde	niwaju	None
 önünden	iwaju	Nan
 önüne	ṣaaju	Nan
 örgüt	agbari	Nan
@@ -3676,15 +3676,15 @@ yaratır	ṣẹda	Nan
 öldürülmüştür	o si ti pa	Nan
 öldürür	pa	Nan
 öldüğü	kú	Nan
-öldüğünde	nigbati o ku	Nan
-öldüğünü	okurin naa ku	Nan
+öldüğünde	ku	None
+öldüğünü	ku	None
 ölen	ku	None
-ölene	ti o ku	Nan
+ölene	ku	None
 ölenler	iku	None
-ölmeden	okurin naa ku	Nan
+ölmeden	ku	None
 ölmesi	iku	None
 ölmüş	kú	Nan
-ölmüştür	o ti ku	Nan
+ölmüştür	ku	None
 ölçekli	ìwọn	Nan
 ölçü	ìwọn	Nan
 ölçüde	iye	Nan
@@ -3705,7 +3705,7 @@ yaratır	ṣẹda	Nan
 ödülünü	eye	Nan
 ögdülmişin	awọn ögdülmiş	Nan
 öldü	kú	Nan
-öldükten	o ku lehin	Nan
+öldükten	ku	None
 öldürdü	pa	Nan
 öldürme	pa	Nan
 ödülü	eye	Nan
@@ -3733,25 +3733,25 @@ yaratır	ṣẹda	Nan
 önceleri	ṣaaju	Nan
 önceden	tẹlẹ	Nan
 ölümcül	apani	Nan
-ölüme	si iku	Nan
+ölüme	iku	None
 ölümsüz	odi	Nan
 ölümü	iku	None
-ölümünden	iku re	Nan
-ölümüne	si iku	Nan
+ölümünden	iku	None
+ölümüne	iku	None
 ölümünü	iku	None
 önceki	ti tẹlẹ	Nan
-ölümünün	ti iku	Nan
+ölümünün	iku	None
 ölünce	kú	Nan
 ölür	kú	Nan
 ömer	omer	Nan
 ömrü	igbesi aye	Nan
 ömür	igbesi aye	Nan
 ön	iwaju	Nan
-önce	ki o to di	Nan
+önce	to	None
 ölümüyle	iku	None
 stadyum	papa-iṣere	Nan
 yaratılış	jiini	Nan
-yarattığı	da nipasẹ	Nan
+yarattığı	da	None
 tayvan	taiwan	Nan
 tayyip	tayyip	Nan
 taç	ade	Nan
@@ -3761,11 +3761,11 @@ taşlarla	pẹlu okuta	Nan
 taşları	okuta	Nan
 taşların	okuta	Nan
 taşı	gbe	None
-taşıdığı	gbe e	Nan
+taşıdığı	gbe	None
 taşıma	irinna	Nan
 taşımak	irinna	Nan
 taşımaktadır	beari	Nan
-taşımıştır	o ti gbe	Nan
+taşımıştır	gbe	None
 taşın	gbe	None
 tayland	thailand	Nan
 tayin	ration	Nan
@@ -3790,7 +3790,7 @@ tavan	aja	Nan
 tasavvufun	sufism	Nan
 tarık	tarýk	Nan
 taşındı	ṣí	Nan
-taşınmıştır	o ti gbe	Nan
+taşınmıştır	gbe	None
 tehlike	ijamba	Nan
 tehlikeli	lewu	Nan
 tehlikesi	ijamba	Nan
@@ -3807,12 +3807,12 @@ teklif	idu	Nan
 teklifi	ìfilọ	Nan
 teklifini	idu	Nan
 tehdit	idẹruba	Nan
-tegin	oun nikan	Nan
+tegin	oun	None
 teen	ọdọ	Nan
-tedin	eyin oniyi	Nan
+tedin	eyin	None
 taşını	okuta	Nan
 taşır	beari	Nan
-taşıyan	ti nso	Nan
+taşıyan	nso	None
 taşıyıcı	agbẹru	Nan
 tbmm	apejọ ile-iṣọ ti orilẹ-ede gẹẹsi	Nan
 tbmmde	ni ile asofin	Nan
@@ -3829,8 +3829,8 @@ tedavisi	itọju	Nan
 tdk	tdk	Nan
 teklisi	singlets	Nan
 tarzını	ara	Nan
-tarzı	ara rẹ	Nan
-tanıştı	ó pàdé	Nan
+tarzı	rẹ	None
+tanıştı	ó	None
 tanıştığı	o pade	Nan
 tapınak	tẹmpili	Nan
 tapınağı	tẹmpili	Nan
@@ -3908,7 +3908,7 @@ tarihinde	loju	Nan
 tanı	ayẹwo	Nan
 teknik	imọ ẹrọ	Nan
 teknikleri	awọn imuposi	Nan
-there	ní bẹ	Nan
+there	ní	None
 this	eyi	Nan
 thomas	thomas	Nan
 thumb	atanpako	Nan
@@ -3936,14 +3936,14 @@ tetroz	tetrose	Nan
 tevfik	tevfik	Nan
 tigin	awọn amotekun	Nan
 tevrat	torah	Nan
-tezler	iwe ilana	Nan
+tezler	ilana	None
 teşebbüs	igbiyanju	Nan
 teşekkür	o ṣeun	Nan
 teşkil	duro	Nan
 teşkilat	agbari	Nan
 teşkilatı	agbari	Nan
 teşvik	iwuri	Nan
-tezi	iwe ilana	Nan
+tezi	ilana	None
 teslanın	awọn tesla	Nan
 till	titi	Nan
 time	aago	Nan
@@ -3990,7 +3990,7 @@ temel	ipilẹ	Nan
 temelde	besikale	Nan
 temeli	ipile	Nan
 temelinde	ipilẹ ti	Nan
-temelini	da lori awọn	Nan
+temelini	da	None
 temelleri	awọn ipilẹ	Nan
 temellerini	awọn ipilẹ	Nan
 temelli	orisun	None
@@ -4001,8 +4001,8 @@ temsil	oniduro	Nan
 temsilciler	awọn aṣoju	Nan
 temsilcileri	awọn aṣoju	Nan
 temsilcisi	aṣoju	Nan
-teması	kan si	Nan
-temas	kan si	Nan
+teması	kan	None
+temas	kan	None
 telsiz	redio	Nan
 telli	ti firanṣẹ	Nan
 tekniği	ilana	None
@@ -4028,14 +4028,14 @@ tenis	tẹnisi	Nan
 terimi	igba	Nan
 terimin	igba	Nan
 teriminin	igba	Nan
-terimleri	awọn ofin	Nan
+terimleri	ofin	None
 terk	ikopa	Nan
 termal	igbona	Nan
 termik	igbona	Nan
 terrier	terrier	Nan
 terry	ilẹkun	Nan
 ters	yiyipada	Nan
-tersane	ọkọ oju-omi kekere	Nan
+tersane	kekere	None
 tersi	yiyipada	Nan
 tersine	sẹhin	Nan
 terör	ẹru	Nan
@@ -4064,8 +4064,8 @@ teorisine	yii	Nan
 tanzimat	atunṣeto	Nan
 tanrıçaları	oriṣa	Nan
 tanrıyı	ọlọrun	Nan
-sözkonusu	a ti sọ tẹlẹ	Nan
-sözkonusudur	o ti sọ	Nan
+sözkonusu	sọ	None
+sözkonusudur	sọ	None
 sözler	awọn ọrọ	Nan
 sözleri	awọn ifiyesi	Nan
 sözlerini	awọn ifiyesi	Nan
@@ -4079,16 +4079,16 @@ sözü	mẹnuba	Nan
 sözünü	ṣèlérí	Nan
 söğüt	willow	Nan
 süleyman	suleyman	Nan
-sözcüğünün	ọrọ náà	Nan
-sözcüğünden	ọrọ náà	Nan
-sözcüğün	ọrọ náà	Nan
-sözcüğü	ọrọ náà	Nan
-söylemiş	o sọ pe o jẹ	Nan
+sözcüğünün	náà	None
+sözcüğünden	náà	None
+sözcüğün	náà	None
+sözcüğü	náà	None
+söylemiş	sọ	None
 söylemiştir	o si wi	Nan
 söylenebilir	wi	Nan
 söylenen	kọrin	Nan
-söylenir	o ti sọ	Nan
-söylenmektedir	o ti sọ	Nan
+söylenir	sọ	None
+söylenmektedir	sọ	None
 söyler	sọ	None
 süleymaniye	süleymaniye	Nan
 söylerken	orin	Nan
@@ -4099,7 +4099,7 @@ sözcük	ọrọ	Nan
 sözcükler	awọn ọrọ	Nan
 sözcükleri	awọn ọrọ	Nan
 sözcüklerin	ti awọn ọrọ	Nan
-söylerler	wọn sọ	Nan
+söylerler	sọ	None
 söylemesi	sọ	None
 süleymanın	solomoni	Nan
 sünnet	ikọla	Nan
@@ -4113,15 +4113,15 @@ sürerken	nigba ti	Nan
 süresi	aago	Nan
 süresince	lakoko	Nan
 süreç	ilana	None
-süreçler	awọn ilana	Nan
-süreçte	ninu ilana	Nan
+süreçler	ilana	None
+süreçte	ilana	None
 sürgün	igbekun	Nan
-sürgüne	ti le jade	Nan
+sürgüne	le	None
 sürmektedir	o ngba	Nan
 sürede	aago	Nan
-sürecinin	awọn ilana	Nan
+sürecinin	ilana	None
 sürecine	ilana	None
-sürecinde	ninu ilana	Nan
+sürecinde	ilana	None
 sünni	sunni	Nan
 sünnilik	sünnilik	Nan
 sünnilikte	ni sünnilik	Nan
@@ -4135,16 +4135,16 @@ sürdürmüştür	tesiwaju	Nan
 sürdürülen	tesiwaju	Nan
 sürdüğü	gba	None
 süre	aago	Nan
-sürece	bi gun	Nan
+sürece	gun	None
 sürecek	yoo	None
 süreci	ilana	None
 sürdürmektedir	tẹsiwaju	Nan
-sürmüş	o gba to	Nan
+sürmüş	to	None
 söylemek	sọ	None
-söyledi	so fun	Nan
+söyledi	fun	None
 stüdyo	ile isise	Nan
 su	iyẹn	Nan
-sualtı	wa labe omi	Nan
+sualtı	omi	None
 suat	suat	Nan
 subay	oṣiṣẹ	Nan
 subayları	awọn olori	Nan
@@ -4172,31 +4172,31 @@ suların	omi	None
 stat	papa-iṣere	Nan
 statü	ipo	None
 statüsü	ipo	None
-statüsünde	ipo ti	Nan
+statüsünde	ipo	None
 stephen	alairi	Nan
 steve	steve	Nan
 stewart	stewart	Nan
 stili	ara	Nan
 station	ibudo	Nan
-söylediği	sọ iyẹn	Nan
+söylediği	sọ	None
 sulh	alafia	Nan
 sultanı	sultana	Nan
-suriyedeki	ní síríà	Nan
-suriyenin	ti arun ara igbaya	Nan
+suriyedeki	ní	None
+suriyenin	arun	None
 suriyeye	siria si	Nan
-sutopu	bò omi	Nan
+sutopu	omi	None
 suudi	orilẹ-ede saudi	Nan
 suvla	suvla	Nan
 suya	omi	None
 suyu	omi	None
-suyun	ti omi	Nan
+suyun	omi	None
 suç	ilufin	Nan
 suçlar	odaran	Nan
 suçlu	jẹbi	Nan
 sylar	sy on	Nan
 são	ãò	Nan
 sömürge	amunisin	Nan
-suriyede	ní síríà	Nan
+suriyede	ní	None
 suriye	síríà	Nan
 suretiyle	nipase	Nan
 suresinin	ti akoko	Nan
@@ -4217,7 +4217,7 @@ suphi	supi	Nan
 sur	ogiri	Nan
 suresi	aago	Nan
 sunmuştur	ìfilọ jẹ	Nan
-sürmüşlerdir	wọn jiyan	Nan
+sürmüşlerdir	wọn	None
 sürmüştür	mu	Nan
 sürtünme	ikọlu	Nan
 takdirde	ti o ba ti	Nan
@@ -4226,7 +4226,7 @@ takip	tẹle	Nan
 taklit	afarawe	Nan
 takma	èké	Nan
 taksim	improvisation	Nan
-taktik	awọn ilana	Nan
+taktik	ilana	None
 takvim	kalẹnda	Nan
 takvimi	kalẹnda	Nan
 takviye	iranlọwọ	Nan
@@ -4242,7 +4242,7 @@ tahta	ọkọ	Nan
 tabiî	dajudaju	Nan
 tablo	àwòrán	Nan
 tablosu	tabili	None
-taburu	ọmọ ogun	Nan
+taburu	ogun	None
 tabyası	redoubt	Nan
 tacikistan	tajikistan	Nan
 tag	samisi	Nan
@@ -4324,7 +4324,7 @@ sürülmüştür	o ti jẹ bẹ	Nan
 süs	ohun ọṣọ	Nan
 süsleme	ohun ọṣọ	Nan
 süslü	olutayo	Nan
-sınırları	awọn aala	Nan
+sınırları	aala	None
 süt	wara	Nan
 sütunların	awọn ọwọn	Nan
 sütunu	ẹka	Nan
@@ -4336,7 +4336,7 @@ sıcaklığı	otutu	None
 sütun	ẹka	Nan
 sınırlarına	awọn ifilelẹ lọ	Nan
 sınırlarında	ni ààlà	Nan
-sınırlarını	awọn ala	Nan
+sınırlarını	ala	None
 sırlar	asiri	Nan
 sırp	serbian	Nan
 sırplar	awọn iṣẹ iranṣẹ	Nan
@@ -4357,16 +4357,16 @@ t	t	Nan
 toplu	collective	Nan
 sırayla	ni eto	Nan
 sırasıyla	leralera	Nan
-sınırlarının	awọn aala	Nan
+sınırlarının	aala	None
 sınırlı	binu	Nan
 sınırlıdır	o ni opin	Nan
-sınırı	iye to	Nan
+sınırı	to	None
 sınırına	ààlà	Nan
 sınırında	lórí ààlà	Nan
-sınırını	iye to	Nan
+sınırını	to	None
 sıraya	kana	Nan
 sır	aṣiri	Nan
-sırada	ni ipo	Nan
+sırada	ipo	None
 sıradan	arinrin	Nan
 sıralamasında	ipo	None
 sıralanabilir	lẹsẹsẹ	Nan
@@ -4380,7 +4380,7 @@ toplulukları	awọn agbegbe	Nan
 video	fidio	Nan
 videoları	awọn fidio	Nan
 videosu	fidio	Nan
-vietnam	ede vietnam	Nan
+vietnam	ede	None
 vii	vii	Nan
 viii	viii	Nan
 vikipedi	wikipedia	Nan
@@ -4388,7 +4388,7 @@ vikipedinin	ti wikipedia	Nan
 vilayeti	igberiko	None
 vinci	kireni	Nan
 virtual	foju	Nan
-virüs	kòkòrò àrùn fáírọọsì	Nan
+virüs	àrùn	None
 virüsler	awọn ọlọjẹ	Nan
 virüsleri	awọn ọlọjẹ	Nan
 virüslerin	awọn ọlọjẹ	Nan
@@ -4403,18 +4403,18 @@ vermektedir	sìn	Nan
 vermesi	fún	Nan
 vermeye	fifun	Nan
 vermeyi	fún	Nan
-virüsü	kòkòrò àrùn fáírọọsì	Nan
-vermiş	o ti fun	Nan
-vermişti	o ti fun	Nan
-vermiştir	o ti fun	Nan
+virüsü	àrùn	None
+vermiş	fun	None
+vermişti	fun	None
+vermiştir	fun	None
 verne	verne	Nan
 versiyonu	ẹya	Nan
 veto	veto	Nan
-veveya	veve kan	Nan
+veveya	kan	None
 veya	tabi	None
-vermişlerdir	nwon fun	Nan
-verirler	nwon fun	Nan
-virüsün	kokoro arun fairọọsi naa	Nan
+vermişlerdir	fun	None
+verirler	fun	None
+virüsün	arun	None
 vitamini	ajira	Nan
 vücudunun	ti ara	Nan
 vücut	ara	Nan
@@ -4431,8 +4431,8 @@ web	aaye ayelujara	Nan
 weber	onirin	Nan
 websitesi	aaye ayelujara	Nan
 west	ìwọ oòrùn	Nan
-vücudun	ara rẹ	Nan
-vücudu	ara rẹ	Nan
+vücudun	rẹ	None
+vücudu	rẹ	None
 vücuda	ara	Nan
 vuruşu	tapa	Nan
 vites	jia	Nan
@@ -4447,14 +4447,14 @@ voleybol	folliboolu	Nan
 volkanik	onina aruwo	Nan
 volkswagen	volkswagen	Nan
 von	von	Nan
-voyager	irin ajo	Nan
+voyager	ajo	None
 vs	ati be be lo	Nan
 vurgu	tcnu	Nan
 vuruş	kọlu	Nan
 volkan	onina	Nan
 what	: kini	Nan
-verir	yoo fun	Nan
-verilmiştir	o ti fun	Nan
+verir	fun	None
+verilmiştir	fun	None
 varolan	wa	Nan
 varsa	ti o ba ti	Nan
 varşova	warsaw	Nan
@@ -4468,7 +4468,7 @@ vatandaşlık	ara ilu	Nan
 vatandaşı	ara ilu	Nan
 vatikan	ilu vatican	Nan
 vazgeçilmez	aito	Nan
-vazgeçti	o fi fun	Nan
+vazgeçti	fun	None
 vaşak	lynx	Nan
 varlığının	niwaju	None
 varlığını	aye ti	Nan
@@ -4495,20 +4495,20 @@ verimli	munadoko	Nan
 ve	ati	Nan
 vefat	arekereke	Nan
 verici	atagba	Nan
-verildi	o si ti fun	Nan
+verildi	fun	None
 verilebilir	ti a nṣakoso	Nan
-verilecek	yio je	Nan
+verilecek	yio	None
 verilen	fifun	Nan
 veriler	data	Nan
 verilere	data	Nan
 verileri	datas	Nan
 verilerine	data lori	Nan
 verilir	fifun	Nan
-verilmektedir	o ti fun	Nan
+verilmektedir	fun	None
 verilmesi	fifun	Nan
-verilmesini	fun ni ni	Nan
+verilmesini	fun	None
 verilmiş	fifun	Nan
-verilmişti	o si ti fun	Nan
+verilmişti	fun	None
 veri	data	Nan
 vergi	owo-ori	Nan
 vererek	fifun	Nan
@@ -4523,12 +4523,12 @@ venera	venere	Nan
 veda	o ṣeeṣe	Nan
 venüs	usúsì	Nan
 verdi	fún	Nan
-verdikleri	nwon fun	Nan
-verdiler	nwon fun	Nan
+verdikleri	fun	None
+verdiler	fun	None
 verdiği	tweaking	Nan
 verdiğini	pinnu pe	Nan
-verebilir	le fun	Nan
-verecek	yoo fun	Nan
+verebilir	fun	None
+verecek	fun	None
 venüsün	awọn venus	Nan
 white	funfun	Nan
 who	àjọ who	Nan
@@ -4557,19 +4557,19 @@ yapmasını	ṣe	Nan
 yapmaya	sise	None
 yapmayı	sise	None
 yapmış	ṣe	Nan
-yapmışlardır	wọn ti ṣe	Nan
+yapmışlardır	wọn	None
 yapmıştı	ti ṣe	Nan
 yapılması	ṣe	Nan
 yapmıştır	o ti ṣe	Nan
 yapraklı	ewe	None
 yaptı	ṣe	Nan
-yaptıkları	wọn ṣe	Nan
+yaptıkları	wọn	None
 yaptıktan	o ṣe	Nan
-yaptılar	wọn ṣe	Nan
+yaptılar	wọn	None
 yaptırdı	o kọ	Nan
 yaptırdığı	o kọ	Nan
 yaprak	ewe	None
-yapmaktadır	mu ki	Nan
+yapmaktadır	ki	None
 yapılmasına	ṣe si	Nan
 yapılmış	ṣe	Nan
 yapıtı	awọn iṣẹ ọnà	Nan
@@ -4593,14 +4593,14 @@ yapısının	be	Nan
 yapısını	be	Nan
 yapılmıştı	o ti ṣe	Nan
 yapılmıştır	o ti ṣe	Nan
-yapılır	mu ki	Nan
+yapılır	ki	None
 yapım	gbóògì	Nan
 yapımcı	aṣelọpọ	Nan
 yapımcıları	oluṣe	Nan
 yapımcısı	alagidi	Nan
 yapılmasını	ṣe awọn	Nan
 yapımı	ikole	Nan
-yapımında	o wa ni kiko	Nan
+yapımında	kiko	None
 yapının	ṣe	Nan
 yapıp	ṣe	Nan
 yapısal	igbekale	Nan
@@ -4660,12 +4660,12 @@ yanındaki	ẹgbẹ	Nan
 yankı	iwoyi	Nan
 yanından	lori	Nan
 yanıt	esi	Nan
-yapacak	yoo ṣe	Nan
+yapacak	yoo	None
 yapan	àjọ who	Nan
-yapar	mu ki	Nan
+yapar	ki	None
 yaparak	nipasẹ	Nan
 yaparken	nigba ti	Nan
-yaparlar	wọn ṣe	Nan
+yaparlar	wọn	None
 yanısıra	yato si awọn	Nan
 vakit	aago	Nan
 yani	nitorinaa	Nan
@@ -4753,7 +4753,7 @@ tüketici	alabara	Nan
 tüketim	lilo	Nan
 tüm	gbogbo	Nan
 tümen	pipin	Nan
-tümeni	awọn ipin	Nan
+tümeni	ipin	None
 tümü	gbogbo	Nan
 tüccar	oniṣòwo	Nan
 tümüyle	patapata	Nan
@@ -4770,9 +4770,9 @@ turizm	irin-ajo	Nan
 turist	oniriajo	Nan
 toprakları	agbegbe	Nan
 toprakların	ilẹ	None
-topraklarına	ilẹ wọn	Nan
+topraklarına	wọn	None
 topraklarında	ni agbegbe naa	Nan
-topraklarını	ilẹ wọn	Nan
+topraklarını	wọn	None
 topraklarının	agbegbe	Nan
 toprakta	ninu ile	Nan
 toprağa	ilẹ	None
@@ -4783,8 +4783,8 @@ topun	bọọlu	Nan
 topçu	ajagun	None
 topçusunun	ti artillery	Nan
 tora	t’ara	Nan
-topraklarda	ni ilẹ	Nan
-topraklara	ilẹ naa	Nan
+topraklarda	ilẹ	None
+topraklara	ilẹ	None
 topraklar	ilẹ	None
 toprak	ile	Nan
 toplulukların	awọn agbegbe	Nan
@@ -4812,8 +4812,8 @@ tropikal	tropical	Nan
 troçki	troçki	Nan
 trt	brat	Nan
 truva	tirojanu	Nan
-tugay	ọmọ ogun	Nan
-tugayı	ọmọ ogun naa	Nan
+tugay	ogun	None
+tugayı	ogun	None
 tuna	danube	Nan
 tuncay	tuncay	Nan
 tunceli	tunceli	Nan
@@ -4833,7 +4833,7 @@ tr	t	Nan
 trablus	tripoli	Nan
 trablusgarp	tripoli	Nan
 trabzon	trabzon	Nan
-torunu	ọmọ-ọmọ rẹ	Nan
+torunu	rẹ	None
 trabzonda	trabzonda	Nan
 trabzonsporun	awọn trabzonsporu	Nan
 trafik	ijabọ	Nan
@@ -4879,7 +4879,7 @@ uygarlığı	ọlaju	Nan
 uygarlığının	ti awọn ọlaju	Nan
 uyguladığı	ti paṣẹ	Nan
 uygulama	ohun elo	Nan
-uygulamada	di oba	Nan
+uygulamada	oba	None
 uygulamalar	lw	Nan
 uydusu	satẹlaiti	Nan
 us	mimọ	Nan
@@ -5042,7 +5042,7 @@ cemil	cemile	Nan
 cebir	algebra	Nan
 cevdet	cevdet	Nan
 cezaevinde	ninu tubu	Nan
-cisimler	awọn nkan	Nan
+cisimler	nkan	None
 cisimlerin	awọn ara	Nan
 cismin	ti ara	Nan
 city	ilu	Nan
@@ -5056,7 +5056,7 @@ colspan=	colspan =	Nan
 columbia	ẹyẹ	Nan
 copa	copa	Nan
 coğrafi	àgbègbè	Nan
-coğrafya	ẹkọ nipa ilẹ	Nan
+coğrafya	ilẹ	None
 cisim	nnkan	Nan
 cinsiyet	akọ	Nan
 cinsellik	ibalopọ	Nan
@@ -5075,7 +5075,7 @@ chris	kilasi	Nan
 christian	kristiẹni	Nan
 christopher	christi	Nan
 cia	bẹẹ	Nan
-ciddi	to ṣe pataki	Nan
+ciddi	to	None
 cilt	awọ	Nan
 choice	yiyan	Nan
 coğrafî	àgbègbè	Nan
@@ -5120,7 +5120,7 @@ bükreş	bucharest	Nan
 cd	cd	Nan
 bırakıp	lọ	Nan
 c	c	Nan
-canlandırdığı	dun nipasẹ	Nan
+canlandırdığı	dun	None
 canlandırılan	ti ere idaraya	Nan
 canlandırılmış	ti ere idaraya	Nan
 canlı	laaye	Nan
@@ -5128,7 +5128,7 @@ canlılar	awọn ohun alãye	Nan
 canlılarda	ni laaye	Nan
 canlıları	awọn ẹda	Nan
 canlıların	awọn ẹda	Nan
-canlının	lati gbe	Nan
+canlının	gbe	None
 carl	carla	Nan
 carlos	carlos	Nan
 castiel	castiel	Nan
@@ -5160,7 +5160,7 @@ bölümünü	apakan	Nan
 cristiano	kristian	Nan
 cuma	ọjọru	Nan
 deliğe	iho	Nan
-deliği	iho rẹ	Nan
+deliği	rẹ	None
 deliğin	iho	Nan
 demek	sọ	None
 demektir	ọna	Nan
@@ -5181,8 +5181,8 @@ delik	iho	Nan
 dean	diini	Nan
 deanin	diini	Nan
 death	iku	None
-dede	baba agba	Nan
-dedesi	baba agba	Nan
+dede	agba	None
+dedesi	agba	None
 dedi	wi	Nan
 dediği	pelu	Nan
 demokrat	tiwantiwa	Nan
@@ -5211,12 +5211,12 @@ depp	depp	Nan
 deprem	ìṣẹlẹ	Nan
 depremler	awọn iwariri-ilẹ	Nan
 depremlerin	awọn iwariri-ilẹ	Nan
-der	wí pé	Nan
+der	pé	None
 derece	ìyí	Nan
 denize	iṣagbega	Nan
 denizden	okun	Nan
-denizde	ni omi okun	Nan
-denizcilik	omi okun	Nan
+denizde	omi	None
+denizcilik	omi	None
 denemeleri	awọn idanwo	Nan
 denen	idanwo	Nan
 denetim	se ayewo	Nan
@@ -5231,7 +5231,7 @@ denilen	ti a pe	Nan
 denir	ti a pe	Nan
 denirdi	o ti a npe ni	Nan
 deniz	okun	Nan
-denizaltı	ọkọ inu omi kekere	Nan
+denizaltı	kekere	None
 denizaşırı	okeokun	Nan
 denge	iwontunws.funfun	Nan
 cullen	cullen	Nan
@@ -5274,11 +5274,11 @@ daa	nínú	Nan
 daha	diẹ sii	Nan
 cumhuriyetçi	olominira	Nan
 dağınık	idoti	Nan
-dalıdır	ti eka jẹ	Nan
+dalıdır	eka	None
 damgasını	gbọngàn	Nan
-dayanan	da lori	Nan
-dayanarak	da lori	Nan
-dayanmaktadır	o da lori	Nan
+dayanan	da	None
+dayanarak	da	None
+dayanmaktadır	da	None
 dayanıklı	sooro	Nan
 dayanır	o ti wa ni ipilẹ	Nan
 dayanışma	iṣọkan	Nan
@@ -5291,7 +5291,7 @@ dağlık	olórí òkè	Nan
 dağı	oke	Nan
 dağılma	pipinka	Nan
 dağılması	didọti	Nan
-dayalı	da lori	Nan
+dayalı	da	None
 davut	davut	Nan
 davranışı	ihuwasi	Nan
 davranışları	awọn ihuwasi	Nan
@@ -5315,7 +5315,7 @@ darwinin	ti darwin	Nan
 bölümüne	apakan	Nan
 bölümünde	apakan	Nan
 bölümün	apakan	Nan
-biçimde	ni ọna kan	Nan
+biçimde	kan	None
 biçimi	ọna kika	Nan
 biçiminde	-iṣẹ	Nan
 biçimine	ọna kika	Nan
@@ -5417,7 +5417,7 @@ binanın	ile	Nan
 binası	ile	Nan
 binbaşı	pataki	Nan
 bingöl	bingöl	Nan
-binicilik	gun ẹṣin	Nan
+binicilik	gun	None
 binlerce	ẹgbẹẹgbẹrun	Nan
 birinci	akoko	Nan
 bir	ọkan	Nan
@@ -5432,14 +5432,14 @@ biraraya	papọ	Nan
 bitirdi	ti pari	Nan
 birincil	jc	Nan
 birinde	ni ọkan	Nan
-birliklerini	awọn ọmọ ogun	Nan
+birliklerini	ogun	None
 birliklerinin	awọn ẹgbẹ	Nan
 birlikte	papọ	Nan
 birliğe	isokan	Nan
 birliği	isokan	Nan
 birliğin	isokan	Nan
 birliğinde	isokan	Nan
-birliğinden	awọn ọmọ ogun	Nan
+birliğinden	ogun	None
 birliğine	isokan	Nan
 birliğini	isokan	Nan
 birliğinin	ti isokan	Nan
@@ -5449,7 +5449,7 @@ birçoğu	lọpọlọpọ	Nan
 biseksüel	iselàgbedemeji	Nan
 birliklerin	ti isokan	Nan
 birlikleri	awọn ẹgbẹ	Nan
-birlikler	awọn ọmọ ogun	Nan
+birlikler	ogun	None
 birlik	isokan	Nan
 birinden	lati ọkan	Nan
 birine	si ẹnikan	Nan
@@ -5459,7 +5459,7 @@ birisi	ẹnikan	Nan
 birisidir	o jẹ ọkan	Nan
 biriydi	o jẹ ọkan	Nan
 birincisi	akoko	Nan
-birkaç	kan diẹ	Nan
+birkaç	kan	None
 birleşik	ti iṣọkan	Nan
 birleşme	apapọ	Nan
 birleşmesi	apapọ	Nan
@@ -5502,7 +5502,7 @@ buna	eyi	Nan
 bundan	lati eyi	Nan
 bunlar	iwọnyi	Nan
 bunlara	si awọn wọnyi	Nan
-bunlardan	ti wọn	Nan
+bunlardan	wọn	None
 bunları	iwọnyi	Nan
 bunların	iwọnyi	Nan
 bunu	eyi	Nan
@@ -5597,7 +5597,7 @@ bulunduğunu	wa iyẹn	Nan
 bulunmadığı	ti o wa nibẹ	Nan
 bulundu	ri	Nan
 bulunmak	ni	Nan
-bulunmaktadır	ní bẹ	Nan
+bulunmaktadır	ní	None
 bulunmaktaydı	won wa	Nan
 bulunmamaktadır	o wa	Nan
 bulunması	wiwa	Nan
@@ -5613,7 +5613,7 @@ bulan	nwa	None
 bulaşma	akoran	Nan
 buldu	ri	Nan
 bulduğu	nwa	None
-bulgar	ede bulgaria	Nan
+bulgar	ede	None
 bulgaristan	bulgaria	Nan
 bulunanlar	wa lori	Nan
 bulgaristanda	ni ilu bulgaria	Nan
@@ -5651,14 +5651,14 @@ düet	duet	Nan
 dündar	dündar	Nan
 dünya	agbaye	None
 dünyaca	ileaye	Nan
-dünyada	ni agbaye	Nan
-dünyadaki	ni ayika agbaye	Nan
-dünyadan	lati agbaye	Nan
-düzeyde	awọn ipele	Nan
+dünyada	agbaye	None
+dünyadaki	agbaye	None
+dünyadan	agbaye	None
+düzeyde	ipele	None
 dünyanın	ileaye	Nan
 dünyasına	ileaye	Nan
 dünyasında	ileaye	Nan
-dünyasının	ti agbaye	Nan
+dünyasının	agbaye	None
 dünyaya	si earth	Nan
 dünyayı	ileaye	Nan
 düz	alapin	Nan
@@ -5667,11 +5667,11 @@ dünyası	ileaye	Nan
 dövüş	ja	Nan
 düzeyi	ipele	None
 düzgün	dan	Nan
-düşüncesini	ro awọn	Nan
+düşüncesini	ro	None
 düşüncesinin	ti ero	Nan
 düşüncesiyle	imọran naa	Nan
 düşünceyi	awọn ero	Nan
-düşündüğü	ro wipe	Nan
+düşündüğü	ro	None
 düşünen	lerongba	Nan
 düşünerek	lerongba	Nan
 düşünme	lerongba	Nan
@@ -5680,7 +5680,7 @@ düşünsel	nípa tẹ̀mí	Nan
 düşünülen	ronu	Nan
 düşünülmektedir	o ti gbà	Nan
 düşünülür	ṣakiyesi	Nan
-düşünülüyordu	ti ro	Nan
+düşünülüyordu	ro	None
 düşünür	ironu	Nan
 düşüncesi	ronu	Nan
 düşüncenin	awọn ero	Nan
@@ -5701,7 +5701,7 @@ düşük	kekere	None
 düşüktür	kekere	None
 düşünce	imọran	Nan
 düşünceler	awọn ero	Nan
-düşünceleri	awọn ero rẹ	Nan
+düşünceleri	rẹ	None
 düşmüş	ṣubú	Nan
 düşünürler	nronu	Nan
 dörtte	mẹrin	Nan
@@ -5710,7 +5710,7 @@ duydu	gbo	Nan
 duyduğu	gbọ	Nan
 duygu	rilara	Nan
 duygular	ikunsinu	Nan
-duygularını	wọn ikunsinu	Nan
+duygularını	wọn	None
 duygusal	ẹdun	Nan
 duyu	ori	None
 duyulan	gbo	Nan
@@ -5725,14 +5725,14 @@ duyarlı	kókó	Nan
 duyan	gbo	Nan
 duvarın	ogiri	Nan
 duvarı	ogiri	Nan
-durumdadır	ipo naa	Nan
-durumdan	ipo naa	Nan
-durumlar	awọn ipo	Nan
+durumdadır	ipo	None
+durumdan	ipo	None
+durumlar	ipo	None
 durumlarda	awọn ọran	Nan
-durumları	awọn ipo	Nan
+durumları	ipo	None
 durumu	ipo	None
-durumun	ipo naa	Nan
-döndükten	ipadabọ rẹ	Nan
+durumun	ipo	None
+döndükten	rẹ	None
 durumuna	wiwa	Nan
 durumundadır	o jẹ ọrọ	Nan
 durumunu	ipo	None
@@ -5781,7 +5781,7 @@ dönemler	awọn akoko	Nan
 dönemlerde	ni asiko	Nan
 dönemleri	awọn akoko	Nan
 döneminden	akoko	Nan
-düşünüyordu	o ro	Nan
+düşünüyordu	ro	None
 dış	eyin	None
 dışa	si ita	Nan
 einsteinın	ti einstein	Nan
@@ -5790,8 +5790,8 @@ eki	afikun	Nan
 ekibi	egbe	None
 ekim	oṣu kẹwa	Nan
 ekip	egbe	None
-eklenen	fi kun	Nan
-eklenmiştir	o ti fi kun	Nan
+eklenen	fi	None
+eklenmiştir	fi	None
 ekler	afikun	Nan
 ekmek	burẹdi	Nan
 ekolojik	ilolupo	Nan
@@ -5820,7 +5820,7 @@ egemen	jẹ gaba lori	Nan
 egemenlik	ọba aláṣẹ	Nan
 egemenliği	ọba aláṣẹ	Nan
 efsaneler	lejendi	Nan
-ediyordu	yoo ṣe bẹ	Nan
+ediyordu	yoo	None
 ekonomisine	aje	None
 ekonomisinin	aje	None
 elektronlar	elekitironi	Nan
@@ -5848,7 +5848,7 @@ ekrem	ekrem	Nan
 eksen	àá	Nan
 ekseni	àá	Nan
 eksik	sonu	Nan
-eksikliği	ko ni	Nan
+eksikliği	ko	None
 ekonomisini	aje	None
 ekvator	olumeta	Nan
 elazığ	elazýð	Nan
@@ -5874,12 +5874,12 @@ edebiyatının	ti litireso	Nan
 edebî	imọwe	Nan
 edecek	yoo	None
 edeceği	yoo	None
-edeceğini	yio je	Nan
+edeceğini	yio	None
 eden	agbegbe	Nan
 edenler	àjọ who	Nan
-edebilecek	iyẹn le	Nan
+edebilecek	le	None
 edebi	imọwe	Nan
-ed	kan si	Nan
+ed	kan	None
 ecevit	ecevit	Nan
 dışarı	jade	Nan
 dışarıdan	lati ita	Nan
@@ -5898,12 +5898,12 @@ ebe	agbẹbi	Nan
 ebru	ebru	Nan
 ece	eca	Nan
 dışındaki	ayafi	Nan
-ederdi	oun ni	Nan
+ederdi	oun	None
 ederek	nipasẹ	Nan
 ederken	nigba ti	Nan
-edilmelidir	yẹ ki o wa	Nan
+edilmelidir	ki	None
 edilmesi	sí	Nan
-edilmesine	ko si	Nan
+edilmesine	ko	None
 edilmesini	si awọn	Nan
 edilmeye	jẹ	Nan
 edilmiş	rọpo	Nan
@@ -5926,18 +5926,18 @@ ederse	ti o ba ti	Nan
 edge	édge	Nan
 edib	edib	Nan
 edici	curing	Nan
-edildi	oun ni	Nan
+edildi	oun	None
 edildiği	bi	Nan
-edilirler	jẹ wọn	Nan
+edilirler	wọn	None
 edildiğinde	nigbawo	Nan
-edilebilir	le jẹ	Nan
-edilecek	yio je	Nan
-edilemez	ko le jẹ	Nan
+edilebilir	le	None
+edilecek	yio	None
+edilemez	le	None
 edilen	eleyii	None
 edilerek	nipasẹ	Nan
 edilip	boya	Nan
 edilir	kaabọ	Nan
-edilebilecek	le jẹ	Nan
+edilebilecek	le	None
 bin	ẹgbẹrun	Nan
 duruma	majemu	Nan
 durdurmak	duro	Nan
@@ -5976,26 +5976,26 @@ değişebilir	iyipada	Nan
 değişen	iyipada	Nan
 değişik	yatọ	Nan
 değişiklik	iyipada	Nan
-değildi	ko ṣe bẹ	Nan
+değildi	ko	None
 değer	iye	Nan
 değiştirilmiş	yipada	None
 değiştirme	iyipada	Nan
-dildir	ni ede	Nan
+dildir	ede	None
 dile	binu	Nan
 dilek	fẹ	Nan
 dili	ede	None
-dilidir	ede ni	Nan
-dilin	ede naa	Nan
-dilinde	ni ede	Nan
-dilindeki	ni ede	Nan
+dilidir	ede	None
+dilin	ede	None
+dilinde	ede	None
+dilindeki	ede	None
 diline	ede	None
-dilini	ede ti	Nan
-dilinin	ede naa	Nan
-diliyle	ede naa	Nan
+dilini	ede	None
+dilinin	ede	None
+diliyle	ede	None
 dille	ede	None
-diller	awọn ede	Nan
-dillerde	awọn ede ni	Nan
-dilde	ni ede	Nan
+diller	ede	None
+dillerde	ede	None
+dilde	ede	None
 dilbilgisi	èdè grámà	Nan
 dil	ede	None
 dikkatli	ṣọra	Nan
@@ -6016,7 +6016,7 @@ dikkate	ronu	Nan
 dikkati	akiyesi	Nan
 dikkatini	akiyesi	Nan
 dijital	oni-nọmba	Nan
-dillerden	ede naa	Nan
+dillerden	ede	None
 deyişle	awọn ọrọ	Nan
 devrinin	gbigbe ti	Nan
 derya	okun	Nan
@@ -6062,7 +6062,7 @@ devletlerini	ipinle	Nan
 devletlerinin	awọn ipinlẹ	Nan
 devre	circuit	Nan
 devreye	circuit	Nan
-devri	ọjọ ori	Nan
+devri	ori	None
 devrim	iyika	Nan
 devrimci	rogbodiyan	None
 devrimi	iyika	Nan
@@ -6094,9 +6094,9 @@ devletlerden	ti ipinle	Nan
 devletlere	ipinle	Nan
 devletleri	awọn ipinlẹ	Nan
 devletine	ipinle	Nan
-dillere	ede naa	Nan
-dilleri	awọn ede	Nan
-dillerin	ede ti	Nan
+dillere	ede	None
+dilleri	ede	None
+dillerin	ede	None
 dostoyevskinin	dostoyevsky	Nan
 dostu	ore	Nan
 dosya	faili	Nan
@@ -6125,12 +6125,12 @@ dolmabahçe	dolmabahçe	Nan
 dolu	kun	Nan
 doğduğu	ibi ibi	Nan
 domuz	ẹlẹdẹ	Nan
-donanma	ọmọ ogun	Nan
-donanmanın	ọmọ ogun naa	Nan
-donanması	ọmọ ogun	Nan
-donanmasına	ọmọ ogun	Nan
-donanmasını	ọmọ ogun	Nan
-donanmasının	ọmọ ogun naa	Nan
+donanma	ogun	None
+donanmanın	ogun	None
+donanması	ogun	None
+donanmasına	ogun	None
+donanmasını	ogun	None
+donanmasının	ogun	None
 dont	maṣe	Nan
 don	yìnyín	Nan
 dokuz	mẹsan	Nan
@@ -6172,12 +6172,12 @@ doğumlu	bi	Nan
 doğumlular	bíbí	Nan
 doğumundan	lati ibi	Nan
 doğu	ila-oorun	Nan
-dokuma	ti a hun	Nan
+dokuma	hun	None
 doku	àsopọ	Nan
 doktoru	dokita	Nan
 dinî	ẹlẹsin	Nan
 diplomatik	oselu ara ilu	Nan
-dipnot	ẹsẹ ọrọ	Nan
+dipnot	ẹsẹ	None
 dipnotlar	awọn akọsilẹ	Nan
 dir	dir	Nan
 direk	òpó	Nan
@@ -6194,10 +6194,10 @@ dinsel	ẹlẹsin	Nan
 dinlerin	ti esin	Nan
 dinleri	awọn ẹsin	Nan
 dinlere	si esin	Nan
-dillerinde	èdè wọn	Nan
-dillerinden	ede naa	Nan
-dillerini	èdè wọn	Nan
-dillerinin	ede ti	Nan
+dillerinde	wọn	None
+dillerinden	ede	None
+dillerini	wọn	None
+dillerinin	ede	None
 dilmen	dilmen	Nan
 dilsel	ede	None
 din	ẹsin	Nan
@@ -6205,7 +6205,7 @@ diskografi	awari	None
 dinamik	ìmúdàgba	Nan
 dine	ẹsin	Nan
 dini	ẹlẹsin	Nan
-dinin	ẹsin rẹ	Nan
+dinin	rẹ	None
 dinine	ẹsin	Nan
 dininin	ẹlẹsin	Nan
 dinlenme	sinmi	Nan
@@ -6240,7 +6240,7 @@ diyanet	ẹlẹsin	Nan
 diyarbakır	diyarbakir	Nan
 diye	iyẹn	Nan
 diyerek	sisọ,	Nan
-diyor	wí pé	Nan
+diyor	pé	None
 dizisinde	ninu jara	Nan
 diyordu	o sọpe	Nan
 dizi	ọkọọkan	Nan
@@ -6251,7 +6251,7 @@ dizileri	jara	Nan
 dizilerinin	awọn jara	Nan
 dizinin	iwe itọsọna	Nan
 dizel	diesel	Nan
-eli	ọwọ rẹ	Nan
+eli	rẹ	None
 billy	oniruru	Nan
 biliyordu	o mọ	Nan
 anlaşmanın	ibaṣowo	Nan
@@ -6278,10 +6278,10 @@ anlamıyla	itumọ ọrọ gangan	Nan
 anlatan	olutaja	Nan
 anlatmak	sọ	None
 anlatmaktadır	se apejuwe	Nan
-anlatmıştır	o si ti so fun	Nan
-anlattı	so fun	Nan
+anlatmıştır	fun	None
+anlattı	fun	None
 anneler	ìyá	Nan
-anlattığı	sọ fun	Nan
+anlattığı	fun	None
 anlatılmaktadır	se apejuwe	Nan
 anlatılır	awọn ijiroro	Nan
 anlatım	ikosile	Nan
@@ -6290,7 +6290,7 @@ anlayan	loye	Nan
 anlayış	oye	Nan
 anlayışı	oye	Nan
 anlatılan	ṣàpèjúwe	Nan
-anlamındaki	laarin itumo ti	Nan
+anlamındaki	itumo	None
 annesi	iya	Nan
 annesinin	ìyá r.	Nan
 anzak	anaki	Nan
@@ -6318,9 +6318,9 @@ ansiklopedisi	encyclopedia	Nan
 antakya	antakya	Nan
 antalya	antalya	Nan
 antalyada	ni antalya	Nan
-antalyanın	antalya ká	Nan
+antalyanın	ká	None
 annesini	iya	Nan
-antibiyotik	ogun aporo	Nan
+antibiyotik	ogun	None
 antitank	antitank	Nan
 antivirüs	adodo	Nan
 antlaşma	adehun	Nan
@@ -6330,7 +6330,7 @@ antlaşmasını	adehun naa	Nan
 antlaşmasının	ti adehun	Nan
 antik	ohun atijọ	Nan
 aquila	akuila	Nan
-anlamında	laarin itumo ti	Nan
+anlamında	itumo	None
 anlamı	itumo	None
 amerikanın	ara ilu amẹrika	Nan
 amerikaya	america	Nan
@@ -6351,7 +6351,7 @@ amerikan	ara ilu amẹrika	Nan
 amerikalılar	ara amẹrika	Nan
 amerikalı	ara ilu amẹrika	Nan
 amerikadaki	ni america	Nan
-amacıyla	fun idi ti	Nan
+amacıyla	fun	None
 amasya	amasya	Nan
 amatör	magbowo	Nan
 amaç	ibi-afẹde	Nan
@@ -6413,7 +6413,7 @@ araba	ọkọ ayọkẹlẹ	Nan
 arttığı	pọ si	Nan
 artvin	artvin	Nan
 artı	pẹlu	Nan
-artık	ko si mọ	Nan
+artık	ko	None
 artırmak	pọ si	Nan
 artış	pọ si	Nan
 artışı	pọ si	Nan
@@ -6422,7 +6422,7 @@ arz	ipese	Nan
 arzusu	ifẹ	Nan
 arı	aryan	None
 arıburnu	arıburnu	Nan
-arşiv	ile ifi nkan pamosi	Nan
+arşiv	nkan	None
 as	iyaworan	Nan
 asa	arabinrin	Nan
 arttırılması	npo si	Nan
@@ -6455,7 +6455,7 @@ asyada	ni asia	Nan
 asyadaki	ni asia	Nan
 asyadan	asyadan	Nan
 asyanın	ni asia	Nan
-asyaya	ni esia	Nan
+asyaya	esia	None
 asıl	ọlọla	Nan
 asıllı	iran	Nan
 asım	asım	Nan
@@ -6466,7 +6466,7 @@ atadan	lati awọn baba	Nan
 ataları	yan	None
 astronomi	aworawo	Nan
 asteroit	asteroid	Nan
-asma	ti daduro fun igba diẹ	Nan
+asma	fun	None
 aslında	gangan	Nan
 asist	ṣe iranlọwọ	Nan
 asit	acid	Nan
@@ -6496,7 +6496,7 @@ arasından	nipasẹ	Nan
 araya	papọ	Nan
 arayan	olupe	Nan
 arazi	ilẹ	None
-arazinin	ilẹ naa	Nan
+arazinin	ilẹ	None
 araç	ọkọ	Nan
 araçlar	awọn ọkọ	Nan
 araçları	awọn ọkọ	Nan
@@ -6506,7 +6506,7 @@ araştırma	iwadii	Nan
 arası	laarin	None
 aras	laarin	None
 arapçada	in arabic	Nan
-arapça	dè lárúbáwá	Nan
+arapça	lárúbáwá	None
 arabesk	arabesque	Nan
 arabistan	ara arabia	Nan
 aracı	onilaja	Nan
@@ -6516,7 +6516,7 @@ aracın	ọpa	Nan
 arada	laarin	None
 araştırmacı	oniwadi	Nan
 aradaki	àárín	None
-aralarında	laarin won	Nan
+aralarında	laarin	None
 aralarındaki	nibẹbetween	Nan
 aralık	oṣu kejila	Nan
 arama	wa	Nan
@@ -6533,7 +6533,7 @@ arkadaşları	ọrẹ	Nan
 arkadaşlarından	lati awọn ọrẹ	Nan
 arkadaşlarının	ọrẹ	Nan
 arkadaşlarıyla	pelu awon ore	Nan
-arkadaşı	ọrẹ rẹ	Nan
+arkadaşı	rẹ	None
 arkaplan	lẹhin	Nan
 arkası	sile	None
 arkasına	pada si	Nan
@@ -6544,7 +6544,7 @@ arkaya	sẹhin	Nan
 arkeolog	akẹkọ igba atijọ	Nan
 arjantinin	awọn argentina	Nan
 arjantin	ilu amẹrika	Nan
-aristotelesin	aristotle press	Nan
+aristotelesin	press	None
 aristoteles	aristotle	Nan
 araştırmalar	awọn ijinlẹ	Nan
 araştırmalara	si iwadii	Nan
@@ -6604,13 +6604,13 @@ afrika	afirika	Nan
 adıyaman	adıyaman	Nan
 adıdır	orukọ ni	Nan
 ailesini	idile	Nan
-ailesiyle	ebi re	Nan
+ailesiyle	ebi	None
 akla	si lokan	Nan
 akraba	ibatan	Nan
 akrabaları	awọn ibatan	Nan
 aksaray	aksaray	Nan
 aksi	idakeji	Nan
-aksine	ko jọra	Nan
+aksine	ko	None
 aksiyon	ìṣe	Nan
 aksu	aksu	Nan
 aktif	lọwọ	Nan
@@ -6642,7 +6642,7 @@ akdenizde	ni agbedemeji okun	Nan
 akdenize	ni agbedemeji okun	Nan
 akademisi	omowe	Nan
 akımlar	lọwọlọwọ	Nan
-adı	oruko akoko	Nan
+adı	oruko	None
 adnan	adani	Nan
 abdye	arakunrin lati	Nan
 abdülaziz	abdulaziz	Nan
@@ -6654,7 +6654,7 @@ ablası	arabinrin	Nan
 about	nipa	Nan
 abraham	rabúráhámù	Nan
 abrams	abramu	Nan
-ac	ebi n pa	Nan
+ac	ebi	None
 acil	amojuto ni	Nan
 acı	irora	Nan
 ad	orukọ	Nan
@@ -6685,19 +6685,19 @@ adalar	awọn erekusu	Nan
 adalarında	erekusu	Nan
 adet	nkan	None
 adeta	fẹẹrẹ	Nan
-adi	oruko akoko	Nan
+adi	oruko	None
 adil	ẹwà	Nan
 adile	eeyan	Nan
 adlandırılan	ti a npè ni	Nan
 adlandırılmıştır	o ti a daruko	Nan
 adlandırılır	o ti wa ni oniwa	Nan
-adlandırılırlar	wọn pe	Nan
+adlandırılırlar	wọn	None
 adlar	awọn orukọ	Nan
 adları	awọn orukọ	Nan
-adlarında	ni oruko	Nan
+adlarında	oruko	None
 adlarını	nipa orukọ	Nan
-adli	ti ofin	Nan
-adlı	ti ofin	Nan
+adli	ofin	None
+adlı	ofin	None
 adayı	oludije	Nan
 adaylık	yiyan	Nan
 adaya	oludije	Nan
@@ -6736,8 +6736,8 @@ almaya	mu	Nan
 almayan	gba	None
 almayı	mu	Nan
 almış	gba	None
-almışlardır	ti gba	Nan
-almanların	gba awọn	Nan
+almışlardır	gba	None
+almanların	gba	None
 almanlar	awọn ara jamani	Nan
 almanca	jẹmánì	Nan
 alman	jẹmánì	Nan
@@ -6748,7 +6748,7 @@ alinin	ali	Nan
 aliye	alia	Nan
 aliyi	alii	Nan
 alkil	alkyl	Nan
-almıştı	ti gba	Nan
+almıştı	gba	None
 alkol	oti	Nan
 allah	ọlọrun	Nan
 allaha	olorun	Nan
@@ -6764,7 +6764,7 @@ alparslan	alparslan	Nan
 alınca	mu nipasẹ awọn	Nan
 alındı	isanwo	Nan
 alındığı	mu	Nan
-alındığında	ti a fun	Nan
+alındığında	fun	None
 alınması	gbigba	Nan
 alınmış	mu	Nan
 alınmıştır	ti	Nan
@@ -6773,12 +6773,12 @@ alınır	kọ ẹkọ	Nan
 alıp	mu	Nan
 alır	gba	None
 alırken	nigba ti	Nan
-alırlar	wọn mu	Nan
-alıyordu	o n gba	Nan
+alırlar	wọn	None
+alıyordu	gba	None
 alışveriş	ohun tio wa	Nan
 alınarak	mu	Nan
 alınan	gba	None
-alınacak	yio je	Nan
+alınacak	yio	None
 alıcı	olugba	Nan
 alt	kere	Nan
 altay	altay	Nan
@@ -6808,7 +6808,7 @@ alanı	agbegbe	Nan
 alanın	pápá	Nan
 alanına	agbegbe	Nan
 alanında	ni agbegbe	Nan
-alanındaki	ninu oko	Nan
+alanındaki	oko	None
 alanından	láti pápá	Nan
 alanını	agbegbe	Nan
 alanının	pápá	Nan
@@ -6825,15 +6825,15 @@ akışı	ṣiṣan	Nan
 akşam	irọlẹ	Nan
 al	gba	None
 alaaddin	aladdin	Nan
-alabilir	le gba	Nan
-albay	ọmọ ogun	Nan
+alabilir	gba	None
+albay	ogun	None
 alacak	kirẹditi	Nan
 alaeddin	alaeddin	Nan
 alakalı	ibaramu	Nan
 alan	ašẹ	Nan
 alana	agbegbe	Nan
 alanda	ni agbegbe	Nan
-alandaki	ninu oko	Nan
+alandaki	oko	None
 alanlar	awọn agbegbe	Nan
 alacakaranlık	alẹ́	Nan
 albert	ominira	Nan
@@ -6858,9 +6858,9 @@ alfabe	abidi	None
 alevileri	alevileri	Nan
 atan	yan	None
 aldığını	o ngba	Nan
-aldılar	wọn mu	Nan
+aldılar	wọn	None
 albümdeki	ni awo-orin	Nan
-albümden	lati awo	Nan
+albümden	awo	None
 albüme	awo-orin	Nan
 albümle	awo-orin	Nan
 albümler	awọn awo-orin	Nan
@@ -6868,13 +6868,13 @@ albümleri	awọn awo-orin	Nan
 albümü	awo-orin	Nan
 aldığı	gba	None
 albümün	awo-orin	Nan
-albümünden	lati awo	Nan
+albümünden	awo	None
 albümünü	awo-orin	Nan
 albümünün	awo-orin	Nan
 aldehitler	awọn aldehydes	Nan
 aldı	mu	Nan
-aldıkları	wọn gba	Nan
-aldıktan	ntẹriba gba	Nan
+aldıkları	gba	None
+aldıktan	gba	None
 albümünde	ninu awo-orin	Nan
 atanan	sọtọ	Nan
 atandı	yan	None
@@ -6891,7 +6891,7 @@ başkentleri	olú	Nan
 başkomutan	alakoso giga	Nan
 başladı	bẹrẹ	Nan
 başladıktan	o bẹrẹ	Nan
-başladılar	wọn bẹrẹ	Nan
+başladılar	wọn	None
 başladığı	bẹrẹ	Nan
 başladığında	bẹrẹ	Nan
 başkanlık	ajé	Nan
@@ -6906,7 +6906,7 @@ başarıları	aṣeyọri	Nan
 başarılı	aṣeyọri	Nan
 başarısı	aṣeyọri	Nan
 başlamadan	ibere	Nan
-başarısından	awọn aseyori	Nan
+başarısından	aseyori	None
 başarısız	aṣeyọri	Nan
 başarıya	aṣeyọri	Nan
 başarıyla	ni ifijišẹ	Nan
@@ -6950,9 +6950,9 @@ başlangıçta	lakoko	Nan
 başlanmış	bẹrẹ	Nan
 başlanmıştır	o ti bẹrẹ	Nan
 başlar	bẹrẹ	Nan
-başlarda	ori ninu	Nan
-başlarlar	wọn bẹrẹ	Nan
-başlarına	awọn ori wọn	Nan
+başlarda	ori	None
+başlarlar	wọn	None
+başlarına	wọn	None
 başlangıç	bẹrẹ	Nan
 başına	fun	None
 baş	ori	None
@@ -7013,7 +7013,7 @@ bağımsızlıklarını	ominira won	Nan
 bağımsızlığı	ominira	Nan
 bağlantılar	awọn ọna asopọ	Nan
 bağlantı	ìbáṣepọ	Nan
-bağlanmış	ti so	Nan
+bağlanmış	so	None
 bağlanma	sisopọ	Nan
 baz	mimọ	Nan
 bazen	nigbami	Nan
@@ -7084,7 +7084,7 @@ bilindiği	mọ	Nan
 bilinen	mọ	Nan
 bilinir	mọ	Nan
 bilinmektedir	won ti mo	Nan
-bilinmemektedir	o ti wa ni ko mọ	Nan
+bilinmemektedir	ko	None
 bilinmeyen	aimọ	Nan
 bilinç	mimọ	Nan
 bilinçli	mimọ	Nan
@@ -7153,7 +7153,7 @@ belirten	itọkasi	Nan
 belirterek	asọye	Nan
 belirteç	adverb	Nan
 beni	emi	Nan
-benim	o kan mi	Nan
+benim	kan	None
 benimsedi	gba	None
 benimseyen	gbigba	Nan
 benjamin	benjamin	Nan
@@ -7166,7 +7166,7 @@ beraber	papọ	Nan
 beraberinde	pẹlú	Nan
 bergama	ilobirin	Nan
 beri	niwon	Nan
-berlin	ilu berlin	Nan
+berlin	berlin	None
 berlinde	berlin	None
 benzerlikler	ibajọra	Nan
 bas	ori	None
@@ -7188,7 +7188,7 @@ bella	bella	Nan
 bellanın	agogo naa	Nan
 bellayı	awọn bella &#39;	Nan
 bellek	iranti	Nan
-belirtti	o sọ pe	Nan
+belirtti	sọ	None
 billboard	iwe-iwọle	Nan
 barışın	alafia	Nan
 barışçıl	àlàáfíà	None
@@ -7261,7 +7261,7 @@ ayrılan	nlọ	Nan
 ayrılıkları	awọn iyatọ	Nan
 ayrılıp	lọ	Nan
 ayrılır	ti wa ni niya	Nan
-ayrılırlar	wọn pin	Nan
+ayrılırlar	wọn	None
 ayrılığı	ipinya	Nan
 ayrım	iyatọ	Nan
 ayrımı	iyatọ	Nan
@@ -7287,7 +7287,7 @@ atmıştır	mu	Nan
 atom	ọgbọn	Nan
 atlar	ẹṣin	Nan
 atlantis	atlantis	Nan
-atlantik	ede atlantic	Nan
+atlantik	ede	None
 atina	henténì	Nan
 atarak	gège	Nan
 atasözleri	òwe	Nan
@@ -7333,10 +7333,10 @@ attığı	ẹṣin	Nan
 atı	ẹṣin	Nan
 atık	egbin	Nan
 atılan	asonu	Nan
-atıldı	o ti da	Nan
+atıldı	da	None
 atılmış	ju	Nan
 atomun	ọgbọn	Nan
-atılmıştır	o ti wa ni da	Nan
+atılmıştır	da	None
 atışı	gbon	Nan
 augustus	augustus	Nan
 augustusun	iwọ augustus	Nan
@@ -7352,12 +7352,12 @@ bakan	òjíṣẹ́	Nan
 bakanlar	minisita	Nan
 bakanlığı	iṣẹ́ òjíṣẹ́	Nan
 bakanlığına	iṣẹ́ òjíṣẹ́	Nan
-bakanlığının	iṣẹ́ òjíṣẹ́ rẹ	Nan
+bakanlığının	rẹ	None
 bakanı	òjíṣẹ́	Nan
 bakteri	alamọmọ	Nan
-bakteriler	awọn kokoro arun	Nan
-bakterilerde	ninu kokoro arun	Nan
-bakterilerin	awọn kokoro arun	Nan
+bakteriler	arun	None
+bakterilerde	arun	None
+bakterilerin	arun	None
 bakteriyel	alamọdaju	Nan
 bakü	baku	Nan
 bakıldığında	considering	Nan
@@ -7369,17 +7369,17 @@ bahçe	ọgba	Nan
 bahsedilir	o ti mẹnuba	Nan
 babanın	baba	Nan
 babası	baba	Nan
-babasına	baba rẹ	Nan
-babasından	baba rẹ	Nan
+babasına	rẹ	None
+babasından	rẹ	None
 babasını	baba	Nan
 babasının	baba	Nan
-babasıyla	baba rẹ	Nan
+babasıyla	rẹ	None
 bakımdan	lati itọju	Nan
 babil	bábílónì	Nan
 babür	ọmọ-ọwọ	Nan
 bad	buburu	Nan
 bahaeddin	bahaeddin	Nan
-bahar	orisun omi	Nan
+bahar	omi	None
 baharat	turari	Nan
 bahriye	bahriye	Nan
 bahseder	nmẹnuba	Nan
@@ -7431,7 +7431,7 @@ açıklamaya	ifiyesi	Nan
 açıklamıştır	se alaye	Nan
 açıklanan	ṣafihan	Nan
 açıklar	salaye	Nan
-açıklayan	nse alaye	Nan
+açıklayan	nse	None
 açıktır	o ṣii	Nan
 açıkça	kedere	Nan
 açılan	silẹ	Nan
@@ -7443,11 +7443,11 @@ açılır	ṣi	Nan
 açılış	ṣiṣi	Nan
 açıklamalar	awọn apejuwe	Nan
 açıklamak	ṣàlàyé	Nan
-açıklamada	ninu alaye kan	Nan
+açıklamada	kan	None
 açıklama	alaye	Nan
 azınlık	ẹlẹgbẹ	Nan
 azınlıklar	kekere	None
-aç	ebi n pa	Nan
+aç	ebi	None
 açan	ṣi	Nan
 açar	ṣi	Nan
 açlık	ebi	None
@@ -7458,20 +7458,20 @@ açmıştır	o ti ṣii	Nan
 açtı	ṣí	Nan
 açtığı	ṣii awọn	Nan
 açı	irora	Nan
-açıdan	ti a ba nso nipa	Nan
+açıdan	nso	None
 açık	ṣii	Nan
 açıkladı	se alaye	Nan
 açmış	ṣí	Nan
 açısal	igun	Nan
 açısı	ṣii awọn	Nan
-açısından	ti a ba nso nipa	Nan
+açısından	nso	None
 ağırlığı	iwuwo	Nan
 ağız	ẹnu	Nan
 ağızları	ẹnu	Nan
 aş	bori	Nan
 aşamalı	di mimọ	Nan
 aşaması	alakoso	Nan
-aşamasında	ni ipele	Nan
+aşamasında	ipele	None
 ağırlıklı	iwuwo	Nan
 aşağı	silẹ	Nan
 aşağıdaki	atẹle naa	Nan
@@ -7504,8 +7504,8 @@ ağzından	lati ẹnu	Nan
 ağası	nẹtiwọọki	Nan
 kişiyi	eniyan	Nan
 elif	elif	Nan
-elindeki	li ọwọ rẹ	Nan
-inanırlar	wọn gbagbọ	Nan
+elindeki	rẹ	None
+inanırlar	wọn	None
 inc	inch	Nan
 ince	tinrin	Nan
 inceleme	àyẹ̀wò	Nan
@@ -7538,15 +7538,15 @@ inanmak	gbagbọ	Nan
 inanç	igbagbọ	Nan
 inançlar	awọn igbagbọ	Nan
 inançları	awọn igbagbọ	Nan
-inançlarını	igbagbọ wọn	Nan
+inançlarını	wọn	None
 inanılan	gbagbọ	Nan
-inancını	igbagbọ rẹ	Nan
+inancını	rẹ	None
 imza	ibuwọlu	Nan
 ing	lori	Nan
 ingilizce	gẹẹsi	Nan
 insanları	eniyan	Nan
 insanların	awọn eniyan	Nan
-insanlık	ọmọ eniyan	Nan
+insanlık	ọmọ	None
 insanlığın	ti eniyan	Nan
 insansız	alaiṣẹ	Nan
 insanı	ènìyàn	Nan
@@ -7563,13 +7563,13 @@ insanlarla	eniyan	Nan
 insanlardan	lati eniyan	Nan
 insanlarda	eniyan	Nan
 insanlara	si eniyan	Nan
-ingilizcede	ni ede gẹẹsi	Nan
+ingilizcede	ede	None
 ingilizler	ara ilu gẹẹsi	Nan
 ingilizlerin	ara ilu gẹẹsi	Nan
 ingiltere	england	Nan
 ingilterede	ni ilu gẹẹsi	Nan
 ingilterenin	gẹẹsi	Nan
-ingiltereye	britain to	Nan
+ingiltereye	to	None
 ingiliz	ara ilu gẹẹsi	Nan
 ini	igba	Nan
 inmedi	mo ngba	Nan
@@ -7587,14 +7587,14 @@ ilişkilerin	ẹbí	Nan
 ilişkilerini	ẹbí	Nan
 ilişkilerinin	ẹbí	Nan
 ilişkili	ti o ni ibatan	Nan
-ilişkilidir	o ni nkan ṣe	Nan
+ilişkilidir	nkan	None
 ilişkin	ti o ni ibatan	Nan
 ilişkisi	ibatan	Nan
 ilişkisini	ibatan	Nan
 ilişkiye	ẹbí	Nan
 ilişkiyi	ibatan	Nan
 ilk	akoko	Nan
-ilkbahar	orisun omi	Nan
+ilkbahar	omi	None
 ilke	opo	Nan
 ilkel	alakọbẹrẹ	Nan
 ilkeleri	awọn ipilẹṣẹ	Nan
@@ -7604,7 +7604,7 @@ ilişkilerde	ninu ibatan	Nan
 ilişkiler	awọn ibatan	Nan
 ilgilenmeye	nife ninu	Nan
 ilgili	nipa	Nan
-ilgilidir	o ti fẹrẹ to	Nan
+ilgilidir	to	None
 ilginç	awon	Nan
 ilgisi	iwulo	None
 ilgisini	iwulo	None
@@ -7623,7 +7623,7 @@ imparatorluğunun	ti ijọba	Nan
 ilkesine	awọn opo ti	Nan
 ilki	akoko	Nan
 imam	imam	Nan
-imamet	ọmọ ẹni	Nan
+imamet	ọmọ	None
 iman	igbagbọ	Nan
 imanın	igbagbọ	Nan
 imar	atunkọ	Nan
@@ -7641,8 +7641,8 @@ imal	ṣe	Nan
 image	aworan	Nan
 ima	iwo	Nan
 im	im	Nan
-ilkokul	ile iwe awon omode kekere	Nan
-ilkokulu	ile iwe awon omode kekere	Nan
+ilkokul	kekere	None
+ilkokulu	kekere	None
 ilksel	jc	Nan
 ilköğretim	eto ẹkọ alakọbẹrẹ	Nan
 iller	agbegbe	Nan
@@ -7674,12 +7674,12 @@ istiklâl	ominira	Nan
 istila	infestation	Nan
 istilası	ìṣẹgun	Nan
 istiyordu	o fe	Nan
-istiyorum	mo fe iwe itumo kekere	Nan
+istiyorum	kekere	None
 isveç	sweden	Nan
 istenen	fẹ	Nan
 istemiştir	wá	Nan
 istemi	tọ	Nan
-istemesi	beere fun	Nan
+istemesi	fun	None
 istanbul	ilu istanbul	Nan
 istanbula	si istanbul	Nan
 istanbulda	ni ilu istanbul	Nan
@@ -7691,8 +7691,8 @@ isveçin	sweden	Nan
 istasyonu	ibudo	Nan
 istatistikleri	eeka	Nan
 istedi	fẹ	Nan
-istedikleri	wón fé	Nan
-istediler	wọn fẹ	Nan
+istedikleri	fé	None
+istediler	wọn	None
 istediği	fẹ	Nan
 istediğini	o fe	Nan
 istek	beere	Nan
@@ -7714,10 +7714,10 @@ iyon	dẹlẹ	Nan
 iz	itọpa	Nan
 izi	itọpa	Nan
 izin	igbanilaaye	Nan
-izlanda	ede iceland	Nan
+izlanda	iceland	None
 itibariyle	ni ti igba	Nan
 itibaren	lati	Nan
-ithalat	awọn agbewọle lati ilu okeere	Nan
+ithalat	okeere	None
 ithal	ṣe akowọle	Nan
 isviçre	switzerland	Nan
 isviçrede	ni switzerland	Nan
@@ -7737,10 +7737,10 @@ italyanın	ara italia naa	Nan
 italyaya	italy	Nan
 italya	ilu italia	Nan
 inşaat	kọ	Nan
-israiloğulları	àwọn ọmọ ísírẹ́lì	Nan
+israiloğulları	ọmọ	None
 israilde	ni israeli	Nan
 irlandada	ni ireland	Nan
-irmağı	orombo ire	Nan
+irmağı	ire	None
 is	iṣowo	Nan
 isa	jesu	None
 isaac	isale	Nan
@@ -7750,7 +7750,7 @@ ise	ti o ba ti	Nan
 ishak	ishak	Nan
 ishal	gbuuru	Nan
 isim	orukọ	Nan
-isimdir	ni oruko	Nan
+isimdir	oruko	None
 isimler	awọn orukọ	Nan
 isimlerden	awọn orukọ	Nan
 isimleri	awọn orukọ	Nan
@@ -7781,7 +7781,7 @@ isimli	jẹ	Nan
 ismi	ṣawakiri	Nan
 ismin	orukọ	Nan
 isminde	nipa orukọ	Nan
-ismini	orukọ rẹ	Nan
+ismini	rẹ	None
 isminin	orukọ	Nan
 ismiyle	nipa orukọ	Nan
 iso	ipin	None
@@ -7789,8 +7789,8 @@ ispanya	ilu sibeeni	Nan
 ispanyada	ni spain	Nan
 ispanyanın	spain	Nan
 ispanyaya	spain	Nan
-ispanyol	ede spanish	Nan
-ispanyolca	ede spanish	Nan
+ispanyol	ede	None
+ispanyolca	ede	None
 isparta	isparta	Nan
 israil	israeli	Nan
 ismet	arabara	Nan
@@ -7910,15 +7910,15 @@ hayvanların	ti ẹranko	Nan
 hayvansal	ẹranko	Nan
 hayır	rárá	Nan
 haz	idunnu	Nan
-hayatını	ẹmi rẹ	Nan
+hayatını	rẹ	None
 hayatında	igbesi aye	Nan
 hayatına	igbesi aye	Nan
-hayatın	igbesi aye rẹ	Nan
-havalimanı	papa ọkọ ofurufu	Nan
+hayatın	rẹ	None
+havalimanı	papa	None
 havanın	ategun	Nan
 havası	ategun	Nan
 havaya	sókè	Nan
-havayolu	ile ise oko ofurufu	Nan
+havayolu	oko	None
 havuzu	adagun-odo	Nan
 havza	agbọn	Nan
 hazar	ara ilu caspini	Nan
@@ -7938,7 +7938,7 @@ hell	.l.	Nan
 helyum	irinse	Nan
 helyumun	awọn helium	Nan
 hem	ati	Nan
-hemen	ni bayi	Nan
+hemen	bayi	None
 hemşire	nọọsi	Nan
 henry	henry	Nan
 henrynin	henry	Nan
@@ -7960,7 +7960,7 @@ hazırlanan	gbaradi	Nan
 hazırlanmış	gbaradi	Nan
 hazırlık	igbaradi	Nan
 hazırlıklar	ipalemo	Nan
-haziran	oṣu karun	Nan
+haziran	karun	None
 haç	rekọja	Nan
 haşim	agbalejo	Nan
 he	ẹ	Nan
@@ -7976,7 +7976,7 @@ hristiyan	kristiẹni	Nan
 ihsan	alaaanu	Nan
 ihtimali	seese ti	Nan
 ihtiyacı	nilo	Nan
-ihtiyacını	iwulo fun	Nan
+ihtiyacını	fun	None
 ihtiyaç	nilo	Nan
 ihtiyoloji	ichthyology	Nan
 ii	ii	Nan
@@ -8020,13 +8020,13 @@ ilaçların	awọn oogun	Nan
 ilde	agbegbe	Nan
 ile	pẹlu	Nan
 ileri	siwaju sii	Nan
-ileride	ni ojo iwaju	Nan
+ileride	ojo	None
 ilerleme	ilọsiwaju	Nan
 ilerlemesini	ilọsiwaju	Nan
 ilerlemeye	ilọsiwaju	Nan
 ilerlemiş	ti ni ilọsiwaju	Nan
 ilerleyen	onitẹsiwaju	Nan
-iletişim	kan si	Nan
+iletişim	kan	None
 ilanı	ipolowo	Nan
 ilan	ipolowo	Nan
 ilahi	ibawi	Nan
@@ -8041,7 +8041,7 @@ ikmal	ipese	Nan
 ikisini	mejeeji	Nan
 ikna	yiro-pada	Nan
 iktidara	agbara	None
-iktidarda	ni agbara	Nan
+iktidarda	agbara	None
 iktidarı	agbara	None
 iktidarın	agbara	None
 iktisadi	aje	None
@@ -8127,7 +8127,7 @@ hıristiyan	kristiẹni	Nan
 hıristiyanlar	kristiẹni	Nan
 hıristiyanlık	kristiẹni	Nan
 hüsamettin	hüsamettin	Nan
-izlediği	tele mi	Nan
+izlediği	tele	None
 izleme	wiwa	Nan
 izlemek	wo	Nan
 kavramını	awọn erongba ti	Nan
@@ -8165,8 +8165,8 @@ kauçuk	roba	Nan
 kavalalı	kavalalı	Nan
 kavga	ja	Nan
 kavimler	ẹya	Nan
-katılmış	fi kun	Nan
-katta	lori ilẹ	Nan
+katılmış	fi	None
+katta	ilẹ	None
 kayma	isokuso	Nan
 kaynak	orisun	None
 kayıpları	adanu	Nan
@@ -8180,7 +8180,7 @@ kaza	ijamba	Nan
 kazak	ere-ijeru	Nan
 kazakistan	kasakisitani	Nan
 kazan	igbomikana	Nan
-kazanamadı	ko bori	Nan
+kazanamadı	ko	None
 kazanan	bori	Nan
 kazanarak	bori	Nan
 kazandı	bori	Nan
@@ -8191,26 +8191,26 @@ kayseri	kayseri	Nan
 kaynaklanan	ṣẹlẹ	Nan
 kaynaklanmaktadır	gbon	Nan
 kaynaklanır	ṣẹlẹ	Nan
-kaynaklar	awọn orisun	Nan
-kaynaklara	awọn orisun	Nan
-kaynaklarda	awọn orisun	Nan
-kaynakları	awọn orisun	Nan
+kaynaklar	orisun	None
+kaynaklara	orisun	None
+kaynaklarda	orisun	None
+kaynakları	orisun	None
 kaymakamlık	gomina	None
-kaynakların	awọn orisun	Nan
+kaynakların	orisun	None
 kaynaklarında	orisun	None
 kaynaklarından	orisun	None
-kaynaklarının	awọn orisun	Nan
+kaynaklarının	orisun	None
 kaynaklı	alurinmorin	Nan
 kaynakça	awọn itọkasi	Nan
 kaynağı	orisun	None
-kaynağıdır	orisun jẹ	Nan
-kaynaklarına	awọn orisun	Nan
+kaynağıdır	orisun	None
+kaynaklarına	orisun	None
 kazandılar	bori	Nan
 katolik	ẹlẹsin katoliki	Nan
 katliamı	ipakupa	Nan
 kartalı	idì	Nan
 kartopu	yinyin	Nan
-karısı	iyawo e	Nan
+karısı	iyawo	None
 karışık	dapọ	Nan
 karışımı	adalu	Nan
 karşı	lodi si	Nan
@@ -8239,8 +8239,8 @@ karenin	karen	Nan
 kariyer	iṣẹ	Nan
 kariyeri	iṣẹ	Nan
 kariyerinde	ninu iṣẹ	Nan
-kariyerine	iṣẹ rẹ	Nan
-kariyerinin	ti iṣẹ rẹ	Nan
+kariyerine	rẹ	None
+kariyerinin	rẹ	None
 karl	yinyin	Nan
 karma	dapọ	Nan
 karesi	fireemu	Nan
@@ -8319,8 +8319,8 @@ kevin	kevin	Nan
 kewell	kewell	Nan
 kez	awọn akoko	Nan
 keza	tun	Nan
-keşfedilmiş	se awari	Nan
-keşfetti	se awari	Nan
+keşfedilmiş	awari	None
+keşfetti	awari	None
 kesinlikle	egba	None
 kesesi	sac	Nan
 kimseler	eniyan	Nan
@@ -8330,7 +8330,7 @@ kitle	ọpọ	Nan
 kitlesel	ọpọ	Nan
 kişi	eniyan	Nan
 kişiden	awon eniyan	Nan
-kişidir	oun ni eniyan	Nan
+kişidir	oun	None
 kişiler	eniyan	Nan
 kişilerden	lati eniyan	Nan
 kişilere	eniyan si	Nan
@@ -8349,12 +8349,12 @@ kimyasal	kẹmika	Nan
 kinetik	ibatan	Nan
 kinetoskop	kinetoscope	Nan
 king	ọba	Nan
-kiralık	fun iyalo	Nan
+kiralık	fun	None
 kiraz	ṣẹẹri	Nan
 kimsenin	ẹnikẹni	Nan
 kireç	orombo wewe	Nan
 kiropraktik	chiropractic	Nan
-kirte	kirtan kan	Nan
+kirte	kan	None
 kitabı	iwe	Nan
 kitabın	iwe	Nan
 kitabına	iwe	Nan
@@ -8374,9 +8374,9 @@ kelebek	labalaba	None
 kelime	ọrọ	Nan
 kelimeleri	awọn ọrọ	Nan
 kelimelerinin	awọn ọrọ	Nan
-kelimenin	ọrọ náà	Nan
-kelimesi	ọrọ náà	Nan
-kelimesinin	ọrọ náà	Nan
+kelimenin	náà	None
+kelimesi	náà	None
+kelimesinin	náà	None
 kemal	ripeness	Nan
 kemalin	kemal	Nan
 kağanlık	khaganate	Nan
@@ -8406,7 +8406,7 @@ kemerini	beliti	Nan
 kendisini	iho	Nan
 kendisinin	tirẹ	Nan
 kendisiyle	tirẹ	Nan
-kene	fi ami si	Nan
+kene	fi	None
 kent	ilu	Nan
 kente	ilu	Nan
 kenti	ilu	Nan
@@ -8439,16 +8439,16 @@ kendiliğinden	leralera	Nan
 kendimi	arami	Nan
 kendinden	iho	Nan
 kendine	funrararẹ	Nan
-kendilerinden	lati ara wọn	Nan
+kendilerinden	wọn	None
 havadan	afẹfẹ	Nan
 karayolu	opopona	Nan
 karaya	ti ebute	Nan
 jean	jean	Nan
-jeoloji	ẹkọ nipa ilẹ	Nan
-jeolojik	ẹkọ nipa ilẹ	Nan
+jeoloji	ilẹ	None
+jeolojik	ilẹ	None
 jessica	jessica	Nan
 jest	kọju	Nan
-jet	oko ofurufu	Nan
+jet	oko	None
 jimnastik	ibi idaraya	Nan
 jk	jk	Nan
 joe	joe	Nan
@@ -8469,7 +8469,7 @@ jack	jaketi	Nan
 jackson	apinfunni	Nan
 jacksonın	apinfunni	Nan
 jacob	jacob	Nan
-jolienin	jolie ká	Nan
+jolienin	ká	None
 jakamar	jacamar	Nan
 jan	ọrun	Nan
 jandarma	gendarme	Nan
@@ -8504,7 +8504,7 @@ kabuğu	ikarahun	Nan
 journal	iwe irohin	Nan
 judo	judo	Nan
 jules	oje	Nan
-just	o kan	Nan
+just	kan	None
 justin	justin	Nan
 jön	awọn jön	Nan
 jüpiter	jupita	Nan
@@ -8535,7 +8535,7 @@ içinde	ninu	Nan
 içindedir	o wa ninu	Nan
 içindeki	ninu	Nan
 içinden	nipasẹ	Nan
-içindir	o jẹ fun	Nan
+içindir	fun	None
 içeren	pẹlu	Nan
 içerdiği	ninu	Nan
 içe	ninu	Nan
@@ -8594,7 +8594,7 @@ işgali	iṣẹ	Nan
 işgalinden	awọn ayabo	Nan
 işi	igbona	Nan
 işin	eegun	Nan
-işini	iṣẹ rẹ	Nan
+işini	rẹ	None
 işbirliği	ifowosowopo	Nan
 kafkas	ilu caucasian	Nan
 kafkasya	caucasia	Nan
@@ -8627,7 +8627,7 @@ kanıtlar	ẹri	Nan
 kapadokya	kapadokia	Nan
 kapısının	ilekun	Nan
 kapak	ideri	Nan
-kapasitesi	agbara rẹ	Nan
+kapasitesi	rẹ	None
 kapatıldı	o ti wa ni pipade	Nan
 kapatılması	bíbo	Nan
 kapitalist	kapitalisimu	Nan
@@ -8662,7 +8662,7 @@ karaca	roe	Nan
 karacanın	èè	Nan
 karaciğer	ẹdọ	Nan
 karada	loke okun	Nan
-karadan	nipasẹ ilẹ	Nan
+karadan	ilẹ	None
 karadağ	montenegro	Nan
 kara	dudu	Nan
 karadeniz	blackkun dudu	Nan
@@ -8674,8 +8674,8 @@ karakter	ohun kikọ	Nan
 karakteri	ohun kikọ	Nan
 karakterin	ti ohun kikọ silẹ	Nan
 karadenize	si dudu	Nan
-kanunları	awọn ofin	Nan
-kanunlar	awọn ofin	Nan
+kanunları	ofin	None
+kanunlar	ofin	None
 kanuni	t’olofin	Nan
 kalem	ikọwe	Nan
 kaleme	ikọwe	Nan
@@ -8695,7 +8695,7 @@ kalması	dúró	None
 kaleleri	awọn kasulu	Nan
 kaleci	adena	Nan
 kale	ile kasulu	Nan
-kaldığı	ó dúró	Nan
+kaldığı	dúró	None
 kahraman	akọni	Nan
 kahramanlar	awọn akọni	Nan
 kahramanmaraş	kahramanmaraş	Nan
@@ -8707,14 +8707,14 @@ kalmaya	ṣẹku	Nan
 kalabalık	opo eniyan	Nan
 kalarak	duro	Nan
 kalbi	àbínibí	Nan
-kalbin	ọkàn rẹ	Nan
+kalbin	rẹ	None
 kaldı	dúró	None
-kaldılar	wọn duro	Nan
+kaldılar	wọn	None
 kaldırıldı	kuro	Nan
 kaldırılması	kuro	Nan
 kalan	ku	None
 kalmış	mo ti duro	Nan
-kalmışlardır	wọn duro	Nan
+kalmışlardır	wọn	None
 kalmıştı	mo ti duro	Nan
 kanadada	ni canada	Nan
 kanadalı	ara ilu kanada	Nan
@@ -8725,7 +8725,7 @@ kanalları	awọn ikanni	Nan
 kanalı	ikanni	Nan
 kanada	kánádà	None
 kanat	iyẹ	Nan
-kandela	ibọn kekere	Nan
+kandela	kekere	None
 kandil	atupa epo	Nan
 kangal	okun	Nan
 kanlı	ẹlẹjẹ	Nan
@@ -8753,14 +8753,14 @@ kamera	kamẹra	Nan
 kamp	àgọ́	None
 kampanyası	ipolongo	Nan
 kalır	duro	Nan
-elinde	li ọwọ rẹ	Nan
+elinde	rẹ	None
 havada	ninu afefe	Nan
-havaalanı	papa ọkọ ofurufu	Nan
+havaalanı	papa	None
 filmleri	fiimu	Nan
 filmlerinde	ninu sinima	Nan
 filmografi	filmography	Nan
-filo	ọkọ oju-omi kekere	Nan
-filosu	ọkọ oju-omi kekere	Nan
+filo	kekere	None
+filosu	kekere	None
 filozof	onimoye	Nan
 filozoflar	onimoye	Nan
 final	ipari	Nan
@@ -8785,7 +8785,7 @@ fikrini	imọran	Nan
 firma	ile-iṣẹ	Nan
 fil	erin	Nan
 filistinde	ni palestine	Nan
-filistine	palestine to	Nan
+filistine	to	None
 film	fiimu	Nan
 filmde	ninu fiimu	Nan
 filmdeki	ninu fiimu	Nan
@@ -8802,7 +8802,7 @@ frank	franc	Nan
 frankfurt	ffefurt	Nan
 franklin	franklin	Nan
 fransa	faranse	None
-fransada	ni ijaya	Nan
+fransada	ijaya	None
 fransanın	itanran	Nan
 fransaya	itanran si	Nan
 fransayı	france ni	Nan
@@ -8817,7 +8817,7 @@ fotoğraflar	awọn fọto	Nan
 fizikçi	oníṣègùn	Nan
 fizikçiler	fisiksi	Nan
 fiziği	fisiksi	Nan
-fiziğin	fisiksi rẹ	Nan
+fiziğin	rẹ	None
 floyd	floyd	Nan
 fm	fm	Nan
 folklor	arosọ	Nan
@@ -8835,7 +8835,7 @@ frekans	igbohunsafẹfẹ	Nan
 fiilen	gangan	Nan
 fifa	fifa	Nan
 faruk	faruk	Nan
-farz	ojuse ẹsin	Nan
+farz	ojuse	None
 fas	ilu morocco	Nan
 fatih	asegun	Nan
 fatiha	fatiha	Nan
@@ -8846,7 +8846,7 @@ fazla	pọ	Nan
 fazladır	jẹ diẹ sii	Nan
 fazlası	ju lọ	Nan
 fazlasını	diẹ sii	Nan
-fazlasıyla	diẹ sii ju to	Nan
+fazlasıyla	to	None
 fazıl	fazıl	Nan
 faşist	fascist	Nan
 farsça	páṣíà	Nan
@@ -8905,8 +8905,8 @@ felsefesi	imoye	Nan
 felsefesini	imoye	Nan
 felsefesinin	imoye	Nan
 felsefeye	imoye	Nan
-felsefi	ogbon ori	Nan
-felsefî	ogbon ori	Nan
+felsefi	ori	None
+felsefî	ori	None
 fen	sayensi	Nan
 felsefenin	imoye naa	Nan
 fakat	ṣugbọn	Nan
@@ -8919,7 +8919,7 @@ geliyordu	dun	None
 gelişen	sese	Nan
 gelişim	itankalẹ	Nan
 gelişimi	idagbasoke	None
-gelişiminde	ninu idagbasoke	Nan
+gelişiminde	idagbasoke	None
 gelişimine	idagbasoke	None
 gelişimini	idagbasoke	None
 gelişiminin	ilosiwaju ti	Nan
@@ -8930,7 +8930,7 @@ gelişmesi	idagbasoke	None
 geliri	owo-wiwọle	Nan
 gelir	owo oya	Nan
 gelip	lati wa	Nan
-gelindiğinde	nigbati iyawo	Nan
+gelindiğinde	iyawo	None
 gelen	ti nwọle	Nan
 gelenek	atọwọdọwọ	Nan
 gelenekleri	aṣa	Nan
@@ -8938,7 +8938,7 @@ geleneksel	ibile	None
 geleneğe	atọwọdọwọ	Nan
 geleneği	atọwọdọwọ	Nan
 geleneğinde	ninu aṣa	Nan
-gelişmesinde	awọn idagbasoke	Nan
+gelişmesinde	idagbasoke	None
 geleneğine	atọwọdọwọ	Nan
 gelenler	awọn abọde	Nan
 gelenleri	lati	Nan
@@ -8946,21 +8946,21 @@ gelerek	n bọ	Nan
 gelgit	ṣiṣan	Nan
 gelibolu	gelibolu	Nan
 gelin	iyawo	None
-gelince	bi fun	Nan
+gelince	fun	None
 geleneğinin	ti aṣa	Nan
-geleceği	ojo iwaju	Nan
+geleceği	ojo	None
 gelişmesine	ilosiwaju ti	Nan
-gelişmeye	da bi	Nan
+gelişmeye	da	None
 gelmesiyle	pẹlu dide	Nan
 gelmez	ko	None
 gelmiş	ti wa	Nan
 gelmişti	o ti wa	Nan
 gelmiştir	o ti de	Nan
 gemi	ọkọ oju-omi	Nan
-gemiler	awọn ọkọ oju omi	Nan
-gemileri	awọn ọkọ oju omi	Nan
-gemilerin	awọn ọkọ oju omi	Nan
-geminin	ọkọ oju omi	Nan
+gemiler	omi	None
+gemileri	omi	None
+gemilerin	omi	None
+geminin	omi	None
 gemisi	ọkọ oju-omi	Nan
 gen	ẹbun	Nan
 gene	lẹẹkansi	Nan
@@ -8971,25 +8971,25 @@ gelmesi	de	Nan
 gelmektedir	wa	Nan
 geliştiği	ndagba	Nan
 gelişmiş	ti ni ilọsiwaju	Nan
-gelişmiştir	o ti dagbasoke	Nan
+gelişmiştir	dagbasoke	None
 gelişti	o ti wa lati	Nan
-geliştirdi	ni idagbasoke	Nan
-geliştirdiği	ni idagbasoke	Nan
+geliştirdi	idagbasoke	None
+geliştirdiği	idagbasoke	None
 geliştiren	ndagba	Nan
-geliştirildi	ni idagbasoke	Nan
+geliştirildi	idagbasoke	None
 gelişmesini	idagbasoke	None
-geliştirilen	ni idagbasoke	Nan
-geliştirilmiş	ni idagbasoke	Nan
-geliştirilmiştir	ni idagbasoke	Nan
+geliştirilen	idagbasoke	None
+geliştirilmiş	idagbasoke	None
+geliştirilmiştir	idagbasoke	None
 geliştirme	idagbasoke	None
 geliştirmek	dagbasoke	None
 geliştirmeye	imudarasi	Nan
-geliştirmiş	ti dagbasoke	Nan
-geliştirmiştir	o ti dagbasoke	Nan
+geliştirmiş	dagbasoke	None
+geliştirmiştir	dagbasoke	None
 geliştirilmesi	sese	Nan
 friedrich	didin	Nan
 gelecekteki	ifojusọna	Nan
-gelecek	ojo iwaju	Nan
+gelecek	ojo	None
 gaganın	beak	Nan
 galaksi	galaxy	Nan
 galaksilerin	àyọyọ	Nan
@@ -9021,12 +9021,12 @@ futbolcusu	ẹlẹsẹ ẹlẹsẹ	Nan
 fünun	f	Nan
 füze	misaili	Nan
 füzyon	ifun	Nan
-fıkıh	ofin canon	Nan
+fıkıh	ofin	None
 fırat	fırat	Nan
 fırkası	abala	None
 fırsat	aye	Nan
 futbolu	bọọlu	Nan
-gelecekte	ni ojo iwaju	Nan
+gelecekte	ojo	None
 gandi	gandi	Nan
 garanti	atilẹyin ọja	Nan
 gazneliler	gazneliler	Nan
@@ -9037,19 +9037,19 @@ gecenin	alẹ	Nan
 gecesi	alẹ	Nan
 gel	wá	Nan
 geldi	wa	Nan
-geldikleri	wọn wa	Nan
+geldikleri	wọn	None
 geldikten	de	Nan
 geldiği	o wa	Nan
 geldiğinde	nigbawo	Nan
 geldiğini	ti o wa	Nan
-gelebilecek	le wá	Nan
-gelebilir	le wá	Nan
+gelebilecek	le	None
+gelebilir	le	None
 gazneli	gásnélì	Nan
 gazne	ghazni	Nan
 gazların	ategun	Nan
 gazinin	awọn ogbo	Nan
 garip	ajeji	Nan
-garnizon	ọmọ ogun	Nan
+garnizon	ogun	None
 gay	gays	Nan
 gayet	pupọ	Nan
 gayri	ti kii	Nan
@@ -9106,7 +9106,7 @@ ermeniler	armenia	Nan
 erkeklerde	ninu awọn ọkunrin	Nan
 erener	erener	Nan
 eseridir	iṣẹ ni	Nan
-eserinde	ninu iṣẹ rẹ	Nan
+eserinde	rẹ	None
 et	eran	Nan
 ethem	ethem	Nan
 eti	eran	Nan
@@ -9119,14 +9119,14 @@ etkiledi	ikannu	Nan
 etkilemiştir	fowo	Nan
 etkilenen	fowo	Nan
 etkilenerek	nfa	Nan
-etkilenmiştir	o ti kan	Nan
+etkilenmiştir	kan	None
 etkiler	awọn ipa	Nan
 etkileri	awọn ipa	Nan
 estonya	estonia	Nan
 estetik	darapupo	Nan
 esposito	esposito	Nan
 esnasında	lakoko	Nan
-eserini	iṣẹ rẹ	Nan
+eserini	rẹ	None
 eserler	ṣiṣẹ	Nan
 eserlerde	ninu awọn iṣẹ	Nan
 eserleri	ṣiṣẹ	Nan
@@ -9167,11 +9167,11 @@ emin	daju	Nan
 emevî	umayyad	Nan
 elinden	ọwọ	Nan
 eline	ọwọ	Nan
-elini	ọwọ rẹ	Nan
+elini	rẹ	None
 eliyle	ọwọ	Nan
 elizabeth	elizabeth	Nan
 elle	ọwọ	Nan
-ellerine	si ọwọ rẹ	Nan
+ellerine	rẹ	None
 endonezya	indonesia	Nan
 elli	aadọta	Nan
 elverişli	rọrun	Nan
@@ -9197,7 +9197,7 @@ eposta	imeeli	Nan
 er	eri	Nan
 erbil	erbil	Nan
 erdal	erdal	Nan
-erdem	iwa rere	Nan
+erdem	rere	None
 erdemli	oninurere	Nan
 erdi	o pari	Nan
 entegre	ese	Nan
@@ -9206,11 +9206,11 @@ ensest	ibatan	Nan
 english	i̇ngilizce	Nan
 enerji	agbara	None
 enerjili	agbara	None
-enerjinin	agbara naa	Nan
+enerjinin	agbara	None
 enerjisi	agbara	None
 enerjisine	agbara	None
 enerjisini	agbara	None
-enerjisinin	ti agbara	Nan
+enerjisinin	agbara	None
 endüstrisi	ile ise	Nan
 enerjiye	agbara	None
 enformasyon	alaye	Nan
@@ -9222,7 +9222,7 @@ engels	engels	Nan
 engin	sanlalu	Nan
 enerjiyi	agbara	None
 etkilerinin	awọn ipa	Nan
-etkileyecek	yoo kan	Nan
+etkileyecek	kan	None
 etkileyen	nyo	Nan
 eyaleti	igberiko	None
 eyaletinde	ni ipinle	Nan
@@ -9244,23 +9244,23 @@ evvel	ṣaaju	Nan
 evrimsel	itankalẹ	Nan
 evrimin	itankalẹ	Nan
 evlilik	igbeyawo	None
-evlilikten	lati igbeyawo	Nan
+evlilikten	igbeyawo	None
 evliliği	igbeyawo	None
-evliliğinden	lati igbeyawo	Nan
+evliliğinden	igbeyawo	None
 evliliğini	igbeyawo	None
 evliya	mimọ	Nan
 evre	alakoso	Nan
 eğim	iho	Nan
 evren	agbaye	None
-evrendeki	ni agbaye	Nan
+evrendeki	agbaye	None
 evreni	agbaye	None
 evrenin	agbaye	None
 evrensel	agbaye	None
 evresi	alakoso	Nan
 evrim	itankalẹ	Nan
 evrimi	itankalẹ	Nan
-evrende	ni agbaye	Nan
-evli	awọn ti ni iyawo	Nan
+evrende	agbaye	None
+evli	iyawo	None
 eğitim	eko	None
 eğitimi	idanileko	Nan
 eşya	ẹru	Nan
@@ -9289,21 +9289,21 @@ eğlence	idanilaraya	Nan
 eğri	ohun ti tẹ	Nan
 eş	oko	None
 eşcinsel	onibaje	Nan
-eğitime	si eko	Nan
+eğitime	eko	None
 eşeyli	ibalopọ	Nan
 eşi	alabaṣepọ	Nan
-eşinin	iyawo e	Nan
+eşinin	iyawo	None
 eşit	dogba	Nan
 eşitlik	dọgbadọgba	Nan
 eşitliği	dọgbadọgba	Nan
 eşittir	dọgba	Nan
-eşleri	oko tabi aya	Nan
+eşleri	aya	None
 eşeysiz	asepọ	Nan
 evleri	awọn ile	Nan
 evlerde	awọn ile	Nan
 evler	ile	Nan
 etmeden	laisi	Nan
-etmedi	emi ko	Nan
+etmedi	ko	None
 etmek	lati ṣe	Nan
 etmekle	lakoko ti ẹran	Nan
 etmekte	si awọn	Nan
@@ -9312,11 +9312,11 @@ etmekteydi	o je lati	Nan
 etmektir	o jẹ si	Nan
 etmeleri	si awọn	Nan
 etmenin	awọn okunfa	Nan
-etmesi	ṣe ko	Nan
+etmesi	ko	None
 etmesine	si awọn	Nan
 etmesini	si awọn	Nan
 etmesiyle	etmesiyle	Nan
-etmeye	ṣe ko	Nan
+etmeye	ko	None
 etme	sí	Nan
 etkisiz	munadoko	Nan
 etkisiyle	awọn ikolu	Nan
@@ -9338,7 +9338,7 @@ etkisinde	ipa	Nan
 etkisinden	awọn ikolu	Nan
 etkisini	ipa	Nan
 etkinlikler	akitiyan	Nan
-etmeyi	ṣe ko	Nan
+etmeyi	ko	None
 etmez	ko	None
 etmiş	eran	Nan
 evanescence	evanescence	Nan
@@ -9355,13 +9355,13 @@ evine	ilé	None
 evini	ilé	None
 evinin	ti ile	Nan
 evlat	ọmọ	None
-evlendi	ti ni iyawo	Nan
+evlendi	iyawo	None
 evlenme	igbeyawo	None
-evin	ile rẹ	Nan
-genelinde	ni gbogbogbo	Nan
+evin	rẹ	None
+genelinde	gbogbogbo	None
 eurovision	eurovision	Nan
 ettiğini	wo o	Nan
-etmişlerdir	wọn ni	Nan
+etmişlerdir	wọn	None
 etmişti	ní	None
 etmiştir	ní	None
 etnik	ẹya	Nan
@@ -9383,12 +9383,12 @@ genellikle	nigbagbogbo	Nan
 general	gbogboogbo	Nan
 günümüzdeki	loni	Nan
 günümüze	loni	Nan
-günün	ọjọ rẹ	Nan
+günün	rẹ	None
 gününde	ni ọjọ	Nan
 gününe	ọjọ	Nan
 gür	bushy	Nan
 gürcistan	georgia	None
-gürcistanın	georgia ká	Nan
+gürcistanın	ká	None
 gürcü	georgian	Nan
 güreş	ijakadi	None
 gürsel	gürsel	Nan
@@ -9401,10 +9401,10 @@ günümüz	lasiko	Nan
 günü	ọjọ	Nan
 günlüğü	wọle	Nan
 güneyden	guusu	None
-güneydoğu	guusu ila oorun	Nan
-güneydoğuda	ni guusu ila oorun	Nan
+güneydoğu	guusu	None
+güneydoğuda	guusu	None
 güneye	guusu	None
-güneyinde	guusu ti	Nan
+güneyinde	guusu	None
 güneyindeki	guusu	None
 güneş	oorun	Nan
 güvenlik	aabo	Nan
@@ -9420,20 +9420,20 @@ güneşi	oorun	Nan
 güneydeki	southerly	Nan
 güvenliği	aabo	Nan
 güzellik	ẹwa	Nan
-hacı	ajo mimọ	Nan
+hacı	ajo	None
 hadis	atọwọdọwọ	Nan
 hadise	ìṣẹlẹ	Nan
 hafif	ina	Nan
 hafifçe	fẹẹrẹ	Nan
 hafta	ọsẹ	Nan
-haftada	fun ọsẹ kan	Nan
+haftada	kan	None
 haftalık	sẹsẹ	Nan
 haftanın	ti ọsẹ	Nan
 haftasında	ninu ọsẹ	Nan
 hafız	hafiz	Nan
 hagi	hagi	Nan
 hagia	hagia	Nan
-hairspray	irun ori	Nan
+hairspray	ori	None
 hak	ni ọtun	Nan
 hacmi	iwọn didun	Nan
 hacivat	tantmfragman	Nan
@@ -9443,7 +9443,7 @@ güç	agbara	None
 güçler	awọn ipa	Nan
 güçleri	agbara	None
 güçlerin	agbara	None
-güçlerini	agbara wọn	Nan
+güçlerini	wọn	None
 güçlerinin	awọn ipa	Nan
 güçlü	lagbara	Nan
 güzel	lẹwa	Nan
@@ -9457,10 +9457,10 @@ haberler	awọn iroyin	Nan
 haberleşme	ibaraẹnisọrọ	Nan
 h	ẹ	Nan
 hakan	hakan	Nan
-güneyde	ni guusu	Nan
-güneybatı	iwọ oorun guusu	Nan
+güneyde	guusu	None
+güneybatı	guusu	None
 gösterir	fihan	None
-gösterirler	wọn fihan	Nan
+gösterirler	fihan	None
 gösterisi	ṣafihan	Nan
 göstermek	ṣafihan	Nan
 göstermektedir	fihan	None
@@ -9495,7 +9495,7 @@ gösterildi	han	Nan
 gösterilebilir	ṣe afihan	Nan
 gösterilen	han	Nan
 gösterdiği	fihan	None
-güneybatıda	guusu ni	Nan
+güneybatıda	guusu	None
 gözlemlenen	šakiyesi	Nan
 gözlenen	šakiyesi	Nan
 gül	dide	Nan
@@ -9514,7 +9514,7 @@ gündüz	ọjọ	Nan
 güne	ọjọ	Nan
 güney	guusu	None
 güdümlü	dari	Nan
-gücünün	ti agbara	Nan
+gücünün	agbara	None
 gücünü	agbara	None
 gücüne	agbara	None
 gözler	oju	Nan
@@ -9568,7 +9568,7 @@ harekatı	harekatı	Nan
 harekete	išipopada	Nan
 hareketi	išipopada	Nan
 hareketin	išipopada	Nan
-hareketine	gbe si	Nan
+hareketine	gbe	None
 hareketini	išipopada	Nan
 hareketinin	egbe	None
 hareketle	išipopada	Nan
@@ -9582,7 +9582,7 @@ hastaneye	si ile-iwosan	Nan
 hastanın	alaisan	Nan
 hat	laini	Nan
 hata	aṣiṣe	Nan
-hatalı	ti ko tọ	Nan
+hatalı	ko	None
 hatay	hatay	Nan
 hatice	ikorira	Nan
 hatları	awọn ila	Nan
@@ -9591,7 +9591,7 @@ hattı	laini	Nan
 hattına	laini	Nan
 hatun	kukuru	Nan
 hava	ategun	Nan
-hastalığının	ti arun	Nan
+hastalığının	arun	None
 hastalığına	aisan	Nan
 hastalığın	aisan	Nan
 hastalığı	aisan	Nan
@@ -9663,9 +9663,9 @@ hammadde	awọn ohun elo aise	Nan
 hamur	esufulawa	Nan
 hamamı	iwẹ	Nan
 han	abirun	Nan
-hanedanı	idile oba	Nan
-hanedanın	awọn idile oba	Nan
-hanedanının	awọn idile oba	Nan
+hanedanı	oba	None
+hanedanın	oba	None
+hanedanının	oba	None
 hangi	ewo	Nan
 hannah	hannah	Nan
 hans	han	Nan
@@ -9699,18 +9699,18 @@ geçirerek	gbako.leyin	Nan
 geçirildi	o ti kọja	Nan
 geçirilen	koja	Nan
 geçirilmesi	gbako.leyin	Nan
-geçirir	gba koja	Nan
-geçirmek	fi sinu	Nan
+geçirir	gba	None
+geçirmek	fi	None
 geçirmiş	ti lo	Nan
 geçirmiştir	o ti lo	Nan
-geçit	fi aye	Nan
+geçit	fi	None
 geçiş	orilede	Nan
 geçişi	orilede	Nan
 geçme	rekoja	Nan
 geçmeden	ṣaaju	Nan
 geçmek	rekoja	Nan
 geçirdiği	na	Nan
-geçirdiler	wọn lo	Nan
+geçirdiler	wọn	None
 geçirdi	lo	Nan
 geçip	nipasẹ	Nan
 gezegenin	ile aye	Nan
@@ -9720,16 +9720,16 @@ gezen	lilọ kiri lori ayelujara	Nan
 gezi	irin-ajo	Nan
 gezmiş	rin	Nan
 geç	pẹ	Nan
-geçmektedir	gba koja	Nan
-geçecek	yoo kọja	Nan
+geçmektedir	gba	None
+geçecek	yoo	None
 geçen	kẹhin	Nan
 geçer	gbako.leyin	Nan
 geçerek	nipasẹ	Nan
 geçerken	ni gbako.leyin	Nan
 geçerli	wulo	Nan
 geçerlidir	wulo	Nan
-geçici	fun igba diẹ	Nan
-geçemedi	o ko koja	Nan
+geçici	fun	None
+geçemedi	ko	None
 gezegendir	ile aye	Nan
 geçmesi	kọja	Nan
 geçmesiyle	pẹlu gbako.leyin	Nan
@@ -9761,14 +9761,14 @@ geçmiştir	itan ni	Nan
 geçti	koja	Nan
 geçmesine	lọ sí	Nan
 geçtikten	líla	Nan
-geçtiğinde	nigbati bayi	Nan
+geçtiğinde	bayi	None
 gibi	fẹran	Nan
-gibidir	bi eleyi	Nan
+gibidir	eleyi	None
 giden	njade	Nan
 gider	inawo	Nan
 giderek	pọ si	Nan
 giderken	opopona	Nan
-geçtiği	o bayi	Nan
+geçtiği	bayi	None
 girmeden	laisi	Nan
 gezegen	ile aye	Nan
 getirmiş	mu	Nan
@@ -9778,7 +9778,7 @@ gereklidir	jẹ pataki	Nan
 gerekmektedir	gbọdọ	Nan
 gerekse	mejeeji	Nan
 gereksiz	aibojumu	Nan
-gerektiren	to nilo	Nan
+gerektiren	to	None
 gerektirir	nilo	Nan
 gerektiği	o ye	Nan
 gerektiğine	nilo iyẹn	Nan
@@ -9823,7 +9823,7 @@ getirilmesi	kiko	None
 getirilmiş	mu	Nan
 getirilmiştir	tutu	Nan
 getirir	mú	Nan
-getirirler	wọn pada	Nan
+getirirler	wọn	None
 getirmek	muwa	Nan
 getirmektedir	mú	Nan
 getirdi	mu	Nan
@@ -9915,11 +9915,11 @@ görmesi	wo	Nan
 görmeye	ríran	Nan
 görmüş	ti ri	Nan
 görmüştür	o ti ri	Nan
-görevlerini	awọn iṣẹ wọn	Nan
+görevlerini	wọn	None
 görsel	aworan	Nan
 görüldüğü	ti ri	Nan
 görülebilir	han	Nan
-görülebilmektedir	o le rii	Nan
+görülebilmektedir	le	None
 görülen	ti ri	Nan
 görülmektedir	o ti ri	Nan
 görülmemiş	airi	Nan
@@ -9962,7 +9962,7 @@ gitmiş	lọ	Nan
 gitmiştir	o ti lọ	Nan
 gitti	lọ	Nan
 gittikçe	siwaju ati siwaju sii	Nan
-gittiler	wọn lọ	Nan
+gittiler	wọn	None
 gitgide	di .di.	Nan
 golünü	ibi ti o nlo	Nan
 gone	lọ	Nan
@@ -9979,9 +9979,9 @@ grupların	awọn ẹgbẹ	Nan
 gruptan	lati ẹgbẹ	Nan
 guatemala	guatemala	Nan
 guevara	guevara	Nan
-guevaranın	guevara ká	Nan
+guevaranın	ká	None
 guide	itọsọna naa	Nan
-gurbetçi	ilu okeere	Nan
+gurbetçi	okeere	None
 gök	ọrun	Nan
 grupta	ẹgbẹ	Nan
 görüşler	awọn ero	Nan
@@ -10003,5 +10003,5 @@ gri	grey	Nan
 griffon	àwọ̀	Nan
 gruba	ẹgbẹ	Nan
 grubu	ẹgbẹ	Nan
-grand	baba agba	Nan
+grand	agba	None
 →	→	Nan

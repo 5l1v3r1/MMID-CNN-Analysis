@@ -6,26 +6,26 @@ nageeye	осколок	Nan
 nagiba	число	None
 naginimada	щирість	Nan
 nagornokarabakh	уснорнокарабах	Nan
-nagu	до нас	Nan
-naguma	ні ми	Nan
-nahay	ми є	Nan
+nagu	нас	None
+naguma	ми	None
+nahay	є	None
 nahaye	ха-ха	Nan
 nahey	нахей	Nan
 nairobi	найробі	Nan
-najaashi	зарядний пристрій	Nan
-nala	з нами	Nan
+najaashi	пристрій	None
+nala	нами	None
 naftooda	себе	None
-nalaga	від нас	Nan
-naftiisa	самого себе	Nan
+nalaga	нас	None
+naftiisa	себе	None
 naftay	себе	None
 nacas	дурень	Nan
 nacay	ненавидів	Nan
 nacayb	ненависть	Nan
 nadar	надар	Nan
 nadarkana	вам шкода	Nan
-nadarkaygii	мої обітниці	Nan
+nadarkaygii	мої	None
 nadarkii	розарій	Nan
-nadarkiisii	його обітницю	Nan
+nadarkiisii	його	None
 nadii	пошук	None
 nadiif	чистий	None
 nadiifsan	чистий	None
@@ -33,14 +33,14 @@ nadray	вибачте	Nan
 naf	душа	None
 nafta	душа	None
 naftana	себе	None
-naftii	самого себе	Nan
-nalagu	з нами	Nan
-naloo	ми є	Nan
+naftii	себе	None
+nalagu	нами	None
+naloo	є	None
 nambiya	намбар	Nan
 naxariistaha	співчутливий	Nan
-naxariistee	бути добрим	Nan
+naxariistee	бути	None
 naxariistii	співчуття	None
-naxariisto	мати співчуття	Nan
+naxariisto	співчуття	None
 naxwaha	граматика	None
 naxwe	граматика	None
 nayjeeriya	депресія	Nan
@@ -91,17 +91,17 @@ muxamadna	мухаммед	Nan
 muxamadun	мухаммед	Nan
 muxamed	мухаммед	Nan
 muxamedna	мухаммед	Nan
-muuqaalka	зовнішній вигляд	Nan
+muuqaalka	вигляд	None
 muxammed	мухаммед	Nan
 muumin	мумін	Nan
 muujiyeen	виражений	Nan
 mustafa	мустафа	Nan
-mustaqbalka	у майбутньому	Nan
+mustaqbalka	майбутньому	None
 mustaxiil	визначення	None
 musuq	корупція	Nan
 musveni	musveni	Nan
 mutaystay	заслуговують	Nan
-mutaystayee	ти заслуговуєш на це	Nan
+mutaystayee	це	None
 muujinaya	показ	Nan
 muujinayaa	показує	None
 muujinayo	показ	Nan
@@ -117,20 +117,20 @@ muxumed	мучене	Nan
 nabada	мир	None
 nabadda	мир	None
 nabaddayn	здравствуйте	Nan
-nabadgalyadiisa	його безпеку	Nan
-nabadgalyadiisana	його безпеку	Nan
-nabadgalyo	до побачення	Nan
+nabadgalyadiisa	його	None
+nabadgalyadiisana	його	None
+nabadgalyo	до	None
 nabadgelyada	безпека	Nan
-nabadgelyadiisa	його безпеку	Nan
-nabadgelyo	до побачення	Nan
+nabadgelyadiisa	його	None
+nabadgelyo	до	None
 nabadoon	здравствуйте	Nan
 nabadoonka	здравствуйте	Nan
 nabi	набі	Nan
 nabiga	пророк	Nan
-nabigeeniina	наш пророк	Nan
-nabigeennii	наш пророк	Nan
+nabigeeniina	наш	None
+nabigeennii	наш	None
 nabad	мир	None
-naasiruddiin	тобі нудота	Nan
+naasiruddiin	тобі	None
 naasahablood	мізки	Nan
 naasaha	груди	Nan
 muxumud	мухумуд	Nan
@@ -150,21 +150,21 @@ naar	нар	None
 naarta	вогонь	None
 naasa	груди	Nan
 naag	жінка	None
-necebyahay	я це ненавиджу	Nan
+necebyahay	це	None
 nederlaan	голландська	Nan
 nederland	нідерланди	None
 noqoneysa	бути	None
 noqoshadii	повернення	None
-noqoshadiisa	його повернення	Nan
+noqoshadiisa	повернення	None
 noqotaa	стає	None
 noqotay	став	None
-noqotayna	і це стало	Nan
+noqotayna	стало	None
 noqotey	став	None
 noqoto	бути	None
 noqoy	бути	None
 north	північ	None
 norway	норвегія	None
-norwey	в норвегії	Nan
+norwey	норвегії	None
 not	ні	None
 nov	листоп	Nan
 november	листопад	None
@@ -204,7 +204,7 @@ odayga	старий	None
 odaygii	старий	None
 odeyga	старшина	None
 odeygii	минуле	None
-odhan	сказати ні	Nan
+odhan	ні	None
 odhanaya	коментар	Nan
 nuux	горіх	Nan
 nuurka	світло	None
@@ -212,7 +212,7 @@ nuuraaya	освітлюючи	Nan
 nuur	світла	None
 nsodjibouti	newodjibouti	Nan
 nsoeritrea	кілька	None
-nsoethiopia	поблизу ефіопії	Nan
+nsoethiopia	поблизу	None
 nsofora	знайомі	Nan
 nsojesu	наступні	None
 nsorussia	nsorussia	Nan
@@ -243,8 +243,8 @@ nin	людина	None
 ninba	будь-який	Nan
 ninka	чоловік	None
 ninkaa	чоловік	None
-ninkaan	цей чоловік	Nan
-ninkaani	цей чоловік	Nan
+ninkaan	чоловік	None
+ninkaani	чоловік	None
 niisa	кулак	Nan
 niil	нуль	Nan
 nihon	nihon	Nan
@@ -256,7 +256,7 @@ nelson	нельсон	Nan
 net	сітка	Nan
 network	мережа	None
 networks	мереж	None
-ninkaas	той чоловік	Nan
+ninkaas	чоловік	None
 new	нові	None
 newspaper	газета	None
 nfd	nfd	Nan
@@ -267,25 +267,25 @@ nidaamka	система	None
 nidaamkii	система	None
 news	новини	None
 mustacmarad	майбутнє	None
-ninkan	цей чоловік	Nan
+ninkan	чоловік	None
 ninki	подвійний	Nan
-noloshooda	їхні життя	Nan
+noloshooda	життя	None
 noo	нас	None
 nooc	сортувати	Nan
 nooca	тип	None
-noocan	цей тип	Nan
+noocan	тип	None
 noocyada	типи	None
-noocyadeeda	її види	Nan
+noocyadeeda	види	None
 nooga	нас	None
-noogu	для нас	Nan
+noogu	нас	None
 nool	живий	None
-noolaa	що жив	Nan
+noolaa	жив	None
 noolaadaan	жити	None
 noolaado	живий	None
 noolaan	жити	None
 noolaanooyaa	живий	None
-noloshiisii	його життя	Nan
-noloshiisa	його життя	Nan
+noloshiisii	життя	None
+noloshiisa	життя	None
 nolosha	життя	None
 nololeedkii	життя	None
 ninkii	чоловік	None
@@ -295,7 +295,7 @@ nirig	ніриг	Nan
 nisaar	ширина	None
 nk	сюжет	None
 nl	нл	Nan
-ninkase	тим не менше	Nan
+ninkase	менше	None
 nnk	нкн	Nan
 no	немає	None
 noa	ні	None
@@ -303,13 +303,13 @@ nobad	ноб	Nan
 nofeembar	листопад	None
 nolol	життя	None
 nololeed	життя	None
-nololeedka	спосіб життя	Nan
+nololeedka	життя	None
 nnkh	nnkh	Nan
 mussolini	мусоліні	Nan
 muslinka	мусульманський	Nan
 muslin	муслін	Nan
 maysara	знати	None
-mayso	це не	Nan
+mayso	не	None
 md	мд	Nan
 medicine	ліки	Nan
 mediina	mediina	Nan
@@ -340,19 +340,19 @@ may	може	None
 maydh	мити	Nan
 maydka	тіло	None
 mayeelan	не	None
-mayeelayo	не знаю	Nan
-maygaag	може бути	Nan
-maynee	ми цього не робимо	Nan
-meeshan	це місце	Nan
-meeshay	моє місце	Nan
+mayeelayo	не	None
+maygaag	бути	None
+maynee	не	None
+meeshan	місце	None
+meeshay	місце	None
 meeshii	місце	None
 midabka	колір	None
 midawga	союз	None
-midawgaas	той союз	Nan
+midawgaas	союз	None
 midawgii	союз	None
 midda	один	None
 middelburg	middelburg	Nan
-middi	там же	Nan
+middi	же	None
 mideeyaan	єднати	Nan
 mideeyay	об’єднані	Nan
 mideeyo	єднати	Nan
@@ -362,10 +362,10 @@ midig	правильно	None
 midka	один	None
 midkii	один	None
 midab	колір	None
-midaan	ось цей	Nan
+midaan	цей	None
 mida	один	None
 mid	один	None
-meeshuu	де б не було	Nan
+meeshuu	було	None
 meeyadii	місце	None
 meheriyey	я	None
 meksiko	мексика	None
@@ -394,7 +394,7 @@ masaajido	мечеть	Nan
 masaakiinta	незаможні	Nan
 masaayda	притча	Nan
 masagada	сорго	Nan
-masagawaay	я не проти	Nan
+masagawaay	проти	None
 masalle	масала	Nan
 masar	масар	Nan
 masarayuu	masaruuu	Nan
@@ -404,7 +404,7 @@ masaafo	відстань	None
 masaafada	відстань	None
 maryeenta	перев&#39;язка	Nan
 maryan	мері	Nan
-marta	цього разу	Nan
+marta	разу	None
 martabada	слава	None
 martay	пішли	None
 martgelinta	гостинність	Nan
@@ -413,7 +413,7 @@ martida	гостей	None
 martigelis	гостинність	Nan
 mashquul	зайнято	Nan
 martiqaad	запрошення	None
-marwaan	в будь-який час	Nan
+marwaan	час	None
 marwo	леді	Nan
 marx	маркс	None
 marxalad	етап	None
@@ -421,7 +421,7 @@ marxaladihii	етапи	None
 marxuum	померлий	Nan
 maryam	мері	Nan
 marto	марафон	Nan
-midkiin	один із вас	Nan
+midkiin	вас	None
 mashruuc	проект	None
 masiix	христос	None
 matalan	наприклад	None
@@ -435,7 +435,7 @@ maxaas	що	None
 maxamad	суд	None
 maxamadow	максимуми	Nan
 maxamed	максимізований	Nan
-maxamedaay	що це?	Nan
+maxamedaay	що	None
 maxamedow	мохамед	Nan
 maxammed	максимум	Nan
 maxamud	максамуд	Nan
@@ -453,17 +453,17 @@ maskax	розум	None
 mashruuca	проект	None
 maskaxda	розум	None
 maslax	масла	Nan
-maslaxad	для отримання прибутку	Nan
+maslaxad	прибутку	None
 masno	знання	None
 masraxa	сцена	None
 massagada	масаж	Nan
 massare	масажистка	Nan
 masuul	відповідальний	None
 maskaxdii	розум	None
-odhane	у всьому	Nan
+odhane	всьому	None
 midkod	або	None
 midnimada	єдність	None
-mudanahay	ми заслужили	Nan
+mudanahay	ми	None
 mudane	сер	None
 mudar	ін’єкція	Nan
 mudda	періоду	None
@@ -526,11 +526,11 @@ muhiimsan	важливий	None
 mujaaahidka	моджахед	Nan
 mujaahidiinta	моджахеди	Nan
 mujaahidiintii	моджахеди	Nan
-mujaddidka	до мечеті	Nan
+mujaddidka	до	None
 mowliid	худий	Nan
 mukhtaar	мухтаар	Nan
 munaasibada	нагода	Nan
-munaasibadaasi	з цієї нагоди	Nan
+munaasibadaasi	нагоди	None
 muqawim	muqwim	Nan
 muqbil	краб	Nan
 muqdisho	могадішу	Nan
@@ -568,10 +568,10 @@ midoobidii	союз	None
 midoobo	злиття	None
 miracas	це	None
 midow	союз	None
-midowgaasi	той союз	Nan
-midtahay	ти є	Nan
+midowgaasi	союз	None
+midtahay	є	None
 midyihiin	об’єднані	Nan
-miigagii	мій чоловік	Nan
+miigagii	чоловік	None
 miiggan	мігган	Nan
 miilaadiga	зима	None
 miimka	міка	Nan
@@ -583,16 +583,16 @@ moobiilada	мобільні телефони	Nan
 mood	мода	Nan
 moodaa	здається	None
 moodaaye	модний	Nan
-mooday	вони думають	Nan
+mooday	вони	None
 moodey	думка	None
 mooge	мог	Nan
 moomaahee	що?	Nan
 moos	банани	Nan
 mooska	банани	Nan
-mooyaane	хіба що	Nan
-mooyaanehaddaba	якщо звичайно	Nan
-mooyee	хіба що	Nan
-mooyi	хіба що	Nan
+mooyaane	що	None
+mooyaanehaddaba	звичайно	None
+mooyee	що	None
+mooyi	що	None
 more	більше	None
 montenegro	чорноморська	Nan
 monako	мусон	Nan
@@ -606,20 +606,20 @@ miskiga	незаможні	Nan
 misna	місна	Nan
 mitterrand	мітерранд	Nan
 mire	болото	Nan
-miyaa	є це?	Nan
+miyaa	є	None
 miyi	піднесений	Nan
 miyiga	сільський	Nan
-miyuu	є це?	Nan
+miyuu	є	None
 mobile	мобільний	Nan
 mobiles	мобільні телефони	Nan
 module	модуль	Nan
 mogadisho	могадішу	Nan
-miyaan	я буду?	Nan
+miyaan	я	None
 marshey	мерщій	Nan
 odhanjiray	сказав	None
 odiweyn	великий	None
 qofkaste	всі	None
-qofkii	на людину	Nan
+qofkii	людину	None
 qofku	особа	None
 qofna	ніхто	None
 qolo	клан	Nan
@@ -635,8 +635,8 @@ qoraaga	автор	None
 qoraagii	автор	None
 qofkasta	всі	None
 qoraal	написання	None
-qofkale	хтось інший	Nan
-qofba	на людину	Nan
+qofkale	інший	None
+qofba	людину	None
 qiyaasay	вимірюється	Nan
 qiyaasi	уявіть	Nan
 qiyaaso	уявіть	Nan
@@ -659,7 +659,7 @@ qoraalka	текст	None
 qorituurkii	старий	None
 qorituurkuna	сонце	None
 qoro	писати	None
-qorshahan	в цьому плані	Nan
+qorshahan	плані	None
 qorshe	план	None
 qoryo	деревина	Nan
 qoryooley	навідник	Nan
@@ -675,11 +675,11 @@ qorista	написання	None
 qorigii	пістолет	Nan
 qorida	написання	None
 qori	писати	None
-qoraalkaan	цей текст	Nan
-qoraalkan	ця стаття	Nan
+qoraalkaan	текст	None
+qoraalkan	стаття	None
 qoraalkii	текст	None
 qoraalo	тексти	None
-qoraan	напиши це	Nan
+qoraan	це	None
 qoraha	автор	None
 qoran	написана	None
 qiyaasaa	вимірюється	Nan
@@ -689,7 +689,7 @@ qoraxey	сонячний	Nan
 qoray	писав	None
 qore	автор	None
 qoreen	написана	None
-qoremaxamed	написаний мухаммедом	Nan
+qoremaxamed	написаний	None
 qorey	написана	None
 qoraxda	сонце	None
 qubrista	ванна	Nan
@@ -698,16 +698,16 @@ qiyaame	воскресіння	None
 qaybkamida	частина	None
 qaybo	частини	None
 qaybood	розділи	None
-qaybqaateen	брали участь	Nan
+qaybqaateen	участь	None
 qaybsaday	розділений	Nan
 qaybsantaa	розділити	Nan
 qaybsantahay	розділений	Nan
 qaybsha	дільник	Nan
 qaybta	розділ	None
-qaybtan	в цьому розділі	Nan
+qaybtan	цьому	None
 qaybtii	частина	None
-qayka	в лісі	Nan
-qayraadkiisa	її частини	Nan
+qayka	в	None
+qayraadkiisa	частини	None
 qeebaha	частини	None
 qeebiyay	описано	Nan
 qaybiyaa	розповсюджує	Nan
@@ -727,7 +727,7 @@ qaxii	евакуація	Nan
 qaxoontiga	біженця	Nan
 qaxooti	біженцем	Nan
 qaxootiga	біженці	Nan
-qayawoowgii	в минулому	Nan
+qayawoowgii	минулому	None
 qayb	частина	None
 qaybgasho	відвідувати	Nan
 qeebsama	ділиться	None
@@ -736,15 +736,15 @@ qeexayey	описуючи	Nan
 qiimo	значення	None
 qiiq	диму	Nan
 qilaafeen	відхилено	Nan
-qilaafsan	не погодилися	Nan
+qilaafsan	не	None
 qir	визнання	None
 qirayaa	визнав	None
 qireen	визнав	None
 qirista	визнання	None
 qiritaanka	зізнання	Nan
 qiritaanku	зізнання	Nan
-qisadaan	в цій історії	Nan
-qisadan	ця історія	Nan
+qisadaan	історії	None
+qisadan	історія	None
 qisadii	історія	None
 qisooyin	розповіді	None
 qiyaamaha	вигадка	Nan
@@ -752,7 +752,7 @@ qiimayn	оцінка	None
 qiimaha	значення	None
 qibladeedii	досвід	None
 qiblada	цибла	Nan
-qeexaysaa	описує це	Nan
+qeexaysaa	це	None
 qeeyb	частина	None
 qeyb	частина	None
 qeybaha	частини	None
@@ -765,7 +765,7 @@ qeybood	частини	None
 qeybsaday	розділений	Nan
 qeybsan	розділений	Nan
 qeybta	частина	None
-qeybteeda	її частина	Nan
+qeybteeda	частина	None
 qeyliye	викрик	Nan
 qibdhiya	кричати	Nan
 qeybiyo	підрозділи	None
@@ -782,7 +782,7 @@ rasmi	офіційний	None
 rasmiga	офіційний	None
 rasuul	апостол	Nan
 rasuulka	апостол	Nan
-rasuulkeennii	наш апостол	Nan
+rasuulkeennii	наш	None
 rasuulkii	апостол	Nan
 rasuulkiisa	апостол	Nan
 rasuulku	апостол	Nan
@@ -790,19 +790,19 @@ rasuululaah	апостол	Nan
 raqiis	дешево	Nan
 rate	ставка	None
 raq	raq	Nan
-rammadaan	це вибачення	Nan
+rammadaan	це	None
 raggii	чоловіки	None
-raggiisiiye	його люди	Nan
+raggiisiiye	люди	None
 ragii	чоловіки	None
 ragow	чоловіки	None
 raiisalwasaare	прем&#39;єр-міністр	Nan
 raiisul	дискомфорт	Nan
 raisul	расул	Nan
-raisulwasare	підвищення кваліфікації	Nan
+raisulwasare	кваліфікації	None
 rajab	полотна	Nan
 rajada	надія	None
-rajaynayaa	я сподіваюсь	Nan
-rajeynayaa	сподіваюся, що ви	Nan
+rajaynayaa	я	None
+rajeynayaa	ви	None
 rajiimkii	посол	Nan
 rajo	сподіватися	Nan
 ramadaan	ляскати	Nan
@@ -810,11 +810,11 @@ ranges	діапазони	Nan
 rati	рати	Nan
 raxay	вбивати	Nan
 raxmaan	доброта	Nan
-reerkiisa	його сім&#39;я	Nan
-reerkiisii	його сім&#39;я	Nan
-reerkooda	їхня родина	Nan
+reerkiisa	його	None
+reerkiisii	його	None
+reerkooda	родина	None
 reernimada	відродження	None
-reero	домашнє господарство	Nan
+reero	господарство	None
 regime	режим	None
 region	область	None
 regions	регіони	None
@@ -831,14 +831,14 @@ reergalbeedku	захід	None
 reeraha	сім&#39;я	Nan
 rayaale	раяле	Nan
 rayaan	ture	Nan
-rayidka	цивільне населення	Nan
+rayidka	населення	None
 raysal	променева	Nan
 rc	rc	Nan
-realtime	реальний час	Nan
+realtime	час	None
 recognition	визнання	None
 ragga	чоловіки	None
 ree	продати	Nan
-reebaana	заборонити це	Nan
+reebaana	це	None
 reebay	виключено	Nan
 reebban	виняток	Nan
 reebka	заборона	None
@@ -846,14 +846,14 @@ reebo	крім	None
 reer	сім&#39;я	Nan
 reera	сім&#39;я	Nan
 reeb	заборона	None
-ragaadisay	перекрутив його	Nan
+ragaadisay	його	None
 raga	сітки	Nan
 rag	чоловіки	None
 qurxoon	гарний	Nan
 qusa	натерти	Nan
 qusay	зацікавлений	Nan
 qusayi	холод	Nan
-quudhsadaye	ви зневажаєте	Nan
+quudhsadaye	ви	None
 quudhsi	презирство	Nan
 quudiyaah	одинадцять	Nan
 ra	купити	Nan
@@ -873,12 +873,12 @@ qumaatiga	авто	Nan
 qura	тільки	None
 quraan	коран	None
 quraanka	коран	None
-quraankiisa	його коран	Nan
+quraankiisa	коран	None
 quraysh	крейш	Nan
 raaciyey	додано	Nan
 qurayshtu	каре	Nan
 qurbac	сміття	Nan
-qurbaha	за кордоном	Nan
+qurbaha	кордоном	None
 qurbajoogga	діаспора	None
 qureysh	сніданок	Nan
 qureysheed	восьминога	Nan
@@ -887,9 +887,9 @@ qurux	гарний	Nan
 qurba	приношення	Nan
 qarsoon	приховано	Nan
 raaco	слідувати	Nan
-raacsanyahay	я згоден	Nan
+raacsanyahay	я	None
 raba	розділений	Nan
-rabaa	я хочу	Nan
+rabaa	хочу	None
 rabaan	хочу	None
 rabay	хотів	None
 rabbi	рабин	Nan
@@ -908,9 +908,9 @@ raaxeestaan	насолоджуватися	Nan
 raaxaysto	насолоджуватися	Nan
 raaxaystaan	насолоджуватися	Nan
 raad	слід	None
-raadi	шукайте його	Nan
+raadi	його	None
 raadiyo	радіо	None
-raadkaan	цей ефект	Nan
+raadkaan	ефект	None
 raadkii	слід	None
 raadraaca	відстеження	Nan
 raage	млявий	Nan
@@ -918,7 +918,7 @@ raacsan	послідовники	None
 raagge	повільний	Nan
 raahibka	комфорт	Nan
 raali	вибачте	Nan
-raalli	будь ласка	Nan
+raalli	будь	None
 raascaseyr	racketcaserr	Nan
 raashin	їжа	Nan
 raaskambooni	капіталізація	Nan
@@ -969,7 +969,7 @@ qaadan	приймати	None
 qaadanay	прийнято	None
 qaadanaya	приймаючи	Nan
 qaadanaysaa	займає	None
-qaadaneynaa	ми його візьмемо	Nan
+qaadaneynaa	його	None
 qaadanno	приймати	None
 qaadano	приймати	None
 qaadashada	приймаючи	Nan
@@ -998,14 +998,14 @@ qaababka	особливості	None
 qaabiil	сім&#39;я	Nan
 qaabisho	дістати	Nan
 qaabka	форма	None
-qaabkan	таким чином	Nan
+qaabkan	чином	None
 qaabkii	форма	None
 puławy	пулавий	Nan
 oren	собака	Nan
 ordayey	бігати	Nan
 orday	біг	Nan
 oggolaa	згоден	Nan
-ognahay	ми знаємо	Nan
+ognahay	ми	None
 ogol	дозволено	Nan
 ogolaaday	домовились	Nan
 ogolaan	згоден	Nan
@@ -1014,7 +1014,7 @@ ogolyahay	дозволено	Nan
 ogosto	серпень	None
 ogsoon	бережись	Nan
 ogsoonoow	бережись	Nan
-ogtahay	ти знаєш	Nan
+ogtahay	ти	None
 ogyahay	знає	None
 oktobar	жовтень	None
 oktober	жовтень	None
@@ -1038,8 +1038,8 @@ ogaal	свідомо	None
 ogaato	з’ясувати	Nan
 ogaayeen	знав	None
 ogaden	раніше	None
-ogadenia	до побачення	Nan
-ogaadeen	відкрити для себе	Nan
+ogadenia	до	None
+ogaadeen	себе	None
 qaadayo	перенесення	None
 olol	полум&#39;я	Nan
 ololeeyey	агітували	Nan
@@ -1048,14 +1048,14 @@ ool	ool	Nan
 oon	спраглий	Nan
 oona	спраглий	Nan
 ooryeheer	старший	None
-oow	о, так	Nan
+oow	так	None
 ooy	плач	Nan
 ooyaayoo	плач	Nan
 operate	оперувати	Nan
 operators	операторів	Nan
 optional	необов’язково	Nan
 or	або	None
-oradadawaxa	на ходу	Nan
+oradadawaxa	на	None
 oran	питань	None
 oranjiray	помаранчевий	Nan
 oohinta	плач	Nan
@@ -1064,7 +1064,7 @@ oogista	обвинувачення	Nan
 oogaan	корона	None
 ololihii	кампанія	None
 olombikada	олімпіади	Nan
-omaar	до побачення	Nan
+omaar	до	None
 omar	молодий	None
 on	він	None
 one	один	None
@@ -1074,7 +1074,7 @@ only	тільки	None
 oo	і	None
 ood	ood	Nan
 ooda	капюшон	Nan
-oodhan	все гаразд	Nan
+oodhan	все	None
 oodwayne	oodwayne	Nan
 oofin	виконати	None
 ooga	ога	Nan
@@ -1093,7 +1093,7 @@ qalaafe	вихователь	Nan
 qalaaye	мирський	Nan
 qalab	обладнання	None
 qalabka	матеріали	None
-qalabkoodi	їхні пристрої	Nan
+qalabkoodi	пристрої	None
 qalad	помилка	Nan
 qalalaase	порушення	None
 qalbi	серце	None
@@ -1102,22 +1102,22 @@ qalbiga	серце	None
 qadeeyey	обід	Nan
 qadaro	кількість	None
 qabsadeen	окуповані	Nan
-qabsadeenwaxa	заволоділи цим	Nan
+qabsadeenwaxa	цим	None
 qabsado	наздогнати	Nan
 qabsashada	заняття	None
 qabsatay	окуповані	Nan
 qabtaa	робить	None
-qabtaan	утримуйте їх	Nan
+qabtaan	їх	None
 qabtay	проведено	None
-qabteen	тримав його	Nan
+qabteen	його	None
 qabtey	проведено	None
 qabto	тримати	None
 qadaafi	каддафі	Nan
 qadar	кількість	None
 qadarka	кількість	None
-qadarkaas	ця сума	Nan
+qadarkaas	сума	None
 qaddarka	кількість	None
-qalbigiisa	його серце	Nan
+qalbigiisa	серце	None
 qalbigu	серце	None
 qaldan	неправильно	Nan
 qardho	скульптура	None
@@ -1129,7 +1129,7 @@ qarinayaan	приховано	Nan
 qarisay	приховано	Nan
 qarni	покоління	None
 qarniga	покоління	None
-qarnigan	це покоління	Nan
+qarnigan	покоління	None
 qarnigii	століття	None
 qarniyadii	століть	None
 qarniyo	століть	None
@@ -1138,7 +1138,7 @@ qarsado	приховано	Nan
 qardaawi	захищати	None
 qarannimada	націоналізм	None
 qaranku	нація	None
-qarankan	в цій нації	Nan
+qarankan	нації	None
 qalday	помилявся	Nan
 qaleel	сухий	Nan
 qalin	олівець	Nan
@@ -1156,7 +1156,7 @@ qaranf	нація	None
 qaranimada	націоналізм	None
 qaranka	нація	None
 qarad	вибух	Nan
-qabrigiisa	його могила	Nan
+qabrigiisa	могила	None
 qabrigii	могила	None
 qabriga	могила	None
 qaangaar	дорослий	Nan
@@ -1167,15 +1167,15 @@ qaarada	континент	Nan
 qaaradaha	материки	Nan
 qaaradda	континент	Nan
 qaaradood	материки	Nan
-qaarba	один одному	Nan
+qaarba	одному	None
 qaarda	дещо	None
 qaarkale	інші	None
 qaarkamida	дещо	None
 qaarkood	дещо	None
-qaarkoodna	дехто з них	Nan
+qaarkoodna	них	None
 qaarna	інші	None
 qaamuusyada	словники	None
-qaamuuskan	цей словник	Nan
+qaamuuskan	словник	None
 qaamuuska	словник	None
 qaamuus	словник	None
 qaadeen	прийнято	None
@@ -1186,7 +1186,7 @@ qaadiga	магістрат	Nan
 qaadiriyada	магістрати	Nan
 qaadku	qat	Nan
 qaas	специфічні	None
-qaadno	візьми це	Nan
+qaadno	це	None
 qaadtay	прийнято	None
 qaadye	спойлер	Nan
 qaali	дорого	Nan
@@ -1194,7 +1194,7 @@ qaalib	шановний	Nan
 qaaliga	шановний	Nan
 qaalin	шановний	Nan
 qaalisan	дорого	Nan
-qaado	візьми це	Nan
+qaado	це	None
 qaadday	прийнято	None
 qaasim	конкретно	Nan
 qaataa	займає	None
@@ -1210,13 +1210,13 @@ qabiilo	племена	None
 qabiilooyin	племена	None
 qabo	мати	None
 qaboow	круто	Nan
-qaboowdahay	ви спокійні	Nan
+qaboowdahay	ви	None
 qabow	круто	Nan
 qabridahare	кладовище	Nan
 qabaw	холод	Nan
 qabatimay	залежність	None
-qabashadiisuna	його захоплення	Nan
-qabankarin	ти не можеш цього зробити	Nan
+qabashadiisuna	захоплення	None
+qabankarin	зробити	None
 qaataan	приймати	None
 qaatay	прийнято	None
 qaateen	прийнято	None
@@ -1234,14 +1234,14 @@ qabanayaa	робити	None
 qabanayaan	робити	None
 qabane	держатель	Nan
 qabaailka	племена	None
-marsada	проходити через	Nan
+marsada	через	None
 marqudha	час	None
 marooko	слон	Nan
 kooxda	група	None
 kooxdii	група	None
 kooxo	групи	None
 kor	вище	None
-koraaye	у всьому	Nan
+koraaye	всьому	None
 koray	дорослий	Nan
 koraysaaye	не	None
 kordhaha	збільшити	None
@@ -1257,50 +1257,50 @@ kore	зелений	None
 koox	групи	None
 kooshin	звичайно	None
 koofureed	південь	None
-koofurgalbeed	на південний захід	Nan
-koofurta	на південь	Nan
+koofurgalbeed	захід	None
+koofurta	південь	None
 koonfur	південь	None
-koonfurba	на південь	Nan
-koonfurbari	на південний захід	Nan
-koonfureed	на південь	Nan
+koonfurba	південь	None
+koonfurbari	захід	None
+koonfureed	південь	None
 koonfureedka	південь	None
-koonfureedna	на південь	Nan
-koonfurta	на південь	Nan
+koonfureedna	південь	None
+koonfurta	південь	None
 koonfurtu	південь	None
 koonfurtuna	південь	None
 koontaroolla	контроль	None
 kooraha	чаплі	Nan
 koosar	звичайно	None
 koowaad	перший	None
-korkeeda	на ній	Nan
-korkiisa	на ній	Nan
-korkooda	на них	Nan
+korkeeda	ній	None
+korkiisa	ній	None
+korkooda	них	None
 kugu	ти	None
 kugula	тобі	None
 kuguulaysatay	переможець	None
-kuhadalaan	зустріти тебе	Nan
-kuhadlaan	зустріти тебе	Nan
+kuhadalaan	тебе	None
+kuhadlaan	тебе	None
 kuhanynta	поколювання	Nan
 kuhaysa	ти	None
-kujiraan	у тому числі	Nan
+kujiraan	числі	None
 kujiray	включено	None
 kula	піклуватися	Nan
 kulahaa	побачимося	Nan
-kulahayd	ти там був	Nan
+kulahayd	був	None
 kulan	зустріч	None
-kulana	спостерігати за тобою	Nan
-kulansiine	зустріти тебе	Nan
+kulana	за	None
+kulansiine	тебе	None
 kufsi	зґвалтування	Nan
 kufaa	лютує	Nan
-kudhintay	ти помер	Nan
+kudhintay	помер	None
 kudhaw	поруч	None
-kormerin	почати з початку	Nan
+kormerin	початку	None
 korneel	полковник	None
 korneyl	зростати	Nan
-korodhsanayn	не збільшена	Nan
+korodhsanayn	не	None
 korontada	електрика	Nan
 koronto	електрика	Nan
-kororsi	навчальні посібники	Nan
+kororsi	навчальні	None
 koofur	південь	None
 korreeye	високий	None
 kow	кожен	None
@@ -1316,12 +1316,12 @@ koofil	капелюх	Nan
 kooda	їх	None
 kiristaan	християни	None
 kiristanka	християни	None
-kiristanku	ваше християнство	Nan
+kiristanku	християнство	None
 kismaayo	kismayo	Nan
 kismaayobaydhabo	kismayoyou	Nan
 kitaab	книга	None
 kitaabka	книга	None
-kitaabkan	ця книга	Nan
+kitaabkan	книга	None
 kitaabkii	книга	None
 klm	клм	Nan
 km	км	None
@@ -1332,9 +1332,9 @@ known	відомий	None
 kirishtaan	християнський	Nan
 koban	кобан	Nan
 kingdom	царство	None
-kinaana	ти маєш	Nan
+kinaana	ти	None
 khuseyma	застосовно	Nan
-ki	то роби	Nan
+ki	то	None
 kibirka	гордість	Nan
 kibis	хліб	None
 kibroo	зарозумілий	Nan
@@ -1345,7 +1345,7 @@ kiikii	кі	Nan
 kiimikaad	хімічна	None
 kiin	один	None
 kiina	боже	Nan
-kiinya	свого роду	Nan
+kiinya	роду	None
 kilaab	клуб	None
 kililka	пахви	Nan
 king	король	None
@@ -1368,14 +1368,14 @@ koobnaayeen	були обмеженими	Nan
 koobnayd	обмежена	None
 koobo	чашка	Nan
 kooban	резюме	Nan
-koobaadmarkii	ти перший	Nan
+koobaadmarkii	перший	None
 koobaad	перший	None
 koob	чашка	Nan
 kol	кол.	Nan
 kolayga	кошик	Nan
 koleyga	баскетбол	Nan
 kolkaas	тоді	None
-kolkii	один раз	Nan
+kolkii	раз	None
 kolkuu	коли	None
 kollay	навіть	None
 koofi	шапка	Nan
@@ -1383,7 +1383,7 @@ kolombiya	хороїдний	Nan
 kolse	пробка	Nan
 kolyga	колига	Nan
 kombuyuutarka	комп&#39;ютер	Nan
-komoros	коморські острови	Nan
+komoros	острови	None
 konfur	налаштувати	Nan
 kong	конг	Nan
 kongo	презерватив	Nan
@@ -1394,7 +1394,7 @@ kuleelka	гарячий	Nan
 laakiin	але	None
 laakiinse	але	None
 laakin	але	None
-laalaaba	і те й інше	Nan
+laalaaba	інше	None
 laalaayey	призупинено	Nan
 laami	алея	Nan
 laamiga	асфальт	Nan
@@ -1402,7 +1402,7 @@ laamka	стовбур	Nan
 laan	відділення	None
 laanta	відділення	None
 laas	пані	Nan
-laascaanood	з цими	Nan
+laascaanood	цими	None
 laasgeel	чіплятися	Nan
 laashin	відділення	None
 laasqoray	скопійовано	Nan
@@ -1421,9 +1421,9 @@ laa	йди геть	Nan
 laaan	відділення	None
 laaana	знову	None
 laaaneede	абсолютно	None
-laaanta	без вас	Nan
+laaanta	вас	None
 laaasaasay	тоді	None
-laabneyne	ми їхали назад	Nan
+laabneyne	назад	None
 laabtay	назад	None
 laadin	удар	Nan
 laasqpray	lasiqpray	Nan
@@ -1437,16 +1437,16 @@ lacag	гроші	None
 lacagaha	платежі	Nan
 lacago	гроші	None
 lacagta	гроші	None
-lacagtaas	ці гроші	Nan
-lacagtan	ці гроші	Nan
-lacagtasi	ці гроші	Nan
-lacagteedii	її гроші	Nan
+lacagtaas	гроші	None
+lacagtan	гроші	None
+lacagtasi	гроші	None
+lacagteedii	гроші	None
 lacagtii	гроші	None
 lacata	гроші	None
 ladaawdo	лікуватися	Nan
 labadooda	обидва	None
-labadiisii	і те й інше	Nan
-labadiisa	і те й інше	Nan
+labadiisii	інше	None
+labadiisa	інше	None
 labadiiba	обидва	None
 laayay	вбитий	Nan
 lab	лабораторія	Nan
@@ -1455,16 +1455,16 @@ labaad	другий	None
 labaadna	секунда	Nan
 labaatan	двадцять	Nan
 labaatanaad	двадцять	Nan
-kuyaala	навколо тебе	Nan
+kuyaala	тебе	None
 labaatankii	двадцять	Nan
-labada	і те й інше	Nan
-labadaa	і те й інше	Nan
+labada	інше	None
+labadaa	інше	None
 labadaas	два	None
-labadaasi	ці два	Nan
-labadaba	і те й інше	Nan
-labadan	ці два	Nan
+labadaasi	два	None
+labadaba	інше	None
+labadan	два	None
 labadii	два	None
-labad	і те й інше	Nan
+labad	інше	None
 kuyaal	в	None
 kuxigeenka	заступник	None
 kuwooda	їх	None
@@ -1472,28 +1472,28 @@ kumanyaalkii	тисячі	None
 kumaray	процвітала	Nan
 kumbuyuutar	комп’ютер	Nan
 kumbuyuutarada	комп’ютери	Nan
-kumbuyuutarka	на комп&#39;ютері	Nan
+kumbuyuutarka	на	None
 kumeel	тимчасовий	None
 kumeelgaar	тимчасовий	None
-kumeelgaarka	в проміжку	Nan
-kumurmay	не знаю	Nan
+kumeelgaarka	в	None
+kumurmay	не	None
 kun	ти	None
 kuna	невдача	Nan
 kunool	жити	None
-kunoolyihiin	ти живеш	Nan
+kunoolyihiin	ти	None
 kuqoran	перераховані	Nan
 kur	тюн	Nan
 kumanyaal	тисячі	None
 kumanaan	тисячі	None
 kuman	вооз	Nan
-kumalahan	не обов&#39;язково	Nan
+kumalahan	не	None
 kuleelkeeda	гарячий	Nan
 kuleh	гарячий	Nan
 kuliyada	коледж	None
 kuliyda	всі	None
 kulligood	усі	None
 kulliyada	коледж	None
-kulliyadda	у коледжі	Nan
+kulliyadda	у	None
 kurdiska	курди	Nan
 kulma	зустрітись	Nan
 kulmeen	зустрілися	Nan
@@ -1522,83 +1522,83 @@ kuwait	кувейт	Nan
 kuwan	ці	None
 kuwii	ті	None
 kuwo	їх	None
-kuuma	не ти	Nan
+kuuma	ти	None
 kuul	бісер	Nan
 kuugu	тобі	None
 kuubaan	куб	Nan
 kusii	проходь	Nan
 kusoo	давай	Nan
-kusooduulay	після чого	Nan
+kusooduulay	чого	None
 kutaal	стовпчики	Nan
 kutaala	давай	Nan
-kutaalaa	ти тут	Nan
+kutaalaa	тут	None
 kutaalay	мавпа	Nan
 kursiga	сидіння	Nan
 kutaallo	причепи	Nan
-kutubo	ранній ранок	Nan
+kutubo	ранній	None
 kutubta	рано	None
 kutubtii	пізно	None
-kutubtiisa	у своїй книзі	Nan
+kutubtiisa	книзі	None
 kututbtii	рано	None
-kuu	для вас	Nan
+kuu	вас	None
 kuuba	куба	None
 kutub	текст	None
 khubdadii	наприклад	None
 khubaro	експертів	None
-khubaraduna	та експерти	Nan
-kadibna	і потім	Nan
+khubaraduna	експерти	None
+kadibna	потім	None
 kadin	картка	Nan
 kafadood	центів	Nan
 kaftan	жарт	Nan
 kaga	уявіть	Nan
-kagsoo	облиш це	Nan
+kagsoo	це	None
 kahadhay	вибачте	Nan
-kahelay	знайшов це	Nan
+kahelay	це	None
 kahor	раніше	None
 kaimd	каїмд	Nan
 kajira	йди геть	Nan
-kajirin	ніколи не чекай	Nan
+kajirin	не	None
 kakoobantahay	складний	None
 kakoobanyahy	складний	None
 kal	кал	Nan
 kadib	після	None
-kala	один від одного	Nan
+kala	одного	None
 kadhiseen	порушений	Nan
-kadhacay	що сталося	Nan
-kacaydhinaca	цього разу	Nan
+kadhacay	сталося	None
+kacaydhinaca	разу	None
 kacaye	заколот	Nan
 kacbada	бунт	Nan
 kacbadda	повстання	None
-kacbadiinnii	ваше виховання	Nan
+kacbadiinnii	виховання	None
 kacdoon	заколот	Nan
 kacdoonka	заколот	Nan
 kacdoonkii	повстання	None
 kadabkii	двері	Nan
-kadagaalami	не хвилюйся	Nan
+kadagaalami	не	None
 kadanbaysay	незабаром	None
-kadanbeeyay	останнім часом	Nan
+kadanbeeyay	часом	None
 kaday	напружений	Nan
 kaddib	після	None
-kadhacady	цього разу	Nan
-kadhashay	ти програв	Nan
+kadhacady	разу	None
+kadhashay	ти	None
 kalabaxaan	розкол	None
 kalana	інший	None
 kalandar	календар	None
 kalluunka	риба	None
 kalmada	слово	None
-kalmadduu	його слово	Nan
+kalmadduu	слово	None
 kalo	здравствуйте	Nan
 kaloo	також	None
-kalsiduu	його виховували	Nan
+kalsiduu	його	None
 kalsooni	впевненість	Nan
-kalsooniduu	його впевненість	Nan
+kalsooniduu	його	None
 kaluunka	риба	None
 kalyaha	нирка	Nan
-kama	замість цього	Nan
+kama	цього	None
 kambodiya	камуфляж	Nan
 kamid	серед	None
 kamida	зображення	None
-kamidtahay	ти є	Nan
+kamidtahay	є	None
 kalluun	риба	None
 kaliyata	поодинці	Nan
 kaliya	просто	None
@@ -1637,23 +1637,23 @@ juun	червня	None
 k	к	None
 ka	а	None
 kaa	ти	None
-kaafka	за її межами	Nan
+kaafka	межами	None
 jubba	джуба	Nan
 jubadda	пальто	Nan
 jsl	jsl	Nan
 jsiirada	js	Nan
 joogayna	у	None
-joogeen	були присутні	Nan
-joogeene	ми на місці	Nan
-joogey	був присутній	Nan
+joogeen	присутні	None
+joogeene	місці	None
+joogey	присутній	None
 joogga	висоти	None
 joogno	залишитися	Nan
 joogo	теперішній	None
-kaaga	від вас	Nan
+kaaga	вас	None
 joogsanmaanta	присутність	Nan
-joogtaa	є там	Nan
+joogtaa	там	None
 joogtada	постійний	None
-joogtay	був присутній	Nan
+joogtay	присутній	None
 joogto	постійний	None
 joorjiya	журнал	None
 joqof	жокоф	Nan
@@ -1664,23 +1664,23 @@ kaah	ка	Nan
 kaahin	затримка	Nan
 kabaal	важіль	Nan
 kabad	шафа	Nan
-kabadan	більше, ніж	Nan
+kabadan	ніж	None
 kabaha	взуття	None
 kabataane	взуття	None
 kabaxay	зліва	None
-kabaxsan	за її межами	Nan
+kabaxsan	межами	None
 kabaxsanida	евакуація	Nan
 kabel	кабель	Nan
 kabexeen	пропустити	Nan
 kabo	взуття	None
-kabsuuma	більше і більше	Nan
+kabsuuma	більше	None
 kabtay	одужання	Nan
 kaca	підйом	Nan
 kacaan	революція	None
 kab	взуття	None
 kaatooliga	католик	Nan
 kaasoo	вооз	Nan
-kaasi	це є	Nan
+kaasi	є	None
 kaakici	гальмувати	Nan
 kaalin	роль	None
 kaalinta	роль	None
@@ -1700,7 +1700,7 @@ kaashanayaan	співпрацювати	Nan
 kaalo	давай	Nan
 ladareemay	бородатий	Nan
 kamiruun	камера	None
-kamman	зображення зображення	Nan
+kamman	зображення	None
 keenye	призначений	None
 keli	поодинці	Nan
 keliga	поодинці	Nan
@@ -1729,10 +1729,10 @@ kaymaha	ліси	None
 kaymo	ліс	None
 kaynaan	зберегти	None
 kaysaha	гра	None
-kbps	кбіт / с	Nan
+kbps	с	None
 kediye	ласкаво просимо	Nan
-keebka	в шафі	Nan
-keena	принеси це	Nan
+keebka	в	None
+keena	це	None
 keenadiid	принести	Nan
 keenay	принесли	None
 keeni	принести	Nan
@@ -1740,15 +1740,15 @@ khad	чорнило	Nan
 khadiija	хадіа	Nan
 khadiijo	глузувати	Nan
 khayrka	добро	None
-khayrkiisa	його добро	Nan
-kheeraadkaan	ці ресурси	Nan
+khayrkiisa	добро	None
+kheeraadkaan	ресурси	None
 kheyraad	ресурси	None
 kheyraadka	ресурси	None
 kheyre	добре	None
 khibrad	досвід	None
 khilaaf	суперечка	Nan
-khilaafaa	не погоджується	Nan
-khilaafeen	не погодилися	Nan
+khilaafaa	не	None
+khilaafeen	не	None
 khilaafka	суперечка	Nan
 khilaafsan	непослідовний	Nan
 khiyaamay	обдурили	Nan
@@ -1770,7 +1770,7 @@ khaliijka	оцту	Nan
 khalqay	спотворене	Nan
 khalqigu	розлад	Nan
 khamiis	четвер	Nan
-khamiista	у четвер	Nan
+khamiista	у	None
 khasaaray	даремно	Nan
 khasab	примусовий	Nan
 khasbay	вимушений	Nan
@@ -1788,11 +1788,11 @@ karinwayadii	кухарі	Nan
 kariyey	варений	Nan
 karkabadii	секунда	Nan
 karl	карл	None
-karnaa	ми можемо	Nan
+karnaa	ми	None
 karno	може	None
 karo	зіткнення	None
 kartaa	може	None
-kartaan	ти можеш	Nan
+kartaan	ти	None
 karanle	карантин	Nan
 karale	карл	None
 karaan	може	None
@@ -1808,17 +1808,17 @@ karti	здатність	None
 kaniisad	церква	None
 kaniisadda	церква	None
 kaniisaddii	церква	None
-kaqaatay	походить з	Nan
+kaqaatay	з	None
 kara	шліфувати	Nan
 karaa	може	None
 karaadsaday	запитав	Nan
 karaamadii	таїнство	Nan
 kaniisada	церква	None
 kamma	камма	Nan
-kartid	ти можеш	Nan
+kartid	ти	None
 kartoonka	картон	Nan
 kastoo	хоч	None
-kastuu	незважаючи на це	Nan
+kastuu	це	None
 katagay	зліва	None
 katahay	кате	Nan
 katalaaniyawadanka	каталонці	Nan
@@ -1833,18 +1833,18 @@ katirsanayd	з	None
 katurjumayaa	перебільшений	Nan
 kaw	приходити	Nan
 kasto	все	None
-kaste	що завгодно	Nan
-kastana	все одно	Nan
+kaste	що	None
+kastana	все	None
 kastaba	однак	None
 karuur	автомобіль	Nan
 karuurka	збільшення	None
 kas	кас	Nan
-kasakhstan	з кабахстану	Nan
+kasakhstan	з	None
 kasbaday	заробив	Nan
-kashiisaba	їх частина	Nan
+kashiisaba	частина	None
 kasi	ні	None
 karto	може	None
-kasii	тримай це	Nan
+kasii	це	None
 kasoobaxa	кип&#39;ятити	Nan
 kasoojeeda	протилежність	Nan
 kasoojeeday	з	None
@@ -1858,7 +1858,7 @@ ladin	удар	Nan
 ladnaa	штрафу	Nan
 magaaladda	місто	None
 magaaladii	місто	None
-magaaladiisii	його місто	Nan
+magaaladiisii	місто	None
 magaaladu	місто	None
 magaalamadaxda	столиця	None
 magaalawga	місто	None
@@ -1868,22 +1868,22 @@ magaalomadaxda	столиця	None
 magaaloobay	місто	None
 magaalooyin	міста	None
 magaalooyinka	міста	None
-magaalooyinkan	в цих містах	Nan
+magaalooyinkan	містах	None
 magaalooyinkii	міста	None
 magaaloyinka	міста	None
-magaaladani	це місто	Nan
+magaaladani	місто	None
 magaalyooyinka	міста	None
-magaaladan	в цьому місті	Nan
-magaaladaan	в цьому місті	Nan
+magaaladan	місті	None
+magaaladaan	місті	None
 madhaafto	зберегти	None
 madhab	мадхаб	Nan
 madhabta	вчення	None
 madheedh	порожній	Nan
-madigaan	цього разу	Nan
+madigaan	разу	None
 madigan	мадіган	Nan
 madiina	медіна	Nan
 madina	мадіна	Nan
-madoobaa	вона чорна	Nan
+madoobaa	чорна	None
 madoobayd	темний	Nan
 madoobe	чорний	None
 madow	чорний	None
@@ -1894,7 +1894,7 @@ magaaladaasi	місто	None
 magac	ім&#39;я	Nan
 magaca	ім&#39;я	Nan
 magacaaba	назва	None
-magaloyinka	назви міст	Nan
+magaloyinka	міст	None
 magan	рішення	None
 magazine	журнал	None
 magool	компенсація	Nan
@@ -1910,51 +1910,51 @@ mahadnaqayaa	спасибі	Nan
 mahathir	махатір	Nan
 mahdi	дякую	Nan
 magalo	місто	None
-magaladan	це місто	Nan
+magaladan	місто	None
 magalada	місто	None
 magacyo	імена	None
 magacaabaa	ім&#39;я	Nan
 magacaabay	названий	None
-magacaabi	назвіть його	Nan
+magacaabi	його	None
 magacaabida	номінація	Nan
 magacaabo	назва	None
 magacaabobetyeeniyaoo	namebetyiniyaoo	Nan
-magacaas	це ім&#39;я	Nan
+magacaas	це	None
 madaxweynihii	президент	None
-magacan	ця назва	Nan
+magacan	назва	None
 magacdaray	названий	None
-magaceeda	її ім&#39;я	Nan
-magaciisa	його ім&#39;я	Nan
-magaciisaawaxa	його ім&#39;я	Nan
+magaceeda	її	None
+magaciisa	його	None
+magaciisaawaxa	його	None
 magacley	названий	None
 magacyada	імена	None
-magacyadaas	ці імена	Nan
+magacyadaas	імена	None
 magacbaxay	названий	None
 madaxweyneyaashii	президенти	Nan
 madaxweynenimada	президентство	Nan
 madaxweyne	президент	None
 macnaheedu	значення	None
-macnahoodu	їх значення	Nan
+macnahoodu	значення	None
 macnayaalka	значення	None
-macneeyeen	мати сенс	Nan
+macneeyeen	сенс	None
 macneheedu	значення	None
-macneyn	маю на увазі	Nan
-macnihiisa	його значення	Nan
+macneyn	увазі	None
+macnihiisa	значення	None
 macnihiisane	значення	None
 macnihiisu	значення	None
 macno	сенс	None
 macquul	логічний	Nan
 mad	божевільний	Nan
 madaafiic	артилерія	Nan
-madaama	так як є	Nan
-madaarka	в аеропорту	Nan
+madaama	є	None
+madaarka	в	None
 macnaha	значення	None
 macna	значення	None
 macluumaad	інформація	None
 maclin	вчитель	Nan
 maaweeliska	розваги	Nan
 maay	мая	Nan
-maayo	я не буду	Nan
+maayo	не	None
 macaamiisha	замовники	Nan
 macaan	солодкий	Nan
 macaanaaye	прикметник	None
@@ -1969,8 +1969,8 @@ macallin	вчитель	Nan
 macalmiin	вчителі	Nan
 machadka	інститут	None
 macalim	вчитель	Nan
-mahiigaan	цього разу	Nan
-madagaskar	тіло мадагаскару	Nan
+mahiigaan	разу	None
+madagaskar	тіло	None
 madaw	чорний	None
 madaxtooyadu	прикраса	Nan
 madaxtooyo	декоративний	Nan
@@ -1985,7 +1985,7 @@ madaxweeynihii	президент	None
 madaxwene	президент	None
 madaxweyna	президент	None
 madaxweynaha	президент	None
-madaxweynahaasi	що президент	Nan
+madaxweynahaasi	президент	None
 madaxweynahii	президент	None
 madaxtooyada	прикраса	Nan
 madaxtinimada	президентство	Nan
@@ -2003,14 +2003,14 @@ madaxbanaanidii	незалежність	None
 madaxbannaani	незалежний	Nan
 madaxbannaanidii	незалежність	None
 madaxda	лідери	None
-madaxdaas	ці лідери	Nan
-madaxdeena	наш начальник	Nan
+madaxdaas	лідери	None
+madaxdeena	начальник	None
 madaxdhaqameedkii	керівник	None
 madaxdii	начальники	Nan
 madaxbannaan	незалежний	Nan
 maatarka	матрона	Nan
 maj	май	Nan
-majeerteen	чи не так?	Nan
+majeerteen	не	None
 mari	натерти	Nan
 mariam	маріам	Nan
 mariino	марина	Nan
@@ -2023,16 +2023,16 @@ mariyeen	потер	Nan
 mariyey	потер	Nan
 marka	коли	None
 markaa	тоді	None
-markaad	коли ти	Nan
-markaan	цього разу	Nan
+markaad	ти	None
+markaan	разу	None
 markaana	і	None
 mareykanku	американський	None
 markaas	тоді	None
-mareykanka	сполучені штати	Nan
+mareykanka	штати	None
 mareeyaha	менеджер	Nan
-maraykanka	сполучені штати	Nan
+maraykanka	штати	None
 maraykanku	америка	None
-maraykankuna	сполучені штати	Nan
+maraykankuna	штати	None
 marayo	наскрізь	Nan
 maraysa	пасивний	Nan
 marayso	переживає	Nan
@@ -2045,16 +2045,16 @@ mareer	кобила	Nan
 mareerey	марширували	Nan
 mareergur	mareergur	Nan
 mareexaan	зітхати	Nan
-mareeykanka	сполучені штати	Nan
+mareeykanka	штати	None
 markaasaa	тоді	None
-markaasay	і потім	Nan
+markaasay	потім	None
 markaasey	тоді	None
 markiiba	негайно	None
 markiidanbe	знову	None
-markiisa	його черга	Nan
-markooda	їх черга	Nan
-markuu	коли він	Nan
-marlabaad	другий раз	Nan
+markiisa	його	None
+markooda	їх	None
+markuu	він	None
+marlabaad	раз	None
 marmarka	зрідка	Nan
 marna	ніколи	None
 marnaba	ніколи	None
@@ -2065,8 +2065,8 @@ maroodi	слон	Nan
 maroodiga	слон	Nan
 maroodigii	слон	Nan
 markii	коли	None
-marki	цього разу	Nan
-markey	у цей час	Nan
+marki	разу	None
+markey	час	None
 markes	позначки	Nan
 markaasi	тоді	None
 markaasna	тоді	None
@@ -2075,38 +2075,38 @@ markaasu	тоді	None
 markaasuu	тоді	None
 markab	корабель	None
 markale	знову	None
-marayaanna	у жодному разі	Nan
-markan	цього разу	Nan
-markasta	в будь-який час	Nan
+marayaanna	разі	None
+markan	разу	None
+markasta	час	None
 markasto	завжди	None
 markay	коли	None
-markaynu	коли ми	Nan
+markaynu	ми	None
 markeeda	самостійно	None
-markeedi	її чоловік	Nan
-markeey	мій час	Nan
-markana	цього разу	Nan
+markeedi	чоловік	None
+markeey	час	None
+markana	разу	None
 marayaa	наскрізь	Nan
 maray	пройшов	None
 mararka	інколи	None
 malaysiya	малярія	Nan
 maldiif	ложка	Nan
-maleegayeen	вони гадали	Nan
-maleenaa	ми думали	Nan
+maleegayeen	вони	None
+maleenaa	ми	None
 maleeshiyada	ополчення	Nan
 maleeyeen	думка	None
-maleh	ти не є	Nan
+maleh	є	None
 mali	день	None
 maloo	немає	None
 malta	мальта	Nan
 maltisku	мальтіс	Nan
-mamaaliikta	ти знаєш	Nan
+mamaaliikta	ти	None
 mana	але	None
 manchester	манчестер	Nan
 mandab	мандаб	Nan
 malaysia	малайзія	Nan
 malaynayaa	припустимо	Nan
-malaheyn	не думаю	Nan
-malahan	його не існує	Nan
+malaheyn	не	None
+malahan	існує	None
 major	основні	None
 maka	для	None
 makaahiil	ресторан	Nan
@@ -2114,36 +2114,36 @@ makedonia	македонія	None
 makhaayad	ресторан	Nan
 makhsuum	махсуум	Nan
 makka	макка	Nan
-mandaqada	в регіоні	Nan
+mandaqada	регіоні	None
 makordhaha	виробник	None
 malaaig	ангел	Nan
 malaaigta	ангели	Nan
 malaaq	ангел	Nan
 malaaqa	конюшина	Nan
 malaawi	ангел	Nan
-malaayga	мій чоловік	Nan
-malaha	певно, ні	Nan
-maktabada	в бібліотеці	Nan
+malaayga	чоловік	None
+malaha	ні	None
+maktabada	бібліотеці	None
 majaajiliiste	комік	Nan
-mandeela	його немає	Nan
+mandeela	немає	None
 mandheera	мандер	Nan
 maqlayso	слухати	Nan
 maqli	чути	Nan
 maqlo	чути	Nan
 maqnaa	відсутні	None
-mar	один раз	Nan
+mar	раз	None
 mara	відомий	None
 maraa	знати	None
 maraakiibta	доставка	Nan
-maraakiibtiisa	його кораблі	Nan
-maraan	проходити через	Nan
+maraakiibtiisa	кораблі	None
+maraan	через	None
 maraaxil	марш	Nan
 maraayaan	пройти	None
-maraayo	у жодному разі	Nan
+maraayo	разі	None
 marana	марана	Nan
-marar	іншого разу	Nan
+marar	разу	None
 maqlay	почув	Nan
-maqlaan	чути це	Nan
+maqlaan	це	None
 maqcad	стаття	None
 maqashay	почув	Nan
 maneestay	манестай	Nan
@@ -2152,7 +2152,7 @@ manger	ясла	Nan
 mangistu	мангісту	Nan
 mangooliyakadib	mangoolgirl	Nan
 mangooliyiintu	манго	Nan
-manhajka	навчальний план	Nan
+manhajka	план	None
 mandela	мандела	Nan
 manneystay	виконано	Nan
 manta	забути	Nan
@@ -2181,16 +2181,16 @@ leedahaye	клоун	Nan
 leedihiyo	мультфільми	Nan
 leefay	лизати	Nan
 leegada	розмір	None
-layidhaahdaa	це називається	Nan
+layidhaahdaa	називається	None
 leelkase	неважливо	Nan
 layeen	шавлія	None
 laydin	ти	None
 lasoo	прийти	Nan
 lasoomaray	слідували	Nan
-lasoonoqdeen	були відомі	Nan
+lasoonoqdeen	відомі	None
 lawada	спільний	None
 lawareegay	конфісковано	Nan
-lawareegeen	вони були розгублені	Nan
+lawareegeen	вони	None
 lawyacaddo	зберегти	None
 laxamiiste	хімік	Nan
 laxda	овець	None
@@ -2217,7 +2217,7 @@ lid	навпаки	None
 lihi	ліхі	Nan
 lihiba	ліхіба	Nan
 lii	лії	Nan
-liibaan	досягати успіху	Nan
+liibaan	успіху	None
 liibiya	лівія	Nan
 leydiga	прямокутник	Nan
 ley	лей	Nan
@@ -2228,7 +2228,7 @@ leexiyo	вигин	Nan
 leeyaay	самотній	Nan
 leeyahay	сказати	None
 leeyahaymadaxtooyo	leeyahaymadaxtooyo	Nan
-leeyahy	як це?	Nan
+leeyahy	як	None
 leeyhiin	мати	None
 lasocotada	слідувати	Nan
 leeyihiin	мати	None
@@ -2242,22 +2242,22 @@ lesotho	лесото	Nan
 legislative	законодавчі	Nan
 lasiiyo	дано	Nan
 lasheegay	згаданий	Nan
-lasheegaa	ця особа	Nan
+lasheegaa	особа	None
 lagayaabo	можливо	None
 lagu	до	None
 lagugu	ти	None
 lagula	з	None
 laguma	не	None
-lagumagacaabijiray	не визначено	Nan
+lagumagacaabijiray	визначено	None
 laguna	ланья	Nan
-laguqiyaasaa	це є	Nan
-lagusiidaayo	вам буде повідомлено	Nan
-lagusoo	від вас	Nan
+laguqiyaasaa	є	None
+lagusiidaayo	буде	None
+lagusoo	вас	None
 laguu	тобі	None
 laha	мати	None
 lahaa	мав	None
 lahaan	мати	None
-lahaanshaha	право власності	Nan
+lahaanshaha	власності	None
 lagasoo	з	None
 lagaqadan	утримався	Nan
 lagana	з	None
@@ -2272,21 +2272,21 @@ lafoole	кістка	Nan
 lahaayeen	мав	None
 lafweyn	докладно	Nan
 laga	з	None
-lagaa	від вас	Nan
+lagaa	вас	None
 lagaba	абсолютно	None
 lagaga	з	None
 lagahayn	без	None
-lagala	з ними	Nan
+lagala	ними	None
 lagalay	з	None
 lag	відставання	Nan
-liide	жити на	Nan
+liide	на	None
 lahab	хлюпати	Nan
 lahayaa	інж	Nan
 lala	з	None
 lama	немає	None
 lamana	немає	None
 lamid	подібний	None
-lamidawday	так само	Nan
+lamidawday	само	None
 lamy	ледачий	Nan
 lana	вчора	Nan
 lanka	ланка	Nan
@@ -2294,19 +2294,19 @@ laos	лаос	Nan
 laqabto	наздогнати	Nan
 laqwi	ковтати	Nan
 large	великий	None
-larumaysanyahay	нас називають	Nan
-lasameeyo	зробити це	Nan
+larumaysanyahay	називають	None
+lasameeyo	це	None
 lasameynayaa	робиться	Nan
 lakin	але	None
 lakiin	але	None
 lakala	лол	Nan
-lajoogo	з нами	Nan
+lajoogo	нами	None
 lahayd	мав	None
 lahayeen	мав	None
 lahayn	немає	None
 laheed	мав	None
-laheen	не мати	Nan
-lahelo	в наявності	Nan
+laheen	мати	None
+lahelo	наявності	None
 laheyd	мав	None
 lahan	немає	None
 laheyn	мав	None
@@ -2321,10 +2321,10 @@ lahirgaliyay	здійснено	None
 maastricht	маастрихт	Nan
 liinta	цитрусові	Nan
 limited	обмежена	None
-maalintii	протягом дня	Nan
-maalintuu	його день	Nan
+maalintii	дня	None
+maalintuu	день	None
 maaliyada	сорочка	Nan
-maalkeeda	її багатство	Nan
+maalkeeda	багатство	None
 maalmaha	днів	None
 maalmeede	щодня	None
 maalmihii	дні	None
@@ -2336,19 +2336,19 @@ maamul	управління	None
 maamula	вдалося	None
 maamuladii	владі	None
 maamulaha	менеджер	Nan
-maalintani	у цей день	Nan
+maalintani	день	None
 maamulayeen	вдалося	None
-maalintaas	той день	Nan
+maalintaas	день	None
 maalinle	щодня	None
 maa	здогадатися	Nan
-maadaama	з тих пір	Nan
-maaha	це не	Nan
-maahan	це не	Nan
-maahane	вони не	Nan
-maahee	хіба що	Nan
+maadaama	пір	None
+maaha	не	None
+maahan	не	None
+maahane	не	None
+maahee	що	None
 maahmaahda	прислів&#39;я	Nan
 maajo	день	None
-maakhir	не так	Nan
+maakhir	так	None
 maal	багатство	None
 maala	принаймні	None
 maali	день	None
@@ -2370,20 +2370,20 @@ maareeye	менеджер	Nan
 maariyatul	єресь	Nan
 maarmaan	істотне	Nan
 maarmaanka	необхідні	None
-maarmay	абсолютно не	Nan
-maarmayo	я не проти	Nan
+maarmay	не	None
+maarmayo	проти	None
 maaroodi	maroodi	Nan
 maars	кобили	Nan
 maansoole	поет	None
 maansoolayaashii	ченці	Nan
-maanso	не проти	Nan
-maanshaa	грати кнопка	Nan
+maanso	проти	None
+maanshaa	грати	None
 maamuli	керувати	None
 maamulidda	управління	None
 maamulka	управління	None
 maamulkaas	адміністрація	None
 maamulkii	адміністрація	None
-maamulkiisa	його адміністрація	Nan
+maamulkiisa	адміністрація	None
 maamulo	адмініструвати	Nan
 ma	або	None
 maamusho	адмініструвати	Nan
@@ -2392,11 +2392,11 @@ maandhaafkii	дилема	Nan
 maanka	розум	None
 maankii	розум	None
 maansada	манна	Nan
-maansadan	у цей день	Nan
+maansadan	день	None
 maansadii	зберегти	None
 maan	розум	None
 m	м	None
-luuqeeyso	не говори	Nan
+luuqeeyso	говори	None
 luuqadaha	мови	None
 loo	застосовано	Nan
 loodoortay	вибрано	Nan
@@ -2404,12 +2404,12 @@ looga	луга	Nan
 loogana	боротися	Nan
 loogu	для	None
 looka	журнал	None
-lookhiyaameeyey	грати кнопка	Nan
+lookhiyaameeyey	грати	None
 loola	кинуто виклик	Nan
 looma	ні	None
-loomagacaabaycismaan	вони не названі	Nan
-loona	все одно	Nan
-looqaybinkaraa	його можна розділити на	Nan
+loomagacaabaycismaan	названі	None
+loona	все	None
+looqaybinkaraa	на	None
 lootaxaabay	помічені	Nan
 looyaqaan	відомий	None
 looyaqaana	називається	None
@@ -2431,18 +2431,18 @@ lixda	шість	None
 lixdankii	шістдесят	Nan
 lixle	шістдесят	Nan
 lknse	але	None
-lo	використай це	Nan
+lo	це	None
 location	розташування	None
 lixaad	шостий	Nan
 liiska	список	None
-looyaqaano	відомий як	Nan
-looyaqaany	відомі їм	Nan
+looyaqaano	як	None
+looyaqaany	їм	None
 luqada	мова	None
 luqadaha	мови	None
 luqadda	мова	None
 luqado	мови	None
 luqadood	мови	None
-luqadooda	своєю мовою	Nan
+luqadooda	мовою	None
 luqeedaka	мова	None
 luqmaan	мова	None
 luud	лот	Nan
@@ -2454,19 +2454,19 @@ luuqada	мова	None
 luuqadaa	мова	None
 luqad	мова	None
 luntay	загублений	Nan
-lumin	бути загубленим	Nan
+lumin	бути	None
 lumay	загублений	Nan
-looyaqano	називав їх	Nan
+looyaqano	їх	None
 lord	владика	Nan
 lordi	вантажівка	Nan
 lower	нижній	None
 lowska	горіх	Nan
 lublin	люблін	Nan
 lubnaan	ліван	Nan
-looyaqaanonikobolis	відомий як кіборг	Nan
+looyaqaanonikobolis	як	None
 lug	нога	Nan
 lughaya	ніжки	Nan
-lugohooda	їхні ноги	Nan
+lugohooda	їхні	None
 lugood	ніжки	Nan
 lugta	нога	Nan
 lugtii	нога	Nan
@@ -2513,22 +2513,22 @@ wariye	репортер	Nan
 warqad	лист	None
 wasaare	міністр	None
 wasaarihii	міністр	None
-wasaarihiisa	його міністр	Nan
-waxaana	і ми	Nan
-waxaanan	і ми	Nan
-waxaanay	і вони	Nan
+wasaarihiisa	міністр	None
+waxaana	ми	None
+waxaanan	ми	None
+waxaanay	вони	None
 waxaanu	ми	None
 waxaanuu	він	None
-waxaas	та річ	Nan
-waxaasa	це є	Nan
-waxaase	це є	Nan
+waxaas	річ	None
+waxaasa	є	None
+waxaase	є	None
 waxaay	це	None
 waxad	ти	None
 waxaliilka	усиновлення	Nan
-waxan	ця річ	Nan
+waxan	річ	None
 waxana	і	None
 waxanaa	це	None
-waxannu	ми маємо	Nan
+waxannu	маємо	None
 waxaan	ми	None
 waxaad	ти	None
 waxaa	це	None
@@ -2545,7 +2545,7 @@ wasiirkii	міністр	None
 wata	інший	None
 watay	теперішній	None
 watch	дивитися	Nan
-wato	це є	Nan
+wato	є	None
 watto	рано	None
 waw	помахати	Nan
 wax	щось	None
@@ -2562,11 +2562,11 @@ wanaagii	добро	None
 wanaagsan	добре	None
 wanaagsana	добре	None
 wanaagsanaa	добре	None
-wanaagsanaantaas	це добро	Nan
+wanaagsanaantaas	добро	None
 wanaagsani	добре	None
 wanaagsantahay	добре	None
 wanaagyaalku	чесноти	Nan
-wanaagyadeena	на наше благо	Nan
+wanaagyadeena	благо	None
 wane	котрий	None
 walow	хоч	None
 wanwanaagsan	добре	None
@@ -2577,20 +2577,20 @@ walaalo	брати	None
 walaalow	брат	None
 walaaltinimo	братство	None
 walaashma	сестра	None
-walaiba	що завгодно	Nan
-walalkiis	його брат	Nan
+walaiba	що	None
+walalkiis	брат	None
 walanwal	валванування	Nan
 walba	кожен	None
-walbaa	кожного разу	Nan
-walbana	все одно	Nan
+walbaa	разу	None
+walbana	все	None
 walbo	все	None
 wali	ще	None
 waliba	також	None
-waligiinee	не звертай уваги	Nan
+waligiinee	уваги	None
 waljamaaca	тривожність	Nan
-waqiis	неповний робочий день	Nan
-waqooyi	на північ	Nan
-waqooyiga	на півночі	Nan
+waqiis	день	None
+waqooyi	північ	None
+waqooyiga	півночі	None
 waranka	твій спис	Nan
 wararka	новини	None
 waray	як	None
@@ -2600,7 +2600,7 @@ warbaahinta	змі	None
 warbixin	інформація	None
 warbixinta	звіт	Nan
 warbixintii	звіт	Nan
-warbixintiisa	його доповідь	Nan
+warbixintiisa	його	None
 warcelinta	відгуки	Nan
 wardheer	староста	Nan
 wardheere	стережись	Nan
@@ -2610,14 +2610,14 @@ waran	спис	Nan
 waramay	повідомили	Nan
 waraaqdii	лист	None
 waraaqda	лист	None
-waqoyi	прийти в голову	Nan
+waqoyi	голову	None
 waqti	час	None
 waqtiga	час	None
 waqtigaa	вчасно	Nan
-waqtigaas	у той час	Nan
-waqtigan	цього разу	Nan
+waqtigaas	час	None
+waqtigan	разу	None
 waqtigii	вчасно	Nan
-wareegan	в цьому циклі	Nan
+wareegan	цьому	None
 waqtigu	час	None
 waqtiyadii	разів	None
 waqtiyo	разів	None
@@ -2625,36 +2625,36 @@ war	новини	None
 waraabbintaadii	ваш полив	Nan
 waraabin	полив	Nan
 waraabinta	полив	Nan
-waraabiyee	поливайте його	Nan
+waraabiyee	його	None
 waqtiyada	інколи	None
 waxar	дитина	None
 waxay	вони	None
 waxayna	вони	None
 weriyey	репортер	Nan
 west	захід	None
-wexey	він сказав	Nan
+wexey	сказав	None
 wey	чудовий	Nan
-weyddiiyey	спитав його	Nan
+weyddiiyey	його	None
 weydiinta	питаючи	Nan
-weydiisanayaa	я запитую	Nan
+weydiisanayaa	я	None
 weydiiso	запитати	Nan
-weydiiyey	спитав його	Nan
+weydiiyey	його	None
 weyn	чудовий	Nan
 weyna	чудовий	Nan
 weynaa	чудовий	Nan
-weynaadeen	вони росли	Nan
-weynaado	будь чудовим	Nan
+weynaadeen	вони	None
+weynaado	будь	None
 weyne	чудовий	Nan
 werintii	новини	None
 weyneyd	чудовий	Nan
 werinta	звітність	Nan
 werin	мовлення	None
-wehel	разом з	Nan
+wehel	з	None
 weheliye	супутник	Nan
 wehliye	супутник	Nan
 wejiga	обличчя	None
-wejigeeda	її обличчя	Nan
-weli	поки що	Nan
+wejigeeda	обличчя	None
+weli	що	None
 weliba	також	None
 weligayo	навіки	Nan
 weligeed	коли-небудь	Nan
@@ -2675,18 +2675,18 @@ will	буде	None
 windows	вікна	None
 wireless	бездротовий	Nan
 with	з	None
-wixii	що завгодно	Nan
+wixii	що	None
 woo	ву	Nan
 woowga	ого	Nan
-woqooyi	на північ	Nan
+woqooyi	північ	None
 woqooyibari	північно-західний	Nan
-woqooyiga	на північ	Nan
-woqooyigalbeeda	на північному заході	Nan
+woqooyiga	північ	None
+woqooyigalbeeda	заході	None
 world	світ	None
 wikipedia	вікіпедія	None
 wiki	вікі	None
 wiilwaal	хлопчики	Nan
-wiilkuu	його син	Nan
+wiilkuu	син	None
 weyninka	велич	Nan
 weynta	велич	Nan
 when	коли	None
@@ -2696,22 +2696,22 @@ whose	чиї	None
 wiil	хлопчик	Nan
 wegenxile	wegenxile	Nan
 wiilal	сини	None
-wiilashooda	їхні сини	Nan
+wiilashooda	сини	None
 wiilka	хлопець	Nan
-wiilkan	цей хлопчик	Nan
+wiilkan	цей	None
 wiilkii	хлопець	Nan
 wiilkiina	хлопець	Nan
-wiilkiisa	його син	Nan
-wiilkiisii	його син	Nan
+wiilkiisa	син	None
+wiilkiisii	син	None
 wiilasha	хлопчики	Nan
 weeyn	чудовий	Nan
-weeye	це є	Nan
-weeyaane	є це	Nan
+weeye	є	None
+weeyaane	це	None
 waxsiin	забезпечити	None
 waxsoo	дещо	None
 waxsoosaarka	виробництво	None
 waxuu	він	None
-waxuuna	це робить	Nan
+waxuuna	робить	None
 waxyaabaha	речі	None
 waxyaabihii	речі	None
 waxyaabo	речі	None
@@ -2720,8 +2720,8 @@ waxyar	трішки	Nan
 waxyoonay	натхненно	Nan
 way	шлях	None
 wayaaye	забуття	Nan
-wayday	не можеш	Nan
-waydiin	не питайте	Nan
+wayday	не	None
+waydiin	не	None
 waxse	нічого	None
 waxow	речі	None
 waxoow	дещо	None
@@ -2729,32 +2729,32 @@ waxoona	щось	None
 waxaynu	ми	None
 waxba	нічого	None
 waxbarashada	освіта	None
-waxbarashadiisa	його освіта	Nan
-waxbarashadiisii	його освіта	Nan
+waxbarashadiisa	освіта	None
+waxbarashadiisii	освіта	None
 waxbarasho	освіта	None
 waxee	що	None
-waydiisato	ви запитаєте	Nan
-waxeena	наша річ	Nan
+waydiisato	ви	None
+waxeena	річ	None
 waxey	вони	None
-waxeyna	і вони	Nan
+waxeyna	вони	None
 waxgaradka	розуміння	None
-waxii	що завгодно	Nan
+waxii	що	None
 waxka	річ	None
 waxna	нічого	None
 waxoo	щось	None
 waxeey	вони	None
-walaalkiisna	його брат	Nan
+walaalkiisna	брат	None
 waydiiyay	запитав	Nan
 wayga	погляд	None
 weeba	павутина	Nan
 weecdaa	відвертається	Nan
 weel	контейнер	Nan
-weelashiina	а потім ти	Nan
+weelashiina	ти	None
 ween	ween	Nan
-weeninkeeda	її велич	Nan
+weeninkeeda	її	None
 weer	вираз	None
 weerar	напад	Nan
-weeraradaas	ці напади	Nan
+weeraradaas	ці	None
 weeraray	напали	Nan
 weerarka	напад	Nan
 weerarkii	напад	Nan
@@ -2767,10 +2767,10 @@ website	веб-сайт	Nan
 webiga	річка	None
 wayl	шлях	None
 wayn	чудовий	Nan
-wayna	вони будуть	Nan
+wayna	будуть	None
 waynaa	чудовий	Nan
 waynaha	велич	Nan
-waynayd	це було чудово	Nan
+waynayd	було	None
 waynayn	великий	None
 waydinkii	запитати	Nan
 wayne	чудовий	Nan
@@ -2782,9 +2782,9 @@ waziirkii	міністр	None
 web	павутина	Nan
 webi	річка	None
 waynwaxa	чудовий	Nan
-walaalkiis	його брат	Nan
+walaalkiis	брат	None
 walaalkii	брат	None
-walaalkay	мій брат	Nan
+walaalkay	брат	None
 uruguay	уругвай	Nan
 uruka	переваги	None
 urur	організації	None
@@ -2796,12 +2796,12 @@ us	нас	None
 usa	сша	None
 usaama	очевидно	None
 usaraysa	контингент	Nan
-usbuuca	за тиждень	Nan
+usbuuca	тиждень	None
 usbuuceed	щотижня	Nan
 usc	usc	Nan
 use	використання	None
 urdun	запах	Nan
-used	б / в	Nan
+used	в	None
 ur	ур	Nan
 unugyada	клітини	None
 ummukhalthum	ummukhalthum	Nan
@@ -2809,7 +2809,7 @@ umts	umts	Nan
 umukalthum	umukalthum	Nan
 un	ун	Nan
 una	уна	Nan
-unaxariistee	будь ласкавим до мене	Nan
+unaxariistee	мене	None
 unbaa	ласкаво просимо	Nan
 union	союз	None
 united	об’єднані	Nan
@@ -2837,9 +2837,9 @@ vergleich	верглех	Nan
 voice	голос	None
 vol	об	None
 w	ш	Nan
-wa	в наявності	Nan
+wa	наявності	None
 uxiiso	насолоджуватися	Nan
-uusan	він не	Nan
+uusan	не	None
 uuraysatay	задуманий	Nan
 uur	вагітність	Nan
 using	використовуючи	None
@@ -2857,15 +2857,15 @@ uuman	пар	None
 uumanka	вологість	None
 uun	просто	None
 uuna	любов	None
-uunkanna	ось цей	Nan
+uunkanna	цей	None
 uu	його	None
 ummu	діти	None
-ummaddan	ця нація	Nan
+ummaddan	нація	None
 ummadda	нація	None
-typically	як правило	Nan
+typically	правило	None
 u	у	None
 ubad	дитина	None
-ubadan	набагато більше	Nan
+ubadan	більше	None
 ubadka	немовля	Nan
 ubax	квіти	None
 ubaxu	цвісти	Nan
@@ -2876,7 +2876,7 @@ udgoon	аромат	Nan
 udgoonaa	пахне	Nan
 udgoonka	аромат	Nan
 udheer	додати	None
-udub	з метою	Nan
+udub	метою	None
 tvga	твга	Nan
 tv	телевізор	Nan
 tuxmo	виточки	Nan
@@ -2888,27 +2888,27 @@ tuulada	село	None
 tuuladii	село	None
 tuulo	село	None
 tuulooyin	села	None
-udubdhexaad	центральне для нього	Nan
+udubdhexaad	нього	None
 tuulooyinka	села	None
 tuur	кинути	Nan
-tuuray	акторський склад	Nan
+tuuray	склад	None
 tuurayaan	викидати	Nan
 tuurayn	кастинг	Nan
-tuure	акторський склад	Nan
-tuuro	акторський склад	Nan
+tuure	склад	None
+tuuro	склад	None
 tuuryare	травматичний	Nan
 tuuniisiya	вивчення	None
-waa	це є	Nan
+waa	є	None
 udug	аромат	Nan
 uga	то	None
-ujeedadoodu	їх призначення	Nan
+ujeedadoodu	призначення	None
 ujeeddadiisu	призначення	None
 ujeeddo	призначення	None
 ukala	каплиця	Nan
 ukrain	сечі	Nan
 ul	палиця	Nan
 ula	то	None
-ulajeedadaydu	моє призначення	Nan
+ulajeedadaydu	призначення	None
 ulasoo	олас	Nan
 uma	ні	None
 umada	нація	None
@@ -2916,7 +2916,7 @@ umadda	нація	None
 ummad	нація	None
 ummada	нація	None
 ummadaha	націй	None
-ujeedadiisa	його призначення	Nan
+ujeedadiisa	призначення	None
 ujeedada	призначення	None
 uguwayn	основні	None
 uguna	гуна	Nan
@@ -2926,16 +2926,16 @@ ugaarka	полювання	None
 ugaarta	полювати	Nan
 ugaas	начальник	None
 ugaaska	шеф	Nan
-ugama	це не	Nan
+ugama	не	None
 ufakaday	загублений	Nan
 ugana	горила	Nan
 ugandheeska	яєчник	Nan
-ugasoo	від цього	Nan
+ugasoo	цього	None
 ugu	насос	Nan
 ugudhaw	повертайся	Nan
 ugudheer	найдовший	Nan
 uguhoraysay	останній	None
-ugumaydhigin	я вам не казав	Nan
+ugumaydhigin	не	None
 ugandha	мати	None
 wow	ого	Nan
 waaba	світанок	Nan
@@ -2944,13 +2944,13 @@ wadaniga	патріотизм	Nan
 wadaniyeed	патріотичний	Nan
 wadaniyiin	патріотичний	Nan
 wadanka	країна	None
-wadankaa	в тій країні	Nan
-wadankaan	в цій країні	Nan
-wadankaas	в тій країні	Nan
-wadankaasi	що країна	Nan
-wadankan	в цій країні	Nan
-wadankani	ця країна	Nan
-wadankanlaakiin	але в цій країні	Nan
+wadankaa	країні	None
+wadankaan	країні	None
+wadankaas	країні	None
+wadankaasi	країна	None
+wadankan	країні	None
+wadankani	країна	None
+wadankanlaakiin	країні	None
 wadankii	країна	None
 wadanku	країна	None
 wadanmada	патріотизм	Nan
@@ -2965,9 +2965,9 @@ wadaagan	спільний	None
 wadaagsano	ділитись	Nan
 wadaagta	супутники	Nan
 wadaagtaa	поділитися	Nan
-wadaagtaane	цей партнер	Nan
+wadaagtaane	цей	None
 wadaan	привід	Nan
-wadada	на дорозі	Nan
+wadada	дорозі	None
 wadahadal	обговорення	None
 wadahadalo	переговори	None
 wadajir	разом	None
@@ -2977,36 +2977,36 @@ wadamada	країн	None
 wadamu	вадаму	Nan
 waday	продовжували	None
 wadda	котрий	None
-waddada	на дорозі	Nan
-wakhtigaas	в той час	Nan
-wakhtigaasi	в той час	Nan
-wakhtigan	цього разу	Nan
+waddada	дорозі	None
+wakhtigaas	час	None
+wakhtigaasi	час	None
+wakhtigan	разу	None
 wakhtigii	час	None
-wakhtigiisii	свого часу	Nan
+wakhtigiisii	часу	None
 wakiil	проксі	Nan
 wakiilada	агенти	Nan
 wakiilka	агент	Nan
 wal	wal	Nan
 walaal	брат	None
 walaalaha	брати	None
-walaalaheed	її брати	Nan
-walaalahooda	їхні брати	Nan
+walaalaheed	брати	None
+walaalahooda	брати	None
 walaaleeyaan	брат	None
-walaalkaa	ваш брат	Nan
-wakhtigaa	в той час	Nan
+walaalkaa	брат	None
+wakhtigaa	час	None
 wakhtiga	час	None
 wakhti	час	None
 wakaalada	агентство	None
 waddamada	країн	None
 waddan	країна	None
 waddanka	країна	None
-waddankiisa	його країна	Nan
+waddankiisa	країна	None
 waddo	дорога	None
 wade	вейд	Nan
 wadeen	світлодіодний	Nan
 wadaaga	обмін	None
 wadnaha	серце	None
-wadooyinka	на вулицях	Nan
+wadooyinka	вулицях	None
 wafdi	делегація	Nan
 wahab	прийти	Nan
 wajeer	з	None
@@ -3021,10 +3021,10 @@ waalba	або	None
 waalid	батьків	None
 waamid	запросити	Nan
 waamo	немає	None
-waan	я буду	Nan
-waana	і воно є	Nan
+waan	я	None
+waana	є	None
 waanada	заклик	None
-waannu	ми будемо	Nan
+waannu	ми	None
 waano	заклик	None
 waar	прийти	Nan
 waariyoo	еони	Nan
@@ -3032,29 +3032,29 @@ waarku	дурень	Nan
 waasidan	ширше	Nan
 waasoo	котрий	None
 waasuge	широкий	None
-waalaalow	будь ласка	Nan
+waalaalow	будь	None
 waakaas	тоді	None
-waakaa	це є	Nan
+waakaa	є	None
 waajibnimada	мито	Nan
 waabeeye	світанок	Nan
 waaberi	світанок	Nan
 waad	ти	None
 waadi	шукати	None
 waadigii	неправильно	Nan
-waadna	ти є	Nan
+waadna	є	None
 waafajiyaa	пристосовуватися	Nan
-waataan	цього разу	Nan
+waataan	разу	None
 waafaqsan	відповідно	None
 waaga	божевілля	Nan
-waagaas	в той час	Nan
+waagaas	час	None
 waagii	день	None
 waagu	світанок	Nan
 waajib	мито	Nan
-waajibaadkeeda	свої зобов’язання	Nan
+waajibaadkeeda	свої	None
 waajibka	мито	Nan
 waafi	достатньо	None
 waabarei	ранок	Nan
-waataas	того часу	Nan
+waataas	часу	None
 waaween	старший	None
 wabiga	річка	None
 wabiyaal	річки	None
@@ -3062,7 +3062,7 @@ wabiyada	річки	None
 wacad	обітниці	Nan
 wacan	добре	None
 wacays	дзвінок	Nan
-wacbuudhan	гарні новини	Nan
+wacbuudhan	новини	None
 wacdi	проповідувати	Nan
 wacdiga	проповідь	Nan
 wacdiyow	проповідник	Nan
@@ -3081,38 +3081,38 @@ waaweyneyd	чудовий	Nan
 waax	відділ	None
 waaxaa	є	None
 waaxda	відділ	None
-waayadaas	в ті часи	Nan
+waayadaas	часи	None
 waawayn	дорослі	Nan
-waayadii	в минулому	Nan
-waaye	вони є	Nan
+waayadii	минулому	None
+waaye	є	None
 waayeel	старшина	None
-waayeen	вони не могли	Nan
+waayeen	могли	None
 waayey	зникають	Nan
 waayihii	разів	None
 waayitaanka	зникнення	None
-waaylahayad	наші бабусі та дідусі	Nan
+waaylahayad	та	None
 waayay	загублений	Nan
-tutorial	навчальний посібник	Nan
+tutorial	посібник	None
 woxoo	що	None
 wsaare	мовник	Nan
 yaaley	було	None
-yaalla	в наявності	Nan
+yaalla	наявності	None
 yaallaa	доступний	Nan
 yaalley	розташований	None
-yaallo	в наявності	Nan
+yaallo	наявності	None
 yaalo	там	None
-yaan	у цей день	Nan
+yaan	день	None
 yaanyada	помідори	Nan
-yaaqshiid	ти знаєш	Nan
+yaaqshiid	ти	None
 yaasha	яса	Nan
 yaasiin	ясін	Nan
 yabaal	наприклад	None
 yabar	ласкаво просимо	Nan
 yabaroow	спасибі	Nan
 yabarow	ябаров	Nan
-yaaleen	вони зробили	Nan
+yaaleen	зробили	None
 yacqoob	повернути	None
-yaale	гарні новини	Nan
+yaale	новини	None
 yaalaan	доступні	None
 xusseen	відмічено	Nan
 xusuus	пам&#39;ять	Nan
@@ -3120,7 +3120,7 @@ y	у	None
 ya	це	None
 yaa	вооз	Nan
 yaab	сюрприз	Nan
-yaabaa	може бути	Nan
+yaabaa	бути	None
 yaabaha	дива	Nan
 yaabay	дивувався	Nan
 yaabeen	вражений	Nan
@@ -3128,22 +3128,22 @@ yaabo	ймовірно	None
 yaaceen	кинувся	Nan
 yaal	розташований	None
 yaala	розташований	None
-yaalaa	є там	Nan
+yaalaa	там	None
 yaalay	було	None
-yacquub	та якова	Nan
+yacquub	та	None
 yada	поширення	None
 yadii	яда	Nan
 yaraan	дефіцит	Nan
-yaraantiisii	його молодості	Nan
+yaraantiisii	його	None
 yaraatee	принаймні	None
 yarayd	малий	None
 yare	мова	None
-yarixunkaas	той шип	Nan
+yarixunkaas	той	None
 yaroo	yahoo	Nan
 yartahay	малий	None
 yaryahay	невеликий	None
 yaryar	малий	None
-yaryaryihiina	мої маленькі	Nan
+yaryaryihiina	мої	None
 yasid	зневажати	Nan
 yaso	шукати	None
 yaxye	джон	None
@@ -3178,13 +3178,13 @@ xuduuda	кордон	None
 xuduudaha	кордони	None
 xuduudka	кордон	None
 xuduudo	кордони	None
-xujeyda	мій аргумент	Nan
+xujeyda	мій	None
 xukumada	влади	None
 xukumay	судили	Nan
 xukumayay	судження	Nan
 xukumayey	судження	Nan
 xukumi	судити	None
-xukumina	не засуджуй мене	Nan
+xukumina	мене	None
 xukumo	судження	Nan
 xukun	судження	Nan
 xubnihii	члени	None
@@ -3200,8 +3200,8 @@ xornimada	незалежність	None
 xornimadda	незалежність	None
 xornimadii	незалежність	None
 xornimadiisa	незалежність	None
-xornimadooda	їх незалежність	Nan
-xornimadoodii	їх незалежність	Nan
+xornimadooda	незалежність	None
+xornimadoodii	незалежність	None
 xornimo	незалежність	None
 xoroobeen	звільняти	Nan
 xoroowday	безкоштовно	Nan
@@ -3212,7 +3212,7 @@ xukunto	судити	None
 xukuumad	уряду	None
 xuquuqda	прав	None
 xuquuqdii	прав	None
-xuquuqdooda	їхні права	Nan
+xuquuqdooda	права	None
 xuquuqul	прав	None
 xurnima	свобода	None
 xuruufta	букви	Nan
@@ -3221,7 +3221,7 @@ xusay	відмічено	Nan
 xusayna	згадує	None
 xusaysaa	вшановує пам’ять	Nan
 xuseen	відмічено	Nan
-xuseenow	запам&#39;ятай це	Nan
+xuseenow	це	None
 xusen	згаданий	Nan
 xusi	пам’ятати	Nan
 xusid	згадка	None
@@ -3232,11 +3232,11 @@ xumo	поганий	Nan
 xukuumada	уряду	None
 xukuumadda	уряду	None
 xukuumaddii	уряду	None
-xukuumaddiisii	його уряд	Nan
+xukuumaddiisii	уряд	None
 xukuumaddu	уряду	None
 xukuumadihii	уряди	None
 xukuumadii	уряду	None
-xuskooda	їх пам&#39;ять	Nan
+xuskooda	їх	None
 xulafaddii	союзників	None
 xulka	загін	None
 xulufo	союзників	None
@@ -3245,9 +3245,9 @@ xumaaday	вибачте	Nan
 xumaan	зло	None
 xumaanta	зло	None
 xumi	поганий	Nan
-xulafadiisii	його союзники	Nan
+xulafadiisii	його	None
 yeedho	дзвінок	Nan
-yeel	зроби це	Nan
+yeel	це	None
 yeelaha	виконавець	Nan
 العلامة	العلامة	Nan
 القرآن	القرآن	Nan
@@ -3330,7 +3330,7 @@ yidhaahdaa	каже	None
 yidhaahdaan	сказати	None
 yidhaahdo	сказати	None
 yidhi	сказав	None
-yihii	це є	Nan
+yihii	є	None
 yihiin	є	None
 yihin	це	None
 yiil	було	None
@@ -3348,10 +3348,10 @@ yeeshee	проте	None
 yeelan	мати	None
 yeelatay	зробив	None
 yeelato	мати	None
-yeelay	тому що	Nan
+yeelay	що	None
 yeeleen	зробив	None
-yeeli	зроби це	Nan
-yeelo	зроби це	Nan
+yeeli	це	None
+yeelo	це	None
 yiqiin	можливо	None
 yeera	давай	Nan
 yeeray	викликали	None
@@ -3362,14 +3362,14 @@ yeesha	мати	None
 yeeshaan	мати	None
 yeeshay	мати	None
 yeeraa	дзвінок	Nan
-xorayneed	звільнити її	Nan
+xorayneed	її	None
 yir	йір	Nan
 yiraah	сказав	None
 yusuf	юсуф	Nan
 yuu	юуу	Nan
 yuusf	йосип	None
 yuusuf	йосип	None
-zanzibar	ти будеш	Nan
+zanzibar	ти	None
 zaylac	зайлак	Nan
 zeilac	зелак	Nan
 zenawi	зенаві	Nan
@@ -3386,7 +3386,7 @@ yurubiyaanka	європейці	Nan
 yurubcismaaniyiintu	європейці	Nan
 yiraahdaa	каже	None
 yiraahdaan	сказати	None
-yiraahdeen	вони сказали	Nan
+yiraahdeen	вони	None
 yiraahdo	сказати	None
 yiraaho	сказати	None
 yiri	подібний	None
@@ -3401,15 +3401,15 @@ yuhuudu	євреї	None
 yunusba	голодування	Nan
 yurub	європа	None
 york	йорк	Nan
-xorayday	в пастці	Nan
+xorayday	в	None
 xor	безкоштовно	Nan
 xoosh	свербіж	Nan
 xamsa	хеш	Nan
 xamuud	вантаж	Nan
 xamuulka	вантаж	Nan
 xan	плітки	Nan
-xanaanada	дитячий садок	Nan
-xanaaneeyo	доглядай за ними	Nan
+xanaanada	дитячий	None
+xanaaneeyo	ними	None
 xanaaqay	розлючений	Nan
 xanafiga	шлунковий	Nan
 xanbaarsan	перенесення	None
@@ -3419,13 +3419,13 @@ xanuunsaday	постраждав	Nan
 xanuunsan	хворий	Nan
 xaq	правильно	None
 xaqa	правда	None
-xamarweyne	в хамарвейні	Nan
-xaqiijinteeda	щоб підтвердити це	Nan
+xamarweyne	в	None
+xaqiijinteeda	це	None
 xamarka	ясна	Nan
 xamare	голуб	Nan
 xajin	захват	Nan
-xajineyso	не відставати	Nan
-xajka	для паломників	Nan
+xajineyso	не	None
+xajka	для	None
 xajkii	паломника	Nan
 xakiim	мудрий	None
 xakumi	постанова	Nan
@@ -3435,7 +3435,7 @@ xalane	халяла	Nan
 xali	вирішити	None
 xaliimo	її	None
 xalin	вирішити	None
-xalliyaan	виріши це	Nan
+xalliyaan	це	None
 xamar	ксамар	Nan
 xamardaye	килими	Nan
 xamarjajab	досвід	None
@@ -3453,7 +3453,7 @@ xasiloonida	стабільність	None
 xassan	тихо	Nan
 xasuuq	різанина	Nan
 xasuuqa	геноцид	Nan
-xasuuqan	ця різанина	Nan
+xasuuqan	ця	None
 xasuuqay	різанина	Nan
 xasuuqday	розправлений	Nan
 xasuus	пам&#39;ять	Nan
@@ -3463,30 +3463,30 @@ xarrago	елегантний	Nan
 xariir	шовк	Nan
 xaqiiqo	факт	None
 xaradh	пост	None
-xaradheere	грати кнопка	Nan
+xaradheere	грати	None
 xaraf	лист	None
 xarafka	алфавіту	Nan
-xarafkiisa	його лист	Nan
+xarafkiisa	лист	None
 xarafle	лист	None
-xaji	не відставати	Nan
+xaji	не	None
 xarafluhuna	букви	Nan
 xarakada	діяльності	None
 xarakadu	діяльності	None
 xaramkii	пристрасть	Nan
 xarardheere	застібка	Nan
 xarfaha	букви	Nan
-xarfahan	ці листи	Nan
+xarfahan	листи	None
 xariiqay	намальовано	Nan
 xarafyada	букви	Nan
 xajarulaswadka	феєрверки	Nan
 xaggeeda	їй	None
 xaggee	де	None
-xaafadda	по сусідству	Nan
+xaafadda	по	None
 xaafadii	околиці	None
 xaafadood	передмістя	Nan
 xaafidiin	ваше сусідство	Nan
 xaafiiska	офіс	Nan
-xaaji	тримати це	Nan
+xaaji	це	None
 xaal	хвороба	None
 xaalada	ситуація	None
 xaaladaha	умови	None
@@ -3496,24 +3496,24 @@ xaaladihii	обставини	None
 xaaraam	нелегітимний	Nan
 xaarith	гаарит	Nan
 xaas	дружина	None
-xaafadaha	у мікрорайонах	Nan
-xaafada	по сусідству	Nan
+xaafadaha	у	None
+xaafada	по	None
 xaafad	околиці	None
 xaadirka	сьогодення	Nan
 wuqooyi	північ	None
 wuu	він	None
-wuuna	і він	Nan
-wuuxuna	він буде	Nan
-wuxaa	це є	Nan
+wuuna	він	None
+wuuxuna	буде	None
+wuxaa	є	None
 wuxu	він	None
-wuxuna	це погано	Nan
+wuxuna	погано	None
 xaashi	аркуш	Nan
 wuxuu	він	None
 wuxuuo	хео	Nan
 ww	ww	Nan
 wwii	wwii	Nan
 wxa	бічна панель	Nan
-wxaa	це є	Nan
+wxaa	є	None
 x	х	None
 xaad	волосся	None
 wuxuuna	він	None
@@ -3527,7 +3527,7 @@ xafiiska	офіс	Nan
 xafiisyada	офіси	Nan
 xafiisyadii	офіси	Nan
 xafiisyo	офіси	Nan
-xafladan	на цій церемонії	Nan
+xafladan	церемонії	None
 xag	кут	None
 xaga	назустріч	Nan
 xagaa	літо	None
@@ -3536,29 +3536,29 @@ xagaas	там	None
 xagga	з	None
 xaggaaga	тобі	None
 xadka	межа	None
-xadiiskan	цей хадис	Nan
+xadiiskan	цей	None
 xadiiska	хадис	Nan
 xadhig	мотузка	Nan
-xaasuubkiisa	його дружина	Nan
+xaasuubkiisa	дружина	None
 xaawo	піт	Nan
-xaayow	грати кнопка	Nan
+xaayow	грати	None
 xabaal	могила	None
 xabad	груди	Nan
 xabasha	клей	Nan
 xabashida	закопувати	Nan
-xaaskiisii	його дружина	Nan
-xabsi	у в&#39;язниці	Nan
+xaaskiisii	дружина	None
+xabsi	у	None
 xabsigii	тюрма	Nan
 xad	ліміт	Nan
 xadaarad	цивілізація	None
 xadaaradahii	цивілізації	None
-xaddaaradda	в саду	Nan
+xaddaaradda	саду	None
 xaddiiska	кількість	None
 xadgudbay	зловживали	Nan
-xabsiga	у в&#39;язниці	Nan
-woxoona	все одно	Nan
-xasuustaa	ти пам&#39;ятаєш	Nan
-xasuustiisana	запам&#39;ятайте його	Nan
+xabsiga	у	None
+woxoona	все	None
+xasuustaa	ти	None
+xasuustiisana	його	None
 xiran	зачинено	Nan
 xiray	закрити	Nan
 xiraye	з&#39;єднувач	Nan
@@ -3571,27 +3571,27 @@ xiriiraan	спілкуватися	Nan
 xiriiri	контактний	Nan
 xiriiriyaha	контакт	None
 xiriirka	відносини	None
-xiriirto	контактна інформація	Nan
+xiriirto	інформація	None
 xirnaa	зачинено	Nan
 xirneen	замовкни	Nan
 xir	закрити	Nan
 xirnimo	закриття	None
 xingalool	поколювання	Nan
-xilliyo	пори року	Nan
-xiligan	у цей час	Nan
+xilliyo	року	None
+xiligan	час	None
 xiligii	вчасно	Nan
-xiligiimuraadkii	у часи	Nan
-xiliyada	пори року	Nan
-xiliyadii	пори року	Nan
+xiligiimuraadkii	часи	None
+xiliyada	року	None
+xiliyadii	року	None
 xiliyo	разів	None
 xilka	відповідальність	None
-xilkaas	в такому положенні	Nan
-xilkeeda	в її положенні	Nan
+xilkaas	такому	None
+xilkeeda	її	None
 xilli	сезон	None
-xilligaa	в той час	Nan
-xilligaas	в той час	Nan
-xilligaasi	в той час	Nan
-xilligan	у цей час	Nan
+xilligaa	час	None
+xilligaas	час	None
+xilligaasi	час	None
+xilligan	час	None
 xilligii	сезон	None
 ximyar	дитина	None
 xirsi	її	None
@@ -3607,7 +3607,7 @@ xoogga	міцність	Nan
 xoojinta	консолідація	Nan
 xoola	стада	Nan
 xoolaha	худоба	Nan
-xoolaheeda	її тварини	Nan
+xoolaheeda	тварини	None
 xoolaley	пастухи	Nan
 xoolihii	тварини	None
 xoolo	худоба	Nan
@@ -3616,16 +3616,16 @@ xoog	міцність	Nan
 xogo	інформація	None
 xoghayaha	секретар	None
 xoghaya	секретар	None
-xirtaan	одягни це	Nan
+xirtaan	це	None
 xisaab	математика	None
 xisaabaadka	рахунки	Nan
 xisaabin	розрахувати	Nan
 xisaabta	математика	None
 xisaabtan	підзвітність	Nan
 xisbi	партія	None
-xiligaasoo	в той час	Nan
+xiligaasoo	час	None
 xisbiga	вечірка	Nan
-xisbigiisa	його партія	Nan
+xisbigiisa	партія	None
 xisbiyada	партій	None
 xisbiyo	партій	None
 xishoon	сором	Nan
@@ -3633,13 +3633,13 @@ xitaa	навіть	None
 xkhayre	вершник	Nan
 xog	інформація	None
 xisbigii	вечірка	Nan
-xiligaasi	в той час	Nan
-xiligaas	в той час	Nan
-xiligaa	в той час	Nan
+xiligaasi	час	None
+xiligaas	час	None
+xiligaa	час	None
 xeeran	навколо	None
 xeerar	правила	None
 xeerarka	правила	None
-xeerarkeeda	її правила	Nan
+xeerarkeeda	правила	None
 xeerka	правило	None
 xeraale	кемпер	Nan
 xerada	табір	None
@@ -3652,14 +3652,14 @@ xidhaayey	закриття	None
 xidhay	закрити	Nan
 xidhiidh	контактний	Nan
 xeer	правило	None
-xeelliga	в контексті	Nan
+xeelliga	контексті	None
 xeeldheeri	тактика	Nan
-xeeldheer	в такт	Nan
+xeeldheer	в	None
 xasuusto	пам’ятати	Nan
 xataa	навіть	None
 xawaadle	прискорювач	Nan
-xawaaladaha	грошові перекази	Nan
-xawaannada	на швидкості	Nan
+xawaaladaha	перекази	None
+xawaannada	швидкості	None
 xawda	швидкість	None
 xayaawaanaadka	тварин	None
 xidhiidha	пов&#39;язані	Nan
@@ -3684,7 +3684,7 @@ xijaaz	xijaaz	Nan
 xijrootay	нахмурився	Nan
 xikmad	мудрість	None
 xil	відповідальність	None
-xilagan	цього разу	Nan
+xilagan	разу	None
 xilal	обов&#39;язки	Nan
 xildhibaan	мп	None
 xilgii	час	None
@@ -3699,9 +3699,9 @@ xidhka	знос	Nan
 xidhkii	то	None
 xidhnaan	замовкни	Nan
 xidhnaantii	замовкни	Nan
-xidho	одягни це	Nan
+xidho	це	None
 xidid	корінь	None
-xidhiidhkaasi	що стосунки	Nan
+xidhiidhkaasi	стосунки	None
 xifdin	зберігати	None
 xigaa	наступний	None
 xigaan	наступний	None
@@ -3712,11 +3712,11 @@ xigeenkii	лейтенант	Nan
 xigmadda	мудрість	None
 xiga	наступний	None
 tuso	шоу	None
-tusaayo	мається на увазі	Nan
-tusaan	покажіть їх	Nan
+tusaayo	увазі	None
+tusaan	їх	None
 shacbigu	громадського	None
 shaciga	закон	None
-shadoor	на відкритому повітрі	Nan
+shadoor	повітрі	None
 shahaadada	ступінь	None
 shahaadataynku	сертифікація	Nan
 shahaado	ступінь	None
@@ -3730,7 +3730,7 @@ shanaadwaxaana	п&#39;ятий	Nan
 shanfarood	п&#39;ятий	Nan
 shanta	п’ять	Nan
 shacbigii	громадського	None
-shantaan	ці п’ять	Nan
+shantaan	ці	None
 shacbigana	люди	None
 shacbi	громадського	None
 shabac	шабаб	Nan
@@ -3743,10 +3743,10 @@ shabeellaha	тигр	None
 shabeelle	шабель	Nan
 shabele	шабела	Nan
 shabelle	шабель	Nan
-shacab	цивільне населення	Nan
+shacab	населення	None
 shacabka	люди	None
 shacabkii	громадського	None
-shacabkooda	їхні люди	Nan
+shacabkooda	люди	None
 shacabku	громадського	None
 shacbiga	громадського	None
 shantaasi	що	None
@@ -3756,7 +3756,7 @@ shaqeynaya	робочий	Nan
 shaqeynayay	робочий	Nan
 shaqeysata	робочий	Nan
 shaqo	робота	None
-shaqooyinka	робочі місця	Nan
+shaqooyinka	місця	None
 shaqsi	індивідуальний	Nan
 shaqsiyaad	особи	None
 shaqsiyaadka	особи	None
@@ -3773,9 +3773,9 @@ shaqeeyeen	працювали	None
 shaqeeyay	працювали	None
 shaqaalihii	робітники	None
 shaqaaq	порушення	None
-shaqada	на роботі	Nan
+shaqada	роботі	None
 shaqadii	робота	None
-shaqadiisa	його робота	Nan
+shaqadiisa	робота	None
 shaqal	голосний	Nan
 shaqalka	голосний	Nan
 shabaabka	інтернет	None
@@ -3806,9 +3806,9 @@ say	сказати	None
 sayid	майстер	None
 sayidka	бог	None
 sayidku	майстер	None
-saxaafadda	в пресі	Nan
+saxaafadda	пресі	None
 saylac	сказати	None
-saxaafada	в пресі	Nan
+saxaafada	пресі	None
 sax	правильно	None
 sarkaalkii	офіцер	Nan
 sarkozy	саркозі	Nan
@@ -3819,7 +3819,7 @@ saudi	сауді	Nan
 sawaaxiliga	суахілі	Nan
 sawir	фотографувати	Nan
 sawirada	картинки	Nan
-sawiran	на фото	Nan
+sawiran	фото	None
 sawiray	сфотографували	Nan
 sawiraya	малюнок	None
 sawirka	картина	None
@@ -3872,19 +3872,19 @@ shinema	блиск	Nan
 shingaani	бар&#39;єри	Nan
 shiniile	алігатор	Nan
 shir	конференція	None
-shirakadahani	ці компанії	Nan
+shirakadahani	компанії	None
 shirarkii	конференції	None
-shirdahan	для цих зустрічей	Nan
+shirdahan	цих	None
 shire	шейр	Nan
 shirkaa	конгрес	None
-shirkaas	на тій зустрічі	Nan
+shirkaas	зустрічі	None
 shirkad	компанія	None
 shirkada	компанія	None
 shirkadaha	компанії	None
-shirkadahaas	ці компанії	Nan
-shirkadahan	ці компанії	Nan
+shirkadahaas	компанії	None
+shirkadahan	компанії	None
 shineemo	кіно	None
-shirkadahani	ці компанії	Nan
+shirkadahani	компанії	None
 shimbiruhu	птахів	None
 shimbiraha	птахів	None
 shige	підходить	Nan
@@ -3899,7 +3899,7 @@ shiiraar	полотно	Nan
 shil	аварія	Nan
 shilaabo	ласкаво просимо	Nan
 shilin	шилінгів	Nan
-shilinka	ваші гроші	Nan
+shilinka	гроші	None
 shilling	шилінг	Nan
 shimbir	птах	Nan
 shimbiro	птахів	None
@@ -3912,25 +3912,25 @@ side	сторона	None
 sidee	як	None
 sideed	вісім	None
 sideedaad	восьмий	Nan
-sideedan	ці вісімки	Nan
+sideedan	ці	None
 sideedii	вісімки	Nan
 sideetameeyadii	вісімдесятих	Nan
 sidey	нести	Nan
-sidi	подібно до	Nan
+sidi	до	None
 sidii	як	None
-sidiisii	відповідно до його	Nan
+sidiisii	його	None
 sido	нести	Nan
 sidoo	також	None
 sidatan	як	None
 sidan	сюди	None
 sidae	як	None
 sidaasi	відповідно	None
-shirkan	ця зустріч	Nan
+shirkan	зустріч	None
 shirki	приписується	Nan
 shirkii	з&#39;їзд	Nan
 shiro	тиша	Nan
 shirqool	змова	Nan
-shirweynahan	на цій конференції	Nan
+shirweynahan	конференції	None
 shisheeye	іноземні	None
 shift	зрушення	Nan
 shuceyb	міс	Nan
@@ -3973,9 +3973,9 @@ sharif	шаріф	Nan
 shariif	шаріф	Nan
 sheegganaa	претензія	Nan
 shariifka	шерифу	Nan
-sharkiisa	його злість	Nan
-sharkiisaba	його злість	Nan
-sharmaarke	не бачить зла	Nan
+sharkiisa	його	None
+sharkiisaba	його	None
+sharmaarke	зла	None
 sharmaarkeعبد	коментар عبد	Nan
 sharmake	шарманка	Nan
 shatt	шатт	Nan
@@ -4000,17 +4000,17 @@ shibis	конференції	None
 shicibka	громадського	None
 shidaal	пальне	Nan
 sheekhii	казка	None
-sheekheena	наша історія	Nan
+sheekheena	історія	None
 sheekhaal	історія	None
 sheekha	оповідач	Nan
-sheegin	не кажучи вже про	Nan
+sheegin	про	None
 sheegnay	згаданий	Nan
 sheegnaya	згадує	None
 sheegnayba	ментація	Nan
 sheego	сказати	None
 sheegsheegta	претензія	Nan
 sheegta	претензія	Nan
-sheeggayga	моя вимога	Nan
+sheeggayga	моя	None
 sheegtaa	претензії	Nan
 sheegtada	претензія	Nan
 sheegtay	заявлений	Nan
@@ -4034,12 +4034,12 @@ saarey	опущено	Nan
 saari	видалити	Nan
 saarida	виключення	Nan
 saarka	продукт	None
-saarkeeda	на ньому	Nan
-saarkooda	їхні очі	Nan
+saarkeeda	ньому	None
+saarkooda	очі	None
 saarnaa	на	None
 saaro	вилучено	Nan
 saar	видалити	Nan
-saartaa	покласти його на	Nan
+saartaa	на	None
 saanmarino	шаман	Nan
 saan	це	None
 saabsan	о	None
@@ -4062,7 +4062,7 @@ saartay	гасити	Nan
 saas	так	None
 saaxiib	друг	None
 sabtida	субота	Nan
-sabtiga	в суботу	Nan
+sabtiga	в	None
 sac	корова	Nan
 sacad	хата	None
 sacaridalaxdageelka	молоть	Nan
@@ -4094,7 +4094,7 @@ sababeen	викликав	None
 sababta	чому	None
 sababtay	викликав	None
 sababto	причини	None
-sababtoo	тому що	Nan
+sababtoo	що	None
 sablaale	повзунок	Nan
 sababaha	причини	None
 s	с	None
@@ -4109,7 +4109,7 @@ rome	хром	Nan
 roob	дощ	Nan
 roobab	опадів	None
 roobka	дощ	Nan
-roobkana	і дощ	Nan
+roobkana	і	None
 roobku	дощ	Nan
 rooble	веселка	Nan
 roobleh	веселка	Nan
@@ -4127,8 +4127,8 @@ river	річка	None
 riyaale	мріяти	Nan
 riyada	мріяти	Nan
 roomaaniyiinta	румуни	Nan
-riyadaas	той сон	Nan
-riyadoodii	їх мрія	Nan
+riyadaas	сон	None
+riyadoodii	їх	None
 riyaha	кози	Nan
 riyo	мріяти	Nan
 roaming	роумінг	Nan
@@ -4140,7 +4140,7 @@ sadaxaad	третій	None
 roomaanka	римляни	None
 roon	добре	None
 rumeysan	вірити	Nan
-rumeysey	повір в це	Nan
+rumeysey	це	None
 run	правда	None
 runta	правда	None
 runtii	дійсно	None
@@ -4154,10 +4154,10 @@ ruush	російський	None
 ruushka	російський	None
 ruux	дух	None
 ruuxii	дух	None
-rumeyn	повір в це	Nan
-rumeeyo	повір в це	Nan
+rumeyn	це	None
+rumeeyo	це	None
 rumeeyay	вірив	Nan
-rumeeyana	повір мені	Nan
+rumeeyana	мені	None
 roone	роон	Nan
 rooraaye	роумінг	Nan
 rootiga	хліб	None
@@ -4168,20 +4168,20 @@ rukuucda	патенти	Nan
 roomaanku	румунська	Nan
 rumawdo	rumawdo	Nan
 rumaynta	вірячи	Nan
-rumayntooda	їх віра	Nan
+rumayntooda	віра	None
 rumayntu	вірячи	Nan
-rumaynu	ми віримо	Nan
+rumaynu	ми	None
 rumaysan	вірити	Nan
-rumaysanyahay	я вірю в тебе	Nan
-rumayso	повір в це	Nan
-rumaynayo	повір в це	Nan
+rumaysanyahay	тебе	None
+rumayso	це	None
+rumaynayo	це	None
 sidookele	також	None
 sadaxaadna	третій	None
 saddax	три	None
 sameeyo	робити	None
 sameyn	робити	None
 sameysa	робити	None
-sameyso	зроби це	Nan
+sameyso	це	None
 sameystay	зроблено	None
 samidiyo	відео	None
 samir	будьте терплячі	Nan
@@ -4196,7 +4196,7 @@ sanad	рік	None
 sameeyey	зробив	None
 sanadadii	років	None
 sameeyeen	зробив	None
-sameeyawaa	робить це	Nan
+sameeyawaa	це	None
 samaawiga	небо	None
 samada	небо	None
 samaron	терон	Nan
@@ -4213,7 +4213,7 @@ sameenta	зробити	None
 sameeya	робити	None
 sameeyaan	робити	None
 sameeyay	зробив	None
-sanadahan	в ці роки	Nan
+sanadahan	роки	None
 sanadihii	років	None
 sanadii	рік	None
 sannadkii	рік	None
@@ -4231,19 +4231,19 @@ sare	високий	None
 sareeya	високий	None
 sareeyo	високий	None
 sarena	високий	None
-sannadkaasna	того року	Nan
-sannadkaas	того року	Nan
+sannadkaasna	року	None
+sannadkaas	року	None
 sannadihii	років	None
-sannadahan	в ці роки	Nan
+sannadahan	роки	None
 sanadka	рік	None
-sanadkaa	того року	Nan
-sanadkaana	цього року	Nan
-sanadkaas	того року	Nan
-sanadkan	цього року	Nan
+sanadkaa	року	None
+sanadkaana	року	None
+sanadkaas	року	None
+sanadkan	року	None
 sanadki	щорічно	None
 sanadkii	рік	None
 samaale	сем	Nan
-sanadkiiba	на рік	Nan
+sanadkiiba	рік	None
 sanadku	рік	None
 sanado	років	None
 sanadood	років	None
@@ -4251,7 +4251,7 @@ sanca	санька	Nan
 sand	пісок	Nan
 sandkii	рік	None
 sanka	ніс	Nan
-sanadkooda	їх рік	Nan
+sanadkooda	рік	None
 salma	сальма	Nan
 salka	основа	None
 saliim	салім	Nan
@@ -4261,8 +4261,8 @@ safraya	подорожі	None
 safri	подорожі	None
 sagaal	дев’ять	Nan
 sagaalaad	дев&#39;ятий	Nan
-sagaaliyotobnaad	дев&#39;ятнадцяте століття	Nan
-sagaalkooda	їх дев&#39;ять	Nan
+sagaaliyotobnaad	століття	None
+sagaalkooda	їх	None
 sahal	легко	None
 sahashay	привидами	Nan
 sahlan	легко	None
@@ -4278,7 +4278,7 @@ saddaxda	три	None
 saddex	три	None
 saddexaad	третій	None
 saddexda	три	None
-saddexdooduba	всі троє	Nan
+saddexdooduba	всі	None
 sadex	три	None
 sadexaad	третій	None
 sakiin	лезо бритви	Nan
@@ -4289,7 +4289,7 @@ safaaradaha	посольства	None
 safar	поїздка	Nan
 safarka	подорож	None
 safarkii	подорож	None
-safarkiisii	його подорож	Nan
+safarkiisii	подорож	None
 sadexdii	три	None
 sadaxda	три	None
 sako	повідомлення	None
@@ -4298,11 +4298,11 @@ salbalaadhan	це	None
 saldanad	років	None
 saldanada	наші	None
 saldanadda	стовпчики	Nan
-saldanadii	наш батько	Nan
+saldanadii	батько	None
 saldanado	років	None
 saldhig	база	None
 saldhiga	база	None
-saldhigga	в основі	Nan
+saldhigga	основі	None
 saldhigyo	бази	None
 saleebaan	кондиц	Nan
 saleemaan	нехай	None
@@ -4320,11 +4320,11 @@ salaadeed	молитва	Nan
 salaadood	молитви	None
 salaam	здравствуйте	Nan
 salaama	здравствуйте	Nan
-saksonku	відправляю вас	Nan
+saksonku	вас	None
 salaan	здравствуйте	Nan
 salaanee	здравствуйте	Nan
 salaanka	драбинка	Nan
-salaannee	вітаю вас	Nan
+salaannee	вас	None
 salaaxudiin	салют	Nan
 salad	салат	Nan
 salafiyiinta	салафісти	Nan
@@ -4334,10 +4334,10 @@ siduu	відповідно	None
 sierra	сьєрра	Nan
 sifaadkiisa	атрибути	Nan
 tansaaniya	танзанія	Nan
-taqaan	ти знаєш	Nan
-taqaano	ти знаєш	Nan
+taqaan	ти	None
+taqaano	ти	None
 taqasusay	спеціалізація	Nan
-taqasustay	спеціалізується на	Nan
+taqasustay	на	None
 tara	дев’ять	Nan
 taraawiil	причіп	Nan
 tarayn	дурниці	Nan
@@ -4374,12 +4374,12 @@ tashik	від&#39;їзд	Nan
 teelteel	періодично	None
 tegay	пішли	None
 tegey	пішли	None
-tegeysaan	ви збираєтеся	Nan
+tegeysaan	ви	None
 tegi	йди геть	Nan
 tegin	йди геть	Nan
 telcom	telcom	Nan
-teleefonada	по телефону	Nan
-telefoion	телефонний апарат	Nan
+teleefonada	по	None
+telefoion	апарат	None
 telefoon	телефон	Nan
 telefoonada	телефони	Nan
 terre	терре	Nan
@@ -4394,7 +4394,7 @@ tashteen	обридлий	Nan
 tasi	тасі	Nan
 tawraad	ненароком	Nan
 tawreet	спасибі	Nan
-taxaabaan	вони потрапляють у пастку	Nan
+taxaabaan	у	None
 taxane	серія	None
 taxnaa	серія	None
 taliyaani	командир	None
@@ -4409,11 +4409,11 @@ tebiyey	повідомили	Nan
 tayada	якість	None
 taliskii	правило	None
 taliska	командування	None
-talisa	його слова	Nan
-taasaa	це воно	Nan
+talisa	слова	None
+taasaa	воно	None
 taasi	що	None
 taasina	що	None
-taasna	для того	Nan
+taasna	того	None
 taasoo	котрий	None
 taaxane	багатий	None
 taba	тютюн	Nan
@@ -4434,7 +4434,7 @@ taangiyada	танки	Nan
 taar	дата	None
 taariikh	історія	None
 taariikhda	історія	None
-taariikhdadhaqanka	історія потопу	Nan
+taariikhdadhaqanka	історія	None
 taariikhdii	історія	None
 tafiirmaan	йди геть	Nan
 taariikhdu	історія	None
@@ -4449,9 +4449,9 @@ taariikheed	історичні	None
 th	го	None
 tafsiirka	тлумачення	None
 tagaa	йти	None
-talaabadan	цей крок	Nan
+talaabadan	крок	None
 talaabo	крок	None
-talaadada	у вівторок	Nan
+talaadada	у	None
 talaado	вівторок	Nan
 talada	порада	Nan
 taladana	порада	Nan
@@ -4466,7 +4466,7 @@ talin	адвокат	Nan
 talis	командування	None
 talaabada	крок	None
 tala	порада	Nan
-tajwiidka	в торі	Nan
+tajwiidka	в	None
 tahliil	діалект	None
 tagaan	йти	None
 tagay	пішли	None
@@ -4474,16 +4474,16 @@ tagaya	відходить	None
 tage	йти	None
 tageen	пішли	None
 tagey	пішли	None
-tagin	не йди	Nan
+tagin	не	None
 taga	вікно	Nan
-tagisteeduna	її від&#39;їзд	Nan
+tagisteeduna	її	None
 tagsiile	таксі	None
 tagtada	минуле	None
 tagteen	пішли	None
 tagto	йти	None
-tahay	ти є	Nan
+tahay	є	None
 tahaye	гнітюче	Nan
-tahayna	ти є	Nan
+tahayna	є	None
 tago	йти	None
 taamyeeloo	підходить	Nan
 that	що	None
@@ -4494,7 +4494,7 @@ tooda	тост	Nan
 toogasho	стрілянина	Nan
 toona	так	None
 tooreyda	холодець	Nan
-toori	чесно кажучи	Nan
+toori	кажучи	None
 toos	прямий	None
 toosa	прокидайся	Nan
 toosan	прямий	None
@@ -4505,7 +4505,7 @@ top	верх	Nan
 toqoshi	кидати	Nan
 tol	тол	Nan
 towfiiq	towfiiq	Nan
-togwajaale	до речі	Nan
+togwajaale	речі	None
 togga	річка	None
 tobankii	десять	None
 tobnaad	десятий	Nan
@@ -4521,7 +4521,7 @@ todobada	сім	None
 todobo	сім	None
 togagga	потоки	None
 togdheer	перемикач	Nan
-togdheersanaag	бути чесним	Nan
+togdheersanaag	бути	None
 togo	йти	None
 town	місто	None
 towxiidka	медитація	Nan
@@ -4533,7 +4533,7 @@ turkey	індичка	Nan
 turki	індичка	Nan
 turkida	індичка	Nan
 turkiga	індичка	Nan
-turkigamaadaama	бо індичка	Nan
+turkigamaadaama	бо	None
 turkigawaxa	індичка	Nan
 turkigu	індичка	Nan
 turkish	турецька	Nan
@@ -4545,7 +4545,7 @@ tunisya	тунеся	Nan
 tunisiya	нагадати	Nan
 tunisia	туніс	Nan
 tunis	мелодія	Nan
-transmission	спосіб передавання	Nan
+transmission	спосіб	None
 transnistria	придністров&#39;я	Nan
 tu	ту	None
 tubane	тубан	Nan
@@ -4565,11 +4565,11 @@ tukanaya	молитися	Nan
 toban	десять	None
 to	до	None
 tixraacyada	посилання	None
-tiirsada	спирайтеся на нього	Nan
+tiirsada	нього	None
 tiirsan	залежний	Nan
 tiirsanaa	залежний	Nan
 tiirsantahay	залежний	Nan
-tiirsanyahay	залежать від вас	Nan
+tiirsanyahay	вас	None
 tijaaradii	експеримент	Nan
 tijaareeyo	стогін	Nan
 tijaaro	тремтіти	Nan
@@ -4579,9 +4579,9 @@ tilmaamaa	ототожнює	Nan
 tilmaamaan	вказати	Nan
 tilmaaman	вказано	Nan
 tilmaamay	зазначив	Nan
-tilmaamayo	вказуючи на те	Nan
+tilmaamayo	те	None
 tiirka	стовп	Nan
-tiirarkaasina	ці стовпи	Nan
+tiirarkaasina	ці	None
 tiirarka	стовпи	Nan
 tiirar	стовпчики	Nan
 there	там	None
@@ -4589,18 +4589,18 @@ these	ці	None
 they	вони	None
 this	це	None
 through	наскрізь	Nan
-throughout	на всьому протязі	Nan
+throughout	всьому	None
 ti	з	None
 tilmaameen	зазначив	Nan
 tidhaah	каже	None
 tignolajiyada	технології	None
 tigreega	квиток	Nan
-tihiin	ти є	Nan
+tihiin	є	None
 tii	чай	Nan
 tiil	плитка	Nan
 tiille	tiille	Nan
 tiir	стовпчик	Nan
-tidhi	вона сказала	Nan
+tidhi	вона	None
 the	то	None
 tilmaami	вказати	Nan
 tilmaanayba	вказати	Nan
@@ -4609,15 +4609,15 @@ tiriyo	рахувати	Nan
 tiro	число	None
 tirokoob	статистика	None
 tirsan	член	None
-tirsana	порахуйте їх	Nan
+tirsana	їх	None
 tirsanaa	був	None
 tirsanaan	рахувати	Nan
 tix	пор.	Nan
 tixda	список	None
 tixdan	розглядаються	None
 tixdii	розглянути	Nan
-tixdiisa	його розгляд	Nan
-tixihiisa	його списки	Nan
+tixdiisa	розгляд	None
+tixihiisa	списки	None
 tixraac	довідник	None
 tiriyay	підраховано	Nan
 tirin	рахувати	Nan
@@ -4647,20 +4647,20 @@ socotada	мандрівник	Nan
 socotay	продовжували	None
 socoto	триває	None
 soddon	тридцять	Nan
-software	програмне забезпечення	Nan
-softwareku	програмне забезпечення	Nan
+software	забезпечення	None
+softwareku	забезпечення	None
 sogüt	sogüt	Nan
 soka	пронизувати	Nan
 sokeeyay	охороняється	Nan
 sokeeye	цивільний	Nan
-sokow	до того ж	Nan
+sokow	ж	None
 soltelco	soltelco	Nan
 somaaliland	сомаліленд	Nan
 somaaliya	сомалі	Nan
 somaaliyeed	сомалі	Nan
 socota	наступні	None
 somailand	сомаліленд	Nan
-socono	ми йдемо	Nan
+socono	ми	None
 socon	ходьба	Nan
 socda	наступні	None
 socdaa	триває	None
@@ -4680,39 +4680,39 @@ socodka	ходьба	Nan
 soconno	ходьба	Nan
 somali	сомалі	Nan
 somalia	сомалі	Nan
-somalialand	в сомаліяленді	Nan
+somalialand	в	None
 soogelitaankii	прибуття	Nan
 soojeedinta	презентація	Nan
 sool	соол	Nan
 soomaaiya	швидко	None
 soomaal	сомалі	Nan
 soomaali	англійська	None
-soomaalia	в сомалі	Nan
+soomaalia	в	None
 soomaalida	сомалійці	Nan
 soomaalidii	то	None
-soomaalidu	сомалійські люди	Nan
+soomaalidu	люди	None
 soomaaliga	англійською	None
-soomaaligalbeed	у майбутньому	Nan
-soomaaliland	в сомаліленді	Nan
+soomaaligalbeed	майбутньому	None
+soomaaliland	в	None
 soomaaliya	сомалі	Nan
-soomaaliyakiinya	ти не є	Nan
+soomaaliyakiinya	є	None
 soogalistii	soogalistii	Nan
-soodhaafanay	ми вітаємо	Nan
+soodhaafanay	ми	None
 soo	прийти	Nan
 sonkorta	цукор	Nan
-somalida	сомалійські люди	Nan
+somalida	люди	None
 somalidu	сомалі	Nan
 somaliga	англійською	None
 somalilada	в	None
 somalilanad	англійською	None
-somaliland	в сомаліленді	Nan
-somalilandintaas	це є	Nan
+somaliland	в	None
+somalilandintaas	є	None
 so	любов	None
-somalilandna	в сомаліленді	Nan
+somalilandna	в	None
 somaliwayn	сомалі	Nan
 somaliya	сомалі	Nan
 somaliyeed	сомалі	Nan
-somaray	грати кнопка	Nan
+somaray	грати	None
 some	дещо	None
 somlialnd	somlialnd	Nan
 somtel	сомтел	Nan
@@ -4720,8 +4720,8 @@ somalinimada	сомалізм	Nan
 snmta	snmta	Nan
 snmlooma	snmlooma	Nan
 snm	снм	Nan
-siiyaymagaca	дав ім’я	Nan
-siiyeen	дав їх	Nan
+siiyaymagaca	дав	None
+siiyeen	їх	None
 siiyey	дано	Nan
 siiyo	давати	None
 silanyo	силони	Nan
@@ -4756,7 +4756,7 @@ siinjiray	дано	Nan
 siirada	дюйми	Nan
 siisa	кидати	Nan
 siidaayey	відкинути	Nan
-soomaaliyana	в сомалі	Nan
+soomaaliyana	в	None
 sirasmi	сирсмі	Nan
 sirdoonyaasha	інтелект	Nan
 siyaasi	політик	Nan
@@ -4764,7 +4764,7 @@ siyaasiga	політика	None
 siyaasiinta	політиків	Nan
 siyaasiyiin	політиків	Nan
 siyaasiyiinta	політиків	Nan
-siyaasiyiintan	ці політики	Nan
+siyaasiyiintan	політики	None
 siyaasiyiinytii	політики	None
 siyad	сіад	Nan
 siyasadeed	політичні	None
@@ -4783,11 +4783,11 @@ sirta	секрети	Nan
 sisiiliya	війки	Nan
 sisinta	кунжут	Nan
 sitay	сидіти	Nan
-siticmaalaa	використай це	Nan
+siticmaalaa	це	None
 sitoosa	щотижня	Nan
 sirdoonka	інтелект	Nan
-siwaaqroon	таким чином	Nan
-sixadeeda	у шістдесяті роки	Nan
+siwaaqroon	чином	None
+sixadeeda	роки	None
 siyaa	інж	Nan
 siyaad	сіад	Nan
 siyaadna	більше	None
@@ -4797,7 +4797,7 @@ siyaasada	політика	None
 siweyn	широко	None
 taalo	стоячи	Nan
 soomaaliyeed	англійською	None
-soomaaliyeey	я цього не зробив	Nan
+soomaaliyeey	зробив	None
 suuq	ринок	None
 suuqa	ринок	None
 suuqyada	ринки	None
@@ -4815,16 +4815,16 @@ suwees	позов	Nan
 swasiland	швейцарія	None
 suugaanyahankii	література	None
 sweden	швеція	None
-suugaanyahan	ця література	Nan
-suugaantiisa	його література	Nan
+suugaanyahan	література	None
+suugaantiisa	література	None
 supports	опори	Nan
 suqa	мінти	Nan
-surinam	мій тесть	Nan
+surinam	мій	None
 sus	сус	Nan
 suu	су	Nan
 suuban	звук	None
-suubanaa	це було правильно	Nan
-suubban	до побачення	Nan
+suubanaa	правильно	None
+suubban	до	None
 suubiye	допустимий	Nan
 suudaan	сура	Nan
 suudaanitoobiya	суперзірка	Nan
@@ -4846,9 +4846,9 @@ taajir	багатий	None
 taajirsan	багатий	None
 taaka	допомогу	None
 taako	розторопша	Nan
-taal	в наявності	Nan
-taala	в наявності	Nan
-taalaa	ти є	Nan
+taal	наявності	None
+taala	наявності	None
+taalaa	є	None
 taalada	статуя	None
 taale	сьогодні	None
 taageerayaal	прихильників	None
@@ -4918,7 +4918,7 @@ sugnaakii	чекати	Nan
 sugulle	офіціант	Nan
 suhra	сухра	Nan
 suldaan	султан	None
-suldaanka	ваш син	Nan
+suldaanka	син	None
 suldaankii	султан	None
 suliman	суліман	Nan
 sultan	султан	None
@@ -4940,7 +4940,7 @@ subag	вершкове масло	Nan
 subax	ранок	Nan
 subayr	жир	Nan
 subscriber	абонент	Nan
-style=fontsize	стиль = розмір шрифту	Nan
+style=fontsize	розмір	None
 subsystem	підсистема	None
 such	таких	None
 sucuudiga	саудівська	Nan
@@ -4955,12 +4955,12 @@ joogaba	видно	None
 joogaan	залишитися	Nan
 cilmi	науковий	None
 cilmiga	наук	None
-cilmina	мої знання	Nan
+cilmina	знання	None
 cilmiyada	наук	None
 cilmiyeedka	науковий	None
 cilmu	cilmu	Nan
 cimilada	погода	None
-cimiladeeda	її клімат	Nan
+cimiladeeda	клімат	None
 cimillada	поколінь	None
 cimilo	погода	None
 cimraan	віки	None
@@ -4969,12 +4969,12 @@ ciqaab	покарання	None
 cir	цир	Nan
 ciraaq	ірак	Nan
 cilmaaniya	інформувати	Nan
-ciraaqka	в іраку	Nan
+ciraaqka	в	None
 ciisuhu	вдихнути	Nan
 ciisaha	ісус	None
-ciidamadee	ваші війська	Nan
+ciidamadee	війська	None
 ciidamadii	війська	None
-ciidamadiisa	його армія	Nan
+ciidamadiisa	армія	None
 ciidamadu	війська	None
 ciidamdii	війська	None
 ciidamo	війська	None
@@ -4982,7 +4982,7 @@ ciidan	армії	None
 ciidangale	армії	None
 ciidanka	армії	None
 ciidankii	армія	None
-ciidankiisii	його армія	Nan
+ciidankiisii	армія	None
 ciidanku	армія	None
 ciidda	ґрунт	None
 ciil	роздратування	Nan
@@ -5027,7 +5027,7 @@ ciyaaraa	п&#39;єси	Nan
 ciyaaraha	ігри	None
 ciyaaray	грав	None
 cismaniyada	секуляризм	Nan
-codsigaas	за цим проханням	Nan
+codsigaas	цим	None
 ciida	ід	Nan
 cigalxasan	продовжували	None
 ceelal	ну	Nan
@@ -5062,14 +5062,14 @@ caydiid	образа	Nan
 cayiman	вказано	Nan
 cayimey	вказано	Nan
 cayn	добрий	None
-caynaba	будь-якого виду	Nan
+caynaba	виду	None
 caynabo	завіса	Nan
 ceeb	сором	Nan
 celiya	стримувати	Nan
 celiyay	стримується	Nan
 celiyo	повторити	Nan
 cida	вооз	Nan
-cidamada	у пустелі	Nan
+cidamada	пустелі	None
 cidda	вооз	Nan
 ciddii	вооз	Nan
 cidhifyada	краї	None
@@ -5118,7 +5118,7 @@ daalo	виснажений	Nan
 daalye	виснажений	Nan
 daaqad	вікно	Nan
 daaqadaha	вікна	None
-daaqadkasta	у будь-якому вікні	Nan
+daaqadkasta	у	None
 daaqiliga	пасовища	Nan
 daar	черга	Nan
 daaraha	будівель	None
@@ -5137,7 +5137,7 @@ daacad	чесний	Nan
 daacadda	чесність	Nan
 daaci	гіркота	Nan
 daad	повінь	Nan
-daadagine	не скидайте	Nan
+daadagine	не	None
 daadagno	затопило	Nan
 daadhey	затопило	Nan
 daafaha	поперек	Nan
@@ -5147,19 +5147,19 @@ daaroodafka	вікно	Nan
 daaroode	будинок	None
 dabadeed	після	None
 dabadeede	пізніше	None
-dabadeedna	і потім	Nan
-dabadiisii	його хвіст	Nan
-dabadood	після них	Nan
+dabadeedna	потім	None
+dabadiisii	його	None
+dabadood	них	None
 dabaq	підлогу	Nan
 dabaqa	підлога	Nan
 dabaqadda	клас	None
 dabarre	викорінення	Nan
 dabayaaqadii	пізно	None
-dabayloobey	дме вітер	Nan
+dabayloobey	вітер	None
 dabcigiyo	звичайно	None
 dabeecad	поведінка	None
 dabeecada	природи	None
-dabeecaddiisa	його природа	Nan
+dabeecaddiisa	природа	None
 dabada	хвіст	Nan
 dabaasho	плавання	None
 dabaal	святкувати	Nan
@@ -5175,7 +5175,7 @@ cyimi	cyimi	Nan
 daawanayay	спостерігаючи	Nan
 daawo	вилікувати	Nan
 daayay	звільнений	Nan
-daaye	до побачення	Nan
+daaye	до	None
 daayey	безкоштовно	Nan
 daayin	то	None
 daayo	звільнення	None
@@ -5205,7 +5205,7 @@ cosoble	cosoble	Nan
 core	серцевина	Nan
 colba	колба	Nan
 colenel	колленевий	Nan
-colkayagii	наш ворог	Nan
+colkayagii	наш	None
 college	коледж	None
 colombia	колумбія	Nan
 colow	кожух	Nan
@@ -5221,7 +5221,7 @@ conoco	коноко	Nan
 coofey	кухар	Nan
 computer	комп’ютер	Nan
 casumay	запрошені	Nan
-culays	сила тяжіння	Nan
+culays	сила	None
 culimadii	науковці	None
 cunteeyo	їжа	Nan
 cunto	їжа	Nan
@@ -5230,7 +5230,7 @@ curatay	первістка	Nan
 curious	цікавий	Nan
 curiya	кульгавий	Nan
 cuseyr	новіший	Nan
-cusmaan	грати кнопка	Nan
+cusmaan	грати	None
 cusmaaniyiinta	бездомні	Nan
 cusmaankii	нові	None
 cusman	кусман	Nan
@@ -5240,14 +5240,14 @@ cusub	нові	None
 cusubi	нові	None
 cuntada	їжа	Nan
 cuno	їсти	Nan
-cunin	не їв	Nan
+cunin	не	None
 cunid	їсти	Nan
 culimadu	науковці	None
 culimo	науковці	None
 culumaaudiinka	релігієзнавці	Nan
 culumada	науковці	None
 culus	важкий	None
-culusoow	бути важким	Nan
+culusoow	бути	None
 culuumta	наука	None
 culimada	науковці	None
 culuunta	науковці	None
@@ -5259,21 +5259,21 @@ cune	їсти	Nan
 cuneen	їли	Nan
 cuni	їдять	Nan
 cumaan	оман	Nan
-casriyeesanwaxeena	в нашій сучасній	Nan
+casriyeesanwaxeena	сучасній	None
 casriyeesan	актуальний	Nan
 casriyadii	сучасний	None
 caasimada	капітал	None
 caasimadaha	столиці	None
 caasimadda	капітал	None
-caasimadiisa	його капітал	Nan
+caasimadiisa	капітал	None
 caato	худий	Nan
-caawa	сьогодні ввечері	Nan
+caawa	сьогодні	None
 caawin	допомогу	None
 caawinaayaan	асистенції	Nan
 caawisayba	допомогли	Nan
 caawiyey	допомогли	Nan
 caawiyo	допомогу	None
-cabaar	на хвилинку	Nan
+cabaar	на	None
 cabaas	кабаре	Nan
 cabbaas	кабелі	Nan
 cabbay	пив	Nan
@@ -5282,8 +5282,8 @@ cabbeen	пив	Nan
 caashaqa	любов	None
 caasha	любов	None
 caalin	адвокат	Nan
-caalmaka	людські істоти	Nan
-caalmka	в світі	Nan
+caalmaka	істоти	None
+caalmka	світі	None
 caamul	кулачок	Nan
 caan	відомий	None
 caana	молоко	Nan
@@ -5306,7 +5306,7 @@ cabdulle	абдулле	Nan
 cabdulmalik	кабалмалік	Nan
 cabdulmuncim	кабдульмунцім	Nan
 cabdulqaadir	карликовість	Nan
-cabdulraxmaan	мої друзі	Nan
+cabdulraxmaan	мої	None
 cabduqaadir	затори	Nan
 cabduraxmaan	співати	Nan
 cabid	пити	Nan
@@ -5333,8 +5333,8 @@ cabdirashiid	міра	None
 cabdiraxmaan	пояснити	None
 cabdiraxman	кабдіраман	Nan
 cabdirisaaq	міра	None
-cabdisalaan	вони бояться	Nan
-cabdixaaji	будь то	Nan
+cabdisalaan	вони	None
+cabdixaaji	то	None
 cabdiqaasim	кабхікаасим	Nan
 caalimkii	вчений	None
 caalim	вчений	None
@@ -5355,9 +5355,9 @@ buundo	міст	None
 buuq	галасливий	Nan
 buur	гора	None
 busra	борошно	Nan
-buskoon	на бусоні	Nan
+buskoon	на	None
 businessman	бізнесмен	Nan
-bushaaranaynaa	ми благословляємо	Nan
+bushaaranaynaa	ми	None
 burburiyay	знищено	None
 burburiyeen	знищено	None
 burburiyey	знищено	None
@@ -5374,7 +5374,7 @@ burtinle	лопуха	Nan
 burton	бертон	Nan
 burundi	бурунді	Nan
 bush	кущ	Nan
-burkina	мої бургери	Nan
+burkina	мої	None
 cabsi	страх	None
 buurdhuubo	ясна	Nan
 buuro	гори	None
@@ -5385,18 +5385,18 @@ caado	звичка	Nan
 caafimaad	здоров&#39;я	Nan
 caafimaadka	здоров&#39;я	Nan
 caag	пластикові	Nan
-caaggan	цей контейнер	Nan
+caaggan	цей	None
 caaid	допомогу	None
 caajis	нудно	Nan
-caalami	на міжнародному рівні	Nan
-caalamiga	на міжнародному рівні	Nan
-caalamiya	на міжнародному рівні	Nan
+caalami	рівні	None
+caalamiga	рівні	None
+caalamiya	рівні	None
 caalamka	всесвіт	None
-caalamkka	на міжнародному рівні	Nan
+caalamkka	рівні	None
 caad	звичай	None
 caabudwaaq	поклонітися	Nan
 caabudo	поклонітися	Nan
-caabudistiisa	його поклоніння	Nan
+caabudistiisa	поклоніння	None
 buurta	гора	None
 buurweyn	ожиріння	Nan
 buuxa	повний	None
@@ -5405,7 +5405,7 @@ buuxda	повний	None
 buuxin	заповнювати	Nan
 buuxinaya	наповнення	Nan
 buuriga	тютюн	Nan
-buuxsadaye	це було повно	Nan
+buuxsadaye	було	None
 c	c	None
 caabbi	опір	None
 caabinta	опір	None
@@ -5418,21 +5418,21 @@ dabiici	природи	None
 cabsida	страх	None
 cad	ясний	Nan
 caraba	араби	Nan
-carabi	арабською мовою	Nan
-carabiga	арабською мовою	Nan
-carabigu	арабською мовою	Nan
-carabiya	в аравії	Nan
+carabi	мовою	None
+carabiga	мовою	None
+carabigu	мовою	None
+carabiya	в	None
 carabka	язик	Nan
-carabkana	арабською мовою	Nan
+carabkana	мовою	None
 carabta	араби	Nan
 carabtii	опівдні	Nan
 carabtu	арабською	Nan
-carabعبد	арабська عبد	Nan
+carabعبد	арабська	None
 carabعبدالله	караб عبدالله	Nan
 carafaat	карафат	Nan
 cararay	втік	Nan
 carareen	втік	Nan
-carab	арабською мовою	Nan
+carab	мовою	None
 carartay	втік	Nan
 caraaye	розчарований	Nan
 car	автомобіль	Nan
@@ -5452,16 +5452,16 @@ caqli	мудрий	None
 caqliga	інтелект	Nan
 caqligu	логіка	None
 caraale	карамель	Nan
-carbeed	арабською мовою	Nan
+carbeed	мовою	None
 carbta	язик	Nan
 card	картка	Nan
 cas	червоний	None
 case	справа	None
-casharadan	на цьому уроці	Nan
+casharadan	цьому	None
 casharka	урок	Nan
 casharkii	урок	Nan
-casho	на обід	Nan
-cashocado	на обід	Nan
+casho	на	None
+cashocado	на	None
 casi	червоний	None
 casiis	червоний	None
 casimada	ввечері	Nan
@@ -5469,9 +5469,9 @@ casir	оновлення	None
 casmara	червоний	None
 casri	сучасний	None
 casriga	сучасний	None
-casrigan	в сучасний час	Nan
-caruurtooda	їхні діти	Nan
-caruurtiisa	його діти	Nan
+casrigan	час	None
+caruurtooda	діти	None
+caruurtiisa	діти	None
 caruurtii	діти	None
 caruurta	діти	None
 carif	короп	Nan
@@ -5483,8 +5483,8 @@ carro	ґрунт	None
 carruur	діти	None
 camar	камар	Nan
 carruureede	діти	None
-carruurtiisa	його діти	Nan
-carruurtiisu	його діти	Nan
+carruurtiisa	діти	None
+carruurtiisu	діти	None
 cars	автомобілі	Nan
 carta	карт	Nan
 cartan	візок	Nan
@@ -5492,19 +5492,19 @@ carte	візок	Nan
 caruur	діти	None
 carruurta	діти	None
 camaloow	гравець	Nan
-camalladiisa	його вчинки	Nan
+camalladiisa	вчинки	None
 camallada	вчинки	None
 caddaalad	справедливості	None
-caddaatay	стало зрозуміло	Nan
+caddaatay	зрозуміло	None
 caddayn	докази	Nan
-caddaynaya	щоб довести це	Nan
+caddaynaya	це	None
 caddaynta	доказ	Nan
 cadde	довести	None
 caddeeyay	доведено	Nan
-caddoow	бути чітким	Nan
-cade	бути чітким	Nan
+caddoow	бути	None
+cade	бути	None
 cadeeyay	доведено	Nan
-cadexamar	бути чітким	Nan
+cadexamar	бути	None
 cadi	білі	None
 cadmeed	курсант	Nan
 cadnaa	очевидно	None
@@ -5548,7 +5548,7 @@ calool	шлунок	None
 caluula	позивний	Nan
 camaamad	облігація	Nan
 camal	вчинок	Nan
-calaamooyinkaas	ці ознаки	Nan
+calaamooyinkaas	ознаки	None
 calaamooyin	знаки	None
 calaamka	знак	None
 calaamdaha	симптоми	Nan
@@ -5572,7 +5572,7 @@ cago	стопа	Nan
 burburintii	знищення	None
 dabiiciga	природи	None
 dable	дабл	Nan
-dhacan	ця подія	Nan
+dhacan	подія	None
 dhacana	буває	None
 dhacay	сталося	None
 dhacaye	буває	None
@@ -5604,16 +5604,16 @@ dhabar	назад	None
 dhabarka	спина	Nan
 dhabbada	дорога	None
 dhabeeyaan	виконувати	None
-dhabnimadeeda	її справжність	Nan
+dhabnimadeeda	її	None
 dhabta	справжній	None
 dhaca	буває	None
 dhafaruur	різанина	Nan
 dhagan	тісний	Nan
 dhaganyahay	тісний	Nan
-dhalashadiisii	його народження	Nan
-dhalashadiisu	його день народження	Nan
+dhalashadiisii	народження	None
+dhalashadiisu	народження	None
 dhalasho	народження	None
-dhalashooyin	дні народження	Nan
+dhalashooyin	народження	None
 dhalatay	народився	None
 dhalay	породити	Nan
 dhalaye	плавити	Nan
@@ -5625,23 +5625,23 @@ dhalinaya	тригер	Nan
 dhalinyar	молоді	None
 dhalinyara	молоді	None
 dhalinyarada	молоді	None
-dhalashadii	день народження	Nan
+dhalashadii	народження	None
 dhalashada	народження	None
-dhalanteede	право народження	Nan
+dhalanteede	народження	None
 dhalan	народився	None
 dhagar	обманювати	Nan
 dhagaweyne	переповнення	Nan
 dhagax	камінь	None
 dhagaxa	камінь	None
 dhagaxaasi	камінь	None
-dhagaxawoqooyiga	північна скеля	Nan
+dhagaxawoqooyiga	північна	None
 dhagaxbuur	тріщини	Nan
 dhaameen	закінчив	None
 dhagaxii	камінь	None
 dhaha	сказати	None
 dhahaa	сказати	None
 dhahar	сказати	None
-dhaheen	вони сказали	Nan
+dhaheen	вони	None
 dhaho	сказати	None
 dhakhso	швидко	None
 dhal	урожайність	Nan
@@ -5649,7 +5649,7 @@ dhagaysto	слухати	Nan
 dhalinyaradii	молодь	None
 dhaalib	непритомний	Nan
 dhaafsado	помер	None
-degmadan	в цьому районі	Nan
+degmadan	районі	None
 degmadda	район	None
 degmadu	район	None
 degmo	район	None
@@ -5664,7 +5664,7 @@ degtay	зійшов	Nan
 degto	осідати	Nan
 dejintii	установка	Nan
 dejiyay	розміщений	Nan
-degmadaan	в цьому районі	Nan
+degmadaan	районі	None
 dejiyey	оселився	Nan
 degmada	район	None
 degganaa	заселений	Nan
@@ -5678,8 +5678,8 @@ degeen	оселився	Nan
 degen	осідати	Nan
 degenaa	був	None
 degenaan	заспокойся	Nan
-degenaansho	бути спокійним	Nan
-degeneen	оселився в	Nan
+degenaansho	бути	None
+degeneen	в	None
 degenyihiin	проживати	Nan
 degey	оселився	Nan
 deggan	стійкий	Nan
@@ -5693,7 +5693,7 @@ deyey	тед	Nan
 deyiba	збентежений	Nan
 dfkmg	dfkmg	Nan
 dhaabad	падіння	None
-dhaabadeeyaan	зроби це	Nan
+dhaabadeeyaan	це	None
 dhaadashada	прилив	Nan
 dhaadheer	високий	None
 dhaaf	пропуск	Nan
@@ -5727,9 +5727,9 @@ dhalinyaro	молоді	None
 dhalisay	спрацьовує	Nan
 dhaliyey	спрацьовує	Nan
 dhaw	закрити	Nan
-dhawaadaan	останнім часом	Nan
+dhawaadaan	часом	None
 dhawaado	скоро	None
-dhawaan	останнім часом	Nan
+dhawaan	часом	None
 dhawaaqaa	заявляє	Nan
 dhawaaqaan	звук	None
 dhawaaqay	оголошено	None
@@ -5740,11 +5740,11 @@ dhawaaqo	звук	None
 dhawaaqtada	звуки	None
 dhawdahay	поруч	None
 dhaweeyay	вітали	Nan
-dhawr	тримай це	Nan
+dhawr	це	None
 dhasida	танцювати	Nan
 dhawre	охоронець	Nan
 dhashtay	народився	None
-dhashaywaxaanuu	він народився	Nan
+dhashaywaxaanuu	народився	None
 dhaqmay	діяли	None
 dhaqmaysayna	діяв	None
 dhaqmo	діяти	None
@@ -5755,16 +5755,16 @@ dharaar	день	None
 dharaaraba	вранці	Nan
 dhararka	тканина	Nan
 dharka	одяг	None
-dharkeenleey	наш одяг	Nan
-dharkoodii	їхній одяг	Nan
-dhasahy	останнім часом	Nan
+dharkeenleey	одяг	None
+dharkoodii	одяг	None
+dhasahy	часом	None
 dhashaa	народжується	Nan
 dhashay	народився	None
 dhasheen	народилися	None
 dhax	спадкові	Nan
 dhaxal	спадкування	Nan
 dhaxalaa	успадковувати	Nan
-dhaxmaro	передається у спадок	Nan
+dhaxmaro	спадок	None
 dhay	одягатися	Nan
 dhaygag	дивитися	Nan
 dhaymo	одягання	Nan
@@ -5774,31 +5774,31 @@ dhebi	клацніть	Nan
 dheceen	впав	Nan
 dheddig	жіночий	None
 dheddiga	самки	Nan
-dheddigga	для жінок	Nan
+dheddigga	жінок	None
 dheecaan	розряд	Nan
 dheer	довго	None
 dheeraa	довго	None
 dheeraad	більше	None
 dhaxmaraa	втручається	Nan
-dhaxlay	передається у спадок	Nan
+dhaxlay	спадок	None
 dhaxeysay	проміжний	Nan
-dhaxeysaa	по середині	Nan
+dhaxeysaa	середині	None
 dhaxalgalka	спадкування	Nan
 dhaxalka	спадкування	Nan
-dhaxalkeeda	її спадщина	Nan
+dhaxalkeeda	спадщина	None
 dhaxanta	холод	Nan
 dhaxaye	зламався	Nan
 dhaxaysa	між	None
 dhaxaysaa	між	None
 dhaqmaan	діяти	None
-dhaxaysay	між ними	Nan
-dhaxe	по середині	Nan
-dhaxeesay	між ними	Nan
-dhaxeeya	між ними	Nan
+dhaxaysay	ними	None
+dhaxe	середині	None
+dhaxeesay	ними	None
+dhaxeeya	ними	None
 dhaxeeyaa	між	None
-dhaxeeyeen	між ними	Nan
-dhaxeeyey	між ними	Nan
-dhaxeysa	по середині	Nan
+dhaxeeyeen	ними	None
+dhaxeeyey	ними	None
+dhaxeysa	середині	None
 dhaxda	посередині	Nan
 dhaqma	діяти	None
 dhaqidda	прання	Nan
@@ -5809,18 +5809,18 @@ dhamiba	зовсім	None
 dhammaa	цілий	None
 dhammaadkii	кінець	None
 dhammaan	всі	None
-dhammaantiis	все це	Nan
+dhammaantiis	це	None
 dhammaantood	усі	None
-dhammanteen	всі з нас	Nan
+dhammanteen	нас	None
 dhammeeyeen	закінчив	None
 dhan	всі	None
 dhanaan	кислий	Nan
 dhanee	ласкаво просимо	Nan
-dhanka	на стороні	Nan
+dhanka	стороні	None
 dhankaas	навпаки	None
 dhameeyay	закінчив	None
 dhameeyaan	закінчити	Nan
-dhameestirnociidanka	завершити процес	Nan
+dhameestirnociidanka	процес	None
 dhamaystirane	завершено	Nan
 dhallinyaradu	молодь	None
 dhallinyaro	молодий	None
@@ -5829,12 +5829,12 @@ dhamaadaan	кінець	None
 dhamaaday	закінчився	None
 dhamaadka	кінець	None
 dhamaadkii	кінець	None
-dhankooda	на їхньому боці	Nan
+dhankooda	боці	None
 dhamaado	кінець	None
 dhamaan	всі	None
-dhamaantiis	все це	Nan
+dhamaantiis	це	None
 dhamaantood	усі	None
-dhamaatay	це кінець	Nan
+dhamaatay	кінець	None
 dhamaha	нігті ніг	Nan
 dhamaystay	завершено	Nan
 dhamaystiran	завершено	Nan
@@ -5844,8 +5844,8 @@ dhanna	зовсім	None
 dhantahay	завершено	Nan
 dhaqane	діяти	None
 dhaqanka	традиції	None
-dhaqankooda	їхня культура	Nan
-dhaqankoodu	їхня культура	Nan
+dhaqankooda	культура	None
+dhaqankoodu	культура	None
 dhaqanta	практика	None
 dhaqashada	прання	Nan
 dhaqatada	скотарі	Nan
@@ -5870,16 +5870,16 @@ dhaqaale	економічні	None
 dhaqaalha	економіка	None
 dhanoo	всі	None
 dhaqaalihii	економіка	None
-dhaqaalihiisuna	його фінанси	Nan
+dhaqaalihiisuna	фінанси	None
 dhaqaalo	економіка	None
-dhaqaaloheeda	її економіка	Nan
-dhaqaalohiisa	його фінанси	Nan
+dhaqaaloheeda	економіка	None
+dhaqaalohiisa	фінанси	None
 dhaqaaq	рухатися	Nan
 dhaqaaqay	переїхали	None
 dhaqaaqo	рухатися	Nan
-dhaqaalihiisa	його економіка	Nan
+dhaqaalihiisa	економіка	None
 degaanka	місцеві	None
-degaanada	місцеві жителі	Nan
+degaanada	жителі	None
 degaan	проживання	None
 dakhalka	дохід	None
 dal	дал	Nan
@@ -5896,8 +5896,8 @@ daleeyay	виснажений	Nan
 daliil	докази	Nan
 daljirka	вершник	Nan
 dalka	країна	None
-dakano	останній раз	Nan
-dalkaas	в тій країні	Nan
+dakano	раз	None
+dalkaas	країні	None
 dajiyaa	поклади	None
 dahsoon	анонімний	Nan
 daganyihiin	заселений	Nan
@@ -5912,20 +5912,20 @@ dagtaa	заспокойся	Nan
 dagto	заспокойся	Nan
 dahab	золото	None
 dahabka	золото	None
-dahay	все гаразд	Nan
+dahay	все	None
 dahaye	приховано	Nan
 dahir	чистий	None
 dain	dain	Nan
-dalkayagu	наша країна	Nan
-dalkeeda	її країна	Nan
-dalkeena	наша країна	Nan
+dalkayagu	країна	None
+dalkeeda	країна	None
+dalkeena	країна	None
 damal	гребля	Nan
 dambana	пізніше	None
 dambayntii	останній	None
 dambe	пізніше	None
 dambeba	пізніше	None
 dambeeya	лист	None
-dambeeyay	останнім часом	Nan
+dambeeyay	часом	None
 dambeeyey	останній	None
 dambeeyo	останнім	None
 dambeyntiina	нарешті	None
@@ -5939,10 +5939,10 @@ damaca	бажання	None
 damac	бажання	None
 dalxiiso	туристичний	None
 dalkii	земля	None
-dalkiisa	його країна	Nan
+dalkiisa	країна	None
 dalkjirka	паломника	Nan
-dalkjirkan	ця країна	Nan
-dalkooda	їхню країну	Nan
+dalkjirkan	країна	None
+dalkooda	країну	None
 dalku	батьківщина	None
 dalmar	далмар	Nan
 daganayn	нестабільний	Nan
@@ -5953,7 +5953,7 @@ dalxiise	туристичний	None
 dalxiiseyaasha	туристи	Nan
 dalxiisi	туризм	None
 dalxiiska	туризм	None
-dalxiiskeeda	її туризм	Nan
+dalxiiskeeda	туризм	None
 dalxiis	туризм	None
 daganaayeen	проживали	None
 dagan	тихо	Nan
@@ -5971,8 +5971,8 @@ dadi	смачно	Nan
 dadiisu	смачно	Nan
 dadka	люди	None
 dadkaa	люди	None
-dadkaan	ці люди	Nan
-dadkaas	ті люди	Nan
+dadkaan	люди	None
+dadkaas	люди	None
 dadaali	зусилля	None
 dadaaleen	прагнення	None
 dadaalaayay	прагнення	None
@@ -5984,25 +5984,25 @@ dabuubtiyo	обгортання	Nan
 dacal	драбина	Nan
 dacallada	рівнина	None
 dacar	глист	Nan
-dadkaasi	ті люди	Nan
+dadkaasi	люди	None
 dacas	даси	Nan
 dacda	неправильна	Nan
 daciifa	слабшати	Nan
-dacwad	судовий процес	Nan
-dacwada	судовий процес	Nan
+dacwad	процес	None
+dacwada	процес	None
 dad	люди	None
 dada	підходить	Nan
 dadaal	зусилля	None
 dacay	вм’ятини	Nan
 damiin	застава	Nan
 dadkaba	люди	None
-dadkani	ці люди	Nan
-dagaalamayay	бойові дії	Nan
-dagaalamayeen	вони вели бій	Nan
+dadkani	люди	None
+dagaalamayay	дії	None
+dagaalamayeen	бій	None
 dagaalamey	билися	Nan
 dagaalka	війни	None
-dagaalkaas	в тій війні	Nan
-dagaalkani	у цій війні	Nan
+dagaalkaas	війні	None
+dagaalkani	війні	None
 dagaalkii	війна	None
 dagaalku	війна	None
 dagaallada	війни	None
@@ -6014,15 +6014,15 @@ dagal	боротися	Nan
 dagalka	війни	None
 dagaalamay	билися	Nan
 dagaaladii	війни	None
-dagaaladaas	у цих війнах	Nan
+dagaaladaas	війнах	None
 dagaalada	війна	None
-dadkeeda	її люди	Nan
-dadkeedii	її люди	Nan
-dadkeedu	її люди	Nan
+dadkeeda	люди	None
+dadkeedii	люди	None
+dadkeedu	люди	None
 dadkii	люди	None
-dadkiina	ваші люди	Nan
-dadkiisa	його люди	Nan
-dadkiisii	його люди	Nan
+dadkiina	люди	None
+dadkiisa	люди	None
+dadkiisii	люди	None
 dadkana	люди	None
 dadkoo	люди	None
 dadkuna	люди	None
@@ -6038,10 +6038,10 @@ damiir	совість	Nan
 dan	син	None
 dawlad	уряду	None
 dawlada	уряду	None
-dawladaasi	що уряд	Nan
-dawladaasii	що уряд	Nan
+dawladaasi	уряд	None
+dawladaasii	уряд	None
 dawladaha	уряди	None
-dawladanwaxa	цей уряд	Nan
+dawladanwaxa	уряд	None
 dawladda	уряду	None
 dawladdii	уряду	None
 dawladeed	уряду	None
@@ -6055,15 +6055,15 @@ dawgii	лисиця	Nan
 dawladu	уряду	None
 dawgalaye	регенерація	Nan
 dawaldu	привід	Nan
-darti	тому що	Nan
+darti	що	None
 dartiina	тому	None
-dartiis	через це	Nan
+dartiis	це	None
 darto	осушено	Nan
 daruufo	обставини	None
 daruuriga	необхідність	None
 daruuro	хмари	Nan
 darxuma	незграбний	Nan
-darxumo	на жаль	Nan
+darxumo	жаль	None
 daryeel	турбота	Nan
 dasnnee	дасні	Nan
 dastuur	конституція	None
@@ -6078,15 +6078,15 @@ deegaanka	середовище	None
 deegaannada	колонії	Nan
 deegaano	середовище	None
 deegta	пізно	None
-deelqaaf	сканувати простір	Nan
+deelqaaf	простір	None
 deeq	пожертвування	Nan
 deeqeen	пожертвував	Nan
 deeqsi	щедрий	Nan
 deeqsiiyo	дарувати	Nan
 deero	олені	Nan
-deerow	сонячне світло	Nan
+deerow	світло	None
 deetana	наступний	None
-deexda	сонячне світло	Nan
+deexda	світло	None
 dega	вниз	Nan
 degaa	осідати	Nan
 deegaanada	колонії	Nan
@@ -6100,9 +6100,9 @@ dayaxa	місяць	None
 dayay	спробував	Nan
 daydka	подвір&#39;я	Nan
 daye	світ	None
-dartey	покласти це	Nan
+dartey	це	None
 dayeen	тед	Nan
-dayeynahay	мені не байдуже	Nan
+dayeynahay	не	None
 dayn	борг	Nan
 dayniile	борг	Nan
 dayo	ну	Nan
@@ -6110,13 +6110,13 @@ dayrka	двір	None
 de	приходити	Nan
 debate	дебати	Nan
 dayey	барвник	Nan
-darteed	тому що	Nan
+darteed	що	None
 dartay	додано	Nan
-darsoomaa	грати кнопка	Nan
+darsoomaa	грати	None
 danishka	шліфувати	Nan
 danjiraha	посол	Nan
 danjire	посол	Nan
-danta	її син	Nan
+danta	син	None
 dao	дао	None
 daomeesha	дамееша	Nan
 dar	додати	None
@@ -6129,11 +6129,11 @@ daraawiishi	шукати:	Nan
 daraawiishta	дарвіішта	Nan
 darafyada	кінці	None
 dangorayo	орго	Nan
-daneysa	представляє інтерес	Nan
+daneysa	інтерес	None
 danbi	злочин	None
-danbeysayisla	не спізнюйся	Nan
-danaynayn	не зацікавлений	Nan
-danbana	мій брат	Nan
+danbeysayisla	не	None
+danaynayn	не	None
+danbana	брат	None
 danbayna	тоді	None
 danbayntii	нарешті	None
 danbaysa	пізніше	None
@@ -6146,7 +6146,7 @@ danbeeyey	останній	None
 danbeeyo	останнім	None
 danbena	наші	None
 danbeyay	позаду	Nan
-danbeyntii	в кінці	Nan
+danbeyntii	кінці	None
 danbeysay	останнім	None
 danbeesay	пізніше	None
 damqaday	боляче	Nan
@@ -6166,20 +6166,20 @@ daro	доповнення	None
 darood	вода	None
 darro	негативний	Nan
 darsado	вчитися	Nan
-darsamaan	один з одним	Nan
+darsamaan	одним	None
 dareen	сенс	None
 dareemi	відчувати	Nan
 dareemeen	відчував	Nan
 dareemaysaa	відчуває	Nan
 daray	додано	Nan
-darayaaye	будь ласка	Nan
+darayaaye	будь	None
 darayey	додано	Nan
 darayga	новонародженого	Nan
 darbad	постріл	Nan
-darbadaaley	грати кнопка	Nan
-darbadna	навіть більше	Nan
-darandoorriga	в повітрі	Nan
-darbane	падіння вниз	Nan
+darbadaaley	грати	None
+darbadna	більше	None
+darandoorriga	повітрі	None
+darbane	падіння	None
 darbiga	стіна	Nan
 darbigeed	стіна	Nan
 darbiyada	стіни	None
@@ -6203,13 +6203,13 @@ alqaacida	аль-каїда	Nan
 alshabaab	аль-шабааб	Nan
 alshabab	альшабаб	Nan
 also	також	None
-alustaad	люблю тебе	Nan
+alustaad	тебе	None
 alwaadici	громадянин	None
 alxalabi	алгебра	Nan
 allena	боже	Nan
 alxamraa	зварювання	None
 allee	алея	Nan
-allaylehe	минулої ночі	Nan
+allaylehe	ночі	None
 alislām	alislām	Nan
 aljabarti	алгебра	Nan
 aljazeera	алгебра	Nan
@@ -6220,30 +6220,30 @@ alla	як	None
 allaa	коли-небудь	Nan
 allaaba	зовсім	None
 allaah	боже	Nan
-allaahu	бог бажає	Nan
+allaahu	бог	None
 allah	бог	None
-allaha	бог бажає	Nan
+allaha	бог	None
 allahaa	боже	Nan
 allahu	бог	None
 alle	боже	Nan
 am	я	None
 ama	або	None
 amaan	сейф	Nan
-aminsanyihiin	ви в безпеці	Nan
+aminsanyihiin	в	None
 amir	амір	Nan
 aml	амл	Nan
 ammaan	похвала	Nan
 ammaanadana	похвала	Nan
 ammaanadii	похвала	Nan
-ammaanadiisa	його похвала	Nan
+ammaanadiisa	його	None
 amnesty	амністія	Nan
 amniga	безпека	Nan
 amoud	amoud	Nan
 amray	командували	Nan
 amxaari	амхарський	Nan
 an	ан	Nan
-anaa	ми є	Nan
-anaadoolee	ходи сюди	Nan
+anaa	є	None
+anaadoolee	сюди	None
 amiirka	принц	Nan
 amiir	князя	None
 amiin	раціон	Nan
@@ -6257,42 +6257,42 @@ amaba	або	None
 amagaalooyinka	міст	None
 alislaax	етичний	Nan
 amar	замовлення	None
-amaradiisana	його заповіді	Nan
-amarkiis	за його наказом	Nan
+amaradiisana	його	None
+amarkiis	наказом	None
 amase	або	None
-ambaradooriyadii	швидкої допомоги	Nan
+ambaradooriyadii	допомоги	None
 ameerika	америка	None
 ameerikada	американський	None
 america	америка	None
 amarada	приписи	Nan
 anad	anad	Nan
-align=right	вирівняти = правильно	Nan
+align=right	правильно	None
 alifay	алфавіту	Nan
 ahmiyada	значення	None
 ahn	ах	Nan
 ahna	і	None
 ahoo	ах	Nan
 ahtiirarka	картинки	Nan
-ahwaxay	це є	Nan
+ahwaxay	є	None
 ahyad	айя	Nan
 ahyd	безводний	Nan
 aid	допомогу	None
 air	повітря	None
 airlines	авіакомпаній	Nan
 airport	аеропорт	None
-airways	дихальні шляхи	Nan
+airways	шляхи	None
 ajaanibta	іноземці	Nan
 ajar	прикритий	Nan
 ahmiyad	значення	None
-ajnabi	незнайомих людей	Nan
+ajnabi	людей	None
 ahmed	ахмед	Nan
 ahluxaddiiska	рівняння	None
 ahay	мені	None
 ahayd	був	None
 ahayde	я	None
-ahaydkadib	було пізніше	Nan
-ahayee	будь то	Nan
-ahayn	не був	Nan
+ahaydkadib	пізніше	None
+ahayee	то	None
+ahayn	був	None
 ahba	так	None
 ahcafariga	вибачення	Nan
 ahe	гм	Nan
@@ -6302,29 +6302,29 @@ aheyn	бути	None
 ahi	є	None
 ahina	так	None
 ahlu	ах	Nan
-ahluxaddiisku	заслуги в цьому	Nan
+ahluxaddiisku	цьому	None
 ajuuraan	зарядка	Nan
 ak	історія	None
 akhlaaqda	поведінка	None
 albaabka	двері	Nan
 albaani	двері	Nan
-albaaniya	в албанії	Nan
+albaaniya	в	None
 albakr	альбакр	Nan
 albania	албанія	Nan
-albaqrahaayada	дзвінок у двері	Nan
+albaqrahaayada	у	None
 alcallaama	пшениця	None
 aldalanj	aldalanj	Nan
 alfaatex	альфатекс	Nan
 alfaatixoo	альфа	Nan
 algorithm	алгоритм	None
 algorithms	алгоритми	None
-alhilaali	ручної роботи	Nan
+alhilaali	роботи	None
 ali	алі	Nan
 alif	аліф	Nan
 alazhar	царство	None
 alalbaani	бридкий	Nan
 alaha	ха-ха	Nan
-alaabtiisii	його товар	Nan
+alaabtiisii	товар	None
 akhlaaqdii	мораль	None
 akhri	читати	None
 akhrin	читати	None
@@ -6345,51 +6345,51 @@ akhristo	читати	None
 anagaa	ми	None
 anagoo	нами	None
 anagu	ми	None
-arkayninba	не бачить	Nan
+arkayninba	не	None
 arkayo	бачачи	Nan
 arkaysaa	розумієш	Nan
 arkeen	пила	Nan
 arkey	аркі	Nan
 arki	побачити	None
 arko	побачене	Nan
-arkoon	не бачить	Nan
-arlada	на землі	Nan
-arligiina	ваше багатство	Nan
+arkoon	не	None
+arlada	землі	None
+arligiina	багатство	None
 aroor	ранок	Nan
 arrimaha	питань	None
-arrimahaas	з цих питань	Nan
+arrimahaas	питань	None
 arrimo	питань	None
 arrin	матерія	None
 arkay	побачене	Nan
-arrinkaa	в цьому відношенні	Nan
+arrinkaa	відношенні	None
 arkaan	побачити	None
 arjantiina	моя	None
 arif	аріф	Nan
 ariga	козел	Nan
 arima	проблема	None
 arimaha	питань	None
-arimahaa	ці питання	Nan
-arimahaas	з цих питань	Nan
+arimahaa	питання	None
+arimahaas	питань	None
 arimo	питань	None
 arimood	питань	None
 arin	середина	None
-arinkaas	в цьому відношенні	Nan
+arinkaas	відношенні	None
 arinta	питання	None
-arintaa	в цьому відношенні	Nan
-arintaas	в цьому відношенні	Nan
-arintaasi	це воно	Nan
-arintan	ця проблема	Nan
+arintaa	відношенні	None
+arintaas	відношенні	None
+arintaasi	воно	None
+arintan	проблема	None
 arkaa	бачить	Nan
-arrinkaan	з цього питання	Nan
-arrinkaas	в цьому відношенні	Nan
+arrinkaan	питання	None
+arrinkaas	відношенні	None
 arrinkii	причина	None
 asalka	походження	None
-asalkooda	їх походження	Nan
-asalkoodii	їх походження	Nan
-asalkoodu	їх походження	Nan
+asalkooda	походження	None
+asalkoodii	походження	None
+asalkoodu	походження	None
 asaxaabtu	друзі	Nan
 asc	вх	Nan
-aserbiijaan	грати кнопка	Nan
+aserbiijaan	грати	None
 asharaaf	зрада	Nan
 ashhadu	зола	Nan
 ashyaada	речі	None
@@ -6400,13 +6400,13 @@ askarta	солдати	None
 askax	солдати	None
 asal	походження	None
 asagoo	від	None
-asagana	в той самий час	Nan
+asagana	час	None
 asaga	його	None
 arrinku	причина	None
-arrintaa	в цьому відношенні	Nan
-arrintaan	у цьому випадку	Nan
-arrintaas	в цьому відношенні	Nan
-arrintan	у цьому випуску	Nan
+arrintaa	відношенні	None
+arrintaan	випадку	None
+arrintaas	відношенні	None
+arrintan	випуску	None
 arrintii	причина	None
 arrintu	причина	None
 ari	запозичені	None
@@ -6424,7 +6424,7 @@ argagaxa	паніка	Nan
 areas	райони	None
 application	застосування	None
 april	квітня	None
-aqaan	я знаю	Nan
+aqaan	я	None
 aqal	будинок	None
 aqalgalay	прийнято	None
 aqalka	будинок	None
@@ -6434,16 +6434,16 @@ aqlabiyada	більшість	None
 aqliyad	більшість	None
 aqoon	знання	None
 aqoone	знання	None
-aqoonsadaan	розпізнайте їх	Nan
+aqoonsadaan	їх	None
 aqoonsadayafka	ідентифікатори	Nan
 aqoonsado	визнає	None
 any	нас	None
 antiilis	антиіліс	Nan
 antenna	антена	Nan
-ansaxa	термін дії	Nan
+ansaxa	дії	None
 anan	тут	None
 anbaqaaday	прийнято	None
-anbaxaxeen	вони вийшли	Nan
+anbaxaxeen	вийшли	None
 anbieter	anbieter	Nan
 and	і	None
 andocootay	andocootay	Nan
@@ -6457,7 +6457,7 @@ anigu	я	None
 anna	анна	None
 annaga	нас	None
 anoo	аноо	Nan
-angola	не йди	Nan
+angola	не	None
 ahana	немає	None
 aqoonsanayn	несвідомо	Nan
 aqoonsato	визнає	None
@@ -6470,7 +6470,7 @@ ardada	студенти	None
 ardaqal	бородатий	Nan
 arday	студент	Nan
 ardayda	студенти	None
-ardaydiisii	його учнів	Nan
+ardaydiisii	учнів	None
 ardaygii	студент	Nan
 ardoqalna	ні	None
 ardul	ardul	Nan
@@ -6482,8 +6482,8 @@ aragnimo	досвід	None
 arag	побачити	None
 aqoonsi	визнання	None
 aqoonta	знання	None
-aqoontiisa	його знання	Nan
-aqoontoodu	їх знання	Nan
+aqoontiisa	знання	None
+aqoontoodu	знання	None
 aqoonyahan	вчений	None
 aqoonyahanad	науковці	None
 aqoonyahano	науковці	None
@@ -6495,7 +6495,7 @@ aqriyey	читати	None
 aqriyo	читати	None
 ar	ар	Nan
 arab	арабська	None
-arabsiyo	один одного	Nan
+arabsiyo	одного	None
 aqrinayo	читання	None
 ahan	не	None
 ahada	назва	None
@@ -6512,7 +6512,7 @@ abdirashid	абдрашид	Nan
 abdul	абдул	Nan
 abdulkarim	абдулкарім	Nan
 abdullah	абдулла	Nan
-abdullahi	мої друзі	Nan
+abdullahi	мої	None
 abdulle	абдулле	Nan
 abdulrahman	абдулрахман	Nan
 abaarso	мета	None
@@ -6525,7 +6525,7 @@ aasanyahay	похований	None
 aasay	похований	None
 aasaynaa	поховати	Nan
 aasiya	азії	None
-aasiyamaanta	її бездіяльність	Nan
+aasiyamaanta	її	None
 aasiyo	ласкавий	Nan
 aay	ай	Nan
 aayadaha	вірші	None
@@ -6571,7 +6571,7 @@ absame	абсаме	Nan
 abshir	абшир	Nan
 absuge	гвалт	Nan
 abti	дядько	Nan
-abtigiis	його дядько	Nan
+abtigiis	його	None
 abtirisiinyihiisu	незліченний	Nan
 abriil	квітень	None
 aasaaskii	фундамент	Nan
@@ -6583,18 +6583,18 @@ aadam	людство	None
 aadamka	люди	None
 aadamuhu	людство	None
 aadan	ти	None
-aadanaha	людські істоти	Nan
+aadanaha	істоти	None
 aadanuhu	люди	None
 aaday	пішли	None
-aaden	ви зайшли	Nan
+aaden	ви	None
 aadey	пішли	None
 aadka	дуже	None
 aadna	йти	None
 aado	йти	None
 aafo	криза	None
-aabihiisna	його батько	Nan
-aabihiis	його батько	Nan
-aabihiina	мій батько	Nan
+aabihiisna	батько	None
+aabihiis	батько	None
+aabihiina	батько	None
 aabihii	батько	None
 +	+	Nan
 <i>	<i>	None
@@ -6602,20 +6602,20 @@ aabihii	батько	None
 <wareega	<wareega	Nan
 =	=	Nan
 ==	==	Nan
-===xoriyadii	=== свобода	Nan
+===xoriyadii	свобода	None
 aagga	область	None
 a	а	None
 aaayadda	вірш	None
 aabaha	батько	None
-aabahayo	наш батько	Nan
+aabahayo	батько	None
 aabbe	батько	None
-aabbihii	його батько	Nan
-aabbihiis	його батько	Nan
+aabbihii	батько	None
+aabbihiis	батько	None
 aabe	батько	None
 aa	а	None
 abwaankii	артист	None
 aaggii	площа	None
-aakhiraba	на далі	Nan
+aakhiraba	далі	None
 aannu	нас	None
 aanu	співчуття	None
 aanuu	без	None
@@ -6624,33 +6624,33 @@ aargoosi	помсти	Nan
 aas	поховання	None
 aasaar	поховання	None
 aasaarta	поховання	None
-aasaartan	цей фундамент	Nan
+aasaartan	цей	None
 aasaasaha	засновник	None
 aasaasay	заснували	None
 aasaasayaasha	засновники	Nan
 aasaasayaashii	засновники	Nan
 aasaasi	базовий	Nan
 aasaasiga	базовий	Nan
-aannaan	ми - ні	Nan
-aanay	вони цього не зробили	Nan
-aanan	я цього не зробив	Nan
+aannaan	ні	None
+aanay	зробили	None
+aanan	зробив	None
 aan	ні	None
-aakhirana	на далі	Nan
-aakhiro	на далі	Nan
+aakhirana	далі	None
+aakhiro	далі	None
 aakhiroba	надалі	None
-aalacimraan	їх немає	Nan
+aalacimraan	немає	None
 aalo	інструмент	None
 aamdiga	зізнання	Nan
 aamin	довіра	Nan
-aakhiraa	на далі	Nan
+aakhiraa	далі	None
 aaminaan	вірити	Nan
 aamino	вірити	Nan
 aaminsan	вірити	Nan
-aaminsanyahay	повір мені	Nan
+aaminsanyahay	мені	None
 aaminsanyihiin	вірити	Nan
-aamisan	повір в це	Nan
-aammiin	довірся мені	Nan
-aamus	будь тихо	Nan
+aamisan	це	None
+aammiin	мені	None
+aamus	будь	None
 aamini	довірливий	Nan
 aslam	аслам	Nan
 abwaanku	художник	None
@@ -6661,18 +6661,18 @@ afrax	четвертий	None
 africa	африка	None
 african	африканський	Nan
 afrika	африка	None
-afrikaba	в африці	Nan
-afrikada	в африці	Nan
+afrikaba	африці	None
+afrikada	африці	None
 afrikakadib	африканський	Nan
 afroaasiya	афазія	Nan
-afsomaliga	у сомалі	Nan
-afsoomaali	сомалійська мова	Nan
+afsomaliga	у	None
+afsoomaali	мова	None
 afsoomaaliga	англійською	None
 afsoomaaligu	англійською	None
-afsoomali	сомалійська мова	Nan
+afsoomali	мова	None
 afmadow	наприклад	None
 afsoomaliga	англійською	None
-afkiisuna	його рот	Nan
+afkiisuna	його	None
 afjaro	кінець	None
 afdhere	зламаний	Nan
 affaransiis	африканський	Nan
@@ -6680,38 +6680,38 @@ afgaanistaan	афганістан	Nan
 afgambi	переворот	None
 afgambigii	переворот	None
 afganistan	афганістан	Nan
-afgaranwaa	не згоден	Nan
+afgaranwaa	не	None
 afgobaadsi	викрадення	Nan
 afgooye	викрадач	Nan
-afgoye	до речі	Nan
+afgoye	речі	None
 afhayeenka	динамік	Nan
 afikada	мова	None
 afingiriis	англійська	None
 afisbaanish	іспанська	None
 afjaray	закінчення	None
 afka	рот	Nan
-aftahan	цей нарис	Nan
+aftahan	нарис	None
 after	після	None
 aftigree	безперервно	Nan
 ahaaday	є	None
-ahaadee	будь то	Nan
+ahaadee	то	None
 ahaado	бути	None
 ahaan	бути	None
-ahaana	і воно є	Nan
+ahaana	є	None
 ahaanba	абсолютно	None
-ahaanjirtay	це було	Nan
-ahaanna	і воно є	Nan
+ahaanjirtay	було	None
+ahaanna	є	None
 ahaanshaha	буття	None
 ahaantii	фактично	None
 ahaataye	тобі	None
-ahaatee	поки що	Nan
+ahaatee	що	None
 ahaato	бути	None
 ahaay	був	None
 ahaaye	ная	Nan
 ahaa	був	None
 aha	немає	None
 ah	ах	Nan
-agtiisa	біля нього	Nan
+agtiisa	нього	None
 afturki	аффурки	Nan
 afurayo	ранок	Nan
 ag	аг	Nan
@@ -6727,34 +6727,34 @@ agoontii	сирота	Nan
 agoonyar	революційний	Nan
 agoosto	серпень	None
 agrario	agrario	Nan
-agteeda	біля неї	Nan
-agagaarkeeda	навколо неї	Nan
+agteeda	неї	None
+agagaarkeeda	неї	None
 afcarabi	наприклад	None
 afartii	чотири	None
 afartankii	сорок	Nan
 adduunka	світ	None
-adduunkan	в цьому світі	Nan
+adduunkan	світі	None
 adduunku	світ	None
 adduunyada	світу	None
 adduunyadu	світу	None
 adeeg	сервіс	Nan
 adeega	сервіс	Nan
-adeegayooda	їхні послуги	Nan
+adeegayooda	послуги	None
 adeegsadaa	використовує	None
 adeegsadaan	використання	None
-adeegsado	б / в	Nan
+adeegsado	в	None
 adeegsan	використання	None
-adeegsatay	б / в	Nan
+adeegsatay	в	None
 adeegsiga	використання	None
 adeegtana	сервіс	Nan
-adduun	цей світ	Nan
+adduun	світ	None
 addoonku	слуга	Nan
-addoonkiisa	його слуга	Nan
+addoonkiisa	його	None
 addoonkii	слуга	Nan
 account	рахунок	None
 ad	оголошення	None
 adaa	ти	None
-adaan	ось цей	Nan
+adaan	цей	None
 adag	важко	None
 adal	адаль	Nan
 adam	людські	None
@@ -6763,7 +6763,7 @@ adan	кажан	Nan
 addaa	тобі	None
 addis	аддіс	Nan
 addoomada	раби	None
-addoomadiisa	його слуги	Nan
+addoomadiisa	його	None
 addoomo	раби	None
 addoon	слуга	Nan
 addoonka	слуга	Nan
@@ -6774,11 +6774,11 @@ adeegyo	послуги	None
 adna	adna	Nan
 adoo	вами	Nan
 adoomada	раби	None
-adoon	без адо	Nan
+adoon	без	None
 aduu	гладкий	Nan
 aduunka	світ	None
 aduunyada	світ	None
-af	до речі	Nan
+af	речі	None
 afaf	мови	None
 afafka	мови	None
 afar	чотири	None
@@ -6793,17 +6793,17 @@ adkaade	завойовник	Nan
 adeer	дядько	Nan
 adeerka	дядько	Nan
 adeerkii	дядько	Nan
-adeerkiis	його дядько	Nan
-adeerkood	їх дядько	Nan
+adeerkiis	його	None
+adeerkood	їх	None
 adeerradii	дядьки	Nan
 aden	аден	Nan
-adeegyadooda	їхні послуги	Nan
+adeegyadooda	послуги	None
 adhiga	овець	None
 adiga	ти	None
 adigaa	ти	None
 adigoo	вами	Nan
 adigu	ти	None
-adiinoo	для вас	Nan
+adiinoo	вас	None
 adkaaaday	переможений	Nan
 adkaaday	переважав	Nan
 adi	бути	None
@@ -6817,17 +6817,17 @@ beelweynta	громада	None
 been	помилковий	Nan
 beenawday	брехали	Nan
 beeni	заперечувати	Nan
-beeniyana	заперечувати це	Nan
+beeniyana	це	None
 beeniyeen	заперечується	Nan
 beenta	брехня	Nan
-beentana	не брехати	Nan
+beentana	не	None
 beer	поле	None
 beera	сіяти	Nan
 beeraha	землеробство	None
 beeraleey	фермер	None
-beelahakan	в цих громадах	Nan
+beelahakan	цих	None
 beerato	рослина	Nan
-beelahaas	ці громади	Nan
+beelahaas	громади	None
 beel	громада	None
 baytulaxam	здатність	None
 bbc	тощо.	Nan
@@ -6837,11 +6837,11 @@ bed	ліжко	Nan
 beddelo	змінити	None
 bedelaan	змінити	None
 bedelay	змінився	Nan
-bedeli	зміни це	Nan
+bedeli	це	None
 bedelin	незмінний	Nan
 bedka	простір	None
 beebeen	загублений	Nan
-beedkeediiduqaydii	мій баклажан	Nan
+beedkeediiduqaydii	мій	None
 beegan	збіг	Nan
 beegsaday	цільова	Nan
 beelaha	громади	None
@@ -6852,7 +6852,7 @@ bern	берн	Nan
 besha	беша	Nan
 between	між	None
 bey	бей	Nan
-beytkiisa	його дім	Nan
+beytkiisa	дім	None
 biblia	біблія	None
 bidcada	єресі	Nan
 bidco	бідеко	Nan
@@ -6868,7 +6868,7 @@ berigii	пізніше	None
 berberaburao	завтра	Nan
 berbera	інжир	Nan
 beeroley	фермер	None
-beerta	в саду	Nan
+beerta	саду	None
 beerto	посадка	Nan
 beesha	громада	None
 beeshu	бороду	Nan
@@ -6879,7 +6879,7 @@ belarus	білорусь	None
 belfast	дзвіниця	Nan
 belgium	бельгія	None
 beljim	бельгійський	Nan
-belkooda	їх пояс	Nan
+belkooda	пояс	None
 belo	любий	Nan
 benin	лавка	Nan
 benito	беніто	Nan
@@ -6893,7 +6893,7 @@ barta	точка	None
 bartaan	вчитися	Nan
 bartamaha	посередині	Nan
 bartamihii	посередині	Nan
-bartan	в цей момент	Nan
+bartan	момент	None
 bartay	навчився	Nan
 bartey	якось	Nan
 barto	вчитися	Nan
@@ -6915,11 +6915,11 @@ barkaanle	помічник	Nan
 barkada	басейн	None
 baryi	просити	Nan
 barlamaankadfkmg	миротворчі	Nan
-barlamanka	ваш парламент	Nan
+barlamanka	парламент	None
 barlaskooni	барикон	Nan
 barliin	барлін	Nan
 barnaamijka	програма	None
-barnaamijkan	в цій програмі	Nan
+barnaamijkan	програмі	None
 barnaamijyada	програм	None
 baro	вчитися	Nan
 barlamaankiyo	парламент	None
@@ -6941,7 +6941,7 @@ baydhaba	обернутись	Nan
 baydhabo	виявляється	None
 baydhabotan	сюди	None
 baylah	вразливі	Nan
-baxeen	вони вийшли	Nan
+baxeen	вийшли	None
 baxdo	забирайся	Nan
 baxday	вийшов	None
 baxdaa	забирайся	Nan
@@ -6970,7 +6970,7 @@ boorinta	заклик	None
 boosaaso	босасо	Nan
 boosaha	пост	None
 booskii	місце	None
-booskiisii	його місце	Nan
+booskiisii	місце	None
 boqol	сотня	Nan
 boqolkii	сотня	Nan
 boqolkiiba	відсотків	None
@@ -6979,7 +6979,7 @@ boqor	король	None
 boqorad	королева	Nan
 boqoraddii	королева	Nan
 boqorka	король	None
-boqorkayow	мій король	Nan
+boqorkayow	король	None
 boorame	гарбуз	Nan
 boqorkii	король	None
 boorama	гарбуз	Nan
@@ -6995,7 +6995,7 @@ boondheere	шукати	None
 booqan	візит	Nan
 booqanaya	відвідування	Nan
 booqashada	візит	Nan
-booqashadeydi	мій візит	Nan
+booqashadeydi	мій	None
 booqdaa	візит	Nan
 booqdaan	відвідувати	Nan
 booqday	відвідав	None
@@ -7010,8 +7010,8 @@ bulgaria	болгарія	None
 bullaxaar	каналізація	Nan
 bulleted	кульова	Nan
 bulshada	громада	None
-bulshadabawaayo	жодної громади	Nan
-bulshadeennu	наша громада	Nan
+bulshadabawaayo	громади	None
+bulshadeennu	громада	None
 bulshadii	спільнота	None
 bulsho	соціальний	None
 bun	булочка	Nan
@@ -7039,28 +7039,28 @@ britanwaxa	завтра	Nan
 british	британський	None
 btr	btr	Nan
 botha	ботха	Nan
-bolkaniskaee	грати кнопка	Nan
+bolkaniskaee	грати	None
 bolis	болюс	Nan
 boliifia	біліфія	Nan
-billaabo	з самого початку	Nan
+billaabo	початку	None
 biloobo	попередній	None
 bilood	місяців	None
 bilow	почати	Nan
 bilowday	розпочато	None
-bilowgii	з самого початку	Nan
+bilowgii	початку	None
 bilsho	білшо	Nan
 bilwaday	троянда	Nan
 bin	наступні	None
 bini	людські	None
 biniaadamka	людство	None
-biniaadanka	ваше людство	Nan
+biniaadanka	людство	None
 bintu	бінту	Nan
 binu	вибачте	Nan
 bir	залізо	None
 bill	вексель	None
 bile	жовч	Nan
 bilay	місяць	None
-bilawgii	з самого початку	Nan
+bilawgii	початку	None
 bilaabaan	почати	Nan
 bilaabata	починається	None
 bilaabatay	розпочато	None
@@ -7086,10 +7086,10 @@ bni	бні	Nan
 bog	сторінки	None
 boga	сторінки	None
 bogaadin	комплімент	Nan
-bogaan	ця сторінка	Nan
+bogaan	сторінка	None
 bogan	бога	None
 bogga	сторінки	None
-boggan	ця сторінка	Nan
+boggan	сторінка	None
 bohol	кратер	Nan
 boire	буріти	Nan
 bois	бої	None
@@ -7099,9 +7099,9 @@ bole	штамб	Nan
 biyo	вода	None
 biyihii	вода	None
 biyaha	вода	None
-bixiyey	за умови	Nan
+bixiyey	умови	None
 bishii	місяць	None
-bishiisa	його місяць	Nan
+bishiisa	місяць	None
 bishuna	бішуна	Nan
 bisinka	біс	Nan
 bisiqa	біцепси	Nan
@@ -7113,9 +7113,9 @@ bixin	з	None
 bixinta	забезпечення	None
 bixisaa	забезпечує	None
 bixisay	оплачується	Nan
-bixiya	за умови	Nan
+bixiya	умови	None
 bixiyaan	забезпечити	None
-bixiyay	за умови	Nan
+bixiyay	умови	None
 bixi	вийти	None
 dheeraada	більше	None
 bariise	рис	None
@@ -7141,21 +7141,21 @@ b	б	Nan
 azc	azc	Nan
 ayeey	життя	None
 ayey	шлях	None
-ayeyna	вони є	Nan
-ayna	їхнє ім&#39;я	Nan
-aynaan	ми не	Nan
-aynaanshe	це є	Nan
+ayeyna	є	None
+ayna	їхнє	None
+aynaan	не	None
+aynaanshe	є	None
 aynu	давайте	Nan
 ayoo	світіння	Nan
-aysan	вони цього не зробили	Nan
+aysan	зробили	None
 aysanna	ні	None
 ayuu	він	None
 ayuub	геб	Nan
 ayuun	щасливий	Nan
-ayuuna	він зробив	Nan
+ayuuna	зробив	None
 ayuuu	він	None
 aṣṣūmāl	анумал	Nan
-baahna	нема потреби	Nan
+baahna	потреби	None
 baahnaa	потрібні	None
 baal	перо	Nan
 baarlamaanka	парламент	None
@@ -7164,15 +7164,15 @@ baarri	ввічливість	Nan
 baaruude	діва	Nan
 baasifik	пластикові	Nan
 baath	баас	Nan
-baaxad	сфера застосування	Nan
+baaxad	застосування	None
 baaxada	розмір	None
 baaxadda	розмір	None
-baaxadiisu	сфера застосування	Nan
+baaxadiisu	застосування	None
 baay	затока	None
 baayacmushtar	товар	None
 baayasiid	торгівля	None
 baaz	гудіння	Nan
-babaayga	мій батько	Nan
+babaayga	батько	None
 baarlamaan	парламент	None
 baaritaan	слідство	Nan
 baaris	дослідження	None
@@ -7182,12 +7182,12 @@ baallacad	збільшений	Nan
 baalle	балет	Nan
 baan	банк	None
 baanka	банк	None
-baannu	ми маємо	Nan
+baannu	маємо	None
 baanu	вибачте	Nan
 ayeen	вони	None
 baaq	дзвінок	Nan
-baaqan	що залишився	Nan
-baaqayeen	вони дзвонили	Nan
+baaqan	залишився	None
+baaqayeen	вони	None
 baaqaysay	дзвонив	Nan
 baar	пошук	None
 baardheere	паркер	Nan
@@ -7200,21 +7200,21 @@ aydhiyooliyadda	доля	None
 avv	сер	None
 aw	ой	None
 awal	шило	Nan
-awaxaana	чи ти знаєш	Nan
+awaxaana	ти	None
 awdadl	awdadl	Nan
 awdal	жахливий	Nan
-awdalxiligaasoo	того часу	Nan
+awdalxiligaasoo	часу	None
 awdigil	жінка	None
-awdigilwuxuu	він міг це зробити	Nan
+awdigilwuxuu	зробити	None
 aweys	подвійний	Nan
-awgeed	через це	Nan
+awgeed	це	None
 awliyada	тиони	Nan
 awmuuse	виконання	None
 awood	потужність	None
 awooda	здатність	None
 average	середній	None
 avenue	проспект	None
-available	в наявності	Nan
+available	наявності	None
 authentication	аутентифікація	Nan
 assembly	складання	None
 astaamaha	симптоми	Nan
@@ -7232,23 +7232,23 @@ attaxiyaadka	теорії	None
 audio	аудіо	Nan
 august	серпень	None
 australia	австралія	None
-asxaabtiisa	його друзі	Nan
-babac	пальці вгору	Nan
+asxaabtiisa	його	None
+babac	вгору	None
 awooday	здатний	None
-awoodeedu	її сила	Nan
+awoodeedu	сила	None
 ayaa	то	None
 ayaad	ти	None
 ayaamo	днів	None
 ayaan	я	None
-ayaana	і це все	Nan
+ayaana	все	None
 ayaanle	м&#39;ята	Nan
-ayaanu	ми будемо	Nan
+ayaanu	ми	None
 ayaay	вони	None
 ayada	її	None
 ayadoo	з	None
 ayaga	їх	None
-ayagoo	з ними	Nan
-ayan	вони цього не зробили	Nan
+ayagoo	ними	None
+ayan	зробили	None
 ayay	вони	None
 aybakar	консультування	Nan
 aya	вірш	None
@@ -7256,11 +7256,11 @@ ay	вони	None
 axmedعبدالله	сокиру عبدالله	Nan
 axmed	сокира	Nan
 awoodii	здатність	None
-awoodoodiiwaxayna	їх потужність	Nan
+awoodoodiiwaxayna	потужність	None
 awoow	дідусь	Nan
 awoowe	дідусь	Nan
-awoowgiis	його дідусь	Nan
-awoowgiisii	його дідусь	Nan
+awoowgiis	його	None
+awoowgiisii	його	None
 awqaafta	теорема	None
 awoodda	потужність	None
 awsamaale	наприклад	None
@@ -7273,7 +7273,7 @@ axkaamta	навпаки	None
 axmad	заповіт	None
 axaaaddiistuba	хадис	Nan
 bariis	рис	None
-babayga	мій батько	Nan
+babayga	батько	None
 bacadle	відсталий	Nan
 bandhigo	викриває	Nan
 bandhigtay	представлено	None
@@ -7281,7 +7281,7 @@ bangiga	банк	None
 bangigu	банк	None
 bangladesh	бангладеш	Nan
 bani	людські	None
-baniaadamka	людські істоти	Nan
+baniaadamka	істоти	None
 banii	банії	Nan
 bank	банк	None
 banka	банк	None
@@ -7318,14 +7318,14 @@ barayaal	освітяни	Nan
 barayoo	навчання	None
 barbaaray	підняли	Nan
 barbaarin	вирощування	None
-barbaarinta	виховання дітей	Nan
+barbaarinta	дітей	None
 barbaariyo	виховувати	Nan
 barbaraawi	варвар	Nan
 barde	барре	Nan
 bare	інструктор	Nan
 bareen	вивчення	None
-bari	нехай це	Nan
-baridiisa	його благословення	Nan
+bari	це	None
+baridiisa	його	None
 bariga	схід	None
 bariidka	рис	None
 barax	параліч	Nan
@@ -7341,13 +7341,13 @@ baracaatika	переміщення	None
 barack	барак	Nan
 balcad	повітряна куля	Nan
 baraf	сніг	Nan
-barakaat	ти знаєш	Nan
+barakaat	ти	None
 barakacii	переміщення	None
 baran	вчитися	Nan
 barano	давайте дізнаємось	Nan
 barashada	навчання	None
-barashadiisa	його навчання	Nan
-barashadiisii	його навчання	Nan
+barashadiisa	навчання	None
+barashadiisii	навчання	None
 baraguay	благословення	Nan
 balantii	обіцянка	Nan
 balanqaadyadii	обіцянки	Nan
@@ -7357,24 +7357,24 @@ badanyahay	багато	None
 badanyihiin	багато	None
 badashay	змінився	Nan
 badaye	більшість	None
-badbaaday	було врятовано	Nan
-badbaadayso	бути збереженим	Nan
+badbaaday	було	None
+badbaadayso	бути	None
 badbaadid	зберегти	None
 badbaadinta	економія	Nan
 badbaadiyey	збережено	Nan
-badbaadiyo	збережи це	Nan
+badbaadiyo	це	None
 badda	море	None
 baddacas	baddacas	Nan
 baddii	море	None
 badh	половина	None
 badanna	багато	None
-badankoodu	більшість з них	Nan
-badankooda	більшість з них	Nan
-badankood	більшість з них	Nan
+badankoodu	них	None
+badankooda	них	None
+badankood	них	None
 bachelor	холостяк	Nan
 bad	поганий	Nan
 bada	давання	Nan
-badacas	морська трава	Nan
+badacas	морська	None
 badal	змінити	None
 badalay	змінився	Nan
 badaleen	змінився	Nan
@@ -7383,20 +7383,20 @@ badalin	незмінний	Nan
 badan	багато	None
 badana	часто	None
 badanaa	зазвичай	None
-badanaayey	був часто	Nan
+badanaayey	часто	None
 badane	багато	None
 badani	багато	None
-badanina	більшість з них	Nan
+badanina	них	None
 badalo	змінити	None
 bacaadka	пісок	Nan
 badhan	кнопка	Nan
 badhtamaha	посередині	Nan
 bahdil	ганебний	Nan
 bahdood	нужденним	Nan
-bahoobayxafladan	закладка цієї події	Nan
+bahoobayxafladan	події	None
 bakaaraha	бакааро	Nan
 baki	чорний	None
-bakistaan	в пакистані	Nan
+bakistaan	в	None
 bakool	бакул	Nan
 bakoolgalgaduudnugaal	приголомшливий	Nan
 bakr	бакр	Nan
@@ -7405,7 +7405,7 @@ balaadhan	широкий	None
 balaaran	великий	None
 balaarintii	розширення	None
 balad	лисий	Nan
-baladhaan	ця муха	Nan
+baladhaan	ця	None
 bahda	товариш	Nan
 bahal	звіра	Nan
 bahabar	перукар	Nan
@@ -7418,21 +7418,21 @@ badmareen	пливли	Nan
 badn	поганий	Nan
 badnaa	багато	None
 badhigtay	збережено	Nan
-badnayd	було в достатку	Nan
-badnayn	не багато	Nan
-badneyn	не багато	Nan
+badnayd	в	None
+badnayn	багато	None
+badneyn	багато	None
 badno	більше	None
 badood	моря	None
 badwaynta	океан	None
 badweynta	океан	None
 baghdad	вівтарі	Nan
-badnaydna	в достатку	Nan
+badnaydna	в	None
 joogaanba	є	None
 dheeraadka	доповнення	None
 dheere	довго	None
-helaynin	не знайде	Nan
+helaynin	не	None
 helayo	знайти	None
-helaysaa	ви отримуєте	Nan
+helaysaa	ви	None
 heleen	знайдено	None
 heleysa	отримання	None
 heli	знайти	None
@@ -7447,7 +7447,7 @@ herbert	герберт	Nan
 herer	herer	Nan
 helaye	знайти	None
 heshay	отримано	Nan
-helayaa	в наявності	Nan
+helayaa	наявності	None
 helay	знайдено	None
 heesaa	співати	Nan
 heesaan	співати	Nan
@@ -7457,7 +7457,7 @@ heesayaan	співати	Nan
 heesihii	пісні	None
 heeso	співати	Nan
 heesta	пісня	None
-heestaan	ця пісня	Nan
+heestaan	пісня	None
 heestay	співали	Nan
 heestii	пісня	None
 heesto	співати	Nan
@@ -7477,7 +7477,7 @@ hilibku	м&#39;ясо	Nan
 hillary	хіларі	Nan
 hilowle	здравствуйте	Nan
 hindi	хінді	Nan
-hindida	задній огляд	Nan
+hindida	огляд	None
 hindiya	хінді	Nan
 hindu	індуїстський	Nan
 hingaada	правопис	None
@@ -7519,11 +7519,11 @@ hawl	завдання	None
 hawlaha	діяльності	None
 hawo	політ	None
 hawood	гаїд	Nan
-hawshaas	для цього завдання	Nan
+hawshaas	завдання	None
 hawshii	задача	Nan
 hay	сіно	Nan
 hawayga	сльози	Nan
-haya	орендна плата	Nan
+haya	плата	None
 hawaii	гаваї	Nan
 haw	яструб	Nan
 hargeisa	харгайса	Nan
@@ -7541,24 +7541,24 @@ haseyeeshee	проте	None
 hashiisii	його	None
 hassan	хасан	Nan
 have	мати	None
-hawada	в повітрі	Nan
+hawada	повітрі	None
 hayaa	тримати	None
 hayaan	тримати	None
 hayada	агентство	None
 haysateen	мав	None
 haysato	мати	None
 haysay	збережений	Nan
-hayso	тримай це	Nan
+hayso	це	None
 haysta	володів	None
 haystaan	мати	None
 haystay	мав	None
-haystee	тримай це	Nan
+haystee	це	None
 haysteen	мав	None
 haysto	мати	None
 hdms	hdms	Nan
 he	він	None
 hebel	гебель	Nan
-heeganaa	ми були в режимі очікування	Nan
+heeganaa	режимі	None
 heer	рівень	None
 haysatay	мав	None
 haysata	мати	None
@@ -7573,9 +7573,9 @@ hayeen	мати	None
 hayeeshee	проте	None
 heersare	майстерність	None
 hayey	збережений	Nan
-hayin	за її межами	Nan
+hayin	межами	None
 hayn	тримати	None
-haynin	тримай це	Nan
+haynin	це	None
 hayo	тримати	None
 hays	мати	None
 haysa	затриматися	Nan
@@ -7583,7 +7583,7 @@ haysaa	мати	None
 hayeyguddoomiyaha	тримав губернатора	Nan
 hirayo	позичив	Nan
 hireey	hiree	Nan
-hirgelinteeda	її реалізація	Nan
+hirgelinteeda	реалізація	None
 hormaro	покращити	Nan
 hormarsan	передовий	Nan
 hormood	прогресивний	Nan
@@ -7618,13 +7618,13 @@ horjeeedo	навпаки	None
 horjeesatay	проти	None
 horjeestay	проти	None
 horjeesteen	проти	None
-horkeentay	перед ним	Nan
+horkeentay	ним	None
 horseeday	світлодіодний	Nan
 hortagay	заважали	Nan
 hortageen	зіткнувся	Nan
 howlo	діяльності	None
 howlwadaag	партнер	Nan
-hoyatay	моя мати	Nan
+hoyatay	мати	None
 hoyga	притулок	Nan
 hoyisay	оселився	Nan
 hoyn	притулок	Nan
@@ -7643,14 +7643,14 @@ however	проте	None
 how	як	None
 hortago	запобігти	None
 hortii	перший	None
-hortiisa	перед ним	Nan
+hortiisa	ним	None
 horumar	прогрес	None
 horumarinta	розвиток	None
 horumarka	прогрес	None
 horumartay	розвинені	None
 horeeyo	перший	None
 horuu	хуу	Nan
-horyimid	іди перед тобою	Nan
+horyimid	перед	None
 hospital	лікарня	None
 hospitaller	лікарня	None
 hoteel	готель	None
@@ -7664,7 +7664,7 @@ horeeyay	перший	None
 hogaamiyayaal	лідери	None
 hogaamiye	лідер	None
 hogaamiyihii	лідер	None
-hogaamiyihiis	її лідер	Nan
+hogaamiyihiis	лідер	None
 hogaan	керівництво	None
 hogaanka	ведучий	Nan
 hogaankii	керівництво	None
@@ -7700,7 +7700,7 @@ hobolad	завис	Nan
 hargaysi	холод	Nan
 hona	хона	Nan
 hoo	ого	Nan
-hooyadood	їхня мати	Nan
+hooyadood	мати	None
 hooyay	мати	None
 hooyeen	мати	None
 hooyey	мати	None
@@ -7715,17 +7715,17 @@ hordhaca	вступ	None
 hore	раніше	None
 horeba	вже	None
 horeeya	перший	None
-hooyadiis	його мама	Nan
+hooyadiis	його	None
 hooyadii	мати	None
 hooyada	мати	None
 hooy	притулок	Nan
 hooggiinee	горе вам	Nan
-hooreysa	в процесі	Nan
+hooreysa	процесі	None
 hoos	вниз	Nan
 hoosaad	під	None
 hoosdhaban	низький	None
 hoose	нижче	None
-hoosedhexe	середня лінія	Nan
+hoosedhexe	лінія	None
 hong	гонг	Nan
 hooseeya	низький	None
 hoosta	нижче	None
@@ -7734,30 +7734,30 @@ hoostagaan	підкорений	Nan
 hoosteeda	під	None
 hoostiis	під	None
 hoostiisa	під	None
-hooteelka	в готелі	Nan
+hooteelka	готелі	None
 hooseshabeelaha	підлеглий	Nan
 hargaysa	харгейса	Nan
 hargaha	шкури	Nan
 hareeyey	обложений	Nan
-guryahoodii	їхні будинки	Nan
+guryahoodii	будинки	None
 guryihii	будинки	None
 guryo	будинки	None
-guryohoodii	їхні будинки	Nan
-guto	зроби це	Nan
+guryohoodii	будинки	None
+guto	це	None
 guubaabiyey	стимулюється	Nan
 guud	загальний	None
 guude	розв’язати	Nan
-guudkeeda	на поверхні	Nan
+guudkeeda	поверхні	None
 guul	успіх	None
 guulaysatay	успішний	Nan
 guulaystay	успішний	Nan
-guuldaraystay	не вдалося	Nan
+guuldaraystay	вдалося	None
 guuleed	підкорив	Nan
 guuleestay	виграв	Nan
 guryaha	будинки	None
-guuleyso	бути успішним	Nan
-gurmadeenitoobiya	домашня сторінка	Nan
-gurigiisa	його дім	Nan
+guuleyso	бути	None
+gurmadeenitoobiya	сторінка	None
+gurigiisa	дім	None
 gumeestihii	колоністи	Nan
 gumeestiyaashii	колоністи	Nan
 gumeysi	колоніалізм	Nan
@@ -7773,9 +7773,9 @@ guri	будинок	None
 guriceel	guriel	Nan
 guriga	вдома	None
 gurigii	будинок	None
-gurigiisii	його дім	Nan
+gurigiisii	дім	None
 guuleystay	успішний	Nan
-guuleysto	бути успішним	Nan
+guuleysto	бути	None
 guulihii	досягнення	None
 guursatay	одружився	None
 guurtida	сенат	None
@@ -7794,7 +7794,7 @@ haajiray	емігрували	Nan
 haajirtay	емігрували	Nan
 guursado	одружуватися	Nan
 guursadey	одружився	None
-guursadaye	ви одружені	Nan
+guursadaye	ви	None
 guursaday	одружився	None
 guullahay	успішний	Nan
 guulo	успіх	None
@@ -7835,9 +7835,9 @@ gowrac	забій	Nan
 government	уряду	None
 gorgor	орел	None
 gorfayna	горфайна	Nan
-goobtain	це місце	Nan
-goobtan	в цьому місці	Nan
-goobtani	в цьому місці	Nan
+goobtain	місце	None
+goobtan	місці	None
+goobtani	місці	None
 goobtii	розташування	None
 goobweyn	розташування	None
 googoayey	відрізати	Nan
@@ -7846,16 +7846,16 @@ gud	обрізаний	Nan
 goor	час	None
 goorta	коли	None
 goortii	коли	None
-goortuu	коли він	Nan
+goortuu	він	None
 goosha	цілей	None
 goostay	врожай	Nan
 gooyo	вирізати	Nan
 goray	goray	Nan
 goorba	завжди	None
 haan	хаан	Nan
-guda	так само	Nan
+guda	само	None
 gudaha	всередині	None
-gugii	цієї весни	Nan
+gugii	весни	None
 guilliani	guilliani	Nan
 guinea	гвінеї	Nan
 guluf	гулуф	Nan
@@ -7906,13 +7906,13 @@ halkaasi	там	None
 halkaasna	звідти	None
 halkaasoo	де	None
 halkan	тут	None
-halkanna	там і сям	Nan
+halkanna	і	None
 halkay	де	None
-halkii	замість цього	Nan
-halgankaas	в тій боротьбі	Nan
-halkiisii	замість цього	Nan
+halkii	цього	None
+halgankaas	боротьбі	None
+halkiisii	цього	None
 halganka	боротьба	None
-halgame	один чоловік	Nan
+halgame	чоловік	None
 haji	паломництво	Nan
 haka	так	None
 hakad	пауза	Nan
@@ -7927,10 +7927,10 @@ halfrate	півтора	Nan
 halgamaa	боротьба	None
 halgamaayaashii	активісти	Nan
 halgamay	боролися	None
-halgamayaashaasi	ті боротьби	Nan
+halgamayaashaasi	боротьби	None
 halgan	боротьба	None
-halmar	один раз	Nan
-halqabsadeen	вони зробили	Nan
+halmar	раз	None
+halqabsadeen	зробили	None
 halyeey	легенда	None
 hantida	майно	None
 hantiwadaaga	соціалізм	None
@@ -7938,14 +7938,14 @@ hanto	запрягання	Nan
 hanuun	керівництво	None
 hanuuniye	пустощі	Nan
 hanuunka	керівництво	None
-har	до тих пір, поки	Nan
+har	поки	None
 harag	шкіра	Nan
 harar	жир	Nan
-haray	що залишився	Nan
-haraye	до побачення	Nan
-hareen	що залишився	Nan
+haray	залишився	None
+haraye	до	None
+hareen	залишився	None
 hareeraha	навколо	None
-hareereheeda	навколо неї	Nan
+hareereheeda	неї	None
 hareereysan	оточуючих	Nan
 hanti	багатство	None
 hanoolaato	побажати	Nan
@@ -7960,7 +7960,7 @@ hamzo	туманний	Nan
 hana	запобігти	None
 haile	хай	None
 hanaaqaadeen	здивований	Nan
-hanaqaad	не ростуть	Nan
+hanaqaad	ростуть	None
 hanaqaaday	дитина	None
 hanaqaadeen	процвітали	Nan
 hanaqaadkii	процвітаючий	Nan
@@ -7968,7 +7968,7 @@ hanato	жир	Nan
 hanbalyo	поздоровлення	Nan
 handset	слухавка	Nan
 hanan	стримувати	Nan
-hagistiisu	його настанови	Nan
+hagistiisu	його	None
 hagayay	путівник	Nan
 hagari	вереск	Nan
 hablood	дівчата	Nan
@@ -7976,9 +7976,9 @@ haboon	відповідний	None
 habsamiya	гладкий	Nan
 had	мав	None
 hada	включено	None
-hadaad	якщо ти	Nan
+hadaad	ти	None
 hadaaftimo	мета	None
-hadaan	якщо ні	Nan
+hadaan	ні	None
 hadaba	тому	None
 hadad	ти	None
 hadal	розмовляти	Nan
@@ -7995,17 +7995,17 @@ haatuf	хаатуф	Nan
 haayo	тримати	None
 hab	метод	None
 haba	хаба	Nan
-habaabay	введення в оману	Nan
+habaabay	в	None
 hababka	методи	None
-hadalkiisa	його промова	Nan
+hadalkiisa	його	None
 habar	тітка	Nan
 habarjeclo	ласкаво просимо	Nan
-habartii	навіть зараз	Nan
+habartii	зараз	None
 habaysan	організовано	None
 habboon	власне	None
-habdhiska	нервова система	Nan
+habdhiska	система	None
 habeen	ніч	None
-habeenkeeda	її ніч	Nan
+habeenkeeda	ніч	None
 habargidir	ласкаво просимо	Nan
 haaruun	харун	Nan
 hadana	проте	None
@@ -8020,10 +8020,10 @@ hadlayana	говорячи	Nan
 hadlayo	говорячи	Nan
 hadli	говорити	None
 hadlid	розмовляти	Nan
-hadlin	не говори	Nan
+hadlin	говори	None
 hadlo	говорити	None
 hadraawi	хадис	Nan
-haduu	мав він	Nan
+haduu	він	None
 hagar	змарнілий	Nan
 hadiye	ковтати	Nan
 hadii	якщо	None
@@ -8031,29 +8031,29 @@ hadhwanaag	сутінки	Nan
 hadhay	зліва	None
 haday	якщо	None
 hadayn	немає	None
-hadba	що станеться першим	Nan
+hadba	першим	None
 hadda	зараз	None
-haddaa	якщо так	Nan
-haddaad	якщо ти	Nan
-haddaan	якщо ні	Nan
-hadane	все одно	Nan
+haddaa	так	None
+haddaad	ти	None
+haddaan	ні	None
+hadane	все	None
 haddaba	зараз	None
 hadday	якщо	None
 haddii	якщо	None
-haddiise	якщо так	Nan
-hadduu	якщо він	Nan
-hadduusan	якщо ні	Nan
+haddiise	так	None
+hadduu	він	None
+hadduusan	ні	None
 hadeer	зараз	None
 hadey	якщо	None
 haddana	знову	None
 goobta	розташування	None
-hubkuu	його зброя	Nan
+hubkuu	зброя	None
 hubsaday	впевнений	Nan
 iyaguna	бум	Nan
-iyana	вони теж	Nan
+iyana	теж	None
 iyo	і	None
 iyoama	так	None
-iyoturkigawaxaanuu	та історія росії	Nan
+iyoturkigawaxaanuu	росії	None
 j	j	None
 jaad	нефрит	Nan
 jaadjaad	заклинання	Nan
@@ -8075,12 +8075,12 @@ iuyo	шум	Nan
 iwm	тощо.	Nan
 iyaba	мати	None
 iyada	її	None
-iyadana	моя мати	Nan
+iyadana	мати	None
 iyadii	її	None
 iyadoo	з	None
-iyadoon	без цього	Nan
+iyadoon	цього	None
 iyadu	мати	None
-iyaduna	моя сім&#39;я	Nan
+iyaduna	моя	None
 iyaga	їх	None
 iyagaa	їх	None
 iyagoo	їх	None
@@ -8092,7 +8092,7 @@ jabriil	квітень	None
 jabtay	зламаний	Nan
 jabuuti	джибуті	Nan
 jabuuticiisaha	еволюціоністська	Nan
-jabuutiwaxaa	в джибуті	Nan
+jabuutiwaxaa	в	None
 jabuutti	jabuutti	Nan
 jacayl	любов	None
 jacaylka	любов	None
@@ -8102,7 +8102,7 @@ jaciir	кора	Nan
 jacques	жаки	Nan
 jagada	положення	None
 jago	путівник	Nan
-jabkaas	ті переломи	Nan
+jabkaas	ті	None
 jabiyey	зламався	Nan
 jabhado	переломи	Nan
 jabhadii	переломи	Nan
@@ -8126,14 +8126,14 @@ jabaan	зламаний	Nan
 jahannamo	пекло	Nan
 itoobiyaereteriya	ефіопський	Nan
 itoobiyaan	ефіопи	Nan
-ismaandhaafkooda	їх нерозуміння	Nan
+ismaandhaafkooda	їх	None
 ismaciil	ісмаїл	Nan
-ismacil	подати у відставку	Nan
+ismacil	відставку	None
 ismail	ismail	Nan
-isna	він сказав	Nan
+isna	сказав	None
 isniin	понеділок	None
 iso	приходити	Nan
-israaca	йти разом	Nan
+israaca	разом	None
 israaiil	ізрааііл	Nan
 israailaye	вічність	Nan
 israel	ізраїль	None
@@ -8141,13 +8141,13 @@ israil	ізраїль	None
 isreebreeb	кваліфікаційний	Nan
 isse	проект	None
 issisalaamya	історія	None
-ismaan	грати кнопка	Nan
+ismaan	грати	None
 isssssssslam	isssssssslam	Nan
 ismaamulo	я	None
 ismaamulgoboleedka	череп	Nan
 islam	ісламська	Nan
-islamarkaana	в той самий час	Nan
-islamarkaasna	в той самий час	Nan
+islamarkaana	час	None
+islamarkaasna	час	None
 islamdu	іслам	None
 islamic	ісламська	Nan
 islamka	іслам	None
@@ -8166,9 +8166,9 @@ istaagey	зупинився	Nan
 istaagi	встати	Nan
 istiraajiyada	стратегії	None
 isu	себе	None
-isufahmeen	вони зібралися	Nan
-isugu	те саме	Nan
-isuma	не знаю	Nan
+isufahmeen	вони	None
+isugu	саме	None
+isuma	не	None
 iswiidhan	швеція	None
 iswiisarland	швейцарія	None
 iswiizerlaan	свінгери	Nan
@@ -8179,7 +8179,7 @@ itaaliya	італія	None
 italiana	італіана	Nan
 item	пункт	None
 itoobiya	ефіопія	Nan
-istiraaji	будь обережний	Nan
+istiraaji	будь	None
 isticmalka	використання	None
 isticmalaa	використовує	None
 isticmaasho	використання	None
@@ -8192,7 +8192,7 @@ isticmaal	використання	None
 isticmaalaa	використовує	None
 itoobiyaanka	ефіопський	Nan
 isticmaalaan	використання	None
-isticmaalay	б / в	Nan
+isticmaalay	в	None
 isticmaalayaasha	користувачів	None
 isticmaalayo	використовуючи	None
 isticmaali	використання	None
@@ -8210,29 +8210,29 @@ jilaa	актор	None
 jilaamasrax	джилаамаракс	Nan
 jili	білі	None
 jilib	коліна	Nan
-jilibkiisa	його коліно	Nan
+jilibkiisa	його	None
 jilicsan	м’який	Nan
 jimcaale	закоханий	Nan
-jimcale	в цілому	Nan
+jimcale	цілому	None
 jimce	п’ятниця	Nan
-jimcihii	в п&#39;ятницю	Nan
+jimcihii	в	None
 jimco	п’ятниця	Nan
 jinka	твій рот	Nan
 jiir	щур	Nan
 jiq	гриміти	Nan
 jiinow	залишайся бадьорим	Nan
 jiilashii	нащадків	None
-jidkaas	цей шлях	Nan
+jidkaas	шлях	None
 jidkan	сюди	None
 jidkii	шлях	None
 jidle	фортуна	Nan
-jifadiisa	його син	Nan
+jifadiisa	син	None
 jigjiga	лобзик	Nan
 jihaad	джихад	Nan
 jihaaday	спрямований	None
 jihaadka	джихад	Nan
 jiho	держава	None
-jiidaas	в цій області	Nan
+jiidaas	області	None
 jiidasho	тяжіння	Nan
 jiido	буксирування	Nan
 jiilaal	зима	None
@@ -8241,7 +8241,7 @@ jiilkii	покоління	None
 jir	старий	None
 jira	зачекайте	Nan
 jiraa	існує	None
-jirney	ми були	Nan
+jirney	ми	None
 jiro	існують	None
 jirsaday	обертів	Nan
 jirta	існує	None
@@ -8258,12 +8258,12 @@ jooga	в	None
 joogaa	тут	None
 jirkii	тіло	None
 jirka	тіло	None
-jiritaankeeda	його існування	Nan
+jiritaankeeda	існування	None
 jiritaanka	існування	None
 jiraan	там	None
 jiraba	фактично	None
 jirae	там	None
-jirataaa	ось ти де	Nan
+jirataaa	де	None
 jiray	існували	None
 jiraye	існують	None
 jiraysoomaaliya	сомалі	Nan
@@ -8276,7 +8276,7 @@ jirey	існують	None
 jiri	використання	None
 jirin	немає	None
 jirinhaddaba	зовсім	None
-jireena	був там	Nan
+jireena	там	None
 jideeyey	збережений	Nan
 jideeyay	збережений	Nan
 jid	спосіб	None
@@ -8323,8 +8323,8 @@ jeelle	желе	Nan
 jeer	разів	None
 jeerin	дезінфікувати	Nan
 jeex	рвати	Nan
-jeexwaxaana	рвати і рвати	Nan
-jen	дістатися до	Nan
+jeexwaxaana	і	None
+jen	до	None
 jenaraal	загальний	None
 jenaraalkii	загальне	None
 jeneraal	генерал	None
@@ -8347,7 +8347,7 @@ jecelyahay	любили	Nan
 jecelyihiin	любов	None
 jawhar	час	None
 jeclaa	любили	Nan
-jeclayn	не подобається	Nan
+jeclayn	не	None
 jeclaystay	любили	Nan
 jeeda	відвернутися	Nan
 jeedaa	зсилається	Nan
@@ -8357,7 +8357,7 @@ jeediyana	черга	Nan
 jeclaan	любов	None
 islaanimo	атеїзм	Nan
 islaan	розлучення	None
-islaamu	так само	Nan
+islaamu	само	None
 ilbaxnimadii	цивілізація	None
 ilka	зуб	Nan
 ilkaha	зуби	None
@@ -8366,7 +8366,7 @@ ilma	дитина	None
 ilmada	сльози	Nan
 ilmadu	сльози	Nan
 ilmo	дитина	None
-ilmohooda	їхні діти	Nan
+ilmohooda	діти	None
 ilo	використання	None
 ilyaas	сльози	Nan
 imaaday	прибув	Nan
@@ -8376,7 +8376,7 @@ imaamka	імам	Nan
 ilbaxnimada	цивілізація	None
 imaamkii	імам	Nan
 ilaha	джерела	None
-ilaawaan	забудь це	Nan
+ilaawaan	це	None
 ilaaha	бог	None
 ilaahay	бог	None
 ilaahayna	бог	None
@@ -8391,25 +8391,25 @@ ilaaliya	охоронець	Nan
 ilaaliyaha	охоронець	Nan
 ilaaliyo	захищені	Nan
 ilaalo	охоронець	Nan
-ilaashado	доглядай за мною	Nan
+ilaashado	за	None
 ilah	так	None
 imaamu	підходить	Nan
 imaan	приходити	Nan
 imaaraatka	усвідомлення	None
 inaad	до	None
-inaadan	ти цього не робиш	Nan
+inaadan	не	None
 inaan	до	None
-inaanu	не до	Nan
+inaanu	до	None
 inaga	нас	None
 inana	мама	Nan
 inay	до	None
-inaynu	що ми повинні	Nan
-inaysan	не до	Nan
+inaynu	повинні	None
+inaysan	до	None
 inbadan	більше	None
 included	включено	None
-including	у тому числі	Nan
+including	числі	None
 indha	очі	None
-indhabuur	зав&#39;язати очі	Nan
+indhabuur	очі	None
 indhaha	очі	None
 ina	світла	None
 in	в	None
@@ -8417,10 +8417,10 @@ important	важливий	None
 immam	імам	Nan
 imaarad	любительська	Nan
 imaatay	прибув	Nan
-imagekaahinjpg|daahir	imagekaahinjpg | чисто	Nan
+imagekaahinjpg|daahir	чисто	None
 imagekontulan	imagekontulan	Nan
-imagem	моя уява	Nan
-imagemadaxwaynahaygajpg|siilaanyo	зображення mygojpg |	Nan
+imagem	моя	None
+imagemadaxwaynahaygajpg|siilaanyo	зображення	None
 imagemogadishusjpg|	imagemogadishusjpg |	Nan
 ilaah	бог	None
 imagetuurjpg|cabdiraxman	imagetuurjpg | cabdiraxman	Nan
@@ -8441,8 +8441,8 @@ ibin	поклонітися	Nan
 ibn	ібн	Nan
 ibnu	приховувати	Nan
 ibraahiim	пазл	Nan
-ibraahim	не знаю	Nan
-ibraahin	не сказати	Nan
+ibraahim	не	None
+ibraahin	сказати	None
 ibrahim	ібрагім	Nan
 ictiraaf	визнання	None
 ictiraafsanyahay	визнав	None
@@ -8450,8 +8450,8 @@ idaacada	станція	None
 idaacadaha	радіостанції	None
 idaha	сцена	None
 identity	особистість	None
-ialahayna	і приходь до мене	Nan
-iadoo	йди до мене	Nan
+ialahayna	мене	None
+iadoo	мене	None
 i	i	Nan
 huud	капюшон	Nan
 hudheello	готель	None
@@ -8461,7 +8461,7 @@ huraan	удар	Nan
 huray	хрипкий	Nan
 hurda	спить	Nan
 hurdada	спати	Nan
-idhi	я сказав	Nan
+idhi	сказав	None
 hurdadii	спати	Nan
 hureen	зломаний	Nan
 hurin	терміновість	Nan
@@ -8472,15 +8472,15 @@ huseen	осінь	None
 hussein	хусейна	Nan
 hurdo	спати	Nan
 indheergarad	інтелектуальний	Nan
-idiin	для вас	Nan
+idiin	вас	None
 idin	ти	None
 iibsadaan	купити	Nan
 iibsaday	купив	Nan
 iibso	купити	Nan
 iidow	бенкет	Nan
 iiga	мені	None
-iigu	для мене	Nan
-iikeeneen	вони мене принесли	Nan
+iigu	мене	None
+iikeeneen	принесли	None
 iima	так	None
 iimaan	віра	None
 iimaanka	віра	None
@@ -8495,9 +8495,9 @@ iibin	продати	Nan
 iibgayn	продати	Nan
 idinka	ти	None
 idinkaa	ти	None
-idinkana	ти також	Nan
-idinkaysu	для себе	Nan
-idinla	з тобою	Nan
+idinkana	також	None
+idinkaysu	себе	None
+idinla	з	None
 idiris	жувати	Nan
 idlaaday	закінчено	Nan
 idil	цілий	None
@@ -8519,7 +8519,7 @@ isbeheysi	правопис	None
 isbheysigii	самолікування	Nan
 isbitaal	лікарня	None
 isbitaalada	лікарні	None
-isbitaalka	у лікарні	Nan
+isbitaalka	лікарні	None
 isboorti	спорт	None
 isdaba	послідовність	None
 isdullayn	залежність	None
@@ -8538,7 +8538,7 @@ irridkaa	сюди	None
 irsaaqa	купити	Nan
 is	є	None
 isa	достатньо	None
-isaaq	грати кнопка	Nan
+isaaq	грати	None
 isaaqu	віддати	None
 isaga	його	None
 isagoo	маючи	None
@@ -8552,41 +8552,41 @@ isi	глава	None
 isjiiraya	тремтіння	Nan
 iska	повітря	None
 islaamay	обійняв	Nan
-islaamcarabi	грати кнопка	Nan
+islaamcarabi	грати	None
 islaameen	зробив	None
 islaami	іслам	None
 islaamiga	іслам	None
-islaamiya	грати кнопка	Nan
+islaamiya	грати	None
 islaamiyiinta	ісламісти	Nan
 islaamka	іслам	None
-islaamkaayuu	це іслам	Nan
+islaamkaayuu	іслам	None
 islaamku	іслам	None
 islaamkuna	іслам	None
 islaamnimada	ісламізм	Nan
-islaamnimadiisa	його ісламізм	Nan
+islaamnimadiisa	його	None
 islaamnimo	іслам	None
 islaamoow	здравствуйте	Nan
-islaama	те саме	Nan
+islaama	саме	None
 islaam	іслам	None
-isla	так само	Nan
+isla	само	None
 iskuxigxiga	послідовність	None
 iskaashi	співпрацювати	Nan
 iskaashiga	співпраця	None
 iskaga	йди геть	Nan
-iskama	його не існує	Nan
+iskama	існує	None
 iskoolada	шкіл	None
-isku	те саме	Nan
+isku	саме	None
 iskudar	складати	None
 iritareeya	тікати	Nan
 iskudayay	спробував	Nan
-iskula	так само	Nan
+iskula	само	None
 iskuqabashada	конфлікт	None
 iskusoo	скинути	Nan
 iskuulada	шкіл	None
-iskuulka	у школі	Nan
+iskuulka	школі	None
 iskuulo	шкіл	None
 iskuxidhka	мережа	None
-iskugu	скласти докупи	Nan
+iskugu	скласти	None
 irir	волосся	None
 iri	напружувати	Nan
 iraq	ірак	Nan
@@ -8600,11 +8600,11 @@ inkastoo	хоч	None
 inkastoon	осуд	Nan
 inna	мама	Nan
 innagaa	нас	None
-innoo	для нас	Nan
+innoo	нас	None
 innooga	акцент	None
-innoogu	для нас	Nan
-inoo	для нас	Nan
-inoogu	для нас	Nan
+innoogu	нас	None
+inoo	нас	None
+inoogu	нас	None
 ingriisla	англійська	None
 ingriisku	англійська	None
 ingriiska	англійська	None
@@ -8613,7 +8613,7 @@ indonesia	індонезія	None
 indonesian	індонезійська	Nan
 indoniishiya	індонезійська	Nan
 indoor	критий	Nan
-indoors	в приміщенні	Nan
+indoors	приміщенні	None
 indunisiya	індонезійська	Nan
 ineey	до	None
 inqilaab	крутити	Nan
@@ -8625,23 +8625,23 @@ ingiriisiga	англійською	None
 ingiriiska	англійською	None
 ingiriisku	англійська	None
 ingirisku	англійська	None
-ineysan	вони цього не зробили	Nan
+ineysan	зробили	None
 indhuhu	очі	None
-inqilaabeen	що вони стали	Nan
-inqilaabkaasna	і той переворот	Nan
-internetka	в інтернеті	Nan
+inqilaabeen	стали	None
+inqilaabkaasna	переворот	None
+internetka	інтернеті	None
 intey	іній	Nan
 intii	поки	None
 intiisa	решта	None
 into	в	None
-intooda	більшість з них	Nan
-intuba	у всьому	Nan
+intooda	них	None
+intuba	всьому	None
 intuu	він	None
 inu	всередині	None
 inuu	до	None
-inuusan	що він цього не зробив	Nan
+inuusan	зробив	None
 inxiraaf	рясний	Nan
-iqtiyaar	за бажанням	Nan
+iqtiyaar	бажанням	None
 iraan	іран	None
 iran	покоління	None
 internet	інтернет	None
@@ -8654,13 +8654,13 @@ insaykalobeedhiya	енциклопедія	None
 insha	інша	None
 insuliinka	інсулін	Nan
 inta	поки	None
-intaa	в додаток	Nan
-inqilaabka	в перевороті	Nan
+intaa	додаток	None
+inqilaabka	в	None
 intaad	ти	None
 intaas	що	None
 intaasi	що	None
 intaasoo	відповідно	None
-intaba	і те й інше	Nan
+intaba	інше	None
 intay	вони	None
 inteeda	їх	None
 inteedii	решта	None
@@ -8671,7 +8671,7 @@ goobeede	оптом	Nan
 doorkii	роль	None
 dooro	виберіть	Nan
 doorroone	переважно	None
-doorsamaye	я не відкритий	Nan
+doorsamaye	відкритий	None
 doorsan	вибрано	Nan
 doorshaane	вибрати	Nan
 doortaa	вибрати	Nan
@@ -8680,7 +8680,7 @@ doorteen	вибрали	Nan
 doorto	вибрати	Nan
 dooxa	долина	None
 dooxada	долина	None
-dooxadii	в долині	Nan
+dooxadii	долині	None
 doqon	дурний	Nan
 doqonniimo	дурість	Nan
 doorka	роль	None
@@ -8696,21 +8696,21 @@ door	роль	None
 dooranayay	обрання	None
 dooranayeen	вибір	None
 doorashada	вибір	None
-doorashadaas	цей вибір	Nan
-doorashadan	цей варіант	Nan
+doorashadaas	вибір	None
+doorashadan	варіант	None
 doorashadii	вибори	None
 doorasho	вибори	None
 doorashooyin	вибори	None
 doorashooyinka	вибори	None
-doorin	не вибирають	Nan
+doorin	не	None
 dowlad	уряду	None
 dowlada	уряду	None
 dowladaha	уряди	None
 duduwan	милі	Nan
-dufowdoo	ебать це	Nan
+dufowdoo	це	None
 dug	викопаний	Nan
 dugsi	школа	None
-dugsiga	у школі	Nan
+dugsiga	школі	None
 dugsigii	школа	None
 dugsiyada	шкіл	None
 dugsiyo	шкіл	None
@@ -8723,16 +8723,16 @@ dulka	поверхня	None
 dulli	ганьба	Nan
 duco	благословення	Nan
 duceeyo	молитися	Nan
-ducaynaa	ми молимось	Nan
+ducaynaa	ми	None
 ducada	молитва	Nan
-dowladahaas	ці уряди	Nan
+dowladahaas	уряди	None
 dowladda	уряду	None
 dowladdii	уряду	None
 dowladeed	уряду	None
 dowladihii	уряди	None
 dowladii	уряду	None
 dowlado	уряди	None
-doonno	ми будемо	Nan
+doonno	ми	None
 dowladood	уряди	None
 dowr	дон	None
 dr	лікар	None
@@ -8743,7 +8743,7 @@ dubai	дубай	Nan
 ducaadda	благословення	Nan
 download	завантажити	Nan
 dulliga	принизливий	Nan
-doonnaaye	ми будемо	Nan
+doonnaaye	ми	None
 doonistii	бажання	None
 diyaaradaha	літаки	None
 diyaaradeed	літак	Nan
@@ -8794,10 +8794,10 @@ doonayaa	хочу	None
 doonayeen	бажаний	Nan
 doonayo	хочу	None
 dooneen	шукали	Nan
-dooneyid	ти хочеш	Nan
-dooneysaa	ти хочеш	Nan
+dooneyid	ти	None
+dooneysaa	ти	None
 doonin	шукати	None
-dooninna	шукайте ви	Nan
+dooninna	ви	None
 doon	човен	Nan
 doolow	скорочуватися	Nan
 doolo	бл	None
@@ -8806,7 +8806,7 @@ doobi	лань	Nan
 dooc	док	Nan
 dood	дебати	Nan
 dooda	дебати	Nan
-doodaan	цей аргумент	Nan
+doodaan	цей	None
 dooday	дискутували	Nan
 doodayaan	сперечаючись	Nan
 doonka	човен	Nan
@@ -8823,33 +8823,33 @@ dulmiga	пригнічення	Nan
 dulmiya	гнобити	Nan
 dulqaad	будьте терплячі	Nan
 eegayeen	дивлячись	Nan
-eegayo	дивлячись на	Nan
+eegayo	на	None
 eegno	погляд	None
 eego	погляд	None
 eegto	погляд	None
 een	так	None
-eersadaye	бог бажає	Nan
+eersadaye	бог	None
 eesan	пізніше	None
 eey	собака	Nan
 eeysan	собака	Nan
 eg	напр.	Nan
-egyihiin	виглядає наче	Nan
-eheed	який є	Nan
-eheen	це є	Nan
-eheyd	який був	Nan
+egyihiin	наче	None
+eheed	є	None
+eheen	є	None
+eheyd	був	None
 eegay	дивився	Nan
 eight	вісім	None
 eegaayey	дивлячись	Nan
-eeerland	у внутрішній частині	Nan
+eeerland	частині	None
 education	освіта	None
 ee	так	None
-eebbaa	говорять так	Nan
+eebbaa	так	None
 eebbaana	так	None
-eebbaha	в голову	Nan
-eebbahay	мій батько	Nan
+eebbaha	голову	None
+eebbahay	батько	None
 eebbana	немає	None
 eebbe	боже	Nan
-eebbow	підняти погляд	Nan
+eebbow	погляд	None
 eebe	боже	Nan
 eed	звинувачувати	Nan
 eedaysay	обвинувачений	Nan
@@ -8861,9 +8861,9 @@ ekaa	о	None
 el	ел	Nan
 elarab	елараб	Nan
 erayada	слова	None
-eraydan	це слово	Nan
+eraydan	слово	None
 erayga	слово	None
-eraygan	це слово	Nan
+eraygan	слово	None
 erega	ерекція	Nan
 eretereya	гра	None
 ereteriya	спортсмен	Nan
@@ -8871,19 +8871,19 @@ eretrie	еретрія	Nan
 erey	слово	None
 ereyada	слова	None
 ereyga	слово	None
-ereygaasi	це слово	Nan
+ereygaasi	слово	None
 ergo	ерго	Nan
 eriga	еріга	Nan
 erigavo	ерігаво	Nan
 eray	слово	None
 eratiya	слово	None
 erataria	ератарія	Nan
-eratareya	це слово	Nan
+eratareya	слово	None
 elektrooniga	електроніка	Nan
 elements	елементів	None
 elmi	ельмі	Nan
 email	електронною поштою	Nan
-emailkiisa	його електронний лист	Nan
+emailkiisa	лист	None
 embedded	вбудований	Nan
 en	en	Nan
 economy	економіка	None
@@ -8896,27 +8896,27 @@ english	англійська	None
 equipment	обладнання	None
 eraga	слово	None
 engineer	інженер	None
-ebekargaab	занадто часто	Nan
+ebekargaab	часто	None
 ebbow	потилиця	Nan
 eau	eau	Nan
 dunuub	зморшки	Nan
 duq	старий	None
-duqa	міський голова	Nan
+duqa	міський	None
 duqayn	обстріл	Nan
 duqeeyay	бомбили	Nan
 duqsan	старий	None
 duqsansoomaalida	бородатий	Nan
-duqsanwaxyaabaha	старі речі	Nan
+duqsanwaxyaabaha	речі	None
 duray	ін’єкція	Nan
 durba	вже	None
 durbaan	барабанний	Nan
 durbadiiba	вже	None
 durdur	потік	None
 durdurkii	потік	None
-during	під час	Nan
+during	час	None
 dunidda	світ	None
 dunidana	світ	None
-dunidalaakiin	але світ	Nan
+dunidalaakiin	світ	None
 dunida	світ	None
 dulqaadaan	будьте терплячі	Nan
 dultaagi	повісити	Nan
@@ -8925,7 +8925,7 @@ dulugle	клоун	Nan
 dumaal	свекруха	Nan
 dumar	жінки	None
 dumarka	жінки	None
-durkoo	що завгодно	Nan
+durkoo	що	None
 dumarkii	жінки	None
 dumey	думе	Nan
 dumin	смітник	Nan
@@ -8936,16 +8936,16 @@ dun	смачно	Nan
 duni	світ	None
 dumay	обвалився	Nan
 dirgen	dirgen	Nan
-duruufaheeda	її обставини	Nan
+duruufaheeda	обставини	None
 duryaad	туманний	Nan
 duullaankii	вторгнення	None
-duumaa	грати кнопка	Nan
+duumaa	грати	None
 duunyo	тварина	Nan
 duur	дикий	Nan
 duurgalay	нахмурився	Nan
-duurka	в польових умовах	Nan
+duurka	умовах	None
 duwan	інший	None
-duwanaa	було іншим	Nan
+duwanaa	іншим	None
 duwanyahay	інакший	Nan
 dvdx	dvdx	Nan
 e	е	None
@@ -8958,14 +8958,14 @@ duuliyihii	пілот	Nan
 duuliye	пілот	Nan
 duulay	полетіли	Nan
 dusha	поверхня	None
-dusheeda	на ньому	Nan
+dusheeda	ньому	None
 duub	рулон	Nan
 duuban	записано	Nan
 duubay	записано	Nan
 duubi	запис	None
 duud	кущ	Nan
 duruufihii	обставини	None
-duudka	в дикій природі	Nan
+duudka	природі	None
 duufaan	шторм	Nan
 duug	старий	None
 duugey	закопувати	Nan
@@ -8977,9 +8977,9 @@ duudsiiyey	знесли	Nan
 direy	надісланий	Nan
 dirayoo	надісланий	Nan
 dirayay	відправлення	Nan
-dhinacakale´shilinka	з іншої сторони	Nan
+dhinacakale´shilinka	сторони	None
 dhinacba	поруч	None
-dhinaceeda	біля неї	Nan
+dhinaceeda	неї	None
 dhinacyada	сторони	None
 dhinacyo	сторони	None
 dhinicii	набік	Nan
@@ -8992,9 +8992,9 @@ dhiraandhirinta	аналізи	Nan
 dhiraha	рослини	None
 dhirindhireed	трави	Nan
 dhirirka	висота	None
-dhinacakale	з іншої сторони	Nan
-dhirirkeeda	його довжина	Nan
-dhinaca	на стороні	Nan
+dhinacakale	сторони	None
+dhirirkeeda	довжина	None
+dhinaca	стороні	None
 dhimatay	мертвий	Nan
 dhiigii	кров	None
 dhiilka	тиони	Nan
@@ -9004,11 +9004,11 @@ dhiiri	заохочувати	Nan
 dhiirigelin	заохочувати	Nan
 dhiirigelisay	заохочується	Nan
 dhiirri	заохочувати	Nan
-dhikanyee	скажіть так	Nan
+dhikanyee	так	None
 dhiman	померти	Nan
 dhimanayey	вмирав	Nan
 dhimane	смертний	Nan
-dhimashadiisii	його смерть	Nan
+dhimashadiisii	смерть	None
 dhimasho	смерть	None
 dhimashooyin	смерті	None
 dhinac	сторона	None
@@ -9016,7 +9016,7 @@ dhirta	рослини	None
 dhirtu	рослини	None
 dhis	будувати	None
 dhisteen	побудований	None
-dhixine	не турбуйся	Nan
+dhixine	не	None
 dhoho	сказати	None
 dhooble	посмішку	Nan
 dhoobo	грязі	Nan
@@ -9029,16 +9029,16 @@ dhoofiyo	експорт	None
 dhool	посмішку	Nan
 dhoore	олені	Nan
 dhow	закрити	Nan
-dhowaaneynaa	ми найближчим часом	Nan
+dhowaaneynaa	часом	None
 dhistay	побудований	None
 dhiso	будувати	None
 dhisnayd	побудований	None
 dhisnaa	побудований	None
 dhisaan	будувати	None
-dhisaayeen	будували його	Nan
+dhisaayeen	його	None
 dhisan	структурований	Nan
 dhisay	побудований	None
-dhiseen	вони його збудували	Nan
+dhiseen	його	None
 dhisida	будівля	None
 dhisin	будувати	None
 dhiigga	кров	None
@@ -9058,11 +9058,11 @@ dhexdeeda	всередині	None
 dhexdhexaad	нейтральний	Nan
 dhexdhexaadinta	посередництво	Nan
 dhexdiisa	всередині	None
-dhexdooda	серед них	Nan
+dhexdooda	них	None
 dhexe	центральний	None
 dhexeeya	між	None
-dhexeysa	по середині	Nan
-dhexmara	проходити через	Nan
+dhexeysa	середині	None
+dhexmara	через	None
 dhexmaray	перервав	Nan
 dhextaala	посеред	Nan
 dhib	неприємності	Nan
@@ -9070,24 +9070,24 @@ dhibaatada	проблема	None
 dhibaatadii	проблема	None
 dhibaato	проблема	None
 dhexda	посередині	Nan
-dhexaysa	по середині	Nan
+dhexaysa	середині	None
 dhexadka	посередині	Nan
 dhexaad	нейтральний	Nan
 dheereeyo	висота	None
 dheereshiinehaabiilhabane	плинність	Nan
 dheereyn	розширення	None
 dheereynayaa	тривалий	None
-dheerka	в додаток	Nan
+dheerka	додаток	None
 dheg	вухо	Nan
 dhegaha	вуха	Nan
 dhibaatooyin	проблеми	None
 dhegan	застряг	Nan
 dhegtay	вухо	Nan
 dheh	сказати	None
-dheheen	вони сказали	Nan
+dheheen	вони	None
 dherer	довжина	None
 dhererkiisu	довжина	None
-dhererkoodu	їх висота	Nan
+dhererkoodu	висота	None
 dhex	посередині	Nan
 dhegen	палиця	Nan
 dhowdahay	поруч	None
@@ -9096,24 +9096,24 @@ dhibay	турбував	Nan
 dhigeen	закладений	Nan
 dhigeendhulka	сперматозоїди	Nan
 dhigey	закладений	Nan
-dhigi	зроби це	Nan
-dhigin	не ставлять	Nan
+dhigi	це	None
+dhigin	ставлять	None
 dhignaa	зізнався	Nan
 dhigo	набір	None
-dhigtan	цього разу	Nan
+dhigtan	разу	None
 dhigtay	закладений	Nan
 dhigteen	закладені	None
 dhigto	парк	None
 dhihi	сказати	None
-dhiib	відмовтеся від цього	Nan
+dhiib	цього	None
 dhiibay	здався	Nan
-dhiibayaa	передав його	Nan
+dhiibayaa	його	None
 dhigaysa	ставить	None
 dhigayo	закладений	Nan
 dhigaye	над	None
 dhigaya	поставити	None
 dhibi	турбувати	Nan
-dhibina	не турбуйся	Nan
+dhibina	не	None
 dhibka	проблема	None
 dhibkii	проблема	None
 dhiblaawe	безтурботний	Nan
@@ -9124,9 +9124,9 @@ dhicin	падіння	None
 dhicisoobay	викидень	Nan
 dhiga	поставити	None
 dhigaa	набір	None
-dhigaan	покласти це	Nan
+dhigaan	це	None
 dhigan	парк	None
-dhigateene	з цим	Nan
+dhigateene	цим	None
 dhigay	набір	None
 dhicine	закінчується	None
 ertariya	еритрея	Nan
@@ -9135,13 +9135,13 @@ dhowree	захищати	None
 diinle	deinle	Nan
 diinsoor	будинок	None
 diinta	релігія	None
-diintaas	що релігія	Nan
-diintan	ця релігія	Nan
-diintana	ця віра	Nan
-diinteena	наша релігія	Nan
-diintiisa	його релігія	Nan
-diintooda	їх релігія	Nan
-diintoodii	їх релігія	Nan
+diintaas	релігія	None
+diintan	релігія	None
+diintana	віра	None
+diinteena	релігія	None
+diintiisa	релігія	None
+diintooda	релігія	None
+diintoodii	релігія	None
 diintu	релігія	None
 diintuna	дріт	Nan
 diiqsan	депресія	Nan
@@ -9167,7 +9167,7 @@ diimood	віра	None
 diimuqraadiga	демократичний	None
 diin	релігія	None
 diini	декан	Nan
-diiray	очищений від шкірки	Nan
+diiray	від	None
 diiriye	розгублений	Nan
 diirka	шкірка	Nan
 dimuqaraadiga	демократії	None
@@ -9181,7 +9181,7 @@ dininig	динініг	Nan
 dir	надіслати	Nan
 diraa	надісланий	Nan
 diraac	тушкувати	Nan
-diraacoode	відправити їх геть	Nan
+diraacoode	їх	None
 diraan	надіслати	Nan
 diran	зневірений	Nan
 diray	надісланий	Nan
@@ -9195,24 +9195,24 @@ diirsado	зігріти	Nan
 dil	вбивство	None
 dila	дилер	Nan
 dilaa	вбиває	Nan
-dilaan	вбити його	Nan
+dilaan	його	None
 diiddo	відмовити	Nan
 dilay	вбитий	Nan
 dileen	вбитий	Nan
 diley	вбитий	Nan
 dilkii	вбивство	None
-dilkiisa	його вбивство	Nan
+dilkiisa	вбивство	None
 dilku	вбивство	None
 dilla	тріснув	Nan
 dillaaco	тріщини	Nan
 dilaye	дилер	Nan
 diidday	відхилено	Nan
-diidayaana	заперечувати це	Nan
+diidayaana	це	None
 diidayaa	відмовляється	Nan
-dhulkan	ця земля	Nan
-dhulkeeda	її земля	Nan
+dhulkan	земля	None
+dhulkeeda	земля	None
 dhulkii	земля	None
-dhulkiisaa	його земля	Nan
+dhulkiisaa	земля	None
 dhulku	земля	None
 dhulwaynaha	материк	Nan
 dhunkaal	поцілунок	Nan
@@ -9222,20 +9222,20 @@ dhuumasho	сховатися подалі	Nan
 dhuunta	горло	Nan
 dhuurta	ліс	None
 dhuusamareeb	опівночі	Nan
-dhuux	кістковий мозок	Nan
+dhuux	мозок	None
 dhuwan	ховатися	Nan
-dhulkaas	в тій землі	Nan
-dhulkaan	ця земля	Nan
+dhulkaas	землі	None
+dhulkaan	земля	None
 dhulkaa	земля	None
 dhulka	земля	None
-dhowrsada	дотримуйся свого обов&#39;язку	Nan
+dhowrsada	свого	None
 dhowrsan	захищені	Nan
-dhowrsana	дотримуйся свого обов&#39;язку	Nan
+dhowrsana	свого	None
 dhubato	плювати	Nan
 dhuftay	вражений	Nan
 dhufteen	вражений	Nan
 dhul	землі	None
-dhuxul	деревне вугілля	Nan
+dhuxul	вугілля	None
 dhulaka	земля	None
 dhulalkii	землі	None
 dhulbahante	поміщик	Nan
@@ -9246,7 +9246,7 @@ dhulgariir	землетрус	Nan
 dhulgariirka	землетрус	Nan
 dhulalka	землі	None
 dhowr	декілька	None
-dhuxusha	деревне вугілля	Nan
+dhuxusha	вугілля	None
 diabetes	діабет	Nan
 difaacaya	захищаючи	Nan
 different	інший	None
@@ -9261,7 +9261,7 @@ digo	дайджест	Nan
 dihine	dihine	Nan
 dii	c	None
 diid	відхилено	Nan
-diidana	відкиньте його	Nan
+diidana	його	None
 diiday	відхилено	Nan
 difaacay	захищав	Nan
 difaaca	оборони	None
@@ -9270,15 +9270,15 @@ diday	гострий	Nan
 diakonia	дияконес	Nan
 dib	назад	None
 dibad	з	None
-dibada	за кордоном	Nan
+dibada	кордоном	None
 dibadda	зовні	Nan
 dibadiisa	зовні	Nan
 dibedda	зовні	Nan
 di	бути	None
-dibeddaba	на відкритому повітрі	Nan
+dibeddaba	повітрі	None
 dibi	віл	None
 dibna	знову	None
-dibnahayga	моє око	Nan
+dibnahayga	око	None
 dibu	віл	None
 dibuga	теля	Nan
 dibugu	бик	Nan
@@ -9292,7 +9292,7 @@ galka	в	None
 galkacyo	галонів	Nan
 galleyda	кукурудза	Nan
 galmaax	галон	Nan
-galmoodka	займатися сексом	Nan
+galmoodka	займатися	None
 galo	в	None
 galow	проходь	Nan
 gambia	гамбії	Nan
@@ -9306,13 +9306,13 @@ galiyey	настій	Nan
 ganacsi	бізнес	None
 galiyaan	ввести	None
 galinsoor	вставка	Nan
-galbeedkana	на захід	Nan
-galbeedkenya	на заході	Nan
+galbeedkana	захід	None
+galbeedkenya	заході	None
 galbeedku	захід	None
-galbeedna	на захід	Nan
+galbeedna	захід	None
 galdogob	порцеляна	Nan
 galeen	в	None
-galeeyda	мій гал	Nan
+galeeyda	мій	None
 galeyda	кукурудза	Nan
 galgaduud	ожина	Nan
 galguduud	повзати	Nan
@@ -9325,7 +9325,7 @@ galisay	вставлено	Nan
 ganacsiga	бізнес	None
 ganacu	торг	Nan
 gandi	правило	None
-garbihiisa	на його плечі	Nan
+garbihiisa	його	None
 gardhaale	суперечливий	Nan
 gardheere	вигаданий	Nan
 gargaar	допомогу	None
@@ -9337,12 +9337,12 @@ garoomada	аеропорти	Nan
 garoomaha	наречений	Nan
 garoon	стадіон	None
 garoonka	стадіон	None
-garoonkaan	в цьому аеропорту	Nan
+garoonkaan	цьому	None
 garoowe	garowe	Nan
 garowe	спасибі	Nan
-garbahaarey	плече до плеча	Nan
+garbahaarey	до	None
 garbaha	плечі	Nan
-garatay	ти знаєш	Nan
+garatay	ти	None
 garasho	усвідомити	Nan
 ganey	зрозуміти	None
 gar	гар	Nan
@@ -9351,38 +9351,38 @@ garaaco	удари	Nan
 garaad	інтелект	Nan
 garaadka	інтелект	Nan
 garab	плече	Nan
-galbeedka	на захід	Nan
+galbeedka	захід	None
 garabsocday	супроводжується	None
 garadag	відомий	None
 garadba	зрозуміти	None
 garan	знати	None
-garanayn	не знав	Nan
+garanayn	знав	None
 garanayo	знати	None
 garansiiyo	допомогу	None
 garashada	сприйняття	None
-garad	ти знаєш	Nan
-galbeeditoobiya	західна ефіопія	Nan
+garad	ти	None
+galbeeditoobiya	західна	None
 galbeed	захід	None
 galbe	захід	None
 gabayle	поет	None
 gabayo	вірш	None
 gabdhaha	дівчата	Nan
-gabdhahooda	їхні дочки	Nan
+gabdhahooda	дочки	None
 gabdhihii	дочки	None
 gabdhood	дочки	None
-gabdhoodna	їхні дочки	Nan
+gabdhoodna	дочки	None
 gabeyre	поет	None
 gabi	повністю	None
-gabiahaanba	усі ці	Nan
+gabiahaanba	ці	None
 gabiley	горила	Nan
-gabownimadii	в старості	Nan
+gabownimadii	в	None
 gabyaa	поет	None
 gabyaagii	поет	None
 gacal	шановний	Nan
 gabaygu	вірш	None
 gabaygii	поет	None
 gabayga	вірш	None
-gabayadiisa	його вірші	Nan
+gabayadiisa	вірші	None
 gaarsiinta	доставка	Nan
 gaarsiisan	охопити	Nan
 gaarsiiyey	переданий	Nan
@@ -9407,10 +9407,10 @@ galaa	входить	None
 galaal	папку	Nan
 galaan	увійти	Nan
 galab	вдень	Nan
-galabsan	цього вечора	Nan
-galabtaas	цього вечора	Nan
+galabsan	цього	None
+galabtaas	цього	None
 galadaystay	пішов	None
-galaddiisu	його заперечення	Nan
+galaddiisu	заперечення	None
 galay	в	None
 galayda	кукурудзи	Nan
 galaydh	кукурудзи	Nan
@@ -9422,7 +9422,7 @@ gala	увійти	Nan
 gal	журнал	None
 gaheyrkuliyada	геологія	None
 gaheyr	гахейр	Nan
-gacantiisa	його рука	Nan
+gacantiisa	його	None
 gacmaha	руки	None
 gacmeedyo	руки	None
 gacmood	руки	None
@@ -9430,7 +9430,7 @@ gadaal	пізніше	None
 gadaashiiye	позаду	Nan
 gadabuursi	резервне копіювання	Nan
 gacansiiyo	допомогу	None
-gadabuursiga	на спині	Nan
+gadabuursiga	на	None
 gaday	купив	Nan
 gadaye	стільці	Nan
 gadiid	продавати	Nan
@@ -9438,13 +9438,13 @@ gadiidka	перевезення	None
 gadisan	ліжко	Nan
 gado	спадкування	Nan
 gaduud	червоний	None
-gadabuursigu	задній двір	Nan
+gadabuursigu	двір	None
 gaaro	охопити	Nan
 garsoor	судити	None
 garsoorka	суддя	Nan
 goa	гоа	Nan
 goaan	рішення	None
-goaankanna	це рішення	Nan
+goaankanna	рішення	None
 goaansaday	вирішив	None
 goaansadeen	вирішив	None
 goan	шматок	Nan
@@ -9477,7 +9477,7 @@ giriigga	грецька	None
 giriigii	грецька	None
 giscard	giscard	Nan
 global	глобальний	Nan
-goboladan	в цих регіонах	Nan
+goboladan	регіонах	None
 goboladii	регіони	None
 goboleed	регіональний	None
 godka	печера	Nan
@@ -9490,7 +9490,7 @@ goleey	гуля	Nan
 golihii	рада	None
 golis	голіс	Nan
 gollaha	рада	None
-gololeey	моя кімната	Nan
+gololeey	моя	None
 goo	вирізати	Nan
 goob	розташування	None
 goobaha	локації	Nan
@@ -9501,10 +9501,10 @@ goday	дякую	Nan
 godan	порожнистий	Nan
 goboleedka	регіональний	None
 gobolka	область	None
-gobolkaan	в цьому регіоні	Nan
-gobolkan	в цьому регіоні	Nan
-gobolkani	в цьому регіоні	Nan
-gobolkasta	в будь-якій державі	Nan
+gobolkaan	регіоні	None
+gobolkan	регіоні	None
+gobolkani	регіоні	None
+gobolkasta	державі	None
 gobolkii	регіон	None
 gens	gens	Nan
 gobolku	стан	None
@@ -9517,10 +9517,10 @@ gobroon	горон	Nan
 god	отвір	Nan
 gobollada	регіони	None
 generation	покоління	None
-generalka	в цілому	Nan
+generalka	цілому	None
 general	загальний	None
 gaystay	вчинено	Nan
-gbanaadir	дуже популярний	Nan
+gbanaadir	популярний	None
 gebi	повністю	None
 gedisan	дистальний	Nan
 gedo	обрізка	Nan
@@ -9538,9 +9538,9 @@ gaysay	доставлено	Nan
 gaysatay	досягнуто	Nan
 gayiga	гей	Nan
 gawracii	забій	Nan
-gartada	усвідомити це	Nan
+gartada	це	None
 gartay	зрозумів	Nan
-garto	визнати це	Nan
+garto	це	None
 garyaqaan	юрист	Nan
 garçon	гірлянда	Nan
 gashaa	проходь	Nan
@@ -9558,7 +9558,7 @@ gashiyo	волосся	None
 garsoore	судити	None
 geeliisii	верблюд	Nan
 geella	верблюд	Nan
-geeyo	принеси це	Nan
+geeyo	це	None
 gelaya	введення	None
 geledi	гелевий	Nan
 geli	увійти	Nan
@@ -9575,14 +9575,14 @@ gelyo	відтінків	Nan
 gen	род	Nan
 geeyey	доставлено	Nan
 geeyay	доставлено	Nan
-geeyaa	принеси це	Nan
-geesteen	проти нас	Nan
+geeyaa	це	None
+geesteen	нас	None
 geelle	верблюд	Nan
 geelo	верблюд	Nan
 geelu	верблюд	Nan
 geeri	смерть	None
 geerida	смерть	None
-geeridii	при смерті	Nan
+geeridii	смерті	None
 geerisa	смерть	None
 geelka	верблюд	Nan
 geeriyooday	помер	None
@@ -9593,9 +9593,9 @@ geesi	англійська	None
 geesinimo	мужність	Nan
 geesiyaashii	героїв	None
 geeska	куточок	Nan
-geeriyoodeen	вони померли	Nan
+geeriyoodeen	померли	None
 dheeraasamaale	довго	None
-gaarkiisa	його тіло	Nan
+gaarkiisa	тіло	None
 gaarin	доступ	None
 fara	починати	Nan
 faraaciinta	своє	None
@@ -9641,14 +9641,14 @@ farxad	щастя	None
 farxeen	зраділа	Nan
 farxiyo	задоволення	None
 fasax	залишати	Nan
-fashilmay	не вдалося	Nan
+fashilmay	вдалося	None
 fasir	інтерпретувати	Nan
 fasirtada	тлумачення	None
 faso	пройти	None
 father	батько	None
 feb	феб	Nan
 febayaa	заразний	Nan
-febraayo	в лютому	Nan
+febraayo	лютому	None
 february	лютий	None
 farshaxan	мистецтво	None
 farsamo	технічні	None
@@ -9673,7 +9673,7 @@ farqi	різниця	None
 farlibaax	літати	Nan
 falal	дії	None
 falaha	виробник	None
-falaa	зроби це	Nan
+falaa	це	None
 f	f	None
 faadir	прощання	Nan
 faadumo	флюс	Nan
@@ -9697,7 +9697,7 @@ eryey	звільнений	Nan
 es	ес	Nan
 esperanto	есперанто	Nan
 estoniya	естонія	Nan
-et	та ін	Nan
+et	ін	None
 ethiopa	етиопа	Nan
 ethiopia	ефіопія	Nan
 faanto	хвастощі	Nan
@@ -9712,24 +9712,24 @@ explorer	дослідник	None
 ethopiakenya	етопіакенія	Nan
 federaal	федеральний	None
 faarax	смоктати	Nan
-faatikaan	у цьому контексті	Nan
-fadligeeda	її благодать	Nan
+faatikaan	контексті	None
+fadligeeda	її	None
 fahamka	розуміння	None
 fahamno	зрозуміти	None
 fahmaan	зрозуміти	None
 fahmay	зрозумів	Nan
 fahmeen	зрозумів	Nan
-fahmeyna	зрозумійте нас	Nan
-fahmeynaa	ми розуміємо	Nan
+fahmeyna	нас	None
+fahmeynaa	ми	None
 fahmi	зрозуміти	None
-fahmin	не розуміти	Nan
+fahmin	розуміти	None
 fahmo	зрозуміти	None
 faisal	фазал	Nan
 fakaday	втік	Nan
 fakerayey	уявляв	Nan
 fal	діяти	None
 fadliga	благодать	Nan
-fadlan	будь ласка	Nan
+fadlan	будь	None
 fadhiyey	сидів	Nan
 fadhiyay	сидів	Nan
 faatikanaka	автограф	Nan
@@ -9752,7 +9752,7 @@ fadhiisan	сідай	Nan
 gaarka	приватний	None
 federaalka	федеральний	None
 fekaray	думка	None
-fuula	їздити на	Nan
+fuula	на	None
 fuulay	піднявся	Nan
 fuuli	залазити	Nan
 g	г	None
@@ -9804,12 +9804,12 @@ gaareen	досяг	None
 gaareeso	досягти	None
 gaarey	досяг	None
 gaareysa	досягаючи	Nan
-gaari	транспортний засіб	Nan
+gaari	засіб	None
 gaalo	невірних	Nan
 gaalkacyo	невірних	Nan
 gaalkacayo	невірний	Nan
-gaalkaan	ця невірниця	Nan
-gaadhin	не дійшли	Nan
+gaalkaan	ця	None
+gaadhin	дійшли	None
 gaadho	охопити	Nan
 gaadhsiinayeen	передати	None
 gaadhsiinlahayd	досягти	None
@@ -9833,7 +9833,7 @@ fiidshe	смокче	Nan
 fiil	вилка	Nan
 fiiq	гострий	Nan
 fiiri	погляд	None
-fiirino	підняти погляд	Nan
+fiirino	погляд	None
 fiiriyo	погляд	None
 fiiro	погляд	None
 fikrad	ідея	None
@@ -9877,8 +9877,8 @@ forces	сил	None
 forgotten	знехтуваний	Nan
 form	форма	None
 four	чотири	None
-franchwadnkan	ця франшиза	Nan
-fransiiska	у франції	Nan
+franchwadnkan	ця	None
+fransiiska	франції	None
 fransiisku	франциско	Nan
 français	франчайзи	Nan
 françois	франсуа	None
@@ -9900,8 +9900,8 @@ firkoodi	розкидати	Nan
 first	перший	None
 fog	далеко	None
 fogaa	далеко	None
-fogaadaa	уникати цього	Nan
+fogaadaa	цього	None
 fogaado	утримуватися	Nan
-fogaayeene	вони далеко	Nan
+fogaayeene	далеко	None
 firfircooni	активний	None
 يوسف	يوسف	Nan

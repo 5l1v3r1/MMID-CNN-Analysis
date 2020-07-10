@@ -1,6 +1,6 @@
 $	$	Nan
 meirion	iṣọkan	Nan
-meirw	àwọn òkú	Nan
+meirw	òkú	None
 meistr	ọga	Nan
 meistrir	ọga	Nan
 mekong	mekong	Nan
@@ -26,10 +26,10 @@ medium	alabọde	Nan
 medr	mita	Nan
 medru	ni anfani lati	Nan
 medrus	ti oye	Nan
-megis	bi eleyi	Nan
-mehefin	oṣu karun	Nan
+megis	eleyi	None
+mehefin	karun	None
 mehmed	mehmed	Nan
-meibion	awọn ọmọ	Nan
+meibion	ọmọ	None
 meic	eg	Nan
 meicrosgôp	ohun eegun	Nan
 meini	okuta	Nan
@@ -66,10 +66,10 @@ mercher	ọjọru	Nan
 meddygon	onisegun	Nan
 merci	iṣọkan	Nan
 meredith	meredith	Nan
-merfyn	iye to	Nan
+merfyn	to	None
 merganser	merganser	Nan
 merlyn	poni	Nan
-mers	oṣu kẹta	Nan
+mers	kẹta	None
 merthyr	ajé	Nan
 mesopotamia	mesopotamia	Nan
 mercia	mercia	Nan
@@ -84,9 +84,9 @@ material	ohun elo	Nan
 materion	awọn ọran	Nan
 materol	ohun elo	Nan
 math	o dara	Nan
-mathafarn	eko isiro	Nan
+mathafarn	eko	None
 mathau	awọn oriṣi	Nan
-mathemateg	eko isiro	Nan
+mathemateg	eko	None
 mathemategol	iṣiro	Nan
 mathemategydd	oniṣiro-ọrọ	Nan
 mathew	mathew	Nan
@@ -99,7 +99,7 @@ mars	ọkunrin	Nan
 marseille	marshal	Nan
 marsh	mars	None
 marshall	marshall	Nan
-martes	awọn ogun	Nan
+martes	ogun	None
 martin	martin	Nan
 marw	kú	Nan
 mathonwy	o dara	Nan
@@ -140,7 +140,7 @@ mauritania	mauritania	Nan
 mauritius	mauritius	Nan
 mawr	nla	Nan
 mawrion	nla	Nan
-mawrth	oṣu kẹta	Nan
+mawrth	kẹta	None
 matterhorn	pataki	Nan
 max	max	None
 maximus	maximus	Nan
@@ -158,7 +158,7 @@ moleciwl	molikula	Nan
 moleciwlaidd	molikula	Nan
 moleciwlau	molikula	Nan
 moment	akoko	Nan
-mona	owo kan	Nan
+mona	kan	None
 monaco	monaco	Nan
 monde	monde	Nan
 mongolia	mongolia	Nan
@@ -219,13 +219,13 @@ morocco	morocco	Nan
 moroco	morocco	Nan
 moroedd	òkun	Nan
 modelau	awọn awoṣe	Nan
-morol	omi okun	Nan
+morol	omi	None
 mortimer	apanirun	Nan
 morton	amọ	Nan
 morvan	morvan	Nan
 morwennol	agbẹbi	Nan
 morwenoliaid	terns	Nan
-morwrol	igba omi okun	Nan
+morwrol	omi	None
 morwyr	atukọ̀	Nan
 morris	morris	Nan
 model	awoṣe	Nan
@@ -251,7 +251,7 @@ mi	emi	Nan
 mhrydain	gẹẹsi	Nan
 mhriodweddaur	awọn ohun-ini	Nan
 mewnwladol	t’ile	Nan
-mewnwr	scrum idaji	Nan
+mewnwr	idaji	None
 mexico	mexico	None
 mey	mey	Nan
 meysydd	awọn aaye	Nan
@@ -287,7 +287,7 @@ moch	elede	None
 mochyn	ẹlẹdẹ	Nan
 miss	padanu	Nan
 misoedd	awọn oṣu	Nan
-mis	oṣu kan	Nan
+mis	kan	None
 mirror	digi	Nan
 miller	miller	Nan
 milltir	maili	Nan
@@ -342,7 +342,7 @@ llygredd	ibajẹ	Nan
 llym	muna	Nan
 llyn	adagun	Nan
 llyncu	enibo	Nan
-llynges	ọmọ ogun	Nan
+llynges	ogun	None
 llyr	gbooro	Nan
 llên	litireso	Nan
 llŷn	llŷn	Nan
@@ -379,13 +379,13 @@ londinium	londinium	Nan
 london	london	Nan
 lonely	dawa	Nan
 long	ọkọ oju-omi	Nan
-longau	awọn ọkọ oju omi	Nan
+longau	omi	None
 longtailed	gigun	Nan
 looks	woni	Nan
 lolfa	rọgbọkú	Nan
 llydaweg	bretoni	Nan
 llydaw	arabinrin brittany	Nan
-llydandroed	bata ẹsẹ	Nan
+llydandroed	ẹsẹ	None
 lliwiau	awọn awọ	Nan
 lloches	ibi aabo	Nan
 lloegr	england	Nan
@@ -394,13 +394,13 @@ lloerennau	awọn satẹlaiti	Nan
 llofruddiwyd	ti paniyan	Nan
 llon	ọyaya	Nan
 llong	ọkọ oju-omi	Nan
-llongau	awọn ọkọ oju omi	Nan
+llongau	omi	None
 llorweddol	nitosi	None
 llosg	inu ọkan	Nan
 llosgfynydd	onina	Nan
 llosgfynyddoedd	onina	Nan
 llosgi	sisun	Nan
-llosgir	o ti jo	Nan
+llosgir	jo	None
 lliwgar	awọ	Nan
 lliwedd	awọ	Nan
 lliw	awọ	Nan
@@ -413,7 +413,7 @@ llid	igbona	Nan
 llif	ṣiṣan	Nan
 llifo	ṣiṣan	Nan
 llosgnwy	sisun	Nan
-llifogydd	iṣan omi	Nan
+llifogydd	omi	None
 llinell	laini	Nan
 llinellau	awọn ila	Nan
 llinos	flax	Nan
@@ -421,7 +421,7 @@ llinyn	okun	Nan
 llinynnau	okun	Nan
 llinynnol	okun	Nan
 llipa	atẹlẹsẹ	Nan
-llinach	idile oba	Nan
+llinach	oba	None
 ludwig	ludwig	Nan
 llosgwyd	sisun	Nan
 llu	ipa	Nan
@@ -451,7 +451,7 @@ llundain	lọndọnu	None
 lluniau	awọn aworan	Nan
 llunio	kojọpọ	Nan
 lluoedd	awọn ipa	Nan
-lloyd	ọmọ malu	Nan
+lloyd	ọmọ	None
 lluosog	lọpọlọpọ	Nan
 llus	eso beri dudu	Nan
 llw	ibura	Nan
@@ -461,7 +461,7 @@ llwybr	ọnà	Nan
 llwybrau	awọn ọna	Nan
 llwyd	grẹy	Nan
 lluosogaeth	opo	Nan
-marmot	ọmọ ogun	Nan
+marmot	ogun	None
 luis	luis	Nan
 lundain	lọndọnu	None
 malus	malus	Nan
@@ -510,7 +510,7 @@ marged	ọjà	Nan
 mari	mari	Nan
 maria	arabinrin	Nan
 marie	ọkọ	Nan
-mariner	ọkọ oju omi	Nan
+mariner	omi	None
 marino	igbafẹfẹ	Nan
 marion	marion	Nan
 marius	aya	None
@@ -535,7 +535,7 @@ manwl	alaye	Nan
 manylion	awọn alaye	Nan
 mao	mao	Nan
 map	maapu	None
-mapiau	awọn maapu	Nan
+mapiau	maapu	None
 marathon	ere-ije	Nan
 manuals	awọn iwe afọwọkọ	Nan
 magnetig	oofa	Nan
@@ -547,7 +547,7 @@ lyfr	iwe	Nan
 lyfrau	awọn iwe	Nan
 lymff	omi-olodi	Nan
 lyn	adagun	Nan
-lynges	ọmọ ogun	Nan
+lynges	ogun	None
 lynnoedd	adagun-odo	Nan
 lyon	lyon	Nan
 lys	kootu	Nan
@@ -589,7 +589,7 @@ madrid	isinwin	Nan
 madryn	aṣiwere	Nan
 mae	o wa	Nan
 maen	okuta	Nan
-maent	wọn jẹ	Nan
+maent	wọn	None
 maer	arabinrin	Nan
 maes	pápá	Nan
 maesdrefi	ìgberiko	Nan
@@ -630,7 +630,7 @@ olynu	aṣeyọri	Nan
 olynwyd	ṣaṣeyọri	Nan
 olynwyr	arọpo	Nan
 olynydd	agbapo	Nan
-oman	ọmọ ogun	Nan
+oman	ogun	None
 omeara	omeara	Nan
 omega	omega	Nan
 on	loju	Nan
@@ -643,7 +643,7 @@ ohio	ohio	Nan
 ohoni	ti o	Nan
 ohono	ti o	Nan
 ohonyn	ti o	Nan
-ohonynt	ti wọn	Nan
+ohonynt	wọn	None
 oi	oi	Nan
 ol	ol	Nan
 olaf	lakotan	Nan
@@ -658,9 +658,9 @@ one	ọkan	Nan
 ongl	igun	Nan
 oni	ayafi ti	Nan
 orffen	pari	Nan
-orffennaf	yoo pari	Nan
-orfodi	fi agbara mu	Nan
-orfodir	ti fi agbara mu	Nan
+orffennaf	yoo	None
+orfodi	agbara	None
+orfodir	agbara	None
 organ	eto ara eniyan	Nan
 organau	awọn ara	Nan
 organeb	oni-iye	Nan
@@ -722,7 +722,7 @@ nus	bayi	None
 nwy	gaasi	Nan
 nwyddau	ẹru	Nan
 nwylo	ọwọ	Nan
-oed	ọjọ ori	Nan
+oed	ori	None
 nwylor	alafia	Nan
 nwyrain	ila-oorun	Nan
 nyddiau	àwọn ọjọ́	Nan
@@ -734,7 +734,7 @@ nôd	iho	Nan
 nwyon	ategun	Nan
 orllewinol	iwọ oorun	Nan
 oedd	wà	Nan
-oeddynt	wọn wa	Nan
+oeddynt	wọn	None
 offeren	ibi	Nan
 offeryn	irinse	Nan
 offerynau	irinse	Nan
@@ -750,18 +750,18 @@ ogam	ogam	Nan
 ogledd	ariwa	Nan
 ogleddol	ariwa	Nan
 ogleddorllewin	ariwa iwọ-oorun	Nan
-offer	ohun èlò	Nan
+offer	èlò	None
 offeiriaid	awọn alufa	Nan
 offeiriades	alufaa	Nan
 offa	ẹyin	Nan
 oedolion	agbalagba	Nan
 oedolyn	agba	None
-oedran	ọjọ ori	Nan
+oedran	ori	None
 oen	ọdọ aguntan	Nan
 oenanthe	oenanthe	Nan
 oer	tutu	Nan
 oeraf	tutu julọ	Nan
-oeddent	wọn wa	Nan
+oeddent	wọn	None
 oeri	tutu	Nan
 oesoedd	awọn ọjọ-ori	Nan
 oesoffagws	esophagus	Nan
@@ -778,7 +778,7 @@ pasg	ajinde	Nan
 pasha	pasha	Nan
 pasio	gbako.leyin	Nan
 pasiwyd	koja	Nan
-passage	fi aye	Nan
+passage	fi	None
 passeriformes	awọn paati	Nan
 pasteur	lẹẹmọ	Nan
 patagonia	patagonia	Nan
@@ -826,7 +826,7 @@ pencadlysoedd	olú	Nan
 pencampwriaeth	aṣaju	Nan
 pencampwyr	awọn aṣaju	Nan
 pendant	asọye	Nan
-penddu	agba dudu	Nan
+penddu	agba	None
 peiriant	ẹrọ	Nan
 peiriannydd	ẹnjinia	Nan
 peirianneg	ẹnjinia	Nan
@@ -844,7 +844,7 @@ peel	peeli	Nan
 pegwn	òpó	Nan
 peidio	kii ṣe	Nan
 peidiodd	dáwọ	Nan
-peidiwch	se ko	Nan
+peidiwch	ko	None
 peintio	kikun	Nan
 peirianeg	ẹnjinia	Nan
 pedwerydd	kẹrin	None
@@ -886,12 +886,12 @@ osodwyd	ṣeto	Nan
 oson	osonu	Nan
 ostrogothiaid	àwon eniyan	Nan
 other	omiiran	Nan
-osgoi	yago fun	Nan
+osgoi	fun	None
 oroesi	ye	Nan
 padrig	paddock	Nan
 pafiliwn	àtẹ	Nan
 panamá	panamá	Nan
-pandemig	àjàkálẹ àrùn tókárí-ayé	Nan
+pandemig	àrùn	None
 pantheistiaeth	pantheism	Nan
 pantheistiol	pantheistic	Nan
 pantheon	pantheon	Nan
@@ -938,7 +938,7 @@ naw	mẹsan	Nan
 nawdd	igbowo	Nan
 nawddsant	olodumare	Nan
 nawfed	ẹkẹsan	Nan
-nawr	ni bayi	Nan
+nawr	bayi	None
 naws	iṣesi	Nan
 ne	àí	Nan
 neb	enikeni	Nan
@@ -948,7 +948,7 @@ natsïaidd	fẹẹrẹ	Nan
 nefoedd	ọrun	Nan
 natsïaid	ara nazi	Nan
 nato	adaru	Nan
-nain	iya agba	Nan
+nain	agba	None
 name	orukọ	Nan
 namibia	namibia	None
 nant	ṣiṣan	Nan
@@ -992,18 +992,18 @@ negyddol	odi	Nan
 neidiodd	o fo	Nan
 neifion	nept	Nan
 neil	nil	Nan
-neilltuo	gbe segbe	Nan
+neilltuo	gbe	None
 naill	boya	Nan
 neilltuol	ni pataki	Nan
 nentydd	ehin	Nan
 neolithig	neolithic	Nan
 neopaganism	neopaganism	Nan
-neorllewin	guusu iwọ-oorun	Nan
+neorllewin	guusu	None
 nepal	nepal	Nan
 nepaleg	nepalese	Nan
 nerfau	ara	Nan
 nen	ọrun	Nan
-nai	ọmọ arakunrin	Nan
+nai	ọmọ	None
 nagasaki	nagasaki	Nan
 nag	ju	Nan
 mwslemaidd	muslim	Nan
@@ -1072,8 +1072,8 @@ mynd	lọ	Nan
 mynediad	iraye si	Nan
 mynegi	han	Nan
 myanmar	madium	Nan
-mynegodd	o sọ	Nan
-mynnu	ta ku	Nan
+mynegodd	sọ	None
+mynnu	ku	None
 mynychodd	o wa	Nan
 mynychu	wá	Nan
 mynydd	òkè	Nan
@@ -1083,7 +1083,7 @@ mynyw	obinrin	Nan
 mynnodd	o tenumo	Nan
 nuevo	nuevo	Nan
 newidiad	yipada	None
-newidiodd	o yipada	Nan
+newidiodd	yipada	None
 niwtronau	awọn ẹla ara	Nan
 nixon	nixon	Nan
 no	tabi	None
@@ -1133,7 +1133,7 @@ notices	awọn akiyesi	Nan
 notoc	ohun akiyesi	Nan
 novello	aramada	Nan
 novial	eeyan	Nan
-now	ni bayi	Nan
+now	bayi	None
 nrk	nrk	Nan
 nso	isunmọ	Nan
 nsopherekgong	nsopherekgong	Nan
@@ -1186,7 +1186,7 @@ news	awọn iroyin	Nan
 newton	newton	Nan
 newydd	tuntun	None
 newyddddyfodiaid	awọn ti o ṣẹṣẹ ṣe	Nan
-newydddinas	ilu tuntun	Nan
+newydddinas	tuntun	None
 ngogledd	ariwa	Nan
 newyddiaduraeth	iṣẹ irohin	Nan
 newyddiadurwyr	awon oniroyin	Nan
@@ -1222,7 +1222,7 @@ nhrefn	paṣẹ	Nan
 ngorllewin	iwọ oorun	Nan
 ngwaelod	isalẹ	Nan
 ngwaith	iṣẹ	Nan
-ngwanwyn	orisun omi	Nan
+ngwanwyn	omi	None
 ngweddill	isimi na	Nan
 ngweriniaeth	olominira	Nan
 ngwlad	orilẹ-ede	Nan
@@ -1232,7 +1232,7 @@ ngwynedd	gwynedd	Nan
 ngâl	galle	Nan
 nhadau	baba	Nan
 nhalaith	ipinle	Nan
-nhermau	ti a ba nso nipa	Nan
+nhermau	nso	None
 nheyrnasiad	jọba	Nan
 nhref	ilu	Nan
 ngwleidyddiaeth	oselu	Nan
@@ -1274,7 +1274,7 @@ hannibyniaeth	ominira	Nan
 hans	han	Nan
 hanterth	tente oke	Nan
 hapus	dun	None
-hatal	da duro	Nan
+hatal	da	None
 haul	oorun	Nan
 havana	havana	Nan
 heddiw	loni	Nan
@@ -1293,7 +1293,7 @@ heintiadau	awọn àkóràn	Nan
 heintiau	awọn àkóràn	Nan
 heintio	akoran	Nan
 hedd	alafia	Nan
-hebron	ọmọ ogun	Nan
+hebron	ogun	None
 hebreaid	ehoro	Nan
 hebraeg	heberu	Nan
 have	ni	Nan
@@ -1331,7 +1331,7 @@ gŵr	ọkọ	Nan
 gŵydd	gusi	Nan
 gŵyl	ajọdun	Nan
 gŵyr	o mọ	Nan
-gysylltu	kan si	Nan
+gysylltu	kan	None
 gysylltir	ti sopọ	Nan
 gysylltiedig	ti o ni ibatan	Nan
 gysylltiadau	awọn olubasọrọ	Nan
@@ -1383,7 +1383,7 @@ hadeiladu	itumọ	Nan
 hadnabod	idanimọ	Nan
 ha	ha	Nan
 hadrian	adrian	Nan
-haelodau	ọmọ ẹgbẹ	Nan
+haelodau	ọmọ	None
 haen	ipele	None
 haenau	fẹlẹfẹlẹ	Nan
 haf	igba ooru	Nan
@@ -1391,7 +1391,7 @@ hafal	dọgba	Nan
 hafan	oju-ile	Nan
 hafana	oju-ile	Nan
 haearn	irin	Nan
-gyrchfan	opin irin ajo	Nan
+gyrchfan	ajo	None
 hela	ọdẹ	Nan
 helar	igigirisẹ	Nan
 ho	ho	Nan
@@ -1474,7 +1474,7 @@ hindŵaidd	arakunrin hinia	Nan
 henebion	awọn arabara atijọ	Nan
 henffordd	eyiyika	Nan
 henfyd	ohun atijọ	Nan
-heniaith	atijọ ede	Nan
+heniaith	ede	None
 henlein	henlein	Nan
 henoed	agbalagba	Nan
 henri	henri	Nan
@@ -1496,9 +1496,9 @@ helens	helens	Nan
 heliwm	irinse	Nan
 helmand	àṣíborí	Nan
 helo	pẹlẹ o	Nan
-help	egba mi o	Nan
+help	egba	None
 heraclius	igigirisẹ	Nan
-helpu	egba mi o	Nan
+helpu	egba	None
 helsinki	helsinki	Nan
 helvetica	helvetica	Nan
 helvetii	helvetii	Nan
@@ -1530,11 +1530,11 @@ hil	ije	None
 high	ga	Nan
 hierarchaeth	olori	Nan
 herodotus	akọni ọkunrin	Nan
-heron	ọmọ ogun	Nan
+heron	ogun	None
 herschel	arabinrin	Nan
 hertsegofina	hertsevina	Nan
-herwfilwrol	jagunjagun ọmọ ogun	Nan
-herwydd	nitori iyen	Nan
+herwfilwrol	ogun	None
+herwydd	iyen	None
 herzegovina	herzegovina	Nan
 here	nibi	Nan
 het	ijanilaya	Nan
@@ -1572,7 +1572,7 @@ gwrthod	kọ	Nan
 gwrthododd	o kọ	Nan
 gwrthodwyd	kọ	Nan
 gwrthrych	nnkan	Nan
-gwrthrychau	awọn nkan	Nan
+gwrthrychau	nkan	None
 gwrthryfel	iṣọtẹ	Nan
 gwrthryfelwyr	ọlọtẹ	Nan
 gwrthsefyll	atako	Nan
@@ -1592,7 +1592,7 @@ gwynfryn	gwynfryn	Nan
 gwynion	ẹdun ọkan	Nan
 gwynn	ẹdun	Nan
 gwynt	afẹfẹ	Nan
-gwyrdd	alawọ ewe	Nan
+gwyrdd	ewe	None
 gwyrthiau	iyanu	Nan
 gwythïen	iṣọn	Nan
 gwŷr	ọkọ	Nan
@@ -1600,8 +1600,8 @@ gychwyn	bẹrẹ	Nan
 gyd	gbogbo	Nan
 gyda	pẹlu	Nan
 gydag	pẹlu	Nan
-gydai	pẹlu rẹ	Nan
-gydar	pẹlu wọn	Nan
+gydai	rẹ	None
+gydar	wọn	None
 gwyneth	wundia	Nan
 gwynegon	làkúrègbé	Nan
 gwynedd	gwynedd	Nan
@@ -1635,7 +1635,7 @@ gwladfeydd	awọn ileto	Nan
 gwladgarol	olufẹ orilẹ-ede	Nan
 gwladol	ipinle	Nan
 gwladweinydd	ipinlẹ	Nan
-gwladwriaeth	ipinle kan	Nan
+gwladwriaeth	kan	None
 gwladwriaethau	awọn ipinlẹ	Nan
 gwladychu	ilodi	Nan
 gwledig	igberiko	None
@@ -1662,10 +1662,10 @@ gwilliam	william	Nan
 gwilym	william	Nan
 gwin	waini	Nan
 gwfen	mo ṣe	Nan
-gydau	pẹlu wọn	Nan
+gydau	wọn	None
 gwleidyddion	oloselu	Nan
 gwlff	gulfkun	Nan
-gwragedd	awọn aya	Nan
+gwragedd	aya	None
 gwraidd	gbongbo	None
 gwraig	iyawo	None
 gwrandewch	gbọ	Nan
@@ -1682,7 +1682,7 @@ gwrs	dajudaju	Nan
 gwrtaith	ajile	Nan
 gwrachod	awọn ajẹ	Nan
 gwr	ọkọ	Nan
-gwpan	ife kan	Nan
+gwpan	kan	None
 gwobrau	onipokinni	Nan
 gwlt	egbeokunkun	Nan
 gwlyb	ririn	Nan
@@ -1694,7 +1694,7 @@ gwmnïau	awọn ile-iṣẹ	Nan
 gwleidyddol	oselu	Nan
 gwmpas	yika	Nan
 gwnaeth	o ṣe	Nan
-gwneir	yoo ṣee ṣe	Nan
+gwneir	yoo	None
 gwneud	ṣe	Nan
 gwneuthurwyr	awọn aṣelọpọ	Nan
 gwnewch	ṣe	Nan
@@ -1704,13 +1704,13 @@ gwnaed	o ti ṣe	Nan
 gynyddu	pọ si	Nan
 gyddfgoch	pupa	None
 gydnabod	itewogba	Nan
-gymerodd	o gba to	Nan
+gymerodd	to	None
 gymeryd	mu	Nan
 gymharol	jo	None
 gymharu	afiwe	Nan
 gymhleth	eka	None
 gymhwysol	gbẹyin	Nan
-gymorth	egba mi o	Nan
+gymorth	egba	None
 gymraeg	welsh	Nan
 gymreig	elsdè welsh	Nan
 gymro	awon egun	Nan
@@ -1752,7 +1752,7 @@ gynnwys	akoonu	Nan
 gynnydd	ilọsiwaju	Nan
 gynnyrch	ọja	Nan
 gynorthwyo	ran	Nan
-gynradd	ile iwe awon omode kekere	Nan
+gynradd	kekere	None
 gynrychioli	aṣoju	Nan
 gynrychiolir	aṣoju	Nan
 gynt	tẹlẹ	Nan
@@ -1768,7 +1768,7 @@ gyngherddau	awọn ere orin	Nan
 gynghrair	ajumọṣe	Nan
 gyngor	imọran	Nan
 gyngres	apejọ alapejọ	Nan
-gyhoeddir	ni yoo ṣe atẹjade	Nan
+gyhoeddir	yoo	None
 gynharach	sẹyìn	Nan
 gynhelir	waye	Nan
 gynhenid	atorunwa	Nan
@@ -1819,7 +1819,7 @@ gyfansoddwyd	kq	Nan
 gyfandirol	continental	Nan
 gydfynd	baramu	Nan
 gyflawn	pari	Nan
-gyflawnir	yoo waye	Nan
+gyflawnir	yoo	None
 gyfreithlon	t’olofin	Nan
 gyfres	jara	Nan
 gyfrifiadur	kọmputa	Nan
@@ -1836,7 +1836,7 @@ gyfunrywiol	fohun	Nan
 gyfunrywioldeb	ilopọ	Nan
 gyfyngedig	lopin	Nan
 gyfreithiol	ni t’olofin	Nan
-gyfreithiau	awọn ofin	Nan
+gyfreithiau	ofin	None
 gyfrannu	tiwon	Nan
 gyfraniadau	awọn ifunni	Nan
 gyfleus	rọrun	Nan
@@ -1844,7 +1844,7 @@ gyflwr	majemu	Nan
 gyflwyno	tẹriba	Nan
 gyflym	yara	Nan
 gyflymach	yara ju	Nan
-gyflyrau	awọn ipo	Nan
+gyflyrau	ipo	None
 gyfnewid	paṣipaarọ	Nan
 gyflawni	ṣaṣeyọri	Nan
 gyfnod	asiko	Nan
@@ -1863,7 +1863,7 @@ lannau	eti okun	Nan
 lannaur	atupa	Nan
 lansiwyd	ti a se igbekale	Nan
 lanthanidau	lanthanides	Nan
-lao	ọmọ malu	Nan
+lao	ọmọ	None
 laos	laos	Nan
 lapwing	wiwakọ	Nan
 large	tobi	Nan
@@ -1892,16 +1892,16 @@ lancastriaid	awọn adarọ-ese	Nan
 land	ilẹ	None
 lang	l’or	Nan
 language	ede	None
-languages	awọn ede	Nan
+languages	ede	None
 lanio	ibalẹ	Nan
-latfieg	ede latvian	Nan
+latfieg	ede	None
 latifa	latifa	Nan
 lauren	lauren	Nan
 lee	lee	Nan
 leeds	leeds	Nan
 lefant	lefant	Nan
 lefel	ipele	None
-lefelau	awọn ipele	Nan
+lefelau	ipele	None
 lefydd	àwọn ibò	Nan
 legal	t’olofin	Nan
 legibly	legibly	Nan
@@ -1956,7 +1956,7 @@ kazakhstan	kasakisitani	Nan
 katherine	katherine	Nan
 kate	kate	Nan
 jure	adaṣe	Nan
-just	o kan	Nan
+just	kan	None
 justinianus	olominira	Nan
 jôc	awada	Nan
 k	k	Nan
@@ -2010,7 +2010,7 @@ know	mọ	Nan
 known	mọ	Nan
 komnenos	komnenos	Nan
 kong	kong	None
-kitts	awọn ọmọ ologbo	Nan
+kitts	ọmọ	None
 jura	jura	Nan
 lenorion	onkọwe	Nan
 lenyddiaeth	litireso	Nan
@@ -2040,7 +2040,7 @@ llanddwyn	melancholy	Nan
 llandudno	llandudno	Nan
 llanelli	llanelli	Nan
 llanelwy	st. asafu	Nan
-llanfaethlu	oko eru	Nan
+llanfaethlu	oko	None
 llanfihangel	llanfihangel	Nan
 llangefni	llangefni	Nan
 llangollen	llangollen	Nan
@@ -2061,7 +2061,7 @@ lleoedd	àwọn ibò	Nan
 lleol	agbegbe	Nan
 lleoli	ipo	None
 lleoliad	ipo	None
-lleoliadau	awọn ipo	Nan
+lleoliadau	ipo	None
 lleolir	ti wa ni be	Nan
 lleolwyd	ti wa ni be	Nan
 ller	ler	Nan
@@ -2076,7 +2076,7 @@ lleferydd	ọrọ	Nan
 llefrith	wara	Nan
 llefydd	àwọn ibò	Nan
 lleiaf	o kere ju	Nan
-lleiafrif	ẹlẹgbẹ kekere	Nan
+lleiafrif	kekere	None
 lleiafrifoedd	kekere	None
 llanbadarn	llanbadarn	Nan
 lleiafrifol	ẹlẹgbẹ	Nan
@@ -2111,7 +2111,7 @@ lethrau	àwọn òkè	Nan
 lesser	kere	Nan
 lesotho	lesotho	Nan
 lenyddol	imọwe	Nan
-leo	pẹlu wọn	Nan
+leo	wọn	None
 leoedd	àwọn ibò	Nan
 leol	agbegbe	Nan
 leoli	wa	Nan
@@ -2124,7 +2124,7 @@ leone	leone	Nan
 leonid	kiniun	Nan
 lerpwl	ọfun	Nan
 les	lesi	Nan
-lesbiaidd	ọmọ obinrin obinrin	Nan
+lesbiaidd	ọmọ	None
 leslie	leslie	Nan
 leonard	adẹtẹ	Nan
 lenwi	kun	Nan
@@ -2138,7 +2138,7 @@ lladd	pa	Nan
 lladdedigion	pa	Nan
 lladdodd	o pa	Nan
 lladdwyd	ti pa	Nan
-lladin	ede latini	Nan
+lladin	latini	None
 llaeth	wara	Nan
 llafar	ẹnu	Nan
 llafur	laala	Nan
@@ -2175,8 +2175,8 @@ iddewig	laisi	Nan
 iddewon	juu	Nan
 iddi	fún un	Nan
 iddo	fún un	Nan
-iddyn	si wọn	Nan
-iddynt	si wọn	Nan
+iddyn	wọn	None
+iddynt	wọn	None
 idf	idf	Nan
 idris	idris	Nan
 iduna	iduna	Nan
@@ -2204,7 +2204,7 @@ iberia	ara ilu iria	Nan
 ibiza	ibiza	Nan
 ibn	abinibi	Nan
 ibric	abínibí	None
-ieithoedd	awọn ede	Nan
+ieithoedd	ede	None
 ieithydd	onkọwe-ede	Nan
 ieithyddiaeth	ẹkọ ẹkọ	Nan
 ill	aisan	Nan
@@ -2216,14 +2216,14 @@ imperialaidd	olú ọba	Nan
 in	ninu	Nan
 inc	inc	Nan
 include	pẹlu	Nan
-included	to wa	Nan
+included	to	None
 incwm	owo oya	Nan
 indeed	nitootọ	Nan
 india	india	Nan
 indiaid	ara ilu inde	Nan
 indiaidd	ara ilu	Nan
 ildior	ildior	Nan
-ildiodd	ó juwọ́ sílẹ̀	Nan
+ildiodd	sílẹ̀	None
 ildio	arasilẹ	Nan
 il	il	Nan
 ieithyddion	onkọwe-ede	Nan
@@ -2304,7 +2304,7 @@ hynaf	akọbi	Nan
 hyn	eyi	Nan
 hymen	orin	Nan
 hymarferiadau	awọn adaṣe	Nan
-hydref	igba irẹdanu ewe	Nan
+hydref	ewe	None
 hydrin	alaiṣii	Nan
 hydrocarbon	hydrocarbon	Nan
 hydrocarbonau	hydrocarbons	Nan
@@ -2331,7 +2331,7 @@ jane	jane	Nan
 janet	janet	Nan
 japan	japan	Nan
 japaneg	japanese	Nan
-japanese	ede japan	Nan
+japanese	ede	None
 jarman	akọni	Nan
 java	java	Nan
 jay	jay	Nan
@@ -2415,7 +2415,7 @@ isa	jẹ	Nan
 isaac	isale	Nan
 isabella	isabella	Nan
 isaf	ni asuwon ti	Nan
-isafrif	ẹlẹgbẹ kekere	Nan
+isafrif	kekere	None
 isalmaeneg	dutch	Nan
 ira	iraye	Nan
 ir	áì	Nan
@@ -2441,9 +2441,9 @@ internet	intanẹẹti	Nan
 iw	iw	Nan
 isbn	isbn	Nan
 isdeulu	subfamily	Nan
-israeliaid	awọn ọmọ israeli	Nan
+israeliaid	ọmọ	None
 isranbarth	subdistrict	Nan
-israniadau	awọn ile ipin	Nan
+israniadau	ipin	None
 isrywogaeth	subspepes	Nan
 isrywogaethau	subspepes	Nan
 issn	issn	Nan
@@ -2456,8 +2456,8 @@ italiano	italiano	Nan
 iv	iv	Nan
 ive	ive	Nan
 ives	ives	Nan
-israelaiddpalesteinaidd	ọmọ alade palestine	Nan
-israelaidd	ọmọ israel	Nan
+israelaiddpalesteinaidd	ọmọ	None
+israelaidd	ọmọ	None
 israel	israeli	Nan
 isotopau	isotopes	Nan
 isdrofannol	subtropical	Nan
@@ -2486,12 +2486,12 @@ tripled	meteta	Nan
 tripoli	tripoli	Nan
 tro	nipasẹ	Nan
 trochydd	ounjẹ	Nan
-trodd	o yipada	Nan
+trodd	yipada	None
 troed	ẹsẹ	None
 troedfedd	ẹsẹ	None
 troellwr	alẹ alẹ	Nan
 troellwyr	alẹ alẹ	Nan
-troes	mo yipada	Nan
+troes	yipada	None
 trofannau	awọn nwaye	Nan
 trofannol	tropical	Nan
 troi	yiyi	Nan
@@ -2540,10 +2540,10 @@ trwchus	nipọn	Nan
 troseddau	awọn ẹṣẹ	Nan
 troseddol	ọdaran	Nan
 trosglwyddiant	gbigbe	Nan
-trosglwyddir	gbe ka	Nan
+trosglwyddir	gbe	None
 trosglwyddo	gbigbe	Nan
 trosglwyddor	atagba	Nan
-trosglwyddwyd	ti o ti gbe	Nan
+trosglwyddwyd	gbe	None
 treigladau	awọn iyipada	Nan
 trosglwydydd	atagba	Nan
 trosiad	afiwe	Nan
@@ -2559,7 +2559,7 @@ treftadaeth	ogún	Nan
 trefol	ilu	Nan
 tonga	eṣu	Nan
 tonnau	igbi	Nan
-tony	ikan isere	Nan
+tony	ikan	None
 too	paapaa	None
 top	oke	Nan
 topograffig	àjẹjù	Nan
@@ -2569,7 +2569,7 @@ torfol	ọpọ	Nan
 torri	fọ	Nan
 torrin	torrin	Nan
 torrir	ge	Nan
-torrodd	o bu	Nan
+torrodd	bu	None
 torrwyd	ṣẹ	Nan
 town	ilu	Nan
 tone	ohun orin	Nan
@@ -2666,7 +2666,7 @@ uchafbwynt	gongo	Nan
 uchder	gíga	Nan
 uchel	ga	Nan
 ucheldiroedd	awọn oke-nla	Nan
-uchelgeisiol	ifẹ agbara	Nan
+uchelgeisiol	agbara	None
 uchelwyr	awọn ọlọla	Nan
 uchod	loke	Nan
 uda	júdà	Nan
@@ -2759,7 +2759,7 @@ tystion	awọn ẹlẹri	Nan
 tywi	tywi	Nan
 tywod	iyanrin	Nan
 tywodfaen	okuta didan	Nan
-tywydd	oju ojo	Nan
+tywydd	ojo	None
 tywyll	dudu	Nan
 tywyn	didan	Nan
 tywys	itọsọna	Nan
@@ -2772,7 +2772,7 @@ tynged	kadara	None
 tymor	akoko	Nan
 twristaidd	oniriajo	Nan
 twristiaeth	irin-ajo	Nan
-twristiaid	aririn ajo	Nan
+twristiaid	ajo	None
 twyni	awọn ẹwa	Nan
 tybiedig	ṣe agbelera	Nan
 tyddewi	st davids	Nan
@@ -2811,7 +2811,7 @@ tango	tango	Nan
 tanddaearol	ipamo	Nan
 taleban	talban	Nan
 taleithiau	agbegbe	Nan
-tales	awon to fun	Nan
+tales	fun	None
 talfan	iyipo	Nan
 talfyriad	kikọkuro	Nan
 taliesin	taliesin	Nan
@@ -2832,20 +2832,20 @@ teigrod	ẹyẹ	Nan
 teils	awọn alẹmọ	Nan
 teimlad	rilara	Nan
 teimladau	ikunsinu	Nan
-teimlai	o ro	Nan
+teimlai	ro	None
 teip	ikuna	Nan
 teisen	akara oyinbo	Nan
-teithiau	awọn irin ajo	Nan
+teithiau	ajo	None
 teithio	irin-ajo	Nan
-teithiodd	o ajo	Nan
-teithwyr	awọn aririn ajo	Nan
+teithiodd	ajo	None
+teithwyr	ajo	None
 teitl	akọle	Nan
 teledu	tẹlifisiọnu	Nan
 teledur	téréré	Nan
 teleffon	tẹlifoonu	Nan
 teigr	ẹyẹ	Nan
 teifi	teifi	Nan
-tehuelches	ọgbọn ori	Nan
+tehuelches	ori	None
 tegla	degla	Nan
 tawel	dakẹrọrọ	Nan
 taylor	taylor	Nan
@@ -2872,9 +2872,9 @@ symuda	gbe	None
 symudiad	ronu	Nan
 symudiadau	awọn agbeka	Nan
 symudiadaur	ronu	Nan
-symudodd	o gbe	Nan
+symudodd	gbe	None
 symudol	alagbeka	Nan
-symudwyd	ti gbe	Nan
+symudwyd	gbe	None
 symyd	gbe	None
 syn	ti o jẹ	Nan
 syndrom	aarun	Nan
@@ -2907,7 +2907,7 @@ telegraph	tẹlifoonu	Nan
 syniadau	awọn imọran	Nan
 syrffio	hiho	Nan
 tacsonomeg	asonwoori	Nan
-tactegau	awọn ilana	Nan
+tactegau	ilana	None
 tad	baba	Nan
 taf	daf	Nan
 taffi	ẹyẹ tofe	Nan
@@ -2984,14 +2984,14 @@ thwristiaeth	irin-ajo	Nan
 thyfiant	idagba	Nan
 thyfodd	o dagba	Nan
 tirfeddianwyr	onile	Nan
-tirffurf	ibilẹ ilẹ	Nan
+tirffurf	ilẹ	None
 tirffurfiau	landforms	Nan
 tirgaeedig	ilẹ	None
 tiriogaeth	agbegbe	Nan
 tiriogaethau	awọn agbegbe	Nan
 tiriogaethaur	awọn agbegbe	Nan
 tirlun	ala-ilẹ	Nan
-tiroedd	awọn ilẹ	Nan
+tiroedd	ilẹ	None
 tirwedd	ala-ilẹ	Nan
 tit	titẹsi	Nan
 titan	titan	Nan
@@ -3000,7 +3000,7 @@ titles	awọn akọle	Nan
 tito	tito	Nan
 tirfeddiannwr	onile	Nan
 tir	ilẹ	None
-tipyn	oyimbo kan bit	Nan
+tipyn	kan	None
 tinwen	tinwen	Nan
 thymheredd	otutu	None
 thŷ	ilé	None
@@ -3039,9 +3039,9 @@ teyrnas	ijọba	Nan
 teyrnasiad	jọba	Nan
 terry	ilẹkun	Nan
 tern	tern	Nan
-terms	awọn ofin	Nan
+terms	ofin	None
 terminoleg	imọ-jinlẹ	Nan
-telid	yoo san	Nan
+telid	yoo	None
 tell	sọ	None
 telor	jagunjagun	Nan
 teloriaid	jagunjagun	Nan
@@ -3052,11 +3052,11 @@ teyrnasodd	o jọba	Nan
 tennessee	tennessee	Nan
 terence	terence	Nan
 teresa	teresa	Nan
-terfyn	iye to	Nan
+terfyn	to	None
 terfyniad	ifopinsi	Nan
 terfysgol	apanilaya	Nan
 term	igba	Nan
-termau	awọn ofin	Nan
+termau	ofin	None
 tensiynau	aifokanbale	Nan
 television	tẹlifisiọnu	Nan
 teyrnasoedd	awọn ijọba	Nan
@@ -3072,20 +3072,20 @@ theodore	theodore	Nan
 theodosius	theodosius	Nan
 theori	yii	Nan
 theorïau	awọn imọ-jinlẹ	Nan
-there	ní bẹ	Nan
+there	ní	None
 theres	awọn iṣan	Nan
 thermodynameg	thermodynamics	Nan
 thermol	igbona	Nan
 theithio	irin-ajo	Nan
-their	wọn sọ	Nan
+their	sọ	None
 thebyg	jọra	Nan
 theatrau	imiran	Nan
 teyrnged	oriyin	Nan
 th	th	Nan
-thactegau	awọn ilana	Nan
+thactegau	ilana	None
 thad	baba	Nan
 thai	ile	Nan
-thaid	baba agba	Nan
+thaid	agba	None
 thair	mẹta	Nan
 teyrnasu	jọba	Nan
 thalaith	igberiko	None
@@ -3124,8 +3124,8 @@ ymddengys	o dabi pe	Nan
 ymddeol	ifẹhinti	Nan
 ymddiriedolaeth	gbekele	Nan
 ymddiswyddiad	itusilẹ	Nan
-ymddiswyddo	fi ipo han	Nan
-ymddiswyddodd	o tun fi ipo sile	Nan
+ymddiswyddo	ipo	None
+ymddiswyddodd	sile	None
 ymddoleniad	ìsírasílẹ	Nan
 ymddwyn	huwa	Nan
 ymddygiad	ihuwasi	Nan
@@ -3170,7 +3170,7 @@ ymhlith	laarin	None
 ymhob	ninu gbogbo	Nan
 ymhobman	ibi gbogbo	Nan
 ymladd	ija	Nan
-ymladdodd	ó jagun	Nan
+ymladdodd	ó	None
 ymladdwyd	won ja	Nan
 ymlaen	loju	Nan
 ymhen	bajẹ	Nan
@@ -3189,8 +3189,8 @@ ych	akọmalu	Nan
 ychen	malu	Nan
 ychwaith	boya	Nan
 ychwanegiadau	awọn afikun	Nan
-ychwanegir	ni yoo fi kun	Nan
-ychwanegodd	o fi kun	Nan
+ychwanegir	fi	None
+ychwanegodd	fi	None
 ychwanegol	afikun	Nan
 xi	xi	Nan
 x	x	Nan
@@ -3205,16 +3205,16 @@ wynion	funfun	Nan
 wynne	ọpọlọpọ	Nan
 ychwanegu	ṣafikun	Nan
 wyntoedd	efuufu	Nan
-wyrdd	alawọ ewe	Nan
+wyrdd	ewe	None
 wyt	se o	Nan
 wyth	mẹjọ	Nan
 wythfed	ikẹjọ	Nan
-wythnos	ọsẹ kan	Nan
+wythnos	kan	None
 wythnosol	sẹsẹ	Nan
 wythwr	mẹjọ	Nan
 wyntyll	àìpẹ	Nan
 ymsefydlodd	o yanju	Nan
-ychwanegwyd	fi kun	Nan
+ychwanegwyd	fi	None
 ydd	ed	Nan
 ymadael	ilọkuro	Nan
 ymadawiad	ilọkuro	Nan
@@ -3235,15 +3235,15 @@ yma	nibi	Nan
 ym	ym	Nan
 yi	yi	Nan
 yfed	inu mimu	Nan
-ydoedd	oun ni	Nan
+ydoedd	oun	None
 ydw	bẹẹni	Nan
 ydy	bẹẹni	Nan
 ydych	ti o ba wa	Nan
 ydym	a wa	Nan
 ydyn	bẹẹni	Nan
-ydynt	wọn jẹ	Nan
-ychydig	kekere die	Nan
-ydyr	oun ni	Nan
+ydynt	wọn	None
+ychydig	kekere	None
+ydyr	oun	None
 ydywr	bẹẹni	Nan
 year	ọdun	Nan
 years	ọdun	Nan
@@ -3251,7 +3251,7 @@ yeats	iwukara	Nan
 yellow	odo	Nan
 yemen	yemen	Nan
 yerevan	yerevan	Nan
-ydyw	oun ni	Nan
+ydyw	oun	None
 wylwyr	awọn oluwo	Nan
 ymsefydlu	fifa irọbi	Nan
 ymuno	darapo	None
@@ -3310,15 +3310,15 @@ zeppelin	zeppelin	Nan
 €	€	Nan
 éire	orile-ede ireland	Nan
 é	rẹ	None
-âu	pẹlu wọn	Nan
+âu	wọn	None
 âr	arable	Nan
 zetajones	awọn agbegbe ita	Nan
 zimbabwe	zimbabwe	Nan
 zubizarreta	zubizarreta	Nan
 zur	zur	Nan
 zygotic	zygotic	Nan
- km²	km²	Nan
- m	m	Nan
+km²	km²	Nan
+m	m	Nan
 ysgrifennir	o ti kọ	Nan
   	  	Nan
 °c	° c	Nan
@@ -3327,8 +3327,8 @@ ysgrifennir	o ti kọ	Nan
 átha	ṣeéṣe	Nan
 â	pẹlu	Nan
 âi	yoo	None
-ânt	wọn yoo lọ	Nan
- °c	° c	Nan
+ânt	yoo	None
+°c	° c	Nan
 ysgrifenedig	kọ	Nan
 ysgrifen	kikọ	Nan
 ysgrifau	awọn iwe	Nan
@@ -3346,12 +3346,12 @@ ynglyn	nipa	Nan
 ynglŷn	nipa	Nan
 ynni	agbara	None
 ynnir	eeru	Nan
-yno	ní bẹ	Nan
+yno	ní	None
 yng	ninu	Nan
-ynddynt	ninu wọn	Nan
+ynddynt	wọn	None
 ynddo	ninu e	Nan
 ynddi	ninu e	Nan
-ymunodd	o darapo	Nan
+ymunodd	darapo	None
 ymweld	ṣàbẹwò	Nan
 ymweliad	ṣàbẹwò	Nan
 ymwelodd	o ṣàbẹwò	Nan
@@ -3366,14 +3366,14 @@ ymyrraeth	kikọlu	Nan
 ymysg	laarin	None
 yn	ninu	Nan
 yna	lẹhinna	Nan
-ynan	ní bẹ	Nan
+ynan	ní	None
 ymyl	eti	Nan
 ymsefydlwyr	atipo	Nan
 ynydiad	fesi	Nan
 ynydu	lẹhinna	Nan
 ysbrydoli	iwuri	Nan
 ysbrydolodd	o atilẹyin	Nan
-ysbytai	awọn ile iwosan	Nan
+ysbytai	iwosan	None
 ysbyty	ile-iwosan	Nan
 ysgafn	ina	Nan
 ysgafnach	fẹẹrẹ	Nan
@@ -3451,7 +3451,7 @@ wasg	tẹ	Nan
 weddol	iṣẹtọ	Nan
 wedi	ní	None
 wedii	lẹhin	Nan
-wedir	o ti sọ	Nan
+wedir	sọ	None
 wediu	lẹhin	Nan
 wediw	lẹhin	Nan
 wedyn	lẹhinna	Nan
@@ -3472,7 +3472,7 @@ wasgedd	titẹ	Nan
 washington	aṣọ iwẹ	Nan
 wastad	nigbagbogbo	Nan
 wastadedd	ipalọlọ	Nan
-wastadeddau	awọn ipele	Nan
+wastadeddau	ipele	None
 water	omi	None
 waelod	isalẹ	Nan
 waters	omi	None
@@ -3537,7 +3537,7 @@ vlaamse	vlaamse	Nan
 voice	ohun	Nan
 von	von	Nan
 vous	alagbara	Nan
-voyager	irin ajo	Nan
+voyager	ajo	None
 vulgaris	vulgaris	Nan
 vulpes	awọn irubọ	Nan
 vun	vun	Nan
@@ -3586,7 +3586,7 @@ wnaeth	o ṣe	Nan
 wlster	oluṣeto	Nan
 with	pẹlu	Nan
 without	laisi	Nan
-wives	awọn aya	Nan
+wives	aya	None
 wiwer	squirrel	Nan
 wj	wj	Nan
 wlad	orilẹ-ede	Nan
@@ -3632,7 +3632,7 @@ wres	igbona	Nan
 witches	awọn ajẹ	Nan
 wrethra	ile ito	Nan
 wrthdaro	rogbodiyan	None
-wrthi	ni rẹ	Nan
+wrthi	rẹ	None
 wrtho	fún un	Nan
 wrthrych	nnkan	Nan
 wrthryfel	iṣọtẹ	Nan
@@ -3643,7 +3643,7 @@ witchcraft	ajẹ	Nan
 witch	ajẹ	Nan
 wisg	aṣọ	Nan
 wenwynig	majele	Nan
-werdd	alawọ ewe	Nan
+werdd	ewe	None
 were	wà	Nan
 werin	eniyan	Nan
 weriniaeth	olominira	Nan
@@ -3736,7 +3736,7 @@ ranbarth	ẹkùn	Nan
 ranbarthau	awọn ẹkun ni	Nan
 ranbarthol	agbegbe	Nan
 ragfyr	oṣu kejila	Nan
-randstad	ọkọ ogun	Nan
+randstad	ogun	None
 rafah	raafá	Nan
 radiws	ologbo	Nan
 qomolangma	qomolangma	Nan
@@ -3756,7 +3756,7 @@ raddol	di .di.	Nan
 radio	redio	Nan
 rafael	ẹyẹ	Nan
 randy	olufẹ	Nan
-raniadau	awọn ipin	Nan
+raniadau	ipin	None
 rannau	awọn ẹya	Nan
 recordiodd	o gbasilẹ	Nan
 records	awọn igbasilẹ	Nan
@@ -3765,7 +3765,7 @@ red	pupa	None
 redbreasted	atunkọ	Nan
 redeg	nṣiṣẹ	Nan
 rednecked	ti tunṣe	Nan
-redpoll	awọ pupa	Nan
+redpoll	pupa	None
 redstart	atunto	Nan
 redthroated	tunṣe	Nan
 reed	di	Nan
@@ -3786,7 +3786,7 @@ rattigan	rattigan	Nan
 ravel	rave	Nan
 qatar	qatar	Nan
 rawson	rawson	Nan
-raymond	epo pupa	Nan
+raymond	pupa	None
 rb	rb	Nan
 read	ka	Nan
 reading	kika	Nan
@@ -3812,9 +3812,9 @@ pwyleg	pólándì	Nan
 pwyliaid	awọn ọpá	Nan
 pwyll	pele	None
 pwyllgor	igbimo	Nan
-pwerau	awọn agbara	Nan
+pwerau	agbara	None
 pusilla	ìromi	Nan
-purt	awọn ebute oko oju omi	Nan
+purt	omi	None
 purple	elese	Nan
 prysur	nṣiṣe lọwọ	Nan
 príncipe	itẹwe	Nan
@@ -3867,10 +3867,10 @@ px|baner	px | asia	Nan
 px|bawd|castell	px | atanpako | kasulu	Nan
 px|bawd|de|y	px | bawd | de | y	Nan
 px|bawd|hen	px | atan | | gboo	Nan
-px|bawd|lleoliad	px | atanpako | ipo	Nan
+px|bawd|lleoliad	ipo	None
 px|bawd|llun	px | atanpako | aworan	Nan
 px|bawd|logo	px | bawd | àmi	Nan
-px|bawd|map	px | atanpako | maapu	Nan
+px|bawd|map	maapu	None
 px|bawd|baner	px | atanpako | asia	Nan
 prynu	ra	None
 reilffordd	reluwe	Nan
@@ -3892,7 +3892,7 @@ rhuddlan	ẹwẹ-kekere	Nan
 rhufain	lomu	Nan
 rhoddwyd	fifun	Nan
 rhufeiniad	romanization	Nan
-rhoddodd	o fun	Nan
+rhoddodd	fun	None
 rhoda	fifun	Nan
 rhestru	kikojọ	Nan
 rheswm	idi	Nan
@@ -3905,7 +3905,7 @@ rhieni	awọn obi	Nan
 rhif	rárá	Nan
 rhifau	awọn nọmba	Nan
 rhinoplasti	rhinoplasty	Nan
-rhinwedd	iwa rere	Nan
+rhinwedd	rere	None
 rhisiart	epo igi	Nan
 rhith	iruju	Nan
 rhod	rìn	None
@@ -3925,9 +3925,9 @@ rhyfelgyrch	ipolongo	Nan
 rhyfeloedd	ogun	None
 rhyfelwr	jagunjagun	Nan
 rhyl	agba	None
-rhyngddi	laarin oun	Nan
+rhyngddi	oun	None
 rhyngddisgyblaethol	ajọṣepọ	Nan
-rhyngddynt	laarin won	Nan
+rhyngddynt	laarin	None
 rhyddid	ominira	Nan
 rhyddiaith	prose	Nan
 rhyddhawyd	tu silẹ	Nan
@@ -3950,7 +3950,7 @@ rhyddfrydol	olutayo	Nan
 rhyddhaodd	o tu	Nan
 rhybudd	ikilọ	Nan
 rhestr	atokọ	Nan
-rhesi	awọn ori ila	Nan
+rhesi	ori	None
 rhes	kana	Nan
 resymau	awọn idi	Nan
 reykjavík	reykjavík	Nan
@@ -3974,8 +3974,8 @@ responsible	lodidi	Nan
 remus	atunṣe	Nan
 rennir	pin	Nan
 reolaeth	iṣakoso	Nan
-reolai	o ṣe ilana	Nan
-reolau	awọn ofin	Nan
+reolai	ilana	None
+reolau	ofin	None
 reoli	iṣakoso	Nan
 reolir	ti ṣakoso	Nan
 rhaid	o gbọdọ	Nan
@@ -3995,13 +3995,13 @@ rheilffordd	reluwe	Nan
 rheilffyrdd	ọkọ oju-irin	Nan
 rhein	iwọnyi	Nan
 rheini	awon na	Nan
-rhengoedd	awọn ipo	Nan
+rhengoedd	ipo	None
 rheniwm	rhenium	Nan
 rhennir	o pin	Nan
 rheol	ṣàkóso	Nan
 rheolaeth	iṣakoso	Nan
 rheolaidd	nigbagbogbo	Nan
-rheolau	awọn ofin	Nan
+rheolau	ofin	None
 rheoli	iṣakoso	Nan
 rheolir	dari	Nan
 rheolwr	oluṣakoso	Nan
@@ -4022,14 +4022,14 @@ rhannol	ni apakan	Nan
 rhannun	pin	Nan
 rhannur	pinpin	Nan
 rhannwyd	ti pin	Nan
-rhatach	din owo	Nan
+rhatach	din	None
 rhed	sáré	Nan
 rhedeg	nṣiṣẹ	Nan
 rhediad	sáré	Nan
 rhannu	pin	Nan
 rhynglywodraethol	ajọṣepọ ajọṣepọ	Nan
 prynhawn	ọsán	Nan
-pryf	kokoro kan	Nan
+pryf	kan	None
 phoblogaeth	olugbe	Nan
 phoblogrwydd	gbaye-gbale	Nan
 phocaena	ẹṣẹ	Nan
@@ -4043,7 +4043,7 @@ phrif	akọkọ	Nan
 phrifddinas	olú ìlú	Nan
 phrifysgol	yunifasiti	Nan
 phriodas	igbeyawo	None
-phriodi	ti ni iyawo	Nan
+phriodi	iyawo	None
 phriodweddau	awọn ohun-ini	Nan
 phobl	eniyan	Nan
 phryd	nigbawo	Nan
@@ -4066,7 +4066,7 @@ phlanhigion	eweko	Nan
 phlant	ọmọ	None
 phlentyn	ọmọ	None
 phrydain	gẹẹsi	Nan
-phum	pupa buulu toṣokunkun	Nan
+phum	pupa	None
 phwy	àjọ who	Nan
 pkm	pkm	Nan
 pla	aarun	Nan
@@ -4099,10 +4099,10 @@ pidyn	kòfẹ	Nan
 pier	afara	Nan
 pierre	gun	None
 pig	beak	Nan
-pilen	awo ilu	Nan
+pilen	awo	None
 pileri	àwọn ọwọ̀n	Nan
 pilipinas	awọn agekuru	Nan
-pinc	awọ pupa	Nan
+pinc	pupa	None
 pied	lu	Nan
 pharhaodd	o tesiwaju	Nan
 pharc	gbesile	Nan
@@ -4124,7 +4124,7 @@ peppers	ata	Nan
 pepsin	pepsin	Nan
 penodwyd	yan	None
 penodol	pàtó	Nan
-penododd	o yan	Nan
+penododd	yan	None
 penodi	ipinnu lati pade	Nan
 penderfynodd	o pinnu	Nan
 penderfynu	pinnu	Nan
@@ -4165,7 +4165,7 @@ perthyn	ohun ini	Nan
 perthnasol	ibaramu	Nan
 perswadiwyd	yiro	Nan
 personol	ti ara ẹni	Nan
-pererindod	irin ajo	Nan
+pererindod	ajo	None
 perfformiad	imuṣere	Nan
 perfformiadau	awọn iṣe	Nan
 perfformio	ṣe	Nan
@@ -4186,15 +4186,15 @@ pryfed	kokoro	Nan
 please	jowo	Nan
 pleidleisio	idibo	Nan
 prin	igboro	Nan
-prince	ọmọ alade	Nan
+prince	ọmọ	None
 princes	awọn ọmọ-alade	Nan
 principal	olukọ	Nan
 prinder	aito	Nan
 printed	tejede	Nan
-priod	ti ni iyawo	Nan
+priod	iyawo	None
 priodas	igbeyawo	None
-priodi	se igbeyawo	Nan
-priododd	ti ni iyawo	Nan
+priodi	igbeyawo	None
+priododd	iyawo	None
 priodoleddau	awọn eroja	Nan
 priodolwyd	ikawe	Nan
 priodweddau	awọn ohun-ini	Nan
@@ -4255,7 +4255,7 @@ prokofiev	prokofiev	Nan
 promenad	isọtẹlẹ	Nan
 prop	ti ikede	Nan
 proses	ilana	None
-prosesau	awọn ilana	Nan
+prosesau	ilana	None
 prosiect	ise agbese	Nan
 protein	amuaradagba	Nan
 project	ise agbese	Nan
@@ -4277,7 +4277,7 @@ polisi	eto imulo	Nan
 polisïau	imulo	Nan
 politicaidd	oselu	Nan
 poly	ọpọ	Nan
-poblog	gbe jade	Nan
+poblog	gbe	None
 pobloedd	awọn eniyan	Nan
 pobl	eniyan	Nan
 pob	eniyan	Nan
@@ -4286,7 +4286,7 @@ plentyndod	ewe	None
 pleser	idunnu	Nan
 plinius	plinius	Nan
 plisgyn	ikarahun	Nan
-plith	laarin yin	Nan
+plith	laarin	None
 plover	plover	Nan
 polyn	òpó	Nan
 pluvialis	pluvialis	Nan
@@ -4331,7 +4331,7 @@ polypeptid	polypeptide	Nan
 port	ibudo	Nan
 porthaethwy	amudani	Nan
 porthladd	ibudo	Nan
-porthladdoedd	awọn ebute oko oju omi	Nan
+porthladdoedd	omi	None
 porthmadog	portmadog	Nan
 porthmyn	apanirun	Nan
 portiwgal	ilu pọtugali	Nan
@@ -4364,7 +4364,7 @@ sierra	sierra	Nan
 sifil	ara ilu	Nan
 sifiliaid	alagbada	Nan
 siglen	fifi	Nan
-signalau	awọn ifihan agbara	Nan
+signalau	agbara	None
 sil	idogo	Nan
 silicon	ohun alumọni	Nan
 sillaf	ọṣẹ-ohun	Nan
@@ -4412,7 +4412,7 @@ slafeg	slavic	Nan
 slate	ọpá	Nan
 slater	apaniyan	Nan
 slofacia	slovakia	Nan
-slofeneg	ede slovenia	Nan
+slofeneg	ede	None
 skua	skua	Nan
 siegfried	siegfried	Nan
 sieffre	aso	Nan
@@ -4451,7 +4451,7 @@ sgwâr	square	Nan
 sgìl	olorijori	Nan
 sgîl	nitorina na	Nan
 sgïo	sikiini	Nan
-sgôr	o wole	Nan
+sgôr	wole	None
 sgript	iwe afọwọkọ	Nan
 solomon	adashe	Nan
 shrew	gbọn	Nan
@@ -4485,10 +4485,10 @@ siapan	ọṣẹ	Nan
 shrike	gbọn	Nan
 siapaneg	japanese	Nan
 siarad	sọrọ	Nan
-siaradir	o ti sọ	Nan
+siaradir	sọ	None
 siaradodd	o sọrọ	Nan
 siaradwr	agbọrọsọ	Nan
-siaradwyd	a sọ	Nan
+siaradwyd	sọ	None
 siaradwyr	awọn agbohunsoke	Nan
 siaredid	sọ	None
 siapau	awọn apẹrẹ	Nan
@@ -4575,7 +4575,7 @@ strategaeth	nwon.mirza	Nan
 spoken	sọ	None
 spongiosum	spongiosum	Nan
 spotted	iranran	Nan
-spring	orisun omi	Nan
+spring	omi	None
 squirrel	squirrel	Nan
 sri	sri	Nan
 ss	s	Nan
@@ -4789,19 +4789,19 @@ rocedi	awọn apata	Nan
 rock	apata	Nan
 rocket	rọkẹti	Nan
 roddir	fifun	Nan
-roddodd	o fun	Nan
+roddodd	fun	None
 roddwyd	fifun	Nan
-roedd	oun ni	Nan
+roedd	oun	None
 roc	apata	Nan
 roedden	o jẹ	Nan
-roeddynt	wọn wa	Nan
+roeddynt	wọn	None
 roeg	fifun	Nan
 roegaidd	griki	Nan
 roger	roger	Nan
 roi	fifun	Nan
 roir	ọkọ oju-irin	Nan
 rol	ipa	Nan
-roeddent	wọn wa	Nan
+roeddent	wọn	None
 saeson	arakunrin gẹẹsi	Nan
 saethau	ọfa	Nan
 saethodd	o gbon	Nan
@@ -4819,7 +4819,7 @@ seilio	mimọ	Nan
 seilir	cellar	Nan
 seiliwyd	orisun	None
 seine	seine	Nan
-seineg	awọn orisun	Nan
+seineg	orisun	None
 sefydlur	oludasile	Nan
 sefydlu	ṣeto	Nan
 sefydlogrwydd	iduroṣinṣin	Nan
@@ -4880,7 +4880,7 @@ senegal	senior	Nan
 sengl	ẹyọkan	Nan
 senglau	awọn ẹlẹgbẹ	Nan
 semenaidd	ẹkọ ile-ẹkọ giga	Nan
-penderfyniad	ipinnu kan	Nan
+penderfyniad	kan	None
 scrofa	kọ	Nan
 scott	scott	Nan
 sais	sash	Nan
@@ -4908,7 +4908,7 @@ saethwyr	tafàtafà	Nan
 safbwynt	bi o se ri si	Nan
 safbwyntiau	awọn iwo	Nan
 safle	aaye	Nan
-safleodd	o si ipo	Nan
+safleodd	ipo	None
 sancsiynau	awọn ijẹniniya	Nan
 safleoedd	awọn aaye	Nan
 safon	boṣewa	Nan
@@ -4924,7 +4924,7 @@ sanctaidd	mimọ	Nan
 sand	iyanrin	Nan
 sbaen	ilu sibeeni	Nan
 sbaenaidd	hisipaniki	Nan
-sbaeneg	ede spanish	Nan
+sbaeneg	ede	None
 sbectrwm	igbohunsafẹfẹ	Nan
 sberm	sugbọn	Nan
 sbwriel	idalẹnu	Nan
@@ -4976,7 +4976,7 @@ catherine	catherine	None
 cathod	ologbo	Nan
 catholig	ẹlẹsin ẹlẹsin	Nan
 catref	ile	Nan
-categoritywysogaethau	awọn ipin	Nan
+categoritywysogaethau	ipin	None
 catrin	catrin	Nan
 categoritywydd	categorism	Nan
 categoriteledu	isori	Nan
@@ -4985,8 +4985,8 @@ categoriplanhigion	eweko ẹka	Nan
 categoripobl	eniyan ẹka	Nan
 categoriprifddinasoedd	olu ilu	Nan
 categorirhaglenni	awọn akojọ aṣayan ẹka	Nan
-categorirhanbarthau	awọn ẹkun ti ipin	Nan
-categorirhestrau	awọn ipin	Nan
+categorirhanbarthau	ipin	None
+categorirhestrau	ipin	None
 categorirhyngrwyd	ẹya ayelujara	Nan
 categorirhyw	tito lẹšẹšẹ	Nan
 categorisafleoedd	ẹka ojula	Nan
@@ -5022,7 +5022,7 @@ cawl	bimo	Nan
 cawn	bẹẹni	Nan
 cawr	omiran	Nan
 caws	warankasi	Nan
-cawsant	wọn ni	Nan
+cawsant	wọn	None
 cc	cc	Nan
 ccc	plc	Nan
 categoriofferynnau	awọn irinṣẹ categoryof	Nan
@@ -5030,7 +5030,7 @@ cd	cd	Nan
 cebl	okun	Nan
 cedor	kedari	Nan
 cedwir	o ti wa ni ifipamọ	Nan
-ceffyl	ẹṣin kan	Nan
+ceffyl	kan	None
 ceffylau	ẹṣin	Nan
 cefn	sẹhin	Nan
 cefndir	lẹhin	Nan
@@ -5046,7 +5046,7 @@ categoricristnogaeth	ẹya ti kristiẹniti	Nan
 categoricwmnïau	awọn ẹka	Nan
 categoricyfandiroedd	awọn ẹka ti awọn ile aye	Nan
 categoricyfathrebu	isọdi ti ibaraẹnisọrọ	Nan
-categoricyfraith	ẹka ti ofin	Nan
+categoricyfraith	ofin	None
 categoricyfrifiadureg	iṣiro isori	Nan
 categoricyfrifiaduro	iṣiro isori	Nan
 categoricyfryngau	media ẹka	Nan
@@ -5084,16 +5084,16 @@ categorihamdden	igbadun ẹka	Nan
 categorihanes	ẹka ti itan	Nan
 categorihindŵaeth	ẹka	Nan
 categorihylifau	ẹka ti awọn olomi	Nan
-categoriieithoedd	awọn ede ẹka	Nan
+categoriieithoedd	ede	None
 categorillenyddiaeth	litireso kikọ	Nan
 categorillywodraeth	ijoba ẹka	Nan
 categorimamaliaid	categorimamals	Nan
-categorimarwolaethau	isori ti iku	Nan
+categorimarwolaethau	iku	None
 categorimeddalwedd	awọn ẹka sọfitiwia	Nan
 categorimetelau	awọn ẹka	Nan
 categorimisoedd	awọn ẹka	Nan
 categorigwybodaeth	alaye ẹka	Nan
-categorigwrthdaro	rogbodiyan ẹka	Nan
+categorigwrthdaro	rogbodiyan	None
 categorigwleidyddion	oloselu ẹka	Nan
 categorigwleidyddiaeth	iselu categorical	Nan
 categoridiodydd	awọn ẹka	Nan
@@ -5113,7 +5113,7 @@ categorigweithredwyr	ajafitafita ẹka	Nan
 categorigweriniaethau	awọn isori ti awọn oogun	Nan
 categorigwledydd	awọn ẹka ti awọn orilẹ-ede	Nan
 categoriffiseg	isori	Nan
-categoriafiechydon	eya ti arun	Nan
+categoriafiechydon	arun	None
 celfyddyd	aworan	Nan
 celfyddydol	ona ona	Nan
 chiang	chiang	Nan
@@ -5128,7 +5128,7 @@ china	ṣaina	Nan
 chipio	mú	Nan
 chipiodd	o mu	Nan
 chlorus	klarisu	Nan
-chodi	gbe dide	Nan
+chodi	gbe	None
 chofadeiladau	awọn arabara	Nan
 choice	yiyan	Nan
 chi	iwo	Nan
@@ -5140,7 +5140,7 @@ chariad	ni ife	Nan
 charlie	ṣaja	Nan
 charlotte	charlotte	Nan
 chastell	ile odi	Nan
-chawsant	wọn ni	Nan
+chawsant	wọn	None
 chefnfor	okun	Nan
 chefnogaeth	atilẹyin	Nan
 cheir	oko	None
@@ -5187,7 +5187,7 @@ church	ijo	Nan
 churchill	churchill	Nan
 chwaer	arabinrin	Nan
 chwaith	boya	Nan
-chwalu	ko ṣiṣẹ	Nan
+chwalu	ko	None
 chwant	ifẹkufẹ	Nan
 chuck	chuck	Nan
 chaplin	tẹmpili	Nan
@@ -5213,7 +5213,7 @@ cenhedloedd	iran	Nan
 cenhadon	míṣọ́nnárì	Nan
 cenedlaetholwyr	nationalists	Nan
 cell	sẹẹli	Nan
-cellbilen	awo ilu	Nan
+cellbilen	awo	None
 celloedd	ẹyin	Nan
 celt	celt	Nan
 celtaidd	sẹẹli	Nan
@@ -5241,7 +5241,7 @@ chamberlain	iyẹwu	Nan
 chan	kii ṣe	Nan
 chandler	chandler	Nan
 chaneuon	awọn orin	Nan
-chaniateir	ko gba laaye	Nan
+chaniateir	gba	None
 channel	ikanni	Nan
 chanol	àárín	None
 chanolbarth	aarin wales	Nan
@@ -5263,7 +5263,7 @@ cesar	késárì	Nan
 cestyll	awọn kasulu	Nan
 ceton	ketone	Nan
 ceunant	alayeye	Nan
-cewch	iwọ yoo	Nan
+cewch	yoo	None
 cewri	awọn omiran	Nan
 cf	cf	Nan
 ch	ch	Nan
@@ -5272,7 +5272,7 @@ chwedl	arosọ	Nan
 categoriadloniant	idanilaraya ẹka	Nan
 categori	ẹka	Nan
 byr	kukuru	Nan
-byrddau	awọn tabili	Nan
+byrddau	tabili	None
 byrion	owo kukuru	Nan
 byrne	mì	Nan
 bysantaidd	byzantine	Nan
@@ -5292,14 +5292,14 @@ bynciau	wonyen	Nan
 bymtheg	mẹẹdogun	Nan
 bydd	yoo	None
 byddai	bẹẹni	Nan
-byddain	mo ti yoo	Nan
+byddain	yoo	None
 byddair	etí	Nan
-byddent	wọn yoo	Nan
-byddin	ọmọ ogun	Nan
-byddinoedd	ọmọ ogun	Nan
+byddent	yoo	None
+byddin	ogun	None
+byddinoedd	ogun	None
 byddwch	jẹ	Nan
 bydeang	kariaye	Nan
-bydenwog	olokiki agbaye	Nan
+bydenwog	agbaye	None
 bydysawd	agbaye	None
 byfflo	ẹtu	Nan
 bygwth	idẹruba	Nan
@@ -5375,7 +5375,7 @@ buasai	yoo	None
 bucephala	bucephala	Nan
 buchedd	igbesi aye	Nan
 buteo	buteo	Nan
-buckland	ilẹ oyinbo	Nan
+buckland	ilẹ	None
 budd	anfani	Nan
 buddsoddi	idokowo	Nan
 buddugoliaeth	isegun	Nan
@@ -5388,7 +5388,7 @@ caeth	muna	Nan
 butler	alagbẹdẹ	Nan
 buwch	maalu	Nan
 bws	bosi	Nan
-bwthyn	ile kekere	Nan
+bwthyn	kekere	None
 bwy	àjọ who	Nan
 bwyd	oúnjẹ	None
 bwydo	ono	Nan
@@ -5412,7 +5412,7 @@ bwdhaeth	buddhism	Nan
 bwdhaidd	ẹlẹsin buddhist	Nan
 bwdiaeth	buddhism	Nan
 bwer	agbara	None
-bwerau	awọn agbara	Nan
+bwerau	agbara	None
 butterflies	labalaba	None
 bwlch	alafo	Nan
 bwlgaria	bulgaria	Nan
@@ -5422,17 +5422,17 @@ bwrdd	tabili	None
 bwrdeisdref	adugbo	Nan
 bwrdeistref	adugbo	Nan
 bwriad	idi	Nan
-bwlgareg	ede bulgaria	Nan
+bwlgareg	ede	None
 categoriactorion	awọn ẹka	Nan
 caethion	awọn igbekun	Nan
-caethwasiaeth	oko eru	Nan
+caethwasiaeth	oko	None
 carcharorion	awọn ẹlẹwọn	Nan
 carcharwyd	ẹwọn	Nan
 cardell	kaadi	Nan
 cardinal	kadinal	Nan
 carduelis	kadimisiti	Nan
 carfan	ẹgbẹ	Nan
-carfil	kẹ̀kẹ́ ogun	Nan
+carfil	ogun	None
 cariad	ni ife	Nan
 caribi	caribi	Nan
 caribî	kariaye	Nan
@@ -5444,7 +5444,7 @@ carlos	carlos	Nan
 carchar	ẹwọn	Nan
 carn	opoplopo	Nan
 carbonifferaidd	carboniferous	Nan
-carbocsylig	ọkọ oju omi kekere	Nan
+carbocsylig	kekere	None
 canrifoedd	sehin	Nan
 cant	agbara	None
 cantores	akorin	Nan
@@ -5454,7 +5454,7 @@ canu	orin	Nan
 canwr	akorin	Nan
 cap	fila	Nan
 cape	iho	Nan
-capel	ile ijosin	Nan
+capel	ijosin	None
 capeli	awọn ile isin oriṣa	Nan
 capten	balogun	Nan
 car	ọkọ ayọkẹlẹ	Nan
@@ -5473,7 +5473,7 @@ castor	castor	Nan
 castro	fẹẹrẹ	Nan
 cat	o nran	Nan
 catalan	gbọdọ	Nan
-catalaneg	ede catalan	Nan
+catalaneg	ede	None
 cataleiddio	catalysis	Nan
 catalog	iwe ipolowo ọja	Nan
 catalonia	catalonia	Nan
@@ -5500,8 +5500,8 @@ casgliad	gbigba	Nan
 casgliadau	awọn ikojọpọ	Nan
 casglodd	o pejọ	Nan
 caru	ni ife	Nan
-canrif	orundun kan	Nan
-canrannau	awọn ipin lọna ọgọrun	Nan
+canrif	kan	None
+canrannau	ipin	None
 canran	ogorun	Nan
 calendr	kalẹnda	Nan
 calidris	calidris	Nan
@@ -5571,9 +5571,9 @@ caneuon	awọn orin	Nan
 camlas	odo odo	Nan
 canfod	ri	Nan
 canhwyllau	abẹla	Nan
-caniatau	gba laaye	Nan
-caniateir	ti gba laaye	Nan
-caniatáu	gba laaye	Nan
+caniatau	gba	None
+caniateir	gba	None
+caniatáu	gba	None
 caniatâd	igbanilaaye	Nan
 canis	ibori	None
 canllaw	itọsọna	Nan
@@ -5582,13 +5582,13 @@ brønsted	brønsted	Nan
 chwedlau	arosọ	Nan
 chwedlonol	arosọ	Nan
 cwsg	sun	None
-cwta	o kan	Nan
+cwta	kan	None
 cwtiad	ikun	Nan
 cwtiadwennol	arogbogbo	Nan
 cwymp	ṣubu	Nan
 cwympo	subu	Nan
 cwympodd	o ṣubu	Nan
-cychod	ọkọ oju-omi kekere	Nan
+cychod	kekere	None
 cychwyn	bẹrẹ	Nan
 cychwyna	bẹrẹ	Nan
 cychwynnodd	o bẹrẹ	Nan
@@ -5600,8 +5600,8 @@ cwrw	oti sekengberi	Nan
 cydnabod	itewogba	Nan
 cwrs	dajudaju	Nan
 cwrdd	pàdé	Nan
-cwch	ọkọ oju omi	Nan
-cwellyn	ọmọ ọdun meji	Nan
+cwch	omi	None
+cwellyn	ọmọ	None
 cweryl	aáwọ̀	Nan
 cwestiynau	awọn ibeere	Nan
 cwlt	egbeokunkun	Nan
@@ -5613,16 +5613,16 @@ cwmpas	dopin	Nan
 cwmpasu	ideri	Nan
 cwmwl	awọsanma	Nan
 cwningod	ehoro	Nan
-cwpan	ife kan	Nan
+cwpan	kan	None
 cwpled	tọkọtaya	Nan
 cwrdeg	kuridi	Nan
-cydnabyddir	o ti gba	Nan
+cydnabyddir	gba	None
 cydweithio	ifowosowopo	Nan
 cydweithredol	ifọwọsowọpọ	Nan
 cyfansoddwyr	oluṣeto	Nan
 cyfanswm	lapapọ	Nan
 cyfarfod	ipade	Nan
-cyfarfu	ó pàdé	Nan
+cyfarfu	ó	None
 cyfarfur	ohun elo	Nan
 cyfartaledd	aropin	Nan
 cyfartalog	aropin	Nan
@@ -5641,7 +5641,7 @@ cyfansoddiad	t’olofin	Nan
 cydweithredu	ifowosowopo	Nan
 cydymerawdwr	olú ọba	Nan
 cyf	sọ	None
-cyfaddefodd	o gba eleyi	Nan
+cyfaddefodd	eleyi	None
 cyfagos	nitosi	None
 cyfaint	iwọn didun	Nan
 cyfalaf	olu	Nan
@@ -5664,7 +5664,7 @@ croenddu	dudu	Nan
 croenwyn	funfun	Nan
 croes	rekọja	Nan
 croesbig	ọkọ oju-omi	Nan
-croesgadau	awọn ọmọ ogun	Nan
+croesgadau	ogun	None
 croesgadwyr	awọn onija	Nan
 croesi	líla	Nan
 croesir	o ti rekoja	Nan
@@ -5682,7 +5682,7 @@ creu	ẹda	Nan
 creur	ẹda	Nan
 crewyd	ṣẹda	Nan
 criafolen	rowan	Nan
-crib	ọmọ ogun	Nan
+crib	ogun	None
 criced	ere kiriketi	Nan
 crossbill	ohun iyipo	Nan
 cricieth	criccieth	Nan
@@ -5695,7 +5695,7 @@ cristnogion	kristiẹni	Nan
 cristnogol	kristiẹni	Nan
 crist	kristi	Nan
 cyfeillgarwch	ore	Nan
-croth	ọmọ inu	Nan
+croth	ọmọ	None
 croyw	alabapade	Nan
 crëyr	awon oloorun	Nan
 cu	cu	Nan
@@ -5753,7 +5753,7 @@ cylchred	ọmọ	None
 cylchrediad	san	Nan
 cyhuddwyd	onimo	Nan
 cyllidol	owo	Nan
-cyhuddo	fẹsun kan	Nan
+cyhuddo	kan	None
 cyhuddiad	ẹsùn	Nan
 cyfweliad	ifọrọwanilẹnuwo	Nan
 cyfyng	rọ	Nan
@@ -5766,7 +5766,7 @@ cyhoedd	gbangba	Nan
 cyhoeddi	te	Nan
 cyhoeddiad	ikede	Nan
 cyhoeddiadau	jẹ ti	Nan
-cyhoeddir	ni yoo ṣe atẹjade	Nan
+cyhoeddir	yoo	None
 cyhoeddodd	o kede	Nan
 cyhoeddus	gbangba	Nan
 cyhoeddwyd	ti kede	Nan
@@ -5789,7 +5789,7 @@ cymysg	dapọ	Nan
 cymysgedd	adalu	Nan
 cymysgu	dapọ	Nan
 cyn	ṣaaju	Nan
-cymorth	egba mi o	Nan
+cymorth	egba	None
 cymoedd	awọn afonifoji	Nan
 cymhwysiad	ohun elo	Nan
 cymhlethdod	complexity	Nan
@@ -5821,7 +5821,7 @@ cyflenwad	ipese	Nan
 cyflenwadau	agbari	Nan
 cyflenwol	ibaramu	Nan
 cyfleu	fihan	None
-cyflogi	gba oojọ	Nan
+cyflogi	gba	None
 cyflwr	majemu	Nan
 cyflwyniad	igbejade	Nan
 cyflwyno	tẹriba	Nan
@@ -5852,18 +5852,18 @@ cyffiniau	agbegbe	Nan
 cyfeiriad	adirẹsi	Nan
 cyflwynydd	olutayo	Nan
 cyflymaf	yiyara	Nan
-cyfreithiau	awọn ofin	Nan
+cyfreithiau	ofin	None
 cyfreithiol	t’olofin	Nan
 cyfreithiwr	agbejoro	Nan
 cyfres	jara	Nan
 cyfrif	akọọlẹ	Nan
 cyfrifiad	ìkànìyàn	Nan
 cyfrifiadur	kọmputa	Nan
-cyfrifiadureg	imo komputa sayensi	Nan
+cyfrifiadureg	komputa	None
 cyfrifiadurol	kọmputa	Nan
 cyfrifiaduron	awọn kọmputa	Nan
 cyfrol	iwọn didun	Nan
-cyfrolau	awọn ipele	Nan
+cyfrolau	ipele	None
 cyfrwng	alabọde	Nan
 cyfryngau	media	Nan
 cyfryw	iru	Nan
@@ -5910,7 +5910,7 @@ clefydau	arun	None
 club	ọgọ	Nan
 clefyd	aisan	Nan
 clawdd	banki	Nan
-cipiwyd	gba a	Nan
+cipiwyd	gba	None
 circus	circle	Nan
 cisalpina	cisalpina	Nan
 city	ilu	Nan
@@ -5934,11 +5934,11 @@ codau	awọn koodu	Nan
 codedig	dide	Nan
 codi	ere	Nan
 codiad	dide	Nan
-codir	ti gba agbara	Nan
+codir	agbara	None
 cododd	o dide	Nan
 codwyd	ni a ji dide	Nan
 coed	igi	Nan
-coeden	igi kan	Nan
+coeden	kan	None
 coedwig	igbo	Nan
 coedwigoedd	igbo	Nan
 coegylfinir	dãmu	Nan
@@ -5961,7 +5961,7 @@ cnau	eso	Nan
 cnewyllyn	ekuro	Nan
 cnydau	awọn irugbin	Nan
 co	co	Nan
-cobach	stick iranti kekere	Nan
+cobach	kekere	None
 coblyn	cobble	Nan
 coch	pupa	None
 cmcpen	cmcpen	Nan
@@ -5985,7 +5985,7 @@ chyhoeddwyd	ti kede	Nan
 chylchdro	iyipo	Nan
 chydnabod	itewogba	Nan
 chyda	pẹlu	Nan
-chychod	ọkọ oju-omi kekere	Nan
+chychod	kekere	None
 chwysu	lagun	Nan
 chwefror	oṣu kínní	Nan
 chwerw	kikoro	Nan
@@ -6007,9 +6007,9 @@ chwithdde	osi	Nan
 cofalent	covalent	Nan
 chymdeithasau	awọn awujọ	Nan
 chymerodd	o mu	Nan
-chysylltu	kan si	Nan
-chytunodd	o gba	Nan
-chânt	won le	Nan
+chysylltu	kan	None
+chytunodd	gba	None
+chânt	le	None
 ci	aja	Nan
 cia	bawo	Nan
 cib	cib	Nan
@@ -6028,7 +6028,7 @@ chyrhaeddodd	o de	Nan
 chyrff	awọn ara	Nan
 chymerwyd	mu	Nan
 chymharu	afiwe	Nan
-chymorth	egba mi o	Nan
+chymorth	egba	None
 chymru	oyo	Nan
 chymuned	agbegbe	Nan
 chymunedau	awọn agbegbe	Nan
@@ -6085,14 +6085,14 @@ costa	etikun	Nan
 cotwm	owu	Nan
 counties	awọn kaunti	Nan
 credai	o gbagbọ	Nan
-credant	wọn gbagbọ	Nan
+credant	wọn	None
 credid	o ti gbà	Nan
 credinwyr	onigbagbọ	Nan
 credir	o ti gbagbọ	Nan
 credoau	awọn igbagbọ	Nan
 credodd	o gbagbọ	Nan
 credu	gbagbọ	Nan
-credwyd	o ti ro	Nan
+credwyd	ro	None
 credyd	kirẹditi	Nan
 crefft	iṣẹ ọwọ	Nan
 crefydd	ẹsin	Nan
@@ -6123,7 +6123,7 @@ crai	aise	Nan
 copaon	ga ju	Nan
 copa	akopọ	Nan
 cooper	konbo	Nan
-collasant	wọn padanu	Nan
+collasant	wọn	None
 colledion	adanu	Nan
 college	kọlẹji	Nan
 colli	sọnu	Nan
@@ -6157,14 +6157,14 @@ coginio	sise	None
 cola	cola	Nan
 cold	tutu	Nan
 coleg	kọlẹji	Nan
-colera	arun onigbameji	Nan
+colera	arun	None
 cofrestru	iforukọsilẹ	Nan
 coffi	kọfi	Nan
 columbus	akọmọ	Nan
 combin	apapọ	Nan
-condemnio	da lẹbi	Nan
+condemnio	da	None
 condemniodd	o lẹbi	Nan
-conditions	awọn ipo	Nan
+conditions	ipo	None
 conffederasiwn	confederation	Nan
 confoederatio	confoederatio	Nan
 cong	apejọ	Nan
@@ -6187,7 +6187,7 @@ comin	wọpọ	Nan
 comisiwn	igbimọ	Nan
 comiwnyddiaeth	communism	Nan
 comiwnyddion	awọn alagbọrọ	Nan
-comiwnyddol	ọmọ ẹgbẹ ilu	Nan
+comiwnyddol	ọmọ	None
 colwyn	colwyn	Nan
 commentarii	asọye	Nan
 commodus	ẹṣẹ	Nan
@@ -6213,7 +6213,7 @@ angheuol	apani	Nan
 anghydffurfiol	ti kii-conformist	Nan
 anghydfod	àríyànjiyàn	Nan
 anghyfarwydd	aimọ	Nan
-anghyffredin	ko wọpọ	Nan
+anghyffredin	ko	None
 anghyfreithlon	arufin	Nan
 anghytundeb	àríyànjiyàn	Nan
 angel	angẹli	Nan
@@ -6236,13 +6236,13 @@ anfiolegol	ti kii-oniye	Nan
 anfodlon	ainitẹlọrun	Nan
 anfodlonrwydd	ainitẹlọrun	Nan
 anfonodd	o ranṣẹ	Nan
-anghywir	ti ko tọ	Nan
+anghywir	ko	None
 anglesey	igun	Nan
 anglicanaidd	angẹli	Nan
 annibynnol	olominira	Nan
 annibynol	olominira	Nan
 annibynwyr	awọn ominira	Nan
-annog	gba iwuri	Nan
+annog	gba	None
 annwyd	òtútù	Nan
 annwyl	ololufe	Nan
 anodd	nira	Nan
@@ -6255,12 +6255,12 @@ anrhydedd	ọlá	Nan
 anrhydeddus	ẹni-ọlá	Nan
 anrhywiol	asepọ	Nan
 annibyniaeth	ominira	Nan
-annhebyg	ko ṣeeṣe	Nan
+annhebyg	ko	None
 annerbyniol	itẹwẹgba	Nan
 anne	arene	Nan
 angola	angola	Nan
 angry	binu	Nan
-anhebyg	ko ṣeeṣe	Nan
+anhebyg	ko	None
 anhrefn	rudurudu	Nan
 anhwylder	rudurudu	Nan
 anhysbys	aimọ	Nan
@@ -6272,7 +6272,7 @@ animalia	ẹranko	Nan
 animeiddiedig	ti ere idaraya	Nan
 aniston	aganran	Nan
 ankara	ankara	Nan
-ann	ní bẹ	Nan
+ann	ní	None
 annalen	iparun	Nan
 anifail	ẹranko	Nan
 andwyol	alailanfani	Nan
@@ -6290,7 +6290,7 @@ amlycaf	olokiki julọ	Nan
 amlygrwydd	olokiki	Nan
 amlygu	saami	Nan
 amod	majemu	Nan
-amodau	awọn ipo	Nan
+amodau	ipo	None
 among	laarin	None
 amonia	amonia	Nan
 aml	nigbagbogbo	Nan
@@ -6380,7 +6380,7 @@ are	jẹ	Nan
 areola	areola	Nan
 arestio	mú	Nan
 arfau	awọn ohun ija	Nan
-arfbais	ami orileede	Nan
+arfbais	orileede	None
 arfer	adaṣe	Nan
 arferai	o lo lati wa ni	Nan
 arferiad	aṣa	Nan
@@ -6394,9 +6394,9 @@ arfordir	etikun	Nan
 ariannin	ilu amẹrika	Nan
 ariannol	owo	Nan
 aries	awọn aries	Nan
-arnofio	leefofo loju omi	Nan
+arnofio	omi	None
 arnold	arnold	Nan
-arnynt	lori wọn	Nan
+arnynt	wọn	None
 arolwg	iwadi	None
 aromatig	oorun didun	Nan
 aros	duro de	Nan
@@ -6432,7 +6432,7 @@ armenia	armenia	Nan
 arlunwyr	awọn oṣere	Nan
 arddull	ara	Nan
 arddu	ogba	Nan
-arddodiadau	awọn ilana	Nan
+arddodiadau	ilana	None
 anturiaethau	seresere	Nan
 anwedd	oru	Nan
 anwes	ohun ọsin	Nan
@@ -6451,7 +6451,7 @@ apwyntiwyd	yan	None
 antonius	antonius	Nan
 antonio	antonio	Nan
 anton	anton	Nan
-antioch	ọgbọn ori	Nan
+antioch	ori	None
 ansicr	aidaniloju	Nan
 ansicrwydd	aidaniloju	Nan
 ansoddair	ajẹtífù	Nan
@@ -6513,7 +6513,7 @@ american	ara ilu amẹrika	Nan
 amedr	amita	Nan
 adfer	imupada	Nan
 adferiad	gbigba	Nan
-adferwyd	gba pada	Nan
+adferwyd	gba	None
 adfywiad	isoji	Nan
 adler	adarí	Nan
 adlewyrchu	tan ojiji	Nan
@@ -6527,7 +6527,7 @@ adnewyddu	isọdọtun	Nan
 adnod	ẹsẹ	None
 adnodd	awọn olu .ewadi	Nan
 adfeilion	dabaru	Nan
-adnoddau	awọn orisun	Nan
+adnoddau	orisun	None
 aderyndrycin	aderyndrycin	Nan
 adenydd	iyẹ	Nan
 addurno	ọṣọ	Nan
@@ -6535,7 +6535,7 @@ addysg	eko	None
 addysgol	eto ẹkọ	Nan
 addysgu	nkọ́ni	Nan
 adeg	aago	Nan
-adegau	ní ìgbà míràn	Nan
+adegau	míràn	None
 adeilad	ile	Nan
 adeiladau	awọn ile	Nan
 adeiladodd	o kọ	Nan
@@ -6553,7 +6553,7 @@ aelwyd	ìdílé	Nan
 aer	ategun	Nan
 aerodynameg	aerodynamics	Nan
 aeth	o lọ	Nan
-aethant	wọn lọ	Nan
+aethant	wọn	None
 aethpwyd	ti lọ	Nan
 af	st.	Nan
 afael	di mu	Nan
@@ -6564,9 +6564,9 @@ affrican	afirika	Nan
 affricanaidd	afirika	Nan
 affricanwyr	awọn afirika	Nan
 affrig	afirika	Nan
-aelodwladwriaethau	omo egbe	Nan
-aelodaur	ọmọ ẹgbẹ	Nan
-aelodau	ọmọ ẹgbẹ	Nan
+aelodwladwriaethau	egbe	None
+aelodaur	ọmọ	None
+aelodau	ọmọ	None
 aelodaeth	ẹgbẹ	Nan
 adref	ile	Nan
 adria	adria	Nan
@@ -6583,7 +6583,7 @@ aeddfed	ogbo	Nan
 aedui	aedui	Nan
 aegeaidd	aegese	Nan
 aeleg	ẹkọ akẹkọ	Nan
-aelod	ọmọ ẹgbẹ	Nan
+aelod	ọmọ	None
 adweithia	fesi	Nan
 addolir	o ti wa ni jọsin	Nan
 addoliad	jọsin	Nan
@@ -6642,7 +6642,7 @@ addaswyd	fara	Nan
 addewid	ṣèlérí	Nan
 addition	afikun	Nan
 addo	ṣèlérí	Nan
-acw	ní bẹ	Nan
+acw	ní	None
 actorion	olukopa	Nan
 actores	oṣere	Nan
 actor	oṣere	Nan
@@ -6667,9 +6667,9 @@ america	america	Nan
 afiach	lailera	Nan
 afiechydon	arun	None
 allheulol	extraterrestrial	Nan
-allmusic	ohun gbogbogbo	Nan
+allmusic	gbogbogbo	None
 allobroges	allobroges	Nan
-allodd	o le	Nan
+allodd	le	None
 allor	pẹpẹ	Nan
 allt	gbogbo ibi	Nan
 alltud	igbekun	Nan
@@ -6710,8 +6710,8 @@ amcangyfrifir	o ti ni ifoju	Nan
 amcangyfrifol	isunmọ	Nan
 amcangyfrifon	awọn iṣiro	Nan
 amcanion	awọn afojusun	Nan
-amdano	nipa rẹ	Nan
-amdanynt	nipa wọn	Nan
+amdano	rẹ	None
+amdanynt	wọn	None
 amddifad	alainibaba	Nan
 amddiffyn	aabo	Nan
 amddiffynfa	olugbeja	Nan
@@ -6720,7 +6720,7 @@ amddiffyniad	aabo	Nan
 amddiffynnol	aabo	Nan
 amddiffynwr	olugbeja	Nan
 ambrose	ikọmu	Nan
-ambell	kan diẹ	Nan
+ambell	kan	None
 amazonas	amazonas	None
 amazon	amazon	Nan
 almaenwyr	awọn aṣọ atẹrin	Nan
@@ -6750,7 +6750,7 @@ agweddau	awọn iwa	Nan
 ahmed	ahmed	Nan
 ai	ai	Nan
 aids	arannilọwọ	Nan
-aiff	yoo lọ	Nan
+aiff	yoo	None
 aifft	íjíbítì	Nan
 aiguille	atuille	Nan
 ail	tun	Nan
@@ -6767,7 +6767,7 @@ aflwyddiannus	aṣeyọri	Nan
 afon	odo	Nan
 afonydd	odo	Nan
 africa	afirika	Nan
-afrikaans	ọmọ ilu afirika	Nan
+afrikaans	ọmọ	None
 afu	ẹdọ	Nan
 ailgipio	atunkọ	Nan
 ag	ni	Nan
@@ -6834,7 +6834,7 @@ blew	irun	Nan
 blith	laarin	None
 bloc	dina	Nan
 blociau	awọn bulọọki	Nan
-blodau	awọn ododo	Nan
+blodau	ododo	None
 blodeuodd	o ti bilona	Nan
 blanhigion	eweko	Nan
 blodeuwedd	òdòdó	Nan
@@ -6900,7 +6900,7 @@ biolegol	ẹkọ oniye	Nan
 bioleg	isedale	Nan
 berberiaid	berberians	Nan
 berchen	ohun ini	Nan
-bererindod	irin ajo	Nan
+bererindod	ajo	None
 berfau	ìse	Nan
 berfformiad	imuṣere	Nan
 berfformiadau	awọn iṣe	Nan
@@ -7005,16 +7005,16 @@ brifysgol	yunifasiti	Nan
 brifysgolion	egbelegbe	Nan
 brig	oke	Nan
 brin	ṣọwọn	Nan
-briod	ti ni iyawo	Nan
+briod	iyawo	None
 briodas	igbeyawo	None
-briodi	se igbeyawo	Nan
+briodi	igbeyawo	None
 briodolir	jogun	None
 briodweddau	awọn ohun-ini	Nan
 brisiau	awọn idiyele	Nan
 brongoch	brongoch	Nan
 bronnau	ọyan	Nan
 bronnaun	a ṣetọrẹ	Nan
-brwydrau	awọn ogun	Nan
+brwydrau	ogun	None
 brwydro	ogun	None
 brwynog	adie	Nan
 brych	iranran	Nan
@@ -7024,7 +7024,7 @@ brydain	gẹẹsi	Nan
 brydeinig	ara ilu gẹẹsi	Nan
 bryderon	awọn ifiyesi	Nan
 bryn	òkè	Nan
-bryngwran	òke kekere	Nan
+bryngwran	kekere	None
 bryniau	awọn oke-nla	Nan
 brynu	ra	None
 brysur	nṣiṣe lọwọ	Nan
@@ -7036,12 +7036,12 @@ bruxelles	awọn ẹya ara ibọn	Nan
 bronx	idẹ	Nan
 bros	bros	Nan
 broses	ilana	None
-brosesau	awọn ilana	Nan
+brosesau	ilana	None
 brosesu	sisẹ	Nan
 brosiect	ise agbese	Nan
 brosiectau	awọn iṣẹ	Nan
 brezhoneg	ajọdun	Nan
-brostad	ẹṣẹ to somọ	Nan
+brostad	to	None
 brothers	awọn arakunrin	Nan
 brotonau	awọn protons	Nan
 broughton	mú	Nan
@@ -7051,10 +7051,10 @@ brunei	brunei	Nan
 brussel	gbọnnu	Nan
 brother	arakunrin	Nan
 brewys	aisan	Nan
-breuddwydion	awọn ala	Nan
-breuddwyd	àlá kan	Nan
+breuddwydion	ala	None
+breuddwyd	kan	None
 borthladd	ibudo	Nan
-borthladdoedd	awọn ebute oko oju omi	Nan
+borthladdoedd	omi	None
 bos	ọga	Nan
 bosib	ṣeeṣe	Nan
 bosibl	ṣeeṣe	Nan
@@ -7150,14 +7150,14 @@ authors	awọn onkọwe	Nan
 awr	wakati	Nan
 australopithecus	australopithecus	Nan
 austin	austin	Nan
-atomfa	ile iparun agbara iparun	Nan
+atomfa	agbara	None
 atomig	atomu	Nan
 atriwm	atrium	Nan
 attlee	attlee	Nan
 atyn	sí	Nan
 atyniad	ifamọra	Nan
 atyniadau	awọn ifalọkan	Nan
-atynt	si wọn	Nan
+atynt	wọn	None
 au	au	Nan
 audio	ohun	Nan
 august	ogo	Nan
@@ -7172,7 +7172,7 @@ awstralasia	adọkita	Nan
 bachwr	hooker	Nan
 back	sẹhin	Nan
 bacsiog	ẹkun	Nan
-bacteria	awọn kokoro arun	Nan
+bacteria	arun	None
 bad	buburu	Nan
 bae	bay	Nan
 baganaidd	keferi	Nan
@@ -7243,7 +7243,7 @@ arwyddo	ami	Nan
 arwyddocaol	pataki	Nan
 arwyddocâd	pataki	Nan
 arwyddodd	o fowo si	Nan
-arwydd	ami kan	Nan
+arwydd	kan	None
 bala	bala	Nan
 asidig	ekikan	Nan
 association	ẹgbẹ	Nan
@@ -7256,7 +7256,7 @@ athro	olukọ	Nan
 athroniaeth	imoye	Nan
 athronwyr	onimoye	Nan
 athronydd	onimoye	Nan
-athronyddol	ogbon ori	Nan
+athronyddol	ori	None
 athrylith	oloye-pupọ	Nan
 ati	abbl.	Nan
 atlas	atlas	Nan
@@ -7276,7 +7276,7 @@ asturias	asturias	Nan
 asio	asio	Nan
 at	ni	Nan
 ataliad	idaduro	Nan
-ataliodd	o da duro	Nan
+ataliodd	da	None
 atalydd	adena	Nan
 atalyddion	inhibitors	Nan
 atatürk	atatürk	Nan
@@ -7301,14 +7301,14 @@ beetle	beetle	Nan
 before	ṣaaju	Nan
 beibl	bibeli	None
 beic	keke	Nan
-beddargraff	ibojì ibojì	Nan
+beddargraff	ibojì	None
 bedd	sàréè	Nan
 bedair	mẹrin	Nan
 beckett	bekett	Nan
 bawd|px|baner	àtẹ | px | àsíá	Nan
 bawd|px|delwedd	atanpako | px | aworan	Nan
 bawd|px|logo	atanpako | px | aami	Nan
-bawd|px|map	atampako | px | maapu	Nan
+bawd|px|map	maapu	None
 bawd|px|y	àtẹ | px | y	Nan
 bawd|px|yr	àtẹ | px | yr	Nan
 bawd|y	àá | |	Nan
@@ -7328,7 +7328,7 @@ beidio	kii ṣe	Nan
 belisarius	belisarius	Nan
 belize	beli	Nan
 bell	jinna	Nan
-bellach	ni bayi	Nan
+bellach	bayi	None
 belled	jinna	Nan
 bello	bello	Nan
 bellter	jinna	Nan
@@ -7362,8 +7362,8 @@ belarws	belarus	None
 belffast	belfast	Nan
 beirniadu	adajo	Nan
 cynan	laipẹ	Nan
-bawd|map	atampako | maapu	Nan
-bawd|lleoliad	atanpako | ipo	Nan
+bawd|map	maapu	None
+bawd|lleoliad	ipo	None
 bantu	pipa	Nan
 bantw	pantan	Nan
 bapur	iwe	Nan
@@ -7387,7 +7387,7 @@ balearig	balletiki	Nan
 balesteiniaid	palestinians	Nan
 bali	bali	Nan
 balkan	balkan	Nan
-ball	ọmọ ẹgbẹ	Nan
+ball	ọmọ	None
 ballet	baluu	Nan
 baltaidd	baliki	Nan
 bardd	ewi	Nan
@@ -7395,7 +7395,7 @@ baltig	ẹlẹdẹ	Nan
 banc	banki	Nan
 bancio	ile-ifowopamọ	Nan
 band	ẹgbẹ	Nan
-bandemig	àjàkálẹ àrùn tókárí-ayé	Nan
+bandemig	àrùn	None
 bandiau	igbohunsafefe	Nan
 baner	asia	Nan
 baneri	awọn asia	Nan
@@ -7470,9 +7470,9 @@ fiolegwyr	onimọ-jinlẹ	Nan
 firaol	gbogun ti	Nan
 firefox	firefox	Nan
 first	akoko	Nan
-firws	kòkòrò àrùn fáírọọsì	Nan
+firws	àrùn	None
 firysau	awọn ọlọjẹ	Nan
-fis	oṣu kan	Nan
+fis	kan	None
 fisher	apẹja	Nan
 fisigothiaid	fisiksi	Nan
 fit	ibaamu	Nan
@@ -7490,7 +7490,7 @@ frad	ẹlẹtan	Nan
 fraich	apa	Nan
 fraith	kiri	Nan
 france	itanran	Nan
-frances	awọn ododo	Nan
+frances	ododo	None
 francis	francis	None
 francisco	francisco	Nan
 franco	franco	Nan
@@ -7534,7 +7534,7 @@ ffurfiau	awọn fọọmu	Nan
 ffurfio	ibiyi	Nan
 ffurfiodd	o ṣẹda	Nan
 ffurfiol	lodo	None
-ffrwydro	bu gbamu	Nan
+ffrwydro	bu	None
 ffrwydriadau	awọn bugbamu	Nan
 ffrwd	ṣiṣan	Nan
 ffrithiant	ikọlu	Nan
@@ -7548,10 +7548,10 @@ ffrainc	faranse	None
 ffurfior	akoso	Nan
 fframwaith	ilana	None
 ffrancod	franc	Nan
-ffrancwyr	ara ilu faranse	Nan
+ffrancwyr	faranse	None
 ffrangeg	faranse	None
 ffrengig	faranse	None
-ffrigad	ọkọ ogun	Nan
+ffrigad	ogun	None
 ffrind	ọ̀rẹ́	Nan
 ffrindiau	ọrẹ	Nan
 ffranciaid	franc	Nan
@@ -7583,12 +7583,12 @@ ffyddlon	adúróṣinṣin	Nan
 ffylwm	agbedemeji	Nan
 ffync	funk	Nan
 ffyngau	elu	Nan
-ffynhonnau	awọn orisun omi	Nan
+ffynhonnau	omi	None
 ffurfiwyd	akoso	Nan
 ffynhonnell	orisun	None
 ffynnon	orisun	None
 ffynnu	fẹẹrẹ	Nan
-ffynonellau	awọn orisun	Nan
+ffynonellau	orisun	None
 ffyrdd	opopona	Nan
 ffyrnig	onirun	Nan
 ffîn	ààlà	Nan
@@ -7623,7 +7623,7 @@ fynachlog	monastery	Nan
 fynd	lọ	Nan
 fynedfa	ẹnu ọna	Nan
 fynegi	han	Nan
-fynnu	ta ku	Nan
+fynnu	ku	None
 fynwy	monmouth	Nan
 fyny	sókè	Nan
 fynydd	òkè	Nan
@@ -7642,7 +7642,7 @@ gair	ọrọ	Nan
 gais	ohun elo	Nan
 gaius	gìrì	Nan
 gal	agbọn	Nan
-galan	galonu kan	Nan
+galan	kan	None
 galapagos	galapagos	Nan
 galatiaid	àwọn ará galati	Nan
 galaţi	galaţi	Nan
@@ -7658,7 +7658,7 @@ gadw	tọju	Nan
 gadwr	alaga	Nan
 gadwyn	pq	Nan
 gae	nec	Nan
-gaeaf	igba otutu	Nan
+gaeaf	otutu	None
 gaeilge	irish	Nan
 gael	wa	Nan
 fyfyrwyr	omo ile	Nan
@@ -7673,18 +7673,18 @@ gafael	dimu	Nan
 gaer	fort	Nan
 fydeang	agbaye	None
 fyddyn	bẹẹni	Nan
-fyddinoedd	ọmọ ogun	Nan
+fyddinoedd	ogun	None
 from	lati	Nan
 fron	igbaya	Nan
 frontcover	iwaju	Nan
 frown	brown	Nan
 frwd	onítara	Nan
 frwydr	ogun	None
-frwydrau	awọn ogun	Nan
+frwydrau	ogun	None
 frwydro	ja	Nan
 fryn	òkè	Nan
 fryniau	awọn oke-nla	Nan
-frythoneg	awọn orisun	Nan
+frythoneg	orisun	None
 frân	pọ	Nan
 fu	fu	Nan
 fuan	laipẹ	Nan
@@ -7725,9 +7725,9 @@ fychan	kekere	None
 fyd	agbaye	None
 fydd	yoo	None
 fyddai	yoo	None
-fyddain	ọmọ ogun	Nan
+fyddain	ogun	None
 fyddair	etí	Nan
-fyddin	ọmọ ogun	Nan
+fyddin	ogun	None
 fwyar	berries	Nan
 fwyaf	julọ	Nan
 fwy	diẹ sii	Nan
@@ -7741,7 +7741,7 @@ fuodd	bẹẹni	Nan
 fur	àwáàrí	Nan
 fudiad	agbari	Nan
 furiau	odi	Nan
-future	ojo iwaju	Nan
+future	ojo	None
 fwdhaeth	buddhism	Nan
 fwlch	alafo	Nan
 fwrdd	tabili	None
@@ -7803,7 +7803,7 @@ fari	ila oorun	Nan
 farn	ero	Nan
 farrar	farrar	Nan
 farw	kú	Nan
-farwol	ti ku	Nan
+farwol	ku	None
 farwolaeth	iku	None
 faner	asia	Nan
 fandiau	igbohunsafefe	Nan
@@ -7825,14 +7825,14 @@ familiaris	familiaris	Nan
 fampir	fanpaya	Nan
 fan	duro de	Nan
 fanaweg	èdè àìpẹ	Nan
-falens	ẹbi kan	Nan
+falens	kan	None
 europe	yuroopu	Nan
 europaeus	europaeus	Nan
 europaea	europaea	Nan
 esblygiad	itankalẹ	Nan
 esblygodd	o wa lati	Nan
 esblygol	itankalẹ	Nan
-esblygu	da bi	Nan
+esblygu	da	None
 esbonio	ṣàlàyé	Nan
 esboniodd	o salaye	Nan
 esgidiau	awọn bata	Nan
@@ -7862,7 +7862,7 @@ erotica	erotica	Nan
 erotig	itara	Nan
 ers	niwon	Nan
 erthygl	nkan	None
-erthyglau	awọn nkan	Nan
+erthyglau	nkan	None
 eryr	idì	Nan
 eritrea	eritrea	Nan
 farwolaethau	iku	None
@@ -7873,7 +7873,7 @@ etholwyd	dibo	Nan
 etholwyr	awọn agbegbe	Nan
 etifedd	ajogun	Nan
 etifeddiaeth	julọ	Nan
-etifeddodd	o jogun	Nan
+etifeddodd	jogun	None
 etifeddol	ajogun	Nan
 etifeddu	ogún	Nan
 eto	lẹẹkansi	Nan
@@ -7960,11 +7960,11 @@ fformiwla	agbekalẹ	Nan
 fforwm	apejọ	Nan
 ffos	trench	Nan
 ffosffad	fosifeti	Nan
-fflworin	oogun eleyi	Nan
+fflworin	eleyi	None
 fflorens	florence	Nan
 ffliwt	ferese	Nan
 ffliwr	yíyọ	Nan
-ffiniau	awọn aala	Nan
+ffiniau	aala	None
 ffiniaur	ààlà	Nan
 ffinio	ààlà	Nan
 ffiseg	fisiksi	Nan
@@ -7974,7 +7974,7 @@ ffisegydd	oníṣègùn	Nan
 ffactor	ifosiwewe	Nan
 ffitio	ibaamu	Nan
 fflamadwy	oniná	Nan
-fflandrys	awọn ara ilẹ abulẹ	Nan
+fflandrys	ilẹ	None
 fflat	iyẹwu	Nan
 fflatiau	irini	Nan
 fflemeg	agbedemeji	Nan
@@ -7992,9 +7992,9 @@ feddwl	lerongba	Nan
 fedi	oṣu kẹsan	Nan
 fedru	ni anfani lati	Nan
 fedyddio	baptisi	Nan
-fehefin	oṣu karun	Nan
+fehefin	karun	None
 fei	fẹran	Nan
-feibion	awọn ọmọ	Nan
+feibion	ọmọ	None
 feichiog	loyun	Nan
 feiciau	awọn kẹkẹ	Nan
 feicio	gigun kẹkẹ	Nan
@@ -8014,7 +8014,7 @@ feinwe	àsopọ	Nan
 fathau	awọn oriṣi	Nan
 fatican	vatican	Nan
 fawr	nla	Nan
-fawrth	oṣu kẹta	Nan
+fawrth	kẹta	None
 fc	fc	Nan
 fe	rẹ	None
 fear	ọkunrin	Nan
@@ -8022,7 +8022,7 @@ fechan	kekere	None
 fathwyd	ti a itemole	Nan
 fasged	apeere	Nan
 feirdd	awọn ewi	Nan
-feirws	kòkòrò àrùn fáírọọsì	Nan
+feirws	àrùn	None
 fersiwn	ẹya	Nan
 fersiynau	awọn ẹya	Nan
 fertebrat	vertebrate	Nan
@@ -8069,7 +8069,7 @@ grammar	èdè grámà	Nan
 grammy	arẹmọ	Nan
 gran	gran	Nan
 granada	granada	Nan
-grand	baba agba	Nan
+grand	agba	None
 grant	yọọda	Nan
 grawn	ọkà	Nan
 grawnfwyd	agbado	None
@@ -8096,10 +8096,10 @@ grace	oore-ofe	Nan
 gradd	ìyí	Nan
 graddau	iwọn	Nan
 graddfa	ìwọn	Nan
-graffeg	awọn eya aworan	Nan
+graffeg	eya	None
 gred	igbagbọ	Nan
 gredu	gbagbọ	Nan
-green	alawọ ewe	Nan
+green	ewe	None
 grisons	grisons	Nan
 grist	ọrun-ọwọ	Nan
 gristion	kristiẹni	Nan
@@ -8114,12 +8114,12 @@ groegiaid	awọn hellene	Nan
 groegwyr	awọn hellene	Nan
 groen	awọ	Nan
 groes	ilodi si	Nan
-groesgad	ogun ti ogun	Nan
+groesgad	ogun	None
 griffiths	gita	Nan
 griffith	ologbo	Nan
 grid	akoj	Nan
 grib	àgbọn	Nan
-greenwich	alawọ ewe	Nan
+greenwich	ewe	None
 gref	lagbara	Nan
 grefft	iṣẹ ọwọ	Nan
 grefydd	ẹsin	Nan
@@ -8139,7 +8139,7 @@ gregory	gregory	Nan
 gorymdeithiodd	o rin	Nan
 gorwedd	parọ	Nan
 goruwchnaturiol	elekewa	Nan
-gomiwnyddol	ọmọ ẹgbẹ ilu	Nan
+gomiwnyddol	ọmọ	None
 goncwest	iṣẹgun	Nan
 gone	lọ	Nan
 gonfensiynol	mora	Nan
@@ -8196,7 +8196,7 @@ goruchel	t’olofin	Nan
 gorllewin	iwọ oorun	Nan
 gorkys	gorkys	Nan
 gorgyffwrdd	agbekọja	Nan
-gorfodwyd	fi agbara mu	Nan
+gorfodwyd	agbara	None
 gorchuddir	o ti bò	Nan
 gorchuddiwyd	ti bo	Nan
 gorchymyn	paṣẹ	Nan
@@ -8212,8 +8212,8 @@ gorfforaeth	ile-iṣẹ	Nan
 gorfforol	nipa ti ara	Nan
 gorfod	nini lati	Nan
 gorfodi	agbofinro	Nan
-gorfodir	o fi agbara mu	Nan
-gorffennaf	emi yoo pari	Nan
+gorfodir	agbara	None
+gorffennaf	yoo	None
 golfan	hazel	Nan
 groesi	rekọja	Nan
 groglith	oore	Nan
@@ -8293,7 +8293,7 @@ gwelodd	o ri	Nan
 gweler	wo	Nan
 gwarchod	aabo	Nan
 gwarchae	dotì	Nan
-gwanwyn	orisun omi	Nan
+gwanwyn	omi	None
 grymoedd	awọn ipa	Nan
 gryn	pataki	Nan
 gryno	ṣoki	Nan
@@ -8383,8 +8383,8 @@ gbp	gbp	Nan
 gd	gd	Nan
 gdp	gdp	Nan
 ge	ge	Nan
-gee	omo kekere	Nan
-gefeilldrefi	ibeji ilu	Nan
+gee	kekere	None
+gefeilldrefi	ibeji	None
 geffyl	ẹṣin	Nan
 gefn	sẹhin	Nan
 gatholig	ẹlẹsin ẹlẹsin	Nan
@@ -8406,7 +8406,7 @@ gasgliad	ipari	Nan
 gasgliadau	awọn ipinnu	Nan
 gasglu	kó	Nan
 gast	simẹnti	Nan
-gatalaneg	ede catalan	Nan
+gatalaneg	ede	None
 gefndir	lẹhin	Nan
 gefnfor	okun	Nan
 gefnogaeth	atilẹyin	Nan
@@ -8440,9 +8440,9 @@ gareth	gareth	Nan
 geifr	ewurẹ	Nan
 geirdarddiad	ẹkọ ẹkọ ẹkọ	Nan
 geirfa	iwe afọwọkọ	Nan
-geirfar	ni yoo sọ	Nan
+geirfar	sọ	None
 geiriadur	iwe itumọ	Nan
-geiriaduron	iwe itumo	Nan
+geiriaduron	itumo	None
 geiriau	awọn ọrọ	Nan
 geisiadau	awọn ohun elo	Nan
 geir	oko	None
@@ -8450,7 +8450,7 @@ gardneraidd	kadinal	Nan
 gardner	ogba	Nan
 garden	ọgba	Nan
 galwadau	awọn ipe	Nan
-galwn	a le	Nan
+galwn	le	None
 galwodd	o pe	Nan
 galwr	olupe	Nan
 galwyd	o ti a npe	Nan
@@ -8466,15 +8466,15 @@ gamp	ft?	Nan
 gan	laisi	Nan
 galw	beere	Nan
 galon	obi	Nan
-gallwn	a le	Nan
-gallwch	beeni o le se	Nan
+gallwn	le	None
+gallwch	le	None
 galilea	galilee	Nan
 galileo	galileo	Nan
-gall	o le	Nan
-gallai	o le	Nan
+gall	le	None
+gallai	le	None
 gallair	le	None
-gallent	won le	Nan
-galles	mo le	Nan
+gallent	le	None
+galles	le	None
 gancr	alakan	Nan
 gallia	gallia	Nan
 gallinago	gallinago	Nan
@@ -8486,8 +8486,8 @@ galluogi	mu ṣiṣẹ	Nan
 galluogir	sise	None
 gallico	gallico	Nan
 genedigaeth	ibi	Nan
-ganddi	nipasẹ rẹ	Nan
-ganddynt	nipasẹ wọn	Nan
+ganddi	rẹ	None
+ganddynt	wọn	None
 gant	ọgọrun	Nan
 gantores	akorin	Nan
 ganu	orin	Nan
@@ -8512,9 +8512,9 @@ ganed	a bi	Nan
 ganeuon	awọn orin	Nan
 ganfod	nitori	Nan
 gangen	ẹka	Nan
-ganiatau	gba laaye	Nan
-ganiatáu	gba laaye	Nan
-ganddo	nipasẹ rẹ	Nan
+ganiatau	gba	None
+ganiatáu	gba	None
+ganddo	rẹ	None
 ganiatâd	igbanilaaye	Nan
 ganlyniad	esi	Nan
 ganlynol	atẹle	Nan
@@ -8556,14 +8556,14 @@ gleifion	alaisan	Nan
 gleision	bàbá	None
 glenn	glenn	Nan
 glicio	tẹ	Nan
-glir	ko o	Nan
+glir	ko	None
 glo	eedu	Nan
 gloddio	ma wà	Nan
 glogwyn	àpáta	Nan
 glowyr	ohun alumọni	Nan
 gludor	agbẹru	Nan
 godidog	ologo	Nan
-godir	gba agbara	Nan
+godir	agbara	None
 gododdin	oriṣa	Nan
 gogleddddwyreiniol	àríwá	Nan
 gogleddol	ariwa	Nan
@@ -8588,7 +8588,7 @@ godro	milgi	Nan
 godwit	olorun	Nan
 godwyd	ni a ji dide	Nan
 goed	igi	Nan
-goeden	igi kan	Nan
+goeden	kan	None
 goedwig	igbo	Nan
 goelcerth	ìgbín	Nan
 glaslyn	bulu	Nan
@@ -8602,7 +8602,7 @@ gofnodion	iṣẹju	Nan
 gofod	aaye	Nan
 goesgoch	ẹlẹgbẹ	Nan
 glasgow	glasgow	Nan
-glas	alawọ ewe	Nan
+glas	ewe	None
 glareola	glareola	Nan
 geraint	ọya	Nan
 gerald	gerald	Nan
@@ -8616,7 +8616,7 @@ gerddorfa	olutoju	Nan
 gerddoriaeth	orin	Nan
 gerddorol	gaju ni	Nan
 geredigion	igbasilẹ	Nan
-gerila	ata ilẹ	Nan
+gerila	ilẹ	None
 gerllaw	nitosi	None
 gerllawr	carousel	Nan
 ger	nitosi	None
@@ -8654,7 +8654,7 @@ gladdu	isinku	Nan
 gladstone	ayo	Nan
 glan	mọ	Nan
 glanio	ibalẹ	Nan
-glaniodd	ó dé	Nan
+glaniodd	dé	None
 glanmor	mọ	Nan
 glannau	bèbe	Nan
 glans	glans	Nan
@@ -8667,7 +8667,7 @@ gernyweg	kọndi	Nan
 gestyll	awọn kasulu	Nan
 gethin	gbahin	Nan
 gets	gba	None
-gewch	iwọ yoo	Nan
+gewch	yoo	None
 gewynnau	nafu	Nan
 germanig	jẹmánì	Nan
 gh	gh	Nan
@@ -8676,7 +8676,7 @@ giacomo	giakomo	Nan
 gibraltar	gibraltar	Nan
 gig	oju agbo	Nan
 gilbert	gilbert	Nan
-gillian	ọmọ arabinrin	Nan
+gillian	ọmọ	None
 gilydd	papọ	Nan
 ghana	ghana	None
 eplesiad	bakteria	Nan
@@ -8693,7 +8693,7 @@ dduwiau	oriṣa	Nan
 dduwies	oriṣa	Nan
 ddweud	sọ	None
 ddwy	meji	Nan
-ddwyieithog	ede meji	Nan
+ddwyieithog	ede	None
 ddwyn	jale	Nan
 ddwyrain	ila-oorun	Nan
 ddwyreiniol	ila-oorun	Nan
@@ -8722,14 +8722,14 @@ ddychwelyd	padà	Nan
 ddydd	ọjọ	Nan
 ddynodir	sọtọ	Nan
 ddynol	ènìyàn	Nan
-ddynoliaeth	ọmọ eniyan	Nan
+ddynoliaeth	ọmọ	None
 ddysgeidiaeth	nkọ́ni	Nan
 ddysgir	kọ ẹkọ	Nan
 ddysgodd	o kọ	Nan
 ddysgu	kikọ ẹkọ	Nan
 ddysgur	kọ ẹkọ	Nan
 ddysgwyr	akẹẹkọ	Nan
-ddywedodd	o sọ pe	Nan
+ddywedodd	sọ	None
 ddŵr	omi	None
 de	ti	Nan
 dead	kú	Nan
@@ -8745,7 +8745,7 @@ ddyddiol	ojoojumo	Nan
 ddyfais	ẹrọ	Nan
 ddyfeisio	pilẹ	Nan
 ddyffryn	afonifoji	Nan
-ddyfnach	ko wole si	Nan
+ddyfnach	wole	None
 ddiwygiad	atunse	None
 ddyfrhau	irigeson	Nan
 ddylanwad	ipa	Nan
@@ -8766,10 +8766,10 @@ ddiffiniadau	awọn asọye	Nan
 ddiffinio	asọye	Nan
 ddiffyg	aipe	Nan
 ddiflannu	farasin	Nan
-ddifrifol	to ṣe pataki	Nan
+ddifrifol	to	None
 ddifrodi	bajẹ	Nan
 ddigidol	oni-nọmba	Nan
-ddigon	ti to	Nan
+ddigon	to	None
 ddigonol	deedee	Nan
 ddigwydd	ṣẹlẹ	Nan
 ddigwyddiadau	iṣẹlẹ	Nan
@@ -8783,7 +8783,7 @@ ddelwedd	aworan	Nan
 ddemocrataidd	tiwantiwa	Nan
 ddenu	ifamọra	Nan
 dderbyn	gba	None
-dderbyniodd	o gba	Nan
+dderbyniodd	gba	None
 dderbyniol	itewogba	Nan
 ddileu	paarẹ	Nan
 ddethlir	ṣe ayẹyẹ	Nan
@@ -8794,7 +8794,7 @@ ddeunawfed	kejidilogun	Nan
 ddeurywiol	iselàgbedemeji	Nan
 ddewiniaeth	oriṣa	Nan
 ddewis	yiyan	Nan
-ddethol	ti a ti yan	Nan
+ddethol	yan	None
 deallusol	ọgbọn	Nan
 ddillad	aṣọ	Nan
 ddilynodd	o tẹle	Nan
@@ -8847,16 +8847,16 @@ dewi	wá	Nan
 dewin	oluṣeto	Nan
 dewiniaeth	ajẹ	Nan
 dewis	yiyan	Nan
-dewisir	ti yan	Nan
-dewisodd	o yan	Nan
-dewiswyd	ti a ti yan	Nan
+dewisir	yan	None
+dewisodd	yan	None
+dewiswyd	yan	None
 deyrnas	ijọba	Nan
 deyrnasiad	jọba	Nan
 deunydd	ohun elo	Nan
 deyrnasoedd	awọn ijọba	Nan
 deunaw	mejidilogun	Nan
 deuluoedd	idile	Nan
-dermau	awọn ofin	Nan
+dermau	ofin	None
 derwyddon	druids	Nan
 des	des	None
 desc	sokale	Nan
@@ -8888,7 +8888,7 @@ diffinio	setumo	Nan
 diffinir	ti asọye	Nan
 diffiniwyd	asọye	Nan
 diffwys	ipon	Nan
-diffyg	ko ni	Nan
+diffyg	ko	None
 diflanedig	parun	Nan
 didnt	didnt	Nan
 diddymwyd	ti parẹ	Nan
@@ -8901,10 +8901,10 @@ diana	alakikanju	Nan
 dianc	sa asala	Nan
 dibyn	igbẹkẹle	Nan
 dibyniaeth	gbárale	Nan
-derm	igba kan	Nan
+derm	kan	None
 dibynnol	igbẹkẹle	Nan
 dibynnun	igbẹkẹle	Nan
-dic	fi ami si	Nan
+dic	fi	None
 dickens	dickens	Nan
 dictator	apanirun	Nan
 dictionary	iwe itumọ	Nan
@@ -8913,7 +8913,7 @@ diddordeb	iwulo	None
 dibynnu	gbarale	Nan
 derfynol	ipari	Nan
 derbyniwyd	gba	None
-derbyniodd	o gba	Nan
+derbyniodd	gba	None
 defnydd	lo	Nan
 defnyddiau	awọn ohun elo	Nan
 defnyddid	ti lo	Nan
@@ -8939,13 +8939,13 @@ dechrau	bẹrẹ	Nan
 dechraur	initraur	Nan
 dechreuad	awọn ibẹrẹ	Nan
 dechreuadau	awọn ibẹrẹ	Nan
-dechreuasant	wọn bẹrẹ	Nan
+dechreuasant	wọn	None
 deg	mẹwa	Nan
 dechreuodd	o bẹrẹ	Nan
 deddf	ofin	None
-deddfau	awọn ofin	Nan
+deddfau	ofin	None
 deddfwriaeth	ofin	None
-deddwyrain	guusu ila oorun	Nan
+deddwyrain	guusu	None
 dedfrydwyd	ẹjọ	Nan
 dedications	awọn iyasọtọ	Nan
 deer	agbọnrin	Nan
@@ -8961,11 +8961,11 @@ demograffeg	awọn ẹkọ nipa ẹkọ eniyan	Nan
 den	den	Nan
 denau	tinrin	Nan
 deng	mẹwa	Nan
-dengys	o fihan	Nan
-denmarc	fi ami si	Nan
+dengys	fihan	None
+denmarc	fi	None
 denodd	ni ifojusi	Nan
 denu	ifamọra	Nan
-deorllewin	guusu iwọ-oorun	Nan
+deorllewin	guusu	None
 der	der	Nan
 derbyn	gba	None
 delyn	harp	Nan
@@ -8984,16 +8984,16 @@ deinosoriaid	dinosaurs	Nan
 deithio	irin-ajo	Nan
 del	del	Nan
 deledu	tẹlifisiọnu	Nan
-delerau	awọn ofin	Nan
+delerau	ofin	None
 delhi	delhi	None
 delio	ibaṣowo	Nan
 della	della	Nan
-deithiau	awọn irin ajo	Nan
+deithiau	ajo	None
 diflannodd	o parẹ	Nan
 ddegfed	kẹwa	Nan
 ddeg	mẹwa	Nan
 cân	orin	Nan
-cânt	won le	Nan
+cânt	le	None
 córdoba	káàdì	Nan
 côd	koodu	Nan
 côn	konu	Nan
@@ -9010,22 +9010,22 @@ dadeni	atunṣe	Nan
 cywydd	a cywydd	Nan
 dadl	ariyanjiyan	Nan
 cywir	tọ	Nan
-cytunwyd	o ti gba	Nan
-cyswllt	kan si	Nan
+cytunwyd	gba	None
+cyswllt	kan	None
 cysylltiad	ìbáṣepọ	Nan
 cysylltiadau	awọn olubasọrọ	Nan
 cysylltiedig	ti o ni ibatan	Nan
 cysylltir	ti sopọ	Nan
-cysylltu	kan si	Nan
+cysylltu	kan	None
 cysylltur	asopo	Nan
 cysyniad	erongba	Nan
 cysyniadau	awọn erongba	Nan
 cytgan	ègbè	Nan
 cytundeb	àdéhùn	Nan
 cytundebau	awọn adehun	Nan
-cytunir	o ti gba	Nan
+cytunir	gba	None
 cytuno	gba	None
-cytunodd	o gba	Nan
+cytunodd	gba	None
 cywair	forukọsilẹ	Nan
 dadlau	jiyan	Nan
 dadleoledig	nipo	Nan
@@ -9048,21 +9048,21 @@ dall	afoju	Nan
 dafodiaith	iledìí	Nan
 daflu	jabọ	Nan
 dafis	dafis	Nan
-dafadennog	akoko ogun	Nan
+dafadennog	ogun	None
 dadleuol	ariyanjiyan	Nan
 daduno	atunso	Nan
 daear	ilẹ	None
-daeareg	ẹkọ nipa ilẹ	Nan
-daearegol	ẹkọ nipa ilẹ	Nan
+daeareg	ilẹ	None
+daearegol	ilẹ	None
 daearegwyr	awọn onimọ-jinlẹ	Nan
 daeargryn	ìṣẹlẹ	Nan
 cystennin	cystennin	Nan
 daeargrynfeydd	awọn iwariri-ilẹ	Nan
-daearyddiaeth	ẹkọ nipa ilẹ	Nan
+daearyddiaeth	ilẹ	None
 daearyddol	àgbègbè	Nan
-daearyddwyr	ẹkọ nipa ilẹ	Nan
+daearyddwyr	ilẹ	None
 daeth	o wa	Nan
-daethant	wọn wa	Nan
+daethant	wọn	None
 daethpwyd	wa	Nan
 dafad	agutan	Nan
 daearol	ilẹ-ilẹ	Nan
@@ -9071,12 +9071,12 @@ cystadleuwyr	awọn oludije	Nan
 cystadleuol	ifigagbaga	Nan
 cynhesu	dara ya	Nan
 cynhwysedd	agbara	None
-cynhwysir	to wa	Nan
+cynhwysir	to	None
 cynhyrchiad	gbóògì	Nan
 cynhyrchiol	iṣelọpọ	Nan
 cynhyrchion	awọn ọja	Nan
 cynhyrchir	ni iṣelọpọ	Nan
-cynhyrchodd	o produced	Nan
+cynhyrchodd	produced	None
 cynhyrchu	gbóògì	Nan
 cynhyrchur	olupilẹṣẹ	Nan
 cynhyrchwyd	produced	None
@@ -9086,12 +9086,12 @@ cynlluniau	awọn ero	Nan
 cynllunio	gbimọ	Nan
 cynhesaf	gbona ju	Nan
 cynhenid	onile	Nan
-cynhelir	yoo waye	Nan
+cynhelir	yoo	None
 cynharaf	alakoko	Nan
 cyngerdd	ere orin	Nan
 cyngheiriaid	awọn oludaniloju	Nan
 cyngherddau	awọn ere orin	Nan
-cynghorwyr	awọn ọmọ ẹgbẹ igbimọ	Nan
+cynghorwyr	ọmọ	None
 cynghrair	ajumọṣe	Nan
 cynghreiriaid	awọn ọrẹ	Nan
 cyngor	imọran	Nan
@@ -9132,7 +9132,7 @@ cynnwys	akoonu	Nan
 cynnydd	ilọsiwaju	Nan
 cynnyrch	ọja	Nan
 cynorthwyo	ran	Nan
-cynradd	ile iwe awon omode kekere	Nan
+cynradd	kekere	None
 cynrychiolaeth	oniduro	Nan
 cynnar	kutukutu	Nan
 cynrychioli	aṣoju	Nan
@@ -9156,7 +9156,7 @@ ddangos	ṣafihan	Nan
 ddarganfod	ṣewadi	Nan
 ddarganfuwyd	ri	Nan
 ddarganfyddiadau	awari	None
-ddarganfyddodd	o ṣe awari	Nan
+ddarganfyddodd	awari	None
 ddarlledu	igbohunsafefe	Nan
 ddarn	nkan	None
 ddarparu	pese	Nan
@@ -9177,14 +9177,14 @@ ddadl	ijiroro	Nan
 ddadlau	jiyan	Nan
 ddadleuol	ariyanjiyan	Nan
 ddaear	ile aye	Nan
-ddaearegol	ẹkọ nipa ilẹ	Nan
+ddaearegol	ilẹ	None
 ddaeargryn	ìṣẹlẹ	Nan
 ddaeargrynfeydd	awọn iwariri-ilẹ	Nan
-ddaearyddiaeth	ẹkọ nipa ilẹ	Nan
-ddaearyddwyr	ẹkọ nipa ilẹ	Nan
-ddatblygodd	o dagbasoke	Nan
+ddaearyddiaeth	ilẹ	None
+ddaearyddwyr	ilẹ	None
+ddatblygodd	dagbasoke	None
 ddatblygu	idagbasoke	None
-ddatblygwyd	ni idagbasoke	Nan
+ddatblygwyd	idagbasoke	None
 ddeddwyrain	ila-oorun	Nan
 ddefaid	agutan	Nan
 ddefnydd	lo	Nan
@@ -9201,7 +9201,7 @@ ddefnyddwyr	awọn olumulo	Nan
 ddefod	irubo	Nan
 ddefodau	awọn irubo	Nan
 ddeddfwriaeth	ofin	None
-ddeddfau	awọn ofin	Nan
+ddeddfau	ofin	None
 ddeddf	ofin	None
 ddechreuwyd	bẹrẹ	Nan
 ddatgan	ipinle	Nan
@@ -9210,7 +9210,7 @@ ddathlu	ayeye	Nan
 ddathlur	ṣe ayẹyẹ	Nan
 ddatrys	yanjú	None
 ddau	meji	Nan
-ddaw	yoo wa	Nan
+ddaw	yoo	None
 dawnsio	jijo	Nan
 ddawns	jó	Nan
 ddawr	owurọ	Nan
@@ -9228,7 +9228,7 @@ darfu	idalọwọduro	Nan
 darganfod	iwari	Nan
 darganfu	o ri	Nan
 darganfur	o ri	Nan
-darganfuwyd	o ti se awari	Nan
+darganfuwyd	awari	None
 darganfyddiad	awari	None
 darganfyddiadau	awari	None
 dargludiad	ipa ọna	Nan
@@ -9253,7 +9253,7 @@ daneg	mejila	None
 darllenwch	ka	Nan
 dangerous	lewu	Nan
 dangosir	ti han	Nan
-dangosodd	o fihan	Nan
+dangosodd	fihan	None
 dangoswyd	ti han	Nan
 daniaid	danieni	Nan
 daniel	daniel	Nan
@@ -9265,7 +9265,7 @@ darlun	aworan	Nan
 darn	nkan	None
 datganiadau	awọn alaye	Nan
 datganodd	o kede	Nan
-datgelodd	o fi han	Nan
+datgelodd	fi	None
 datgelu	ifihan	Nan
 datguddiad	ifihan	Nan
 dathliadau	ayẹyẹ	Nan
@@ -9276,11 +9276,11 @@ dave	dave	Nan
 david	david	Nan
 davies	davies	Nan
 davis	davis	Nan
-daw	yoo wa	Nan
+daw	yoo	None
 dawel	dakẹrọrọ	Nan
 datganiad	alaye	Nan
 datgan	ipinle	Nan
-datblygwyd	ni idagbasoke	Nan
+datblygwyd	idagbasoke	None
 datblygun	idagbasoke	None
 darnau	awọn ege	Nan
 daro	lu	Nan
@@ -9294,14 +9294,14 @@ das	das	Nan
 datblygedig	ti ni ilọsiwaju	Nan
 datblygiad	idagbasoke	None
 datblygiadau	idagbasoke	None
-datblygiedig	ni idagbasoke	Nan
-datblygodd	o dagbasoke	Nan
+datblygiedig	idagbasoke	None
+datblygodd	dagbasoke	None
 datblygol	sese	Nan
 datblygu	idagbasoke	None
 data	data	Nan
 diflannu	farasin	Nan
 diflannun	farasin	Nan
-difrifol	to ṣe pataki	Nan
+difrifol	to	None
 ec	àsọ	Nan
 echdoriadau	irukerudo	Nan
 echel	àá	Nan
@@ -9351,7 +9351,7 @@ efor	efor	Nan
 efrog	york	None
 efydd	idẹ	Nan
 eg	eg	Nan
-eglur	ko o	Nan
+eglur	ko	None
 egluro	ṣàlàyé	Nan
 eglwys	ijo	Nan
 eglwysi	awọn ile ijọsin	Nan
@@ -9374,7 +9374,7 @@ ef	rẹ	None
 efaill	ibeji	None
 efallai	boya	Nan
 efengyl	ihinrere	None
-efengylau	awọn ihinrere	Nan
+efengylau	ihinrere	None
 edwin	edwin	Nan
 dôn	ohun orin	Nan
 dîm	egbe	None
@@ -9385,10 +9385,10 @@ dylanwadol	gbajugbaja	Nan
 dylanwadu	ipa	Nan
 dylanwadun	influencer	Nan
 dyled	gbese	None
-dyli	oye ko se	Nan
+dyli	ko	None
 dylid	bẹẹni	Nan
 dylunio	apẹrẹ	Nan
-dyma	ohun niyi	Nan
+dyma	niyi	None
 dymar	ibinu	Nan
 dymheredd	otutu	None
 dymhereddau	ibinu	Nan
@@ -9410,7 +9410,7 @@ dyfnaint	devon	Nan
 dyfod	wá	Nan
 dyfodd	o dagba	Nan
 dyfodiad	dide	Nan
-dyfodol	ojo iwaju	Nan
+dyfodol	ojo	None
 dyfrhau	irigeson	Nan
 dyfrllyd	olomi	Nan
 dyfu	dagba	Nan
@@ -9421,13 +9421,13 @@ dyna	o n niyen	Nan
 dyw	ọlọrun	Nan
 dywed	o sọpe	Nan
 dywediadau	awọn ọrọ	Nan
-dywedir	o ti sọ	Nan
-dywedodd	o sọ pe	Nan
-dywedwyd	o ti sọ	Nan
+dywedir	sọ	None
+dywedodd	sọ	None
+dywedwyd	sọ	None
 dywodfaen	okuta didan	Nan
-dywydd	oju ojo	Nan
+dywydd	ojo	None
 dywyll	dudu	Nan
-dywysog	ọmọ alade	Nan
+dywysog	ọmọ	None
 dywysogaeth	ijoye	Nan
 dywysoges	ọmọ-alade	Nan
 dywysogion	awọn ọmọ-alade	Nan
@@ -9446,7 +9446,7 @@ dynnu	fa	Nan
 dynodi	yiyan	Nan
 dyn	ọkunrin	Nan
 dynodir	itọkasi	Nan
-dynolryw	ọmọ eniyan	Nan
+dynolryw	ọmọ	None
 dysg	kọ ẹkọ	Nan
 dysgeidiaeth	awọn ẹkọ	Nan
 dysgir	o jẹ ẹkọ	Nan
@@ -9478,7 +9478,7 @@ encyclopaedia	igbasilẹ	Nan
 encilio	padasehin	Nan
 elyn	ọtá	Nan
 elyrch	swans	Nan
-embargo	ifi ofin de	Nan
+embargo	ofin	None
 emberiza	emberiza	Nan
 emily	emily	Nan
 emiradau	olú ọba	Nan
@@ -9558,7 +9558,7 @@ egwyddorion	awọn ipilẹṣẹ	Nan
 egyptian	egyptian	Nan
 ehangach	fẹẹrẹ	Nan
 ehangaf	fẹẹrẹ	Nan
-ehangdir	awọn ilẹ ti ilẹ	Nan
+ehangdir	ilẹ	None
 ehangiad	imugboroosi	Nan
 eisteddfodau	eisteddfodau	Nan
 ehangodd	o gbooro	Nan
@@ -9614,7 +9614,7 @@ dydy	kii ṣe	Nan
 dydi	kii ṣe	Nan
 diweithdra	alainiṣẹ	Nan
 diwethaf	kẹhin	Nan
-diwinyddiaeth	eko nipa esin	Nan
+diwinyddiaeth	eko	None
 diwinyddol	imq ẹkọ	Nan
 diwrnod	ọjọ	Nan
 diwydiannau	awọn ile-iṣẹ	Nan
@@ -9643,7 +9643,7 @@ divali	divus	Nan
 diver	omuwe	Nan
 divoire	devoire	Nan
 diwali	diwali	Nan
-diwan	ni bayi	Nan
+diwan	bayi	None
 diwedd	ipari	Nan
 diweddar	laipẹ	Nan
 diweddaraf	tuntun	None
@@ -9676,18 +9676,18 @@ document	iwe	Nan
 documentation	iwe	Nan
 documents	awọn iwe aṣẹ	Nan
 dod	wá	Nan
-disgyblaethau	awọn ilana	Nan
+disgyblaethau	ilana	None
 dodd	dodd	Nan
 doeau	awọn orule	Nan
-doedd	ko si	Nan
+doedd	ko	None
 does	ko	None
 doeth	ologbon	Nan
-dof	sọ di mimọ	Nan
+dof	sọ	None
 dogfen	iwe	Nan
 dogfennau	awọn iwe aṣẹ	Nan
 dodiad	ifihan	Nan
 disgyblaeth	ibawi	Nan
-disgybl	ọmọ ile-iwe	Nan
+disgybl	ọmọ	None
 disgwylir	o ti ṣe yẹ	Nan
 dim	rárá	Nan
 dime	éù	Nan
@@ -9713,7 +9713,7 @@ difyrrwch	iṣere	Nan
 difyrweithiau	ọgba iṣere	Nan
 digidol	oni-nọmba	Nan
 digital	oni-nọmba	Nan
-digon	ti to	Nan
+digon	to	None
 digwydd	ṣẹlẹ	Nan
 diod	mu	Nan
 digwyddiad	ìṣẹlẹ	Nan
@@ -9755,14 +9755,14 @@ diolch	o ṣeun	Nan
 diorseddwyd	iparun	Nan
 diplomyddol	oselu ara ilu	Nan
 dioddefodd	o jiya	Nan
-dipyn	oyimbo kan bit	Nan
+dipyn	kan	None
 directly	taara	Nan
 dirgryniadau	awọn ariwo	Nan
 diriogaeth	agbegbe	Nan
 diriogaethau	awọn agbegbe	Nan
 diriogaethaur	awọn agbegbe	Nan
 dirk	dirk	Nan
-diroedd	awọn ilẹ	Nan
+diroedd	ilẹ	None
 dir	ilẹ	None
 doreen	doreen	Nan
 dorf	ogunlọgọ	Nan
@@ -9790,7 +9790,7 @@ drwydded	iwe-aṣẹ	Nan
 drwyr	nipasẹ	Nan
 drych	digi	Nan
 drychinebus	ìparun	Nan
-drycin	oko nla	Nan
+drycin	oko	None
 drydan	ina	Nan
 drydanol	itanna	Nan
 duwdod	oriṣa	Nan
@@ -9836,12 +9836,12 @@ duwies	oriṣa	Nan
 dwrci	tọki	Nan
 dwy	meji	Nan
 dwyfol	ibawi	Nan
-dwyieithog	ede meji	Nan
+dwyieithog	ede	None
 dwylo	ọwọ	Nan
 dwyn	jiji	Nan
 dwyrain	ila-oorun	Nan
 dwyreiniol	ila-oorun	Nan
-dwristiaid	aririn ajo	Nan
+dwristiaid	ajo	None
 cynffon	iru	Nan
 drwsio	tunṣe	Nan
 drwm	wuwo	Nan
@@ -9858,7 +9858,7 @@ drafodaethau	awọn ijiroro	Nan
 draig	dragoni	Nan
 drais	iwa-ipa	Nan
 drama	eré	Nan
-dramodydd	agba bọọlu	Nan
+dramodydd	agba	None
 dramor	odi	Nan
 draddodiad	atọwọdọwọ	Nan
 dr	dr	Nan
@@ -9901,7 +9901,7 @@ drosodd	lori	Nan
 drwg	buburu	Nan
 dringwr	oluta-nla	Nan
 dringor	oluta-nla	Nan
-dringodd	ó gun	Nan
+dringodd	gun	None
 dringo	gígun	Nan
 dre	ti	Nan
 dref	ilu	Nan

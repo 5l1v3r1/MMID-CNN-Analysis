@@ -1,10 +1,9 @@
 import csv
 import PATHS
 
-PATH = PATHS.SCORE_RESULTS_FOLDER + "/English-Median/{}_median_cosine.tsv"
+PATH = PATHS.SCORE_RESULTS_FOLDER + "/English-Median/{}_med_max_cosine.tsv"
 
-LANGS = ["fr", "ar", "az", "es", "id",
-    "de", "tr", "hi", "it", "vi", "th", "cy"]
+LANGS = PATHS.LANGS[1:]
 
 d = {}
 

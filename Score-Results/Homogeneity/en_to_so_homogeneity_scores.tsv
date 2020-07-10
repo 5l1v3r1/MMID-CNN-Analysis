@@ -169,7 +169,7 @@ mash	mash	None
 jealousy	maseyr	None
 masarayuu	masarayuu	None
 egypt	masar	None
-prayer mat	masalle	Nan
+mat	masalle	None
 when they	markey	None
 masagaway	masagawaay	None
 masaayda	masaayda	None
@@ -269,7 +269,7 @@ grocer	libiya	None
 liban	liban	None
 libaaxyada	libaaxyada	None
 the lion	libaaxa	None
-a lion	libaax	Nan
+a	libaax	None
 leydiga	leydiga	None
 lewis	lewis	None
 lesotho	lesotho	None
@@ -517,7 +517,7 @@ the campaign	olalihii	None
 oktober	oktober	Nan
 he knows	yaqaanaa	None
 to be known	ogsoonoow	None
-allowed by	ogolyahay	Nan
+by	ogolyahay	None
 agreeing	ogolaanaya	None
 accepting	ogol	None
 we know	socono	None
@@ -564,7 +564,7 @@ deserve	mutaystay	None
 mudaharaadka	mudaharaadka	None
 mudadi	mudadi	None
 period	xili	None
-gave them wives	mucjiso	Nan
+them	mucjiso	None
 mucjisa	mucjisa	None
 the opposition	mucaaridka	None
 mucaaradadiya	mucaaradadiyå	None
@@ -596,7 +596,7 @@ mujaddidka	mujaddidka	None
 mujaahidiintii	mujaahidiintii	None
 martyrs	mujaahidiinta	None
 mujaahidka	mujaaahidka	None
-make every effort	muhiimada	Nan
+every	muhiimada	None
 muhammed	muxamed	None
 i am leaving now	mugga	None
 mufti	mufti	None
@@ -716,7 +716,7 @@ kureish tribe tried	muslimay	None
 muslim	muslinka	None
 candidacy	musharaxnimada	None
 muuqaallada	muuqaallada	None
-it was	muuqatay	Nan
+was	muuqatay	None
 appear	muuqdaan	None
 music	muusig	None
 chief	wabar	None
@@ -835,14 +835,14 @@ italy	talyaaniguna	None
 , etc.	iwm	None
 israailaye	israailaye	None
 he intended	jeeday	None
-under the trees	jeediyo	Nan
+trees	jeediyo	None
 jowhar	jowhar	None
 joqof	joqof	None
 permanent	joogto	None
 is there	yaalaa	None
 joogsanmaanta	joogsanmaanta	None
 i stayed	joogey	None
-diaspora or in	joogeene	Nan
+in	joogeene	None
 while they were there	joogeen	None
 stay	joogta	None
 johnston	johnston	None
@@ -852,7 +852,7 @@ he took shelter	jirsaday	None
 the body	maydka	None
 are not mature enough for	jiritaankeeda	None
 jirinhaddaba	jirinhaddaba	None
-there is no	jirin	Nan
+is	jirin	None
 jireenwaxee	jireenwaxee	None
 existence	jiritaanka	None
 jsiirada	jsiirada	None
@@ -878,7 +878,7 @@ junna	junna	None
 june	juun	None
 jumhuriyyat	jumhūriyyat	None
 july	luulyokii	None
-jubba region	jubadda	Nan
+region	jubadda	None
 jireena	jireena	None
 they were	jireen	None
 somalia	soomaliya	None
@@ -911,16 +911,16 @@ there are	jira	None
 jig	jiq	None
 the parity	jinka	None
 on friday	jimcihii	None
-somali male name	jimcale	Nan
+somali	jimcale	None
 friday	jimco	None
 soft	jilicsan	None
-have suggested	jeediyeen	Nan
+have	jeediyeen	None
 jilibkiisa	jilibkiisa	Nan
 jili	jili	None
 jilaamasrax	jilaamasrax	None
 movie star	jilaa	None
 somali nickname	jijeele	None
-or attention	jiitaan	Nan
+attention	jiitaan	None
 jiita	jiita	None
 rat	jiir	None
 jiinow	jiinow	Nan
@@ -957,7 +957,7 @@ intellectual	indheergarad	None
 indabur	indhabuur	None
 including	including	Nan
 inana	inana	None
-he was not	inaanu	Nan
+not	inaanu	None
 light	nuurka	None
 important	muhiimsan	None
 imei	imei	None
@@ -1033,7 +1033,7 @@ iskuxixiga	iskuxigxiga	None
 iskuxidhka	iskuxidhka	None
 iskusoo	iskusoo	None
 iskuqabashada	iskuqabashada	Nan
-they were grouped	iskugu	Nan
+were	iskugu	None
 confluence	iskudar	None
 same	isugu	None
 go away	tegin	None
@@ -1293,7 +1293,7 @@ money	lacata	None
 the male	labka	None
 labashaqlanaha	labashaqlanaha	None
 they both	labadiiba	None
-these two	labadaasi	Nan
+these	labadaasi	None
 the two	labadii	None
 twenty	taqasustay	None
 second	second	None
@@ -1399,8 +1399,8 @@ kiikii	kiikii	None
 she does	kiiba	None
 kibroo	kibroo	None
 bread	rootiga	None
-the arrogance	kibirka	Nan
-them takes away thirst altogether	ki	Nan
+the	kibirka	None
+thirst	ki	None
 khuseyma	khuseyma	None
 khuduub	khuduub	None
 khubaraduna	khubaraduna	None
@@ -1579,7 +1579,7 @@ uddaayey	uddaayey	None
 uday	uday	None
 ugaarka	ugaarka	None
 translator	turjume	None
-the era	waaga	Nan
+the	waaga	None
 duty	waajib	None
 brotherhood	walaaltinimo	None
 his brother	walalkiis	None
@@ -1590,7 +1590,7 @@ walaaleeyaan	walaaleeyaan	None
 their brothers	walaalahooda	None
 her brothers	walaalaheed	None
 brothers	walaalo	None
-the representative	wakiilka	Nan
+representative	wakiilka	None
 house of representatives	wakiilada	None
 representative	wakiil	None
 purchase freedom	wakhtigiisii	None
@@ -1667,7 +1667,7 @@ sharing	wadaaga	None
 priest	wadaadkii	None
 mullah	wadaad	None
 together	wadajirka	None
-the state registrar awareness	wacyigelinta	Nan
+state	wacyigelinta	None
 wacdiyow	wacdiyow	None
 the sermon	wacdiga	None
 waddagtaane	wadaagtaane	None
@@ -1740,7 +1740,7 @@ suwees	suwees	None
 canal	suways	None
 syria	syria	None
 statue	taale	None
-it has	taalla	Nan
+has	taalla	None
 taamaayee	taamaayee	None
 taamyeeloo	taamyeeloo	None
 tagtada	tagtada	None
@@ -1758,7 +1758,7 @@ trained	tababaran	None
 training	training	None
 for that	taasna	None
 historians	taariiqyahano	None
-a historian	taariikhyahan	Nan
+a	taariikhyahan	None
 dates	taariikhood	None
 historical	taariikhiga	None
 history/culture	taariikhdadhaqanka	None
@@ -1766,7 +1766,7 @@ tanks	taangiyada	Nan
 trainer	tababare	None
 tunisya	tunisya	None
 asked:	tegeysaan	None
-phone numbers	teleefonada	Nan
+phone	teleefonada	None
 turkey	turkki	None
 relative	xigto	None
 togwajaale	togwajaale	None
@@ -1817,7 +1817,7 @@ tiirsanyahay	tiirsanyahay	Nan
 tiirsantahay	tiirsantahay	None
 it was propped up	tiirsanaa	None
 depend on	tiirsan	None
-whenever trouble comes your way	tiirsada	Nan
+way	tiirsada	None
 tiirarkaasina	tiirarkaasina	None
 pillars	tiirarka	None
 pillar	tiirka	None
@@ -1929,10 +1929,10 @@ relating to	xidhiidha	None
 xidhiidhkaasi	xidhiidhkaasi	None
 xidhiidhno	xidhiidhno	None
 wear	xidhka	None
-at this time	xilligan	Nan
+time	xilligan	None
 season	xilli	None
 incapacity which makes it impossible for him	xilkeeda	None
-this office on	xilkaas	Nan
+on	xilkaas	None
 xiliyadii	xiliyadii	None
 in difficult times	xiliyada	None
 xiligiimuraadkii	xiligiimuraadkii	None
@@ -1942,13 +1942,13 @@ pilgrims of last	xujeyda	None
 xijrootay	xijrootay	None
 fascination	xiiso	None
 xiiseyneysid	xiiseyneysid	None
-he cut off completely	xiiray	Nan
+cut	xiiray	None
 xiiirto	xiiirto	None
 persons including	xigeenkii	None
 deputy	xigeen	None
 xifdin	xifdin	None
 root	xidid	None
-put on clothes	xidho	Nan
+clothes	xidho	None
 xijaaz	xijaaz	None
 xasuustiisana	xasuustiisana	None
 regime	xukumada	Nan
@@ -2006,7 +2006,7 @@ xuskooda	xuskooda	None
 the remembrance	xuska	None
 mention	xuso	None
 xuseenow	xuseenow	None
-history would tell	xusaysaa	Nan
+tell	xusaysaa	None
 xusayna	xusayna	None
 he mentioned	xusay	None
 xurnima	xurnima	None
@@ -2088,7 +2088,7 @@ werin	werin	None
 wenniger	wenniger	None
 wenlake	wenlake	None
 wels	wels	None
-"we have never been	weligayo	Nan
+have	weligayo	None
 could not	wayday	None
 wayaaye	wayaaye	None
 we revealed to	waxyoonay	None
@@ -2130,7 +2130,7 @@ leads	wato	Nan
 letter	xarafle	None
 ministers	wasiiro	None
 wasaq	wasaq	None
-he made dirty	wasakheeyey	Nan
+made	wasakheeyey	None
 wasaarihiisa	wasaarihiisa	None
 the minister	waziirkii	None
 the ministers	wasaarayaashii	None
@@ -2229,7 +2229,7 @@ xaaraam	xaaraam	None
 the situation	xaaladdu	None
 situation	xaaladda	None
 cease	xabad	None
-surah hadid	suuratu	Nan
+surah	suuratu	None
 suurada	suurada	None
 markets	suuqyada	None
 register	register	None
@@ -2397,8 +2397,8 @@ whoever	ruuxii	None
 exclusion	saarida	None
 sari	saari	None
 issued	saareen	None
-ineligibility for	saarayso	Nan
-he took out	saaray	Nan
+for	saarayso	None
+out	saaray	None
 cast	tuuro	None
 expelled	saaraa	None
 to release	saanmarino	None
@@ -2406,7 +2406,7 @@ years	sano	None
 roble	rooble	None
 animal skins	saamo	None
 zambia	saambiya	None
-event in america affect	saamaysay	Nan
+america	saamaysay	None
 the effects	saamaynta	None
 salah	saalax	Nan
 supply base	saadka	None
@@ -2441,7 +2441,7 @@ motives	qarinayaan	None
 materials	yaabaha	None
 hiding	qarisay	None
 century	qarnigii	None
-overpowers him	qaybiyaa	Nan
+him	qaybiyaa	None
 distribution	qaybin	None
 participate	qaybgasho	None
 sections	qaybood	None
@@ -2460,7 +2460,7 @@ secret	sir	None
 qarshe	qarshe	None
 qarsado	qarsado	None
 centuries	qarniyo	None
-against this generation	qarnigan	Nan
+generation	qarnigan	None
 qalaaye	qalaaye	Nan
 between qalafe	qalaafe	None
 captives	qafaashay	None
@@ -2472,7 +2472,7 @@ doing	samaynaya	None
 strips	qabaal	None
 qabaaiikii	qabaailkii	Nan
 qabaailada	qabaailada	None
-he took	qaatey	Nan
+took	qaatey	None
 they have taken	qaateen	None
 recipient	qaataa	None
 qasim	qaasim	None
@@ -2541,7 +2541,7 @@ qureysh	qureysh	None
 qurbajoogga	qurbajoogga	None
 in diaspora	qurbaha	None
 gurbac	qurbac	None
-by polish people in	qurba	Nan
+in	qurba	None
 durayshtu	qurayshtu	None
 quraysh	quraysh	None
 said in	quraankiisa	None
@@ -2637,7 +2637,7 @@ keep on going	socdaanba	None
 walk	socon	None
 immigration	socdaalka	None
 traveler	socotada	None
-going on	socdaa	Nan
+on	socdaa	None
 snmta	snmta	None
 snmlooma	snmlooma	None
 snm	snm	None
@@ -2668,7 +2668,7 @@ shinema	shinema	None
 birds	shimbiruhu	None
 bird	shimbir	None
 -milion	shilling	Nan
-the shilling	shilinka	Nan
+the	shilinka	None
 shirweynahan	shirweynahan	None
 shuceyb	shuceyb	None
 .	siad	None
@@ -2692,7 +2692,7 @@ sideetameeyadii	sideetameeyadii	None
 arrears remain due until they are paid	sideedii	None
 sideedan	sideedan	None
 eighth	sideedaad	Nan
-like this	sidan	Nan
+this	sidan	None
 gangis in hiram	sifeynta	None
 shillings	shilin	None
 thirty	soddon	Nan
@@ -2702,7 +2702,7 @@ suhra	suhra	None
 sugule	sugulle	None
 sugnaakii	sugnaakii	None
 it was appropriate	sugnaa	None
-have you been waiting	sugeysey	Nan
+waiting	sugeysey	None
 he expected	sugay	None
 waiting	sugaysa	None
 beam	sudhan	None
@@ -2728,7 +2728,7 @@ suudaanitoobiya	suudaanitoobiya	None
 surah	suuradda	None
 suubiye	suubiye	None
 suubanaa	suubanaa	None
-so that he	suu	Nan
+he	suu	None
 sus	sus	None
 surinam	surinam	None
 suqa	suqa	None
@@ -2744,7 +2744,7 @@ states	states	None
 standards	standards	Nan
 standard	standard	None
 soodhaafanay	soodhaafanay	None
-the sugar	sonkorta	Nan
+the	sonkorta	None
 somtel	somtel	None
 somlialnd	somlialnd	None
 somaray	somaray	None
@@ -2907,7 +2907,7 @@ did not tell	sheegin	None
 sheegnaya	sheegnaya	None
 we have said	sheegnayba	None
 china	shiinuhu	None
-the sheikh had	shiikhu	Nan
+sheikh	shiikhu	None
 shiikha	shiikha	None
 shige	shige	None
 shift	shift	None
@@ -2935,7 +2935,7 @@ shador	shadoor	None
 people are	shacbigu	None
 shacbigii	shacbigii	None
 people   ave	shacbi	None
-detach themselves	shacabku	Nan
+themselves	shacabku	None
 their people	shacabkooda	None
 population	shacabkii	None
 shabele	shabele	None
@@ -2982,7 +2982,7 @@ abdiasis	cabdicasiis	None
 drink	raq	None
 abdalla	cabdalle	None
 drank from it	cabbeen	None
-he drank	cabbay	Nan
+he	cabbay	None
 abbas	kacay	Nan
 abbas. they show	cabaas	None
 a wait	cabaar	None
@@ -3085,7 +3085,7 @@ there	yaalo	None
 campaign	ololihii	None
 well furnished	camiran	None
 manners	cambaha	None
-insect that eats hide while it is drying	camar	Nan
+is	camar	None
 camaloow	camaloow	None
 camalladiisa	camalladiisa	Nan
 deeds	camallada	None
@@ -3285,7 +3285,7 @@ burkina	burkina	None
 burao	burco	None
 collapse	burburtay	None
 he destroyed	gumaaday	None
-have destroyed	burburiyeen	Nan
+have	burburiyeen	None
 it destroyed	burburiyay	None
 in	yaala	None
 he was ravaging	burburinta	None
@@ -3336,7 +3336,7 @@ borame	boorame	None
 borama.	boorama	None
 bislaanaayo	bislaanaayo	None
 booqdayaasha	booqdayaasha	None
-the visit	booqashada	Nan
+visit	booqashada	None
 visited	booqday	None
 visit	booqdo	None
 boondheere	boondheere	None
@@ -3375,7 +3375,7 @@ bitter aloe	dacar	None
 years old	dadiisu	None
 conceal	dadi	None
 dadee	dadee	None
-many people had sarcasm on	dadbadani	Nan
+on	dadbadani	None
 you never do better for them	dadaashaane	None
 dadaaloosa	dadaaloosa	None
 try hard to	dadaalo	None
@@ -3403,7 +3403,7 @@ daadagno	daadagno	None
 daadagine	daadagine	None
 flood	daad	None
 burp	daaci	None
-the sincerity	daacadda	Nan
+the	daacadda	None
 honest	daacad	None
 not published	daabicin	None
 print	daabacdo	None
@@ -3536,7 +3536,7 @@ the children	caruurtii	None
 ottoman	cusman	None
 cusmaaniyiinta	cusmaaniyiinta	None
 cidluu	cidluu	None
-empty area	cidlo	Nan
+area	cidlo	None
 the empty	cidla	None
 anybody	cidi	None
 cidhifyada	cidhifyada	None
@@ -3649,7 +3649,7 @@ coofey	coofey	None
 conoco	conoco	None
 disease	cudur	None
 congresska	congresska	None
-the disease	cudurka	Nan
+disease	cudurka	None
 weight	miisaanka	None
 osman	osman	None
 cuseyr	cuseyr	None
@@ -3674,7 +3674,7 @@ cufanka	cufanka	None
 congress	shirkaa	None
 congo	congo	None
 shuruudaha	conditions	None
-c karim	ckariin	Nan
+karim	ckariin	None
 ckariim	ckariim	None
 the game	kaysaha	None
 played	ciyaaray	None
@@ -3766,7 +3766,7 @@ aid	aid	None
 which existed before in	ahyad	None
 ahada	ahada	None
 were	muuqanayey	None
-only one	ahaaye	Nan
+one	ahaaye	None
 afturki	afturki	None
 aftigree	aftigree	None
 after	kadib	None
@@ -3841,7 +3841,7 @@ application	codsiga	None
 antiilis	antiilis	None
 antenna	antenna	None
 the validity	ansaxa	None
-and i am	anna	Nan
+am	anna	None
 angola	angola	None
 usefulness	anfac	None
 andorra	andorra	None
@@ -3862,7 +3862,7 @@ alustaad	alustaad	None
 also	weliba	None
 islamic fighting faction/group	alislaax	None
 align=waxay xaq	align=right	None
-the stripe	alifka	Nan
+stripe	alifka	None
 alphabet	xarafka	None
 stripe	alif	None
 ali	cali	None
@@ -3904,7 +3904,7 @@ how	waray	None
 all	kuliyda	None
 algeria	aljeeriya	None
 allow	allow	None
-i don't know	aqaan	Nan
+know	aqaan	None
 afisbaanish	afisbaanish	None
 spokesman	afhayeenka	None
 hey you	aay	None
@@ -3916,12 +3916,12 @@ he buried	aasay	None
 assanyahay	aasanyahay	None
 rest	rideen	None
 foundation	aasaasy	None
-laid the foundation of	aasaastay	Nan
+of	aasaastay	None
 the foundation	aasaaskii	None
 of	ti	None
 basic	aasaasiga	None
 founders of	aasaasayaashii	None
-he founded	asaasay	Nan
+he	asaasay	None
 aasaasaha	aasaasaha	None
 ancient	qadiimsan	None
 aasaarta	aasaarta	None
@@ -4014,13 +4014,13 @@ use	were	None
 uses	uses	None
 adeegayooda	adeegayooda	None
 service	service	None
-get tired	adduunyadu	Nan
+get	adduunyadu	None
 in this world	adduunkan	None
 world	world	None
 this world	adduunyada	None
 confide	addoonku	None
 who spoke on	adkeynta	None
-his servant	addoonkiisa	Nan
+servant	addoonkiisa	None
 administartion	administartion	None
 shall it be	adoon	None
 town near capital mogadishu	afgoye	None
@@ -4045,7 +4045,7 @@ he ... you	aduu	None
 and you	adna	None
 servant	servant	None
 slave	addoon	None
-his servants	addoomadiisa	Nan
+his	addoomadiisa	None
 abul	abul	None
 thing	waxka	None
 abtiyaashiis	abtiyaashiis	None
@@ -4169,7 +4169,7 @@ badhaadhe	badhaadhe	None
 half	rabin	None
 red sea	baddacas	None
 sea	baddii	None
-her protected	badbaadiyey	Nan
+her	badbaadiyey	None
 saving	badbaadinta	None
 have displayed	bandhigeen	None
 save	madhaafto	None
@@ -4288,7 +4288,7 @@ this matter?	arrintaa	None
 the matter	maatarka	None
 take	qaato	None
 this topic	arrinkaan	None
-any proof on that issue	arrinkaa	Nan
+issue	arrinkaa	None
 matter	matter	None
 these	these	None
 arligiina	arligiina	None
@@ -4408,7 +4408,7 @@ them	wareegi	None
 baalle	baalle	None
 baalakan	baalakan	None
 page	shaafici	None
-he was hungry	baahnaa	Nan
+was	baahnaa	None
 don't need	baahna	None
 baahintaasi	baahintaasi	None
 baahiayay	baahiayay	None
@@ -4541,7 +4541,7 @@ mayor of	galdogob	None
 galbeedna	galbeedna	None
 galbeedkenya	galbeedkenya	None
 galbeedkana	galbeedkana	None
-east ethiopia	galbeeditoobiya	Nan
+ethiopia	galbeeditoobiya	None
 west	west	None
 they went home	galbaday	None
 ocean fish	garre	None
@@ -4549,7 +4549,7 @@ galaydh	galayr	None
 into	into	None
 galaddiisu	galaddiisu	None
 galadaystay	galadaystay	None
-full stop	galabsan	Nan
+full	galabsan	None
 afternoon	galab	None
 whitewash whitewash	galaal	None
 it enters	galaa	None
@@ -4578,8 +4578,8 @@ giscard	giscard	None
 giinbaarta	giinbaarta	None
 home	home	None
 ghazi	ghazi	None
-this region	gobolkan	Nan
-had contributed to	geystey	Nan
+region	gobolkan	None
+to	geystey	None
 gobolkani	gobolkani	None
 gobolki	gobolkii	None
 locations	goobo	None
@@ -4650,7 +4650,7 @@ administered with roughness had the	geesiyaashii	None
 deceased	marxuum	None
 he put in	geliyay	None
 goobanimo	goobanimo	None
-the poem	gabaygu	Nan
+the	gabaygu	None
 gabayadiisa	gabayadiisa	None
 federal	federaalka	None
 february	february	None
@@ -4670,7 +4670,7 @@ difference	khilaaf	None
 finger	farta	None
 farnsiiku	farnsiiku	None
 cheese	farmaajo	None
-where decisions are made	fariisto	Nan
+made	fariisto	None
 ferfer	feerfeer	None
 a message	fariin	None
 femmes	femmes	None
@@ -4713,7 +4713,7 @@ understand	garto	None
 understanding	waxgaradka	None
 fadligeeda	fadligeeda	None
 grace	nimcooyin	None
-he was sitting	fadhiyey	Nan
+sitting	fadhiyey	None
 setting	fadhiyay	Nan
 seated	fadhiyaa	None
 by voting	fadhiso	None
@@ -4751,7 +4751,7 @@ unbelievers	gaalo	None
 infidel	gaalkacayo	None
 hunger	gaajo	None
 transportation	gadiidka	None
-he promoted	gaarsiiyey	Nan
+he	gaarsiiyey	None
 take them very	gaadhsiiyaan	None
 triumphal procession	gaadhsiiya	None
 gaadhsiinlahayd	gaadhsiinlahayd	None
@@ -4861,7 +4861,7 @@ you are going to find	helaysaa	None
 riot	haysteen	Nan
 would receive	heleysa	None
 heliwaa	heliwaa	None
-the hegira	hijrada	Nan
+the	hijrada	None
 hiiraan	hiiraan	Nan
 support	taageero	None
 heredity	hiddo	None
@@ -5013,7 +5013,7 @@ calendar shall be	hijriyada	None
 faction	hogaamiye	None
 the leader	sayidka	None
 predict	hogaamiya	None
-led by	hormood	Nan
+by	hormood	None
 hogaaminayeen	hogaaminayeen	None
 ,	hoyatay	None
 coalition	hogaaminaya	None
@@ -5074,7 +5074,7 @@ graziani	graziani	Nan
 grand total	grand	None
 gprs	gprs	None
 gpp	gpp	Nan
-he slaughtered	gowracay	Nan
+he	gowracay	None
 slaughter	gowraco	None
 eagle	gorgor	None
 gorfayna	gorfayna	None
@@ -5293,7 +5293,7 @@ inheritance	dhaxal	Nan
 dhanee	dhanee	None
 way they had	dhammeeyeen	None
 dhammanteen	dhammanteen	None
-all of them	kulligood	Nan
+them	kulligood	None
 every	walbana	None
 end of	dhammaadkii	None
 the complete	dhammaa	None
@@ -5327,7 +5327,7 @@ dhimanayey	dhimanayey	None
 make	yeel	None
 when you will die	dhimane	None
 death	geerisa	None
-have built	dhiseen	Nan
+built	dhiseen	None
 built	dhisteen	None
 based on	dhisan	None
 dhisaayaeen	dhisaayeen	None
@@ -5354,7 +5354,7 @@ height	joogga	None
 the extra	dheeraadka	None
 long	dheere	None
 sap	dheecaan	None
-the feminine	dheddigga	Nan
+the	dheddigga	None
 dheddiga	dheddiga	None
 trees	geedaha	None
 dhebaandhebiye	dhebaandhebiye	None
@@ -5397,7 +5397,7 @@ go through	marsada	None
 building	dhisida	None
 dhalanteede	dhalanteede	None
 giving birth	dhal	None
-he looked at	eegay	Nan
+at	eegay	None
 daydka	daydka	None
 tried	iskudayay	None
 the moon	dayaxa	None
@@ -5477,7 +5477,7 @@ dartey	dartey	None
 therefore,	darteed	None
 ifo camp for nearly	deganaana	None
 something else	dartay	None
-lack of	darro	Nan
+of	darro	None
 robbed by	darood	None
 collected	daro	None
 the ancestry	darka	None
@@ -5490,7 +5490,7 @@ darsoomaa	darsoomaa	None
 born	dhashtay	None
 he went down	degtay	None
 resident	degen	None
-it happened	dhacday	Nan
+it	dhacday	None
 eyes	indhuhu	None
 corral closure	dhacan	None
 happen	dhacaan	None
@@ -5543,11 +5543,11 @@ swift	degtaa	None
 degree	shahaado	None
 it lives	degoo	None
 's get off	degno	None
-the county	degmadu	Nan
+the	degmadu	None
 degmadan	degmadan	None
 assistance from this county or another county	degmadaan	None
 camp	xero	None
-he was relaxed	degganaa	Nan
+was	degganaa	None
 feast	iidow	None
 some counties where many refugees live	degenyihiin	None
 degeneen	degeneen	None
@@ -5622,7 +5622,7 @@ e	e	None
 dvdx	dvdx	None
 most surely various	duwanyahay	None
 he was different	duwanaa	None
-the forest	duurka	Nan
+forest	duurka	None
 duurgalay	duurgalay	None
 wild animals	duur	None
 duumaa	duumaa	None
@@ -5640,7 +5640,7 @@ schools	schools	None
 school	schoolka	None
 fall asleep	dug	None
 dufowdoo	dufowdoo	None
-keep on praying for	ducaynaa	Nan
+for	ducaynaa	None
 prayer	salaadeed	None
 dubai	dubai	None
 dubad	dubad	None
@@ -5781,7 +5781,7 @@ digil	digil	None
 digfeer	digfeer	None
 different	qilaafsan	None
 protects	difaacaya	None
-have defended	difaacay	Nan
+have	difaacay	None
 he chased away	didsaday	None
 he was scared	diday	None
 dibuheshiisiinta	dibuheshiisiinta	None
@@ -5868,7 +5868,7 @@ wanted	rabay	None
 boat	doonta	None
 shrink	shiiq	None
 buttocks	doolo	None
-and doollo	doollo	Nan
+and	doollo	None
 doojey	doojey	None
 doogsin	doogsin	None
 pig	doofaar	None

@@ -1,3 +1,6 @@
+LANGS = ["en", "ar", "az", "bs", "bg", "nl", "fr", "de", "gu", "hi", "hu",
+         "id", "it", "lv", "ro", "sr", "es", "sv", "ta", "tr", "cy"]
+
 ## Path to a folder called Score Results, where all results will be written to
 SCORE_RESULTS_FOLDER = "/project/multilm/nikzad/MMID-CNN-Analysis/Score-Results"
 

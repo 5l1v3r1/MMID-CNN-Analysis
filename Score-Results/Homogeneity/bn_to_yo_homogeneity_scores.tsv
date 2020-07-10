@@ -38,10 +38,10 @@
 ব্যাসের	iwọn opin	Nan
 ব্লগিং	nbulọọgi	Nan
 ব্লাড	ẹjẹ	Nan
-ভবিষ্যতে	ni ojo iwaju	Nan
-ভবিষ্যতের	ti ojo iwaju	Nan
+ভবিষ্যতে	ojo	None
+ভবিষ্যতের	ojo	None
 ভবিষ্যদ্বাণী	asọtẹlẹ	Nan
-ভবিষ্যৎ	ojo iwaju	Nan
+ভবিষ্যৎ	ojo	None
 ভয়	iberu	Nan
 ভয়াবহ	ibaje	Nan
 ভয়ে	iberu	Nan
@@ -53,7 +53,7 @@
 ভরা	kún	Nan
 ভরাট	kún	Nan
 ভরের	ti ibi-pupọ	Nan
-ভবিষ্যত	ojo iwaju	Nan
+ভবিষ্যত	ojo	None
 ভবনের	ti ile naa	Nan
 ভবনে	ninu ile	Nan
 ভবনটি	ile naa	Nan
@@ -66,7 +66,7 @@
 ভগবদ্গীতা	bhagavad gita	Nan
 ব্লগের	ti bulọọgi naa	Nan
 ভগবান	ọlọrun	Nan
-ভগ্নাংশ	awọn ipin	Nan
+ভগ্নাংশ	ipin	None
 ভঙ্গ	bireki	Nan
 ভট	bhat	Nan
 ভটের	bata	Nan
@@ -156,14 +156,14 @@
 ভর্তির	gbigba wọle	Nan
 ভলিউম	didun	Nan
 ভাই	arakunrin	Nan
-ভুল	ti ko tọ	Nan
-ভুলের	ti ko tọ	Nan
+ভুল	ko	None
+ভুলের	ko	None
 ভূখণ্ড	agbegbe	Nan
 ভূখণ্ডে	lori ibigbogbo ile	Nan
-ভূখণ্ডের	ilẹ oju	Nan
+ভূখণ্ডের	ilẹ	None
 ভূখন্ডে	lori ibigbogbo ile	Nan
 ভূগর্ভস্থ	si ipamo	Nan
-ভূগোল	ẹkọ nipa ilẹ	Nan
+ভূগোল	ilẹ	None
 ভূটান	bhutan	Nan
 ভূটানের	ti bhutan	Nan
 ভূতত্ত্ব	ẹkọ nipa imọ-jinlẹ	Nan
@@ -179,20 +179,20 @@
 ভিতরের	ninu	Nan
 ভিত্তি	foundation	Nan
 ভিত্তিক	da	None
-ভিত্তিতে	lori ilana ti	Nan
+ভিত্তিতে	ilana	None
 ভিত্তির	foundation	Nan
 ভিন্ন	yatọ	Nan
 ভূপৃষ্ঠের	ti dada	Nan
-ভিয়েত	ede vietnam	Nan
-ভিয়েতনামি	ede vietnam	Nan
-ভিয়েতনামীয়	ede vietnam	Nan
+ভিয়েত	ede	None
+ভিয়েতনামি	ede	None
+ভিয়েতনামীয়	ede	None
 ভিয়েতনামে	ni vietnam	Nan
 ভিয়েতনামের	vietnam	Nan
 ভিয়েনা	vienna	Nan
 ভিয়েনার	vienna	Nan
 ভিস্তা	vista	Nan
 ভিয়েতনাম	vietnam	Nan
-ভূপ্রকৃতি	ẹkọ nipa ilẹ	Nan
+ভূপ্রকৃতি	ilẹ	None
 ভূমধ্যসাগর	mẹditarenia	Nan
 ভূমধ্যসাগরীয়	mẹditarenia	Nan
 ভেতরে	ninu	Nan
@@ -218,24 +218,24 @@
 ভূমধ্যসাগরের	mẹditarenia	Nan
 ভূমি	ilẹ	None
 ভূমিকম্প	iwariri-ilẹ	Nan
-ভূমিকম্পে	ninu iwariri-ilẹ kan	Nan
+ভূমিকম্পে	kan	None
 ভূমিকম্পের	ti awọn iwariri-ilẹ	Nan
 ভূমিকা	ifaara	Nan
 ভূমিকায়	ninu ifihan	Nan
 ভেড়া	agutan	Nan
 ভূমিকার	ifaara	Nan
-ভূমির	ti ilẹ	Nan
+ভূমির	ilẹ	None
 ভূমিরূপ	landform	Nan
 ভূষিত	ọṣọ	Nan
 ভূসংস্থানিক	geology	Nan
 ভেক্টর	vector	Nan
-ভেঙে	gba silẹ	Nan
-ভেঙ্গে	gba silẹ	Nan
-ভূমিতে	lori ilẹ	Nan
+ভেঙে	gba	None
+ভেঙ্গে	gba	None
+ভূমিতে	ilẹ	None
 ব্যক্তিত্ব	ara ẹni	Nan
 ভিক্ষা	bibẹrẹ	Nan
 ভিক্টর	victor	None
-ভাবেই	bi o ti le je pe	Nan
+ভাবেই	le	None
 ভার	ẹru	Nan
 ভারত	india	Nan
 ভারতকে	india	Nan
@@ -256,9 +256,9 @@
 ভাব	awọn ikunsinu	Nan
 ভাইকিং	viking	Nan
 ভাইয়ের	arakunrin	Nan
-ভাইরাস	kòkòrò àrùn fáírọọsì	Nan
-ভাইরাসটি	kokoro arun fairọọsi naa	Nan
-ভাইরাসের	ti kokoro arun fairọọsi naa	Nan
+ভাইরাস	àrùn	None
+ভাইরাসটি	arun	None
+ভাইরাসের	arun	None
 ভাগ	pin	Nan
 ভাগই	pin	Nan
 ভার্সন	ẹya	Nan
@@ -267,33 +267,33 @@
 ভাগে	ni apakan	Nan
 ভাগের	pinpin	Nan
 ভাগ্য	ojuuṣe	Nan
-ভাঙ্গন	ko ṣiṣẹ	Nan
+ভাঙ্গন	ko	None
 ভাড়া	yiyalo	Nan
 ভাত	iresi	Nan
 ভাগবত	bhagwat	Nan
 ভাল	o dara	Nan
 ভালবাসা	ni ife	Nan
 ভালবাসার	ti ife	Nan
-ভাষাপরিবারের	ti idile ede	Nan
-ভাষাবিজ্ঞানী	ede linguist	Nan
+ভাষাপরিবারের	ede	None
+ভাষাবিজ্ঞানী	ede	None
 ভাষাবিজ্ঞানীরা	awọn onkọwe-ede	Nan
 ভাষাবিজ্ঞানে	ninu ede-ẹkọ	Nan
 ভাষাবিজ্ঞানের	linguistics	Nan
 ভাষাভাষী	nsoro	Nan
-ভাষায়	ni ede	Nan
-ভাষাপরিবার	ebi ede	Nan
+ভাষায়	ede	None
+ভাষাপরিবার	ede	None
 ভাষার	ede	None
-ভাষাসমূহের	ti awọn ede	Nan
+ভাষাসমূহের	ede	None
 ভাষ্য	ọrọìwòye	Nan
 ভাষ্যমতে	gẹgẹbi asọye	Nan
 ভাসমান	lilefoofo	Nan
 ভাস্কর	ulgùṣọ	Nan
 ভাস্কর্য	aworan	Nan
 ভি	v.	Nan
-ভাষাসমূহ	awọn ede	Nan
+ভাষাসমূহ	ede	None
 ভিক্টোরিয়া	victoria	Nan
-ভাষাতেও	paapaa ni ede	Nan
-ভাষাতে	ni ede	Nan
+ভাষাতেও	ede	None
+ভাষাতে	ede	None
 ভালভাবে	daradara	Nan
 ভালো	o dara	Nan
 ভালোভাবে	daradara	Nan
@@ -301,31 +301,31 @@
 ভাষণে	ninu ọrọ	Nan
 ভাষা	ede	None
 ভাষাই	ede	None
-ভাষাতেই	ni ede	Nan
+ভাষাতেই	ede	None
 ভাষাও	toodè pẹ̀lú	Nan
 ভাষাগত	ede	None
-ভাষাগুলি	awọn ede	Nan
-ভাষাগুলির	ti awọn ede	Nan
-ভাষাগুলো	awọn ede	Nan
-ভাষাগুলোর	ti awọn ede	Nan
-ভাষাটি	ede naa	Nan
-ভাষাটির	ti ede naa	Nan
+ভাষাগুলি	ede	None
+ভাষাগুলির	ede	None
+ভাষাগুলো	ede	None
+ভাষাগুলোর	ede	None
+ভাষাটি	ede	None
+ভাষাটির	ede	None
 ভাষাকে	ede	None
 ভোটের	ti idibo	Nan
 ব্যক্তিগত	ikọkọ	Nan
 ব্যক্তি	eniyan	Nan
 বিষয়শ্রেণীধর্ম	esin ẹya	Nan
 বিষয়শ্রেণীপদার্থবিজ্ঞান	ẹka: fisiksi	Nan
-বিষয়শ্রেণীপশ্চিমবঙ্গের	ẹya west bengal	Nan
-বিষয়শ্রেণীপ্রাচীন	ẹkaawọn ipo	Nan
+বিষয়শ্রেণীপশ্চিমবঙ্গের	bengal	None
+বিষয়শ্রেণীপ্রাচীন	ipo	None
 বিষয়শ্রেণীপ্রোগ্রামিং	ẹyaprogramming	Nan
 বিষয়শ্রেণীবছর	ọdun ẹka	Nan
 বিষয়শ্রেণীবর্ষপঞ্জি	iwe odun ẹka	Nan
-বিষয়শ্রেণীবাংলা	ede bengali	Nan
+বিষয়শ্রেণীবাংলা	bengali	None
 বিষয়শ্রেণীবাংলাদেশ	ẹka: bangladesh	Nan
 বিষয়শ্রেণীবাংলাদেশী	ẹkabangladesh	Nan
 বিষয়শ্রেণীবাংলাদেশের	ẹka: bangladesh	Nan
-বিষয়শ্রেণীবাঙালি	ede bengali	Nan
+বিষয়শ্রেণীবাঙালি	bengali	None
 বিষয়শ্রেণীভারত	ẹya india	Nan
 বিষয়শ্রেণীভারতীয়	ẹkaindia	Nan
 বিষয়শ্রেণীভারতের	ẹya india	Nan
@@ -333,14 +333,14 @@
 বিষয়শ্রেণীজীবিত	ẹka wa laaye	Nan
 বিষয়শ্রেণীজীববিজ্ঞান	ẹkọ nipa isedale	Nan
 বিষয়শ্রেণীজি১৫	ẹka 15	Nan
-বিষয়শ্রেণীইসলাম	ẹka nkan ti islam	Nan
+বিষয়শ্রেণীইসলাম	nkan	None
 বিষয়শ্রেণীইহুদি	ẹya naa jẹ juu	Nan
 বিষয়শ্রেণীউত্তর	ẹkaanswer	Nan
 বিষয়শ্রেণীএশিয়া	ẹkaasia	Nan
 বিষয়শ্রেণীএশিয়ার	ẹkaasia	Nan
 বিষয়শ্রেণীকম্পিউটার	ẹkacomputer	Nan
 বিষয়শ্রেণীকলকাতার	ẹka: calcutta	Nan
-বিষয়শ্রেণীভাষা	ede eka	Nan
+বিষয়শ্রেণীভাষা	eka	None
 বিষয়শ্রেণীক্যারিবীয়	ẹkacaribian	Nan
 বিষয়শ্রেণীখ্রিষ্টপূর্ব	ẹka b	Nan
 বিষয়শ্রেণীখ্রিস্ট	ẹkachrist	Nan
@@ -381,7 +381,7 @@
 বিষয়শ্রেণীস্ত্রী	awọn obinrin ẹka	Nan
 বিষয়শ্রেণীমধ্যপ্রাচ্য	ẹya aarin ila-oorun	Nan
 বিষয়শ্রেণীহিন্দু	ẹya hindu	Nan
-বিষয়াদি	awọn nkan	Nan
+বিষয়াদি	nkan	None
 বিষয়ে	nipa	Nan
 বিষয়ের	ti koko	Nan
 বিষুবরেখা	onitumọ	Nan
@@ -390,22 +390,22 @@
 বিষ্ণুর	vishnu	Nan
 বিষয়শ্রেণী১৯৪৫এ	ẹya 1945	Nan
 বিষয়শ্রেণীইন্টারনেট	ẹkainternet	Nan
-বিষয়শ্রেণীইতালীয়	ẹya naa jẹ itali	Nan
+বিষয়শ্রেণীইতালীয়	itali	None
 বিষয়শ্রেণীইউরোপের	ẹka yuroopu	Nan
 বিশেষায়িত	pataki	Nan
 বিশেষ্য	nọun	Nan
 বিশেষ্যের	nọun	Nan
 বিশ্ব	ileaye	Nan
 বিশ্বকাপ	world cup	Nan
-বিশ্বকাপে	ninu ife agbaye	Nan
+বিশ্বকাপে	agbaye	None
 বিশ্বকাপের	world cup	Nan
-বিশ্বকে	si agbaye	Nan
+বিশ্বকে	agbaye	None
 বিশ্বকোষ	encyclopedia	Nan
 বিশ্বকোষে	ninu encyclopedia	Nan
 বিশ্বকোষের	encyclopedia	Nan
-বিশ্বখ্যাত	olokiki agbaye	Nan
+বিশ্বখ্যাত	agbaye	None
 বিশ্বজনীন	gbogbogbo	None
-বিশ্বজুড়ে	ni ayika agbaye	Nan
+বিশ্বজুড়ে	agbaye	None
 বিশ্বতত্ত্ব	idaraya	Nan
 বিশেষভাবে	gegebi bi	Nan
 বিশেষত্ব	okan pataki	Nan
@@ -430,11 +430,11 @@
 বিশুদ্ধ	mimọ	Nan
 বিশ্বতাত্ত্বিক	ilokan	Nan
 বিশ্বনাথ	bishwanath	Nan
-বিশ্ববিখ্যাত	olokiki agbaye	Nan
+বিশ্ববিখ্যাত	agbaye	None
 বিষ	oje	Nan
 বিষধর	loroko	Nan
 বিষয়	koko-ọrọ	Nan
-বিষয়ক	awọn nkan	Nan
+বিষয়ক	nkan	None
 বিষয়কে	si koko-ọrọ	Nan
 বিষয়গুলো	ohun	Nan
 বিষয়টি	koko-ọrọ naa	Nan
@@ -456,18 +456,18 @@
 বিশ্ববিদ্যালয়ের	yunifasiti	Nan
 বিশ্বব্যাপী	ni kariaye	Nan
 বিশ্বভারতী	visva-bharati	Nan
-বিশ্বযুদ্ধ	ogun agbaye ii	Nan
-বিশ্বযুদ্ধে	ninu ogun agbaye ii	Nan
+বিশ্বযুদ্ধ	agbaye	None
+বিশ্বযুদ্ধে	agbaye	None
 বিশ্লেষণের	ti onínọmbà	Nan
-বিশ্বযুদ্ধের	ogun agbaye ii	Nan
+বিশ্বযুদ্ধের	agbaye	None
 বিশ্বাস	igbagbọ	Nan
 বিশ্বাসী	onigbagbọ	Nan
 বিশ্বাসের	ti igbagbo	Nan
-বিশ্বে	ni agbaye	Nan
-বিশ্বের	ti agbaye	Nan
+বিশ্বে	agbaye	None
+বিশ্বের	agbaye	None
 বিশ্লেষণ	onínọmbà	Nan
 বিশ্লেষণী	oluyanju	Nan
-বিশ্বায়ন	iṣowo agbaye	Nan
+বিশ্বায়ন	agbaye	None
 বীরসিংহ	birsingh	Nan
 বীর্যপাত	igbalejo	Nan
 বীর্যপাতের	igbalejo	Nan
@@ -550,7 +550,7 @@
 ব্যক্তিকে	si eniyan naa	Nan
 বেলা	belila	Nan
 বেলজিয়াম	bẹljiọmu	Nan
-বুলগেরীয়	ede bulgaria	Nan
+বুলগেরীয়	ede	None
 বুশ	bush	Nan
 বুশের	bush	Nan
 বুৎপত্তি	ọgbọn	Nan
@@ -561,11 +561,11 @@
 বৃত্তান্ত	apejuwe	Nan
 বৃত্তি	sikolashipu	Nan
 বৃত্তের	ti circle	Nan
-বৃদ্ধ	baba agba	Nan
+বৃদ্ধ	agba	None
 বৃদ্ধি	pọsi	Nan
 বৃদ্ধিতে	ni idagba	Nan
-বৃদ্ধির	ti idagbasoke	Nan
-বুলগেরিয়ার	ede bulgaria	Nan
+বৃদ্ধির	idagbasoke	None
+বুলগেরিয়ার	ede	None
 বুলগেরিয়া	bulgaria	Nan
 বুর্জোয়া	awọn bourgeoisie	Nan
 বুনিয়াদী	ipilẹ	Nan
@@ -583,12 +583,12 @@
 বুদ্ধের	ti buddha	Nan
 বুধ	makiuri	Nan
 বুধকে	makiuri	Nan
-বুধে	ni ojo wedineside	Nan
+বুধে	ojo	None
 বুধের	makiuri	Nan
 বুদ্ধিজীবী	awọn ọpọlọ	Nan
-বৃষ্টিপাত	falljò ojo	Nan
-বৃষ্টিপাতের	ti ojo	Nan
-বৃষ্টির	rirẹ ojo	Nan
+বৃষ্টিপাত	ojo	None
+বৃষ্টিপাতের	ojo	None
+বৃষ্টির	ojo	None
 বেড়াতে	lati rin irinajo, rin irinajo	Nan
 বেড়ে	pọsi	Nan
 বেড়েছে	pọsi	Nan
@@ -692,18 +692,18 @@
 মৃতের	ti awọn okú	Nan
 মৃত্তিকা	ile	Nan
 মৃত্যু	iku	None
-মৃত্যুতে	ninu iku	Nan
-মৃত্যুদণ্ড	idajo iku	Nan
-মূল্যে	ni idiyele kan	Nan
+মৃত্যুতে	iku	None
+মৃত্যুদণ্ড	iku	None
+মূল্যে	kan	None
 মৃত্যুবরণ	iku	None
 মৃদু	ìwọnba	Nan
-মে	oṣu karun	Nan
+মে	karun	None
 মেইনফ্রেম	mainframe	Nan
 মেইল	meeli	Nan
 মেক্সিকান	meksiko	None
 মেক্সিকো	meksiko	None
 মেক্সিকোর	meksiko	None
-মৃত্যুর	ti iku	Nan
+মৃত্যুর	iku	None
 মুদ্রা	owo	Nan
 মুণ্ডন	gbigbọn	Nan
 মুঠোফোন	foonu alagbeka	Nan
@@ -726,7 +726,7 @@
 মিনিটের	iṣẹju	Nan
 মিনিটে	ni awọn iṣẹju	Nan
 মিনিট	iṣẹju	Nan
-মিছিলে	ninu ilana	Nan
+মিছিলে	ilana	None
 মিছিলের	ti awọn procession	Nan
 মিটার	mita	Nan
 মিটারের	mita	Nan
@@ -751,7 +751,7 @@
 মুখোপাধ্যায়	mukherjee	Nan
 মুখোমুখি	oju koju	Nan
 মুখ্য	akọkọ	Nan
-মুখ্যমন্ত্রী	oloye minisita	Nan
+মুখ্যমন্ত্রী	oloye	None
 মুগ্ধ	fascinated	Nan
 মুখ	oju	Nan
 মুঘল	mughal	None
@@ -765,7 +765,7 @@
 মুঘলদের	awọn mughals	Nan
 মেনে	ṣègbọràn	Nan
 মুক্তির	ti ominira	Nan
-মুক্তিযুদ্ধের	ogun ominira	Nan
+মুক্তিযুদ্ধের	ogun	None
 মিশে	adalu	Nan
 মিশেছে	adalu	Nan
 মিশ্র	adalu	Nan
@@ -781,7 +781,7 @@
 মুক্ত	ọfẹ	Nan
 মুক্তি	tu silẹ	Nan
 মুক্তিপ্রাপ্ত	tu silẹ	Nan
-মুক্তিযুদ্ধ	ogun ominira	Nan
+মুক্তিযুদ্ধ	ogun	None
 মিসেস	iyaafin	Nan
 মেন্ডেল	mendel	Nan
 মেন্ডেলের	mendel&#39;s	Nan
@@ -815,13 +815,13 @@
 যাকাত	saki	Nan
 যতটা	niwongbati	Nan
 যত্ন	abojuto	Nan
-যথা	fun apẹẹrẹ.	Nan
+যথা	fun	None
 যথাক্রমে	pẹlu ọwọ	Nan
 যথাযথ	o yẹ	Nan
 যথেষ্ট	to	None
 যদি	ti o ba ti	Nan
 যদিও	biotilejepe	Nan
-যতদিন	bi gun to	Nan
+যতদিন	to	None
 যাকে	tani	Nan
 যাচাই	ijerisi	Nan
 যাচ্ছিল	ti lọ	Nan
@@ -831,15 +831,15 @@
 যাবৎ	titi	Nan
 যায়	lọ	Nan
 যায়ঃ	lọ	Nan
-যায়না	o ko le	Nan
+যায়না	le	None
 যাবতীয়	gbogbo	Nan
-যায়নি	ko le lọ	Nan
+যায়নি	le	None
 যার	ti eyiti	Nan
 যারা	awọn wọnyẹn	Nan
 যাহোক	lonakona	Nan
 যিনি	àjọ who	Nan
 যিশু	jesu	None
-যিশুকে	si jesu	Nan
+যিশুকে	jesu	None
 যিশুর	jesu	None
 যাযাবর	nomad	Nan
 ম্যালকম	malcolm	Nan
@@ -849,7 +849,7 @@
 যাতায়াত	irin-ajo	Nan
 যাতায়াতের	irin-ajo	Nan
 যাতে	nitorina iyẹn	Nan
-যাত্রা	irin ajo	Nan
+যাত্রা	ajo	None
 যাত্রার	irin-ajo	Nan
 যাত্রী	awọn ero	Nan
 যান্ত্রিক	meji	Nan
@@ -860,7 +860,7 @@
 যাদেরকে	si tani	Nan
 যান	lọ	Nan
 যানজট	jam opopona	Nan
-যাননি	ko lọ	Nan
+যাননি	ko	None
 যাদু	oṣó	Nan
 মিছিল	ilana	None
 ম্যাপ	maapu	None
@@ -944,7 +944,7 @@
 ভোলডেমর্ট	voldemort	Nan
 মিউনিসিপ্যাল	agbegbe	Nan
 মিউনিখ	munich	Nan
-ময়দানে	lori ilẹ	Nan
+ময়দানে	ilẹ	None
 ময়মনসিংহ	mymensingh	Nan
 মরক্কো	ilu morocco	Nan
 মরু	aginju	Nan
@@ -965,7 +965,7 @@
 মন্দির	tẹmpili	Nan
 মনোনয়ন	ipinle	Nan
 মনোনিবেশ	idojukọ	Nan
-মনোনীত	ti yan	Nan
+মনোনীত	yan	None
 মনোপ্লেন	monoplane	Nan
 মনোবিজ্ঞান	oroinuokan	Nan
 মনোভাব	ihuwasi	Nan
@@ -989,11 +989,11 @@
 মহাদেশের	ti ile afirika	Nan
 মহান	nla	Nan
 মহানগর	ilu metro	Nan
-মহাপরিচালক	oludari gbogbogbo	Nan
+মহাপরিচালক	gbogbogbo	None
 মহাবিশ্ব	agbaye	None
-মহাবিশ্বকে	si agbaye	Nan
-মহাবিশ্বে	ninu agbaye	Nan
-মহাবিশ্বের	ti agbaye	Nan
+মহাবিশ্বকে	agbaye	None
+মহাবিশ্বে	agbaye	None
+মহাবিশ্বের	agbaye	None
 মহাভারত	mahabharata	Nan
 মহাভারতএর	ti mahabharata	Nan
 মহাভারতের	ti mahabharata	Nan
@@ -1007,7 +1007,7 @@
 মহকুমার	igbimọ-isalẹ	Nan
 মহর্ষি	maharshi	Nan
 মহল	mahal	Nan
-মহলে	lori ilẹ	Nan
+মহলে	ilẹ	None
 মহা	nla	Nan
 মস্কো	ilu moscow	Nan
 মহাকর্ষ	walẹ	Nan
@@ -1019,7 +1019,7 @@
 মহাকাশের	ti aaye	Nan
 মহাজনপদ	mahajanapada	Nan
 মহাকর্ষীয়	gravitational	Nan
-মনে	mo ro bẹ	Nan
+মনে	ro	None
 মনুষ্য	ọkunrin	Nan
 মন	okan	Nan
 মজার	funny	Nan
@@ -1027,8 +1027,8 @@
 মজুমদার	majumdar	Nan
 মজ্জাকল্প	oju inu	Nan
 মঞ্চ	ipele	None
-মঞ্চস্থ	ori itage	Nan
-মঞ্চে	ori itage	Nan
+মঞ্চস্থ	ori	None
+মঞ্চে	ori	None
 মঞ্জু	monju	Nan
 মঠ	monastery	Nan
 মঠে	monastery	Nan
@@ -1038,7 +1038,7 @@
 মডেলের	awoṣe	Nan
 মণ্ডল	circle	Nan
 মঙ্গলের	maasi	Nan
-মঙ্গলে	lori mars	Nan
+মঙ্গলে	mars	None
 মঙ্গল	maasi	Nan
 মগধ	magadha	Nan
 ভৌগলিক	geographical	Nan
@@ -1072,13 +1072,13 @@
 মধ্যমা	àárín	None
 মধ্যযুগীয়	igba atijọ	Nan
 মধ্যযুগে	ni aarin ọdun	Nan
-মধ্যযুগের	ojo ori ti o wa larin	Nan
+মধ্যযুগের	ori	None
 মধ্যস্থলে	laarin	None
 মধ্যে	ninu	Nan
 মধ্যেই	ni enu igba yi	Nan
 মধ্যেও	ni aarin	Nan
-মধ্যযুগ	ojo ori ti o wa larin	Nan
-মহামারী	àjàkálẹ àrùn	Nan
+মধ্যযুগ	ori	None
+মহামারী	àrùn	None
 মধ্যপ্রদেশ	madhya pradesh	Nan
 মধ্য	àárín	None
 মতবাদে	ninu ẹkọ	Nan
@@ -1115,7 +1115,7 @@
 মায়ানমার	màríà	Nan
 মায়ানমারের	màríà	Nan
 মায়ের	mama	Nan
-মারা	lati ku	Nan
+মারা	ku	None
 মানুষদের	eniyan	Nan
 মানুষকে	eniyan	Nan
 মানুষই	eniyan	Nan
@@ -1123,8 +1123,8 @@
 মাধ্যাকর্ষণ	walẹ	Nan
 মান	iye	Nan
 মানচিত্র	maapu	None
-মানচিত্রে	lori maapu	Nan
-মানচিত্রের	ti maapu	Nan
+মানচিত্রে	maapu	None
+মানচিত্রের	maapu	None
 মানজিল	manzil	Nan
 মানব	eda eniyan	Nan
 মারাঠা	maratha	Nan
@@ -1148,7 +1148,7 @@
 মাস	awọn oṣu	Nan
 মাসিক	oṣooṣu	Nan
 মালয়েশিয়া	malaysia	None
-মাসে	ni oṣu kan	Nan
+মাসে	kan	None
 মাস্টার	olori	Nan
 মাহমুদ	mahmoud	Nan
 মাহরাম	márámù	Nan
@@ -1158,7 +1158,7 @@
 মিউটেশন	awọn iyipada	Nan
 মাসের	ti oṣu	Nan
 মাধ্যমের	ti alabọde	Nan
-মালয়	ede mala	Nan
+মালয়	ede	None
 মালভূমি	plateau	Nan
 মার্ক	samisi	Nan
 মার্কআপ	ṣamisi	Nan
@@ -1169,9 +1169,9 @@
 মার্ক্সবাদী	marxist	Nan
 মালভূমির	plateau	Nan
 মার্ক্সীয়	marxist	Nan
-মার্চ	oṣu kẹta	Nan
-মার্চে	ni oṣu kẹta	Nan
-মার্চের	oṣu kẹta	Nan
+মার্চ	kẹta	None
+মার্চে	kẹta	None
+মার্চের	kẹta	None
 মার্টিন	martin	Nan
 মার্শাল	marshall	Nan
 মার্স	maasi	Nan
@@ -1204,17 +1204,17 @@
 মহাশয়ের	sir	Nan
 মহাশূন্য	aaye	Nan
 মহাশূন্যে	ni aaye kun	Nan
-মহাসচিব	akowe gbogbogbo	Nan
+মহাসচিব	gbogbogbo	None
 মহাসমারোহে	ni a sayin procession	Nan
 মাগুরা	magura	Nan
 মহাসাগর	okun naa	Nan
-মহাসাগরে	ninu omi okun	Nan
+মহাসাগরে	omi	None
 মহাসাগরের	ti okun	Nan
 মহিলা	obinrin	Nan
 মহিলাদের	awọn obirin	Nan
 মহিলার	obinrin	Nan
 মহিষাসুর	mahishasur	Nan
-মহিষী	the efon	Nan
+মহিষী	the	None
 মহাসাগরীয়	ara ilu okun	Nan
 মাচু	machu picchu	Nan
 মাছ	eja	Nan
@@ -1222,8 +1222,8 @@
 মাত্রায়	ni awọn mefa	Nan
 মাত্রার	awọn iwọn	Nan
 মাথা	orí	Nan
-মাথাপিছু	fun ori	Nan
-মাথায়	ninu ori	Nan
+মাথাপিছু	ori	None
+মাথায়	ori	None
 মাথার	orí	Nan
 মাদক	oògùn	Nan
 মাত্রা	awọn iwọn	Nan
@@ -1250,7 +1250,7 @@
 মাঝেও	nigba miiran	Nan
 মাঝের	laarin	None
 মাটি	ile	Nan
-মাটিতে	lori ilẹ	Nan
+মাটিতে	ilẹ	None
 মাটির	ti ile	Nan
 মাঠ	aaye	Nan
 মাঠে	lori aaye	Nan
@@ -1285,7 +1285,7 @@
 প্রশংসা	iyin	Nan
 প্রশংসিত	ti diyin	Nan
 প্রশস্ত	jooro	Nan
-প্রস্তুতকৃত	pese sile	Nan
+প্রস্তুতকৃত	sile	None
 প্রশাখা	ẹka	Nan
 প্রশাসক	alabojuto	Nan
 প্রশাসন	isakoso	Nan
@@ -1348,11 +1348,11 @@
 প্রবণতা	aṣa	Nan
 প্রবন্ধ	awọn arosọ	Nan
 প্রবন্ধঃ	abala:	Nan
-প্রবন্ধটি	nkan naa	Nan
+প্রবন্ধটি	nkan	None
 প্রবন্ধে	ninu ọrọ naa	Nan
 প্রবন্ধের	ti awọn arosọ	Nan
 প্রবর্তক	olugbeleke	Nan
-প্রদেশে	ni igberiko	Nan
+প্রদেশে	igberiko	None
 প্রদেশ	agbegbe	Nan
 প্রদানের	ti isanwo	Nan
 প্রদানে	ni isanwo	Nan
@@ -1372,7 +1372,7 @@
 প্রদর্শিত	fihan	None
 প্রদান	isanwo	Nan
 প্রদানকারী	olupese	Nan
-প্রদত্ত	ti a fun	Nan
+প্রদত্ত	fun	None
 প্রবর্তনের	ifaara	Nan
 প্রবর্তিত	ti ṣafihan	Nan
 প্রবল	lagbara	Nan
@@ -1402,7 +1402,7 @@
 প্রবাহিত	ti nṣàn	Nan
 প্রবাহের	ti sisan	Nan
 প্রবৃদ্ধি	idagba	Nan
-প্রবৃদ্ধির	ti idagbasoke	Nan
+প্রবৃদ্ধির	idagbasoke	None
 প্রভু	oluwa	Nan
 প্রবেশ	titẹ sii	Nan
 প্রবেশের	ti titẹsi	Nan
@@ -1453,16 +1453,16 @@
 ফাউন্ডেশন	foundation	Nan
 ফাংশনের	iṣẹ	Nan
 ফিনিক্স	phoenix	Nan
-ফিনীয়	ede finisi	Nan
+ফিনীয়	ede	None
 ফিফা	fifa	Nan
 ফুটবলের	ti bọọlu	Nan
 ফুটিয়ে	sinu	Nan
-ফুটে	ninu ẹsẹ	Nan
-ফুল	awọn ododo	Nan
-ফুলের	ti awọn ododo	Nan
+ফুটে	ẹsẹ	None
+ফুল	ododo	None
+ফুলের	ododo	None
 ফুসফুস	ẹdọforo	Nan
 ফুসফুসে	ninu ẹdọforo	Nan
-ফুটবলার	ẹsẹ afẹsẹgba	Nan
+ফুটবলার	ẹsẹ	None
 ফুসফুসের	ti ẹdọforo	Nan
 ফেটে	fuu	Nan
 ফেডারেল	federal	Nan
@@ -1492,7 +1492,7 @@
 ফিল্মফেয়ার	ṣiṣe fiimu	Nan
 ফিশিং	ararẹ	Nan
 ফিলিস্তিনে	ni palestine	Nan
-প্রথমার্ধে	ni idaji akọkọ	Nan
+প্রথমার্ধে	idaji	None
 ফলাফলের	ti awọn abajade	Nan
 ফলাফল	awọn abajade	Nan
 প্রিমিয়ারশিপের	oludasile	Nan
@@ -1561,7 +1561,7 @@
 প্রোটন	protons	Nan
 প্রোটনের	ti awọn protons	Nan
 প্রোটিন	amuaradagba	Nan
-প্লেটের	ti awo	Nan
+প্লেটের	awo	None
 প্রোটিনের	ti amuaradagba	Nan
 প্রোটোকল	ilana	None
 প্লট	idite	Nan
@@ -1573,7 +1573,7 @@
 প্রোটিস্ট	alatẹnumọ	Nan
 ফেব্রুয়ারী	oṣu kínní	Nan
 প্রথমভাগে	ni apakan akọkọ	Nan
-প্রথমবার	fun igba akoko	Nan
+প্রথমবার	fun	None
 পেরু	perú	Nan
 পেরুর	perú	Nan
 পেরে	péréè	Nan
@@ -1582,7 +1582,7 @@
 পেরেছে	ti ṣee	Nan
 পেরেছেন	ṣe o ri	Nan
 পেলে	ti a ba rii	Nan
-পেলেও	paapa ti o ba gba	Nan
+পেলেও	gba	None
 পেলেন	ṣe o ri	Nan
 পেশ	gbigbe	Nan
 পেশা	iṣẹ oojọ	Nan
@@ -1601,15 +1601,15 @@
 পেজ	oju-iwe	Nan
 পেটেন্ট	itọsi	Nan
 পেশী	awọn iṣan	Nan
-পেট্রোলিয়াম	epo ilẹ	Nan
+পেট্রোলিয়াম	ilẹ	None
 পেতে	lati mu	Nan
-পেতেন	gba a	Nan
+পেতেন	gba	None
 পেদ্রু	pedru	Nan
 পেন	pen	Nan
 পেন্টিয়াম	pentium	Nan
 পেয়ে	gbigba	Nan
 পেয়েছিল	ṣe o ri	Nan
-পেত	gba a	Nan
+পেত	gba	None
 পৃষ্ঠপোষকতা	patronage	Nan
 পোপ	pọọlu	Nan
 পোর্ট-অ-প্রিন্স	port-au-prince	Nan
@@ -1660,10 +1660,10 @@
 পুরুষের	ti awọn ọkunrin	Nan
 পুরো	gbogbo e	Nan
 পুরোটা	gbogbo e	Nan
-পুরোটাই	egba pipe	Nan
+পুরোটাই	egba	None
 পুরোধা	purodha	Nan
 পুরোনো	atijọ	Nan
-পুরোপুরি	egba pipe	Nan
+পুরোপুরি	egba	None
 পুরোহিত	alufa	Nan
 পুলিশ	ọlọpa	Nan
 পুলিশের	ti awọn ọlọpa	Nan
@@ -1672,8 +1672,8 @@
 পুরাণের	ti itan ayebaye	Nan
 পুরাণে	ninu awọn puranas	Nan
 পুত্র	ọmọ	None
-পুত্রকে	si ọmọ naa	Nan
-পুত্রের	ti ọmọ	Nan
+পুত্রকে	ọmọ	None
+পুত্রের	ọmọ	None
 পুনরাবৃত্তি	atunwi	Nan
 পুনরায়	lẹẹkansi	Nan
 পুনরুত্থান	ajinde	Nan
@@ -1704,13 +1704,13 @@
 পৃথিবী	ile aye	Nan
 পৃথিবীকে	si ile aye	Nan
 পৃথিবীতে	lori ile aye	Nan
-পৃথিবীর	ti ilẹ	Nan
+পৃথিবীর	ilẹ	None
 পৃষ্ঠ	dada	Nan
 পৃষ্ঠতল	dada	Nan
 পৃথক	lọtọ	Nan
 প্রকট	fihan	None
 পূর্ববর্তী	tẹlẹ	Nan
-পূর্ববঙ্গ	ila-oorun bengal	Nan
+পূর্ববঙ্গ	bengal	None
 পূজার	ijosin	None
 পূজিত	jọsin	Nan
 পূজিতা	ijosin	None
@@ -1718,12 +1718,12 @@
 পূর্ণ	kun	Nan
 পূর্ণগ্রাস	apapọ oorun ati oṣupa	Nan
 পূর্ণতা	pipe	Nan
-পূর্ববঙ্গের	ila-oorun bengal	Nan
-পূর্ণবর্ধিত	ni idagbasoke kikun	Nan
+পূর্ববঙ্গের	bengal	None
+পূর্ণবর্ধিত	idagbasoke	None
 পূর্ব	ila-oorun	Nan
 পূর্বতন	tẹlẹ	Nan
 পূর্বদিকে	si ila-oorun	Nan
-পূর্বনাম	oruko akoko	Nan
+পূর্বনাম	oruko	None
 পূর্বপশ্চিমে	iha iwọ-oorun	Nan
 পূর্বপুরুষ	awọn baba	Nan
 পূর্বপুরুষের	awọn baba	Nan
@@ -1790,8 +1790,8 @@
 প্রতিদ্বন্দ্বী	orogun	Nan
 প্রত্যক্ষ	taara	Nan
 প্রত্নতাত্ত্বিক	archaeological	Nan
-প্রতিষ্ঠানটি	ajo naa	Nan
-প্রতিষ্ঠানে	ninu ajo	Nan
+প্রতিষ্ঠানটি	ajo	None
+প্রতিষ্ঠানে	ajo	None
 প্রতিষ্ঠানের	ti agbari	Nan
 প্রতিষ্ঠায়	ni idasile	Nan
 প্রতিষ্ঠার	idasile	Nan
@@ -1807,7 +1807,7 @@
 প্রত্নতত্ত্ব	archaeology	Nan
 প্রত্নতত্ত্বের	archaeology	Nan
 প্রতিস্থাপিত	rọpo	Nan
-প্রথমবারের	fun igba akoko	Nan
+প্রথমবারের	fun	None
 প্রতিদ্বন্দ্বিতা	idije	Nan
 প্রতিটি	ọkọọkan	Nan
 প্রকৌশলীরা	enjinia	Nan
@@ -1815,10 +1815,10 @@
 প্রকৌশলের	ti ina-	Nan
 প্রক্রিয়া	ilana	None
 প্রক্রিয়াকরণ	ṣiṣẹ	Nan
-প্রক্রিয়াকে	si ilana naa	Nan
+প্রক্রিয়াকে	ilana	None
 প্রক্রিয়াজাতকরণ	ṣiṣẹ	Nan
-প্রক্রিয়াটি	awọn ilana	Nan
-প্রক্রিয়ায়	ninu ilana	Nan
+প্রক্রিয়াটি	ilana	None
+প্রক্রিয়ায়	ilana	None
 প্রক্রিয়ার	ilana	None
 প্রখ্যাত	oniye	Nan
 প্রগণ্ডাস্থি	awọn humerus	Nan
@@ -1849,10 +1849,10 @@
 প্রচলনের	ti san kaakiri	Nan
 প্রচলিত	apejọ	Nan
 প্রচার	igbega	Nan
-প্রজাতন্ত্রের	ti orileede	Nan
+প্রজাতন্ত্রের	orileede	None
 প্রজাতান্ত্রিক	oloṣelu ijọba olominira	Nan
-প্রজাতি	awọn eya	Nan
-প্রজাতির	awọn eya	Nan
+প্রজাতি	eya	None
+প্রজাতির	eya	None
 প্রজেক্ট	ise agbese	Nan
 প্রজেক্টের	ti iṣẹ na	Nan
 প্রণয়ন	igbaradi	Nan
@@ -1916,21 +1916,21 @@
 বার্নার্সলি	bernersley	Nan
 বার্বার	onigbọwọ	Nan
 বাহক	ti ngbe	Nan
-বার্লিন	ilu berlin	Nan
-বার্লিনের	ti berlin	Nan
+বার্লিন	berlin	None
+বার্লিনের	berlin	None
 বার্ষিক	lododun	Nan
 বার্ষিকী	ajọdun	Nan
 বার্সেলোনা	ilu barcelona	Nan
 বাল	baali	Nan
 বালক	ọmọkunrin	Nan
 বালি	iyanrin	Nan
-বার্লিনে	ni ilu berlin	Nan
+বার্লিনে	berlin	None
 বারো	mejila	None
 বাহন	ọkọ	Nan
 বাহাদুর	onígboyà	Nan
 বিকাশ	idagbasoke	None
-বিকাশে	ni idagbasoke	Nan
-বিকাশের	ti idagbasoke	Nan
+বিকাশে	idagbasoke	None
+বিকাশের	idagbasoke	None
 বিকিরণ	radi	Nan
 বিকিরণের	radi	Nan
 বিকিরন	radi	Nan
@@ -1941,16 +1941,16 @@
 বিক্রি	ta	Nan
 বিক্রিয়া	idahun	Nan
 বিক্রিয়ার	idahun	Nan
-বিক্রির	fun tita	Nan
+বিক্রির	fun	None
 বিক্ষিপ্ত	ti tu sita	Nan
-বিকশিত	ni idagbasoke	Nan
+বিকশিত	idagbasoke	None
 বিকল্প	awọn aṣayan	Nan
 বিএসসি	b.sc.	Nan
 বিএনপির	bnp	Nan
 বাহামা	bahamas	Nan
 বাহিনী	awọn ologun	Nan
-বাহিনীকে	si ogun	Nan
-বাহিনীতে	ninu ẹgbẹ ọmọ ogun	Nan
+বাহিনীকে	ogun	None
+বাহিনীতে	ogun	None
 বাহিনীর	ti awọn ipa	Nan
 বাহু	apá	Nan
 বাহুর	apá	Nan
@@ -1987,12 +1987,12 @@
 বাড়তে	lati dagba	Nan
 বাড়তি	excess	Nan
 বাঘের	tiger	Nan
-বাঙালি	ede bengali	Nan
+বাঙালি	bengali	None
 বাঙালিদের	bengalis	Nan
-বাঙালির	ede bengali	Nan
+বাঙালির	bengali	None
 বাঙালিরা	bengalis	Nan
-বাঙ্গালি	ede bengali	Nan
-বাঙ্গালী	ede bengali	Nan
+বাঙ্গালি	bengali	None
+বাঙ্গালী	bengali	None
 বাতাসে	ni afẹfẹ	Nan
 বাছাই	mu	Nan
 বাজার	ọja	Nan
@@ -2030,7 +2030,7 @@
 বাদে	ayafi	Nan
 বাদ্যযন্ত্র	awọn irin-iṣẹ orin	Nan
 বাধা	awọn idiwọ	Nan
-বাধ্য	fagile fun	Nan
+বাধ্য	fun	None
 বাধ্যতামূলক	dandan	None
 বান	wiwọle	Nan
 বাবামা	awọn obi	Nan
@@ -2048,11 +2048,11 @@
 বিগত	ti o ti kọja	Nan
 বিবর্তন	itankalẹ	Nan
 বিবর্তনের	ti itiranyan	Nan
-বিবর্তিত	ti yipada	Nan
+বিবর্তিত	yipada	None
 বিবাহ	igbeyawo	None
-বিবাহবন্ধনে	ninu igbeyawo	Nan
+বিবাহবন্ধনে	igbeyawo	None
 বিবাহিত	ti ṣe ìgbéyàwó	Nan
-বিবাহের	ti igbeyawo	Nan
+বিবাহের	igbeyawo	None
 বিবি	bb	Nan
 বিবিধ	oriṣiriṣi	Nan
 বিবিসি	bbc	Nan
@@ -2081,7 +2081,7 @@
 বিপ্লব	iyika	Nan
 বিপ্লবী	iyika	Nan
 বিপ্লবীদের	awọn ọlọtẹ	Nan
-বিপরীতে	bi be ko	Nan
+বিপরীতে	ko	None
 বিবেচিত	ṣakiyesi	Nan
 বিবেচ্য	gbayelori	Nan
 বিভক্ত	pin	Nan
@@ -2104,15 +2104,15 @@
 বিরাট	o tobi	Nan
 বিন্দুকে	si ipari	Nan
 বিমূর্ত	stbo	Nan
-বিমানবন্দর	papa ọkọ ofurufu	Nan
+বিমানবন্দর	papa	None
 বিভক্তি	idapo	Nan
 বিভব	vibhav	Nan
 বিভাগ	eka	None
 বিভাগগুলি	awọn ẹka	Nan
-বিভাগটি	abala naa	Nan
+বিভাগটি	abala	None
 বিভাগীয়	eka	None
 বিভাগে	ni apakan naa	Nan
-বিমানবন্দরের	ni papa ọkọ ofurufu	Nan
+বিমানবন্দরের	papa	None
 বিভাগের	ti ẹka naa	Nan
 বিভাজনের	ti pipin	Nan
 বিভাজিত	pin	Nan
@@ -2160,7 +2160,7 @@
 বিচ্ছেদের	iyapa	Nan
 বিজনেস	iṣowo	Nan
 বিজয়	iṣẹgun	Nan
-বিচারের	ti ododo	Nan
+বিচারের	ododo	None
 বিতর্কে	ninu ijiroro	Nan
 বিতর্কের	ti ariyanjiyan	Nan
 বিতাড়িত	ti pari	Nan
@@ -2168,7 +2168,7 @@
 বিধানসভা	apejọ	Nan
 বিধানসভার	apejọ isofin	Nan
 বিধায়	niwon	Nan
-বিধি	awọn ofin	Nan
+বিধি	ofin	None
 বিধিবদ্ধ	ipofin	Nan
 বিধৃত	ni mimọ	Nan
 বিধবা	opó	Nan
@@ -2250,7 +2250,7 @@
 বয়সের	ti ọjọ-ori	Nan
 বয়স্ক	agbalagba	Nan
 বয়ে	sisan	Nan
-বয়স	ọjọ ori	Nan
+বয়স	ori	None
 বয়েলের	boyle	Nan
 বরং	dipo	Nan
 বরণ	kaabo	Nan
@@ -2260,7 +2260,7 @@
 বরাবর	pẹlú	Nan
 বরিশাল	barisal	Nan
 বর	iyawo	None
-বঙ্গোপসাগরের	bay ti bengal	Nan
+বঙ্গোপসাগরের	bengal	None
 বয়ঃসন্ধির	obododo	Nan
 ববি	bobby	Nan
 বন্দরে	ninu ibudo	Nan
@@ -2279,18 +2279,18 @@
 বন্যপ্রাণী	ẹda egan	Nan
 বন্যা	ìkún-omi	Nan
 বব	bob	Nan
-বন্ধনের	ti oko ẹrú	Nan
+বন্ধনের	oko	None
 বর্গ	ààrin	Nan
-বঙ্গোপসাগরে	ninu bay ti bengal	Nan
-বঙ্গের	ti bengal	Nan
+বঙ্গোপসাগরে	bengal	None
+বঙ্গের	bengal	None
 ফ্রন্ট	iwaju	Nan
 ফ্রাঙ্ক	frank	Nan
 ফ্রান্স	faranse	None
 ফ্রান্সিস	francis	None
 ফ্রান্সিসকো	francisco	Nan
 ফ্রান্সিস্কো	francisco	Nan
-ফ্রান্সে	ni faranse	Nan
-ফ্রান্সের	ti faranse	Nan
+ফ্রান্সে	faranse	None
+ফ্রান্সের	faranse	None
 ফ্রি	ọfẹ	Nan
 ফ্রিকোয়েন্সি	igbagbogbo	Nan
 ফ্রেডেরিক	fredoni	Nan
@@ -2335,11 +2335,11 @@
 বগুড়া	bogra	Nan
 বঙ্গ	bengali	None
 বঙ্গবন্ধু	bangabandhu	Nan
-বঙ্গভঙ্গের	ipin ti bengal	Nan
+বঙ্গভঙ্গের	bengal	None
 বঙ্গাব্দের	bangabder	Nan
-বঙ্গীয়	ede bengali	Nan
+বঙ্গীয়	bengali	None
 বক্ররেখা	ohun ti tẹ	Nan
-বঙ্গোপসাগর	bay ti bengal	Nan
+বঙ্গোপসাগর	bengal	None
 বইয়ে	ninu iwe	Nan
 বইতে	ninu iwe	Nan
 ফ্ল্যামস্টিডের	flamstead	Nan
@@ -2361,7 +2361,7 @@
 বংশধর	awọn ọmọ-ọmọ	Nan
 যুক্ত	fikun	Nan
 বর্গকিমি	sq km	Nan
-বর্গকিলোমিটারে	ni awọn ibuso square	Nan
+বর্গকিলোমিটারে	ibuso	None
 বহিঃস্থ	ita	Nan
 বহিষ্কার	ifiweranṣẹ	Nan
 বহিসংযোগ	awọn isopọ ti ita	Nan
@@ -2371,7 +2371,7 @@
 বহুজাতিক	oríṣiríṣi	Nan
 বহুতলক	olumulo pupọ	Nan
 বহুদলীয়	ẹgbẹ-pupọ	Nan
-বহুদিন	fun igba pipẹ	Nan
+বহুদিন	fun	None
 বহুপদী	polynomial	Nan
 বহুবচন	ọpọ	Nan
 বহুবার	ọpọlọpọ awọn akoko	Nan
@@ -2391,10 +2391,10 @@
 বহুল	sanlalu	Nan
 বস্তু	awọn ohun	Nan
 বস্তুগত	ohun elo	Nan
-বস্তুটি	nkan naa	Nan
-বস্তুটির	ti nkan na	Nan
-বস্তুর	ti nkan na	Nan
-বস্তুসমূহের	ti awọn nkan	Nan
+বস্তুটি	nkan	None
+বস্তুটির	nkan	None
+বস্তুর	nkan	None
+বস্তুসমূহের	nkan	None
 বস্ত্র	awọn aṣọ	Nan
 বহন	gbe	None
 বস্তুকে	si ohun naa	Nan
@@ -2402,9 +2402,9 @@
 বহুসংখ্যক	awọn ọpọlọpọ	Nan
 বা	tabi	None
 বাইবেল	bibeli	None
-বাইবেলের	ti bibeli	Nan
+বাইবেলের	bibeli	None
 বাইরে	jade	Nan
-বাইরেও	paapaa ita	Nan
+বাইরেও	paapaa	None
 বাইরের	odi	Nan
 বাইসাইকেল	awọn kẹkẹ	Nan
 বাউল	teriba	Nan
@@ -2425,8 +2425,8 @@
 বাঁধ	idido	Nan
 বাঁধা	ti ara ẹni	Nan
 বাঁশ	oparun	Nan
-বাংলা	ede bengali	Nan
-বাংলাকে	ede bengali	Nan
+বাংলা	bengali	None
+বাংলাকে	bengali	None
 বাংলাদেশ	bangladesh	Nan
 বাইট	awọn baagi	Nan
 বাংলাদেশকে	bangladesh	Nan
@@ -2434,11 +2434,11 @@
 বাংলাদেশে	ni bangladesh	Nan
 বাংলাদেশের	bangladesh	Nan
 বাংলাপিডিয়া	pediabúrẹ́dì	Nan
-বাংলায়	ni ilu bengali	Nan
-বাংলার	ede bengali	Nan
+বাংলায়	bengali	None
+বাংলার	bengali	None
 বাইজান্টাইন	byzantine	Nan
 বাংলাদেশী	bangladesh	Nan
-বর্গকিলোমিটার	awọn ibuso square	Nan
+বর্গকিলোমিটার	ibuso	None
 বসবাসকারী	gbígbé	Nan
 বসনীয়	bosniani	Nan
 বর্তনীর	ti circuit	Nan
@@ -2446,7 +2446,7 @@
 বর্তমানকালে	lasiko yii	Nan
 বর্তমানকালের	contemporary	Nan
 বর্তমানে	lọwọlọwọ	Nan
-বর্তমানেও	paapaa ni bayi	Nan
+বর্তমানেও	bayi	None
 বর্তমানের	ti lọwọlọwọ	Nan
 বর্ধনশীল	dagba	Nan
 বর্ধমান	burdwan	Nan
@@ -2466,7 +2466,7 @@
 বর্জন	iyasọtọ	Nan
 বর্জনের	iyasọtọ	Nan
 বর্জ্য	egbin	Nan
-বর্ডারস	awọn aala	Nan
+বর্ডারস	aala	None
 বর্ষপঞ্জি	kalẹnda	Nan
 বর্ণ	awọn lẹta	Nan
 বর্ণনামূলক	apejuwe	Nan
@@ -2486,7 +2486,7 @@
 বলিভিয়ার	bolivia	Nan
 বলে	sọ	None
 বলেই	o n niyen	Nan
-বলেও	sọ o	Nan
+বলেও	sọ	None
 বলিউড	bollywood	Nan
 বলেছিলেন	sọrọ	Nan
 বলেছেন	sọ	None
@@ -2498,25 +2498,25 @@
 বসনিয়ার	bosniani	Nan
 বলেছে	sọrọ	Nan
 বসবাস	gbígbé	Nan
-বলি	mo so wípé	Nan
-বলা	lati sọ	Nan
+বলি	so	None
+বলা	sọ	None
 বর্ষা	.jò	Nan
 বর্ষের	ti ọdun	Nan
-বল	sọ fun mi	Nan
+বল	fun	None
 বলকান	baluku	Nan
 বলকে	si bọọlu	Nan
 বলছেন	sọ	None
 বলটি	bọọlu naa	Nan
-বলার	lati sọ	Nan
-বলতে	lati sọ	Nan
+বলার	sọ	None
+বলতে	sọ	None
 বলপ্রয়োগের	ifi ipa mu	Nan
 বলবিজ্ঞান	awọn ọna ẹrọ	Nan
 বলবিজ্ঞানের	meji	Nan
 বলয়	oruka	Nan
-বললে	ti o ba sọ	Nan
+বললে	sọ	None
 বললেই	o n niyen	Nan
 বললেন	sọrọ	Nan
-বলতেন	lo lati sọ	Nan
+বলতেন	sọ	None
 যুক্তফ্রন্ট	iwaju united	Nan
 যুক্তরাজ্যে	ni uk	Nan
 যুক্তরাজ্যের	ti united kingdom	Nan
@@ -2534,7 +2534,7 @@
 স্তালিনের	stalin	Nan
 স্ত্রী	iyawo	None
 স্ত্রীর	iyawo	None
-স্থগিত	ti daduro fun	Nan
+স্থগিত	fun	None
 স্তনবৃন্ত	ibeere	Nan
 স্তন	awọn ọyan	Nan
 স্ট্রিটে	ni opopona	Nan
@@ -2578,14 +2578,14 @@
 স্থাপত্যের	ti faaji	Nan
 স্থাপত্য	faaji	Nan
 স্থানের	ti aaye	Nan
-স্থলভাগের	lori ilẹ	Nan
+স্থলভাগের	ilẹ	None
 স্থলাভিষিক্ত	tiro	Nan
-স্থলে	lori ilẹ	Nan
+স্থলে	ilẹ	None
 স্থান	ibi	Nan
 স্থানকাল	akoko alafo	Nan
 স্থানটি	ibi naa	Nan
 স্থানসমূহ	awọn aaye	Nan
-স্থলবেষ্টিত	ti yika nipasẹ ilẹ	Nan
+স্থলবেষ্টিত	ilẹ	None
 স্থানাংক	awọn oludari	Nan
 স্থানান্তর	gbe	None
 স্থানান্তরিত	gbigbe	Nan
@@ -2618,12 +2618,12 @@
 সেপ্টেম্বরে	ni oṣu kẹsan	Nan
 সেপ্টেম্বর	oṣu kẹsan	Nan
 সেনা	ogun	None
-সেনাদের	awọn ọmọ ogun	Nan
+সেনাদের	ogun	None
 সেনাপতি	alakoso	Nan
 সেনাবাহিনী	ogun	None
-সেনাবাহিনীকে	si ogun	Nan
-সেনাবাহিনীতে	ninu ẹgbẹ ọmọ ogun	Nan
-সেনাবাহিনীর	ti ogun	Nan
+সেনাবাহিনীকে	ogun	None
+সেনাবাহিনীতে	ogun	None
+সেনাবাহিনীর	ogun	None
 সেসময়	ni igba na	Nan
 সেনারা	awọn ọmọ-ogun	Nan
 সেনের	sen.	Nan
@@ -2657,7 +2657,7 @@
 স্নায়ুভাষাবিজ্ঞান	neurolinguistics	Nan
 সৌদি	orilẹ-ede saudi	Nan
 সোহরাওয়ার্দী	suhrawardy	Nan
-সৈনিক	ọmọ ogun	Nan
+সৈনিক	ogun	None
 সৈন্য	awọn ọmọ-ogun	Nan
 সৈন্যদের	awọn ọmọ-ogun	Nan
 সৈন্যবাহিনী	ogun	None
@@ -2681,17 +2681,17 @@
 হজ্জ্ব	hajj	Nan
 হজ্বের	hajj	Nan
 হঠাৎ	lojiji	Nan
-হত	yoo ni	Nan
+হত	yoo	None
 হতাশ	ti bajẹ	Nan
 হতাশা	ẹru	Nan
 হতে	lati wa ni	Nan
 হতেই	lati wa ni	Nan
-হতেন	yoo ni	Nan
-হতো	yoo ni	Nan
+হতেন	yoo	None
+হতো	yoo	None
 হত্যা	iku	None
 হত্যার	ipaniyan	Nan
 হন	jẹ	Nan
-হননি	ko ṣee ṣe	Nan
+হননি	ko	None
 হজ্জ	hajj	Nan
 হজরত	hazrat	Nan
 হচ্ছেন	jije	None
@@ -2733,7 +2733,7 @@
 হলে	ti o ba ti	Nan
 হলেই	ti o ba nikan	Nan
 হল	gbangan	Nan
-স্রোত	awọn ipo lọwọlọwọ	Nan
+স্রোত	ipo	None
 হয়েছেন	ti ṣee	Nan
 হয়েছিলো	ti ṣe	Nan
 হবে	yoo	None
@@ -2745,9 +2745,9 @@
 হয়ত	boya	Nan
 হয়েছে	ti ṣee	Nan
 হয়তো	boya	Nan
-হয়নি	ṣe ko	Nan
+হয়নি	ko	None
 হয়ে	di	Nan
-হয়েও	paapaa nitorina	Nan
+হয়েও	paapaa	None
 হয়েছ	ti ṣee	Nan
 হয়েছি	ti ṣee	Nan
 হয়েছিল	jẹ	Nan
@@ -2769,23 +2769,23 @@
 স্বর্গে	ni ọrun	Nan
 স্বর্গের	ti ọrun	Nan
 স্বর্ণ	goolu	Nan
-স্বর্ণের	ti wura	Nan
+স্বর্ণের	wura	None
 স্বল্প	kukuru	Nan
 স্বপ্ন	awọn àlá	Nan
 স্বপক্ষে	ni ojurere	Nan
 স্বনামধন্য	olokiki	Nan
 স্বদেশী	arakunrin abinibi	Nan
-স্পষ্ট	ko o	Nan
+স্পষ্ট	ko	None
 স্পিনকক্ষপথ	spin orbit	Nan
 স্পেন	ilu sibeeni	Nan
-স্পেনীয়	ede spanish	Nan
+স্পেনীয়	ede	None
 স্পেনীয়রা	awọn ara ilu sipeeni	Nan
 স্পেনে	ni ilu sipeeni	Nan
 স্পেনের	ti ilu sipeeni	Nan
 স্বল্পকালীন	igba kukuru	Nan
 স্পেস	aaye	Nan
 স্পোর্টিং	idaraya	Nan
-স্প্যানিশ	ede spanish	Nan
+স্প্যানিশ	ede	None
 স্ফীতি	afikun	Nan
 স্বকীয়	arakunrin abinibi	Nan
 স্বতঃসিদ্ধ	ara-ẹri	Nan
@@ -2813,7 +2813,7 @@
 স্যাটেলাইটের	satẹlaiti	Nan
 স্মার্টফোন	foonuiyara	Nan
 স্রষ্টা	eleda	Nan
-স্বীকার	gba fun	Nan
+স্বীকার	fun	None
 স্বাস্থ্য	ilera	Nan
 স্বাক্ষরিত	wole	None
 স্বাগতম	kaabo	Nan
@@ -2830,14 +2830,14 @@
 স্বায়ত্তশাসিত	ominira	Nan
 স্বায়ত্ত্বশাসন	ominira	Nan
 স্বায়ত্বশাসিত	ominira	Nan
-স্বার্থে	ninu iwulo	Nan
+স্বার্থে	iwulo	None
 স্বামী	ọkọ	Nan
 হলেও	biotilejepe	Nan
 সেদেশের	ti orilẹ-ede yẹn	Nan
 সেতুর	afara	Nan
 সাহস	ìgboyà	Nan
 সাহা	saha	Nan
-সাহায্য	egba mi o	Nan
+সাহায্য	egba	None
 সাহায্যে	pẹlu iranlọwọ	Nan
 সাহারা	sahara	Nan
 সাহারার	sahara	Nan
@@ -2900,14 +2900,14 @@
 সিগনাল	ibuwọlu	Nan
 সিগনালের	ti ifihan naa	Nan
 সিগন্যাল	ibuwọlu	Nan
-সিংহভাগ	ipin kiniun	Nan
-সিঙ্গাপুর	orílẹ̀ èdè singapore	Nan
+সিংহভাগ	ipin	None
+সিঙ্গাপুর	orílẹ̀	None
 সিটিতে	ni ilu	Nan
 সিটির	ilu	Nan
 সিডি	cd	Nan
 সিদ্ধ	pipe	Nan
 সিদ্ধান্ত	ipinnu	Nan
-সিদ্ধান্তে	ni paripari	Nan
+সিদ্ধান্তে	paripari	None
 সিদ্ধান্তের	ti ipinnu	Nan
 সিটি	ilu	Nan
 সার্চলাইট	searchlight	Nan
@@ -2922,14 +2922,14 @@
 সাফল্য	aṣeyọri	Nan
 সাফল্যের	ti aṣeyọri	Nan
 সাবান	ọṣẹ	Nan
-সাবেক	awọn tele	Nan
+সাবেক	tele	None
 সাব্যস্ত	ni igbẹkẹle	Nan
 সামগ্রিক	ìwò	None
 সামগ্রিকভাবে	ìwò	None
 সামগ্রী	akoonu	Nan
 সামঞ্জস্য	aitasera	Nan
-সান্টাক্লজের	ti santa kilosi	Nan
-সান্টাক্লজ	santa claus	Nan
+সান্টাক্লজের	santa	None
+সান্টাক্লজ	santa	None
 সান	oorun.	Nan
 সাধু	saint	Nan
 সাদা	funfun	Nan
@@ -2942,9 +2942,9 @@
 সামঞ্জস্যপূর্ণ	ibamu	Nan
 সাধারণত	nigbagbogbo	Nan
 সাধারণতন্ত্র	ibaṣepọ	Nan
-সাধারণভাবে	ni gbogbogbo	Nan
+সাধারণভাবে	gbogbogbo	None
 সাধারণীকৃত	ti ṣatunṣe	Nan
-সাধারণের	ni gbogbogbo	Nan
+সাধারণের	gbogbogbo	None
 সাধারন	deede	Nan
 সাধারনত	nigbagbogbo	Nan
 সাধিত	ṣe aṣeyọri	Nan
@@ -2962,9 +2962,9 @@
 সাম্রাজ্যকে	si ijọba naa	Nan
 সারদা	sarada	Nan
 সারাংশ	akopọ	Nan
-সারি	awọn ori ila	Nan
-সারিতে	ni ọna kan	Nan
-সারির	awọn ori ila	Nan
+সারি	ori	None
+সারিতে	kan	None
+সারির	ori	None
 সার্ক	saarc	None
 সার্কিট	circuit	Nan
 সার্কিটে	lori circuit	Nan
@@ -2981,7 +2981,7 @@
 সামাজিক	awujọ	Nan
 সাম্যাবস্থা	iwọn	Nan
 সামাজিকীকরণ	ilana	None
-সামান্য	kekere die	Nan
+সামান্য	kekere	None
 সামুদ্রিক	okun-nla	Nan
 সামোয়া	samoa	Nan
 সাম্প্রতিক	laipẹ	Nan
@@ -2997,7 +2997,7 @@
 সূচনা	ifaara	Nan
 সূচিত	iwifunni	Nan
 সূত্র	fọọmu	Nan
-সূত্রকে	si orisun	Nan
+সূত্রকে	orisun	None
 সূত্রপাত	ipilẹṣẹ	Nan
 সূত্রে	ninu agbekalẹ	Nan
 সূত্রের	ti agbekalẹ	Nan
@@ -3023,7 +3023,7 @@
 সুলতানি	sultani	Nan
 সুলতানির	sultanate	Nan
 সুলভ	olowo poku	Nan
-সুশৃঙ্খল	bere fun	Nan
+সুশৃঙ্খল	fun	None
 সুষম	iwontunws.funfun	Nan
 সুসংগঠিত	ti ṣeto daradara	Nan
 সুসংহত	iṣọpọ	Nan
@@ -3033,10 +3033,10 @@
 সূর্যোদয়ের	ilaorun	None
 সেখানেও	nibẹ ju	Nan
 সেগুলি	awọn wọnyẹn	Nan
-সেগুলিকে	si wọn	Nan
+সেগুলিকে	wọn	None
 সেগুলো	awọn wọnyẹn	Nan
-সেগুলোকে	si wọn	Nan
-সেগুলোর	ti wọn	Nan
+সেগুলোকে	wọn	None
+সেগুলোর	wọn	None
 সেচ	omi-omi	Nan
 সেখানেই	ọtun wa nibẹ	Nan
 সেজন্য	iyẹn ni idi	Nan
@@ -3049,8 +3049,8 @@
 সেতু	afara	Nan
 সেট	ṣeto	Nan
 সুয়েডীয়	ara ilu sweden	Nan
-সেখানে	ní bẹ	Nan
-সেখান	nibe yen	Nan
+সেখানে	ní	None
+সেখান	nibe	None
 সৃষ্ট	ti ṣẹda	Nan
 সৃষ্টি	ẹda	Nan
 সৃষ্টিকারী	eleda	Nan
@@ -3058,25 +3058,25 @@
 সৃষ্টির	ti ẹda	Nan
 সৃষ্টিশীল	ṣiṣẹda	Nan
 সে	arabinrin na	Nan
-সেখানকার	nibe yen	Nan
+সেখানকার	nibe	None
 সেই	iyẹn	Nan
 সেইসব	awọn wọnyẹn	Nan
 সেকেন্ড	awọn aaya	Nan
 সেকেন্ডে	ni iṣẹju-aaya	Nan
 সেকেন্ডের	awọn aaya	Nan
 সেক্টর	apa	Nan
-সেক্টরের	ti eka	Nan
+সেক্টরের	eka	None
 সেক্ষেত্রে	ni iyẹn	Nan
 সেইন্ট	st.	Nan
 সেদিন	ọjọ yẹn	Nan
 সুভাষচন্দ্র	subhash chandra	Nan
 সুবেদার	igi subeda	Nan
 সীমান্তবর্তী	furonu	Nan
-সীমান্তে	ni aala	Nan
-সীমান্তের	lori aala	Nan
+সীমান্তে	aala	None
+সীমান্তের	aala	None
 সীমাবদ্ধ	ni opin	Nan
 সীমাবদ্ধতা	awọn idiwọn	Nan
-সীমায়	si iye to	Nan
+সীমায়	to	None
 সীমার	ifilelẹ	Nan
 সীমারেখা	ààlà	Nan
 সীমিত	ni opin	Nan
@@ -3087,9 +3087,9 @@
 সুইডিশ	ara ilu sweden	Nan
 সুইডেন	sweden	Nan
 সীমান্ত	àla	Nan
-সীমানার	awọn aala	Nan
-সীমানায়	ni aala	Nan
-সীমানা	awọn aala	Nan
+সীমানার	aala	None
+সীমানায়	aala	None
+সীমানা	aala	None
 সিলমোহর	igbẹhin	Nan
 সিলিকন	ohun alumọni	Nan
 সিলিন্ডার	silinda	Nan
@@ -3122,7 +3122,7 @@
 সুবিধা	anfani	Nan
 সুবিধাজনক	rọrun	Nan
 সুবিধার	irọrun	Nan
-সুবিধার্থে	fun irọrun	Nan
+সুবিধার্থে	fun	None
 সুবিন্দু	subindu	Nan
 সুবিশাল	o tobi	Nan
 সুবৃহৎ	nla	Nan
@@ -3207,7 +3207,7 @@
 ২রা	keji	Nan
 ২য়	keji	Nan
 ২টি	2	Nan
-২এর	2 ká	Nan
+২এর	ká	None
 ১৯৮৭	odun 196	Nan
 ১৯৮৮	odun 196	Nan
 ১৯৮৯	ọdun 1989	Nan
@@ -3533,11 +3533,11 @@
 হৃৎপিন্ড	okan	Nan
 হেলমান্দ	helmand	Nan
 হৃৎপিন্ডের	ti okan	Nan
-হেঁটে	ni ẹsẹ	Nan
+হেঁটে	ẹsẹ	None
 হেক্টর	hector	Nan
 হেনরি	henry	Nan
 হেনরিক	henrik	Nan
-হেমন্ত	igba irẹdanu ewe	Nan
+হেমন্ত	ewe	None
 হেয়ার	irun	Nan
 হেরাত	herat	Nan
 হে	hey	Nan
@@ -3595,7 +3595,7 @@
 হালকা	imọlẹ	Nan
 হালখাতা	halkhata	Nan
 হাসপাতাল	iwosan	None
-হাসপাতালে	ni ile iwosan	Nan
+হাসপাতালে	iwosan	None
 হাসান	ẹrin	Nan
 হাসিনা	hasina	Nan
 হিউম	hume	Nan
@@ -3773,7 +3773,7 @@
 ১২	12	Nan
 ১২ই	12e	Nan
 ১২টি	12	Nan
-১২শ	ọgọrun mejila	Nan
+১২শ	mejila	None
 ১২০	120	Nan
 ১২০০	1200	Nan
 ১২০০০	12,000	Nan
@@ -3795,17 +3795,17 @@
 লিগা	ajumọṣe	Nan
 লিঙ্ক	ọna asopọ	Nan
 লিঙ্গ	okunrin	None
-লিঙ্গানুপাত	ibalopo ipin	Nan
+লিঙ্গানুপাত	ipin	None
 লিওনার্দো	leonardo	Nan
 লিওন	leon	Nan
 লিও	leo	None
 লিংকনশায়ারে	ni lincolnshire	Nan
 লাগানো	gbin	None
-লাগিয়ে	fi sii	Nan
+লাগিয়ে	fi	None
 লাগে	o ngba	Nan
-লাতিন	ede latini	Nan
+লাতিন	latini	None
 লাতিনে	ni latin	Nan
-লাতিনের	ede latini	Nan
+লাতিনের	latini	None
 লাভজনক	ni ere	Nan
 লিঙ্গের	ti ibalopọ	Nan
 লাভের	ti ere	Nan
@@ -3864,7 +3864,7 @@
 রোমানিয়া	romania	Nan
 রোমান্টিক	ti alefi ife han	Nan
 রোমান্স	idawọle	Nan
-রোমে	ni rome	Nan
+রোমে	rome	None
 রোমের	lomu	Nan
 রৌপ্য	fadaka	Nan
 র‍্যাম	radham	Nan
@@ -3882,8 +3882,8 @@
 রোগী	alaisan	Nan
 রোগীদের	alaisan	Nan
 রোগীর	ti alaisan	Nan
-রোগে	ninu arun	Nan
-রোগের	ti arun	Nan
+রোগে	arun	None
+রোগের	arun	None
 রোড	opopona	Nan
 লক্ষাধিক	milionu	Nan
 রোডে	loju ọna	Nan
@@ -3924,13 +3924,13 @@
 লক্ষ্য	ibi ti o nlo	Nan
 লক্ষ্যে	lori idi	Nan
 লঘু	imọlẹ	Nan
-লঙ্কায়	ni lanka	Nan
+লঙ্কায়	lanka	None
 লবণাক্ততার	ti salinity	Nan
 লঙ্ঘন	o ṣẹ	Nan
 লণ্ডন	lọndọnu	None
 লতিফ	latif	Nan
 লন্ডন	lọndọnu	None
-লন্ডনে	ni ilu lọndọnu	Nan
+লন্ডনে	lọndọnu	None
 লন্ডনের	ti london	Nan
 লব	lob	Nan
 লবণ	iyọ	Nan
@@ -3941,13 +3941,13 @@
 শাক্তধর্ম	ẹsin shakta	Nan
 শাখা	ẹka	Nan
 শাখাটি	ẹka	Nan
-শাখানদী	adajọ ofin	Nan
+শাখানদী	ofin	None
 শাখায়	ninu ẹka	Nan
 শাখার	ẹka	Nan
 শান্ত	farabalẹ	Nan
 শান্তি	alaafia	None
-শান্তিচুক্তি	alaafia alafia	Nan
-শান্তিতে	ni alaafia	Nan
+শান্তিচুক্তি	alaafia	None
+শান্তিতে	alaafia	None
 শান্তিনিকেতন	santiniketan	Nan
 শান্তিনিকেতনে	ni santiniketan	Nan
 শান্তিনিকেতনের	ti santiniketan	Nan
@@ -3959,10 +3959,10 @@
 শহিদ	ajagun	None
 শর্করা	awọn aba	Nan
 শর্ট	kukuru	Nan
-শর্ত	awọn ipo	Nan
+শর্ত	ipo	None
 শর্তে	lori majemu	Nan
 শর্তের	ti majemu	Nan
-শরৎচন্দ্র	igba irẹdanu ewe	Nan
+শরৎচন্দ্র	ewe	None
 শস্য	ọkà	Nan
 শান্তির	alaafia	None
 শহর	ilu	Nan
@@ -3982,7 +3982,7 @@
 শাহ	shah	Nan
 শাহরুখ	shah rukh	Nan
 শিং	iwo	Nan
-শিকড়	awọn gbongbo	Nan
+শিকড়	gbongbo	None
 শিকাগো	chicago	Nan
 শাস্ত্রীয়	ayebaye	Nan
 শিকার	olugbala	Nan
@@ -3991,7 +3991,7 @@
 শিক্ষাকে	eko	None
 শিক্ষাজীবন	eko	None
 শিক্ষাদান	kíkọ́	None
-শিক্ষাপ্রতিষ্ঠান	awọn ile-iṣẹ eko	Nan
+শিক্ষাপ্রতিষ্ঠান	eko	None
 শিক্ষাপ্রাঙ্গন	ile-iwe ogba	Nan
 শিক্ষক	olukọ	Nan
 শরীরের	ti ara	Nan
@@ -4008,10 +4008,10 @@
 শাসনকালে	nigba ijọba	Nan
 শাসনভার	ijoba	Nan
 শাসনাধীন	ofin	None
-শাসনাধীনে	labẹ ofin	Nan
+শাসনাধীনে	ofin	None
 শাসনামলে	nigba ijọba	Nan
-শাসনে	ni ofin	Nan
-শাসনের	ti ofin	Nan
+শাসনে	ofin	None
+শাসনের	ofin	None
 শাসিত	ofin	None
 শাসনব্যবস্থা	ijoba	Nan
 রো	rowe	Nan
@@ -4026,7 +4026,7 @@
 লৌহ	iron	Nan
 ল্যমেত্র্‌র	lymetr	Nan
 ল্যাংগুয়েজ	ede	None
-ল্যাটিন	ede latini	Nan
+ল্যাটিন	latini	None
 ল্যাটেক	latex	Nan
 ল্যান্ডার	ede	None
 ল্যাপটপ	kọǹpútà alágbèéká	Nan
@@ -4041,7 +4041,7 @@
 লেগে	fẹran	Nan
 লেগেছিল	nífẹẹ ẹ	Nan
 লেট	pẹ	Nan
-লেটো	jẹ ki	Nan
+লেটো	ki	None
 লেনন	lennon	Nan
 শ	sh	Nan
 লেন্স	awọn lẹnsi	Nan
@@ -4060,27 +4060,27 @@
 শত্রুঘ্ন	ọtá	Nan
 শত্রুর	ti ota	Nan
 শনাক্ত	ṣe idanimọ	Nan
-শনি	oṣu kẹta	Nan
+শনি	kẹta	None
 শনিবার	satide	Nan
 শপথ	mo bura	Nan
 শতাব্দীর	ti orundun	Nan
 শব্দ	awọn ọrọ	Nan
-শব্দটিকে	ọrọ náà	Nan
+শব্দটিকে	náà	None
 শব্দটির	ti ọrọ naa	Nan
 শব্দভাণ্ডার	ikọwe	Nan
 শব্দভাণ্ডারের	ikọwe	Nan
 শব্দের	ti awọn ọrọ	Nan
 শরণার্থী	asasala	Nan
 শরণার্থীদের	asasala	Nan
-শব্দটি	ọrọ náà	Nan
+শব্দটি	náà	None
 শরীর	ara	Nan
 শতাব্দীতে	ni orundun	Nan
 শতাব্দির	ti orundun	Nan
 শক্তি	agbara	None
-শক্তিকে	si agbara	Nan
-শক্তিগুলির	ti awọn agbara	Nan
+শক্তিকে	agbara	None
+শক্তিগুলির	agbara	None
 শক্তিতে	ni okun	Nan
-শক্তির	ti agbara	Nan
+শক্তির	agbara	None
 শক্তিশালী	lagbara	Nan
 শখের	awọn iṣẹ aṣenọju	Nan
 শতাব্দী	orundun	Nan
@@ -4113,7 +4113,7 @@
 রনের	roner	Nan
 রচনাকাল	akoko tiwqn	Nan
 রচনা	tiwqn	Nan
-রঙ্গমঞ্চে	ori itage	Nan
+রঙ্গমঞ্চে	ori	None
 রঙের	ti awọ	Nan
 রংপুর	rangpur	Nan
 রক	apata	Nan
@@ -4122,7 +4122,7 @@
 রক্তক্ষয়ী	ẹjẹ	Nan
 রক্তে	ninu ẹjẹ	Nan
 রক্তের	ti ẹjẹ	Nan
-রপ্তানি	si okeere	Nan
+রপ্তানি	okeere	None
 রক্ষণশীল	akiyesi	Nan
 রক্ষা	idaabobo	Nan
 রক্ষায়	ni aabo	Nan
@@ -4132,8 +4132,8 @@
 রঙিন	awọ	Nan
 রঙে	ni awọn awọ	Nan
 রক্ষণাবেক্ষণ	itọju	Nan
-রংকাস	awọn ipo	Nan
-রপ্তানির	awọn okeere	Nan
+রংকাস	ipo	None
+রপ্তানির	okeere	None
 রফিক	rafiq	Nan
 রশ্মির	ray	Nan
 রস	oje	Nan
@@ -4161,12 +4161,12 @@
 রবীন্দ্র	rabindra	Nan
 রবীন্দ্রনাথ	rabindranath	Nan
 রবীন্দ্রনাথের	rabindranath	Nan
-রফতানি	si okeere	Nan
+রফতানি	okeere	None
 রবীন্দ্রসংগীত	rabindra sangeet	Nan
 রম	róòmù	Nan
 রমনা	rama	Nan
 রয়	roy	Nan
-রয়ে	ti o ku	Nan
+রয়ে	ku	None
 রয়েছে	o wa	Nan
 রয়েছে৷	o wa 6	Nan
 রয়েল	ọba	Nan
@@ -4202,17 +4202,17 @@
 যুগ	igbala	Nan
 যেত	le	None
 যুগে	ni akoko	Nan
-যুগেও	paapaa ni ọjọ-ori	Nan
+যুগেও	paapaa	None
 যুগের	ti akoko	Nan
 যুগোস্লাভিয়া	yugoslavia	Nan
 যুগ্ম	ijọpọ	Nan
 যুদ্ধ	ogun	None
-যুদ্ধে	ninu ogun	Nan
-যুদ্ধের	ti ogun	Nan
+যুদ্ধে	ogun	None
+যুদ্ধের	ogun	None
 যুগেই	ni ọjọ-ori	Nan
 যেতে	lati lọ	Nan
-যেতেন	yoo lọ	Nan
-যেতো	yoo lọ	Nan
+যেতেন	yoo	None
+যেতো	yoo	None
 যোদ্ধাদের	awọn jagunjagun	Nan
 যোনি	vagina	Nan
 যোনির	vagina	Nan
@@ -4235,8 +4235,8 @@
 যোগাযোগের	ti ibaraẹnisọrọ	Nan
 যেন	fẹran	Nan
 যেভাবে	ọna naa	Nan
-যেমন	fun apẹẹrẹ.	Nan
-যেমনঃ	fun apẹẹrẹ.	Nan
+যেমন	fun	None
+যেমনঃ	fun	None
 যেয়ে	ti lọ	Nan
 যেসকল	gbogbo eyiti	Nan
 যেসব	awọn wọnyẹn	Nan
@@ -4276,11 +4276,11 @@
 রাষ্ট্রধর্ম	esin ilu	Nan
 রাষ্ট্রপতি	alakoso	Nan
 রাষ্ট্রপতির	ti alakoso	Nan
-রাষ্ট্রপ্রধান	ori ti ipinle	Nan
+রাষ্ট্রপ্রধান	ori	None
 রাষ্ট্রবিজ্ঞান	imọ ti oloselu	Nan
-রাষ্ট্রভাষা	ede ti ipinle	Nan
+রাষ্ট্রভাষা	ede	None
 রিসার্চ	iwadi	None
-রাষ্ট্রভাষার	ede ti ipinle	Nan
+রাষ্ট্রভাষার	ede	None
 রাষ্ট্রসমূহের	ti awọn ipinle	Nan
 রাষ্ট্রীয়	ipinle	Nan
 রাষ্ট্রে	ni ipinle	Nan
@@ -4326,7 +4326,7 @@
 রূপান্তর	iyipada	Nan
 রূপান্তরিত	yipada	None
 রূপান্তরের	ti iyipada	Nan
-রূপে	ni irisi ti	Nan
+রূপে	irisi	None
 রূপের	ti fọọmu	Nan
 রূপটি	fọọmu	Nan
 রেসকোর্স	racecourse	Nan
@@ -4339,7 +4339,7 @@
 রাজনৈতিকভাবে	oselu	Nan
 রাজপুত	rajput	Nan
 রাজপুত্র	olori	Nan
-রাজবংশ	idile oba	Nan
+রাজবংশ	oba	None
 রাজবংশের	ti idile	Nan
 রাজশাহী	rajshahi	Nan
 রাজস্ব	wiwọle	Nan
@@ -4409,7 +4409,7 @@
 রানের	ṣiṣe	Nan
 রাতে	ni oru	Nan
 শিক্ষাবর্ষে	ni ọdun ẹkọ	Nan
-শিক্ষাব্যবস্থা	eto eko	Nan
+শিক্ষাব্যবস্থা	eko	None
 শিক্ষায়	ninu eto ẹkọ	Nan
 সমাদৃত	ẹ mọrírì	Nan
 সমাধান	ojutu	Nan
@@ -4440,7 +4440,7 @@
 সমালোচক	apẹẹrẹ	Nan
 সমস্যাটি	iṣoro naa	Nan
 সমস্যার	awọn iṣoro	Nan
-সমাগম	kiko apejo	Nan
+সমাগম	kiko	None
 সমাজ	awujọ	Nan
 সমাজতন্ত্র	awujọ	Nan
 সমাজতন্ত্রের	ti socialism	Nan
@@ -4450,7 +4450,7 @@
 সমর্পণ	arasilẹ	Nan
 সমালোচকদের	awọn alariwisi	Nan
 সমালোচনার	ibawi	Nan
-সম্পদ	awọn orisun	Nan
+সম্পদ	orisun	None
 সম্পদে	ni ọrọ	Nan
 সম্পদের	awọn dukia	Nan
 সম্পন্ন	ti ṣee	Nan
@@ -4477,7 +4477,7 @@
 সমুদ্র	okun	Nan
 সমুদ্রপথ	okun	Nan
 সমালোচনা	ibawi	Nan
-সমুদ্রপৃষ্ঠ	ipele okun	Nan
+সমুদ্রপৃষ্ঠ	ipele	None
 সমুদ্রে	ni okun	Nan
 সমুদ্রের	ti okun	Nan
 সমুহ	s	Nan
@@ -4485,7 +4485,7 @@
 সমূদ্র	okun	Nan
 সমূহ	s	Nan
 সমূহের	ti	Nan
-সমুদ্রবন্দর	apẹrẹ okun omi	Nan
+সমুদ্রবন্দর	omi	None
 সমর্থিত	atilẹyin	Nan
 সমর্থনে	ni atilẹyin	Nan
 সমর্থন	atilẹyin	Nan
@@ -4496,7 +4496,7 @@
 সবাই	gbogbo eniyan	Nan
 সবাইকে	gbogbo eniyan	Nan
 সবার	gbogbo eniyan	Nan
-সবুজ	alawọ ewe	Nan
+সবুজ	ewe	None
 সভা	ipade	Nan
 সভাপতি	alakoso	Nan
 সভায়	ni ipade	Nan
@@ -4513,7 +4513,7 @@
 সফটওয়্যারের	ti sọfitiwia	Nan
 সফর	irin-ajo	Nan
 সফরে	lori irin-ajo	Nan
-সফরের	ti ajo	Nan
+সফরের	ajo	None
 সফল	aṣeyọri	Nan
 সভ্যতার	ti ọlaju	Nan
 সফলতা	aṣeyọri	Nan
@@ -4530,7 +4530,7 @@
 সমকালীন	contemporary	Nan
 সময়	aago	Nan
 সময়ই	aago	Nan
-সময়ও	akoko paapaa	Nan
+সময়ও	paapaa	None
 সময়কার	ti akoko	Nan
 সময়কাল	iye akoko	Nan
 সময়কালে	ni asiko	Nan
@@ -4567,11 +4567,11 @@
 সমতলের	alapin	Nan
 সম্পাদিত	satunkọ	Nan
 সম্পূর্ণ	pari	Nan
-সম্পূর্ণভাবে	egba pipe	Nan
+সম্পূর্ণভাবে	egba	None
 সহজাত	ẹkọ	Nan
 সহজে	ni irọrun	Nan
 সহজেই	ni irọrun	Nan
-সহপাঠী	awọn ọmọ ile-iwe	Nan
+সহপাঠী	ọmọ	None
 সহপ্রতিষ্ঠাতা	alajọṣepọ	Nan
 সহযোগিতা	ṣiṣẹpọ	Nan
 সহযোগিতায়	ni ifowosowopo	Nan
@@ -4582,7 +4582,7 @@
 সহস্রাব্দের	millennials	Nan
 সহাবস্থান	ibasepo	Nan
 সহায়ক	iranlọwọ	Nan
-সহায়তা	egba mi o	Nan
+সহায়তা	egba	None
 সহজলভ্য	ni imurasilẹ wa	Nan
 সহজ	rọrun	Nan
 সহকারে	pẹlu	Nan
@@ -4596,7 +4596,7 @@
 সর্বোচ্চ	max	None
 সহায়তায়	pẹlu iranlọwọ	Nan
 সর্বোত্তম	o ti dara ju	Nan
-সলিড	ri to	Nan
+সলিড	to	None
 সশস্ত্র	ologun	Nan
 সসীম	pari	Nan
 সস্তা	olowo poku	Nan
@@ -4605,7 +4605,7 @@
 সহকর্মী	awọn ẹlẹgbẹ	Nan
 সর্বোপরি	ju gbogbo re lo	Nan
 সহায়তার	ti iranlọwọ	Nan
-সহায়িকা	egba mi o	Nan
+সহায়িকা	egba	None
 সহিংসতা	iwa-ipa	Nan
 সাক্ষাৎ	ipade	Nan
 সাক্ষাৎকার	ifọrọwanilẹnuwo	Nan
@@ -4618,23 +4618,23 @@
 সাজসজ্জার	ohun ọṣọ	Nan
 সাজিয়ে	ti ṣeto	Nan
 সাড়া	idahun	Nan
-সাড়ে	koja idaji	Nan
+সাড়ে	idaji	None
 সাত	meje	Nan
 সাতটি	meje	Nan
 সাতবাহন	satavahana	Nan
 সাত্তার	sattar	Nan
 সাজানো	ti ṣeto	Nan
 সর্বমোট	ni lapapọ	Nan
-সাক্ষরতার	ede kika	Nan
+সাক্ষরতার	ede	None
 সাউথ	guusu	None
 সহিত	pẹlu	Nan
 সহ্য	ifarada	Nan
 সাঁতার	odo	Nan
 সাংখ্যিক	nọmba	Nan
-সাংগঠনিক	ti ajo	Nan
+সাংগঠনিক	ajo	None
 সাংবাদিক	akoroyin	Nan
 সাংবিধানিক	t’olofin	Nan
-সাক্ষরতা	ede kika	Nan
+সাক্ষরতা	ede	None
 সাংস্কৃতিক	asa	Nan
 সাঃ	bẹẹni	Nan
 সাইকেল	kẹkẹ kẹkẹ	Nan
@@ -4648,7 +4648,7 @@
 সর্ববৃহৎ	tobi julo	Nan
 সর্বপ্রথম	a la koko	Nan
 সম্ভাবনার	ti o ṣeeṣe	Nan
-সম্ভাব্য	owun to le	Nan
+সম্ভাব্য	le	None
 সম্ভাব্যতা	iṣeeṣe	Nan
 সম্মত	gba	None
 সম্মান	ọwọ	Nan
@@ -4663,10 +4663,10 @@
 সম্মুখীন	ti nkọju si	Nan
 সম্মুখে	siwaju	Nan
 সম্ভাবনা	seese	Nan
-সম্ভবপর	owun to le	Nan
+সম্ভবপর	le	None
 সম্ভবতঃ	jasi	Nan
 সম্ভবত	jasi	Nan
-সম্পূর্ণরূপে	egba pipe	Nan
+সম্পূর্ণরূপে	egba	None
 সম্পূর্ন	pari	Nan
 সম্পৃক্ত	lorun	Nan
 সম্প্রচার	itankale	Nan
@@ -4681,7 +4681,7 @@
 সম্বন্ধে	nipa	Nan
 সম্বলিত	ni gbigba	Nan
 সম্বোধন	adirẹsi	Nan
-সম্ভব	owun to le	Nan
+সম্ভব	le	None
 সম্প্রসারণ	imugboroosi	Nan
 সম্মেলনে	ni apejọ	Nan
 সম্মেলনের	ti apejọ naa	Nan
@@ -4723,7 +4723,7 @@
 সরণ	gbe	None
 সরবরাহ	ipese	Nan
 সরকারি	ijọba	Nan
-সপ্তাহে	ni ọsẹ kan	Nan
+সপ্তাহে	kan	None
 সপ্তাহ	ọsẹ	Nan
 সপ্তাশ্চর্য	meje iyanu	Nan
 শ্রমিক	awọn oṣiṣẹ	Nan
@@ -4733,11 +4733,11 @@
 শ্রীরামকৃষ্ণ	sri ramakrishna	Nan
 শ্রীরামকৃষ্ণকে	si sri ramakrishna	Nan
 শ্রীরামকৃষ্ণের	ti sri ramakrishna	Nan
-শ্রীলংকা	siri lanka	Nan
-শ্রীলংকার	siri lanka	Nan
-শ্রীলঙ্কা	siri lanka	Nan
-শ্রীলঙ্কায়	ni ilu sri lanka	Nan
-শ্রীলঙ্কার	siri lanka	Nan
+শ্রীলংকা	lanka	None
+শ্রীলংকার	lanka	None
+শ্রীলঙ্কা	lanka	None
+শ্রীলঙ্কায়	lanka	None
+শ্রীলঙ্কার	lanka	None
 শ্রীশ্রীচণ্ডী	sri sri chandi	Nan
 শ্রুতি	adaparọ	Nan
 শ্রেণী	kilasi	Nan
@@ -4757,15 +4757,15 @@
 শৈশবের	ọmọ	None
 শো	ifihan naa	Nan
 শোনা	tẹtisi	Nan
-শোভাযাত্রা	awọn ilana	Nan
+শোভাযাত্রা	ilana	None
 শোষণ	ilo	Nan
 শ্বাস	mimi	Nan
 শ্বাসপ্রশ্বাস	mimi	Nan
-শৈশবে	ni igba ewe	Nan
+শৈশবে	ewe	None
 শ্রেণীবিন্যাস	ipele	None
 শ্রেণীবিভাগ	ipele	None
 শ্রেণীর	ti kilasi	Nan
-সংকেতের	ti awọn ifihan agbara	Nan
+সংকেতের	agbara	None
 সংকোচন	idarapọ	Nan
 সংক্রমণ	ikolu	Nan
 সংক্রান্ত	ifiyesi	Nan
@@ -4824,10 +4824,10 @@
 শিল্প	aworan	Nan
 শিলিগুড়ি	siliguri	Nan
 শিলা	apata	Nan
-শিক্ষার	ti eko	Nan
-শিক্ষার্থী	ọmọ ile-iwe	Nan
-শিক্ষার্থীদের	awọn ọmọ ile-iwe	Nan
-শিক্ষার্থীরা	awọn ọmọ ile-iwe	Nan
+শিক্ষার	eko	None
+শিক্ষার্থী	ọmọ	None
+শিক্ষার্থীদের	ọmọ	None
+শিক্ষার্থীরা	ọmọ	None
 শিক্ষিত	kọ ẹkọ	Nan
 শিখ	sikh	Nan
 শিখতে	lati kọ ẹkọ	Nan
@@ -4842,8 +4842,8 @@
 শিরোপা	akọle	Nan
 শিখে	kọ ẹkọ	Nan
 শীঘ্রই	laipẹ	Nan
-শীত	igba otutu	Nan
-শীতকাল	igba otutu	Nan
+শীত	otutu	None
+শীতকাল	otutu	None
 শুরুতেই	ni ibere	Nan
 শুরুর	ibere	Nan
 শুষ্ক	gbẹ	Nan
@@ -4863,8 +4863,8 @@
 শৃঙ্গার	iwo	Nan
 শেষদিকে	si ọna opin	Nan
 শুরু	ibere	Nan
-শুভেচ্ছা	ẹ kí	Nan
-শীতকালে	ni igba otutu	Nan
+শুভেচ্ছা	kí	None
+শীতকালে	otutu	None
 শীতল	itura	Nan
 শীর্ষ	oke	Nan
 শীর্ষবিন্দু	vertex	Nan
@@ -4873,7 +4873,7 @@
 শুক্র	fri.	Nan
 শুম্ভ	shumbh	Nan
 শুক্রাণু	sugbọn	Nan
-শুধু	o kan	Nan
+শুধু	kan	None
 শুধুমাত্র	nikan	Nan
 শুনতে	lati tẹtisi	Nan
 শুনে	tẹtisi	Nan
@@ -4944,22 +4944,22 @@
 সন্তান	awọn ọmọde	Nan
 সনে	ninu ọdun	Nan
 সত্যি	lootọ	Nan
-সত্যের	ti ododo	Nan
+সত্যের	ododo	None
 সদর	orí orí	Nan
-সদসবৃন্দ	awọn ọmọ ẹgbẹ	Nan
-সদস্য	ọmọ ẹgbẹ	Nan
-সদস্যদের	awọn ọmọ ẹgbẹ	Nan
-সদস্যপদ	ọmọ ẹgbẹ	Nan
+সদসবৃন্দ	ọmọ	None
+সদস্য	ọmọ	None
+সদস্যদের	ọmọ	None
+সদস্যপদ	ọmọ	None
 সনের	ti ọdun	Nan
-সদস্যরা	awọn ọmọ ẹgbẹ	Nan
-সদস্যের	ti awọn ọmọ ẹgbẹ	Nan
+সদস্যরা	ọmọ	None
+সদস্যের	ọmọ	None
 সদৃশ	ẹda	Nan
 সন	ọmọ	None
 সনদ	ijẹrisi	Nan
 সনদের	ijẹrisi	Nan
 সনাক্ত	wa ninu	Nan
 সনাতন	ibile	None
-সদস্যসংখ্যা	ọmọ ẹgbẹ	Nan
+সদস্যসংখ্যা	ọmọ	None
 সংগঠনের	ti agbari	Nan
 সকার	bọọlu afẹsẹgba	Nan
 সকলেই	gbogbo eniyan	Nan
@@ -4969,8 +4969,8 @@
 সংবাদপত্রগুলি	iwe iroyin	Nan
 সংবাদপত্রের	iwe iroyin	Nan
 সংবিধান	ofin	None
-সংবিধানে	ninu ofin na	Nan
-সংবিধানের	ti orileede	Nan
+সংবিধানে	ofin	None
+সংবিধানের	orileede	None
 সংবেদনশীল	ọpọlọ	Nan
 সংযুক্ত	ti sopọ	Nan
 সংযুক্তি	asomọ	Nan
@@ -4987,17 +4987,17 @@
 সংগ্রহ	gbigba	Nan
 সংগ্রহের	gbigba	Nan
 সংগ্রাম	ijakadi	None
-সংগ্রামে	ninu ijakadi	Nan
-সংগ্রামের	ti ijakadi	Nan
+সংগ্রামে	ijakadi	None
+সংগ্রামের	ijakadi	None
 সংযোজক	asopọ	Nan
 সংঘ	euroopu	Nan
 সংঘবদ্ধ	ṣeto	Nan
 সংঘর্ষ	rogbodiyan	None
-সংঘর্ষে	ninu rogbodiyan	Nan
-সংঘর্ষের	ti rogbodiyan	Nan
+সংঘর্ষে	rogbodiyan	None
+সংঘর্ষের	rogbodiyan	None
 সংঘাত	rogbodiyan	None
-সংঘাতে	ninu rogbodiyan	Nan
-সংঘাতের	ti rogbodiyan	Nan
+সংঘাতে	rogbodiyan	None
+সংঘাতের	rogbodiyan	None
 সংঘটিত	silẹ	Nan
 সংযোজন	afikun	Nan
 সংযোজিত	iṣakojọpọ	Nan
@@ -5072,7 +5072,7 @@
 ওড়িয়া	oriya	Nan
 ওপরে	ni oke	Nan
 ওপেন	ṣi	Nan
-ওপেনসোর্স	ṣi orisun	Nan
+ওপেনসোর্স	orisun	None
 ওবামা	oba	None
 ওভার	ju	Nan
 ওভারে	ju	Nan
@@ -5138,7 +5138,7 @@
 এরবিয়াম	erbiumu	Nan
 এরপরই	lẹhinna	Nan
 এরপর	lẹhinna	Nan
-এরকম	bi eleyi	Nan
+এরকম	eleyi	None
 এভারেস্ট	everest	Nan
 এভিয়ান	avian	Nan
 এম	okunrin	None
@@ -5180,10 +5180,10 @@
 এসেছিল	o wa	Nan
 এসে	kọja siwaju	Nan
 এশিয়াটিক	asiatic	Nan
-এশিয়ান	ara ilu esia	Nan
-এশিয়ায়	ni esia	Nan
+এশিয়ান	esia	None
+এশিয়ায়	esia	None
 এশিয়ার	esia	None
-এশীয়	ara ilu esia	Nan
+এশীয়	esia	None
 এস	s.	Nan
 এসকল	gbogbo eyi	Nan
 এসেও	kọja siwaju	Nan
@@ -5199,8 +5199,8 @@
 কণিকা	awọn patikulu	Nan
 কণ্ঠশিল্পী	olohun	None
 কত	elo ni?	Nan
-করেই	bi o ti le je pe	Nan
-করেও	paapaa laisi	Nan
+করেই	le	None
+করেও	paapaa	None
 করেছি	mo ṣe	Nan
 করেছিল	ṣe	Nan
 করেছিলেন	ṣe	Nan
@@ -5208,9 +5208,9 @@
 করেছে	ti ṣe	Nan
 করেছেন	ti ṣe	Nan
 করেন	ṣe	Nan
-করেননি	ṣe ko	Nan
+করেননি	ko	None
 করেনা	maṣe sanwo	Nan
-করেনি	ṣe ko	Nan
+করেনি	ko	None
 করের	awọn owo-ori	Nan
 করে৷	nipa 6	Nan
 করো	se o	Nan
@@ -5291,19 +5291,19 @@
 কভি	akewi	Nan
 কম	ti o kere	Nan
 কমই	ṣẹlẹ	Nan
-কমতে	lati din	Nan
+কমতে	din	None
 কমনওয়েলথ	ibaṣepọ	Nan
 কন্যা	ọmọbinrin	Nan
 কন্ঠ	ohùn	Nan
 কন্ট্রোল	iṣakoso	Nan
 কনিষ্ঠ	junior	Nan
-কতগুলি	melo ni?	Nan
-কতগুলো	melo ni?	Nan
+কতগুলি	melo	None
+কতগুলো	melo	None
 কতটুকু	elo ni?	Nan
 কতিপয়	diẹ ninu	Nan
 কথা	sọrọ	Nan
-কথাও	emi yoo ba ọ sọrọ laipẹ	Nan
-কথাটি	ọrọ náà	Nan
+কথাও	yoo	None
+কথাটি	náà	None
 কমপক্ষে	o kere ju	Nan
 কথাটির	ti ọrọ naa	Nan
 কথাসাহিত্যিক	irokuro	Nan
@@ -5317,14 +5317,14 @@
 কমানো	dinku	Nan
 কমান্ডার	alakoso	Nan
 কমিউনিটি	agbegbe	Nan
-কয়েকটি	kan diẹ	Nan
+কয়েকটি	kan	None
 কয়েকবার	ni igba diẹ	Nan
 কর	owo-ori	Nan
 করছি	mo n ṣe	Nan
 করছিল	ti nṣe	Nan
 করছিলেন	ti nṣe	Nan
 করছে	n ṣe	Nan
-কয়েকজন	kan diẹ	Nan
+কয়েকজন	kan	None
 করছেন	n ṣe	Nan
 করত	lo lati	Nan
 করতে	lati ṣe	Nan
@@ -5335,7 +5335,7 @@
 করন	ṣe	Nan
 করণ	karan	Nan
 করবে	yoo	None
-কয়েক	kan diẹ	Nan
+কয়েক	kan	None
 কম্পিউটিং	iṣiro	Nan
 কমিউনিস্ট	communist	Nan
 কমিটি	igbimo	Nan
@@ -5393,7 +5393,7 @@
 উল্লেখ	darukọ	Nan
 উল্লেখনীয়	ohun akiyesi	Nan
 উরুবাম্বা	urubamba	Nan
-উভচর	ọmọ amẹbian	Nan
+উভচর	ọmọ	None
 উৎস	orisun	None
 উৎসবে	ni ajọdun	Nan
 এঁরা	iwọnyi	Nan
@@ -5406,30 +5406,30 @@
 এএমডি	amd	Nan
 এও	tun	Nan
 এক	ọkan	Nan
-একই	ikan na	Nan
+একই	ikan	None
 একইভাবে	bakanna	Nan
-একইসাথে	ni akoko kan naa	Nan
+একইসাথে	kan	None
 একক	nikan	Nan
-এককালিক	ni akoko kan	Nan
+এককালিক	kan	None
 এঁদের	iwọnyi	Nan
 এ	a.	Nan
 ঋষির	seji	Nan
 ঋষি	seji	Nan
 উৎসবের	festive	Nan
 উৎসর্গ	ẹbọ	Nan
-উৎসারিত	ti gba	Nan
+উৎসারিত	gba	None
 উৎসাহ	ìṣírí	Nan
 উৎসাহিত	iwuri	Nan
 উৎসাহী	ifinran	Nan
 উৎসেচক	ensaemusi	Nan
 উৎসব	ayẹyẹ	Nan
-উৎসের	ti orisun	Nan
+উৎসের	orisun	None
 ঊর্ধ্ব	soke	Nan
 ঊষর	agan	Nan
 ঋগ্বেদ	rig veda	Nan
 ঋণ	gbese	None
 ঋণাত্মক	ilodi	Nan
-ঋণের	ti gbese	Nan
+ঋণের	gbese	None
 ঋতু	akoko	Nan
 ঊনবিংশ	oṣu mẹsan	Nan
 উবুন্টুর	ubuntu	Nan
@@ -5459,7 +5459,7 @@
 উপদ্বীপে	lori ile larubawa	Nan
 উপদ্বীপের	ti ile larubawa	Nan
 উপনগর	ìgberiko	Nan
-উপনদী	adajọ ofin	Nan
+উপনদী	ofin	None
 উপনিবেশ	awọn ileto	Nan
 উপরন্তু	ni afikun	Nan
 উপনিবেশে	ninu ileto	Nan
@@ -5485,13 +5485,13 @@
 উপাদানের	ti ohun elo	Nan
 উপাধিতে	ninu akọle	Nan
 উপায়	ọna	Nan
-উপায়ে	bi o ti le je pe	Nan
+উপায়ে	le	None
 উপার্জন	awọn dukia	Nan
 উপাসনা	ijosin	None
 উপাসনায়	ninu isin	Nan
 উপেক্ষা	foju	Nan
 উপাধি	akọle	Nan
-এককালে	ni akoko kan sẹyin	Nan
+এককালে	kan	None
 উপাখ্যান	anecdote	Nan
 উপস্থিতির	iwaju	Nan
 উপলক্ষে	ni ayeye	Nan
@@ -5515,27 +5515,27 @@
 এককের	ti awọn sipo	Nan
 এককোষী	unicellular	Nan
 এটাই	o n niyen	Nan
-এটাকে	si rẹ	Nan
+এটাকে	rẹ	None
 এটার	ti o	Nan
-এটি	oun ni	Nan
+এটি	oun	None
 এটিই	o n niyen	Nan
-এটিও	eyi paapaa	Nan
-এটিকে	si rẹ	Nan
+এটিও	paapaa	None
+এটিকে	rẹ	None
 এটিতে	ninu e	Nan
 এটির	ti o	Nan
 এডওয়ার্ড	edward	Nan
 এডভোকেট	aláwùjọ	Nan
 এডমন্ড	edmund	Nan
-এড়ানোর	yago fun	Nan
-এড়িয়ে	yago fun	Nan
+এড়ানোর	fun	None
+এড়িয়ে	fun	None
 এডিস	aedes	Nan
-এটা	oun ni	Nan
+এটা	oun	None
 এজেন্ট	aṣoju	Nan
 এজন্যই	iyẹn ni idi	Nan
 এজন্য	iyẹn ni idi	Nan
 এখানে	nibi	Nan
-এখানেই	ohun niyi	Nan
-এখানেও	nibi paapaa	Nan
+এখানেই	niyi	None
+এখানেও	paapaa	None
 এগারো	mọkanla	Nan
 এগিয়ে	siwaju	Nan
 এগুলি	iwọnyi	Nan
@@ -5561,8 +5561,8 @@
 এন্টারপ্রাইজ	idawọlẹ	Nan
 এন্ড	ipari	Nan
 এনট্রপি	idawọlẹ	Nan
-এপ্রিল	oṣu kẹrin	Nan
-এপ্রিলে	ni oṣu kẹrin	Nan
+এপ্রিল	kẹrin	None
+এপ্রিলে	kẹrin	None
 এপ্লিকেশন	ohun elo	Nan
 এফ	f.	Nan
 এফএ	fa	Nan
@@ -5583,61 +5583,61 @@
 এনকার্টা	encarta	Nan
 এথেন্সের	ti athens	Nan
 এদের	iwọnyi	Nan
-এদেরকে	si wọn	Nan
+এদেরকে	wọn	None
 এদেশে	ni orilẹ-ede yii	Nan
 এদেশের	ti orilẹ-ede yii	Nan
 এধরণের	iru	Nan
 এধরনের	iru	Nan
 এন	n	Nan
 এদিকে	nibayi	Nan
-এবারও	akoko yii paapaa	Nan
+এবারও	paapaa	None
 এখান	nibi	Nan
 এখনকার	bayi	None
-একদন্ত	ehin kan	Nan
-একদল	ẹgbẹ kan	Nan
+একদন্ত	kan	None
+একদল	kan	None
 একদলীয়	ọkan-ẹgbẹ	Nan
 একদিকে	lọna miiran	Nan
-একদিন	lọjọ kan	Nan
-একদিনের	lọjọ kan	Nan
-একপ্রকার	iru kan	Nan
+একদিন	kan	None
+একদিনের	kan	None
+একপ্রকার	kan	None
 একবচন	ẹyọkan	Nan
-একবছর	ọdún kan	Nan
+একবছর	kan	None
 একবার	ni ẹẹkan	Nan
 একবিংশ	ogun-lokan	Nan
 একমত	gba	None
 একমাত্র	nikan	Nan
-একমাস	oṣu kan	Nan
+একমাস	kan	None
 একযোগে	ni ẹẹkan	Nan
 একথা	o n niyen	Nan
 একত্রে	papọ	Nan
-একত্রিত	fi papo	Nan
+একত্রিত	fi	None
 একত্র	papọ	Nan
-একগুচ্ছ	opo kan	Nan
+একগুচ্ছ	kan	None
 একচেটিয়া	iyasoto	Nan
 একচ্ছত্র	iyasoto	Nan
 একজন	ọkan	Nan
 একজনকে	ọkan	Nan
 একজনের	ti ọkan	Nan
 একটা	ọkan	Nan
-একর	awọn eka	Nan
+একর	eka	None
 একটানা	tẹsiwaju	Nan
 একটিকে	si ọkan	Nan
-একটিতে	ninu ẹyọ kan	Nan
-একটিমাত্র	nikan kan	Nan
+একটিতে	kan	None
+একটিমাত্র	kan	None
 একটির	ti ọkan	Nan
-একটু	kekere die	Nan
+একটু	kekere	None
 একতাবদ্ধ	orilẹ amẹrika	Nan
-একতৃতীয়াংশ	ọkan kẹta	Nan
+একতৃতীয়াংশ	kẹta	None
 একটি	a	Nan
 একশত	ogorun	Nan
 একসঙ্গে	papọ	Nan
-একসময়	ni akoko kan sẹyin	Nan
-একেবারে	egba pipe	Nan
-একেবারেই	egba pipe	Nan
+একসময়	kan	None
+একেবারে	egba	None
+একেবারেই	egba	None
 একের	ọkan	Nan
 একেশ্বরবাদী	monotheistic	Nan
 এক্তিয়ারভুক্ত	labẹ ẹjọ	Nan
-এক্ষেত্রে	fun idi eyi	Nan
+এক্ষেত্রে	fun	None
 এক্স	x.	Nan
 একেকটি	ni ọkọọkan	Nan
 এক্সচেঞ্জ	paṣipaarọ	Nan
@@ -5650,14 +5650,14 @@
 এখনও	ṣi	Nan
 এক্সপি	xp	Nan
 এখনো	ṣi	Nan
-একেই	ikan na	Nan
+একেই	ikan	None
 একুশে	ekushey	Nan
 একসাথে	papọ	Nan
 একসেস	wiwọle	Nan
-একা	ẹyọ kan	Nan
+একা	kan	None
 একাংশ	apakan	Nan
-একাই	ẹyọ kan	Nan
-একাকী	ẹyọ kan	Nan
+একাই	kan	None
+একাকী	kan	None
 একাডেমি	ile-iwe giga	Nan
 একে	ọkan	Nan
 একাডেমী	ile-iwe giga	Nan
@@ -5674,8 +5674,8 @@
 কলম্বীয়	ilu columbia	Nan
 ক্ষেত্রে	ninu ọrọ naa	Nan
 ক্ষেত্রেই	ni iyẹn	Nan
-ক্ষেত্রেও	paapaa ninu ọran naa	Nan
-ক্ষেত্রের	ti oko	Nan
+ক্ষেত্রেও	paapaa	None
+ক্ষেত্রের	oko	None
 খ	b	Nan
 খচিত	inlaid	Nan
 খণ্ড	awọn ege	Nan
@@ -5691,9 +5691,9 @@
 ক্ষেত্রফলের	ti agbegbe	Nan
 ক্ষেত্রফল	agbegbe	Nan
 ক্ষেত্র	aaye	Nan
-ক্ষমতার	ti agbara	Nan
+ক্ষমতার	agbara	None
 ক্ষমতাসম্পন্ন	alagbara	Nan
-ক্ষমতাসীন	ni agbara	Nan
+ক্ষমতাসীন	agbara	None
 ক্ষমা	ma binu	Nan
 ক্ষয়	ibajẹ	Nan
 ক্ষয়ক্ষতি	bibajẹ	Nan
@@ -5705,10 +5705,10 @@
 ক্ষুদ্রকায়	kekere	None
 ক্ষুদ্রতম	eyi ti o kere ju	Nan
 ক্ষুদ্রতর	kere	Nan
-ক্ষুদ্রতরঙ্গ	awọn igbi kekere	Nan
+ক্ষুদ্রতরঙ্গ	kekere	None
 ক্ষুব্ধ	binu	Nan
 ক্ষীণ	ailagbara	Nan
-ক্ষমতায়	ni agbara	Nan
+ক্ষমতায়	agbara	None
 খবর	awọn iroyin	Nan
 খরা	ogbele	Nan
 খান্না	khanna	Nan
@@ -5727,7 +5727,7 @@
 খুবই	pupọ	Nan
 খুলনা	khulna	Nan
 খানের	khan	Nan
-খানিকটা	kekere die	Nan
+খানিকটা	kekere	None
 খানকে	khan	Nan
 খান	jẹun	Nan
 খর্ব	kukuru	Nan
@@ -5740,8 +5740,8 @@
 খরচ	iye owo	Nan
 খাত	itẹle	Nan
 খাতুন	khatun	Nan
-খাতে	ninu eka	Nan
-খাতের	ti eka	Nan
+খাতে	eka	None
+খাতের	eka	None
 খাদ	alloy	Nan
 খাদি	khadi	Nan
 খাদের	agbọnrin	Nan
@@ -5755,7 +5755,7 @@
 ক্যাসলিং	sisun	Nan
 ক্রন্দন	si nkigbe	Nan
 ক্রফ্‌ট	croft	Nan
-ক্রম	bere fun	Nan
+ক্রম	fun	None
 ক্রমবর্ধমান	dagba	Nan
 ক্রমশ	diallydi.	Nan
 ক্রমাগত	tẹsiwaju	Nan
@@ -5764,7 +5764,7 @@
 ক্রমে	ni eto	Nan
 ক্রমেই	diallydi.	Nan
 ক্রয়	ra	None
-ক্রয়ক্ষমতা	rira agbara	Nan
+ক্রয়ক্ষমতা	agbara	None
 ক্যালিফোর্নিয়াম	california	Nan
 ক্যালিফোর্নিয়া	california	Nan
 ক্যালরিস	awọn kalori	Nan
@@ -5822,7 +5822,7 @@
 ক্রিস্টোফার	christopher	Nan
 ক্রীড়া	idaraya	Nan
 ক্রীড়ার	idaraya	Nan
-ক্রুসেড	awọn awọn ogun	Nan
+ক্রুসেড	ogun	None
 ক্রুসেডের	ti awọn igun	Nan
 ক্রোড়পতি	olowo	Nan
 ক্রিস	chris	Nan
@@ -5858,8 +5858,8 @@
 গবেষক	oniwadi	Nan
 গণিত	mathematiki	Nan
 গণিতবিদ	onimọn-akọọlẹ	Nan
-গণিতে	ni mathimatiki	Nan
-গণিতের	ti mathimatiki	Nan
+গণিতে	mathimatiki	None
+গণিতের	mathimatiki	None
 গণেশ	ganesha	Nan
 গণেশকে	ganesha	Nan
 গণেশের	ganesha	Nan
@@ -5890,8 +5890,8 @@
 গরম	gbona	Nan
 গবেষণাকে	iwadi	None
 গবেষণাগারে	ninu yàrá	Nan
-গবেষণাপত্র	iwe iwadi	Nan
-গবেষণায়	ninu iwadi	Nan
+গবেষণাপত্র	iwadi	None
+গবেষণায়	iwadi	None
 গবেষণার	ti iwadii	Nan
 গবেষনা	iwadi	None
 গভর্ণর	gomina	None
@@ -5956,9 +5956,9 @@
 গড়া	kọ	Nan
 গঠন	be	Nan
 গড়ে	lori apapọ	Nan
-গণঅভ্যুত্থান	rogbodiyan ti ibi	Nan
-গণচীন	orílẹ̀ – èdè àwọn ènìyàn ṣáínà	Nan
-গণচীনের	orílẹ̀ – èdè àwọn ènìyàn ṣáínà	Nan
+গণঅভ্যুত্থান	rogbodiyan	None
+গণচীন	orílẹ̀	None
+গণচীনের	orílẹ̀	None
 গণতন্ত্র	ijoba tiwantiwa	Nan
 গণতন্ত্রের	ti ijọba tiwantiwa	Nan
 গণতান্ত্রিক	tiwantiwa	Nan
@@ -6037,8 +6037,8 @@
 কিউবান	kuba	Nan
 কিউবার	kuba	Nan
 কিছু	nkankan	Nan
-কিছুই	ko si nkankan	Nan
-কিছুকাল	fun igba diẹ	Nan
+কিছুই	ko	None
+কিছুকাল	fun	None
 কিছুকে	nkankan	Nan
 কিছুটা	nkankan	Nan
 কিছুদিন	a diẹ ọjọ	Nan
@@ -6078,7 +6078,7 @@
 কাছেই	nitosi	None
 কাছের	pade	Nan
 কাজ	ṣiṣẹ	Nan
-কাজও	ṣiṣẹ paapaa	Nan
+কাজও	paapaa	None
 কাজকর্ম	ṣiṣẹ	Nan
 কাজকর্মের	ti iṣẹ	Nan
 কাঁকড়া	akan	Nan
@@ -6126,7 +6126,7 @@
 কান	etí	Nan
 কাদা	mò	None
 কাজে	nibi ise	Nan
-কাজেও	paapaa nitorina	Nan
+কাজেও	paapaa	None
 কাজের	ti iṣẹ	Nan
 কাঞ্চনজঙ্ঘা	kanchenjunga	Nan
 কাটা	ge	Nan
@@ -6144,7 +6144,7 @@
 কাঠ	igi	Nan
 উপদেশ	imọran	Nan
 কিছুর	nkankan	Nan
-কিনতে	lati ra	Nan
+কিনতে	ra	None
 কোণে	ni igun naa	Nan
 কোণের	ti igun	Nan
 কোথাও	ibikan	Nan
@@ -6196,7 +6196,7 @@
 কৌশলগত	ọgbọn	Nan
 কৌশলের	ti nwon.mirza	Nan
 ক্বাবা	qaba	Nan
-ক্যাটালান	ede catalan	Nan
+ক্যাটালান	ede	None
 ক্যাথলিক	ẹlẹsin katoliki	Nan
 ক্যাথেড্রাল	katidira	Nan
 ক্যাথোড	cathode	Nan
@@ -6287,7 +6287,7 @@
 কৃষিকাজ	oko	None
 কৃষিনির্ভর	ogbin ti igbẹkẹle	Nan
 কৃষিপ্রধান	ogbin	Nan
-কৃষিভিত্তিক	da lori ogbin	Nan
+কৃষিভিত্তিক	da	None
 কৃষ্টি	ogbin	Nan
 কৃষ্ণ	krishna	Nan
 কেটে	ge	Nan
@@ -6303,7 +6303,7 @@
 গাছটি	igi	Nan
 উপত্যকার	àfonífojì	Nan
 উপত্যকা	àfonífojì	Nan
-অর্থে	ni ọna kan	Nan
+অর্থে	kan	None
 অর্থের	ti owo	Nan
 অর্থোডক্স	àtijọ	Nan
 অর্ধনমিত	idaji-ọkan	Nan
@@ -6315,7 +6315,7 @@
 অল	gbogbo	Nan
 অলিন্দ	balikoni	Nan
 অলিম্পাস	olympus	None
-অলিম্পাসের	ti olympus	Nan
+অলিম্পাসের	olympus	None
 অলিম্পিক	olimpiiki	Nan
 অলিম্পিকে	ninu olimpiiki	Nan
 অর্থাৎ	ti o jẹ	Nan
@@ -6328,19 +6328,19 @@
 অর্জুন	arjun	Nan
 অর্জুনকে	arjun	Nan
 অর্জুনের	ti arjun	Nan
-অর্ডার	bere fun	Nan
+অর্ডার	fun	None
 অলৌকিক	iseyanu	Nan
 অর্থ	owo	Nan
-অর্থনীতিকে	si aje naa	Nan
+অর্থনীতিকে	aje	None
 অর্থনীতিতে	ninu ọrọ-aje	Nan
 অর্থনীতিবিদ	oludokoowo	Nan
 অর্থনীতিবিদদের	awọn onimọ-ọrọ-aje	Nan
-অর্থনীতির	ti oro aje	Nan
+অর্থনীতির	aje	None
 অর্থনৈতিক	oro-aje	Nan
 অর্থনৈতিকভাবে	ni ti ọrọ-aje	Nan
 অর্থনীতি	eto-aje	Nan
 অর্জন	gbigba	Nan
-অল্প	kekere die	Nan
+অল্প	kekere	None
 অশোকের	ti ashoka	Nan
 অস্ট্রেলিয়া	australia	None
 অস্ট্রেলিয়ার	ilu ọstrelia	Nan
@@ -6413,7 +6413,7 @@
 অব্দে	abde	Nan
 অব্দের	apọju	Nan
 অব্যবহিত	lesekese	Nan
-অব্যবহৃত	ti ko lo	Nan
+অব্যবহৃত	ko	None
 অব্যাহত	tẹsiwaju	Nan
 অব্যাহতি	ifaagun	Nan
 অবৈধ	aṣiṣe	Nan
@@ -6426,7 +6426,7 @@
 অভ্র	avro	Nan
 অমর	aikidi	Nan
 অমর্ত্য	aikidi	Nan
-অমানুষ	ọmọ eniyan	Nan
+অমানুষ	ọmọ	None
 অভ্যাস	awọn iṣe	Nan
 অমান্য	aigbọran	Nan
 অমিতাভ	amitabh	Nan
@@ -6436,7 +6436,7 @@
 অযোধ্যায়	ayodhya	Nan
 অর	tabi	None
 অরণ্য	igbo	Nan
-অমাবস্যা	osupa tuntun	Nan
+অমাবস্যা	tuntun	None
 অস্বীকৃতি	kọ	Nan
 অভ্যন্তরের	inu ilohunsoke	Nan
 অভ্যন্তরীন	ti inu	Nan
@@ -6444,11 +6444,11 @@
 অভিমত	ero	Nan
 অভিমুখে	si ọna	Nan
 অভিযাত্রী	olugbeja	Nan
-অভিযান	irin ajo	Nan
+অভিযান	ajo	None
 অভিযানে	lori irin-ajo naa	Nan
-অভিযানের	awọn irin ajo	Nan
+অভিযানের	ajo	None
 অভ্যন্তরে	ninu	Nan
-অভিযুক্ত	ti fi ẹsun kan	Nan
+অভিযুক্ত	kan	None
 অভিযোগে	awọn ẹdun ọkan	Nan
 অভিশাপ	eegun	Nan
 অভিষিক্ত	ororo	Nan
@@ -6460,7 +6460,7 @@
 অহিংস	non-iwa-ipa	Nan
 অহিংসা	non-iwa-ipa	Nan
 অ্যাংলো-ইন্ডিয়ান	anglo-indian	Nan
-আক্রান্তদের	ti kó àrùn	Nan
+আক্রান্তদের	àrùn	None
 আক্ষরিক	lọnkọọkan	Nan
 আখ্যা	akọle	Nan
 আখ্যায়িত	ti o lorukọ	Nan
@@ -6475,7 +6475,7 @@
 আগামী	itele	Nan
 আগুন	iná	Nan
 আগে	ṣaaju	Nan
-আক্রান্ত	ti kó àrùn	Nan
+আক্রান্ত	àrùn	None
 আক্রমণের	ti kolu	Nan
 আক্রমণে	ni kolu	Nan
 আক্রমণকারী	ajígun	Nan
@@ -6496,7 +6496,7 @@
 আকৃষ্ট	ni ifamọra	Nan
 আক্রমণ	ajagun	None
 আকাশগঙ্গা	ọna miliki	Nan
-আগেও	paapaa ṣaaju	Nan
+আগেও	paapaa	None
 আগের	tẹlẹ	Nan
 আগোরা	agora	Nan
 আজকাল	lasiko yii	Nan
@@ -6517,7 +6517,7 @@
 আটটি	mẹjọ	Nan
 আজারবাইজানের	ti azerbaijan	Nan
 আকরিক	ore	Nan
-আজও	paapaa loni	Nan
+আজও	paapaa	None
 আছেন	o wa	Nan
 আগ্নেয়	onina aruwo	Nan
 আগ্নেয়গিরি	onina	Nan
@@ -6583,10 +6583,10 @@
 আইবেরীয়	ara ilu iberian	Nan
 আইয়ুব	jóòbù	Nan
 আইরিশ	irish	Nan
-আইসল্যান্ড	ede iceland	Nan
-আইসল্যান্ডীয়	ede icelandic	Nan
+আইসল্যান্ড	iceland	None
+আইসল্যান্ডীয়	ede	None
 আইপি	ip	Nan
-আইসল্যান্ডের	ede icelandic	Nan
+আইসল্যান্ডের	ede	None
 আইসিসি	icc	Nan
 আইসোট্রপি	isotropy	Nan
 আউট	jade	Nan
@@ -6596,9 +6596,9 @@
 আওতায়	labẹ	Nan
 আইসি	ic	Nan
 আকবর	akbar	Nan
-আইনের	ti ofin	Nan
+আইনের	ofin	None
 আইনী	ofin	None
-আংশিক	apa kan	Nan
+আংশিক	kan	None
 আঃ	ah	Nan
 আই	i.	Nan
 আইই	ie	Nan
@@ -6607,7 +6607,7 @@
 আইন	ofin	None
 আইনে	ana	Nan
 আইনগত	ofin	None
-আইনত	ti ofin	Nan
+আইনত	ofin	None
 আইনসভা	ile-igbimọ aṣofin	Nan
 আইনসভায়	ninu ile igbimọ aṣofin	Nan
 আইনসভার	ile-igbimọ aṣofin	Nan
@@ -6615,8 +6615,8 @@
 আইনস্টাইনের	einstein	Nan
 আইনি	ofin	None
 আইনজীবী	agbẹjọro	Nan
-আটলান্টিক	ede atlantic	Nan
-অবহিত	ti sọ	Nan
+আটলান্টিক	ede	None
+অবহিত	sọ	None
 অবস্থার	ipo	None
 অতীতে	ni atijo	Nan
 অতীতের	ti o ti kọja	Nan
@@ -6628,7 +6628,7 @@
 অত্যাবশ্যক	pataki	Nan
 অথচ	ṣugbọn	Nan
 অথবা	tabi	None
-অদূরে	ko jina	Nan
+অদূরে	ko	None
 অদৃশ্য	alaihan	Nan
 অদ্বৈত	advaita	Nan
 অদ্ভুত	ajeji	Nan
@@ -6654,13 +6654,13 @@
 অতিথি	alejo	Nan
 অতিবাহিত	ti kọja	Nan
 অতটা	o n niyen	Nan
-অঞ্চলেও	paapaa ni agbegbe	Nan
+অঞ্চলেও	paapaa	None
 অধিকন্তু	pẹlupẹlu	Nan
 অধিকাংশই	pupọ	Nan
 অধ্যক্ষ	olori	Nan
 অধ্যয়ন	ikẹkọ	Nan
-অধ্যয়নে	ninu iwadi	Nan
-অধ্যয়নের	ti iwadi	Nan
+অধ্যয়নে	iwadi	None
+অধ্যয়নের	iwadi	None
 অধ্যাপক	ọjọgbọn	Nan
 অধ্যাপকের	ọjọgbọn	Nan
 অধ্যায়	orí	Nan
@@ -6708,7 +6708,7 @@
 অক্ষরে	ni awọn lẹta	Nan
 অক্ষরের	ti awọn lẹta	Nan
 অক্ষাংশ	latitude	Nan
-অক্ষের	ti awọn ipo	Nan
+অক্ষের	ipo	None
 অক্সফোর্ড	oxford	Nan
 অক্সাইড	oxide	Nan
 অংশে	ni apakan	Nan
@@ -6733,8 +6733,8 @@
 অংশগ্রহণের	ikopa	Nan
 অংকিত	yiya	Nan
 অক্সিজেনের	ti atẹgun	Nan
-অখ্রিষ্টান	ti ki nṣe kristiẹni	Nan
-অগত্যা	ko ṣe dandan	Nan
+অখ্রিষ্টান	ki	None
+অগত্যা	dandan	None
 অঙ্গুরীমাল	awọn ika ọwọ	Nan
 অঙ্গের	awọn ọwọ	Nan
 অচিরেই	laipẹ	Nan
@@ -6761,9 +6761,9 @@
 অগ্রগতি	ilọsiwaju	Nan
 অগ্রগতির	ti ilọsiwaju	Nan
 অগ্রগমন	ilọsiwaju	Nan
-অগ্রগামী	aṣáájú ọ̀nà	Nan
+অগ্রগামী	ọ̀nà	None
 অঙ্গরাজ্যের	ti ipinle	Nan
-অগ্রণী	aṣáájú ọ̀nà	Nan
+অগ্রণী	ọ̀nà	None
 অগ্রসর	siwaju	Nan
 অঙ্ক	awọn nọmba naa	Nan
 অঙ্কন	yiya	Nan
@@ -6824,14 +6824,14 @@
 অবলম্বন	idapada	Nan
 অবসর	ifẹhinti lẹnu iṣẹ	Nan
 অবস্থা	ipo	None
-অবস্থাকে	ipo naa	Nan
+অবস্থাকে	ipo	None
 অবস্থাতেই	ni iyẹn	Nan
 অবস্থান	ipo	None
-অবস্থানে	ni ipo	Nan
-অবস্থানের	ti ipo	Nan
+অবস্থানে	ipo	None
+অবস্থানের	ipo	None
 অবস্থায়	ni majemu	Nan
 অবসান	ipari	Nan
-অন্যতম	ọkan ninu wọn	Nan
+অন্যতম	wọn	None
 অবরোধ	bode	Nan
 অববাহিকায়	ninu agbọn	Nan
 অফিসে	ninu ọfiisi	Nan
@@ -6854,7 +6854,7 @@
 অবস্থিত	be	Nan
 অন্যটি	ekeji	None
 অন্ধ্র	andhra	Nan
-অনুমান	gboju le won pe	Nan
+অনুমান	le	None
 অনুমিত	sawon	Nan
 অনুমোদন	ifọwọsi	Nan
 অনুমোদিত	ti a fọwọsi	Nan
@@ -6883,7 +6883,7 @@
 অনুষ্ঠিত	gbọdọ	Nan
 অনুন্নত	underdeveloped	Nan
 অনুপাত	iwọntunwọnsi	Nan
-অনুপাতের	ti awọn ipin	Nan
+অনুপাতের	ipin	None
 অনুপ্রবেশ	ohun elo ikọwe	Nan
 অনুপ্রাণিত	ti ni atilẹyin	Nan
 অনুপ্রেরণা	awokose	Nan
@@ -6901,11 +6901,11 @@
 অন্তরক	insulator	Nan
 অন্তরীণ	ti inu	Nan
 অনেকে	ọpọlọpọ	Nan
-অন্তর্গত	yoo si	Nan
+অন্তর্গত	yoo	None
 অন্তর্বর্তী	agbedemeji	Nan
 অন্তর্বর্তীকালীন	igba	Nan
-অন্তর্ভুক্ত	to wa	Nan
-অন্তর্ভূক্ত	to wa	Nan
+অন্তর্ভুক্ত	to	None
+অন্তর্ভূক্ত	to	None
 অন্তিম	eyi tio gbeyin	Nan
 অন্ধকার	dudu	Nan
 অন্ধকারাচ্ছন্ন	dudu	Nan
@@ -6920,7 +6920,7 @@
 অনুসারে	gẹgẹ bi	Nan
 অনুসিদ্ধান্ত	ipari	Nan
 অনুসূর	anusur	Nan
-অনেকাংশে	fun julọ apakan	Nan
+অনেকাংশে	fun	None
 অনুসূরের	anusur	Nan
 অনূদিত	itumọ	Nan
 অনেক	awọn ọpọlọpọ	Nan
@@ -6932,7 +6932,7 @@
 অনুসৃত	tẹle	Nan
 আটলান্টিকের	ti atlantic	Nan
 আঠারো	mejidilogun	Nan
-আড়াই	meji ati idaji	Nan
+আড়াই	idaji	None
 ইন্দির	indir	Nan
 ইন্দিরা	indira	Nan
 ইন্দোআর্য	indo-aryan	Nan
@@ -6956,7 +6956,7 @@
 ইনকারা	incara	Nan
 ইনপুট	input	Nan
 ইনফরমেশন	alaye	Nan
-ইনস্টল	fi sori ẹrọ	Nan
+ইনস্টল	fi	None
 ইনস্টিটিউট	ilé-ìwé	Nan
 ইনস্টিটিউটের	ti institute	Nan
 ইমারত	ile	Nan
@@ -6993,7 +6993,7 @@
 ইরান	iran	Nan
 ইমেজ	aworan	Nan
 ইয়র্ক	york	None
-ইয়র্কের	ti york	Nan
+ইয়র্কের	york	None
 ইয়াং	omode	Nan
 ইয়ার	odun	Nan
 ইয়াহিয়া	yahya	Nan
@@ -7054,7 +7054,7 @@
 ইতালির	ilu italia	Nan
 ইতালীয়	ilu italia	Nan
 ইতি	iti	Nan
-ইতিবাচক	iwa rere	Nan
+ইতিবাচক	rere	None
 ইতিমধ্যে	tẹlẹ	Nan
 ইতিহাস	itan-akọọlẹ	Nan
 ইতালি	ilu italia	Nan
@@ -7094,7 +7094,7 @@
 উদিত	dide	Nan
 উদ্দিন	uddin	Nan
 উদ্দেশ্য	idi	Nan
-উদ্দেশ্যে	fun idi	Nan
+উদ্দেশ্যে	fun	None
 উদ্ধার	igbala	Nan
 উদ্ধৃতি	awọn agbasọ	Nan
 উদ্বাস্তু	asasala	Nan
@@ -7105,8 +7105,8 @@
 উদ্ভব	oti	Nan
 উদ্ভবের	ti oti	Nan
 উদ্ভাবক	onigbowo	None
-উদাহরণস্বরূপ	fun apere	Nan
-উদাহরণস্বরুপ	fun apere	Nan
+উদাহরণস্বরূপ	fun	None
+উদাহরণস্বরুপ	fun	None
 উদাহরণ	apẹẹrẹ	Nan
 উদাসীন	alainaani	Nan
 উত্তরাধিকার	ogún	Nan
@@ -7163,10 +7163,10 @@
 উন্নতির	ti ilọsiwaju	Nan
 উন্নয়ন	idagbasoke	None
 উন্নয়নশীল	dagbasoke	None
-উন্নয়নে	ni idagbasoke	Nan
-উন্নয়নের	ti idagbasoke	Nan
+উন্নয়নে	idagbasoke	None
+উন্নয়নের	idagbasoke	None
 উন্নত	onitẹsiwaju	Nan
-ইংরেজির	ni ede gẹẹsi	Nan
+ইংরেজির	ede	None
 উত্তরাঞ্চলে	ni ariwa	Nan
 উত্তরপূর্বে	ariwa iwọ-oorun	Nan
 উইকিপিডিয়ায়	lori wikipedia	Nan
@@ -7181,13 +7181,13 @@
 উইলসন	wilson	Nan
 উইলিয়াম	william	Nan
 উইলে	yoo	None
-উক্ত	iyẹn sọ	Nan
+উক্ত	sọ	None
 উক্তি	sọ	None
 উচিত	yẹ	Nan
 উইকিপিডিয়াবাংলা	wikipediabangla	Nan
 উইকিপিডিয়া	wikipedia	Nan
 উইকি	wiki	Nan
-উঁচুতে	gbe ga	Nan
+উঁচুতে	gbe	None
 ইস্ট্রোজেন	estrogen	Nan
 ইস্তফা	ifiweranṣẹ	Nan
 ইস্পাত	irin	Nan
@@ -7245,14 +7245,14 @@
 উঠতে	dide	Nan
 উঠিয়ে	dide	Nan
 উচ্চারিত	ti kede	Nan
-ইংরেজিতে	ni ede gẹẹsi	Nan
+ইংরেজিতে	ede	None
 ইংরেজি	gẹẹsi	Nan
 ইংরেজরা	gẹẹsi naa	Nan
 আবর্তন	yiyi	Nan
 আবর্তিত	yiyi	Nan
 আবশ্যক	beere	Nan
 আবশ্যিক	beere	Nan
-আবহাওয়া	oju ojo	Nan
+আবহাওয়া	ojo	None
 আবহাওয়ার	oju ọjọ	Nan
 আবার	lẹẹkansi	Nan
 আবাসস্থল	hábátì	Nan
@@ -7262,7 +7262,7 @@
 আবির্ভূত	han	Nan
 আবিষ্কার	awari	None
 আবিষ্কারক	awari	None
-আবিষ্কারের	ti awari	Nan
+আবিষ্কারের	awari	None
 আবরণ	bo	Nan
 আবদ্ধ	àla	Nan
 আবদুস	abdus	Nan
@@ -7274,7 +7274,7 @@
 আফগান	ara ilu afiganisitani	Nan
 আফগানিস্তান	afiganisitani	Nan
 আফগানিস্তানে	ni afiganisitani	Nan
-আবিষ্কৃত	se awari	Nan
+আবিষ্কৃত	awari	None
 আফগানিস্তানের	ti afiganisitani	Nan
 আফ্রিকা	afirika	Nan
 আফ্রিকাকে	afirika	Nan
@@ -7285,7 +7285,7 @@
 আবদুর	abdur	Nan
 আফিম	opi	Nan
 আবিস্কার	awari	None
-আবিস্কৃত	se awari	Nan
+আবিস্কৃত	awari	None
 আবু	abu	Nan
 আমিরাত	ile-iṣẹ emirates	Nan
 আমিরাতের	ile-iṣẹ emirates	Nan
@@ -7304,7 +7304,7 @@
 আয়ত্ত	mina	Nan
 আয়ন	ioni	Nan
 আমেরিকার	amẹrika	Nan
-আপাতত	ni bayi	Nan
+আপাতত	bayi	None
 আমি	emi	Nan
 আমাদের	wa	Nan
 আবুল	abul	Nan
@@ -7338,7 +7338,7 @@
 আদিবাসীদের	arakunrin abinibi	Nan
 আদিবাসীরা	eniyan abinibi	Nan
 আদিম	ni akọkọ	Nan
-আদেশ	bere fun	Nan
+আদেশ	fun	None
 আদেশে	ni eto	Nan
 আদৌ	rara	Nan
 আধান	idapo	Nan
@@ -7405,7 +7405,7 @@
 আনা	mu	Nan
 উপত্যকায়	ninu afonifoji	Nan
 আয়নিত	ionized	Nan
-আয়াত	awọn ẹsẹ	Nan
+আয়াত	ẹsẹ	None
 আলোর	imọlẹ	Nan
 আল্পস	alẹ	Nan
 আল্লাহ	ọlọrun	Nan
@@ -7452,7 +7452,7 @@
 আহবান	pe	Nan
 আহমদ	ahmed	Nan
 আহমদের	ahmed	Nan
-আস্তে	fi ọwọ	Nan
+আস্তে	fi	None
 আহমেদ	ahmed	Nan
 আহরণ	isediwon	Nan
 আহ্বান	pe	Nan
@@ -7481,10 +7481,10 @@
 আসাম	arabinrin	Nan
 আসার	lati wa	Nan
 আসিয়ান	asean	Nan
-আসবে	yoo wa	Nan
+আসবে	yoo	None
 আয়রন	iron	Nan
 আলীর	ali	Nan
-আলিঙ্গন	gba esin	Nan
+আলিঙ্গন	gba	None
 আরমাডিলো	armadillo	Nan
 আরম্ভ	bibẹrẹ	Nan
 আরাকান	arakan	Nan
@@ -7496,15 +7496,15 @@
 আরেকটি	omiiran	Nan
 আরো	diẹ sii	Nan
 আরোপ	fa	Nan
-আরোপিত	ti fi ofin si	Nan
+আরোপিত	ofin	None
 আরোহণ	gígun	Nan
 আরোহন	gígun	Nan
 আরোহী	lọ si	Nan
 আরবের	arabawa	Nan
 আরবে	ni arabia	Nan
-আরবিতে	ni ede arabic	Nan
-আরবি	dè lárúbáwá	Nan
-আয়াত=	awọn ẹsẹ =	Nan
+আরবিতে	ede	None
+আরবি	lárúbáwá	None
+আয়াত=	ẹsẹ	None
 আয়ারল্যান্ড	orile-ede ireland	Nan
 আয়ারল্যান্ডের	ti ireland	Nan
 আয়ু	igbesi aye	Nan
@@ -7521,7 +7521,7 @@
 আরব	arabawa	Nan
 আরবদের	awọn ara larubawa	Nan
 আয়োজনের	ṣiṣe eto	Nan
-আর্কাইভ	ile ifi nkan pamosi	Nan
+আর্কাইভ	nkan	None
 আর্কিওপ্টেরিক্স	archeopteryx	Nan
 আর্কিমিডিস	archimedes	Nan
 আলকেমি	aluku	Nan
@@ -7577,7 +7577,7 @@
 নজরুলের	nazrul	Nan
 নজরে	ni a wo	Nan
 নতুন	tuntun	None
-নতুনভাবে	ni ọna tuntun	Nan
+নতুনভাবে	tuntun	None
 নথিপত্র	awọn iwe aṣẹ	Nan
 নকশার	oniru	Nan
 নকশায়	ninu apẹrẹ	Nan
@@ -7643,9 +7643,9 @@
 ধূসর	grey	Nan
 ধূলিকণা	eeru	Nan
 ধরার	o yẹ	Nan
-ধরে	da duro	Nan
-ধরেই	fun igba pipẹ	Nan
-ধরেন	da duro	Nan
+ধরে	da	None
+ধরেই	fun	None
+ধরেন	da	None
 ধর্ম	esin	Nan
 ধর্মকে	esin	Nan
 ধর্মগ্রন্থ	awọn iwe mimọ	Nan
@@ -7671,8 +7671,8 @@
 ধর্মবিশ্বাসের	ti ẹsin	Nan
 দ্রাঘিমাংশ	gigun gigun	Nan
 দ্রুত	sare	Nan
-ধনাত্বক	iwa rere	Nan
-ধনাত্মক	iwa rere	Nan
+ধনাত্বক	rere	None
+ধনাত্মক	rere	None
 ধনী	ọlọrọ	Nan
 ধনুক	ọrun	Nan
 ধরণ	iru	Nan
@@ -7681,7 +7681,7 @@
 ধর্মমত	esin	Nan
 ধর্মান্তরিত	yipada	None
 ধর্মাবলম্বী	esin	Nan
-ধারণার	awọn ilana	Nan
+ধারণার	ilana	None
 ধারণাসমূহ	awọn imọran	Nan
 ধারন	idaduro	Nan
 ধারনা	awọn imọran	Nan
@@ -7714,7 +7714,7 @@
 ধাপে	igbese nipa igbese	Nan
 ধাবিত	ṣiṣe	Nan
 ধার	borrow	Nan
-ধারক	gba eiyan	Nan
+ধারক	gba	None
 ধারণ	idaduro	Nan
 ধারণক্ষমতা	agbara	None
 ধান	paddy	Nan
@@ -7732,7 +7732,7 @@
 নিজেই	nipa ararẹ	Nan
 নিজেও	arami	Nan
 নিজেকে	arami	Nan
-নিজেদের	ara wọn	Nan
+নিজেদের	wọn	None
 নিজেদেরকে	tiwa	Nan
 নিজের	ni	Nan
 নিটটন	knitton	Nan
@@ -7758,7 +7758,7 @@
 নিক্ষেপের	sisọ	Nan
 নিকটে	nitosi	None
 নিতে	lati mu	Nan
-নিতেন	yoo gba	Nan
+নিতেন	gba	None
 নিত্য	nigbagbogbo	Nan
 নিম্নলিখিত	atẹle naa	Nan
 নিম্নে	ni isalẹ	Nan
@@ -7772,25 +7772,25 @@
 নিয়ন্ত্রন	iṣakoso	Nan
 নিয়ন্ত্রনের	ti iṣakoso	Nan
 নিয়ন্ত্রিত	iṣakoso	Nan
-নিয়ম	awọn ofin	Nan
-নিয়মকানুন	awọn ofin	Nan
+নিয়ম	ofin	None
+নিয়মকানুন	ofin	None
 নিয়মতান্ত্রিক	t’olofin	Nan
 নিয়মিত	deede	Nan
 নিয়ন্ত্রণের	ti iṣakoso	Nan
 নিউটনের	ti newton	Nan
-নিম্নভূমিতে	ni awon ilu kekere	Nan
+নিম্নভূমিতে	kekere	None
 নিম্ন	kekere	None
-নিদর্শণ	awọn ilana	Nan
-নিদর্শন	awọn ilana	Nan
-নিদর্শনের	awọn ilana	Nan
+নিদর্শণ	ilana	None
+নিদর্শন	ilana	None
+নিদর্শনের	ilana	None
 নিপীড়িত	oyan lara	Nan
 নিবদ্ধ	idojukọ	Nan
 নিবন্ধ	nkan	None
 নিবন্ধঃ	abala:	Nan
-নিম্নভূমি	awọn ilẹ kekere	Nan
-নিবন্ধটি	nkan naa	Nan
+নিম্নভূমি	kekere	None
+নিবন্ধটি	nkan	None
 নিবন্ধে	ninu ọrọ naa	Nan
-নিবন্ধের	ti nkan naa	Nan
+নিবন্ধের	nkan	None
 নিবাস	ile	Nan
 নিবিড়	aladanla	Nan
 নিবেদন	ìyàsímímọ́	Nan
@@ -7869,7 +7869,7 @@
 নারীবাদ	feminism	Nan
 নামীয়	ti o lorukọ	Nan
 নামেই	ni orukọ	Nan
-নামেও	paapaa ni orukọ	Nan
+নামেও	paapaa	None
 নামের	ti orukọ	Nan
 নাম্বার	awọn nọmba	Nan
 নায়ক	akọni	Nan
@@ -7886,7 +7886,7 @@
 দিচ্ছে	fifun	Nan
 দিত	gee	Nan
 দিতে	fún	Nan
-দিতেন	yoo fun	Nan
+দিতেন	fun	None
 দিন	ọjọ	Nan
 দিনই	ọjọ	Nan
 দিনগুলিতে	ni awọn ọjọ	Nan
@@ -7937,16 +7937,16 @@
 দীর্ঘমেয়াদী	igba gígun	Nan
 দীর্ঘদিন	o tojo meta	Nan
 দীর্ঘতম	awọn gunjulo	Nan
-দিয়েও	paapaa pẹlu	Nan
+দিয়েও	paapaa	None
 দিয়েছিল	gee	Nan
 দিয়েছিলেন	gee	Nan
 দিয়েছে	gee	Nan
 দিয়েছেন	gee	Nan
 দিল	dil	Nan
-দিলে	ti o ba fun	Nan
+দিলে	fun	None
 দিব্য	divya	Nan
 দিলেন	gee	Nan
-দিল্লিতে	ni ilu delhi	Nan
+দিল্লিতে	delhi	None
 দিল্লির	delhi	None
 দিল্লী	delhi	None
 দীক্ষা	ipilẹṣẹ	Nan
@@ -7964,7 +7964,7 @@
 দলগুলোর	ti awọn ẹgbẹ	Nan
 দলটি	ẹgbẹ naa	Nan
 দলটিকে	si ẹgbẹ naa	Nan
-দলটির	ti egbe naa	Nan
+দলটির	egbe	None
 দলিত	dalit	Nan
 দলিল	awọn iwe aṣẹ	Nan
 দলীয়	ẹgbẹ	Nan
@@ -8014,7 +8014,7 @@
 দায়ী	lodidi	Nan
 দাবীর	awọn ibeere	Nan
 দুজনের	ti meji	Nan
-দাদা	baba agba	Nan
+দাদা	agba	None
 দাতব্য	awọn oore-ọfẹ	Nan
 দশটি	mẹwa	Nan
 দশম	kẹrin	None
@@ -8053,7 +8053,7 @@
 দেশীয়	ilu abinibi	Nan
 দেশ	orilẹ-ede	Nan
 দেরি	pẹ	Nan
-দের	ti wọn	Nan
+দের	wọn	None
 দেয়৷	fifun 6	Nan
 দেবতারা	awọn oriṣa	Nan
 দেবদেবী	olohun	None
@@ -8063,10 +8063,10 @@
 দেবীকে	olohun	None
 দেবীর	olohun	None
 দেশে	ninu ilu	Nan
-দেবে	yoo fun	Nan
+দেবে	fun	None
 দেয়	fifun	Nan
-দেয়নি	ṣe ko	Nan
-দেয়া	ti a fun	Nan
+দেয়নি	ko	None
+দেয়া	fun	None
 দেয়ার	fún	Nan
 দেয়াল	odi	Nan
 দেয়ালে	lori ogiri	Nan
@@ -8096,7 +8096,7 @@
 দ্বার	ilekun	Nan
 দ্বন্দ্ব	rogbodiyan	None
 দেহভস্ম	ru	Nan
-দেহাবশেষ	o ku	Nan
+দেহাবশেষ	ku	None
 দেহে	ninu ara	Nan
 দেহের	ti ara	Nan
 দৈনন্দিন	lojojumo	Nan
@@ -8108,7 +8108,7 @@
 দৈহিক	ti ara	Nan
 দোকান	ile itaja	Nan
 দোকানে	ninu ile itaja	Nan
-দোষারোপ	ja rẹ	Nan
+দোষারোপ	rẹ	None
 দোষী	ẹbi	Nan
 দৌড়ে	ran	Nan
 দৈর্ঘ্যে	ni gigun	Nan
@@ -8136,7 +8136,7 @@
 দুর্নীতি	iwa ibajẹ	Nan
 দুটো	meji	Nan
 দুধ	wara	Nan
-দুনিয়ার	ti agbaye	Nan
+দুনিয়ার	agbaye	None
 দুবছর	odun meji	Nan
 দুবার	lemeji	Nan
 দুভাগে	ni awọn ẹya meji	Nan
@@ -8157,19 +8157,19 @@
 দেখায়	awọn ifihan	Nan
 দেখার	lati ri	Nan
 দেখাশোনা	o dabọ	Nan
-দেখি	jẹ ki a ri	Nan
+দেখি	ki	None
 দেখিয়ে	ifihan	Nan
-দেখিয়েছেন	ti fihan	Nan
+দেখিয়েছেন	fihan	None
 দেখুন	wo	Nan
 দেখানো	ifihan	Nan
 দেখে	wo	Nan
 দেখেছেন	ṣọ	Nan
 দেখেন	wo	Nan
-দেখেনি	ko ri	Nan
-দেড়	ọkan ati idaji	Nan
+দেখেনি	ko	None
+দেড়	idaji	None
 দেন	fifun	Nan
 দেন৷	fifun 6	Nan
-দেব	mo ti yoo	Nan
+দেব	yoo	None
 দেখেছিলেন	sawon	Nan
 দেবতা	ọlọrun	Nan
 দেখান	fihan	None
@@ -8181,17 +8181,17 @@
 দৃষ্টিগোচর	hihan	Nan
 দৃষ্টিতে	ni oju	Nan
 দৃষ্টিভঙ্গি	ihuwasi	Nan
-দেখাতে	lati fihan	Nan
-দৃষ্টিভঙ্গিতে	ni irisi	Nan
+দেখাতে	fihan	None
+দৃষ্টিভঙ্গিতে	irisi	None
 দে	fifun	Nan
-দেওয়া	ti a fun	Nan
+দেওয়া	fun	None
 দেওয়ান	dewan	Nan
 দেওয়ার	fún	Nan
 দেখতে	lati ri	Nan
 দেখতেন	lo lati ri	Nan
 দেখলে	ti o ba ri	Nan
 দৃষ্টিভঙ্গির	ihuwasi	Nan
-নিয়মের	ti awọn ofin	Nan
+নিয়মের	ofin	None
 নিয়ামক	adarí	Nan
 নিয়ে	pẹlu	Nan
 পর্যবেক্ষণের	ti akiyesi	Nan
@@ -8244,8 +8244,8 @@
 পাকান্ত্রবিদ্যা	hosipitu omode	Nan
 পাকিস্তান	pakistan	Nan
 পাকিস্তানকে	pakistan	Nan
-পাকিস্তানি	ede pakistani	Nan
-পাকিস্তানী	ede pakistani	Nan
+পাকিস্তানি	ede	None
+পাকিস্তানী	ede	None
 পাকিস্তানে	ni ilu pakistan	Nan
 পাকিস্তানের	ti pakistan	Nan
 পাইন	pine	Nan
@@ -8257,10 +8257,10 @@
 পশুর	ẹranko	Nan
 পশ্চাৎ	pada	Nan
 পশ্চিম	oorun	Nan
-পশ্চিমবঙ্গ	west bengal	Nan
-পশ্চিমবঙ্গে	ni west bengal	Nan
+পশ্চিমবঙ্গ	bengal	None
+পশ্চিমবঙ্গে	bengal	None
 পল্লী	igberiko	None
-পশ্চিমবঙ্গের	west bengal	Nan
+পশ্চিমবঙ্গের	bengal	None
 পশ্চিমাঞ্চলীয়	oorun	Nan
 পশ্চিমে	si iwọ-oorun	Nan
 পশ্চিমের	ti oorun	Nan
@@ -8274,7 +8274,7 @@
 পর্দা	iboju	Nan
 পরিবেশের	ti ayika	Nan
 পরিব্যাপ্ত	ṣawakiri	Nan
-পরিব্রাজক	arin ajo	Nan
+পরিব্রাজক	ajo	None
 পরিভাষায়	ni ẹkọ nipa itan	Nan
 পরিভ্রমণ	lilọ kiri	Nan
 পরিমাণ	iye	Nan
@@ -8319,7 +8319,7 @@
 পরে	nigbamii	Nan
 পরেই	laipẹ lẹhin	Nan
 পরীক্ষানিরীক্ষার	idanwo	Nan
-পরেও	paapaa nigbamii	Nan
+পরেও	paapaa	None
 পরোক্ষভাবে	ni taara	Nan
 পর্তুগাল	ilu pọtugali	Nan
 পর্তুগালে	ni ilu pọtugali	Nan
@@ -8333,7 +8333,7 @@
 পরীক্ষণের	idanwo	Nan
 পরিষেবা	isẹ	Nan
 পরিষেবার	isẹ	Nan
-পরিষ্কার	ko o	Nan
+পরিষ্কার	ko	None
 পরিসংখ্যান	awọn iṣiro	Nan
 পরিসংখ্যানিক	iṣiro	Nan
 পরিসংখ্যানের	ti awọn iṣiro	Nan
@@ -8343,7 +8343,7 @@
 পরিসেবা	isẹ	Nan
 পরিস্থিতি	ipo	None
 পরিস্থিতিতে	labẹ awọn ayidayida	Nan
-পরিস্থিতির	ti ipo	Nan
+পরিস্থিতির	ipo	None
 পরিহিত	ti wọ	Nan
 পরীক্ষণ	idanwo	Nan
 পরীক্ষণমূলক	esiperimenta	Nan
@@ -8353,10 +8353,10 @@
 পাখিরা	awọn ẹyẹ	Nan
 পালি	pali	Nan
 পালিত	ayeye	Nan
-পালিয়ে	sa fun	Nan
+পালিয়ে	fun	None
 পাশ	apa	Nan
 পাশা	si ṣẹ	Nan
-পাশে	ti o tele	Nan
+পাশে	tele	None
 পাশেই	ẹnu ọna miiran	Nan
 পাশের	ẹnu ọna miiran	Nan
 পাশ্চাত্য	oorun	Nan
@@ -8366,14 +8366,14 @@
 পাহাড়	awọn oke-nla	Nan
 পাহাড়ি	.kè	Nan
 পাহাড়ী	oke	Nan
-পালাতে	lati sa fun	Nan
+পালাতে	fun	None
 পালনের	ti akiyesi	Nan
 পালন	akiyesi	Nan
 পালক	awọn iyẹ ẹyẹ	Nan
-পারেননি	ṣe ko	Nan
-পারেনা	ko le	Nan
-পারেনি	ṣe ko	Nan
-পার্ক	agba duro	Nan
+পারেননি	ko	None
+পারেনা	le	None
+পারেনি	ko	None
+পার্ক	agba	None
 পার্টি	ẹgbẹ	Nan
 পার্টির	ti ẹgbẹ naa	Nan
 পার্থক্য	iyatọ naa	Nan
@@ -8390,7 +8390,7 @@
 পাহাড়ের	ninu awon oke	Nan
 পি	p	Nan
 পিঁপড়া	skúta	Nan
-পিতামহ	baba agba	Nan
+পিতামহ	agba	None
 পিতামাতা	awọn obi	Nan
 পিতামাতার	awọn obi	Nan
 পিতার	bàbá	None
@@ -8405,12 +8405,12 @@
 পীত	yellow	Nan
 পুঁজি	olu	Nan
 পুঁজিবাদ	kapitalisimu	Nan
-পুঁজিবাদি	oloye obinrin	Nan
+পুঁজিবাদি	oloye	None
 পিয়ারসন	piasoni	Nan
 পারেন	le	None
 পিঠে	lori ẹhin	Nan
 পিটার	pétérù	Nan
-পিউপিল	awọn ọmọ ile-iwe	Nan
+পিউপিল	ọmọ	None
 পিউবিক	agbejade	Nan
 পিএইচডি	ojú	Nan
 পিএইচপি	php	Nan
@@ -8431,7 +8431,7 @@
 পারে	le	None
 পারিপার্শ্বিক	aye kaakiri	Nan
 পাঠের	awọn ẹkọ	Nan
-পাঠ্যক্রম	iwe eko	Nan
+পাঠ্যক্রম	eko	None
 পাঠ্যপুস্তক	iwe ẹkọ	Nan
 পাড়ি	gbe	None
 পাণিনির	panini	Nan
@@ -8466,14 +8466,14 @@
 পাঠাতে	lati firanṣẹ	Nan
 পাঠান	firanṣẹ	Nan
 পাটীগণিত	apẹrẹ	Nan
-পাদটীকা	ẹsẹ iwe	Nan
-পাদদেশে	ni ẹsẹ	Nan
+পাদটীকা	ẹsẹ	None
+পাদদেশে	ẹsẹ	None
 পান	mu	Nan
-পারবে	o le	Nan
-পারবেন	o le	Nan
+পারবে	le	None
+পারবেন	le	None
 পারমাণবিক	atomiki	Nan
 পারমানবিক	iparun	Nan
-পারলে	ti o ba le	Nan
+পারলে	le	None
 পারষ্পরিক	idapada	Nan
 পারসি	percy	Nan
 পারতো	le	None
@@ -8483,30 +8483,30 @@
 পারস্য	páṣíà	Nan
 পারস্যের	ti persia	Nan
 পারা	le	None
-পারি	mo le	Nan
+পারি	le	None
 পারিতোষিক	ère	Nan
 পারসোনাল	ti ara ẹni	Nan
 পারিবারিক	idile	Nan
 পারতেন	le	None
 পার	agbelebu	Nan
-পাননি	ko ri gba	Nan
+পাননি	gba	None
 পানামা	panama	Nan
 পানি	omi	None
-পানিতে	ninu omi	Nan
-পানির	ti omi	Nan
+পানিতে	omi	None
+পানির	omi	None
 পানীয়	awọn ounjẹ	Nan
 পান্ডা	panda	Nan
 পারত	le	None
 পাপ	ẹṣẹ	Nan
 পাবলিক	gbangba	Nan
 পাবার	lati mu	Nan
-পাবে	yoo gba	Nan
-পাবেন	yoo gba	Nan
+পাবে	gba	None
+পাবেন	gba	None
 পায়	n ni	Nan
-পায়নি	ko ri gba	Nan
+পায়নি	gba	None
 পায়ে	esè	Nan
 পাবনা	pabna	Nan
-পরিপ্রেক্ষিতে	ti a ba nso nipa	Nan
+পরিপ্রেক্ষিতে	nso	None
 পরিপূর্ণ	kun	Nan
 পরিনত	yipada	None
 নেতাদের	awọn oludari	Nan
@@ -8548,12 +8548,12 @@
 নেপাল	nẹfisi	Nan
 নেপালি	nẹfali	Nan
 নেপালে	ni nepal	Nan
-নোবেলজয়ী	loureate nobel	Nan
+নোবেলজয়ী	nobel	None
 নোভা	nova	Nan
 নোয়াখালী	noakhali	Nan
 নোয়াখালীর	noakhali	Nan
-নৌ	ọmọ ogun	Nan
-নৌকা	ọkọ oju-omi kekere	Nan
+নৌ	ogun	None
+নৌকা	kekere	None
 নৌবাহিনীর	ọgagun	Nan
 নোবেল	nobel	None
 ন্যস্ত	iṣẹ iyansilẹ	Nan
@@ -8588,18 +8588,18 @@
 ন্যূনতম	o kere ju	Nan
 নীহারিকার	nela	Nan
 নীল	bulu	Nan
-নির্গত	ti gba	Nan
+নির্গত	gba	None
 নির্ণয়	okunfa	Nan
 নির্ণয়ে	ninu ayẹwo	Nan
 নির্ণয়ের	okunfa	Nan
 নির্দিষ্ট	pato	Nan
-নির্দেশ	awọn ilana	Nan
+নির্দেশ	ilana	None
 নির্দেশক	atọkasi	Nan
-নির্দেশনা	awọn ilana	Nan
+নির্দেশনা	ilana	None
 নির্দেশনায়	labẹ itọsọna naa	Nan
 নির্দেশিকা	awọn itọsọna	Nan
 নির্দেশিত	itọsọna	Nan
-নির্দেশে	lori awọn ilana	Nan
+নির্দেশে	ilana	None
 নির্দ্দিষ্ট	pato	Nan
 নির্ধারণ	ipinnu	Nan
 নির্ধারণে	ninu ipinnu	Nan
@@ -8619,7 +8619,7 @@
 নিরঙ্কুশ	idi	Nan
 নিরপেক্ষ	aarin	Nan
 নিরসনের	o ga	Nan
-নিরস্ত্র	ohun ija ko ṣiṣẹ	Nan
+নিরস্ত্র	ko	None
 নিরাপত্তা	aabo	Nan
 নিরাপত্তার	aabo	Nan
 নিরাপদ	ailewu	Nan
@@ -8632,7 +8632,7 @@
 নিশ্চিতভাবেই	pato	Nan
 নিষিদ্ধ	dena	Nan
 নিষেকক্রিয়া	irọyin	Nan
-নিষেধাজ্ঞা	ifi ofin de	Nan
+নিষেধাজ্ঞা	ofin	None
 নিষ্ক্রিয়	ṣiṣẹ	Nan
 নিলে	nile	Nan
 নিষ্ঠুর	onjẹ	Nan
@@ -8641,7 +8641,7 @@
 নীতি	eto imulo	Nan
 নীতিকে	eto imulo	Nan
 নীতিগত	eya	None
-নীতিমালা	awọn ilana imulo	Nan
+নীতিমালা	ilana	None
 নীতির	ti eto imulo	Nan
 নিহত	pa	Nan
 নীহারিকা	nela	Nan
@@ -8649,8 +8649,8 @@
 নির্মিত	itumọ ti	Nan
 নির্বাচনে	ninu idibo	Nan
 নির্বাচনের	ti idibo	Nan
-নির্বাচিত	ti a ti yan	Nan
-নির্বাসিত	ti ilẹ okeere	Nan
+নির্বাচিত	yan	None
+নির্বাসিত	okeere	None
 নির্বাহ	ipaniyan	Nan
 নির্বাহী	alase	Nan
 নির্ভর	o gbẹkẹle	Nan
@@ -8668,7 +8668,7 @@
 প	প	Nan
 পক্ষ	ẹgbẹ	Nan
 পরই	lẹhinna	Nan
-পরও	paapaa lẹhin	Nan
+পরও	paapaa	None
 পরগনার	pargana	Nan
 পরদিন	ni ijọ keji	Nan
 পরপর	ninu aṣeyọri	Nan
@@ -8679,7 +8679,7 @@
 পরবর্তীকালে	nigbamii	Nan
 পরবর্তীকালের	t’okan	Nan
 পরবর্তীতে	itele	Nan
-পরম	egba pipe	Nan
+পরম	egba	None
 পরমহংস	paramahansa	Nan
 পরমহংসের	paramahansa	Nan
 পর	lẹhin	Nan
@@ -8755,14 +8755,14 @@
 পড়ে	ṣubu	Nan
 পড়েছিল	fell	Nan
 পড়েছিলেন	ka	Nan
-পড়েছে	rirẹ ojo	Nan
+পড়েছে	ojo	None
 পড়েন	ka	Nan
 পণ্ডিত	omowe	Nan
 পণ্ডিতের	ti omowe	Nan
 পণ্য	awọn ọja	Nan
 পণ্যের	ọja	Nan
 পড়লে	ti o ba ka	Nan
-পড়বে	yoo ka	Nan
+পড়বে	yoo	None
 পড়তে	lati ka	Nan
 পঠন	kíka	Nan
 পক্ষপাতী	biwọ	Nan
@@ -8788,7 +8788,7 @@
 পদক্রম	hierarchy	Nan
 পদক্ষেপ	igbesẹ	Nan
 পদটি	oro naa	Nan
-পদতলে	ẹsẹ labẹ	Nan
+পদতলে	ẹsẹ	None
 পদত্যাগ	ifiweranṣẹ	Nan
 পদার্থ	nkankan	Nan
 পদার্থকে	lati ṣe pataki	Nan
@@ -8802,11 +8802,11 @@
 পদার্থবিদ্যায়	ni fisiksi	Nan
 পদার্থের	ti ọrọ	Nan
 পদার্থবিজ্ঞান	fisiksi	Nan
-পদে	ninu ẹsẹ	Nan
-পদ	awọn ofin	Nan
+পদে	ẹsẹ	None
+পদ	ofin	None
 পথে	loju ọna	Nan
 পতাকাটির	ti asia	Nan
-পতাকাবিধি	awọn ofin asia	Nan
+পতাকাবিধি	ofin	None
 পতাকায়	àsíá	Nan
 পতাকার	àsíá	Nan
 পতিত	lọ silẹ	Nan
@@ -8842,8 +8842,8 @@
 চেনা	ti idanimọ	Nan
 চুক্তির	ti adehun	Nan
 চুক্তি	adehun	Nan
-চীনের	ti china	Nan
-চীনে	ni china	Nan
+চীনের	china	None
+চীনে	china	None
 চিপ	hiprún	Nan
 চিপের	hiprún	Nan
 চির	ayeraye	Nan
@@ -8853,8 +8853,8 @@
 চিরহরিৎ	lailai	Nan
 চেম্বার	iyẹwu	Nan
 চিরায়ত	ayeraye	Nan
-চিলি	ede chile	Nan
-চিলির	ede chile	Nan
+চিলি	ede	None
+চিলির	ede	None
 চিহ্ন	samisi	Nan
 চিহ্নিত	ti samisi	Nan
 চিৎকার	ẹ pariwo	Nan
@@ -8926,7 +8926,7 @@
 চাঁদ	osupa	Nan
 চাঁদে	lori oṣupa	Nan
 চাঁদের	osupa	Nan
-চাই	yoo fẹ	Nan
+চাই	yoo	None
 চাইতে	lati beere	Nan
 চাইলে	ti o ba fe	Nan
 চার্লস	charles	None
@@ -8968,7 +8968,7 @@
 চালানোর	lati ṣiṣẹ	Nan
 চালায়	gbalaye	Nan
 চালিকাশক্তি	wiwakọ	Nan
-চালিত	agbara nipasẹ blogger	Nan
+চালিত	agbara	None
 চিকিৎসার	itọju	Nan
 চালিয়ে	tẹsiwaju	Nan
 চালুক্য	chalukya	Nan
@@ -8993,10 +8993,10 @@
 জবাবে	ni esi	Nan
 জমা	ifakalẹ	Nan
 জমি	ilẹ	None
-জমিতে	lori ilẹ	Nan
+জমিতে	ilẹ	None
 জমিদার	onile	Nan
 জমিদারদের	awọn onile	Nan
-জমির	ti ilẹ	Nan
+জমির	ilẹ	None
 জন্মস্থান	ibi ti a ti bi ni	Nan
 জন্মদিন	ọjọ ibi	Nan
 জন্মগ্রহণ	bibi	Nan
@@ -9006,7 +9006,7 @@
 জনপ্রিয়	gbajumo	Nan
 জনপ্রিয়তম	olokiki julọ	Nan
 জনপ্রিয়তা	gbajumo	Nan
-জনপ্রিয়তার	ti gbale	Nan
+জনপ্রিয়তার	gbale	None
 জনবসতি	ipinlese	Nan
 জমে	ti tutun	Nan
 জনবহুল	gbọdọ	Nan
@@ -9022,14 +9022,14 @@
 জয়ন্তী	jubili	Nan
 জয়লাভ	gba	None
 জলমণ্ডল	aye	Nan
-জলরাশি	iye omi	Nan
+জলরাশি	omi	None
 জলাধার	ifisilẹ	Nan
 জলাভূমি	awọn ile olomi	Nan
 জলাশয়	ifisilẹ	Nan
 জলীয়	omi-omi	Nan
-জলে	ninu omi	Nan
+জলে	omi	None
 জলবিদ্যুৎ	agbara	None
-জলের	ti omi	Nan
+জলের	omi	None
 জাকির	zakir	Nan
 জাতি	ije	None
 জাতিকে	si orilẹ-ede naa	Nan
@@ -9040,10 +9040,10 @@
 জহির	zaheer	Nan
 জনতার	awọn eniyan	Nan
 জলবায়ুর	afefe	Nan
-জলপথ	awọn ọna omi	Nan
+জলপথ	omi	None
 জয়লাভের	ti isegun	Nan
 জয়া	jaya	Nan
-জয়ী	ti gba	Nan
+জয়ী	gba	None
 জয়ের	ti isegun	Nan
 জরায়ু	ti ile-	Nan
 জরিপ	iwadi	None
@@ -9061,9 +9061,9 @@
 চল্লিশ	mẹrin	Nan
 জনতা	awọn eniyan	Nan
 জনগোষ্ঠীর	ti olugbe	Nan
-ছাত্ররা	awọn ọmọ ile-iwe	Nan
-ছাত্রী	ọmọ ile-iwe	Nan
-ছাত্রের	ti awọn ọmọ ile-iwe	Nan
+ছাত্ররা	ọmọ	None
+ছাত্রী	ọmọ	None
+ছাত্রের	ọmọ	None
 ছাদ	orule	Nan
 ছাপা	ti tẹjade	Nan
 ছাপানো	ti tẹjade	Nan
@@ -9074,12 +9074,12 @@
 ছায়াপথসমূহের	ti awọn galaxies	Nan
 ছায়াপথের	galaxy	Nan
 ছায়ার	awọn ojiji	Nan
-ছিটিয়ে	pé kí wọn	Nan
+ছিটিয়ে	wọn	None
 ছিন্ন	pipin	Nan
-ছাত্রদের	awọn ọmọ ile-iwe	Nan
-ছাত্রছাত্রীদের	awọn ọmọ ile-iwe	Nan
-ছাত্রছাত্রী	awọn ọmọ ile-iwe	Nan
-ছাত্র	ọmọ ile-iwe	Nan
+ছাত্রদের	ọmọ	None
+ছাত্রছাত্রীদের	ọmọ	None
+ছাত্রছাত্রী	ọmọ	None
+ছাত্র	ọmọ	None
 ছবি	awọn aworan	Nan
 ছবিটি	aworan	Nan
 ছবিটিকে	aworan	Nan
@@ -9097,7 +9097,7 @@
 ছাড়িয়ে	ti n lọ kọja	Nan
 ছাড়ে	lọ	Nan
 ছয়টি	mefa	Nan
-ছিলনা	nibẹ je ko	Nan
+ছিলনা	ko	None
 ছিলেন	jẹ	Nan
 ছিলো	jẹ	Nan
 জগন্নাথ	jagannath	Nan
@@ -9107,7 +9107,7 @@
 জটিলতা	ilolu	Nan
 জড়িত	lilọwọsi	Nan
 জড়িয়ে	lilọwọsi	Nan
-জগতের	ti agbaye	Nan
+জগতের	agbaye	None
 জড়ো	kó	Nan
 জনক	bàbá	None
 জনকে	jòhánù	Nan
@@ -9118,7 +9118,7 @@
 জনগোষ্ঠী	olugbe	Nan
 জন	jòhánù	Nan
 জনঘনত্ব	iwuwo olugbe	Nan
-জগতে	ni agbaye	Nan
+জগতে	agbaye	None
 জওহরলাল	jawaharlal	None
 ছুটি	isinmi	Nan
 ছুটির	awọn isinmi	Nan
@@ -9159,7 +9159,7 @@
 গোদাবরী	godavari	Nan
 গোত্রের	ti ẹya	Nan
 গোত্রকে	si ẹya	Nan
-গৃহীত	ti gba	Nan
+গৃহীত	gba	None
 গেছে	lọ	Nan
 গেছেন	lọ	Nan
 গেট	ẹnu-bode	Nan
@@ -9168,7 +9168,7 @@
 গেরিলা	guerrilla	Nan
 গোল্ডেন	wẹwẹ	Nan
 গেরুয়া	gerua	Nan
-গেলে	ti o ba le	Nan
+গেলে	le	None
 গেলেও	paapa ti o ba jẹ	Nan
 গেলেন	lọ	Nan
 গোটা	gbogbo	Nan
@@ -9176,7 +9176,7 @@
 গোড়ার	tete	Nan
 গোত্র	ẹyà	Nan
 গেল	lọ	Nan
-গৃহযুদ্ধের	ogun abẹlé	Nan
+গৃহযুদ্ধের	ogun	None
 গোষ্ঠী	ẹgbẹ	Nan
 গোসল	balùwẹ	Nan
 গ্রহ	aye	Nan
@@ -9209,19 +9209,19 @@
 গ্যালিলিওর	galileo	Nan
 গ্যাসীয়	gase	Nan
 গ্যাসের	ti gaasi	Nan
-গ্রথিত	ti fi sii	Nan
+গ্রথিত	fi	None
 গ্রন্থ	awọn iwe	Nan
 গ্রন্থটি	iwe	Nan
 গ্রন্থপঞ্জি	iwe itan	Nan
 গ্রন্থাগার	ile-ikawe	Nan
 গ্যাস	gaasi	Nan
-গৃহযুদ্ধে	ninu ogun abele	Nan
-গৃহযুদ্ধ	ogun abẹlé	Nan
+গৃহযুদ্ধে	ogun	None
+গৃহযুদ্ধ	ogun	None
 গৃহপালিত	ti ni ile	Nan
 গার্ডেন	ọgba	Nan
 গার্ল	ọmọbinrin	Nan
 গালিচা	capeti	Nan
-গালিলেও	paapaa ni galileo	Nan
+গালিলেও	paapaa	None
 গালিলেওর	galileo	Nan
 গিটার	gita	Nan
 গিনি	guinea	None
@@ -9345,7 +9345,7 @@
 চলছে	ti nlọ lọwọ	Nan
 চলক	orisirisi	None
 চলতি	lọwọlọwọ	Nan
-চলবে	yoo tesiwaju	Nan
+চলবে	yoo	None
 চলমান	ṣiṣe	Nan
 চলা	lati rin	Nan
 চলাকালীন	lakoko	Nan
@@ -9395,12 +9395,12 @@
 গ্রিকরা	awọn hellene	Nan
 গ্রিকদের	awọn hellene	Nan
 গ্রিক	griki	Nan
-গ্রাফাইট	eya gilasi	Nan
+গ্রাফাইট	eya	None
 গ্রাফিক্যাল	ti ayaworan	Nan
-গ্রাফিক্স	eya aworan	Nan
-গ্রাফিক্‌স	eya aworan	Nan
+গ্রাফিক্স	eya	None
+গ্রাফিক্‌স	eya	None
 গ্রাম	abule	Nan
-গ্রামাঞ্চলে	ni igberiko	Nan
+গ্রামাঞ্চলে	igberiko	None
 গ্রামার	grammar	Nan
 গ্রেপ্তার	dide	Nan
 গ্রামীণ	agbegbe	Nan
@@ -9417,7 +9417,7 @@
 গ্লোব	globe	Nan
 ঘটে	ṣẹlẹ	Nan
 ঘটেছে	yiyalo	Nan
-ঘটেনি	ko ṣẹlẹ	Nan
+ঘটেনি	ko	None
 ঘড়ি	aago	Nan
 ঘড়ির	aago	Nan
 ঘণ্টা	belii naa	Nan
@@ -9425,7 +9425,7 @@
 ঘটিয়েছিলেন	fa	Nan
 ঘন	iku	None
 ঘনত্বের	ti iwuwo	Nan
-ঘনবসতিপূর্ণ	densely gbe jade	Nan
+ঘনবসতিপূর্ণ	gbe	None
 ঘনিষ্ঠ	pade	Nan
 ঘনিষ্ঠভাবে	ni pẹkipẹki	Nan
 ঘন্টা	awọn wakati	Nan
@@ -9446,24 +9446,24 @@
 ঘটনাবলির	ti awọn iṣẹlẹ	Nan
 ঘটনায়	ninu iṣẹlẹ	Nan
 ঘটনার	ti awọn iṣẹlẹ	Nan
-ঘটবে	yoo ṣẹlẹ	Nan
+ঘটবে	yoo	None
 ঘটলে	ti o ba ṣẹlẹ	Nan
 ঘটাতে	lati fa	Nan
 ঘটান	fa	Nan
 ঘটানো	lati fa	Nan
 ঘটনাবলী	awọn iṣẹlẹ	Nan
-জাতিসংঘ	igbimọ gbogboogbo ti orilẹ-ede agbaye	Nan
+জাতিসংঘ	agbaye	None
 জাতিসংঘের	un	Nan
 জাতীয়	orilẹ-ede	Nan
 তল	ipakà	Nan
-তলায়	lori ilẹ	Nan
-তলে	lori ilẹ	Nan
-তলের	lori ilẹ	Nan
+তলায়	ilẹ	None
+তলে	ilẹ	None
+তলের	ilẹ	None
 তহবিল	igbeowo	Nan
 তা	iyẹn	Nan
 তাঁকে	oun	None
 তাঁদের	wọn	None
-তাঁদেরকে	si wọn	Nan
+তাঁদেরকে	wọn	None
 তাঁর	tirẹ	Nan
 তাঁরই	tirẹ	Nan
 তাঁরা	wọn	None
@@ -9484,7 +9484,7 @@
 তাক	aṣọ	Nan
 তদানিন্তন	lẹhinna	Nan
 তন্ত্রের	tantra	Nan
-তন্মধ্যে	lára wọn	Nan
+তন্মধ্যে	wọn	None
 তবু	ṣi	Nan
 তবুও	ṣi	Nan
 তবে	sibẹsibẹ	Nan
@@ -9496,7 +9496,7 @@
 তাছাড়া	pẹlupẹlu	Nan
 তামাক	taba	Nan
 তামার	ejò	Nan
-তামিল	ede tamili	Nan
+তামিল	ede	None
 তার	tirẹ	Nan
 তারই	tirẹ	Nan
 তারও	iyẹn naa	Nan
@@ -9505,23 +9505,23 @@
 তারতম্য	yatọ	Nan
 তারতম্যের	yatọ	Nan
 তারপর	lẹhinna	Nan
-তারপরও	paapaa lẹhinna	Nan
+তারপরও	paapaa	None
 তারবিহীন	alailowaya	Nan
 তারা	wọn	None
 তারাই	wọn	None
 তামা	ejò	Nan
 তাপীয়	igbona	Nan
-তাপমাত্রার	ti iwọn otutu	Nan
-তাপমাত্রায়	ni iwọn otutu	Nan
+তাপমাত্রার	otutu	None
+তাপমাত্রায়	otutu	None
 তাছাড়াও	pẹlupẹlu	Nan
 তাজ	ade	Nan
 তাজউদ্দিন	tajuddin	Nan
 তাজউদ্দীন	tajuddin	Nan
-তাজমহল	the taj mahal	Nan
+তাজমহল	the	None
 তাজমহলের	ti taj mahal	Nan
 তাজিকিস্তান	tajikistan	Nan
-তাকেই	si oun	Nan
-তাতে	ninu iyen	Nan
+তাকেই	oun	None
+তাতে	iyen	None
 তাদের	wọn	None
 তাদেরকে	wọn	None
 তান্ত্রিক	tantric	Nan
@@ -9543,7 +9543,7 @@
 ডেনমার্ক	egeskov	Nan
 ডেনমার্কের	ti denmark	Nan
 ডেনিস	dennis	Nan
-ডেনীয়	ede danish	Nan
+ডেনীয়	ede	None
 ডেপুটি	igbakeji	Nan
 ডেবিয়ান	debian	Nan
 ডেভিড	dáfídì	Nan
@@ -9580,7 +9580,7 @@
 তত	o n niyen	Nan
 ততোটা	o n niyen	Nan
 তখনকার	ni igba yen	Nan
-ততোধিক	paapaa diẹ sii	Nan
+ততোধিক	paapaa	None
 তত্ত্ব	yii	Nan
 তত্ত্বকে	si yii	Nan
 তত্ত্বগত	imọ-iṣe	Nan
@@ -9590,7 +9590,7 @@
 তত্ত্বীয়	imọ-iṣe	Nan
 তত্কালীন	ni igba na	Nan
 তারাটির	ti irawo	Nan
-তখনও	paapaa lẹhinna	Nan
+তখনও	paapaa	None
 তখন	lẹhinna	Nan
 ডেস্কটপের	lori deskitọpu	Nan
 ডোমেইন	ase	Nan
@@ -9603,7 +9603,7 @@
 ঢাকায়	ni dhaka	Nan
 ঢাল	iho	Nan
 ঢালু	iho	Nan
-ঢুকিয়ে	fi sii	Nan
+ঢুকিয়ে	fi	None
 ঢেউ	awọn igbi	Nan
 ঢেকে	bo	Nan
 ঢোল	awọn ilu	Nan
@@ -9618,11 +9618,11 @@
 থাই	thai	Nan
 থাইল্যান্ড	thailand	Nan
 থাইল্যান্ডের	ti thailand	Nan
-থাকত	yoo ni	Nan
+থাকত	yoo	None
 থাকতে	lati duro	Nan
-থাকতেন	ti gbé	Nan
-থাকতো	yoo ni	Nan
-থাকবে	o maa wa nibe	Nan
+থাকতেন	gbé	None
+থাকতো	yoo	None
+থাকবে	nibe	None
 থাকবেন	duro	Nan
 থাকলে	ti o ba wa	Nan
 থাকলেও	ti o ba ti e je pe	Nan
@@ -9631,7 +9631,7 @@
 ত্রুটি	aṣiṣe	Nan
 ত্রিশ	ọgbọn	Nan
 ত্রিমূর্তি	metalokan	Nan
-তোলেন	ki asopọ	Nan
+তোলেন	ki	None
 ত্বরণ	ifọkantan	Nan
 ত্বরান্বিত	accelerated	Nan
 ত্যাগ	itusilẹ	Nan
@@ -9657,18 +9657,18 @@
 দক্ষতার	ti ṣiṣe	Nan
 দক্ষভাবে	daradara	Nan
 দক্ষিণ	guusu	None
-দক্ষিণপশ্চিম	iwọ oorun guusu	Nan
+দক্ষিণপশ্চিম	guusu	None
 থ্রাকে	ireti	Nan
-দক্ষিণপশ্চিমে	ni guusu iwọ-oorun	Nan
-দক্ষিণপূর্বে	guusu ila oorun	Nan
+দক্ষিণপশ্চিমে	guusu	None
+দক্ষিণপূর্বে	guusu	None
 দক্ষিণাঞ্চল	gúúsù	None
 দক্ষিণাঞ্চলীয়	gúúsù	None
-দক্ষিণে	si guusu	Nan
+দক্ষিণে	guusu	None
 দক্ষিণের	gúúsù	None
 দক্ষিণেশ্বর	dakshineswara	Nan
 দক্ষিণেশ্বরে	ni dakshineswar	Nan
-দক্ষিণপূর্বাঞ্চলে	ni guusu ila oorun	Nan
-তোলে	ki asopọ	Nan
+দক্ষিণপূর্বাঞ্চলে	guusu	None
+তোলে	ki	None
 থেসেউস	awọn wọnyi	Nan
 থেমিস	ẹ̀kọ́	None
 থাকে	duro	Nan
@@ -9689,10 +9689,10 @@
 থেকেছেন	duro	Nan
 থিম	akori	Nan
 ডিএনএস	dns	Nan
-তোলার	lati gbe	Nan
+তোলার	gbe	None
 তোরভাল্দ্‌স	awọn ipọnju	Nan
 তিনি	oun	None
-তিনিই	oun ni	Nan
+তিনিই	oun	None
 তিব্বত	tibet	Nan
 তিব্বতি	tibet	Nan
 তিব্বতের	ti tibet	Nan
@@ -9734,7 +9734,7 @@
 তেরেসা	teresa	Nan
 তেরেসার	teresa	Nan
 তেল	epo	Nan
-তেলুগু	ede telugu	Nan
+তেলুগু	ede	None
 তেলের	ti epo	Nan
 তৈমুর	aago	Nan
 তেমনই	o n niyen	Nan
@@ -9747,26 +9747,26 @@
 তোমাদের	tirẹ	Nan
 তোমার	tirẹ	Nan
 তৈরিতে	ni ṣiṣe	Nan
-তোলা	gbe soke	Nan
+তোলা	gbe	None
 তেমন	o n niyen	Nan
 তে	ninu	Nan
-তুলতে	lati gbe soke	Nan
+তুলতে	gbe	None
 তুলনা	ifiwera	Nan
 তুলনামূলক	afiwe	Nan
 তুলনামূলকভাবে	ni afiwera	Nan
 তুলনায়	ni ifiwera	Nan
 তুলা	owu	Nan
-তুলে	gbe soke	Nan
+তুলে	gbe	None
 তেজস্ক্রিয়	ohun ipanilara	Nan
-তুলেছিল	ti gbe	Nan
-তুলেছে	ti gbe	Nan
-তুলেন	ti gbe	Nan
+তুলেছিল	gbe	None
+তুলেছে	gbe	None
+তুলেন	gbe	None
 তুষার	yinyin	Nan
 তুসো	tussauds	Nan
 তৃণভূমি	koriko	Nan
 তৃণমূল	awọn aroko	Nan
 তৃতীয়	kẹta	None
-তুলেছিলেন	ti gbe	Nan
+তুলেছিলেন	gbe	None
 ডিএনএর	dna	Nan
 ডিএনএতে	ninu dna	Nan
 ডিএনএ	dna	Nan
@@ -9801,14 +9801,14 @@
 জীব	awọn ẹda	Nan
 জীবকে	si eda	Nan
 জীবগোষ্ঠীর	ti awọn fauna	Nan
-জীবজগতের	ti aye n gbe	Nan
-জীবদ্দশায়	ni igbesi aye kan	Nan
+জীবজগতের	gbe	None
+জীবদ্দশায়	kan	None
 জীবন	igbesi aye	Nan
 জীবনকে	si igbesi aye	Nan
 জিলহজ্জ	jilhaj	Nan
 জুড়ে	kọja	Nan
 জুড়েই	jakejado	Nan
-জুন	oṣu karun	Nan
+জুন	karun	None
 জেলাসমূহ	awọn agbegbe	Nan
 জেলে	apẹja	Nan
 জৈন	jain	Nan
@@ -9830,7 +9830,7 @@
 জেলায়	ni agbegbe	Nan
 জেল	jaili	Nan
 জুনে	ni oṣu june	Nan
-জুনের	oṣu karun	Nan
+জুনের	karun	None
 জুল	ju	Nan
 জুলাই	oṣu keje	Nan
 জুলাইসেপ্টেম্বর	oṣu keje-kẹsán	Nan
@@ -9864,7 +9864,7 @@
 জাভার	java	Nan
 জামে	jámánì	Nan
 জাম্বুরা	eso girepufurutu	Nan
-জানিয়ে	ti sọ	Nan
+জানিয়ে	sọ	None
 জানি	mo mo	Nan
 জানালা	ferese naa	Nan
 জানার	lati mọ	Nan
@@ -9879,10 +9879,10 @@
 জাদুঘর	ile ọnọ	Nan
 জানতে	lati mọ	Nan
 জানা	lati mọ	Nan
-জানাই	jẹ ki n mọ	Nan
-জানাতে	lati sọ	Nan
-জানান	jẹ ki n mọ	Nan
-জানানো	ti sọ	Nan
+জানাই	ki	None
+জানাতে	sọ	None
+জানান	ki	None
+জানানো	sọ	None
 জানায়	ti o royin	Nan
 জানত	mọ	Nan
 জায়গায়	ni aaye	Nan
@@ -9891,22 +9891,22 @@
 জি	bẹẹni	Nan
 জিউসের	ti zeus	Nan
 জিএসএম	gsm	Nan
-জিওডেসিক	awọn ipin	Nan
+জিওডেসিক	ipin	None
 জিজ্ঞেস	béèrè	Nan
 জিটিকে+	gtk +	Nan
 জিডিপি	gdp	Nan
-জাহাজের	ti ọkọ oju omi	Nan
+জাহাজের	omi	None
 জিডিপির	ti gdp	Nan
-জিতেছে	ti gba	Nan
+জিতেছে	gba	None
 জিন	gene	Nan
 জিনগত	jiini	Nan
 জিনতত্ত্ব	jiini	Nan
 জিনি	ginny	Nan
 জিনিস	ohun	Nan
-জিনিসের	ti awọn nkan	Nan
+জিনিসের	nkan	None
 জিতে	win	Nan
 জিনের	jean	Nan
-জাহাজে	lori ọkọ oju omi	Nan
+জাহাজে	omi	None
 জাহাঙ্গীরনগর	jahangirnagar	Nan
 জারি	ti oniṣowo	Nan
 জার্মান	jẹmánì	Nan
@@ -9914,11 +9914,11 @@
 জার্মানি	jẹmánì	Nan
 জার্মানিকে	jẹmánì	Nan
 জার্মানিতে	ni jaman	Nan
-জার্মানির	ti jẹ́mánì	Nan
-জাহাজ	awọn ọkọ oju omi	Nan
+জার্মানির	jẹ́mánì	None
+জাহাজ	omi	None
 জার্মানী	jẹmánì	Nan
 জার্মানীয়	jẹmánì	Nan
-জার্মানীর	ti jẹ́mánì	Nan
+জার্মানীর	jẹ́mánì	None
 জার্মেনিয়াম	germanium	Nan
 জার্সি	jẹ́ríà	Nan
 জাল	iro ohun	Nan
@@ -9980,7 +9980,7 @@
 ডায়োড	diode	Nan
 ডারউইন	darwin	Nan
 ডারউইনের	ti darwin	Nan
-ডাল	awọn ododo	Nan
+ডাল	ododo	None
 ডি	d	Nan
 ডিউক	duke	Nan
 ডানদিকে	ni apa ọtun	Nan
@@ -10059,7 +10059,7 @@
 টেনে	fa	Nan
 টেনোচতিৎলান	tenochatitlan	Nan
 টেবিল	tabili	None
-টেল	sọ fun	Nan
+টেল	fun	None
 টেলিগ্রাফ	tẹlifoonu	Nan
 টেলিফোন	tẹlifoonu	Nan
 টেক্সাসের	texas	Nan

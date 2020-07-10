@@ -956,7 +956,7 @@ osoble	osoble	Nan
 ossetia	ออสซีเชีย	Nan
 ostariya	ออสเตรเลีย	None
 ot	ot	Nan
-other	อื่น ๆ	Nan
+other	อื่น	None
 outlook	ภาพ	Nan
 overview	ภาพรวม	None
 ow	โอ๊ย	Nan
@@ -1352,9 +1352,9 @@ king	กษัตริย์	Nan
 kobash	การเจริญเติบโต	Nan
 kobcinta	การตกแต่ง	Nan
 kohay	kohay	Nan
-koobantahay	ถูก จำกัด	Nan
-koobantahy	ถูก จำกัด	Nan
-koobanyahay	ถูก จำกัด	Nan
+koobantahay	จำกัด	None
+koobantahy	จำกัด	None
+koobanyahay	จำกัด	None
 koobay	สรุป	Nan
 koobaya	สรุป	Nan
 koobayo	คัดลอก	Nan
@@ -1362,10 +1362,10 @@ koobayso	สรุป	Nan
 koobi	สำเนา	Nan
 koobkii	ถ้วย	None
 koobmaa	wraps	Nan
-koobnaa	ถูก จำกัด	Nan
+koobnaa	จำกัด	None
 koobnaan	สรุป	Nan
-koobnaayeen	ถูก จำกัด	Nan
-koobnayd	ถูก จำกัด	Nan
+koobnaayeen	จำกัด	None
+koobnayd	จำกัด	None
 koobo	ถ้วย	None
 kooban	สรุป	Nan
 koobaadmarkii	ครั้งแรกของคุณ	Nan
@@ -1455,7 +1455,7 @@ labaad	ที่สอง	Nan
 labaadna	ที่สอง	Nan
 labaatan	ยี่สิบ	Nan
 labaatanaad	ยี่สิบ	Nan
-kuyaala	รอบ ๆ คุณ	Nan
+kuyaala	คุณ	None
 labaatankii	ยี่สิบ	Nan
 labada	ทั้งสอง	Nan
 labadaa	ทั้งสอง	Nan
@@ -1582,7 +1582,7 @@ kaddib	หลังจาก	None
 kadhacady	เวลานี้	Nan
 kadhashay	คุณแพ้	Nan
 kalabaxaan	แยก	Nan
-kalana	อื่น ๆ	Nan
+kalana	อื่น	None
 kalandar	ปฏิทิน	Nan
 kalluunka	ปลา	None
 kalmada	คำ	Nan
@@ -1609,7 +1609,7 @@ kalasaaraha	ลักษณนาม	Nan
 kalasaaridda	การจัดหมวดหมู่	Nan
 kalawareeg	หมุนเวียน	Nan
 kalayihiin	แตกต่าง	Nan
-kale	อื่น ๆ	Nan
+kale	อื่น	None
 kacay	เกิดขึ้น	Nan
 kaleba	ด้วย	None
 kalena	อื่น	None
@@ -1839,7 +1839,7 @@ kastaba	อย่างไรก็ตาม	None
 karuur	รถยนต์	Nan
 karuurka	เพิ่มขึ้น	Nan
 kas	kas	Nan
-kasakhstan	จาก kabakhstan	Nan
+kasakhstan	จาก	None
 kasbaday	ได้รับ	None
 kashiisaba	ส่วนหนึ่งของพวกเขา	Nan
 kasi	เปล่า	Nan
@@ -2320,7 +2320,7 @@ lajnado	กับ	Nan
 lahirgaliyay	การดำเนินการ	None
 maastricht	maastricht	Nan
 liinta	ไม้เช่นมะนาว	Nan
-limited	ถูก จำกัด	Nan
+limited	จำกัด	None
 maalintii	ระหว่างวัน	Nan
 maalintuu	วันของเขา	Nan
 maaliyada	เสื้อเชิ้ต	Nan
@@ -3535,7 +3535,7 @@ xagaagii	ตอนหน้าร้อน	Nan
 xagaas	ที่นั่น	Nan
 xagga	จาก	None
 xaggaaga	ถึงคุณ	Nan
-xadka	ขีด จำกัด	Nan
+xadka	จำกัด	None
 xadiiskan	สุนัตนี้	Nan
 xadiiska	สุนัต	Nan
 xadhig	เชือก	Nan
@@ -3872,7 +3872,7 @@ shinema	เปล่งปลั่ง	Nan
 shingaani	อุปสรรค	Nan
 shiniile	จระเข้	Nan
 shir	การประชุม	Nan
-shirakadahani	บริษัท เหล่านี้	Nan
+shirakadahani	เหล่านี้	None
 shirarkii	การประชุม	Nan
 shirdahan	สำหรับการประชุมเหล่านี้	Nan
 shire	มณฑล	Nan
@@ -3882,9 +3882,9 @@ shirkad	บริษัท	Nan
 shirkada	บริษัท	Nan
 shirkadaha	บริษัท	Nan
 shirkadahaas	บริษัท เหล่านั้น	Nan
-shirkadahan	บริษัท เหล่านี้	Nan
+shirkadahan	เหล่านี้	None
 shineemo	โรงภาพยนตร์	Nan
-shirkadahani	บริษัท เหล่านี้	Nan
+shirkadahani	เหล่านี้	None
 shimbiruhu	นก	None
 shimbiraha	นก	None
 shige	พอดี	Nan
@@ -4940,7 +4940,7 @@ subag	เนย	None
 subax	ตอนเช้า	Nan
 subayr	อ้วน	Nan
 subscriber	สมาชิก	Nan
-style=fontsize	style = fontsize	Nan
+style=fontsize	=	None
 subsystem	ระบบย่อย	Nan
 such	อย่างเช่น	Nan
 sucuudiga	ซาอุดีอาระเบีย	Nan
@@ -4991,7 +4991,7 @@ ciise	พระเยซู	Nan
 cirid	เหงือก	Nan
 cirifka	ท้องฟ้า	Nan
 ciriiri	แคบ	Nan
-ckariin	อื่น ๆ	Nan
+ckariin	อื่น	None
 claahi	claahi	Nan
 clahi	clahi	Nan
 clinton	คลินตัน	Nan
@@ -5209,7 +5209,7 @@ colkayagii	ศัตรูของเรา	Nan
 college	วิทยาลัย	Nan
 colombia	โคลอมเบีย	None
 colow	colow	Nan
-colspan=	colspan =	Nan
+colspan=	=	None
 cufanka	มวล	Nan
 communication	การสื่อสาร	None
 computers	คอมพิวเตอร์	Nan
@@ -6094,7 +6094,7 @@ deegaan	สิ่งแวดล้อม	Nan
 december	ธันวาคม	Nan
 dec	ธันวาคม	Nan
 dayactir	ซ่อมแซม	None
-dayar	อื่น ๆ	Nan
+dayar	อื่น	None
 dayax	ดวงจันทร์	Nan
 dayaxa	ดวงจันทร์	Nan
 dayay	พยายาม	Nan
@@ -6266,7 +6266,7 @@ ameerikada	อเมริกัน	None
 america	สหรัฐอเมริกา	None
 amarada	คำสอน	Nan
 anad	anad	Nan
-align=right	จัด = ขวา	Nan
+align=right	=	None
 alifay	ตัวอักษร	Nan
 ahmiyada	ความสำคัญ	Nan
 ahn	อา	Nan
@@ -7631,7 +7631,7 @@ hoyn	ที่พักอาศัย	Nan
 httpsowikipediaorgwikidigiliyomirifle	httpsowikipediaorgwikidigiliyomirifle	Nan
 httpwwwfreewebscominawarfaa	httpwwwfreewebscominawarfaa	Nan
 httpwwwfreewebscominawarfaaindexhtm	httpwwwfreewebscominawarfaaindexhtm	Nan
-httpwwwyoutubecomwatchv=lzyegdtes	httpwwwyoutubecomwatchv = lzyegdtes	Nan
+httpwwwyoutubecomwatchv=lzyegdtes	=	None
 huang	huang	Nan
 hub	อาวุธ	Nan
 hubaal	แน่ใจ	Nan
@@ -8067,7 +8067,7 @@ jaamac	มหาวิทยาลัย	None
 iyagu	พวกเขา	Nan
 jaamaca	มหาวิทยาลัย	None
 iyagoon	ศีล	Nan
-iyagana	ข้อ จำกัด	Nan
+iyagana	จำกัด	None
 itoopiya	การพักผ่อนหย่อนใจ	Nan
 itopiyanka	การละลาย	Nan
 its	ของมัน	None
@@ -8203,7 +8203,7 @@ isticmaalaha	ผู้ใช้งาน	Nan
 jakarta	ถุง	Nan
 jama	คน	Nan
 jamaal	ผู้คน	Nan
-jiita	5 นาที	Nan
+jiita	นาที	None
 jiitaan	พ่วง	Nan
 jijeele	เทียม	Nan
 jilaa	นักแสดงชาย	Nan
@@ -8417,7 +8417,7 @@ important	สำคัญ	Nan
 immam	อิหม่าม	Nan
 imaarad	มือสมัครเล่น	Nan
 imaatay	มาถึง	Nan
-imagekaahinjpg|daahir	imagekaahinjpg | บริสุทธิ์	Nan
+imagekaahinjpg|daahir	บริสุทธิ์	None
 imagekontulan	imagekontulan	Nan
 imagem	จินตนาการของฉัน	Nan
 imagemadaxwaynahaygajpg|siilaanyo	รูปภาพของ mygojpg |	Nan

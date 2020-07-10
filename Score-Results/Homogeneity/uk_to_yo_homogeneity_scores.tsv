@@ -57,7 +57,7 @@
 противагу	counterweight	Nan
 проти	lodi si	Nan
 протесту	ifihan	Nan
-простежується	le tọpinpin	Nan
+простежується	le	None
 простий	o rọrun	Nan
 простих	rọrun	Nan
 просто	nirọrun	Nan
@@ -79,7 +79,7 @@
 продукту	ọja	Nan
 проводити	ihuwasi	Nan
 проводить	lati ṣakoso	Nan
-проводиться	ti gbe jade	Nan
+проводиться	gbe	None
 проводом	okun waya	Nan
 проводу	okun waya	Nan
 проводять	na	Nan
@@ -128,8 +128,8 @@
 продукт	ọja	Nan
 продукти	awọn ọja	Nan
 продуктивних	iṣelọpọ	Nan
-продуктивності	ise sise	Nan
-продуктивність	ise sise	Nan
+продуктивності	sise	None
+продуктивність	sise	None
 продуктом	ọja	Nan
 продовження	itesiwaju	Nan
 продажу	awọn tita	Nan
@@ -154,7 +154,7 @@
 програми	awọn eto	Nan
 професійні	ọjọgbọn	Nan
 прохання	beere	Nan
-проходження	fi aye	Nan
+проходження	fi	None
 піднебіння	aafin	Nan
 піднесення	igbega	Nan
 підпис	ibuwọlu	Nan
@@ -184,7 +184,7 @@
 підрозділ	ẹyọkan	Nan
 півфінал	agbedemeji	Nan
 підвищення	pọ si	Nan
-підводних	wa labe omi	Nan
+підводних	omi	None
 підготовка	igbaradi	Nan
 підготовки	idanileko	Nan
 підготовку	idanileko	Nan
@@ -205,7 +205,7 @@
 пізнього	ti pẹ	Nan
 пізній	pẹ	Nan
 пізніше	nigbamii	Nan
-пізніше 	nigbamii	Nan
+пізніше	nigbamii	Nan
 пізніших	nigbamii	Nan
 пізніші	nigbamii	Nan
 пікассо	picasso	Nan
@@ -256,19 +256,19 @@
 проходили	koja	Nan
 проходить	lati kọja	Nan
 проходять	rekoja	Nan
-процедури	awọn ilana	Nan
+процедури	ilana	None
 процес	ilana	None
-процесами	awọn ilana	Nan
+процесами	ilana	None
 публікацій	jẹ ti	Nan
-процесах	awọn ilana	Nan
+процесах	ilana	None
 процесом	ilana	None
 процесора	ero isise	Nan
 процесу	ilana	None
 процесі	ilana	None
-процесів	awọn ilana	Nan
+процесів	ilana	None
 прояви	awọn ifihan	Nan
 проявляється	ṣafihan funrararẹ	Nan
-процеси	awọn ilana	Nan
+процеси	ilana	None
 публікації	jẹ ti	Nan
 публіцист	gbangba	Nan
 публічних	gbangba	Nan
@@ -277,10 +277,10 @@
 південні	guusu	None
 південній	guusu	None
 південь	guusu	None
-півдня	idaji ọjọ	Nan
+півдня	idaji	None
 півдні	guusu	None
-південносхідної	guusu ila oorun	Nan
-півдні 	guusu	Nan
+південносхідної	guusu	None
+півдні	guusu	None
 півночі	ariwa	Nan
 північ	ariwa	Nan
 північна	ariwa	Nan
@@ -299,7 +299,7 @@
 пушкін	pushkin	Nan
 пушкіна	pushkin	Nan
 пшениця	alikama	Nan
-південнозахідній	guusu iwọ-oorun	Nan
+південнозахідній	guusu	None
 пшениці	alikama	Nan
 пять	marun	Nan
 пєс	aja	Nan
@@ -325,7 +325,7 @@
 практиці	adaṣe	Nan
 практичне	ilowo	Nan
 практичних	ilowo	Nan
-практично	di oba	Nan
+практично	oba	None
 практичної	ilowo	Nan
 прагне	craves	Nan
 праві	ni ọtun	Nan
@@ -435,9 +435,9 @@
 правда	ooto	Nan
 правди	ooto	Nan
 правду	ooto	Nan
-правил	awọn ofin	Nan
-правила	awọn ofin	Nan
-правилами	awọn ofin	Nan
+правил	ofin	None
+правила	ofin	None
+правилами	ofin	None
 правило	ṣàkóso	Nan
 правильний	tọ	Nan
 правильно	ni ọtun	Nan
@@ -470,9 +470,9 @@
 президії	presidium	Nan
 принципі	opo	Nan
 принципів	awọn ipilẹṣẹ	Nan
-припадає	awọn iroyin fun	Nan
+припадає	fun	None
 припинення	ifopinsi	Nan
-припинити	lati da	Nan
+припинити	da	None
 припускають	daba	Nan
 припущення	arosinu	Nan
 природа	iseda	Nan
@@ -485,7 +485,7 @@
 природничих	àbínibí	Nan
 принципу	opo	Nan
 принципом	opo	Nan
-принципово	gege bi ofin	Nan
+принципово	ofin	None
 принципи	awọn ipilẹṣẹ	Nan
 прикметник	ajẹtífù	Nan
 прикметники	awọn afẹsodi	Nan
@@ -583,13 +583,13 @@
 прибережних	etikun	Nan
 преса	tẹ	Nan
 приголосні	consonant	Nan
-придане	owo ori	Nan
+придане	ori	None
 придбання	ohun-ini	Nan
 прийняв	gba	None
 прийняла	gba	None
 прийняли	gba	None
 прийнята	gba	None
-прийняти	lati gba	Nan
+прийняти	gba	None
 прийнятий	gba	None
 прийнято	gba	None
 приймає	gbà	Nan
@@ -650,7 +650,7 @@
 роксолана	roxolana	Nan
 роксолани	roxolani	Nan
 року	ọdun	Nan
-року 	ọdun	Nan
+року	ọdun	Nan
 російським	ara ilu rọsia	Nan
 рокфеллер	rockefeller	Nan
 роль	ipa	Nan
@@ -681,7 +681,7 @@
 руська	ara ilu rọsia	Nan
 руда	irin	Nan
 руд	rood	Nan
-рубежі	awọn aala	Nan
+рубежі	aala	None
 рр	рр	Nan
 російському	ara ilu rọsia	Nan
 російськоукраїнський	ara ilu yukirenia	Nan
@@ -720,11 +720,11 @@
 розпочато	bẹrẹ	Nan
 розпаду	ibajẹ	Nan
 розпад	ibajẹ	Nan
-розо	awọ pupa	Nan
-розміщуються	ti wa ni gbe	Nan
+розо	pupa	None
+розміщуються	gbe	None
 розмежування	itanran	Nan
 розмноження	atunse	None
-розмовляють	wọn ti n sọrọ	Nan
+розмовляють	wọn	None
 розмовної	ibaraẹnisọrọ	Nan
 розмір	iwọn	Nan
 розмірами	awọn titobi	Nan
@@ -741,7 +741,7 @@
 розміром	iwọn	Nan
 роках	ọdun	Nan
 розрив	alafo	Nan
-розробили	ni idagbasoke	Nan
+розробили	idagbasoke	None
 розум	lokan	Nan
 розумом	lokan	Nan
 розуму	lokan	Nan
@@ -764,11 +764,11 @@
 розробка	idagbasoke	None
 розробки	idagbasoke	None
 розробку	idagbasoke	None
-розроблена	ni idagbasoke	Nan
+розроблена	idagbasoke	None
 розроблений	ti a ṣe	Nan
-розроблено	ni idagbasoke	Nan
-розроблені	ni idagbasoke	Nan
-розробив	ni idagbasoke	Nan
+розроблено	idagbasoke	None
+розроблені	idagbasoke	None
+розробив	idagbasoke	None
 розробці	idagbasoke	None
 розселення	atunto	Nan
 розслідування	iwadii	Nan
@@ -835,7 +835,7 @@
 своїми	tiwon	Nan
 своїх	tiwon	Nan
 свят	agbaye	None
-свою	ti ara rẹ	Nan
+свою	rẹ	None
 свого	ti tirẹ	Nan
 свободу	ominira	Nan
 свободи	ominira	Nan
@@ -869,15 +869,15 @@
 рівності	dọgbadọgba	Nan
 рівня	dogba	Nan
 рівняння	idogba	Nan
-рівнях	awọn ipele	Nan
-рівні	awọn ipele	Nan
-рівнів	awọn ipele	Nan
+рівнях	ipele	None
+рівні	ipele	None
+рівнів	ipele	None
 рівність	dọgbadọgba	Nan
 ріг	iwo	Nan
 рєпін	tunto	Nan
 ряді	kana	Nan
 ряду	kana	Nan
-рядом	ti o tele	Nan
+рядом	tele	None
 руські	ara ilu rọsia	Nan
 русі	ronu	Nan
 рутеній	ruthenium	Nan
@@ -892,7 +892,7 @@
 ршухевич	ршухевич	Nan
 ршухевича	евича	Nan
 ряд	nọmba	Nan
-ряди	awọn ori ila	Nan
+ряди	ori	None
 рядки	awọn ila	Nan
 рухів	awọn agbeka	Nan
 рідко	ṣọwọn	Nan
@@ -975,7 +975,7 @@
 регбі	rugby	Nan
 революційних	rogbodiyan	None
 реальної	gidi	Nan
-режими	awọn ipo	Nan
+режими	ipo	None
 режиму	ipo	None
 рекомендується	niyanju	Nan
 реконструкції	atunkọ	Nan
@@ -997,7 +997,7 @@
 реклами	ipolowo	Nan
 реклама	ipolowo	Nan
 режимі	ipo	None
-режимів	awọn ipo	Nan
+режимів	ipo	None
 режисер	oludari	Nan
 резедові	alatilẹyin	Nan
 резиденція	ibugbe	Nan
@@ -1071,7 +1071,7 @@
 реакція	ifura	Nan
 реакції	awọn aati	Nan
 реальний	gidi	Nan
-рахунок	o wole	Nan
+рахунок	wole	None
 релігія	ẹsin	Nan
 ранньої	kutukutu	Nan
 рамки	awọn fireemu	Nan
@@ -1121,7 +1121,7 @@
 робить	ṣe	Nan
 роблять	ṣe	Nan
 робота	iṣẹ	Nan
-розвивався	ni idagbasoke	Nan
+розвивався	idagbasoke	None
 роботах	ṣiṣẹ	Nan
 роботою	iṣẹ	Nan
 роботу	iṣẹ	Nan
@@ -1132,8 +1132,8 @@
 робіт	ṣiṣẹ	Nan
 роботи	iṣẹ	Nan
 рнк	rnk	Nan
-розвивалася	ni idagbasoke	Nan
-розвивалося	ni idagbasoke	Nan
+розвивалася	idagbasoke	None
+розвивалося	idagbasoke	None
 розглядають	ti wa ni gbero	Nan
 розглядаються	ti wa ni gbero	Nan
 розглядає	ka	Nan
@@ -1153,23 +1153,23 @@
 розгляд	ero	Nan
 розвідки	oloye	None
 розвязання	ojutu	Nan
-розвиватися	da bi	Nan
+розвиватися	da	None
 розвиваються	sese	Nan
 розвиває	ndagba	Nan
 розвивається	sese	Nan
-розвинена	ni idagbasoke	Nan
-розвинений	ni idagbasoke	Nan
-розвинених	ni idagbasoke	Nan
-розвивалися	ni idagbasoke	Nan
-розвиненою	ni idagbasoke	Nan
-розвинув	ni idagbasoke	Nan
-розвинута	ni idagbasoke	Nan
-розвинуті	ni idagbasoke	Nan
+розвинена	idagbasoke	None
+розвинений	idagbasoke	None
+розвинених	idagbasoke	None
+розвивалися	idagbasoke	None
+розвиненою	idagbasoke	None
+розвинув	idagbasoke	None
+розвинута	idagbasoke	None
+розвинуті	idagbasoke	None
 розвиткові	idagbasoke	None
 розвитком	idagbasoke	None
 розвитку	idagbasoke	None
 розвиток	idagbasoke	None
-розвинені	ni idagbasoke	Nan
+розвинені	idagbasoke	None
 риторики	aroye	Nan
 риторика	aroye	Nan
 рись	lynx	Nan
@@ -1190,7 +1190,7 @@
 решти	isimi na	Nan
 реформ	awọn atunṣe	Nan
 ретимно	rethymno	Nan
-ресурсів	awọn orisun	Nan
+ресурсів	orisun	None
 ресурси	awọn olu .ewadi	Nan
 ремесла	ọnà	Nan
 ренесанс	renesansi	Nan
@@ -1288,7 +1288,7 @@
 основним	ipilẹ	Nan
 основними	ipilẹ	Nan
 основа	ipilẹ	Nan
-осені	igba irẹdanu ewe	Nan
+осені	ewe	None
 особистості	eniyan	Nan
 особисту	ti ara ẹni	Nan
 особі	eniyan	Nan
@@ -1386,7 +1386,7 @@
 освіти	eko	None
 ордену	paṣẹ	Nan
 орденом	paṣẹ	Nan
-ордена	ti bere fun	Nan
+ордена	fun	None
 орден	paṣẹ	Nan
 організаціями	ajo	None
 організаціях	ajo	None
@@ -1419,14 +1419,14 @@
 паралелограм	parallelogram	Nan
 паралельно	ni afiwe	Nan
 паралелі	awọn afiwera	Nan
-параметрів	awọn aye sise	Nan
+параметрів	sise	None
 пари	owo	Nan
 париж	paris	Nan
 парижа	ti paris	Nan
 панує	jọba	Nan
 панування	gaba lelori	Nan
 пантелеймон	panteleimon	Nan
-панкрока	arun inu ọkan	Nan
+панкрока	arun	None
 палеоліту	oníyọnu	Nan
 палестра	palestra	Nan
 палива	epo	Nan
@@ -1481,7 +1481,7 @@
 партію	ẹgbẹ	Nan
 партія	ẹgbẹ	Nan
 партії	ẹgbẹ	Nan
-пасажирів	awọn arinrin ajo	Nan
+пасажирів	ajo	None
 партнери	awọn alabaṣiṣẹpọ	Nan
 палаці	ààfin	Nan
 палацу	ààfin	Nan
@@ -1511,14 +1511,14 @@
 ось	nibi	Nan
 осі	àá	Nan
 осіб	eniyan	Nan
-осінь	igba irẹdanu ewe	Nan
+осінь	ewe	None
 офіційному	osise	Nan
 от	lati	Nan
 отамана	otaman	Nan
 отже	nitorinaa	Nan
 оточення	ayika	Nan
 отримав	gba	None
-отримавши	ntẹriba gba	Nan
+отримавши	gba	None
 отримала	gba	None
 отримали	gba	None
 отаман	balogun	Nan
@@ -1528,9 +1528,9 @@
 очі	oju	Nan
 ої	o	Nan
 п	n	Nan
-п котляревского	n kotlyarevsky	Nan
-п котляревський	n kotlyarevsky	Nan
-п котляревського	n kotlyarevsky	Nan
+п	n kotlyarevsky	Nan
+котляревський	n kotlyarevsky	Nan
+котляревського	n kotlyarevsky	Nan
 пабло	pablo	Nan
 очолює	awọn olori	Nan
 павла	pọ́ọ̀lù	Nan
@@ -1583,7 +1583,7 @@
 нічим	ohunkohun	Nan
 ніч	alẹ	Nan
 ніцше	nietzsche	Nan
-ніхто	ko si eniyan kankan	Nan
+ніхто	kankan	None
 німецьким	jẹmánì	Nan
 німецькими	jẹmánì	Nan
 німецьких	jẹmánì	Nan
@@ -1610,7 +1610,7 @@
 обовязки	awọn iṣẹ	Nan
 обовязковим	dandan	None
 обовязково	dandan	None
-обовязків	awọn ojuse	Nan
+обовязків	ojuse	None
 обовязок	iṣẹ	Nan
 оболонка	ikarahun	Nan
 оболонки	ikarahun	Nan
@@ -1630,10 +1630,10 @@
 областей	awọn agbegbe	Nan
 область	ẹkùn	Nan
 областю	agbegbe	Nan
-обладнання	ohun èlò	Nan
+обладнання	èlò	None
 областями	awọn agbegbe	Nan
 області	agbegbe	Nan
-області 	agbegbe	Nan
+області	agbegbe	Nan
 обличчя	oju	Nan
 облігації	ìde	Nan
 облік	iṣiro	Nan
@@ -1644,7 +1644,7 @@
 нім	rẹ	None
 нілу	nile	Nan
 них	wọn	None
-них 	wọn	Nan
+них	wọn	None
 нквд	квдквдквд	Nan
 но	ṣugbọn	Nan
 нобелівська	nobel	None
@@ -1658,7 +1658,7 @@
 новини	awọn iroyin	Nan
 нових	tuntun	None
 нового	tuntun	None
-нині	ni bayi	Nan
+нині	bayi	None
 ними	wọn	None
 ним	rẹ	None
 низькі	kekere	None
@@ -1751,7 +1751,7 @@
 околиці	agbegbe	Nan
 однією	ọkan	Nan
 одразу	ni ẹẹkan	Nan
-одружився	ti ni iyawo	Nan
+одружився	iyawo	None
 одяг	aṣọ	Nan
 одягу	aṣọ	Nan
 одіссея	odyssey	Nan
@@ -1800,7 +1800,7 @@
 одних	diẹ ninu	Nan
 однини	alailẹgbẹ	Nan
 одними	nikan	Nan
-обсягів	awọn ipele	Nan
+обсягів	ipele	None
 обсязі	iwọn didun	Nan
 обсє	gbogbo	Nan
 обчислення	iṣiro	Nan
@@ -1817,7 +1817,7 @@
 обєкта	nnkan	Nan
 обсягу	iwọn didun	Nan
 обсягом	iwọn didun	Nan
-обсяги	awọn ipele	Nan
+обсяги	ipele	None
 обсяг	iye	Nan
 образотворчого	dara	Nan
 образотворчому	dara	Nan
@@ -1825,8 +1825,8 @@
 образів	awọn aworan	Nan
 обраний	yan	None
 обрання	idibo	Nan
-обрано	ti a ti yan	Nan
-обєктами	awọn nkan	Nan
+обрано	yan	None
+обєктами	nkan	None
 обробка	sisẹ	Nan
 обряд	irubo	Nan
 обряди	rites	Nan
@@ -1836,7 +1836,7 @@
 обставин	awọn ayidayida	Nan
 обставини	ayeye	Nan
 обробки	sisẹ	Nan
-обєкти	awọn nkan	Nan
+обєкти	nkan	None
 обєктивної	eredi	Nan
 обєктом	nnkan	Nan
 одеська	odessa	Nan
@@ -1852,14 +1852,14 @@
 одна	ọkan	Nan
 однак	sibẹsibẹ	Nan
 однаково	dọgbadọgba	Nan
-однакові	ikan na	Nan
+однакові	ikan	None
 одне	ọkan	Nan
 одним	ọkan	Nan
 одиниця	ẹyọkan	Nan
 образи	awọn aworan	Nan
 одеса	odessa	Nan
 одержання	gba	None
-обєктів	awọn nkan	Nan
+обєктів	nkan	None
 обєм	iwọn didun	Nan
 обєму	iwọn didun	Nan
 обіг	san	Nan
@@ -1907,8 +1907,8 @@
 поле	pápá	Nan
 польським	pólándì	Nan
 полк	ilana	None
-полковник	ọmọ ogun	Nan
-полковника	ọmọ ogun ọba	Nan
+полковник	ogun	None
+полковника	ogun	None
 полководець	gbogboogbo	Nan
 полку	pẹpẹ	Nan
 полків	awọn atunto	Nan
@@ -2026,10 +2026,10 @@
 позбавлення	ainipada	Nan
 позитивно	daadaa	Nan
 позитивні	rere	None
-позицій	awọn ipo	Nan
+позицій	ipo	None
 позицію	ipo	None
 позиція	ipo	None
-позиції	awọn ipo	Nan
+позиції	ipo	None
 познайомився	pàdé	Nan
 позики	awọn awin	Nan
 політичну	oselu	Nan
@@ -2050,7 +2050,7 @@
 постійного	titilai	Nan
 постійні	titilai	Nan
 посуд	awopọ	Nan
-постанови	awọn ofin	Nan
+постанови	ofin	None
 постала	di	Nan
 поставити	fi	None
 поставив	fi	None
@@ -2167,7 +2167,7 @@
 порізному	lọtọ	Nan
 посад	ifiweranṣẹ	Nan
 посада	ipo	None
-посади	awọn ipo	Nan
+посади	ipo	None
 порівняння	lafiwe	Nan
 подібне	jọra	Nan
 порту	ibudo	Nan
@@ -2220,14 +2220,14 @@
 перетворилася	yipada	None
 першу	akọkọ	Nan
 перетворилося	yipada	None
-перетворюється	ti yipada	Nan
-перетинчастокрилі	awo ilu	Nan
+перетворюється	yipada	None
+перетинчастокрилі	awo	None
 переходить	lati kọja	Nan
 переходом	orilede	Nan
 переходу	orilede	Nan
 переходять	rekoja	Nan
 перехід	orilede	Nan
-перетворюються	ti wa ni yipada	Nan
+перетворюються	yipada	None
 перерозподілу	atunkọ	Nan
 перші	akọkọ	Nan
 період	asiko	Nan
@@ -2248,9 +2248,9 @@
 письменства	kikọ	Nan
 пилипа	pilipa	Nan
 пилип	fílípì	Nan
-печі	awọn ileru	Nan
+печі	ileru	None
 петрогліфи	petroglyphs	Nan
-період 	asiko	Nan
+період	asiko	Nan
 періоди	awọn akoko	Nan
 періодичних	igbakọọkan	Nan
 періодично	lorekore	Nan
@@ -2281,7 +2281,7 @@
 перед	ṣaaju	Nan
 передав	koja	Nan
 передавати	gbigbe	Nan
-передано	ti o ti gbe	Nan
+передано	gbe	None
 передати	rekoja	Nan
 передача	gbigbe	Nan
 передачу	gbigbe	Nan
@@ -2377,14 +2377,14 @@
 повний	kun	Nan
 повіти	awọn kaunti	Nan
 повним	pari	Nan
-повноважень	awọn agbara	Nan
+повноважень	agbara	None
 повного	pari	Nan
 повному	pari	Nan
 повною	pari	Nan
 повної	pari	Nan
 повну	kun	Nan
 повністю	ni kikun	Nan
-повноваження	awọn agbara	Nan
+повноваження	agbara	None
 поверхні	dada	Nan
 повітря	ategun	Nan
 повітряних	eriali	Nan
@@ -2394,8 +2394,8 @@
 подальші	siwaju	Nan
 подання	igbejade	Nan
 подано	ẹsun	Nan
-податки	owo ori	Nan
-податків	owo ori	Nan
+податки	ori	None
+податків	ori	None
 податок	owo-ori	Nan
 подає	sin	Nan
 подвиги	awọn aṣa	Nan
@@ -2419,7 +2419,7 @@
 погляди	awọn iwo	Nan
 погляду	wo	Nan
 поглядів	awọn iwo	Nan
-погода	oju ojo	Nan
+погода	ojo	None
 погодився	gba	None
 погіршення	idibajẹ	Nan
 под	labẹ	Nan
@@ -2488,7 +2488,7 @@
 побудовано	itumọ	Nan
 площ	agbegbe	Nan
 площа	square	Nan
-площа 	square	Nan
+площа	square	Nan
 площею	agbegbe	Nan
 площу	agbegbe	Nan
 площі	agbegbe	Nan
@@ -2515,7 +2515,7 @@
 хвороби	arun	None
 хентай	hentai	Nan
 херсон	kherson	Nan
-херсонес	ede carsonese	Nan
+херсонес	ede	None
 херсонська	kherson	Nan
 херсонський	kherson	Nan
 хліб	burẹdi	Nan
@@ -2540,7 +2540,7 @@
 харчова	oúnjẹ	None
 харчової	oúnjẹ	None
 харчування	oúnjẹ	None
-хата	ile kekere	Nan
+хата	kekere	None
 харківська	kharkiv	Nan
 характерних	ti iwa	Nan
 хмельницькому	khmelnytsky	Nan
@@ -2562,7 +2562,7 @@
 християни	awọn kristiani	Nan
 храмах	awọn ile-oriṣa	Nan
 храм	tẹmpili	Nan
-хочу	mo fe iwe itumo kekere	Nan
+хочу	kekere	None
 хоче	fe	Nan
 ходи	rìn	None
 ході	lakoko	Nan
@@ -2589,12 +2589,12 @@
 філософ	onimoye	Nan
 філософа	onimoye	Nan
 філософи	onimoye	Nan
-філософська	ogbon ori	Nan
-філософський	ogbon ori	Nan
-філософських	ogbon ori	Nan
-філософського	ogbon ori	Nan
-філософської	ogbon ori	Nan
-філософські	ogbon ori	Nan
+філософська	ori	None
+філософський	ori	None
+філософських	ori	None
+філософського	ori	None
+філософської	ori	None
+філософські	ori	None
 філософів	onimoye	Nan
 філософію	imoye	Nan
 філософія	imoye	Nan
@@ -2623,7 +2623,7 @@
 характерним	ti iwa	Nan
 фільм	fiimu	Nan
 фільму	fiimu	Nan
-хай	jẹ ki	Nan
+хай	ki	None
 хайдарабад	hyderabad	Nan
 хамсин	hamsin	Nan
 хан	khan	Nan
@@ -2639,7 +2639,7 @@
 характерна	ti iwa	Nan
 характерне	ti iwa	Nan
 хавасу	havasu	Nan
-х 	x	Nan
+х	x	Nan
 х	x	Nan
 фірми	awọn ile-iṣẹ	Nan
 фільмі	sinima	Nan
@@ -2723,7 +2723,7 @@
 цілий	gbogbo	Nan
 цілих	gbogbo	Nan
 цілком	oyimbo	Nan
-цілому	ni gbogbogbo	Nan
+цілому	gbogbogbo	None
 цілу	gbogbo	Nan
 цілі	awọn idi	Nan
 цілісності	iduroṣinṣin	Nan
@@ -2813,14 +2813,14 @@
 царів	awọn ọba	Nan
 цвинтарі	awọn ibi-isinku	Nan
 це	rẹ	None
-це 	rẹ	Nan
+це	rẹ	None
 цезар	késárì	Nan
 царювання	jọba	Nan
 частиною	apakan	Nan
 функціями	awọn iṣẹ	Nan
 функцію	iṣẹ	Nan
 упродовж	lakoko	Nan
-ураження	awọn egbo	Nan
+ураження	egbo	None
 урахуванням	mu sinu iroyin	Nan
 уре	ure	Nan
 уривки	awọn yiyan	Nan
@@ -2838,7 +2838,7 @@
 управлінням	iṣakoso	Nan
 управління	iṣakoso	Nan
 упоряд	paṣẹ	Nan
-уникнути	lati yago fun	Nan
+уникнути	fun	None
 універсал	ẹru ibudo	Nan
 універсальна	agbaye	None
 універсальний	agbaye	None
@@ -2886,14 +2886,14 @@
 установ	awọn ile-iṣẹ	Nan
 успенський	arosinu	Nan
 установах	awọn ile-iṣẹ	Nan
-устаткування	ohun èlò	Nan
+устаткування	èlò	None
 устрою	ẹrọ	Nan
 устрій	eto	Nan
 усунення	imukuro	Nan
 усього	lapapọ	Nan
 усьому	ohun gbogbo	Nan
 усю	gbogbo	Nan
-установи	fi idi mulẹ	Nan
+установи	fi	None
 утворювати	fọọmu	Nan
 уміння	ogbon	Nan
 умовно	majemu	Nan
@@ -2946,18 +2946,18 @@
 укріплення	okun	Nan
 улітку	ni igba ooru	Nan
 умань	.ан	Nan
-умані	ọmọ uman	Nan
-умов	awọn ipo	Nan
-умовами	awọn ipo	Nan
-умовах	awọn ipo	Nan
-умови	awọn ipo	Nan
+умані	ọmọ	None
+умов	ipo	None
+умовами	ipo	None
+умовах	ipo	None
+умови	ipo	None
 українській	yukirenia	Nan
 українські	yukirenia	Nan
 українську	yukirenia	Nan
 української	yukirenia	Nan
-україна 	yukirenia	Nan
+україна	yukirenia	Nan
 україни	ti ukraine	Nan
-україни 	ti ukraine	Nan
+україни	ti ukraine	Nan
 українка	yukirenia	Nan
 українки	awọn ara ilu yukirenia	Nan
 українознавства	awọn ẹkọ yukirenia	Nan
@@ -3046,10 +3046,10 @@
 французький	faranse	None
 французьких	faranse	None
 французького	faranse	None
-французькою	ni faranse	Nan
+французькою	faranse	None
 французької	faranse	None
 французькі	faranse	None
-французи	ara faranse naa	Nan
+французи	faranse	None
 фон	lẹhin	Nan
 фольклору	arosọ	Nan
 фольклор	arosọ	Nan
@@ -3059,24 +3059,24 @@
 фабрики	ile-iṣelọpọ	Nan
 фаза	alakoso	Nan
 фазанові	eye aparo	Nan
-фази	awọn ipele	Nan
+фази	ipele	None
 файл	faili	Nan
 файли	awọn faili	Nan
 файлів	awọn faili	Nan
 факт	o daju	Nan
-факти	awọn ododo	Nan
+факти	ododo	None
 фактично	gangan	Nan
 фактор	ifosiwewe	Nan
 фактори	awọn okunfa	Nan
 уявлення	imọran	Nan
 учнів	omo ile	Nan
-учні	awọn ọmọ ile-iwe	Nan
+учні	ọmọ	None
 училище	ile-iwe	Nan
 утворює	awọn fọọmu	Nan
 утворюється	akoso	Nan
 утримання	itọju	Nan
 уцр	уцр	Nan
-учасник	ọmọ ẹgbẹ	Nan
+учасник	ọmọ	None
 учасниками	olukopa	Nan
 учасники	olukopa	Nan
 факторів	awọn okunfa	Nan
@@ -3086,10 +3086,10 @@
 участі	ikopa	Nan
 учений	onimo-jinlẹ	Nan
 учених	sayensi	Nan
-учень	ọmọ ile-iwe	Nan
+учень	ọmọ	None
 училища	awọn ile-iwe	Nan
 учасників	olukopa	Nan
-фактів	awọn ododo	Nan
+фактів	ododo	None
 факультет	olukọ	Nan
 факультету	olukọ	Nan
 феодосія	feodosia	Nan
@@ -3105,8 +3105,8 @@
 флоренція	florence	Nan
 флоренції	florence	Nan
 флори	ododo	None
-флот	ọkọ oju-omi kekere	Nan
-флоту	ọkọ oju-omi kekere	Nan
+флот	kekere	None
+флоту	kekere	None
 фовізм	fauvism	Nan
 флетчер	fletcher	Nan
 функція	iṣẹ	Nan
@@ -3198,7 +3198,7 @@
 імперія	ọba	Nan
 імперією	ọba	Nan
 іммігрантів	aṣikiri	Nan
-імпорт	awọn agbewọle lati ilu okeere	Nan
+імпорт	okeere	None
 імунітет	ajesara	Nan
 імя	orukọ	Nan
 імям	orukọ	Nan
@@ -3237,7 +3237,7 @@
 яскравим	didan	Nan
 яскраво	didan	Nan
 європи	yuroopu	Nan
-ясно	ko o	Nan
+ясно	ko	None
 яєць	ẹyin	Nan
 є	jẹ	Nan
 євангеліє	ihinrere	None
@@ -3251,7 +3251,7 @@
 європі	yuroopu	Nan
 єс	bẹẹni	Nan
 і	ati	Nan
-і т д	ati be be lo	Nan
+д	ati be be lo	Nan
 іван	aifanu	Nan
 івана	aifanu	Nan
 іванович	ivanovich	Nan
@@ -3315,7 +3315,7 @@
 існуючі	wa	Nan
 існує	wa	Nan
 історії	awọn itan	Nan
-іспанська	ede spanish	Nan
+іспанська	ede	None
 іспанія	ilu sibeeni	Nan
 іспанії	ti spain	Nan
 іст	aret	Nan
@@ -3323,7 +3323,7 @@
 історик	akẹkọ itan-akọọlẹ	Nan
 історика	akẹkọ itan-akọọlẹ	Nan
 історики	òpìtàn	Nan
-іспанської	ede spanish	Nan
+іспанської	ede	None
 існувало	wa	Nan
 істот	awọn ẹda	Nan
 істотно	idaran	Nan
@@ -3347,7 +3347,7 @@
 їм	wọn	None
 їй	rẹ	None
 ісус	jesu	None
-ісуса	ti jesu	Nan
+ісуса	jesu	None
 італійська	ilu italia	Nan
 італійський	ilu italia	Nan
 італійських	ilu italia	Nan
@@ -3404,11 +3404,11 @@
 інституті	institute	Nan
 інфляція	afikun	Nan
 інфляції	afikun	Nan
-інформатики	imo komputa sayensi	Nan
+інформатики	komputa	None
 іншої	omiiran	Nan
 іншу	omiiran	Nan
 інші	awọn miiran	Nan
-інші 	awọn miiran	Nan
+інші	awọn miiran	Nan
 іншій	omiiran	Nan
 ініціативи	awọn ipilẹṣẹ	Nan
 ініціативою	ipilẹṣẹ	Nan
@@ -3445,10 +3445,10 @@
 японського	japanese	Nan
 японських	japanese	Nan
 японська	japanese	Nan
-членом	ọmọ ẹgbẹ	Nan
+членом	ọmọ	None
 членства	ẹgbẹ	Nan
 членство	ẹgbẹ	Nan
-членів	ọmọ ẹgbẹ	Nan
+членів	ọmọ	None
 чого	kini	Nan
 чол	eniyan	Nan
 чоловік	ọkunrin	Nan
@@ -3460,10 +3460,10 @@
 чоловічий	akọ	Nan
 чоловічого	akọ	Nan
 чолі	darí	Nan
-члени	ọmọ ẹgbẹ	Nan
-членами	ọmọ ẹgbẹ	Nan
-члена	ọmọ ẹgbẹ	Nan
-член	ọmọ ẹgbẹ	Nan
+члени	ọmọ	None
+членами	ọmọ	None
+члена	ọmọ	None
+член	ọmọ	None
 численних	lọpọlọpọ	Nan
 числення	kalikanu	Nan
 численні	lọpọlọpọ	Nan
@@ -3523,9 +3523,9 @@
 числами	awọn nọmba	Nan
 числа	awọn nọmba	Nan
 чисельністю	nọmba	Nan
-червень	oṣu karun	Nan
-червня	oṣu karun	Nan
-червні	oṣu karun	Nan
+червень	karun	None
+червня	karun	None
+червні	karun	None
 червона	pupa	None
 червоний	pupa	None
 червоних	pupa	None
@@ -3562,14 +3562,14 @@
 черкаська	cherkasy	Nan
 черкаський	cherkasy	Nan
 черкаської	cherkasy	Nan
-чехії	apapọ ilẹ ṣẹẹki	Nan
+чехії	ilẹ	None
 чи	tabi	None
 чилі	ata	Nan
 чим	ju	Nan
 чимало	pupo	Nan
 чимось	nkan	None
 чинили	ṣe	Nan
-чехія	apapọ ilẹ ṣẹẹki	Nan
+чехія	ilẹ	None
 чинник	ifosiwewe	Nan
 чинників	awọn okunfa	Nan
 чинності	wiwulo	Nan
@@ -3577,7 +3577,7 @@
 чисел	awọn nọmba	Nan
 чисельності	nọmba	Nan
 чисельність	nọmba	Nan
-чисельність 	nọmba	Nan
+чисельність	nọmba	Nan
 чинники	awọn okunfa	Nan
 швидкістю	iyara	Nan
 чехословаччині	czechoslovakia	Nan
@@ -3601,7 +3601,7 @@
 чернігівська	chernihiv	Nan
 у	ninu	Nan
 швидше	dipo	Nan
-шевченка 	shevchenko	Nan
+шевченка	shevchenko	Nan
 юрій	yuri	Nan
 юрія	yuri	Nan
 юстиції	ododo	None
@@ -3647,7 +3647,7 @@
 які	ewo	Nan
 яків	ewo	Nan
 якій	ewo	Nan
-якісно	ti agbara	Nan
+якісно	agbara	None
 якісні	didara	Nan
 якість	didara	Nan
 якістю	didara	Nan
@@ -3658,7 +3658,7 @@
 януковича	yanukovych	Nan
 якою	ewo	Nan
 якості	didara	Nan
-якостей	awọn agbara	Nan
+якостей	agbara	None
 якому	ewo	Nan
 язык	ede	None
 яйце	ẹyin	Nan
@@ -3672,7 +3672,7 @@
 яким	ewo	Nan
 якими	ewo	Nan
 яких	tani	Nan
-яких 	tani	Nan
+яких	tani	Nan
 якович	jakobu	Nan
 якого	tani	Nan
 якогось	diẹ ninu	Nan
@@ -3727,11 +3727,11 @@
 щиті	asà	Nan
 що	kini	Nan
 шухевича	евича	Nan
-щоб	lati le	Nan
+щоб	le	None
 щоденник	iwe itosiwe	Nan
 щодня	ojoojumo	Nan
 щодо	ti	Nan
-щойно	o kan	Nan
+щойно	kan	None
 щонайменше	o kere ju	Nan
 щоправда	ooto	Nan
 щороку	odoodun	Nan
@@ -3886,7 +3886,7 @@
 спеціалізованих	amọja	Nan
 спеціалізовані	amọja	Nan
 спеціалістів	ojogbon	Nan
-спираючись	gbigbe ara le	Nan
+спираючись	le	None
 спирається	sinmi	Nan
 списки	awọn akojọ	Nan
 списку	atokọ	Nan
@@ -3919,7 +3919,7 @@
 статевих	ibalopọ	Nan
 статевого	ibalopọ	Nan
 статеві	ibalopọ	Nan
-статей	awọn nkan	Nan
+статей	nkan	None
 стати	di	Nan
 статистика	eeka	Nan
 статистики	eeka	Nan
@@ -3928,7 +3928,7 @@
 статтею	nkan	None
 статтю	nkan	None
 стаття	nkan	None
-статті	awọn nkan	Nan
+статті	nkan	None
 статус	ipo	None
 статеве	awọn onigbagbọ	Nan
 старі	atijọ	Nan
@@ -3938,7 +3938,7 @@
 старий	atijọ	Nan
 старина	ohun atijọ	Nan
 старих	atijọ	Nan
-старицький	baba agba	Nan
+старицький	agba	None
 старого	ti atijọ	Nan
 стародавнього	atijọ	Nan
 статусу	ipo	None
@@ -3952,7 +3952,7 @@
 старшини	awọn olori	Nan
 стародавньої	atijọ	Nan
 стара	atijọ	Nan
-статут	awọn ilana	Nan
+статут	ilana	None
 статуя	ere	Nan
 створити	lati ṣẹda	Nan
 створювали	ṣẹda	Nan
@@ -4002,7 +4002,7 @@
 ст	aworan	Nan
 стабільності	iduroṣinṣin	Nan
 стабільність	iduroṣinṣin	Nan
-став	omi ikudu	Nan
+став	omi	None
 ставав	mo dide	Nan
 ставала	di	Nan
 ставали	di	Nan
@@ -4019,7 +4019,7 @@
 спілки	awọn ẹgbẹ	Nan
 спілкування	ibaraẹnisọrọ	Nan
 спільне	wọpọ	Nan
-ставить	lati fi	Nan
+ставить	fi	None
 спільний	apapọ	Nan
 спільно	papọ	Nan
 спільного	wọpọ	Nan
@@ -4052,7 +4052,7 @@
 сократа	kikọkuro	Nan
 стандарту	boṣewa	Nan
 стандарт	boṣewa	Nan
-ставлять	lati fi	Nan
+ставлять	fi	None
 ставши	di	Nan
 стадіон	papa-iṣere	Nan
 стадіону	papa-iṣere	Nan
@@ -4075,7 +4075,7 @@
 середньовічних	igba atijọ	Nan
 середньовічного	igba atijọ	Nan
 середньовічної	igba atijọ	Nan
-середньовіччя	ojo ori ti o wa larin	Nan
+середньовіччя	ori	None
 середньовіччі	awọn aringbungbun ogoro	Nan
 середнього	aropin	Nan
 середньому	lori apapọ	Nan
@@ -4126,12 +4126,12 @@
 символізму	apẹẹrẹ	Nan
 символізує	ṣàpẹẹrẹ	Nan
 символіка	awọn aami	Nan
-силою	nipa agbara	Nan
+силою	agbara	None
 сили	awọn ipa	Nan
 силами	awọn ipa	Nan
 сила	agbara	None
 серйозно	isẹ	Nan
-серйозні	to ṣe pataki	Nan
+серйозні	to	None
 серпень	oṣu kẹjọ	Nan
 серпня	oṣu kẹjọ	Nan
 серпні	oṣu kẹjọ	Nan
@@ -4212,7 +4212,7 @@
 світських	alailesin	Nan
 світські	alailesin	Nan
 світу	agbaye	None
-світу 	agbaye	Nan
+світу	agbaye	None
 світі	ileaye	Nan
 себе	iho	Nan
 севастополь	sevastopol	Nan
@@ -4232,16 +4232,16 @@
 словами	ninu awọn ọrọ	Nan
 словарь	iwe itumọ	Nan
 словах	ninu awọn ọrọ	Nan
-словацької	ede slovaki	Nan
+словацької	ede	None
 словаччина	slovakia	Nan
-словаччини	ede slovaki	Nan
+словаччини	ede	None
 словник	fokabulari	Nan
 словника	iwe itumọ	Nan
-словникдовідник	iwe itumo	Nan
-словники	iwe itumo	Nan
-словників	iwe itumo	Nan
+словникдовідник	itumo	None
+словники	itumo	None
+словників	itumo	None
 слово	ọrọ	Nan
-словом	ninu ọrọ kan	Nan
+словом	kan	None
 словян	slavic	Nan
 словяни	awọn slav	Nan
 слова	awọn ọrọ	Nan
@@ -4257,7 +4257,7 @@
 скульптура	ere	Nan
 словянських	slavic	Nan
 скульптури	awọn ere	Nan
-скільки	melo ni	Nan
+скільки	melo	None
 скіфи	sitii	Nan
 скіфських	scythian	Nan
 скіфів	sitii	Nan
@@ -4293,13 +4293,13 @@
 службовців	oṣiṣẹ	Nan
 службу	iṣẹ	Nan
 службі	iṣẹ	Nan
-служив	yoo wa	Nan
+служив	yoo	None
 словянської	slavic	Nan
-служили	yoo wa	Nan
+служили	yoo	None
 служить	lati sin	Nan
 служіння	iṣẹ́ òjíṣẹ́	Nan
 слів	awọn ọrọ	Nan
-слід	wa kakiri	Nan
+слід	kakiri	None
 сліди	wa	Nan
 смаку	itọwo	Nan
 смертності	iku	None
@@ -4309,8 +4309,8 @@
 сковороди	awọn akara didin	Nan
 ситуацію	ipo	None
 ситуація	ipo	None
-ситуації	awọn ipo	Nan
-скажімо	jẹ ki a sọ	Nan
+ситуації	ipo	None
+скажімо	sọ	None
 сказав	wi	Nan
 сказано	wi	Nan
 сказати	sọ	None
@@ -4322,7 +4322,7 @@
 склав	ṣe	Nan
 склався	akoso	Nan
 склад	ibi ipamọ	Nan
-ситуацій	awọn ipo	Nan
+ситуацій	ipo	None
 системі	eto	Nan
 систему	eto	Nan
 системою	eto	Nan
@@ -4334,7 +4334,7 @@
 синтез	kolaginni	Nan
 синтезу	kolaginni	Nan
 складав	wà	Nan
-синів	awọn ọmọ	Nan
+синів	ọmọ	None
 сировина	aise	Nan
 сировини	awọn ohun elo aise	Nan
 систем	awọn ọna šiše	Nan
@@ -4390,7 +4390,7 @@
 технологія	imọ-ẹrọ	Nan
 технології	imọ-ẹrọ	Nan
 техніка	ẹrọ	Nan
-техніки	ohun èlò	Nan
+техніки	èlò	None
 техніку	ilana	None
 технікум	ile-iwe imọ-ẹrọ	Nan
 технічний	imọ ẹrọ	Nan
@@ -4409,7 +4409,7 @@
 термінології	imọ-jinlẹ	Nan
 терміном	igba	Nan
 терміну	igba	Nan
-термінів	awọn ofin	Nan
+термінів	ofin	None
 тернополя	ternopil	Nan
 тернополі	ternopil	Nan
 тзв	bẹ-ti a npe	Nan
@@ -4422,7 +4422,7 @@
 тест	idanwo	Nan
 тестування	idanwo	Nan
 тернопільська	ternopil	Nan
-терміни	awọn ofin	Nan
+терміни	ofin	None
 ти	iwo	Nan
 тигра	ẹyẹ	Nan
 тиск	titẹ	Nan
@@ -4453,16 +4453,16 @@
 тим	egbe	None
 тигр	ẹyẹ	Nan
 тими	awọn ẹgbẹ	Nan
-тимчасовий	fun igba diẹ	Nan
-тимчасово	fun igba diẹ	Nan
-тимчасового	fun igba diẹ	Nan
+тимчасовий	fun	None
+тимчасово	fun	None
+тимчасового	fun	None
 тип	oriṣi	Nan
 типи	awọn oriṣi	Nan
 типовий	aṣoju	Nan
 типові	aṣoju	Nan
 тимошенко	tymoshenko	Nan
 тичина	ipalọlọ	Nan
-термінах	ni awọn ofin	Nan
+термінах	ofin	None
 термін	igba	Nan
 текстів	awọn ọrọ	Nan
 тел	tẹlifoonu	Nan
@@ -4478,7 +4478,7 @@
 темп	igba	Nan
 темпами	ije	None
 темпераменту	ihuwasi	Nan
-температур	awọn iwọn otutu	Nan
+температур	otutu	None
 тексті	ọrọ	Nan
 тексту	ọrọ	Nan
 текстильна	aṣọ	Nan
@@ -4518,7 +4518,7 @@
 територією	agbegbe	Nan
 території	agbegbe	Nan
 термідор	ẹrọ itanna	Nan
-тепер	ni bayi	Nan
+тепер	bayi	None
 теорії	yii	Nan
 теорією	yii	Nan
 теорія	yii	Nan
@@ -4589,14 +4589,14 @@
 туя	funfun kedari	Nan
 тшевченка	шевченка	Nan
 ті	awon na	Nan
-тій	iyen naa	Nan
+тій	iyen	None
 тіл	tẹlifoonu	Nan
 тіла	ara	Nan
 тіло	ara	Nan
 тілом	ara	Nan
 тільки	nikan	Nan
 тісно	ni pẹkipẹki	Nan
-туристів	aririn ajo	Nan
+туристів	ajo	None
 туристичних	oniriajo	Nan
 туристичний	oniriajo	Nan
 туризму	irin-ajo	Nan
@@ -4606,7 +4606,7 @@
 ту	tu	Nan
 туберкульоз	iko	Nan
 туберкульозу	iko	Nan
-туди	ní bẹ	Nan
+туди	ní	None
 трудової	laala	Nan
 тур	ajo	None
 турецького	tooki	Nan
@@ -4622,7 +4622,7 @@
 транспортування	irinna	Nan
 том	iwọn didun	Nan
 томас	thomas	Nan
-томах	awọn ipele	Nan
+томах	ipele	None
 тому	nitorinaa	Nan
 тон	ohun orin	Nan
 тонн	toonu	Nan
@@ -4687,22 +4687,22 @@
 точці	ojuami	Nan
 тощо	abbl.	Nan
 традиційних	ibile	None
-травень	oṣu karun	Nan
-травні	oṣu karun	Nan
+травень	karun	None
+травні	karun	None
 трагедія	ajalu	Nan
 трагедії	ajalu	Nan
 традицій	aṣa	Nan
 традиційна	ibile	None
 традиційний	ibile	None
 традиційним	ibile	None
-травня	oṣu karun	Nan
+травня	karun	None
 творчістю	àtinúdá	Nan
 творчість	aworan	Nan
 творчі	ẹda	Nan
-судова	ti ofin	Nan
-судових	ti ofin	Nan
-судової	ti ofin	Nan
-судові	ti ofin	Nan
+судова	ofin	None
+судових	ofin	None
+судової	ofin	None
+судові	ofin	None
 судом	kootu	Nan
 суду	kootu	Nan
 суді	kootu	Nan
@@ -4714,8 +4714,8 @@
 султана	sultan	Nan
 сума	aropọ	Nan
 суматра	sumatra	Nan
-суднобудування	ọkọ oju-omi kekere	Nan
-судна	awọn ọkọ oju omi	Nan
+суднобудування	kekere	None
+судна	omi	None
 судити	lẹjọ	Nan
 суди	lẹjọ	Nan
 стін	odi	Nan
@@ -4808,10 +4808,10 @@
 столицею	olú ìlú	Nan
 столицю	olú ìlú	Nan
 столиця	olu	Nan
-столиця 	olu	Nan
+столиця	olu	Nan
 столиці	olú ìlú	Nan
 століття	orundun	Nan
-століття 	orundun	Nan
+століття	orundun	Nan
 сто	ọgọrun	Nan
 стосується	kan	None
 стояв	mo duro	Nan
@@ -4872,14 +4872,14 @@
 такому	iru	Nan
 такою	iru	Nan
 табори	ago	Nan
-таблиці	awọn tabili	Nan
+таблиці	tabili	None
 таблиця	tabili	None
 та	ati	Nan
 сімферополь	simferopol	Nan
 сімя	idile	Nan
 сімї	idile	Nan
-сінгапур	orílẹ̀ èdè singapore	Nan
-сінгапуру	orílẹ̀ èdè singapore	Nan
+сінгапур	orílẹ̀	None
+сінгапуру	orílẹ̀	None
 сірка	efin	Nan
 сірки	efin	Nan
 такої	iru	Nan
@@ -4890,7 +4890,7 @@
 січових	ile ito	Nan
 січі	ara sich	Nan
 т	t	Nan
-т г шевченка	t g shevchenko	Nan
+шевченка	t g shevchenko	Nan
 сірінга	syringa	Nan
 сімей	idile	Nan
 таксі	takisi	Nan
@@ -4917,7 +4917,7 @@
 такій	iru	Nan
 талант	ẹbun	Nan
 талій	thallium	Nan
-там	ní bẹ	Nan
+там	ní	None
 тамплієрів	awọn igbidanwo	Nan
 танець	jó	Nan
 танцю	jó	Nan
@@ -4960,7 +4960,7 @@
 сучасних	igbalode	Nan
 сучасного	igbalode	Nan
 сучасному	igbalode	Nan
-сході 	ila-oorun	Nan
+сході	ila-oorun	Nan
 сучасності	igbalode	Nan
 сучасної	igbalode	Nan
 сучасну	igbalode	Nan
@@ -4992,7 +4992,7 @@
 сіл	abule	Nan
 сучасне	igbalode	Nan
 сьогоднішній	loni	Nan
-сша 	amẹrika	Nan
+сша	amẹrika	Nan
 східна	ila-oorun	Nan
 східний	ila-oorun	Nan
 східних	ila-oorun	Nan
@@ -5011,15 +5011,15 @@
 сша	amẹrika	Nan
 східну	ila-oorun	Nan
 ґрунті	ile	Nan
-нехай	jẹ ki	Nan
+нехай	ki	None
 несе	gbejade	Nan
 географічне	àgbègbè	Nan
 географічних	àgbègbè	Nan
 географічного	àgbègbè	Nan
 географічні	àgbègbè	Nan
-географія	ẹkọ nipa ilẹ	Nan
-географії	ẹkọ nipa ilẹ	Nan
-геологія	ẹkọ nipa ilẹ	Nan
+географія	ilẹ	None
+географії	ilẹ	None
+геологія	ilẹ	None
 геометрії	geometry	Nan
 геоморфологія	geomorphology	Nan
 георгій	george	Nan
@@ -5039,7 +5039,7 @@
 гектор	hector	Nan
 гена	ẹbun	Nan
 генезис	jiini	Nan
-герба	ami orileede	Nan
+герба	orileede	None
 генерал	gbogboogbo	Nan
 генеральна	gbogboogbo	Nan
 генеральний	gbogboogbo	Nan
@@ -5049,14 +5049,14 @@
 генетичний	jiini	Nan
 генетично	jiini	Nan
 генерала	gbogboogbo	Nan
-гарнізон	ọmọ ogun	Nan
+гарнізон	ogun	None
 герби	awọn aṣọ ọwọ	Nan
-гербі	ami orileede	Nan
+гербі	orileede	None
 глибокий	jinjin	Nan
 глибоким	jinjin	Nan
 глибоко	jinjin	Nan
 глибокі	jinjin	Nan
-глибше	ko wole si	Nan
+глибше	wole	None
 глини	amọ	Nan
 глосарій	iwe afọwọkọ	Nan
 глюон	gluon	Nan
@@ -5065,7 +5065,7 @@
 го	rẹ	None
 говори	soro	Nan
 говорив	mo soro pe	Nan
-говорили	wọn sọrọ	Nan
+говорили	wọn	None
 говорити	sọrọ	Nan
 глибині	ijinle	Nan
 глибини	ijinle	Nan
@@ -5078,16 +5078,16 @@
 героя	akọni	Nan
 герої	awọn akọni	Nan
 героїв	awọn akọni	Nan
-гербом	ami orileede	Nan
+гербом	orileede	None
 гетто	gita	Nan
-гетьмана	ọmọ ogun	Nan
-гетьманом	ọmọ ogun	Nan
+гетьмана	ogun	None
+гетьманом	ogun	None
 гетьманського	hetman	Nan
 гетьману	si hetman	Nan
 гетьманщини	hetmanate	Nan
 гирлі	ẹnu	Nan
 глава	orí	Nan
-гетьман	ọmọ ogun	Nan
+гетьман	ogun	None
 говорить	lati sọrọ	Nan
 гармонії	isokan	Nan
 гармонію	isokan	Nan
@@ -5106,7 +5106,7 @@
 вітри	efuufu	Nan
 вітру	afẹfẹ	Nan
 вітрів	efuufu	Nan
-вірус	kòkòrò àrùn fáírọọsì	Nan
+вірус	àrùn	None
 вірувань	awọn igbagbọ	Nan
 вірування	igbagbọ	Nan
 віру	igbagbọ	Nan
@@ -5156,7 +5156,7 @@
 газ	gaasi	Nan
 газет	iwe iroyin	Nan
 газета	iwe iroyin	Nan
-віці	ọjọ ori	Nan
+віці	ori	None
 газети	iwe iroyin	Nan
 гази	ategun	Nan
 газу	gaasi	Nan
@@ -5166,8 +5166,8 @@
 галерея	àwòrán àwòrán	Nan
 галереї	àwòrán	Nan
 газеті	iwe iroyin	Nan
-говориться	o ti sọ	Nan
-говорять	wọn sọ	Nan
+говориться	sọ	None
+говорять	sọ	None
 гоголь	garrot	Nan
 гриби	olu	Nan
 грибів	olu	Nan
@@ -5205,7 +5205,7 @@
 грецькі	griki	Nan
 грецькій	griki	Nan
 грецька	griki	Nan
-графіки	awọn eya aworan	Nan
+графіки	eya	None
 громадських	gbangba	Nan
 громадськості	ita	Nan
 грошові	owo	Nan
@@ -5244,7 +5244,7 @@
 громадянського	ara ilu	Nan
 громадянської	ara ilu	Nan
 громадянина	ara ilu	Nan
-графіка	awọn eya aworan	Nan
+графіка	eya	None
 графік	iṣeto	Nan
 грати	mu ṣiṣẹ	Nan
 голодомор	ìyàn	Nan
@@ -5342,7 +5342,7 @@
 від	lati	Nan
 відбувався	wáyé	Nan
 вхід	jade	Nan
-входять	to wa	Nan
+входять	to	None
 входу	ẹnu ọna	Nan
 входить	latiwole	Nan
 втім	sibẹsibẹ	Nan
@@ -5360,7 +5360,7 @@
 входження	titẹsi	Nan
 входила	ti tẹ	Nan
 входили	ti tẹ	Nan
-входило	to wa	Nan
+входило	to	None
 вулицю	ita	Nan
 втілення	ẹṣẹ	Nan
 відбувалося	ṣẹlẹ	Nan
@@ -5397,8 +5397,8 @@
 відділи	awọn apa	Nan
 відділу	eka	None
 відділів	awọn apa	Nan
-віденський	ede viennese	Nan
-віденського	ede viennese	Nan
+віденський	ede	None
+віденського	ede	None
 відень	vienna	Nan
 відділ	eka	None
 відкриттів	awari	None
@@ -5431,10 +5431,10 @@
 впадає	ós	Nan
 вперед	siwaju	Nan
 всесвіту	agbaye	None
-вперше	fun igba akoko	Nan
+вперше	fun	None
 впливати	ipa	Nan
 впливають	kan	None
-впливає	yoo ni ipa lori	Nan
+впливає	yoo	None
 впливи	awọn ipa	Nan
 впливових	gbajugbaja	Nan
 впливом	ipa	Nan
@@ -5463,22 +5463,22 @@
 всупереч	ilodisi si	Nan
 вступу	titẹsi	Nan
 всеукраїнського	gbogbo ara ilu yukirenia	Nan
-встановив	fi sori ẹrọ	Nan
+встановив	fi	None
 встановили	mulẹ	Nan
-встановити	lati fi sori ẹrọ	Nan
-встановлена	fi sori ẹrọ	Nan
-встановлений	fi sori ẹrọ	Nan
+встановити	fi	None
+встановлена	fi	None
+встановлений	fi	None
 встановлення	fifi sori	Nan
 всеукраїнська	gbogbo ara ilu yukirenia	Nan
-встановлено	fi sori ẹrọ	Nan
+встановлено	fi	None
 встановлює	ṣeto	Nan
-встановлюється	ti fi sori ẹrọ	Nan
+встановлюється	fi	None
 вступ	ifihan	Nan
 вступає	ti nwọ	Nan
 вступив	ti tẹ	Nan
 вступила	ti tẹ	Nan
 вступна	ifihan	Nan
-встановлені	fi sori ẹrọ	Nan
+встановлені	fi	None
 відкриті	ṣii	Nan
 відмова	kọ	Nan
 відмовився	kọ	Nan
@@ -5517,9 +5517,9 @@
 відігравали	dun	None
 відігравати	mu ṣiṣẹ sẹhin	Nan
 відіграла	dun	None
-відчувається	ti wa ni ro	Nan
-відсутня	ko si	Nan
-військами	awọn ọmọ ogun	Nan
+відчувається	ro	None
+відсутня	ko	None
+військами	ogun	None
 військова	ologun	Nan
 вікі	wiki	Nan
 віків	sehin	Nan
@@ -5536,7 +5536,7 @@
 вільного	ọfẹ	Nan
 вільної	ọfẹ	Nan
 вільні	ọfẹ	Nan
-віку	ọjọ ori	Nan
+віку	ori	None
 вікторія	victoria	Nan
 віктора	victor	None
 віктор	victor	None
@@ -5547,15 +5547,15 @@
 військових	ologun	Nan
 військового	ologun	Nan
 військовому	ologun	Nan
-військо	awọn ọmọ ogun	Nan
+військо	ogun	None
 військової	ologun	Nan
 військові	ologun	Nan
 військовій	ologun	Nan
-військом	ọmọ ogun	Nan
-вік	ọjọ ori	Nan
-віки	ọjọ ori	Nan
+військом	ogun	None
+вік	ori	None
+віки	ori	None
 вікна	windows	Nan
-віком	ọjọ ori	Nan
+віком	ori	None
 військову	ologun	Nan
 відсутності	isansa	Nan
 відстані	jinna	Nan
@@ -5646,18 +5646,18 @@
 другому	si omiiran	Nan
 другою	omiiran	Nan
 другої	ikeji	Nan
-другу	si ore kan	Nan
+другу	kan	None
 другій	ikeji	Nan
 дружба	ore	Nan
 дружина	iyawo	None
-дружини	awọn aya	Nan
+дружини	aya	None
 дружину	iyawo	None
 друзів	ọrẹ	Nan
 друк	titẹ sita	Nan
 друге	ikeji	Nan
 друга	omiiran	Nan
 друг	ọ̀rẹ́	Nan
-дрогобич	ọkọ oju-omi kekere	Nan
+дрогобич	kekere	None
 дочка	ọmọbinrin	Nan
 дочки	awọn ọmọbinrin	Nan
 дошка	ọkọ	Nan
@@ -5668,7 +5668,7 @@
 друкованих	tejede	Nan
 драма	eré	Nan
 драматичні	ìgbésẹ	Nan
-драматург	agba bọọlu	Nan
+драматург	agba	None
 драматургія	eré	Nan
 драматургії	eré	Nan
 драми	eré	Nan
@@ -5723,11 +5723,11 @@
 донька	ọmọbinrin	Nan
 доповнення	afikun	Nan
 допомагає	iranlọwọ	Nan
-допомога	egba mi o	Nan
+допомога	egba	None
 допомоги	iranlowo	Nan
-допомогою	egba mi o	Nan
-допомогти	egba mi o	Nan
-допомогу	egba mi o	Nan
+допомогою	egba	None
+допомогти	egba	None
+допомогу	egba	None
 дорога	opopona	Nan
 дороги	opopona	Nan
 дорозі	loju ọna	Nan
@@ -5767,7 +5767,7 @@
 досягнень	awọn aṣeyọri	Nan
 досягти	ṣaṣeyọri	Nan
 досі	tun	Nan
-дотепер	ni bayi	Nan
+дотепер	bayi	None
 доти	titi	Nan
 дотримання	ibamu	Nan
 дотримуються	fara mo	Nan
@@ -5776,7 +5776,7 @@
 доступні	wa	Nan
 доступ	iraye si	Nan
 досвіду	iriri	Nan
-досить	ti to	Nan
+досить	to	None
 досконалості	pipé	Nan
 дослідження	iwadii	Nan
 дослідженням	iwadii	Nan
@@ -5789,7 +5789,7 @@
 дослідник	oniwadi	Nan
 дослідники	awọn oniwadi	Nan
 дослідників	awọn oniwadi	Nan
-достатньо	ti to	Nan
+достатньо	to	None
 достоєвський	dostoevsky	Nan
 досліджень	iwadii	Nan
 діалект	iledìí	Nan
@@ -5800,7 +5800,7 @@
 електронної	itanna	Nan
 електронні	itanna	Nan
 електронів	elekitironi	Nan
-електростанції	agbara eweko	Nan
+електростанції	agbara	None
 електрохімія	itanna	Nan
 елемент	ano	Nan
 елемента	ano	Nan
@@ -5839,11 +5839,11 @@
 естетичні	darapupo	Nan
 естонії	estonia	Nan
 етап	ipele	None
-етапах	awọn ipele	Nan
-етапи	awọn ipele	Nan
+етапах	ipele	None
+етапи	ipele	None
 етапом	ipele	None
 етапі	ipele	None
-етапів	awọn ipele	Nan
+етапів	ipele	None
 етика	iwa	Nan
 етики	iwa	Nan
 етимологія	ẹkọ ẹkọ ẹkọ	Nan
@@ -5868,7 +5868,7 @@
 епоха	igbala	Nan
 епохи	igbala	Nan
 епоху	akoko	Nan
-епідемії	àjàkálẹ àrùn	Nan
+епідемії	àrùn	None
 епонж	ппонж	Nan
 економічно	ti ọrọ-aje	Nan
 економічних	aje	None
@@ -5903,7 +5903,7 @@
 діаспора	ajeji	Nan
 дівчат	awon odomobirin	Nan
 дівчина	ọmọbinrin	Nan
-дід	baba agba	Nan
+дід	agba	None
 дідро	diderot	Nan
 дій	ìṣe	Nan
 дійсно	looto	Nan
@@ -5987,11 +5987,11 @@
 двох	meji	Nan
 двоє	meji	Nan
 дві	meji	Nan
-дає	yoo fun	Nan
+дає	fun	None
 дао	dao	Nan
 демократичної	tiwantiwa	Nan
 демократія	tiwantiwa	Nan
-держави 	awọn ipinlẹ	Nan
+держави	awọn ipinlẹ	Nan
 державна	ipinle	Nan
 державне	ipinle	Nan
 державний	ipinle	Nan
@@ -6108,7 +6108,7 @@
 давньогрецьких	atijọ greek	Nan
 воєводства	voivodships	Nan
 державою	ipinle	Nan
-державчленів	awọn ọmọ ẹgbẹ egbe	Nan
+державчленів	egbe	None
 добрий	o dara	Nan
 добро	o dara	Nan
 добробут	ire	None
@@ -6120,7 +6120,7 @@
 довгі	gun	None
 доведення	ẹri	Nan
 довелося	ni lati	Nan
-довести	fi mule	Nan
+довести	fi	None
 довженка	dovzhenka	Nan
 довженко	dovzhenko	Nan
 довжина	gigun	Nan
@@ -6143,13 +6143,13 @@
 дністра	dniester	Nan
 до	sí	Nan
 доба	akoko	Nan
-доби	ọjọ ori	Nan
+доби	ori	None
 дніпропетровський	dnipropetrovsk	Nan
 днк	dna	Nan
 довжиною	gigun	Nan
 довкола	yika	Nan
-дозволяють	gba laaye	Nan
-дозволяє	gba laaye	Nan
+дозволяють	gba	None
+дозволяє	gba	None
 дозвіл	igbanilaaye	Nan
 дозвілля	fàájì	Nan
 доказів	ẹri	Nan
@@ -6164,13 +6164,13 @@
 документом	iwe	Nan
 документу	iwe	Nan
 дозволу	igbanilaaye	Nan
-дозволило	gba laaye	Nan
-дозволили	gba laaye	Nan
-дозволив	gba laaye	Nan
+дозволило	gba	None
+дозволили	gba	None
+дозволив	gba	None
 довкілля	ayika	Nan
 доводилося	ni lati	Nan
-доводить	lati fi mule	Nan
-доволі	ti to	Nan
+доводить	fi	None
+доволі	to	None
 довідник	iwe itọsọna	Nan
 договори	siwe	Nan
 договором	àdéhùn	Nan
@@ -6191,10 +6191,10 @@
 джаз	jazz	Nan
 джеймс	awọn orukọ james	Nan
 джеймстаун	jamestown	Nan
-джерел	awọn orisun	Nan
-джерела	awọn orisun	Nan
-джерелами	awọn orisun	Nan
-джерелах	awọn orisun	Nan
+джерел	orisun	None
+джерела	orisun	None
+джерелами	orisun	None
+джерелах	orisun	None
 джерело	orisun	None
 джерелом	orisun	None
 джміль	bompa	Nan
@@ -6226,7 +6226,7 @@
 дивись	wo	Nan
 дивно	iyalẹnu	Nan
 дивізія	pipin	Nan
-дисциплін	awọn ilana	Nan
+дисциплін	ilana	None
 дисципліна	ibawi	Nan
 дисципліни	ibawi	Nan
 дитина	ọmọ	None
@@ -6245,7 +6245,7 @@
 дитяча	ọmọ	None
 державу	ipinle	Nan
 дисплазія	dysplasia	Nan
-директорії	awọn ilana	Nan
+директорії	ilana	None
 дивізії	pipin	Nan
 дивіться	wo	Nan
 диксиленд	dixieland	Nan
@@ -6255,8 +6255,8 @@
 динаміка	ìmúdàgba	Nan
 дискусії	awọn ijiroro	Nan
 динаміки	ìmúdàgba	Nan
-династія	idile oba	Nan
-династії	idile oba	Nan
+династія	oba	None
+династії	oba	None
 дипломатичних	oselu ara ilu	Nan
 дипломатичні	oselu ara ilu	Nan
 директор	oludari	Nan
@@ -6328,18 +6328,18 @@
 берегах	eti okun	Nan
 береги	eti okun	Nan
 берегів	eti okun	Nan
-березень	oṣu kẹta	Nan
+березень	kẹta	None
 березкові	biriki	Nan
-березня	oṣu kẹta	Nan
+березня	kẹta	None
 бере	gba	None
-березні	oṣu kẹta	Nan
-берлін	ilu berlin	Nan
+березні	kẹta	None
+берлін	berlin	None
 берліні	berlin	None
 беруть	mu	Nan
 би	yoo	None
 бивні	ehin-erin	Nan
 битва	ogun	None
-битви	awọn ogun	Nan
+битви	ogun	None
 березі	eti okun	Nan
 бога	ọlọrun	Nan
 басейни	awọn adagun-odo	Nan
@@ -6372,8 +6372,8 @@
 астрономія	aworawo	Nan
 аякс	ajax	Nan
 астрономії	aworawo	Nan
-атлантичний	ede atlantic	Nan
-атлантичного	ede atlantic	Nan
+атлантичний	ede	None
+атлантичного	ede	None
 атмосфера	bugbamu	Nan
 атмосфери	awọn oju oorun	Nan
 атмосферу	bugbamu	Nan
@@ -6398,8 +6398,8 @@
 баптизм	ìrìbọmi	Nan
 барка	agba	None
 бароко	baroki	Nan
-бактерії	awọn kokoro arun	Nan
-бактерій	awọn kokoro arun	Nan
+бактерії	arun	None
+бактерій	arun	None
 байковому	itan	Nan
 базі	mimọ	Nan
 багато	lọpọlọpọ	Nan
@@ -6441,9 +6441,9 @@
 будівельні	ikole	Nan
 будівельних	ikole	Nan
 будівельний	ikole	Nan
-будуть	yio je	Nan
+будуть	yio	None
 будучи	jije	None
-будується	o wa ni kiko	Nan
+будується	kiko	None
 будь	jẹ	Nan
 будьяка	eyikeyi	Nan
 будьяке	eyikeyi	Nan
@@ -6469,8 +6469,8 @@
 білок	funfun	Nan
 білокур	belokur	Nan
 білорусь	belarus	None
-білоруська	ede belarus	Nan
-білоруської	ede belarus	Nan
+білоруська	belarus	None
+білоруської	belarus	None
 білорусі	belarus	None
 білорусії	belarus	None
 білої	funfun	Nan
@@ -6511,9 +6511,9 @@
 боці	ẹgbẹ	Nan
 бою	ogun	None
 бояр	boyar	Nan
-боях	awọn ogun	Nan
-бої	awọn ogun	Nan
-боїв	awọn ogun	Nan
+боях	ogun	None
+бої	ogun	None
+боїв	ogun	None
 брав	tiipa	Nan
 борис	boris	Nan
 болгарії	bulgaria	Nan
@@ -6555,9 +6555,9 @@
 будова	be	Nan
 будови	awọn ile	Nan
 будовою	be	Nan
-буде	yio je	Nan
+буде	yio	None
 асоціація	ẹgbẹ	Nan
-броненосці	awọn ogun ogun	Nan
+броненосці	ogun	None
 британія	gẹẹsi	Nan
 брали	mu	Nan
 брассі	idẹ	Nan
@@ -6622,8 +6622,8 @@
 адміністрації	iṣakoso	Nan
 адресу	adirẹsi	Nan
 аерограма	oju ofurufu	Nan
-аеропорт	papa ọkọ ofurufu	Nan
-аес	ohun ọgbin iparun agbara	Nan
+аеропорт	papa	None
+аес	agbara	None
 аж	titi	Nan
 азербайджан	azerbaijan	Nan
 азербайджану	azerbaijan	Nan
@@ -6699,20 +6699,20 @@ v	v	Nan
 xxi	xxi	Nan
 y	y	Nan
   	  	Nan
- км	km	Nan
- м	m	Nan
- млн	million	Nan
- млрд	bilionu	Nan
+км	km	Nan
+м	m	Nan
+млн	million	Nan
+млрд	bilionu	Nan
 xx	xx	Nan
- р	p	Nan
- року	ọdun	Nan
- році	ọdun	Nan
- рр	рр	Nan
- тис	ẹgbẹrun	Nan
+р	p	Nan
+року	ọdun	Nan
+році	ọdun	Nan
+рр	рр	Nan
+тис	ẹgbẹrun	Nan
 °с	° s	Nan
 à	sí	Nan
 а	ati	Nan
- р 	p	Nan
+р	p	Nan
 азію	esia	None
 xvixviii	xvixviii	Nan
 xviixviii	xviixviii	Nan
@@ -6762,7 +6762,7 @@ xix	xix	Nan
 андромеда	andromeda	Nan
 андрій	andriy	Nan
 андрійович	andreevich	Nan
-арабська	dè lárúbáwá	Nan
+арабська	lárúbáwá	None
 андрія	andria	Nan
 анна	mánà	Nan
 анни	annie	Nan
@@ -6772,10 +6772,10 @@ xix	xix	Nan
 антанти	entente	Nan
 антарктиди	antarctica	Nan
 анкара	ankara	Nan
-англійській	ni ede gẹẹsi	Nan
-арабських	dè lárúbáwá	Nan
+англійській	ede	None
+арабських	lárúbáwá	None
 аргентина	ilu amẹrika	Nan
-архівів	awọn ile ifi nkan pamosi	Nan
+архівів	nkan	None
 архімед	archimedes	Nan
 архіпелаг	ile ikawe	Nan
 архітектор	ayaworan	Nan
@@ -6790,8 +6790,8 @@ xix	xix	Nan
 архітектурі	faaji	Nan
 арш	oorun	Nan
 арістотель	aristotle	Nan
-архіву	ile ifi nkan pamosi	Nan
-архів	ile ifi nkan pamosi	Nan
+архіву	nkan	None
+архів	nkan	None
 археології	igba atijọ	Nan
 археологічні	igba atijọ	Nan
 аргентини	ilu amẹrika	Nan
@@ -6801,19 +6801,19 @@ xix	xix	Nan
 аристократії	aristocracy	Nan
 аристотель	aristotle	Nan
 аристотеля	aristotle	Nan
-арабської	dè lárúbáwá	Nan
-армію	ọmọ ogun	Nan
-армією	ọmọ ogun	Nan
-армії	ọmọ ogun	Nan
+арабської	lárúbáwá	None
+армію	ogun	None
+армією	ogun	None
+армії	ogun	None
 арно	arno	Nan
 артеріола	arterioles	Nan
 артист	olorin	Nan
 археологи	archaeologists	Nan
 археологічних	igba atijọ	Nan
-армія	ọmọ ogun	Nan
+армія	ogun	None
 англійську	gẹẹsi	Nan
 англійської	gẹẹsi	Nan
-англійською	ni ede gẹẹsi	Nan
+англійською	ede	None
 актом	iṣe	Nan
 актор	oṣere	Nan
 актори	olukopa	Nan
@@ -6939,7 +6939,7 @@ xix	xix	Nan
 виступили	ošišẹ	Nan
 виступів	awọn iṣe	Nan
 висунув	damọran	Nan
-витоки	n jo	Nan
+витоки	jo	None
 витрат	awọn idiyele	Nan
 витрати	awọn idiyele	Nan
 виховання	eko	None
@@ -7010,7 +7010,7 @@ xix	xix	Nan
 виражається	ti han	Nan
 вимовляється	oyè	Nan
 вимогам	awọn ibeere	Nan
-винятком	pẹlu awọn sile	Nan
+винятком	sile	None
 випадає	ṣubu jade	Nan
 випадках	awọn ọran	Nan
 випадки	awọn ọran	Nan
@@ -7086,7 +7086,7 @@ xix	xix	Nan
 внутрішнім	ti abẹnu	Nan
 внутрішньому	ti abẹnu	Nan
 вмістом	akoonu	Nan
-водою	pelu omi	Nan
+водою	omi	None
 воді	omi	None
 волосся	irun	Nan
 вольтер	voltaire	Nan
@@ -7130,7 +7130,7 @@ xix	xix	Nan
 виявили	ri	Nan
 виявилися	wa ni tan-jade	Nan
 виявилося	o wa ni tan	Nan
-виявити	fi han	Nan
+виявити	fi	None
 виявлення	erin	Nan
 виявлено	ri	Nan
 виявлені	ri	Nan
@@ -7139,12 +7139,12 @@ xix	xix	Nan
 виявляється	o wa ni jade	Nan
 вказують	tọka	Nan
 вказує	tọka	Nan
-вказівки	awọn ilana	Nan
-включала	to wa	Nan
+вказівки	ilana	None
+включала	to	None
 включають	pẹlu	Nan
 виявилася	wa ni tan-jade	Nan
 виявився	wa ni tan-jade	Nan
-виявив	se awari	Nan
+виявив	awari	None
 вищі	ga	Nan
 вихід	ẹnu ọna	Nan
 вишивка	iṣẹda	Nan
@@ -7165,7 +7165,7 @@ xix	xix	Nan
 вищий	ga	Nan
 включає	pẹlu	Nan
 включення	ifisi	Nan
-включено	to wa	Nan
+включено	to	None
 власного	tirẹ	Nan
 власності	ohun-ini	Nan
 власною	tirẹ	Nan
@@ -7192,7 +7192,7 @@ xix	xix	Nan
 вкриті	ti bo	Nan
 влада	agbara	None
 влади	awọn alaṣẹ	Nan
-влади 	awọn alaṣẹ	Nan
+влади	awọn alaṣẹ	Nan
 власним	tirẹ	Nan
 владислав	vladislav	Nan
 владі	agbara	None
@@ -7217,7 +7217,7 @@ xix	xix	Nan
 ведуть	darí	Nan
 вежа	ile-iṣọ	Nan
 вежі	awọn ile-iṣọ	Nan
-везер	oju ojo	Nan
+везер	ojo	None
 вексель	owo	Nan
 векселя	awọn akọsilẹ asọtẹlẹ	Nan
 вела	darí	Nan
@@ -7232,7 +7232,7 @@ xix	xix	Nan
 вважаються	ti wa ni gbero	Nan
 вважаючи	onigbagbọ	Nan
 вважає	gbagbọ	Nan
-вели	o sọ pe	Nan
+вели	sọ	None
 вважається	ti ni imọran	Nan
 введено	ti tẹ	Nan
 введені	ṣafihan	Nan
@@ -7289,7 +7289,7 @@ xix	xix	Nan
 біотит	biotite	Nan
 біржа	paṣipaarọ	Nan
 в	ninu	Nan
-ваал	ọmọ ogun	Nan
+ваал	ogun	None
 вага	iwuwo	Nan
 ваги	iwontunws.funfun	Nan
 вагу	iwuwo	Nan
@@ -7303,7 +7303,7 @@ xix	xix	Nan
 біологічних	ẹkọ oniye	Nan
 біологічна	ẹkọ oniye	Nan
 біографії	isedale	Nan
-більшменш	diẹ ẹ sii tabi kere si	Nan
+більшменш	tabi	None
 більшовиками	awọn bolsheviks	Nan
 більшовики	awọn bolsheviks	Nan
 більшовиків	bolsheviks	Nan
@@ -7365,19 +7365,19 @@ xix	xix	Nan
 верхньої	oke	Nan
 виділяються	ai-gba	Nan
 виділяє	awọn ifojusi	Nan
-виділяється	dúró síta	Nan
+виділяється	síta	None
 виживання	iwalaaye	Nan
 визволення	ominira	Nan
 визвольних	ominira	Nan
 визвольного	ominira	Nan
 визвольної	ominira	Nan
-визнав	gba wọle	Nan
+визнав	gba	None
 визнали	mọ	Nan
 визнаний	mọ	Nan
 визнання	idanimọ	Nan
 визнано	mọ	Nan
 визнані	mọ	Nan
-визнати	lati da	Nan
+визнати	da	None
 виділяють	yan	None
 виділити	saami	Nan
 виділення	yiyan	Nan
@@ -7404,7 +7404,7 @@ xix	xix	Nan
 визначає	ipinnu	Nan
 вийшло	o wa ni tan	Nan
 вийшов	jade wá	Nan
-виклав	gbe jade	Nan
+виклав	gbe	None
 викладання	nkọ́ni	Nan
 викладачів	olukọ	Nan
 викликав	ti a pe	Nan
@@ -7448,14 +7448,14 @@ xix	xix	Nan
 вживаються	ti lo	Nan
 вживається	ti lo	Nan
 вжитку	ni lilo	Nan
-взагалі	ni gbogbogbo	Nan
+взагалі	gbogbogbo	None
 взаємин	awọn ibatan	Nan
 взаємини	ibatan	Nan
 взаємодіють	ibaṣepọ	Nan
 взаємодія	ibaraenisepo	Nan
 взаємодії	ibaraenisepo	Nan
 вздовж	pẹlú	Nan
-взимку	ni igba otutu	Nan
+взимку	otutu	None
 вживали	ti lo	Nan
 вже	tẹlẹ	Nan
 вето	veto	Nan
@@ -7472,15 +7472,15 @@ xix	xix	Nan
 вершини	awọn igun	Nan
 вершиною	oke	Nan
 вершині	oke	Nan
-весна	orisun omi	Nan
-весни	orisun omi	Nan
+весна	omi	None
+весни	omi	None
 вести	darí	Nan
 весь	gbogbo	Nan
 вершин	awọn igun	Nan
 взяв	mu	Nan
 взяла	mu	Nan
 взяли	mu	Nan
-вигляді	ni irisi ti	Nan
+вигляді	irisi	None
 виговський	vyhovsky	Nan
 виговського	vyhovsky	Nan
 виготовлення	gbóògì	Nan
@@ -7508,7 +7508,7 @@ xix	xix	Nan
 вибору	yiyan	Nan
 виборів	awọn idibo	Nan
 вигляд	hihan	Nan
-вибрані	ti a ti yan	Nan
+вибрані	yan	None
 виведення	ajọbi	Nan
 вивчав	iwadi	None
 вивчати	iwadi	None
@@ -7581,7 +7581,7 @@ xix	xix	Nan
 марії	màríà	Nan
 мас	wt	Nan
 маса	ọpọ	Nan
-маси	awọn tabili	Nan
+маси	tabili	None
 масив	ifọwọra	Nan
 масиви	awọn ọga	Nan
 масиву	eto	Nan
@@ -7647,7 +7647,7 @@ xix	xix	Nan
 майстрів	ọga	Nan
 майя	maya	None
 макалу	makala	Nan
-македонського	ara makedonia	Nan
+македонського	makedonia	None
 македонія	makedonia	None
 македонії	makedonia	None
 маккартні	mccartney	Nan
@@ -7665,12 +7665,12 @@ xix	xix	Nan
 мазепа	o rọrun	Nan
 літописі	itan	Nan
 мазепи	mazepi	Nan
-майбутнього	ti ojo iwaju	Nan
-майбутньому	ojo iwaju	Nan
-майбутньої	ojo iwaju	Nan
-майбутнє	ojo iwaju	Nan
-майбутній	ojo iwaju	Nan
-майбутніх	ojo iwaju	Nan
+майбутнього	ojo	None
+майбутньому	ojo	None
+майбутньої	ojo	None
+майбутнє	ojo	None
+майбутній	ojo	None
+майбутніх	ojo	None
 майдан	awọn square	Nan
 мазепі	mazepi	Nan
 матеріальну	ohun elo	Nan
@@ -7721,11 +7721,11 @@ xix	xix	Nan
 множини	ọpọ	Nan
 мов	bi	Nan
 мова	ede	None
-мова 	ede	Nan
-мовами	awọn ede	Nan
-мовах	awọn ede	Nan
-мови	awọn ede	Nan
-мови 	awọn ede	Nan
+мова	ede	None
+мовами	ede	None
+мовах	ede	None
+мови	ede	None
+мови	ede	None
 мовлення	ọrọ	Nan
 мовленні	ọrọ	Nan
 мовна	ede	None
@@ -7767,7 +7767,7 @@ xix	xix	Nan
 медичної	egbogi	Nan
 медичні	egbogi	Nan
 меж	int	Nan
-межа	iye to	Nan
+межа	to	None
 межами	ita	Nan
 маєтку	ohun-ini	Nan
 маємо	a ni	Nan
@@ -7791,7 +7791,7 @@ xix	xix	Nan
 мають	ni	Nan
 матірю	iya	Nan
 межею	ààlà	Nan
-межиріччя	ikọja kan	Nan
+межиріччя	kan	None
 межу	ààlà	Nan
 менші	kere	Nan
 мені	si mi	Nan
@@ -7813,13 +7813,13 @@ xix	xix	Nan
 лісостепу	igbo-steppe	Nan
 менших	kere	Nan
 менший	ti o kere	Nan
-межує	awọn aala	Nan
-межі	awọn aala	Nan
+межує	aala	None
+межі	aala	None
 мексика	meksiko	None
 мексики	meksiko	None
 мельник	miller	Nan
 мембран	membranes	Nan
-мембрана	awo ilu	Nan
+мембрана	awo	None
 меншин	ẹlẹgbẹ	Nan
 мембрани	membranes	Nan
 меморіальний	ìrántí	Nan
@@ -7889,8 +7889,8 @@ xix	xix	Nan
 ланцюг	pq	Nan
 кіровограда	kirovograd	Nan
 кіровоград	kirovograd	Nan
-кінцівок	ọwọ ẹsẹ	Nan
-кінцівки	ọwọ ẹsẹ	Nan
+кінцівок	ẹsẹ	None
+кінцівки	ẹsẹ	None
 кількох	lọpọlọpọ	Nan
 кількісні	pipo	None
 кількість	nọmba	Nan
@@ -7914,7 +7914,7 @@ xix	xix	Nan
 країнами	awọn orilẹ-ede	Nan
 країнах	awọn orilẹ-ede	Nan
 країни	awọn orilẹ-ede	Nan
-країни 	awọn orilẹ-ede	Nan
+країни	awọn orilẹ-ede	Nan
 країною	orilẹ-ede	Nan
 країну	orilẹ-ede	Nan
 країні	orilẹ-ede	Nan
@@ -8004,8 +8004,8 @@ xix	xix	Nan
 ліберальна	olutayo	Nan
 лібералізм	ominira	Nan
 лібералізму	ominira	Nan
-людство	ọmọ eniyan	Nan
-людства	ọmọ eniyan	Nan
+людство	ọmọ	None
+людства	ọmọ	None
 людмила	людмила	Nan
 людині	ọkunrin	Nan
 львівська	lviv	Nan
@@ -8086,10 +8086,10 @@ xix	xix	Nan
 лежить	irọ	Nan
 лежать	láti parọ	Nan
 ледве	igboro	Nan
-латинська	ede latini	Nan
-латинського	ede latini	Nan
+латинська	latini	None
+латинського	latini	None
 латинською	ni latin	Nan
-латинської	ede latini	Nan
+латинської	latini	None
 лауреат	laureate	Nan
 ле	le	None
 лев	kiniun	Nan
@@ -8155,7 +8155,7 @@ xix	xix	Nan
 напрямі	itọsọna	Nan
 напрямів	awọn itọsọna	Nan
 нар	bi	Nan
-наразі	ni bayi	Nan
+наразі	bayi	None
 нараховує	kika	Nan
 нараховується	akojo	Nan
 нарешті	lakotan	Nan
@@ -8169,7 +8169,7 @@ xix	xix	Nan
 нападів	ku	None
 напередодні	lori efa	Nan
 напис	akọle	Nan
-написав	mo ko	Nan
+написав	ko	None
 написана	kọ	Nan
 написаний	kọ	Nan
 народ	eniyan	Nan
@@ -8191,10 +8191,10 @@ xix	xix	Nan
 наріччя	iledìí	Nan
 нас	àwa	Nan
 насамперед	a la koko	Nan
-населених	gbe jade	Nan
+населених	gbe	None
 населенню	olugbe	Nan
 населення	eniyan	Nan
-населення 	eniyan	Nan
+населення	eniyan	Nan
 населенням	olugbe	Nan
 населені	gbé	None
 населяли	gbé	None
@@ -8267,7 +8267,7 @@ xix	xix	Nan
 належать	jẹ	Nan
 належить	jẹ ti	Nan
 налічує	kika	Nan
-налічується	ti gba	Nan
+налічується	gba	None
 нам	si wa	Nan
 намагався	gbiyanju	Nan
 намагалася	gbiyanju	Nan
@@ -8482,11 +8482,11 @@ xix	xix	Nan
 море	okun	Nan
 морем	nipasẹ okun	Nan
 морська	okun	Nan
-морський	omi okun	Nan
-морських	omi okun	Nan
-морського	omi okun	Nan
+морський	omi	None
+морських	omi	None
+морського	omi	None
 мудрий	ologbon	Nan
-морської	omi okun	Nan
+морської	omi	None
 моря	òkun	Nan
 морі	okun	Nan
 морів	òkun	Nan
@@ -8625,7 +8625,7 @@ xix	xix	Nan
 навали	kogun ja	Nan
 навантаження	ẹru	Nan
 наведено	tẹ	Nan
-навесні	ni orisun omi	Nan
+навесні	omi	None
 навколишнього	agbegbe	Nan
 навколо	yika	Nan
 навпаки	idakeji	Nan
@@ -8647,8 +8647,8 @@ xix	xix	Nan
 міфів	arosọ	Nan
 міхновський	mikhnovsky	Nan
 міхновського	mikhnovsky	Nan
-н е	n e	Nan
-н е 	n e	Nan
+е	n e	Nan
+е	n e	Nan
 на	loju	Nan
 набагато	pupo	Nan
 міфології	itan aye atijọ	Nan
@@ -8684,7 +8684,7 @@ xix	xix	Nan
 навчального	idanileko	Nan
 нагіря	awọn ilu giga	Nan
 надав	nadav	Nan
-надавав	mo fun	Nan
+надавав	fun	None
 надавали	pese	Nan
 надавати	fifun	Nan
 надалі	siwaju	Nan
@@ -8707,7 +8707,7 @@ xix	xix	Nan
 мірі	si iye	Nan
 міст	afara	Nan
 міста	awọn ilu	Nan
-міста 	awọn ilu	Nan
+міста	awọn ilu	Nan
 містами	awọn ilu	Nan
 міністерства	iṣẹ́ òjíṣẹ́	Nan
 мінімуму	o kere ju	Nan
@@ -8732,7 +8732,7 @@ xix	xix	Nan
 мізантропія	misanthropy	Nan
 містах	awọn ilu	Nan
 містечка	awọn ilu	Nan
-містечко	ilu kekere	Nan
+містечко	kekere	None
 місцевої	agbegbe	Nan
 місцеві	agbegbe	Nan
 місцевість	agbegbe	Nan
@@ -8799,7 +8799,7 @@ xix	xix	Nan
 зберігається	ti o fipamọ	Nan
 зберігся	ni ifipamọ	Nan
 збиралися	o nlo	Nan
-збірна	egbe ti orilẹ-ede	Nan
+збірна	egbe	None
 збирання	gbigba	Nan
 зближення	aigbagbọ	Nan
 зборах	owo	Nan
@@ -8825,7 +8825,7 @@ xix	xix	Nan
 звуку	ìró	None
 звуків	awọn ohun	Nan
 звучання	ariwo	Nan
-звучить	láti dún	Nan
+звучить	dún	None
 звязані	ti o ni ibatan	Nan
 звинувачення	ẹsùn	Nan
 зверху	lati oke	Nan
@@ -8838,7 +8838,7 @@ xix	xix	Nan
 звання	ipo	None
 званого	ti a pe	Nan
 званої	ti a pe	Nan
-збірної	egbe ti orilẹ-ede	Nan
+збірної	egbe	None
 звану	ti a pe	Nan
 зварювання	alurinmorin	Nan
 зварюванні	alurinmorin	Nan
@@ -8918,7 +8918,7 @@ xix	xix	Nan
 заходом	iwọ oorun	Nan
 захворювання	aisan	Nan
 заходу	iwọ oorun	Nan
-заході 	iwọ oorun	Nan
+заході	iwọ oorun	Nan
 заходів	awọn igbese	Nan
 захопили	mú	Nan
 захопити	mú	Nan
@@ -8959,9 +8959,9 @@ xix	xix	Nan
 зменшення	idinku	Nan
 змогла	le	None
 змогли	le	None
-зможе	yoo ni anfani lati	Nan
-змушений	fi agbara mu	Nan
-змушені	fi agbara mu	Nan
+зможе	yoo	None
+змушений	agbara	None
+змушені	agbara	None
 змі	media	Nan
 зміг	le	None
 зменшується	n dinku	Nan
@@ -8996,7 +8996,7 @@ xix	xix	Nan
 знаки	awọn ami	Nan
 знав	mo ti mọ	Nan
 знаком	ami	Nan
-знали	wọn mọ	Nan
+знали	wọn	None
 знаменитий	olokiki	Nan
 знамениті	olokiki	Nan
 знання	imo	Nan
@@ -9016,7 +9016,7 @@ xix	xix	Nan
 здобув	bori	Nan
 здобула	ni ibe	Nan
 здобули	ni ibe	Nan
-здобути	lati gba	Nan
+здобути	gba	None
 здобуття	ohun-ini	Nan
 здоровя	ilera	Nan
 здібностей	ipa	Nan
@@ -9039,51 +9039,51 @@ xix	xix	Nan
 згадується	mẹnuba	Nan
 згоди	ase	Nan
 згодом	atẹle	Nan
-згодом 	atẹle	Nan
+згодом	atẹle	Nan
 згодою	ase	Nan
 згідно	gẹgẹ bi	Nan
 згадуються	ti mẹnuba	Nan
 здійснив	ti ṣe	Nan
-здійснила	ti gbe jade	Nan
+здійснила	gbe	None
 здійснити	ṣe	Nan
-землях	awọn ilẹ	Nan
+землях	ilẹ	None
 землі	ilẹ	None
 земних	ilẹ-ilẹ	Nan
 земноводних	amphibians	Nan
 земноводні	amunisin	Nan
 земного	ilẹ-ilẹ	Nan
 земної	ti ayé	Nan
-землями	awọn ilẹ	Nan
+землями	ilẹ	None
 зерна	awọn irugbin	Nan
-зима	igba otutu	Nan
+зима	otutu	None
 зими	winitutu	Nan
-зимовий	igba otutu	Nan
-зимові	igba otutu	Nan
+зимовий	otutu	None
+зимові	otutu	None
 зимородкові	ọba	Nan
-зимою	ni igba otutu	Nan
+зимою	otutu	None
 зйомка	o nya aworan	Nan
 зерно	ọkà	Nan
 заснована	orisun	None
 земля	ilẹ	None
 землею	ilẹ	None
-здійснювати	gbe jade	Nan
-здійснюють	gbe jade	Nan
-здійснюються	ti gbe jade	Nan
+здійснювати	gbe	None
+здійснюють	gbe	None
+здійснюються	gbe	None
 здійснює	gbejade	Nan
-здійснюється	ti gbe jade	Nan
+здійснюється	gbe	None
 зевс	zeus	Nan
 зевса	zeus	Nan
 землю	ilẹ	None
-зелена	alawọ ewe	Nan
-зелених	alawọ ewe	Nan
-зелені	alawọ ewe	Nan
-земель	awọn ilẹ	Nan
+зелена	ewe	None
+зелених	ewe	None
+зелені	ewe	None
+земель	ilẹ	None
 земельні	ilẹ	None
 землеробства	ogbin	Nan
 землеробство	ogbin	Nan
 землетрусів	awọn iwariri-ilẹ	Nan
-зелений	alawọ ewe	Nan
-заслужений	yẹ fun	Nan
+зелений	ewe	None
+заслужений	fun	None
 заслуги	anfani	Nan
 заслання	igbekun	Nan
 забруднення	ẹlẹgbin	Nan
@@ -9123,7 +9123,7 @@ xix	xix	Nan
 забезпечується	ti pese	Nan
 з	pẹlu	Nan
 жінкою	obinrin	Nan
-загалом	ni gbogbogbo	Nan
+загалом	gbogbogbo	None
 загальне	gbogboogbo	Nan
 загроза	irokeke	Nan
 загрози	irokeke	Nan
@@ -9133,7 +9133,7 @@ xix	xix	Nan
 задач	awọn iṣẹ-ṣiṣe	Nan
 задачі	awọn iṣẹ-ṣiṣe	Nan
 задля	nitori	Nan
-задовго	fun igba pipẹ	Nan
+задовго	fun	None
 задоволення	itelorun	Nan
 задум	gbero	Nan
 зазвичай	nigbagbogbo	Nan
@@ -9178,10 +9178,10 @@ xix	xix	Nan
 живопису	kikun	Nan
 живописі	kikun	Nan
 живої	laaye	Nan
-живуть	lati gbe	Nan
+живуть	gbe	None
 жертвам	mo rubọ	Nan
 жертв	olufaragba	Nan
-же	ikan na	Nan
+же	ikan	None
 жанрів	awọn ẹya	Nan
 етнічної	ẹya	Nan
 етнічні	ẹya	Nan
@@ -9221,7 +9221,7 @@ xix	xix	Nan
 журналів	awọn iwe irohin	Nan
 жодної	kò si	Nan
 зазнали	kari	Nan
-життєдіяльності	iṣẹ ṣiṣe to ṣe pataki	Nan
+життєдіяльності	to	None
 життєвого	pataki	Nan
 жителі	olugbe	Nan
 жителів	olugbe	Nan
@@ -9235,7 +9235,7 @@ xix	xix	Nan
 житомирської	zhytomyr	Nan
 життю	igbesi aye	Nan
 життя	igbesi aye	Nan
-життя 	igbesi aye	Nan
+життя	igbesi aye	Nan
 життям	igbesi aye	Nan
 життєвий	pataki	Nan
 життєвих	pataki	Nan
@@ -9248,7 +9248,7 @@ xix	xix	Nan
 занепад	kọ	Nan
 занепаду	kọ	Nan
 заняття	iṣẹ	Nan
-занять	lati gbe	Nan
+занять	gbe	None
 запасами	ọjà	Nan
 запаси	ọjà	Nan
 запасів	ọjà	Nan
@@ -9260,8 +9260,8 @@ xix	xix	Nan
 запису	igbasilẹ	Nan
 замінити	rọpo	Nan
 заміни	rirọpo	Nan
-заміж	ti ni iyawo	Nan
-замша	aṣọ irun ori	Nan
+заміж	iyawo	None
+замша	ori	None
 заліза	irin	Nan
 залізна	irin	Nan
 залізних	irin	Nan
@@ -9281,10 +9281,10 @@ xix	xix	Nan
 залізничного	reluwe	Nan
 залягають	na gbalaja silẹ	Nan
 запліднення	idapọ	Nan
-запобігти	lati yago fun	Nan
+запобігти	fun	None
 запрошення	ifiwepe	Nan
 заради	fun	None
-зараз	ni bayi	Nan
+зараз	bayi	None
 зареєстровано	forukọsilẹ	Nan
 заробітної	awọn dukia	Nan
 зародження	ibi	Nan
@@ -9294,7 +9294,7 @@ xix	xix	Nan
 засадах	ba eniyan	Nan
 засади	ba eniyan	Nan
 засвоєння	iṣawakiri	Nan
-заселена	gbe jade	Nan
+заселена	gbe	None
 заселення	pinpin okun	Nan
 заселені	gbé	None
 запропонував	daba	Nan
@@ -9333,8 +9333,8 @@ xix	xix	Nan
 заклик	pe	Nan
 закликав	ti a pe	Nan
 закон	ofin	None
-законами	awọn ofin	Nan
-закони	awọn ofin	Nan
+законами	ofin	None
+закони	ofin	None
 законодавства	ofin	None
 закарпаття	transcarpathia	Nan
 закарпатської	transcarpathian	Nan
@@ -9380,14 +9380,14 @@ xix	xix	Nan
 зазначає	awọn akọsilẹ	Nan
 залежності	gbarale	Nan
 залежить	gbarale	Nan
-законом	nipa ofin	Nan
+законом	ofin	None
 закономірностей	awọn apẹẹrẹ	Nan
 закономірності	awọn apẹẹrẹ	Nan
 закону	ofin	None
 законі	ofin	None
-законів	awọn ofin	Nan
+законів	ofin	None
 закордонних	ajeji	Nan
-залежно	da lori	Nan
+залежно	da	None
 закордонні	ajeji	Nan
 закінчення	ipari	Nan
 закінчив	ti pari	Nan
@@ -9438,7 +9438,7 @@ xix	xix	Nan
 кожні	kọọkan	Nan
 коефіцієнт	olùsọdipúpọ	Nan
 коливається	sokesile	Nan
-колишнього	awọn tele	Nan
+колишнього	tele	None
 команди	awọn pipaṣẹ	Nan
 командир	balogun	Nan
 командира	balogun	Nan
@@ -9458,8 +9458,8 @@ xix	xix	Nan
 команд	awọn ẹgbẹ	Nan
 колір	awọ	Nan
 колі	circle	Nan
-колишньої	awọn tele	Nan
-колишня	awọn tele	Nan
+колишньої	tele	None
+колишня	tele	None
 колишні	tele	None
 колишній	tele	None
 колишніх	tele	None
@@ -9532,8 +9532,8 @@ xix	xix	Nan
 коваленко	kovalenko	Nan
 коваль	alawodudu	Nan
 кого	tani	Nan
-князя	ọmọ alade	Nan
-князем	ọmọ alade	Nan
+князя	ọmọ	None
+князем	ọmọ	None
 княгині	ọmọ-alade	Nan
 кнр	ọbẹ	Nan
 клітинної	cellular	Nan
@@ -9557,11 +9557,11 @@ xix	xix	Nan
 комплекс	eka	None
 комплекси	eka	None
 кордон	ààlà	Nan
-кордонах	awọn aala	Nan
-кордони	awọn aala	Nan
+кордонах	aala	None
+кордони	aala	None
 кордоном	ààlà	Nan
 кордону	ààlà	Nan
-кордонів	awọn aala	Nan
+кордонів	aala	None
 кореня	gbongbo	None
 корені	wá	Nan
 кореї	korea	Nan
@@ -9573,8 +9573,8 @@ xix	xix	Nan
 користування	lo	Nan
 корану	awọn koran	Nan
 коран	kuran	Nan
-кораблів	awọn ọkọ oju omi	Nan
-кораблі	awọn ọkọ oju omi	Nan
+кораблів	omi	None
+кораблі	omi	None
 концентрація	fojusi	Nan
 концентрації	fojusi	Nan
 концепцій	awọn erongba	Nan
@@ -9638,8 +9638,8 @@ xix	xix	Nan
 комунізму	communism	Nan
 комунікація	ibaraẹnisọrọ	Nan
 комунікації	ibaraẹnisọrọ	Nan
-комуністична	ọmọ ẹgbẹ ilu	Nan
-комуністичної	ọmọ ẹgbẹ ilu	Nan
+комуністична	ọmọ	None
+комуністичної	ọmọ	None
 комі	kọma	Nan
 комісію	igbimọ	Nan
 комісія	igbimọ	Nan
@@ -9680,7 +9680,7 @@ xix	xix	Nan
 континентальний	continental	Nan
 континентального	continental	Nan
 континенту	kọntinia	Nan
-контакт	kan si	Nan
+контакт	kan	None
 контракт	àdéhùn	Nan
 контроль	iṣakoso	Nan
 контролю	iṣakoso	Nan
@@ -9782,7 +9782,7 @@ xix	xix	Nan
 история	itan	Nan
 й	ati	Nan
 йде	lọ	Nan
-йдеться	o ti sọ	Nan
+йдеться	sọ	None
 йдуть	lọ	Nan
 ймовірно	boya	Nan
 його	rẹ	None
@@ -9868,7 +9868,7 @@ xix	xix	Nan
 зону	agbegbe aago	Nan
 золотоверхий	ti wurà	Nan
 значне	pataki	Nan
-казки	awon to fun	Nan
+казки	fun	None
 как	bawo	Nan
 кафедра	alaga	Nan
 кафедральний	katidira	Nan
@@ -9878,13 +9878,13 @@ xix	xix	Nan
 кваліфікації	afijẹẹri	Nan
 квартал	mẹẹdogun	Nan
 кварталі	ẹgbẹ	Nan
-квітень	oṣu kẹrin	Nan
-квіти	awọn ododo	Nan
+квітень	kẹrin	None
+квіти	ododo	None
 квітка	òdòdó	Nan
-квітки	awọn ododo	Nan
-квітня	oṣu kẹrin	Nan
-квітні	oṣu kẹrin	Nan
-квітів	awọn ododo	Nan
+квітки	ododo	None
+квітня	kẹrin	None
+квітні	kẹrin	None
+квітів	ododo	None
 кафе	kafe	Nan
 католицькі	ẹlẹsin katoliki	Nan
 католицької	ẹlẹsin katoliki	Nan
@@ -9892,7 +9892,7 @@ xix	xix	Nan
 категоріярайонні	ẹka-idena	Nan
 категоріяреспубліки	ẹya ti ijọba olominira	Nan
 категоріярічки	odo odo ẹka	Nan
-категоріястатті	awọn nkan ẹka	Nan
+категоріястатті	nkan	None
 категоріяукраїнська	atijọ	Nan
 категоріяукраїнські	atijọ	Nan
 категоріяуродженці	awọn ara ilu ẹka	Nan
@@ -9921,7 +9921,7 @@ xix	xix	Nan
 києвомогилянської	kyiv-mohyla	Nan
 києвопечерської	kyiv-pechersk	Nan
 києві	kiev	Nan
-київ 	kiev	Nan
+київ	kiev	Nan
 київська	kyiv	Nan
 київське	kyiv	Nan
 кисню	atẹgun	Nan
@@ -9945,7 +9945,7 @@ xix	xix	Nan
 кирило	cyril	Nan
 кисень	atẹgun	Nan
 керівництво	oludari	Nan
-категоріяпомерли	ẹka ku	Nan
+категоріяпомерли	ku	None
 категоріяперсоналії	ẹyaya	Nan
 категоріяобласті	agbegbe ẹka	Nan
 канаді	kánádà	None
@@ -9953,12 +9953,12 @@ xix	xix	Nan
 канали	awọn ikanni	Nan
 каналу	ikanni	Nan
 каналів	awọn ikanni	Nan
-кандела	ibọn kekere	Nan
+кандела	kekere	None
 кандидат	oludije	Nan
 кандидата	oludije	Nan
 кандидатів	oludije	Nan
 канон	canon	Nan
-капела	ile ijosin	Nan
+капела	ijosin	None
 капітал	olu	Nan
 капіталу	olu	Nan
 капіталізму	kapitalisimu	Nan
@@ -9991,20 +9991,20 @@ xix	xix	Nan
 катастрофи	ajalu	Nan
 категорій	awọn ẹka	Nan
 категорія	ẹka	Nan
-категоріявипускники	awọn ọmọ ile-iwe ẹka	Nan
+категоріявипускники	ọmọ	None
 категоріявійни	ẹka	Nan
 категоріягеографія	ẹka kepe	Nan
 кассандра	cassandra	Nan
 категоріякраїни	ẹka oyinbo	Nan
 категоріяліберальні	libira ẹka	Nan
-категоріямови	ede ede	Nan
+категоріямови	ede	None
 категоріяміста	ẹka	Nan
 категоріянадпопулярні	ẹka elepo	Nan
 категоріянародились	ẹka ni a bi	Nan
 категоріянаселені	ẹka ilẹmọ	Nan
 категоріяобласні	ẹka	Nan
 категоріялауреати	laureates ẹka	Nan
-казок	mo nwa pali siga kan	Nan
+казок	kan	None
 каспійського	ara ilu caspini	Nan
 карті	maapu	None
 карла	karla	Nan

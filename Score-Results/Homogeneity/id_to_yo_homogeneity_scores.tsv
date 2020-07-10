@@ -4,7 +4,7 @@ pawai	itolẹsẹ	Nan
 payah	arọ	None
 payudara	igbaya	Nan
 payung	agboorun	Nan
-pbb	igbimọ gbogboogbo ti orilẹ-ede agbaye	Nan
+pbb	agbaye	None
 pc	pc	Nan
 pci	pci	Nan
 pda	pda	Nan
@@ -19,9 +19,9 @@ pecah	fifọ	Nan
 patungpatung	awọn isiro	Nan
 pattimura	pattimura	Nan
 pasti	esan	Nan
-pasukan	awọn ọmọ ogun	Nan
-pasukannya	ọmọ ogun rẹ	Nan
-pasukanpasukan	awọn ọmọ ogun ogun	Nan
+pasukan	ogun	None
+pasukannya	rẹ	None
+pasukanpasukan	ogun	None
 pasundan	pasundan	Nan
 pasuruan	pasuruan	Nan
 patah	fifọ	Nan
@@ -41,10 +41,10 @@ pekanbaru	pekanbaru	Nan
 pekat	ogidi	Nan
 pekerja	oṣiṣẹ	Nan
 pekerjaan	oojọ	Nan
-pekerjaannya	iṣẹ rẹ	Nan
+pekerjaannya	rẹ	None
 pelabuhan	ibudo	Nan
 peladen	olupin	Nan
-pelajar	ọmọ ile-iwe	Nan
+pelajar	ọmọ	None
 pelajaran	ẹkọ	Nan
 pelaksana	alaṣẹ	Nan
 pelaksanaan	imuse	Nan
@@ -59,7 +59,7 @@ pejuang	jagunjagun	Nan
 pecinta	ololufe	Nan
 pedagang	oníṣòwò	Nan
 pedagogi	alakọkọ	Nan
-pedalaman	loke ilẹ	Nan
+pedalaman	ilẹ	None
 pedang	idà	Nan
 pedangnya	ida	Nan
 pedas	lata	Nan
@@ -99,7 +99,7 @@ panggilan	pe	Nan
 panggung	ipele	None
 pangkal	mimọ	Nan
 pangkalan	mimọ	Nan
-pangkalpinang	mimọ ti yio	Nan
+pangkalpinang	yio	None
 pangkat	ipo	None
 panglima	balogun	Nan
 panitia	igbimo	Nan
@@ -113,12 +113,12 @@ panthera	panthera	Nan
 pass	rekoja	Nan
 parikesit	parikesit	Nan
 paris	paris	Nan
-pas	o kan ọtun	Nan
+pas	kan	None
 pasai	pasai	Nan
 pasal	nkan	None
-pasang	fi sii	Nan
+pasang	fi	None
 pasangan	tọkọtaya	Nan
-pasangannya	ẹlẹgbẹ rẹ	Nan
+pasangannya	rẹ	None
 pasar	ọjà	Nan
 pasaran	ọjà	Nan
 pasca	ifiweranṣẹ	Nan
@@ -139,7 +139,7 @@ parkir	pa	Nan
 parlemen	ile igbimọ aṣofin	Nan
 parlementer	ile igbimọ aṣofin	Nan
 parman	parman	Nan
-parsial	apa kan	Nan
+parsial	kan	None
 partai	ẹgbẹ	Nan
 partaipartai	ẹgbẹ	Nan
 partikel	patiku	Nan
@@ -162,7 +162,7 @@ pemeriksa	oluyẹwo	Nan
 pemeriksaan	àyẹ̀wò	Nan
 pemerintah	ijọba	Nan
 pemerintahan	ijọba	Nan
-pemerintahannya	ijọba rẹ	Nan
+pemerintahannya	rẹ	None
 pemetaan	aworan atọka	Nan
 pemikir	ironu	Nan
 pemikiran	ronu	Nan
@@ -176,12 +176,12 @@ pembuahan	oyun	Nan
 pembuangan	sọnu	Nan
 pembuat	alagidi	Nan
 pembuatan	sise	None
-pembuatannya	sise ti o	Nan
+pembuatannya	sise	None
 pembubaran	itu	None
 pembuka	ṣiṣi	Nan
 pembukaan	ṣiṣi	Nan
 pembuktian	ẹri	Nan
-pembuluh	awọn ọkọ oju omi	Nan
+pembuluh	omi	None
 pembungkus	murasilẹ	Nan
 pembunuh	apaniyan	Nan
 pembunuhan	paniyan	Nan
@@ -203,17 +203,17 @@ penamaan	lorukọ	Nan
 penambahan	afikun	Nan
 penampakan	wiwo	Nan
 penampilan	hihan	Nan
-penampilannya	hihan rẹ	Nan
+penampilannya	rẹ	None
 pemujaan	jọsin	Nan
 pemilih	àyàn	Nan
 pemugaran	imupada	Nan
 pemrosesan	sisẹ	Nan
 pemilik	oniwun	Nan
-pemiliknya	eni to ni	Nan
+pemiliknya	to	None
 pemilu	awọn idibo	Nan
 pemimpi	ala	None
 pemimpin	oludari	Nan
-pemimpinnya	oludari rẹ	Nan
+pemimpinnya	rẹ	None
 pemindahan	yiyọ	Nan
 pemindai	awọn scanner	Nan
 pemisah	lọtọ	Nan
@@ -253,7 +253,7 @@ pelatihan	ikẹkọ	Nan
 pelaut	atukọ̀	Nan
 pelayan	oluduro	Nan
 pelayanan	iṣẹ	Nan
-pelayaran	ọkọ oju-omi kekere	Nan
+pelayaran	kekere	None
 pelbagai	oniruru	Nan
 pelengkap	ibaramu	Nan
 pelepah	midrib	Nan
@@ -271,7 +271,7 @@ pembeli	oluraja	Nan
 pembelian	ra	None
 pembentuk	onigbese	Nan
 pembentukan	ibiyi	Nan
-pembentukannya	iṣeto rẹ	Nan
+pembentukannya	rẹ	None
 pemberantasan	iparun	Nan
 pemberdayaan	ifiagbara	Nan
 pemberhentian	ilekuro	Nan
@@ -291,7 +291,7 @@ pembaharuan	isọdọtun	Nan
 pembahasan	ijiroro	Nan
 pembakaran	ijona	Nan
 pembalap	ajé	Nan
-pangeran	ọmọ alade	Nan
+pangeran	ọmọ	None
 pembalasan	ẹsan	Nan
 pembangunan	idagbasoke	None
 pembantaian	pipa	Nan
@@ -327,10 +327,10 @@ normatif	iwuwasi	Nan
 north	ariwa	Nan
 norwegia	norway	Nan
 notasi	akiyesi	Nan
-nova	ko si	Nan
+nova	ko	None
 novel	aramada	Nan
 november	oṣu kọkanla	Nan
-nox	ko si	Nan
+nox	ko	None
 nt	éù	Nan
 ntb	ntb	Nan
 ntt	ntt	Nan
@@ -355,7 +355,7 @@ olah	botilẹjẹpe	Nan
 olahraga	idaraya	Nan
 old	atijọ	Nan
 oleh	nipasẹ	Nan
-olehnya	nipasẹ rẹ	Nan
+olehnya	rẹ	None
 olimpiade	olimpiiki	Nan
 ogan	ogan	Nan
 nyeri	irora	Nan
@@ -368,7 +368,7 @@ obatobatan	awọn oogun	Nan
 obesitas	isanraju	Nan
 obito	obito	Nan
 objek	ohun naa	Nan
-objekobjek	ohun èlò	Nan
+objekobjek	èlò	None
 objektif	eredi	Nan
 obligasi	mnu	Nan
 observasi	akiyesi	Nan
@@ -397,7 +397,7 @@ newton	newton	Nan
 ngawi	ngawi	Nan
 neoklasik	ẹkọ afiyesi	Nan
 ngetop	gbajumọ	Nan
-nenek	iya agba	Nan
+nenek	agba	None
 nelayan	apẹja	Nan
 natural	àbínibí	Nan
 naturalis	alamọdaju	Nan
@@ -448,9 +448,9 @@ nikel	nickel	Nan
 nikita	nikita	Nan
 nikmat	ojurere	Nan
 nil	nil	Nan
-nilai	o wole	Nan
+nilai	wole	None
 nilainilai	awọn iye	Nan
-nilainya	iye rẹ	Nan
+nilainya	rẹ	None
 ninja	ninja	Nan
 nirkabel	alailowaya	Nan
 oma	dara	Nan
@@ -493,7 +493,7 @@ padi	iresi	Nan
 paduan	alloy	Nan
 pabrik	ile ise	Nan
 pakistan	pakistan	Nan
-paksa	fi agbara mu	Nan
+paksa	agbara	None
 pamungkas	gbẹhin	Nan
 panah	ọfa	Nan
 panas	gbona	Nan
@@ -538,12 +538,12 @@ oral	ẹnu	Nan
 orang	eniyan	Nan
 orangorang	eniyan	Nan
 orangtua	awọn obi	Nan
-orangtuanya	awọn obi rẹ	Nan
+orangtuanya	rẹ	None
 orangutan	orangutan	Nan
 oranye	ọsan	Nan
 orbit	orbitin	Nan
 orbital	orbitals	Nan
-orbitnya	orọn rẹ	Nan
+orbitnya	rẹ	None
 orde	paṣẹ	Nan
 order	paṣẹ	Nan
 ordo	paṣẹ	Nan
@@ -553,7 +553,7 @@ optik	opitika	Nan
 oppie	oppie	Nan
 oncom	àmò	Nan
 ongkos	owo-ọkọ	Nan
-online	lórí ìlà	Nan
+online	ìlà	None
 oort	oort	Nan
 opak	akomo	Nan
 opec	opec	None
@@ -603,7 +603,7 @@ orochimaru	orochimaru	Nan
 ortodoks	àtijọ	Nan
 os	os	Nan
 osing	osing	Nan
-osis	igbimọ ọmọ ile-iwe	Nan
+osis	ọmọ	None
 oslo	oslo	Nan
 orkes	olutoju	Nan
 penanaman	gbingbin	Nan
@@ -615,7 +615,7 @@ perkebunan	oko	None
 perkecualian	ayafi	Nan
 perkelahian	ja	Nan
 perkembangan	idagbasoke	None
-perkembangannya	idagbasoke rẹ	Nan
+perkembangannya	rẹ	None
 perkiraan	ti siro	Nan
 perkotaan	ilu	Nan
 perkumpulan	ẹgbẹ	Nan
@@ -623,10 +623,10 @@ perlahan	laiyara	Nan
 perlahanlahan	laiyara	Nan
 perlakuan	itọju	Nan
 perlawanan	atako	Nan
-perlengkapan	ohun èlò	Nan
+perlengkapan	èlò	None
 perkara	ọran	Nan
 perlindungan	aabo	Nan
-perkapita	fun okoowo	Nan
+perkapita	fun	None
 perkampungan	abule	Nan
 perindustrian	ile ise	Nan
 peringatan	ikilọ	Nan
@@ -639,7 +639,7 @@ perisai	asà	Nan
 peristiwa	ìṣẹlẹ	Nan
 peristiwaperistiwa	iṣẹlẹ	Nan
 perjalanan	irin-ajo	Nan
-perjalanannya	irin-ajo rẹ	Nan
+perjalanannya	rẹ	None
 perjan	majẹmu	Nan
 perjanjian	àdéhùn	Nan
 perjuangan	ijakadi	None
@@ -674,7 +674,7 @@ permen	suwiti	Nan
 permintaan	beere	Nan
 permohonan	ẹbẹ	Nan
 permukaan	dada	Nan
-permukaannya	pẹpẹ rẹ	Nan
+permukaannya	rẹ	None
 permukiman	pinpin okun	Nan
 permulaan	ibere	Nan
 permusyawaratan	ijumọsọrọ	Nan
@@ -698,14 +698,14 @@ perbedaannya	iyatọ naa	Nan
 perbelanjaan	ohun tio wa	Nan
 perbendaharaan	ìṣúra	Nan
 perbuatan	iṣe	Nan
-perbudakan	oko eru	Nan
+perbudakan	oko	None
 perbukitan	awọn oke-nla	Nan
 perawan	wundia	Nan
 percakapan	ibaraẹnisọrọ	Nan
-peraturan	awọn ofin	Nan
+peraturan	ofin	None
 peranti	ẹrọ	Nan
 perak	fadaka	Nan
-peralatan	ohun èlò	Nan
+peralatan	èlò	None
 peralihan	switchover	Nan
 peramban	aṣàwákiri	Nan
 peran	ipa	Nan
@@ -730,7 +730,7 @@ pergeseran	ayipada	Nan
 pergi	lọ	Nan
 perguruan	kọlẹji	Nan
 perhatian	akiyesi	Nan
-perhatiannya	akiyesi rẹ	Nan
+perhatiannya	rẹ	None
 perhatikan	fara bale	Nan
 perhiasan	ohun ọṣọ	Nan
 perhimpunan	ẹgbẹ	Nan
@@ -750,13 +750,13 @@ perdana	nomba	Nan
 perdarahan	ẹjẹ	Nan
 perdata	ara ilu	Nan
 perdebatan	ijiroro	Nan
-perebutan	ija fun	Nan
+perebutan	fun	None
 peredaran	san	Nan
 perekam	agbohunsilẹ	Nan
 perekonomian	aje	None
 perempuan	obinrin	Nan
 perempuannya	omobinrin	Nan
-perenang	ọmọ adodo	Nan
+perenang	ọmọ	None
 perez	perez	Nan
 persediaan	ọja	Nan
 persegi	square	Nan
@@ -787,13 +787,13 @@ petir	monomono	Nan
 petrus	epo epo	Nan
 petualangan	ìrìn	Nan
 petugas	ọgágun	Nan
-petunjuk	olobo kan	Nan
+petunjuk	kan	None
 peuyeum	èúà	Nan
 pewaris	ajogun	Nan
 pewarisan	ogún	Nan
 pewarnaan	awọ	Nan
 pewayangan	puppet show	Nan
-peziarah	ajo mimọ	Nan
+peziarah	ajo	None
 pgri	pgri	Nan
 phase	alakoso	Nan
 peternakan	igbẹ ẹran	Nan
@@ -804,7 +804,7 @@ pipa	paipu	Nan
 pippin	pippin	Nan
 piramida	jibiti	Nan
 piranti	ẹrọ	Nan
-pires	awọn ọkọ oju-omi kekere	Nan
+pires	kekere	None
 piring	awo	None
 piringan	disiki	Nan
 piruvat	pyruvate	Nan
@@ -880,7 +880,7 @@ perusakan	jagidi	Nan
 perut	ikun	Nan
 perwakilan	aṣoju	Nan
 perwara	perwara	Nan
-perwira	oṣiṣẹ ti a fun ni aṣẹ	Nan
+perwira	fun	None
 perwujudan	ẹṣẹ	Nan
 pesaing	oludije	Nan
 pesan	ifiranṣẹ	Nan
@@ -899,7 +899,7 @@ pertentangan	ariyanjiyan	Nan
 pertikaian	infighting	Nan
 pertimbangan	ero	Nan
 pertiwi	ìyá ìyá	Nan
-pertolongan	egba mi o	Nan
+pertolongan	egba	None
 pertukaran	paṣipaarọ	Nan
 perairan	omi	None
 pertumbuhan	idagba	Nan
@@ -911,7 +911,7 @@ perum	ile-iṣẹ gbangba	Nan
 perumahan	ile	Nan
 perumusan	agbekalẹ	Nan
 pertumbuhannya	idagba re	Nan
-perahu	ọkọ oju omi	Nan
+perahu	omi	None
 peradilan	idajo	None
 peradangan	igbona	Nan
 pengalaman	iriri	Nan
@@ -927,7 +927,7 @@ pengangkatan	ipinnu lati pade	Nan
 pengangkut	agbẹru	Nan
 pengangkutan	irinna	Nan
 pengantar	ifihan	Nan
-pengantin	iyawo ati iyawo	Nan
+pengantin	iyawo	None
 penganut	ọmọlẹyìn	Nan
 pengakuan	idanimọ	Nan
 pengarang	onkọwe	Nan
@@ -963,7 +963,7 @@ penggambaran	ifihan	Nan
 pengganti	aropo	Nan
 penggantian	rirọpo	Nan
 penggemar	àìpẹ	Nan
-penggemarnya	rẹ egeb	Nan
+penggemarnya	rẹ	None
 penggerak	awọn arinbo	Nan
 penggolongan	isọdi	Nan
 pengguguran	iṣẹyun	Nan
@@ -996,7 +996,7 @@ pencegahan	idena	Nan
 pencemar	oludibo	Nan
 pencemaran	ẹlẹgbin	Nan
 pencerahan	imoye	Nan
-pencerap	n gba	Nan
+pencerap	gba	None
 pencernaan	walẹ	Nan
 pencetak	itẹwe	Nan
 pencetus	ipilẹṣẹ	Nan
@@ -1028,21 +1028,21 @@ pencampuran	dapọ	Nan
 pendakian	gígun	Nan
 pendamping	ẹlẹgbẹ	Nan
 pendapat	ero	Nan
-penduduknya	awọn olugbe rẹ	Nan
+penduduknya	rẹ	None
 pendukung	awọn olufowosi	Nan
-pendukungnya	awọn alatilẹyin rẹ	Nan
+pendukungnya	rẹ	None
 penebangan	gedu	Nan
 penegak	agbofinro	Nan
 penegakan	agbofinro	Nan
 penekanan	tcnu	Nan
 peneliti	awadi naa	Nan
 penelitian	iwadii	Nan
-penelitiannya	iwadi rẹ	Nan
+penelitiannya	rẹ	None
 penembakan	gbon	Nan
 penempatan	ibi isere	Nan
 penemu	olupilẹṣẹ	Nan
 penemuan	kiikan	Nan
-penemuannya	awari rẹ	Nan
+penemuannya	rẹ	None
 pendudukan	iṣẹ	Nan
 penduduk	olugbe	Nan
 pendorong	ariwo	Nan
@@ -1060,13 +1060,13 @@ penderitaan	ijiya	Nan
 pendet	pendet	Nan
 pendeta	aguntan	Nan
 pendidikan	eko	None
-pendidikannya	eto eko re	Nan
+pendidikannya	eko	None
 pendinginan	itutu tutu	Nan
 pendiri	baba oludasile	Nan
 penderita	na	Nan
 natsir	natsir	Nan
 penggunaan	lo	Nan
-penggunanya	awọn olumulo rẹ	Nan
+penggunanya	rẹ	None
 penyakit	aisan	Nan
 penyakitpenyakit	aisan	Nan
 penyalahgunaan	ilokulo	Nan
@@ -1207,7 +1207,7 @@ pengulangan	atunwi	Nan
 pengumpul	olugbala	Nan
 pengumpulan	gbigba	Nan
 pengumuman	ikede	Nan
-penggunaannya	lilo rẹ	Nan
+penggunaannya	rẹ	None
 pengunduran	itusilẹ	Nan
 pengungsi	asasala	Nan
 pengungsian	koseemani	Nan
@@ -1225,7 +1225,7 @@ mempengaruhi	ipa	Nan
 memperbaiki	lati tunse	Nan
 memperbanyak	isodipupo	Nan
 memperbesar	gbooro	Nan
-memperbolehkan	gba laaye	Nan
+memperbolehkan	gba	None
 memperburuk	buru	Nan
 mempercayai	gbekele	Nan
 mempercepat	yiyara	Nan
@@ -1256,12 +1256,12 @@ memompa	fifa soke	Nan
 memonitor	bojuto	Nan
 memori	iranti	Nan
 memicu	okunfa	Nan
-memperjuangkan	ja fun	Nan
+memperjuangkan	fun	None
 memperkenalkan	ṣafihan	Nan
 mempunyai	ni	Nan
 memuaskan	itelorun	Nan
 memuat	ẹru	Nan
-memudahkan	jẹ ki o rọrun	Nan
+memudahkan	ki	None
 memuja	juba	Nan
 memuji	iyin	Nan
 memukul	lu	Nan
@@ -1269,8 +1269,8 @@ memulai	bẹrẹ	Nan
 memuliakan	yin logo	Nan
 memulihkan	mu pada	Nan
 memuncak	tú	None
-memunculkan	to ju	Nan
-memungkinkan	jẹ ki o ṣee ṣe	Nan
+memunculkan	to	None
+memungkinkan	ki	None
 memusatkan	koju	Nan
 memusnahkan	parun	Nan
 mempublikasikan	lati jade	Nan
@@ -1280,7 +1280,7 @@ memproklamasikan	kede	Nan
 memperkirakan	ti siro	Nan
 memperkuat	teramo	Nan
 memperlambat	se diedie	Nan
-memperlihatkan	lati fihan	Nan
+memperlihatkan	fihan	None
 memperluas	faagun	Nan
 mempermudah	irọrun	Nan
 memperoleh	gba	None
@@ -1302,33 +1302,33 @@ membentang	nà	Nan
 membentuk	lati dagba	Nan
 memberantas	pa	Nan
 memberi	fifun	Nan
-memberikan	itore aanu	Nan
-memberinya	fun un	Nan
-memberitahu	sisọ fun ọ	Nan
+memberikan	aanu	None
+memberinya	fun	None
+memberitahu	fun	None
 memberitahukan	sọ	None
 memberlakukan	ilana	None
 memberontak	ọlọtẹ	Nan
 membersihkan	mọ	Nan
 membesar	gbooro	Nan
-membiarkan	jẹ ki	Nan
-membenarkan	da lare	Nan
+membiarkan	ki	None
+membenarkan	da	None
 membiayai	isuna	Nan
 membeli	ra	None
 membela	gbeja	Nan
 membangun	kọ	Nan
 membantah	jiyan	Nan
-membantu	egba mi o	Nan
-membantunya	ràn án lọ́wọ́	Nan
+membantu	egba	None
+membantunya	án	None
 membatalkan	fagile	None
-membatasi	iye to	Nan
+membatasi	to	None
 membawa	mu	Nan
 membawakan	mu	Nan
-membawanya	gbe e	Nan
+membawanya	gbe	None
 membayangkan	fojuinu	Nan
 membayar	sanwo	Nan
 membebaskan	free soke	Nan
 membedakan	ṣe iyatọ	Nan
-membedakannya	ṣe iyatọ rẹ	Nan
+membedakannya	rẹ	None
 membeku	froze	Nan
 membelah	pipin	Nan
 memfasilitasi	dẹrọ	Nan
@@ -1336,13 +1336,13 @@ membicarakan	sọrọ nipa	Nan
 membina	kọ ni ṣisẹ n tẹle	Nan
 memecah	fọ	Nan
 memecahkan	yanju	Nan
-memegang	dani lori	Nan
+memegang	dani	None
 memelihara	ṣetọju	Nan
 memeluk	mọnamọna	Nan
 memenangi	ṣẹgun	Nan
 memenangkan	ṣẹgun	Nan
-memengaruhi	lati ni agba	Nan
-mementingkan	so pataki si	Nan
+memengaruhi	agba	None
+mementingkan	so	None
 memenuhi	amuse	Nan
 memerangi	ja lodi si	Nan
 memeriksa	ṣayẹwo	Nan
@@ -1355,8 +1355,8 @@ memburuk	bajẹ	Nan
 membunuhnya	pa a	Nan
 membingungkan	airoju	Nan
 membintangi	starred ni	Nan
-membolehkan	gba laaye	Nan
-membran	awo ilu	Nan
+membolehkan	gba	None
+membran	awo	None
 membuahi	idapọ	Nan
 membuahkan	si eso	Nan
 membuang	lati jabọ	Nan
@@ -1365,8 +1365,8 @@ membuatnya	ṣe	Nan
 membubarkan	tuka	Nan
 membujuk	yiroro	Nan
 membuka	ṣii	Nan
-membuktikan	fi mule	Nan
-membungkus	fi ipari si	Nan
+membuktikan	fi	None
+membungkus	fi	None
 membunuh	pa	Nan
 memburu	lati sode	Nan
 men	awọn ọkunrin	Nan
@@ -1390,9 +1390,9 @@ menetapkan	ṣeto	Nan
 menemukan	wa	Nan
 menetas	payeon	Nan
 menemui	pàdé	Nan
-menempel	rọ̀ mọ́ ọn	Nan
+menempel	ọn	None
 menduduki	gbalaye	Nan
-menduga	gboju le won	Nan
+menduga	le	None
 mendukung	atilẹyin	Nan
 mendut	mendut	Nan
 menegakkan	fowosowopo	Nan
@@ -1401,7 +1401,7 @@ menekan	ti	Nan
 menekankan	tẹnumọ	Nan
 menelan	gbe	None
 meneliti	iwadii	Nan
-menelusuri	wa fun	Nan
+menelusuri	fun	None
 menembak	iyaworan	Nan
 menembus	wọ inu	Nan
 menempati	gbalaye	Nan
@@ -1418,10 +1418,10 @@ mengambil	mu	Nan
 mengamuk	rampage	Nan
 menganalisis	lati itupalẹ	Nan
 mengancam	idẹruba	Nan
-mengandalkan	gbokan le	Nan
+mengandalkan	le	None
 mengandung	ni	Nan
 menganggap	ro	None
-menganggapnya	ro o	Nan
+menganggapnya	ro	None
 mengangkat	gbe	None
 mengangkut	irinna	Nan
 menganjurkan	ṣeduro	Nan
@@ -1429,8 +1429,8 @@ mengalihkan	yipada	None
 mengabaikan	foju	Nan
 mengalami	lati ni iriri	Nan
 mengalahkan	lu	Nan
-mengadakan	fi sii	Nan
-mengadopsi	lati gba	Nan
+mengadakan	fi	None
+mengadopsi	gba	None
 mengadu	ipanu	Nan
 mengagumkan	oniyi	Nan
 mengajak	fiwepe	Nan
@@ -1444,15 +1444,15 @@ mengaktifkan	mu ṣiṣẹ	Nan
 mengaktivasi	mu ṣiṣẹ	Nan
 mengaku	jẹwọ	Nan
 mengakui	jẹwọ	Nan
-mengalahkannya	ṣẹgun rẹ	Nan
+mengalahkannya	rẹ	None
 mendominasi	jẹ gaba lori	Nan
 mendistribusikan	kaakiri	Nan
-mendirikan	fi idi mulẹ	Nan
+mendirikan	fi	None
 menanggapi	fesi	Nan
 menangis	kigbe	Nan
 menangkap	mú	Nan
 menantang	nija	Nan
-menantu	oko omo mi obirin	Nan
+menantu	oko	None
 menanyakan	béèrè	Nan
 menara	ile-iṣọ	Nan
 menari	jó	Nan
@@ -1468,26 +1468,26 @@ mencapai	lati de odo	Nan
 menang	ṣẹgun	Nan
 menandakan	tọka	Nan
 menahan	fa seyin	Nan
-menaiki	gun oke	Nan
-menaikkan	gbe dide	Nan
+menaiki	gun	None
+menaikkan	gbe	None
 menaklukkan	ṣẹgun	Nan
 menakutkan	idẹruba	Nan
 menamai	lorukọ o	Nan
 menamakan	lorukọ o	Nan
 menambah	ṣafikun	Nan
 menambahkan	ṣafikun	Nan
-menampakkan	fi han	Nan
+menampakkan	fi	None
 menampilkan	lati han	Nan
 menampung	gba	None
 menanam	ohun ọgbin	Nan
-menanamkan	fi sabe	Nan
+menanamkan	fi	None
 menandai	samisi ni pipa	Nan
 menandatangani	ami	Nan
-mencari	nwa fun	Nan
+mencari	fun	None
 mencatat	mu awọn akọsilẹ	Nan
 mencegah	ṣe idiwọ	Nan
 mendasari	labẹ	Nan
-mendatang	ojo iwaju	Nan
+mendatang	ojo	None
 mendatangi	kọja siwaju	Nan
 mendatangkan	mu wa	Nan
 mendefinisikan	setumo	Nan
@@ -1505,7 +1505,7 @@ mendasar	ipilẹ	Nan
 mendarat	gbe	None
 mendapatkan	gba	None
 mendapati	wa	Nan
-menceritakan	lati so fun	Nan
+menceritakan	fun	None
 mencerminkan	tan ojiji	Nan
 mencerna	digest	Nan
 mencetak	tẹjade	Nan
@@ -1514,7 +1514,7 @@ menciptakan	ṣẹda	Nan
 mencoba	gbidanwo	Nan
 membangkitkan	ji	Nan
 mencolok	idaṣẹ	Nan
-mencukupi	ti to	Nan
+mencukupi	to	None
 mencuri	jale	Nan
 mendadak	lojiji	Nan
 mendahului	lepa	Nan
@@ -1525,16 +1525,16 @@ mencuci	wẹ	Nan
 membandingkan	lati fiwera	Nan
 membalas	fesi	Nan
 membakar	jona	Nan
-maps	awọn maapu	Nan
+maps	maapu	None
 marah	binu	Nan
 march	irin-ajo	Nan
 marco	ọkọ ofurufu	Nan
-maret	oṣu kẹta	Nan
+maret	kẹta	None
 marga	idile	Nan
 maria	maria	Nan
 marie	ọkọ	Nan
 mario	mario	Nan
-maritim	igba omi okun	Nan
+maritim	omi	None
 mark	samisi	Nan
 markas	olú	Nan
 market	ọjà	Nan
@@ -1547,7 +1547,7 @@ manufaktur	ṣe	Nan
 mangga	mango	None
 mangkuk	ekan	Nan
 mangsa	ohun ọdẹ	Nan
-mangsanya	ohun ọdẹ rẹ	Nan
+mangsanya	rẹ	None
 mangunkusumo	mangunkusumo	Nan
 manifestasi	ifihan	Nan
 manik	ileke	Nan
@@ -1564,7 +1564,7 @@ mangekyou	mangekyou	Nan
 marshall	marshall	Nan
 martin	martin	Nan
 mask	iboju	Nan
-maskapai	ile ise oko ofurufu	Nan
+maskapai	oko	None
 maslow	maslow	Nan
 massa	ọpọ	Nan
 massal	ọpọ	Nan
@@ -1594,16 +1594,16 @@ masak	alase	Nan
 masakan	cook	Nan
 masalah	iṣoro	Nan
 masalahmasalah	awọn iṣoro	Nan
-masamasa	ọjọ ori	Nan
-masanya	akoko rẹ	Nan
+masamasa	ori	None
+masanya	rẹ	None
 masehi	mas	Nan
 masing	leralera	Nan
 manga	manga	Nan
 manfaat	awọn anfani	Nan
 mandiri	olominira	Nan
 makhluk	ẹda	Nan
-makhluknya	ẹda rẹ	Nan
-maki	awon nkan	Nan
+makhluknya	rẹ	None
+maki	nkan	None
 makin	siwaju ati siwaju sii	Nan
 makkah	makkah	Nan
 makmur	ọlọrọ	Nan
@@ -1662,7 +1662,7 @@ malang	talaka	None
 malaria	aisan	Nan
 malaya	malaya	Nan
 malaysia	malaysia	None
-malayu	ede mala	Nan
+malayu	ede	None
 maldini	maldini	Nan
 malik	malik	Nan
 matahari	oorun	Nan
@@ -1677,7 +1677,7 @@ mamori	mamori	Nan
 mall	ile itaja	Nan
 mengantar	ju silẹ	Nan
 matamata	oju	Nan
-matanya	oju rẹ	Nan
+matanya	rẹ	None
 melingkar	ipin	None
 melingkupi	ideri	Nan
 melintang	onigbekele	Nan
@@ -1697,7 +1697,7 @@ melindungi	dáàbò	Nan
 melukis	kun	Nan
 melimpah	àkúnwọsílẹ̀	Nan
 melihatnya	wo o	Nan
-melekat	so si	Nan
+melekat	so	None
 melemah	ailera	Nan
 melemahkan	irẹwẹsi	Nan
 melempar	jabọ	Nan
@@ -1705,15 +1705,15 @@ melemparkan	fo	Nan
 melengkapi	pari	Nan
 melengkung	te	Nan
 melepas	bo kuro	Nan
-melepaskan	jẹ ki o lọ	Nan
+melepaskan	ki	None
 melestarikan	fipamọ	Nan
 meletakkan	fi	None
 meletus	parun	Nan
-melewati	gba nipasẹ	Nan
-melibatkan	lati kan	Nan
+melewati	gba	None
+melibatkan	kan	None
 melihat	wo	Nan
 melilit	ti a we yika	Nan
-meledak	bu gbamu	Nan
+meledak	bu	None
 meluncurkan	gbesita	Nan
 memacu	spur	Nan
 memantau	bojuto	Nan
@@ -1721,7 +1721,7 @@ memantulkan	tan ojiji	Nan
 memasak	alase	Nan
 memasang	pese	Nan
 memastikan	rii daju	Nan
-memasukan	fi sinu	Nan
+memasukan	fi	None
 memasuki	tẹ	Nan
 memasukkan	tẹ	Nan
 mematahkan	fọ	Nan
@@ -1753,7 +1753,7 @@ memanggil	pe	Nan
 memangsa	ohun ọdẹ lori	Nan
 melebur	dapọ	Nan
 melebihi	kọja	Nan
-melayu	ede mala	Nan
+melayu	ede	None
 maxwell	maxwell	Nan
 may	le	None
 maya	ogun	None
@@ -1782,7 +1782,7 @@ material	ohun elo	Nan
 materiil	ohun elo	Nan
 materimateri	ohun elo	Nan
 mati	kú	Nan
-matius	lati ku	Nan
+matius	ku	None
 matriks	matrix	Nan
 matsumoto	matsumoto	Nan
 matt	matiresi	Nan
@@ -1814,7 +1814,7 @@ melaksanakan	n ṣe	Nan
 mega	mega	Nan
 megah	ologo	Nan
 megawati	megawati	Nan
-mei	oṣu karun	Nan
+mei	karun	None
 meitantei	meitantei	Nan
 meja	tabili	None
 mekanik	mekaniki	Nan
@@ -1836,8 +1836,8 @@ miring	tẹẹrẹ	Nan
 mirip	jọra	Nan
 misa	ọpọ	Nan
 misal	apẹẹrẹ	Nan
-misalkan	fun apere	Nan
-misalnya	fun apere	Nan
+misalkan	fun	None
+misalnya	fun	None
 mischa	mischa	Nan
 misi	ise	Nan
 misil	misaili	Nan
@@ -1865,7 +1865,7 @@ minimal	o kere ju	Nan
 minimum	o kere ju	Nan
 mining	iwakusa	Nan
 minor	kekere	None
-minta	beere fun	Nan
+minta	fun	None
 milton	milton	Nan
 mistisisme	mysticism	Nan
 mitologi	itan aye atijọ	Nan
@@ -1913,7 +1913,7 @@ meski	botilẹjẹpe	Nan
 meskipun	biotilejepe	Nan
 messenger	ojiṣẹ	Nan
 mesti	gbọdọ	Nan
-metabolisme	ti iṣelọpọ agbara	Nan
+metabolisme	agbara	None
 metal	irin	Nan
 metamorfosis	metamorphosis	Nan
 metana	gaasi	Nan
@@ -1931,7 +1931,7 @@ merendahkan	riru	Nan
 merepresentasikan	aṣoju	Nan
 merespon	fesi	Nan
 merger	apapọ	Nan
-meriam	ibọn kan	Nan
+meriam	kan	None
 merilis	itusilẹ	Nan
 merkuri	makiuri	Nan
 merkurius	makiuri	Nan
@@ -2001,7 +2001,7 @@ nagari	nagari	Nan
 mutlak	idi	Nan
 nagato	nagato	Nan
 mutiara	parili	Nan
-mutakhir	fun asiko	Nan
+mutakhir	fun	None
 musica	orin	Nan
 musik	orin	Nan
 musiknya	orin naa	Nan
@@ -2014,7 +2014,7 @@ musnah	parun	Nan
 mustafa	mustafa	Nan
 mustahil	soro	Nan
 musuh	ọtá	Nan
-musuhnya	ọtá rẹ	Nan
+musuhnya	rẹ	None
 musyawarah	ijiroro	Nan
 mutagen	mutagen	Nan
 mutasi	iyipada	Nan
@@ -2043,7 +2043,7 @@ napoleon	napoleon	Nan
 nakal	alaigbọran	Nan
 nakula	nakul	Nan
 nama	orukọ	Nan
-namanama	kini oruko re	Nan
+namanama	oruko	None
 namanya	orukọ	Nan
 name	orukọ	Nan
 namek	lorukọ	Nan
@@ -2104,16 +2104,16 @@ mundur	pada kuro	Nan
 mungkin	boya	Nan
 muntah	jabọ soke	Nan
 murah	olowo poku	Nan
-murid	ọmọ ile-iwe	Nan
+murid	ọmọ	None
 muridmurid	omo ile	Nan
 muridmuridnya	omo ile	Nan
-muridnya	ọmọ ile-iwe rẹ	Nan
+muridnya	rẹ	None
 murni	mimọ	Nan
 musa	musa	Nan
-musafir	aririn ajo	Nan
+musafir	ajo	None
 museum	musiọmu	Nan
 muncul	han	Nan
-mulutnya	ẹnu rẹ	Nan
+mulutnya	rẹ	None
 mulut	ẹnu	Nan
 multiplatinum	multiplatinum	Nan
 muda	odo	Nan
@@ -2140,7 +2140,7 @@ mengirimkan	firanṣẹ	Nan
 mengisahkan	sọ	None
 mengisi	kun	Nan
 mengitari	yika	Nan
-mengizinkan	gba laaye	Nan
+mengizinkan	gba	None
 mengkaji	iwadi	None
 mengklaim	beere	Nan
 mengklasifikasikan	isọdi	Nan
@@ -2160,11 +2160,11 @@ menghubungkan	sopọ	Nan
 menghuni	gbé	None
 mengidentifikasi	lati ṣe idanimọ	Nan
 mengidentifikasikan	ṣe idanimọ	Nan
-mengijinkan	gba laaye	Nan
+mengijinkan	gba	None
 mengikat	abuda	Nan
 mengikuti	tẹle	Nan
 mengimpor	gbewọle	Nan
-menginap	sun moju	Nan
+menginap	sun	None
 mengindikasikan	tọka	Nan
 menginduksi	jeki	Nan
 menginfeksi	akoran	Nan
@@ -2178,14 +2178,14 @@ mengurusi	ṣọra	Nan
 mengusir	wakọ jade	Nan
 mengusulkan	gbero	Nan
 mengusung	gbe	None
-mengutamakan	fi pataki si	Nan
+mengutamakan	fi	None
 mengutip	lati avvon	Nan
 mengutus	aṣoju	Nan
-menikah	ti ni iyawo	Nan
-menikahi	ti ni iyawo	Nan
+menikah	iyawo	None
+menikahi	iyawo	None
 menikmati	gbadun	Nan
 menilai	oṣuwọn	Nan
-menimbulkan	fun dide	Nan
+menimbulkan	fun	None
 menimpa	atunkọ	Nan
 meninggal	kú	Nan
 meninggalkan	lọ	Nan
@@ -2205,35 +2205,35 @@ mengumumkan	kede	Nan
 mengundang	ifiwepe	Nan
 mengundurkan	igbesẹ pada	Nan
 mengungkap	ṣii	Nan
-mengungkapkan	fi han	Nan
-mengungsi	gbé e kúrò	Nan
+mengungkapkan	fi	None
+mengungsi	kúrò	None
 mengunjungi	ṣàbẹwò	Nan
 menguraikan	decipher	Nan
-menghindari	yago fun	Nan
+menghindari	fun	None
 menghina	ẹgan	Nan
 menghimpun	kó	Nan
 mengembang	mu	Nan
 mengembangkan	dagbasoke	None
 mengemukakan	damọran	Nan
 mengenai	nipa	Nan
-mengenakan	fi sii	Nan
+mengenakan	fi	None
 mengenal	mọ	Nan
 mengenali	ṣe idanimọ	Nan
 mengenalkan	ṣafihan	Nan
 mengenang	ìrántí	Nan
 mengendalikan	iṣakoso	Nan
-mengendarai	gun lori	Nan
+mengendarai	gun	None
 mengerahkan	tiraka	Nan
 mengerikan	ibaje	Nan
 mengerjakan	ṣe	Nan
 mengerti	loye	Nan
 mengemban	gbe	None
-mengesahkan	fun laṣẹ	Nan
+mengesahkan	fun	None
 mengembalikan	mu pada	Nan
 mengeluarkan	asiri	Nan
 mengarah	nyorisi si	Nan
 mengarahkan	darí	Nan
-mengatakan	lati sọ	Nan
+mengatakan	sọ	None
 mengatasi	yanjú	None
 mengatur	ṣeto	Nan
 mengawali	bẹrẹ ni pipa	Nan
@@ -2252,7 +2252,7 @@ mengetahui	mímọ	Nan
 mengevaluasi	iṣiro	Nan
 menghancurkan	parun	Nan
 menghantarkan	fipamọ	Nan
-menghapus	yọ kuro	Nan
+menghapus	yọ	None
 menghapuskan	imukuro	Nan
 mengharapkan	reti	Nan
 menghargai	mọrírì	Nan
@@ -2266,17 +2266,17 @@ menghidupkan	tan-an	Nan
 menghilang	farasin	Nan
 menghilangkan	kuro	Nan
 menghambat	idiwọ	Nan
-menghalangi	gba ọna	Nan
+menghalangi	gba	None
 menghadiri	wá	Nan
 menghadapi	koju si	Nan
-menggabungkan	lati darapo	Nan
+menggabungkan	darapo	None
 menggali	ma wà	Nan
 menggambar	fa	Nan
 menggambarkan	ṣàpèjúwe	Nan
-mengganggu	yọ lẹnu	Nan
+mengganggu	yọ	None
 mengganti	rọpo	Nan
 menggantikan	rọpo	Nan
-meninggalnya	iku re	Nan
+meninggalnya	iku	None
 menggelar	ifilọlẹ	Nan
 menggigit	jẹ lẹnu	Nan
 menggiring	darí	Nan
@@ -2294,13 +2294,13 @@ menyembunyikan	tọju	Nan
 menyempurnakan	pipe	Nan
 menyenangkan	igbadun pupọ	Nan
 menyentuh	fọwọkan	Nan
-menyerah	jowo re sile	Nan
+menyerah	sile	None
 menyerahkan	yi pada	Nan
 menyerang	kọlu	Nan
 menyerangnya	kọlu i	Nan
 menyerap	mu	Nan
-menyertai	to tẹle	Nan
-menyertakan	fi nkan sinu	Nan
+menyertai	to	None
+menyertakan	nkan	None
 menyerukan	ti a pe	Nan
 menyerupai	láti jọra	Nan
 menyesuaikan	ṣatunṣe	Nan
@@ -2328,9 +2328,9 @@ menyanyikan	kọrin	Nan
 menyiapkan	ṣeto	Nan
 menyimpan	fipamọ	Nan
 merambat	ete	Nan
-merancang	lati ṣe ọnà rẹ	Nan
+merancang	rẹ	None
 merangsang	lowo	Nan
-merantau	rin kakiri	Nan
+merantau	kakiri	None
 meranti	meranti	Nan
 merapi	merapi	Nan
 merasa	rilara	Nan
@@ -2356,7 +2356,7 @@ menyulitkan	apọju	Nan
 menyumbang	ṣetọrẹ	Nan
 menyumbangkan	ṣetọrẹ	Nan
 menyuruh	paṣẹ	Nan
-menyusul	te le	Nan
+menyusul	le	None
 menyusun	seto	Nan
 menyusut	isunki	Nan
 meragukan	ṣiyemeji	Nan
@@ -2375,7 +2375,7 @@ menjumpai	wa kọja	Nan
 menjunjung	fowosowopo	Nan
 menko	isakoso alakoso	Nan
 menolak	kọ	Nan
-menolong	egba mi o	Nan
+menolong	egba	None
 menonjol	ai-gba	Nan
 menonjolkan	gbẹnumọ	Nan
 menonton	wo	Nan
@@ -2387,7 +2387,7 @@ menjatuhkan	silẹ	Nan
 menipu	aṣiwere	Nan
 meniru	fara wé	Nan
 menit	iseju	Nan
-menjabat	yoo wa	Nan
+menjabat	yoo	None
 menjadi	di	Nan
 menjadikan	ṣe	Nan
 menjadikannya	ṣe	Nan
@@ -2408,7 +2408,7 @@ menurutnya	gẹgẹ bi tirẹ	Nan
 menutup	sunmọ	Nan
 menutupi	ideri	Nan
 menuturkan	wi	Nan
-menyadari	mò nípa	Nan
+menyadari	mò	None
 menyaingi	orogun	Nan
 menyajikan	lọwọlọwọ	Nan
 menyaksikan	wo	Nan
@@ -2430,14 +2430,14 @@ menu	mẹnu	Nan
 menuai	kárè	Nan
 menuju	forí lé	Nan
 meningkatkan	igbesoke	None
-menular	tó leè ranni	Nan
+menular	leè	None
 menuliskan	kọ	Nan
 menumbuhkan	dagba	Nan
 menunggu	nduro	Nan
 menunjang	atilẹyin	Nan
 menunjuk	toka si	Nan
 menunjukan	fifihan	None
-menunjukkan	lati fihan	Nan
+menunjukkan	fihan	None
 menulis	kọ	Nan
 planet	ile aye	Nan
 planetplanet	ohun elo aye	Nan
@@ -2451,7 +2451,7 @@ tempat	ibi	Nan
 tempatnya	ibi	Nan
 tempattempat	àwọn ibò	Nan
 tempe	onitutu	Nan
-temperatur	awọn iwọn otutu	Nan
+temperatur	otutu	None
 tempo	igba	Nan
 tempoyak	igba akoko	Nan
 tempur	ija	Nan
@@ -2460,7 +2460,7 @@ temurun	ajogun	Nan
 tembaga	bàbà	Nan
 ten	mẹwa	Nan
 tematema	awọn akori	Nan
-temantemannya	awọn ọrẹ rẹ	Nan
+temantemannya	rẹ	None
 telekomunikasi	ibaraẹnisọrọ	Nan
 telepon	tẹlifoonu	Nan
 teleskop	ẹrọ iwoye	Nan
@@ -2474,7 +2474,7 @@ telur	ẹyin	Nan
 telurnya	ẹyin	Nan
 tema	akori	Nan
 teman	ọ̀rẹ́	Nan
-temannya	ọrẹ rẹ	Nan
+temannya	rẹ	None
 temanteman	ọrẹ	Nan
 temari	temari	Nan
 telapak	ọpẹ	Nan
@@ -2487,7 +2487,7 @@ teoritis	ẹkọ	Nan
 tepat	ni ọtun	Nan
 tepatnya	gangan	Nan
 tepi	eti	Nan
-tepian	awọn idari	Nan
+tepian	idari	None
 tepung	iyẹfun	Nan
 terakhir	ni ikẹhin	Nan
 terakhirnya	eyi tio gbeyin	Nan
@@ -2498,23 +2498,23 @@ terapan	gbẹyin	Nan
 teoretis	ẹkọ	Nan
 tenang	dakẹrọrọ	Nan
 teorema	ọgbọn	Nan
-tenun	ti a hun	Nan
+tenun	hun	None
 tengah	àárín	None
 tengahan	àárín	None
 tengahnya	àárín	None
 tengahtengah	àárín	None
-tenggara	guusu ila oorun	Nan
+tenggara	guusu	None
 tenggelam	rì	Nan
 tengger	tengger	Nan
 tenggorokan	ọfun	Nan
 tengkorak	timole	Nan
 tenis	tẹnisi	Nan
 tentang	nipa	Nan
-tentara	ọmọ ogun	Nan
-tentaranya	ọmọ ogun	Nan
+tentara	ogun	None
+tentaranya	ogun	None
 tentu	dajudaju	Nan
 tentunya	dajudaju	Nan
-teologi	eko nipa esin	Nan
+teologi	eko	None
 terapi	itọju ailera	Nan
 telanjang	ihoho	Nan
 telaga	adagun	Nan
@@ -2623,7 +2623,7 @@ terkena	fara si	Nan
 terkenal	olokiki	Nan
 terkendali	owa labe amojuto	Nan
 terkesan	iwunilori	Nan
-terkini	fun asiko	Nan
+terkini	fun	None
 terkonsentrasi	ogidi	Nan
 terkontrol	dari	Nan
 terkuat	lágbára	Nan
@@ -2635,7 +2635,7 @@ termosfer	atona	Nan
 terpenting	pataki julọ	Nan
 terperangkap	idẹkùn	Nan
 terperinci	alaye	Nan
-terpilih	ti a ti yan	Nan
+terpilih	yan	None
 terpimpin	dari	Nan
 terpisah	lọtọ	Nan
 terpisahkan	àkópọ	Nan
@@ -2664,7 +2664,7 @@ terorisme	ipanilaya	Nan
 terowongan	eefin	Nan
 terpadat	julọ julọ	Nan
 terpadu	ese	Nan
-terpaksa	fi agbara mu	Nan
+terpaksa	agbara	None
 terpanjang	gunjulo	Nan
 terpecah	pipin	Nan
 terjun	kó sinu	Nan
@@ -2699,7 +2699,7 @@ terbang	lati fo	Nan
 terbanyak	julọ	Nan
 terbaru	tuntun	None
 terbatas	lopin	Nan
-terbawa	ti gbe kuro	Nan
+terbawa	gbe	None
 terbebas	ọfẹ	Nan
 terbenam	lọ silẹ	Nan
 terbentang	ṣi silẹ	Nan
@@ -2709,7 +2709,7 @@ terdaftar	forukọsilẹ	Nan
 terdahulu	ṣaju	Nan
 terdapat	o wa	Nan
 terima	gba	None
-terinfeksi	ti kó àrùn	Nan
+terinfeksi	àrùn	None
 terinspirasi	lati wa ni atilẹyin	Nan
 terintegrasi	ese	Nan
 teripang	kukumba okun	Nan
@@ -2724,7 +2724,7 @@ terjangkau	ti ifarada	Nan
 terjauh	si iwaju	Nan
 terjebak	di	Nan
 terikat	owun	Nan
-terhubung	ti sopọ si rẹ	Nan
+terhubung	rẹ	None
 terhingga	finasi	Nan
 terhenti	dídí	Nan
 terdekat	awọn sunmọ	Nan
@@ -2734,7 +2734,7 @@ terdiri	oriširiši	Nan
 terduga	o ti ṣe yẹ	Nan
 terelakkan	aiṣeeṣe	Nan
 terencana	ngbero	None
-tangannya	ọwọ rẹ	Nan
+tangannya	rẹ	None
 terendah	kekere	None
 terfavorit	ayanfẹ julọ	Nan
 tergabung	dapọ	Nan
@@ -2748,7 +2748,7 @@ tangan	ọwọ	Nan
 tanduk	iwo	Nan
 tandatanda	awọn ami	Nan
 suara	ìró	None
-suaranya	ohun rẹ	Nan
+suaranya	rẹ	None
 suasana	bugbamu	Nan
 suatu	nkan	None
 sub	ipin	None
@@ -2762,7 +2762,7 @@ subjektif	alaye	Nan
 subkultur	subculture	Nan
 subnet	subnet	Nan
 subsahara	subsahara	Nan
-suaminya	ọkọ rẹ	Nan
+suaminya	rẹ	None
 subsidi	ifunni	Nan
 suami	ọkọ	Nan
 stupa	omugo	Nan
@@ -2778,7 +2778,7 @@ struktural	igbekale	Nan
 strukturnya	awọn oniwe-be	Nan
 studi	awọn ijinlẹ	Nan
 studies	awọn ijinlẹ	Nan
-studinya	eko re	Nan
+studinya	eko	None
 studio	ile isise	Nan
 study	iwadi	None
 suaka	ibi aabo	Nan
@@ -2803,7 +2803,7 @@ sulit	nira	Nan
 suiton	aṣọ	Nan
 substansi	nkan	None
 suite	suite	Nan
-suhunya	awọn iwọn otutu	Nan
+suhunya	otutu	None
 substrat	sobusitireti	Nan
 subtipe	tẹẹrẹ	Nan
 subtropis	subtropical	Nan
@@ -2850,13 +2850,13 @@ sosok	eeya	Nan
 soto	nitorinaa	Nan
 soundtrack	ohun orin	Nan
 south	guusu	None
-southeast	guusu ila oorun	Nan
+southeast	guusu	None
 southern	guusu	None
 soviet	rosia	Nan
 spa	sipaa	Nan
 space	aaye	Nan
 spacetoon	spacetoon	Nan
-spanyol	ede spanish	Nan
+spanyol	ede	None
 species	eya	None
 spontan	lẹẹkọkan	Nan
 spora	spores	Nan
@@ -2869,7 +2869,7 @@ statis	aimi	Nan
 statistik	eeka	Nan
 statistika	eeka	Nan
 status	ipo	None
-statusnya	ipo rẹ	Nan
+statusnya	rẹ	None
 stephen	alairi	Nan
 steve	steve	Nan
 stie	stie	Nan
@@ -2904,14 +2904,14 @@ tabrakan	jamba	Nan
 tabu	taboo	Nan
 tabung	tube	Nan
 tabungan	ifowopamọ	Nan
-tadi	ni bayi	Nan
+tadi	bayi	None
 tadinya	wà	Nan
 tafsir	itumọ	Nan
-tahan	da duro	Nan
+tahan	da	None
 tahanan	ẹlẹwọn	Nan
 tahap	igbesẹ	Nan
-tahapan	awọn ipele	Nan
-tahapantahapan	ipele ti ipele	Nan
+tahapan	ipele	None
+tahapantahapan	ipele	None
 tahta	itẹ	Nan
 tahu	tofu	Nan
 tahun	ọdun	Nan
@@ -2939,17 +2939,17 @@ syarat	majemu	Nan
 tahunnya	ọdun	Nan
 taijutsu	taijutsu	Nan
 tameng	asà	Nan
-tamil	ede tamili	Nan
+tamil	ede	None
 tampak	wò	Nan
 tampaknya	o dabi pe	Nan
-tampan	arewa okunrin	Nan
+tampan	okunrin	None
 tampil	han	Nan
 tampilan	ifihan	Nan
 tamu	àlejò	Nan
 tan	tan	Nan
 tana	tana	Nan
 tanah	ile	Nan
-tanahnya	ilẹ naa	Nan
+tanahnya	ilẹ	None
 tanam	gbingbin	Nan
 tanaman	ohun ọgbin	Nan
 tanda	ami	Nan
@@ -2966,13 +2966,13 @@ takhta	itẹ	Nan
 taklukan	ṣẹgun	Nan
 taksi	takisi	Nan
 taksonomi	asonwoori	Nan
-taktik	awọn ilana	Nan
+taktik	ilana	None
 takus	takus	Nan
 takut	bẹru	Nan
 tali	okun	Nan
 talib	talib	Nan
 taman	ọgba	Nan
-tambak	omi ikudu	Nan
+tambak	omi	None
 syaraf	ara	Nan
 syara	syara	Nan
 syair	oríkì	None
@@ -2999,7 +2999,7 @@ sumbawa	sumbawa	Nan
 sumber	orisun	None
 sumberdaya	awọn olu .ewadi	Nan
 sumbernya	orisun	None
-sumbersumber	awọn orisun	Nan
+sumbersumber	orisun	None
 sumbi	owu	Nan
 sumbu	àá	Nan
 sumedang	sumedang	Nan
@@ -3023,7 +3023,7 @@ swasta	ikọkọ	Nan
 swedia	sweden	Nan
 swimming	odo	Nan
 swiss	swiss	Nan
-switch	awọn yipada	Nan
+switch	yipada	None
 syafii	ṣafii	Nan
 syah	shah	Nan
 syahadat	igbagbo	Nan
@@ -3053,7 +3053,7 @@ surut	pada sẹhin	Nan
 sosialisasi	isọdi	Nan
 tersembunyi	farapamọ	Nan
 tersier	ile-ẹkọ giga	Nan
-vietnam	ede vietnam	Nan
+vietnam	ede	None
 view	iwo	Nan
 vihara	monastery	Nan
 vii	vii	Nan
@@ -3062,8 +3062,8 @@ vinci	vinci	Nan
 violin	violin	Nan
 viral	gbogun ti	Nan
 virtual	foju	Nan
-virus	kòkòrò àrùn fáírọọsì	Nan
-visi	ìran kan	Nan
+virus	àrùn	None
+visi	kan	None
 vista	vista	Nan
 visual	wiwo	Nan
 vital	pataki	Nan
@@ -3093,7 +3093,7 @@ voc	voc	Nan
 vokal	t’ohun	Nan
 wahyu	ifihan	Nan
 wajah	oju	Nan
-wajahnya	oju rẹ	Nan
+wajahnya	rẹ	None
 wajar	ọgbọn	Nan
 wajib	beere	Nan
 wajik	okuta iyebiye	Nan
@@ -3117,15 +3117,15 @@ voli	folliboolu	Nan
 volksraad	volksraad	Nan
 volume	iwọn didun	Nan
 von	von	Nan
-voyager	irin ajo	Nan
+voyager	ajo	None
 vs	la	Nan
 vulkanik	onina aruwo	Nan
 w	w	Nan
 wabah	ìyọnu	Nan
 wacana	àsọyé	Nan
-wadah	gba eiyan	Nan
+wadah	gba	None
 waduk	ifiomipamo	Nan
-wafatnya	iku re	Nan
+wafatnya	iku	None
 walikota	mayor	Nan
 variasi	iyatọ	Nan
 variabel	oniyipada	Nan
@@ -3156,9 +3156,9 @@ unjuk	se karimi	Nan
 unsur	ano	Nan
 unsurunsur	awọn eroja	Nan
 untuk	fun	None
-untukmu	fun e	Nan
+untukmu	fun	None
 untung	èrè	Nan
-untungnya	o da fun	Nan
+untungnya	fun	None
 unus	dani	None
 upacara	ayẹyẹ	Nan
 upah	owo iṣẹ	Nan
@@ -3185,9 +3185,9 @@ van	ayokele	Nan
 utuh	mule	Nan
 usahausaha	iṣowo	Nan
 utsman	utsman	Nan
-utilitas	awọn iwulo	Nan
-usia	ọjọ ori	Nan
-usianya	ọjọ ori rẹ	Nan
+utilitas	iwulo	None
+usia	ori	None
+usianya	rẹ	None
 uskup	bishop	Nan
 usul	aba	Nan
 usulan	igbero	Nan
@@ -3243,7 +3243,7 @@ yakin	daju	Nan
 www	www	Nan
 yordania	jọ́dánì	Nan
 yoruichi	yoruichi	Nan
-ziarah	irin ajo	Nan
+ziarah	ajo	None
 zimbabwe	orilẹ-ede zimbabwe	Nan
 zodiak	zodiac	Nan
 zona	agbegbe aago	Nan
@@ -3251,10 +3251,10 @@ zone	agbegbe aago	Nan
 zoologi	ẹkọ oniye	Nan
 zuckerberg	zuckerberg	Nan
 zurnali	zurnali	Nan
- k	k	Nan
- km	km	Nan
- °c	° c	Nan
- ×  km	km	Nan
+k	k	Nan
+km	km	Nan
+°c	° c	Nan
+km	km	Nan
 ±	±	Nan
 ×	×	Nan
 ƒ	ƒ	Nan
@@ -3279,7 +3279,7 @@ zambia	zambani	Nan
 zat	nkan	None
 zea	taratara	Nan
 wuruk	wuruk	Nan
-wujudnya	fọọmu rẹ	Nan
+wujudnya	rẹ	None
 wujud	fọọmu	Nan
 wasit	kọsọ	Nan
 wat	wo	Nan
@@ -3287,7 +3287,7 @@ watson	watson	Nan
 wawancara	ifọrọwanilẹnuwo	Nan
 wawasan	oye	Nan
 way	ọna	Nan
-wayang	ọmọ aja	Nan
+wayang	ọmọ	None
 wealth	ọrọ	Nan
 weasley	weasley	Nan
 weber	onirin	Nan
@@ -3318,13 +3318,13 @@ wartawan	onirohin	Nan
 warung	ṣọọbu	Nan
 western	iwọ oorun	Nan
 wewenang	aṣẹ	Nan
-wewenangnya	aṣẹ rẹ	Nan
+wewenangnya	rẹ	None
 winkler	winkler	Nan
 wirabhumi	wirabhumi	Nan
 wiracarita	apọju	Nan
 wiranto	wiranto	Nan
 wisata	ajo	None
-wisatawan	aririn ajo	Nan
+wisatawan	ajo	None
 wishnu	vishnu	Nan
 wisnu	vishnu	Nan
 with	pẹlu	Nan
@@ -3349,7 +3349,7 @@ universal	agbaye	None
 wikimedia	wikimedia	Nan
 wikramawardhana	wikramawardhana	Nan
 wilayah	ekun	Nan
-wilayahnya	agbegbe rẹ	Nan
+wilayahnya	rẹ	None
 wilayahwilayah	awọn ẹkun ni	Nan
 wilhelm	wilhelm	Nan
 william	william	Nan
@@ -3379,7 +3379,7 @@ tinju	boxing	Nan
 tingkat	ipele	None
 timbulnya	farahan	Nan
 times	awọn akoko	Nan
-timnas	egbe ti orilẹ-ede	Nan
+timnas	egbe	None
 timor	ila-oorun	Nan
 timorleste	timor leste	Nan
 timtim	timtimu	Nan
@@ -3390,7 +3390,7 @@ tindakantindakan	ìṣe	Nan
 tindih	superimposed	Nan
 tinggal	gbe	None
 tinggi	ga	Nan
-tingginya	giga rẹ	Nan
+tingginya	rẹ	None
 tingkah	ìṣe	Nan
 tingkatan	tiers	Nan
 timbul	dide	Nan
@@ -3418,7 +3418,7 @@ tonjolan	bulge	Nan
 toko	fipamọ	Nan
 tokoh	eeya	Nan
 tokohtokoh	isiro	Nan
-tokotoko	ile onje	Nan
+tokotoko	onje	None
 tokyo	tokyo	None
 tol	owo-ipe	Nan
 tolak	kọ	Nan
@@ -3430,7 +3430,7 @@ tombol	bọtini	Nan
 tongkat	ọpá	Nan
 tongkol	cob	Nan
 tongkonan	tonkonan	Nan
-tony	ikan isere	Nan
+tony	ikan	None
 timbal	darí	Nan
 timah	darí	Nan
 timaeus	timaeus	Nan
@@ -3442,7 +3442,7 @@ terwujud	ti ara	Nan
 tes	idanwo	Nan
 test	idanwo	Nan
 tetangga	aladugbo	Nan
-tetangganya	awọn aladugbo rẹ	Nan
+tetangganya	rẹ	None
 tetap	titilai	Nan
 tetapi	ṣugbọn	Nan
 tetesan	ìyọnu	Nan
@@ -3464,11 +3464,11 @@ tertarik	nife	Nan
 tertawa	rerin	Nan
 tertentu	dajudaju	Nan
 tertib	lẹsẹsẹ	Nan
-tertinggal	fi sile	Nan
+tertinggal	sile	None
 tertinggi	ga julọ	Nan
 tertua	akọbi	Nan
 tertulis	kọ	Nan
-terungkap	fi han	Nan
+terungkap	fi	None
 texas	texas	Nan
 text	ọrọ	Nan
 thai	thai	Nan
@@ -3476,7 +3476,7 @@ tibatiba	lojiji	Nan
 tibet	tibet	Nan
 tidak	kii ṣe	Nan
 tidaklah	kii ṣe	Nan
-tidaknya	bẹẹkọ tabi rara	Nan
+tidaknya	tabi	None
 tidore	tidore	Nan
 tidur	sun	None
 tien	tien	Nan
@@ -3504,7 +3504,7 @@ third	kẹta	None
 thomas	thomas	Nan
 thought	ronu	Nan
 thumb|	àá | |	Nan
-thumb|px|peta	atanpako | px | maapu	Nan
+thumb|px|peta	maapu	None
 ti	ti	Nan
 tiada	lọ	Nan
 theravada	theravada	Nan
@@ -3516,7 +3516,7 @@ uap	nya si	Nan
 ubi	ọdunkun adun	Nan
 ucapan	ọrọ	Nan
 uchiha	uchiha	Nan
-udang	awọn ede	Nan
+udang	ede	None
 udara	ategun	Nan
 ue	éù	Nan
 uefa	uefa	Nan
@@ -3566,12 +3566,12 @@ unik	alailẹgbẹ	Nan
 union	apapọ	Nan
 un	un	Nan
 uk	uk	Nan
-umur	ọjọ ori	Nan
+umur	ori	None
 umum	gbogboogbo	Nan
 ukraina	yukirenia	Nan
 ukur	wiwọn	Nan
 ukuran	iwọn	Nan
-ukurannya	iwọn rẹ	Nan
+ukurannya	rẹ	None
 ulama	alufaa	Nan
 ulang	tun	Nan
 ular	ejo	Nan
@@ -3585,7 +3585,7 @@ umpan	ẹyẹ	Nan
 umrah	umrah	Nan
 umumnya	gbogbogbo	None
 tunas	abereyo	Nan
-tumpukan	opoplopo kan	Nan
+tumpukan	kan	None
 tumpang	agbekọja	Nan
 triangle	onigun mẹta	Nan
 trigliserida	triglycerides	Nan
@@ -3630,7 +3630,7 @@ tukar	paṣipaarọ	Nan
 tulang	eegun	Nan
 tulis	kọ ọ	Nan
 tulisan	kikọ	Nan
-tulisannya	kikọ rẹ	Nan
+tulisannya	rẹ	None
 tulisantulisan	kikọ	Nan
 tulungagung	tulungagung	Nan
 tumapel	tumapel	Nan
@@ -3660,15 +3660,15 @@ tugasnya	iṣẹ iyansilẹ	Nan
 tugastugas	awọn iṣẹ-ṣiṣe	Nan
 tugu	arabara	Nan
 tuhan	ọlọrun	Nan
-tubuhnya	ara rẹ	Nan
+tubuhnya	rẹ	None
 mahkamah	kootu	Nan
 sosialis	alaifeiruedaomoenikeji	Nan
 sorong	shoves	Nan
 rem	idasilẹ	Nan
-remaja	ọdọ kan	Nan
+remaja	kan	None
 rembang	didan	Nan
 remote	latọna jijin	Nan
-rempahrempah	ewe ati turari	Nan
+rempahrempah	ewe	None
 renaisans	renesansi	Nan
 renalis	renalis	Nan
 renang	odo	Nan
@@ -3683,7 +3683,7 @@ relung	onakan	Nan
 renji	renji	Nan
 religius	ẹlẹsin	Nan
 relief	iderun	Nan
-rekannya	ẹlẹgbẹ rẹ	Nan
+rekannya	rẹ	None
 rekayasa	afọwọsi	Nan
 rekomendasi	iṣeduro	Nan
 rekonstruksi	atunkọ	Nan
@@ -3712,7 +3712,7 @@ respirasi	atẹgun	Nan
 respon	esi naa	Nan
 respons	esi naa	Nan
 restoran	ile-ounjẹ	Nan
-retikulum	iwe eko	Nan
+retikulum	eko	None
 retina	ni retina	Nan
 rev	tunwo	Nan
 reverse	yiyipada	Nan
@@ -3721,7 +3721,7 @@ resistor	alatako	Nan
 rentang	sakani	Nan
 resistansi	atako	Nan
 residu	iṣẹku	Nan
-replika	a ajọra	Nan
+replika	ajọra	None
 replikasi	esiwe	Nan
 report	ijabọ	Nan
 representasi	oniduro	Nan
@@ -3762,10 +3762,10 @@ rapat	ipade	Nan
 ramai	opo eniyan	Nan
 ramayana	ramayana	Nan
 rambut	irun	Nan
-rambutnya	irun ori rẹ	Nan
+rambutnya	rẹ	None
 ramuan	iwon	Nan
 ranah	awọn ibugbe	Nan
-rancangan	yiyan osere tuntun	Nan
+rancangan	tuntun	None
 randai	randai	Nan
 rangga	akaba	Nan
 rangka	paṣẹ	Nan
@@ -3818,7 +3818,7 @@ revolution	iyika	Nan
 rezim	ijọba	Nan
 rumah	ile	Nan
 rumahan	ile	Nan
-rumahnya	ile rẹ	Nan
+rumahnya	rẹ	None
 rumahrumah	awọn ile	Nan
 rumania	romania	Nan
 rumit	idiju	Nan
@@ -3856,14 +3856,14 @@ rupiah	rupiah	Nan
 rusa	agbọnrin	Nan
 sabun	ọṣẹ	Nan
 sacchi	sacchi	Nan
-sadar	mò nípa	Nan
+sadar	mò	None
 sadewa	sadewa	Nan
 saga	oorun	Nan
 sage	sage	Nan
 sagu	sago	Nan
 sah	abẹ	Nan
 sahabat	ore	Nan
-sahabatnya	ọrẹ rẹ ti o dara julọ	Nan
+sahabatnya	rẹ	None
 saham	ọja	Nan
 sahamnya	awọn oniwe-mọlẹbi	Nan
 sahara	sahara	Nan
@@ -3992,7 +3992,7 @@ potongan	nkan	None
 potret	aworan	Nan
 potter	amọkoko	Nan
 power	agbara	None
-powerpoint	sọkẹti ogiri fun ina	Nan
+powerpoint	fun	None
 pp	pp	Nan
 ppki	ppki	Nan
 ppp	pppp.	Nan
@@ -4018,9 +4018,9 @@ production	gbóògì	Nan
 produk	ọja	Nan
 produkproduk	awọn ọja	Nan
 produksi	gbóògì	Nan
-produksinya	iṣelọpọ rẹ	Nan
+produksinya	rẹ	None
 produktif	iṣelọpọ	Nan
-produktivitas	ise sise	Nan
+produktivitas	sise	None
 produsen	aṣelọpọ	Nan
 privat	ikọkọ	Nan
 press	tẹ	Nan
@@ -4030,7 +4030,7 @@ prestise	ọlá	Nan
 pria	awọn ọkunrin	Nan
 priangan	ọkunrin	Nan
 pribadi	ti ara ẹni	Nan
-pribadinya	iwa rẹ	Nan
+pribadinya	rẹ	None
 pribumi	onile	Nan
 price	owo	Nan
 priestley	alufaa	Nan
@@ -4059,7 +4059,7 @@ polisi	ọlọpa	Nan
 politeknik	ọlọmọ-ẹrọ	Nan
 politics	oselu	Nan
 politik	oselu	Nan
-politiknya	iṣelu rẹ	Nan
+politiknya	rẹ	None
 poin	awọn aaye	Nan
 politikus	oloselu	Nan
 pohonpohon	igi	Nan
@@ -4095,7 +4095,7 @@ portugis	ilu pọtugali	Nan
 pos	ifiweranṣẹ	Nan
 poseidon	poseidoni	Nan
 posisi	ipo	None
-posisinya	ipò rẹ	Nan
+posisinya	rẹ	None
 positif	rere	None
 post	ifiweranṣẹ	Nan
 pornoaksi	ibalopọ	Nan
@@ -4106,7 +4106,7 @@ polri	awon olopa	Nan
 polusi	ẹlẹgbin	Nan
 pompa	fifa soke	Nan
 pondasi	foundation	Nan
-pondok	ile kekere	Nan
+pondok	kekere	None
 pong	pong	Nan
 pongo	pongo	Nan
 produser	ti onse	Nan
@@ -4116,13 +4116,13 @@ pop	agbejade	Nan
 popular	gbajumọ	Nan
 popularitas	gbaye-gbale	Nan
 populasi	olugbe	Nan
-populasinya	olugbe rẹ	Nan
+populasinya	rẹ	None
 populer	gbajumọ	Nan
 ponsel	foonu alagbeka	Nan
 sailendra	sailendra	Nan
 prof	ọjọgbọn	Nan
 profesional	ọjọgbọn	Nan
-putranya	ọmọ rẹ	Nan
+putranya	rẹ	None
 putri	princess	Nan
 putu	fiu	Nan
 putus	fọ	Nan
@@ -4135,7 +4135,7 @@ qs	qs	Nan
 quebec	quebec	Nan
 query	ibeere naa	Nan
 quraisy	quraysh	Nan
-quran	awọn quran	Nan
+quran	quran	None
 r	r	Nan
 putra	ọmọ	None
 ra	ra	None
@@ -4155,7 +4155,7 @@ pusing	apanirun	Nan
 pustaka	awọn itọkasi	Nan
 putaran	yika	Nan
 putera	ọmọ	None
-puteranya	ọmọ rẹ	Nan
+puteranya	rẹ	None
 putih	funfun	Nan
 pura	tẹmpili	Nan
 rabies	awọn rabies	Nan
@@ -4173,7 +4173,7 @@ rakryan	rakryan	Nan
 raksa	makiuri	Nan
 raksasa	omiran	Nan
 rakyat	eniyan	Nan
-rakyatnya	awọn eniyan rẹ	Nan
+rakyatnya	rẹ	None
 ram	àgbo	Nan
 rahmat	oore-ofe	Nan
 rabu	ọjọru	Nan
@@ -4194,7 +4194,7 @@ raga	ara	Nan
 ragam	orisirisi	None
 ragi	iwukara	Nan
 rahang	eegun	Nan
-rahim	ọmọ inu	Nan
+rahim	ọmọ	None
 pupuk	ajile	Nan
 punya	ni	Nan
 punk	pọnki	Nan
@@ -4278,10 +4278,10 @@ saja	nikan	Nan
 sesuai	ibaramu	Nan
 sesuatu	nkan	None
 sesudah	lẹhin	Nan
-sesudahnya	lẹyìn náà	Nan
+sesudahnya	náà	None
 sesungguhnya	looto	Nan
 set	ṣeto	Nan
-setahun	ọdun kan	Nan
+setahun	kan	None
 setan	devilṣù	Nan
 setara	dogba	Nan
 setelah	lẹhin	Nan
@@ -4299,7 +4299,7 @@ serpong	serpong	Nan
 serta	ati	Nan
 sertifikasi	iwe-ẹri	Nan
 sertifikat	iwe-ẹri	Nan
-serum	omi ara	Nan
+serum	omi	None
 serupa	jọra	Nan
 server	olupin naa	Nan
 service	iṣẹ	Nan
@@ -4312,7 +4312,7 @@ sesama	elegbe	Nan
 seseorang	ẹnikan	Nan
 serius	isẹ	Nan
 setidaknya	ni o kere pupọ	Nan
-setingkat	ipele kan	Nan
+setingkat	kan	None
 shin	shin	Nan
 shinichi	shinichi	Nan
 shinigami	shinigami	Nan
@@ -4334,7 +4334,7 @@ shell	ikarahun	Nan
 sharingan	pinpin	Nan
 setting	eto	Nan
 setuju	gba	None
-seumur	ọjọ ori kanna	Nan
+seumur	ori	None
 seusai	lẹhin	Nan
 seven	meje	Nan
 sevenfold	meje	Nan
@@ -4363,7 +4363,7 @@ seorang	a	Nan
 seoul	seoul	Nan
 sepak	bọọlu	Nan
 sepakat	gba	None
-sepanjang	bi gun	Nan
+sepanjang	gun	None
 separuh	idaji	None
 sepasang	meji	Nan
 sensitif	kókó	Nan
@@ -4408,15 +4408,15 @@ serangga	kokoro	Nan
 sepeninggal	lẹhin ti nlọ	Nan
 seranganserangan	kọlu	Nan
 serang	kọlu	Nan
-seperempat	mẹẹdogun kan	Nan
+seperempat	kan	None
 seperti	bi	Nan
-sepertiga	ọkan kẹta	Nan
+sepertiga	kẹta	None
 sepertinya	o dabi	Nan
 sepihak	isọdọkan	Nan
 september	oṣu kẹsan	Nan
 sepuluh	mẹwa	Nan
-sepupu	ọmọ ẹgbọn	Nan
-sepupunya	ọmọ ẹgbọn rẹ	Nan
+sepupu	ọmọ	None
+sepupunya	rẹ	None
 seputar	yika	Nan
 serabut	okun	Nan
 serafim	serafu	Nan
@@ -4437,7 +4437,7 @@ skandal	ẹgan	Nan
 skema	ero	Nan
 skenario	ohn	Nan
 sketsa	sketch	Nan
-skor	o wole	Nan
+skor	wole	None
 skotlandia	ilu scotland	Nan
 sky	ọrun	Nan
 slamet	slamet	Nan
@@ -4448,20 +4448,20 @@ situasi	ipo	None
 sitoskeleton	cytoskeleton	Nan
 sisasisa	sisasisa	Nan
 sisi	ẹgbẹ	Nan
-sisinya	ẹgbẹ rẹ	Nan
+sisinya	rẹ	None
 sistem	eto	Nan
 sistematik	eto eto	Nan
 sistematis	eto eto	Nan
 sistemik	ilana	None
-siswa	ọmọ ile-iwe	Nan
+siswa	ọmọ	None
 siswasiswi	omo ile	Nan
-sita	gba gba	Nan
+sita	gba	None
 site	aaye	Nan
 siti	siti	Nan
 sitokina	cytokines	Nan
 sitologi	ẹkọ nipa ara	Nan
 sitoplasma	cytoplasm	Nan
-situ	ní bẹ	Nan
+situ	ní	None
 sisanya	o kù	Nan
 slot	iho	Nan
 sm	sm	Nan
@@ -4474,7 +4474,7 @@ solok	adashe	Nan
 solusi	ojutu	Nan
 somalia	somalia	Nan
 soneta	sonnet	Nan
-songket	awo orin	Nan
+songket	awo	None
 songo	songo	Nan
 sop	bimo	Nan
 soppeng	soppeng	Nan
@@ -4536,7 +4536,7 @@ sifatsifat	iseda	Nan
 signifikan	pataki	Nan
 sihir	idan	Nan
 sikap	iwa	Nan
-sikapnya	iwa rẹ	Nan
+sikapnya	rẹ	None
 siklus	ọmọ	None
 simon	simoni	Nan
 simpanan	awọn idogo	Nan
@@ -4582,11 +4582,11 @@ senantiasa	nigbagbogbo	Nan
 senang	dun	None
 satya	satya	Nan
 saudara	aburo	Nan
-saudaranya	arakunrin rẹ	Nan
-saudarasaudaranya	arakunrin rẹ	Nan
+saudaranya	rẹ	None
+saudarasaudaranya	rẹ	None
 saudi	saudi	Nan
 saus	obe	Nan
-saw	alafia si wa lori rẹ	Nan
+saw	rẹ	None
 sawah	awọn aaye iresi	Nan
 sawit	epo ọpẹ	Nan
 saya	emi	Nan
@@ -4663,7 +4663,7 @@ sama	kanna	Nan
 saman	saman	Nan
 samarinda	samarinda	Nan
 samasama	e kabo	Nan
-sambal	obe kekere	Nan
+sambal	kekere	None
 sambas	sambas	Nan
 sambil	nigba ti	Nan
 sambungan	ìbáṣepọ	Nan
@@ -4717,9 +4717,9 @@ samudera	òkun	Nan
 samudra	okun	Nan
 samuel	samueli	Nan
 san	san	Nan
-sana	ní bẹ	Nan
+sana	ní	None
 sanad	nigb	Nan
-sanadnya	rẹ nigba	Nan
+sanadnya	rẹ	None
 sebetulnya	gangan	Nan
 sanak	awọn ibatan	Nan
 sandi	ọrọ igbaniwọle	Nan
@@ -4737,7 +4737,7 @@ selera	itọwo	Nan
 selesai	ṣe	Nan
 seljuk	le	None
 selling	ta	Nan
-selnya	ẹwọn rẹ	Nan
+selnya	rẹ	None
 selsel	ìsà	Nan
 seluas	agbegbe	Nan
 selubung	apofẹlẹfẹlẹ	Nan
@@ -4751,7 +4751,7 @@ semacam	too ti	Nan
 selepas	lẹhin	Nan
 semak	igbo	Nan
 selektif	yiyan	Nan
-selatpanjang	guusu gigun	Nan
+selatpanjang	guusu	None
 sekutu	ore	Nan
 sel	sẹẹli	Nan
 selain	yàtò	None
@@ -4760,11 +4760,11 @@ selalu	nigbagbogbo	Nan
 selam	bẹ somi	Nan
 selama	lakoko	Nan
 selamanya	lailai	Nan
-selamat	o ku oriire	Nan
+selamat	oriire	None
 selandia	hẹlandia	Nan
 selangor	onigbese	Nan
 selanjutnya	itele	Nan
-selaput	awo ilu	Nan
+selaput	awo	None
 selat	okun	Nan
 selatan	guusu	None
 seleksi	yiyan	Nan
@@ -4773,8 +4773,8 @@ semakin	siwaju ati siwaju sii	Nan
 semanggi	clover	Nan
 semikonduktor	igbimọ ile-iṣẹ	Nan
 seminar	apejọ ọlọmọwe	Nan
-seminggu	ọsẹ kan	Nan
-semisal	bi eleyi	Nan
+seminggu	kan	None
+semisal	eleyi	None
 sempat	ni aye	Nan
 sempit	dín	Nan
 sempurna	pipe	Nan
@@ -4782,7 +4782,7 @@ semu	àfọ	Nan
 semua	gbogbo	Nan
 semuanya	gbogbo	Nan
 semula	bẹrẹ	Nan
-semusim	akoko kan	Nan
+semusim	kan	None
 semut	kokoro	Nan
 sena	sena	Nan
 senam	ibi idaraya	Nan
@@ -4797,7 +4797,7 @@ semasa	lakoko	Nan
 semata	nikan	Nan
 sematamata	sematamata	Nan
 sembahyang	àdúrà	Nan
-sembarang	o kan eyikeyi	Nan
+sembarang	kan	None
 sembilan	mẹsan	Nan
 semboyan	gbolohun ọrọ	Nan
 sembuh	dide aisan	Nan
@@ -4807,7 +4807,7 @@ semenanjung	ile larubawa	Nan
 semenjak	niwon	Nan
 semeru	semeru	Nan
 sekunder	atẹle	Nan
-sekumpulan	opo kan	Nan
+sekumpulan	kan	None
 sekuler	alailesin	Nan
 segenap	gbogbo	Nan
 segera	laipẹ	Nan
@@ -4838,7 +4838,7 @@ sedangkan	nigba ti	Nan
 sedemikian	ni iru ọna	Nan
 sederhana	o rọrun	Nan
 sedih	ibanujẹ	Nan
-sedikit	kekere die	Nan
+sedikit	kekere	None
 sedikitnya	o kere ju	Nan
 sedimen	erofo	None
 sedna	sedna	Nan
@@ -4848,7 +4848,7 @@ sejajar	pọgba	Nan
 sejak	niwon	Nan
 sejalan	ni tito	Nan
 sekitar	yika	Nan
-sekitarnya	ni ayika rẹ	Nan
+sekitarnya	rẹ	None
 sekolah	ile-iwe	Nan
 sekolahnya	ile-iwe	Nan
 sekolahsekolah	ile-iwe	Nan
@@ -4862,31 +4862,31 @@ seksual	ibalopọ	Nan
 seksualitas	ibalopọ	Nan
 sekte	abala	None
 sektor	eka	None
-sekilas	iwo kan	Nan
+sekilas	kan	None
 sekian	gbogbo ẹ niyẹn	Nan
 seketika	lẹsẹkẹsẹ	Nan
-sekelompok	opo kan	Nan
+sekelompok	kan	None
 sejarah	itan	Nan
-sejarahnya	itan rẹ	Nan
+sejarahnya	rẹ	None
 sejarawan	akẹkọ itan-akọọlẹ	Nan
 sejati	ooto	Nan
 sejauh	titi si asiko yi	Nan
 sejenis	a irú	Nan
 sejuk	tutu	Nan
-sebulan	oṣu kan	Nan
-sejumlah	nọmba kan	Nan
+sebulan	kan	None
+sejumlah	kan	None
 sekali	lẹẹkan	Nan
 sekaligus	ni ẹẹkan	Nan
 sekalipun	botilẹjẹpe	Nan
-sekarang	ni bayi	Nan
+sekarang	bayi	None
 sekarat	ku	None
-sekedar	o kan	Nan
+sekedar	kan	None
 sekeliling	yika	Nan
-sekadar	o kan	Nan
+sekadar	kan	None
 ω	ω	Nan
 mahir	ti oye	Nan
 mahayana	mahayana	Nan
-datuk	ara ọmọ	Nan
+datuk	ọmọ	None
 daud	ariwo	Nan
 daulah	daulah	Nan
 daun	ewe	None
@@ -4960,7 +4960,7 @@ deklinasi	idinku	Nan
 dekomposisi	jijẹ	Nan
 del	del	Nan
 dengan	pẹlu	Nan
-darinya	lati ọdọ rẹ	Nan
+darinya	rẹ	None
 dari	lati	Nan
 curam	gaan	Nan
 curug	isosileomi	Nan
@@ -4985,15 +4985,15 @@ cover	ideri	Nan
 cowok	eniyan	Nan
 cpa	kupa	Nan
 cpu	kapu	Nan
-critias	itu si	Nan
+critias	itu	None
 crocodylus	ooni	None
 cs	cs	Nan
 cu	cu	Nan
-cuaca	oju ojo	Nan
+cuaca	ojo	None
 cucu	ọmọ-ọmọ	Nan
 cuka	kikan	Nan
-cukai	excise ojuse	Nan
-cukup	ti to	Nan
+cukai	ojuse	None
+cukup	to	None
 cula	iwo	Nan
 cullen	cullen	Nan
 cuma	nikan	Nan
@@ -5007,7 +5007,7 @@ danum	danum	Nan
 danzo	danzo	Nan
 danzou	danzou	Nan
 dapat	le	None
-dapatkan	gba a	Nan
+dapatkan	gba	None
 dapatlah	ṣe o ri	Nan
 dapur	ibi idana	Nan
 dara	wundia	Nan
@@ -5017,7 +5017,7 @@ darat	ilẹ	None
 daratan	oluile	Nan
 danau	adagun	Nan
 dahsyat	ẹru	Nan
-danatau	ati tabi	Nan
+danatau	tabi	None
 dan	ati	Nan
 dahulunya	ṣaaju	Nan
 dai	dai	Nan
@@ -5025,7 +5025,7 @@ dajal	dajal	Nan
 dajjal	dajjal	Nan
 dakwah	ete ti	Nan
 dalam	ninu	Nan
-dalamnya	ninu rẹ	Nan
+dalamnya	rẹ	None
 dalang	puppeteer	Nan
 dalem	ààfin	Nan
 dalglish	dalglish	Nan
@@ -5035,7 +5035,7 @@ damai	alafia	Nan
 dampak	ikolu	Nan
 dampaknya	awọn ikolu	Nan
 dana	inawo	Nan
-dengannya	pẹlu rẹ	Nan
+dengannya	rẹ	None
 dengue	ọdaran	Nan
 denmark	egeskov	Nan
 diatomik	diatomic	Nan
@@ -5065,14 +5065,14 @@ dianggapnya	ṣakiyesi	Nan
 diangkat	yan	None
 dianjurkan	niyanju	Nan
 diantara	laarin	None
-diantaranya	lára wọn	Nan
-dianut	gba esin	Nan
+diantaranya	wọn	None
+dianut	gba	None
 diapit	flanked	Nan
 diaplikasikan	gbẹyin	Nan
 diarahkan	dari	Nan
 diare	gbuuru	Nan
 diartikan	jẹ itumọ	Nan
-diasosiasikan	ni nkan ṣe	Nan
+diasosiasikan	nkan	None
 diamdiam	dakẹrọrọ	Nan
 dibatasi	ihamọ	Nan
 dibawah	ni isalẹ	Nan
@@ -5096,7 +5096,7 @@ dibawa	mu wa	Nan
 dibicarakan	ti sọrọ nipa	Nan
 dibiarkan	osi nikan	Nan
 dibawakan	mu	Nan
-dibayar	gba sanwo	Nan
+dibayar	gba	None
 dibayarkan	sanwo jade	Nan
 dibebaskan	ni ominira	Nan
 dibedakan	jẹ iyatọ	Nan
@@ -5105,9 +5105,9 @@ dibenarkan	lare	Nan
 dibentuk	akoso	Nan
 dibentuknya	akoso	Nan
 diberhentikan	kuro	Nan
-diberi	ni a fun	Nan
-diberikan	ni a fun	Nan
-diberlakukan	fi agbara mu	Nan
+diberi	fun	None
+diberikan	fun	None
+diberlakukan	agbara	None
 diberlakukannya	ilana-iṣe	Nan
 dibesarkan	dagba	Nan
 dibiayai	wa ni inawo	Nan
@@ -5120,7 +5120,7 @@ desanya	abule	Nan
 desember	oṣu kejila	Nan
 deskripsi	ijuwe	Nan
 deskriptif	sapejuwe	Nan
-desktop	awọn tabili	Nan
+desktop	tabili	None
 detail	awọn alaye	Nan
 deteksi	erin	Nan
 detektif	otelemuye	Nan
@@ -5137,7 +5137,7 @@ denominasi	denomination	Nan
 denpasar	sẹnu si	Nan
 densitas	iwuwo	Nan
 depan	iwaju	Nan
-depannya	iwaju rẹ	Nan
+depannya	rẹ	None
 departemen	eka	None
 department	eka	None
 depok	depok	Nan
@@ -5164,7 +5164,7 @@ diakui	mọ	Nan
 dialah	o jẹ	Nan
 dialami	kari	Nan
 dialek	iledìí	Nan
-dialihkan	ti o ti gbe	Nan
+dialihkan	gbe	None
 dialog	àsọyé	Nan
 dialup	ifọwọkan	Nan
 diagnosa	ayẹwo	Nan
@@ -5188,7 +5188,7 @@ diabaikan	foju	Nan
 diabetes	atọgbẹ	Nan
 diadakan	waye	Nan
 dharmasraya	dharmasraya	Nan
-dicari	wiwa fun	Nan
+dicari	fun	None
 council	igbimọ	Nan
 corak	ara	Nan
 busana	njagun	Nan
@@ -5248,7 +5248,7 @@ calon	oludije	Nan
 cabai	ata	Nan
 california	california	Nan
 cakung	cakung	Nan
-cabangcabang	ti eka ẹka	Nan
+cabangcabang	eka	None
 cabe	ata	Nan
 cacar	kịtịkpa	Nan
 cacat	alebu	Nan
@@ -5264,7 +5264,7 @@ cakar	tapa	Nan
 cakra	chakra	Nan
 cakram	disiki	Nan
 cakupan	dopin	Nan
-cape	ti rẹ	Nan
+cape	rẹ	None
 bumn	eegun	Nan
 bumbu	ti igba	Nan
 bsd	bsd	Nan
@@ -5321,7 +5321,7 @@ bulir	etí	Nan
 bulu	àwáàrí	Nan
 buluh	ọpá	Nan
 bukti	imudaniloju	Nan
-bubur	agbon omi	Nan
+bubur	omi	None
 bukittinggi	bukittinggi	Nan
 bukhari	bukhari	Nan
 budaya	aṣa	Nan
@@ -5341,23 +5341,23 @@ bukanlah	kii ṣe	Nan
 bukannya	dipo	Nan
 bukit	.kè	Nan
 capital	olu	Nan
-caplak	fi ami si	Nan
+caplak	fi	None
 cara	ọna	Nan
 cina	ṣaina	Nan
 cincin	òrùka	Nan
 cincincincin	oruka	Nan
 cinema	sinima	Nan
 cinta	ni ife	Nan
-cintanya	ifẹ rẹ	Nan
+cintanya	rẹ	None
 cipta	ṣẹda	Nan
 ciptaan	ẹda	Nan
-ciptaannya	ẹda rẹ	Nan
+ciptaannya	rẹ	None
 ciputra	ciputra	Nan
 circuit	circuit	Nan
 cirebon	kurobon	Nan
 ciri	ti iwa	Nan
 ciriciri	awọn ẹya ti iwa	Nan
-ciricirinya	awọn abuda rẹ	Nan
+ciricirinya	rẹ	None
 cimahi	cimahi	Nan
 cita	lokan	Nan
 ciliwung	ciliwung	Nan
@@ -5388,7 +5388,7 @@ common	wọpọ	Nan
 communication	ibaraẹnisọrọ	Nan
 computer	kọmputa	Nan
 conan	conan	Nan
-condong	gbigbe ara le	Nan
+condong	le	None
 conflict	rogbodiyan	None
 constitution	t’olofin	Nan
 contoh	apẹẹrẹ	Nan
@@ -5397,7 +5397,7 @@ contohnya	apẹẹrẹ	Nan
 control	iṣakoso	Nan
 convention	apejọ	Nan
 collection	gbigba	Nan
-citacitanya	rẹ iran	Nan
+citacitanya	rẹ	None
 coklat	ologbo	Nan
 code	koodu	Nan
 citra	aworan	Nan
@@ -5441,14 +5441,14 @@ cd+	cd +	Nan
 caracara	ọna	Nan
 caranya	bawo	Nan
 card	kaadi	Nan
-cari	nwa fun	Nan
+cari	fun	None
 carl	carl	Nan
 carlo	ọkọ ayọkẹlẹ	Nan
 case	ọran	Nan
 cassini	kasẹti	Nan
 castro	ọpọlọ	Nan
 cat	kun	Nan
-catatan	akọsilẹ kan	Nan
+catatan	kan	None
 catatancatatan	awọn akọsilẹ	Nan
 catatannya	akọsilẹ naa	Nan
 catur	chess	Nan
@@ -5470,7 +5470,7 @@ chi	.rún	Nan
 chicago	chicago	Nan
 chidori	chidori	Nan
 chikungunya	chikungunya	Nan
-chili	ede chile	Nan
+chili	ede	None
 china	ṣaina	Nan
 change	yipada	None
 chandra	chandra	Nan
@@ -5495,13 +5495,13 @@ chakra	chakra	Nan
 certified	ifọwọsi	Nan
 dicatat	akiyesi si isalẹ	Nan
 dicegah	idilọwọ	Nan
-diceritakan	wa ni so fun	Nan
+diceritakan	fun	None
 ditempati	ti tẹdo	Nan
 ditempatkan	gbe	None
 ditempuh	ajo	None
 ditemui	konge	Nan
 ditemukan	ni a ri	Nan
-ditemukannya	ri rẹ	Nan
+ditemukannya	rẹ	None
 ditentang	tako	Nan
 ditentukan	pinnu	Nan
 diterangkan	se alaye	Nan
@@ -5513,11 +5513,11 @@ diteruskan	kọjá	None
 ditetapkan	ṣeto	Nan
 ditelusuri	tọpinpin	Nan
 ditimbulkan	wa lara	Nan
-diteliti	se iwadi	Nan
+diteliti	iwadi	None
 ditekankan	tẹnumọ	Nan
 ditaklukkan	ṣẹgun	Nan
-ditambah	pẹlu rẹ	Nan
-ditambahkan	fi kun	Nan
+ditambah	rẹ	None
+ditambahkan	fi	None
 ditampilkan	han	Nan
 ditanam	gbin	None
 ditandai	wa ni samisi	Nan
@@ -5530,7 +5530,7 @@ ditawarkan	ti a nṣe	Nan
 ditayangkan	ti tu sita	Nan
 ditegaskan	timo	Nan
 ditekan	e	Nan
-ditelan	gbe mì	Nan
+ditelan	gbe	None
 ditahan	wa ni idaduro	Nan
 ditinggalkan	osi jade	Nan
 ditinjau	atunwo	Nan
@@ -5541,11 +5541,11 @@ diukur	diwọn	Nan
 diumumkan	ti kede	Nan
 diundang	pe	Nan
 diunduh	gbaa lati ayelujara	Nan
-diungkapkan	ni a sọ	Nan
+diungkapkan	sọ	None
 diuraikan	ṣàpèjúwe	Nan
 diurus	wa ni ya itoju ti	Nan
 diusahakan	tiraka	Nan
-diusir	gba jade	Nan
+diusir	gba	None
 diusulkan	dabaa	Nan
 divisi	pipin	Nan
 diwajibkan	beere	Nan
@@ -5553,16 +5553,16 @@ dituturkan	sọ	None
 ditingkatkan	imudarasi	Nan
 ditutupi	bo	Nan
 diturunkan	kọjá	None
-ditjen	oludari gbogbogbo	Nan
+ditjen	gbogbogbo	None
 ditolak	kọ	Nan
 ditonton	wo	Nan
-ditransmisikan	gbe ka	Nan
+ditransmisikan	gbe	None
 dituangkan	dà	Nan
 dituduh	wa ni onimo ti	Nan
 ditugaskan	sọtọ	Nan
 dituju	ni ṣiṣi	Nan
 ditujukan	eleto ni	Nan
-ditularkan	gbe ka	Nan
+ditularkan	gbe	None
 ditulis	kọ silẹ	Nan
 dituliskan	kọ silẹ	Nan
 ditunjuk	yan	None
@@ -5573,13 +5573,13 @@ diwakili	aṣoju	Nan
 ditafsirkan	itumọ	Nan
 disusul	legun	Nan
 disamakan	fẹran	Nan
-disambut	ti gba	Nan
+disambut	gba	None
 disampaikan	wa ni jiṣẹ	Nan
 disamping	yato si	Nan
-disana	ní bẹ	Nan
+disana	ní	None
 disangka	ṣe agbelera	Nan
 disarankan	niyanju	Nan
-disatukan	fi papo	Nan
+disatukan	fi	None
 disease	aisan	Nan
 diseases	arun	None
 disebabkan	ṣẹlẹ	Nan
@@ -5589,7 +5589,7 @@ disebutkan	mẹnuba	Nan
 disebutsebut	mẹnuba	Nan
 disaksikan	ẹlẹri	Nan
 disederhanakan	irọrun	Nan
-disajikan	yoo wa	Nan
+disajikan	yoo	None
 disahkan	fowo si	Nan
 direktorat	oludari	Nan
 direktori	iwe itọsọna	Nan
@@ -5624,7 +5624,7 @@ distribusi	pinpin	Nan
 distrik	agbegbe	Nan
 distro	gbamu	Nan
 disukai	fẹran	Nan
-disuruh	sọ fún	Nan
+disuruh	sọ	None
 disini	nibi	Nan
 disekitar	yika	Nan
 disingkat	agekuru	Nan
@@ -5634,12 +5634,12 @@ diselesaikan	yanju	Nan
 diseluruh	jakejado	Nan
 disempurnakan	pipe	Nan
 disengaja	ipinnu	Nan
-disepakati	gba lori	Nan
+disepakati	gba	None
 diserahkan	yi pada	Nan
 diserang	kọlu	Nan
-diserap	o gba	Nan
+diserap	gba	None
 disertai	de	Nan
-disertakan	to wa	Nan
+disertakan	to	None
 disesuaikan	tunṣe	Nan
 disetujui	ti a fọwọsi	Nan
 disfungsi	alailoye	Nan
@@ -5647,7 +5647,7 @@ disiarkan	igbohunsafefe	Nan
 disimpulkan	wa ni pari	Nan
 diwariskan	ṣẹgun	Nan
 diwarnai	awọ	Nan
-diwujudkan	fi han	Nan
+diwujudkan	fi	None
 dynamic	ìmúdàgba	Nan
 e	é	Nan
 earl	eti	Nan
@@ -5692,8 +5692,8 @@ eksistensi	iwalaaye	Nan
 eksklusif	iyasọtọ	Nan
 ekskresi	excretion	Nan
 ekspansi	imugboroosi	Nan
-ekspatriat	ilu okeere	Nan
-ekspedisi	irin ajo	Nan
+ekspatriat	okeere	None
+ekspedisi	ajo	None
 eksperimen	ṣàdánwò	Nan
 eksperimental	esiperimenta	Nan
 eksplisit	fojuhan	Nan
@@ -5718,7 +5718,7 @@ ekliptika	alokun	Nan
 ekologi	ẹkọ nipa ayika	Nan
 ekonom	ọrọ-aje	Nan
 ekonomi	aje	None
-ekonominya	aje rẹ	Nan
+ekonominya	rẹ	None
 ekonomis	ti ọrọ-aje	Nan
 ekosistem	ilolupo eda	Nan
 dugaan	erongba	Nan
@@ -5790,7 +5790,7 @@ dosis	iwọn lilo	Nan
 douglas	douglas	Nan
 direksi	awọn oludari	Nan
 douwes	douwes	Nan
-download	ṣe igbasilẹ rẹ	Nan
+download	rẹ	None
 dpd	dpd	Nan
 dpr	dpr	Nan
 dprd	dprd	Nan
@@ -5798,7 +5798,7 @@ dprmpr	dprmpr	Nan
 dr	dr	Nan
 draco	draco	Nan
 down	silẹ	Nan
-direkrut	gba omo ogun sise	Nan
+direkrut	sise	None
 direkomendasikan	niyanju	Nan
 direkam	ti o gbasilẹ	Nan
 dijaga	ṣọra	Nan
@@ -5808,7 +5808,7 @@ dijamin	iṣeduro	Nan
 dijatuhkan	silẹ	Nan
 dijelaskan	se alaye	Nan
 dijual	lori tita	Nan
-dijuluki	lórúkọ rẹ	Nan
+dijuluki	rẹ	None
 dijumpai	ri	Nan
 dikabarkan	rumored	Nan
 dikaitkan	wa ni ti sopọ	Nan
@@ -5818,17 +5818,17 @@ dikalangan	laarin	None
 dikarenakan	nitori	Nan
 dijadikan	ṣe	Nan
 dikaruniai	ibukun	Nan
-diizinkan	gba laaye	Nan
+diizinkan	gba	None
 diiringi	de	Nan
-dihindari	yago fun	Nan
+dihindari	fun	None
 dihisap	inha	Nan
 dihitung	ka	Nan
-dihormati	bọwọ fun	Nan
+dihormati	fun	None
 dihubungkan	lati sopọ	Nan
 dihukum	jiya	Nan
 dihuni	ibugbe	Nan
 diidentifikasi	ṣe idanimọ	Nan
-diikat	ti so	Nan
+diikat	so	None
 diikuti	tẹle	Nan
 diimplementasikan	imuse	Nan
 diinduksi	nfa	Nan
@@ -5841,7 +5841,7 @@ dikatakan	wi	Nan
 dikelilingi	wa ni yika	Nan
 dikirim	firanṣẹ	Nan
 dikirimkan	firanṣẹ	Nan
-dikisahkan	so fun	Nan
+dikisahkan	fun	None
 diklaim	so	None
 diklasifikasikan	classified	Nan
 diklat	idanileko	Nan
@@ -5863,7 +5863,7 @@ dikelompokkan	ẹgbẹ	Nan
 dikeluarkan	ti oniṣowo	Nan
 dikeluarkannya	o ti tu sita	Nan
 dikembalikan	padà	Nan
-dikembangkan	ni idagbasoke	Nan
+dikembangkan	idagbasoke	None
 dikemudian	nigbamii	Nan
 dikemukakan	damọran	Nan
 dikenai	koko ọrọ si	Nan
@@ -5876,7 +5876,7 @@ dikeringkan	gbẹ	Nan
 diketahui	mọ	Nan
 dihidupkan	tan-an	Nan
 dihiasi	ti a ṣe ọṣọ	Nan
-dihentikan	wa ni da duro	Nan
+dihentikan	da	None
 didasarkan	ti wa ni ipilẹ	Nan
 didatangkan	mu wa	Nan
 didaur	tunlo	Nan
@@ -5892,14 +5892,14 @@ didirikan	mulẹ	Nan
 didistribusikan	pin	Nan
 didokumentasikan	ti ni akọsilẹ	Nan
 didominasi	jẹ gaba lori	Nan
-didasari	da lori	Nan
+didasari	da	None
 didorong	ti	Nan
-didapatkan	ti wa ni gba	Nan
+didapatkan	gba	None
 didapat	gba	None
 dicerna	digestible	Nan
 dicetak	tejede	Nan
 dicetuskan	lo jeki	Nan
-diciptakan	ti a da	Nan
+diciptakan	da	None
 dicirikan	ijuwe	Nan
 dicky	olorinrin	Nan
 dicoba	wa ni gbiyanju	Nan
@@ -5908,7 +5908,7 @@ diculik	jí	Nan
 didaerah	ni agbegbe	Nan
 didaftarkan	forukọsilẹ	Nan
 didalam	nínú	Nan
-didalamnya	ninu rẹ	Nan
+didalamnya	rẹ	None
 didampingi	de	Nan
 didanai	ikowojo	Nan
 didapati	wa ni ri	Nan
@@ -5958,7 +5958,7 @@ dipercepat	onikiakia	Nan
 diperdagangkan	taja	Nan
 diperdebatkan	ariyanjiyan	Nan
 dipergunakan	ṣee lo	Nan
-diperhatikan	ṣọra fun	Nan
+diperhatikan	fun	None
 diperhitungkan	wa ni iṣiro	Nan
 diperiksa	ṣayẹwo	Nan
 diperingati	jẹ iranti	Nan
@@ -5988,9 +5988,9 @@ dipenuhi	ṣẹ	Nan
 diperankan	dun	None
 diperbaharui	imudojuiwọn	Nan
 diperbaiki	tunṣe	Nan
-diperbolehkan	gba laaye	Nan
-dipasang	fi sori ẹrọ	Nan
-diperlukan	o ni lati fi si	Nan
+diperbolehkan	gba	None
+dipasang	fi	None
+diperlukan	fi	None
 diperolehnya	gba	None
 diproduksi	produced	None
 diproses	ti ni ilọsiwaju	Nan
@@ -6005,10 +6005,10 @@ dirancang	ti a ṣe	Nan
 dirasakan	ro	None
 dirawat	tọju	Nan
 dirayakan	ṣe ayẹyẹ	Nan
-direbut	gba a	Nan
+direbut	gba	None
 directory	iwe itọsọna	Nan
 diprediksi	asọtẹlẹ	Nan
-diperoleh	ti gba	Nan
+diperoleh	gba	None
 dipraktikkan	adaṣe	Nan
 dipopulerkan	ṣe ikede	Nan
 dipersembahkan	gbekalẹ	Nan
@@ -6018,7 +6018,7 @@ dipertimbangkan	jẹ gbero	Nan
 dipertuan	ninu oluwa	Nan
 diperuntukkan	ti a pinnu	Nan
 dipicu	lo jeki	Nan
-dipilih	ti a ti yan	Nan
+dipilih	yan	None
 dipimpin	darí	Nan
 dipindahkan	ṣí	Nan
 dipisahkan	yà	Nan
@@ -6030,7 +6030,7 @@ dipotong	ke kuro	Nan
 dipantau	abojuto	Nan
 dipanggil	ni a pe ni	Nan
 dipandang	ti ri	Nan
-diletakkan	gbe jade	Nan
+diletakkan	gbe	None
 dilewati	kọjá	None
 dilihat	ti ri	Nan
 dilindungi	ni idaabobo	Nan
@@ -6048,7 +6048,7 @@ dimanfaatkan	ṣee lo	Nan
 dilepaskan	tu silẹ	Nan
 dimasukkan	ti tẹ	Nan
 dilepas	yọnu	Nan
-dilayani	yoo wa	Nan
+dilayani	yoo	None
 dilafazkan	oyè	Nan
 dilahirkan	a bi	Nan
 dilaksanakan	imuse	Nan
@@ -6079,8 +6079,8 @@ diolah	ti ni ilọsiwaju	Nan
 dioperasikan	ṣiṣẹ lori	Nan
 dipahami	loye	Nan
 dipakai	ti wọ	Nan
-dipaksa	fi agbara mu	Nan
-dipaksakan	fi agbara mu	Nan
+dipaksa	agbara	None
+dipaksakan	agbara	None
 dipanaskan	kikan soke	Nan
 dipancarkan	emit	Nan
 dinikmati	gbadun	Nan
@@ -6102,7 +6102,7 @@ dinamakan	ti a npè ni	Nan
 dinamika	ìmúdàgba	Nan
 dinamis	ìmúdàgba	Nan
 dinas	iṣẹ	Nan
-dinasti	idile oba	Nan
+dinasti	oba	None
 dimungkinkan	ṣeeṣe	Nan
 brahmana	brahmin	Nan
 brahman	brahman	Nan
@@ -6130,7 +6130,7 @@ aritmatika	isiro	Nan
 arjuna	arjuna	Nan
 arkeolog	akẹkọ igba atijọ	Nan
 arkeologi	igba atijọ	Nan
-armada	ọkọ oju-omi kekere	Nan
+armada	kekere	None
 armenia	armenia	Nan
 armijn	armijn	Nan
 arnold	arnold	Nan
@@ -6183,7 +6183,7 @@ asimilasi	iṣawakiri	Nan
 astrofisika	astrophysics	Nan
 arifin	arifin	Nan
 ariel	ariel	Nan
-antibiotik	ogun apakokoro	Nan
+antibiotik	ogun	None
 antibodi	apakokoro	Nan
 antigen	antigen	Nan
 antik	ohun atijọ	Nan
@@ -6212,7 +6212,7 @@ anoa	aran	Nan
 anorganik	ailorukọ	Nan
 antar	ifijiṣẹ	Nan
 antara	lara	Nan
-antaranya	lára wọn	Nan
+antaranya	wọn	None
 antarbintang	alakọja	Nan
 antariksa	aaye	Nan
 antariksawan	ẹyọkan	Nan
@@ -6252,7 +6252,7 @@ apoptosis	apoptosis	Nan
 app	awọn app	Nan
 apple	apu	Nan
 applications	awọn ohun elo	Nan
-april	oṣu kẹrin	Nan
+april	kẹrin	None
 aprilia	aprilia	Nan
 apung	lilefoofo	Nan
 arab	arabawa	Nan
@@ -6263,7 +6263,7 @@ bahan	eroja	Nan
 bahanbahan	eroja	Nan
 bahari	naari	Nan
 bahasa	ede	None
-bahasabahasa	awọn ede	Nan
+bahasabahasa	ede	None
 bahasan	ijiroro	Nan
 bahaya	ijamba	Nan
 bahkan	ani	Nan
@@ -6278,7 +6278,7 @@ bahagia	dun	None
 bakal	yoo	None
 bagus	wuyi pupọ	Nan
 baginda	sire	Nan
-badannya	ara rẹ	Nan
+badannya	rẹ	None
 badaruddin	badaruddin	Nan
 baduga	baduga	Nan
 badung	badung	Nan
@@ -6287,15 +6287,15 @@ bagaikan	fẹran	Nan
 bagaimana	bawo	Nan
 bagaimanapun	sibẹsibẹ	Nan
 bagansiapiapi	bagapiapiapi	Nan
-bagawan	eniyan rere	Nan
+bagawan	rere	None
 baghdad	baghdad	Nan
 bagi	fun	None
 bagian	apakan	Nan
 bagianbagian	awọn ẹya	Nan
-bagimu	fun e	Nan
-baginya	fun okunrin na	Nan
+bagimu	fun	None
+baginya	okunrin	None
 badanbadan	ibẹwẹ ara	Nan
-bakar	jo o	Nan
+bakar	jo	None
 bakau	mangrove	Nan
 ball	bọọlu	Nan
 balok	tan	Nan
@@ -6306,7 +6306,7 @@ ban	taya ọkọ	Nan
 band	ẹgbẹ	Nan
 banda	banda	Nan
 bandar	bookie	Nan
-bandara	papa ọkọ ofurufu	Nan
+bandara	papa	None
 banding	afilọ	Nan
 bandingkan	fiwera	Nan
 bandung	bandung	Nan
@@ -6314,13 +6314,13 @@ bang	bangi	Nan
 bangga	agberaga	Nan
 baling-baling	awọn alatilẹyin	Nan
 bakat	ẹbun	Nan
-balikpapan	ede balikpapan	Nan
+balikpapan	ede	None
 bali	bali	Nan
 bakmi	aladun	Nan
 bakn	panini	Nan
 bakrie	bakrie	Nan
-baksa	fi agbara mu	Nan
-bakteri	awọn kokoro arun	Nan
+baksa	agbara	None
+bakteri	arun	None
 bakti	ìfaradà	Nan
 baku	aise	Nan
 bala	awọn iranlọwọ	Nan
@@ -6340,8 +6340,8 @@ atom	ọgbọn	Nan
 atomatom	atomu	Nan
 atraksi	ifamọra	Nan
 atribut	abuda	Nan
-aturan	awọn ofin	Nan
-aturanaturan	awọn ofin	Nan
+aturan	ofin	None
+aturanaturan	ofin	None
 au	au	Nan
 audio	ohun	Nan
 audit	se ayewo	Nan
@@ -6362,11 +6362,11 @@ asupan	gbigbemi	Nan
 asuransi	aṣeduro	Nan
 atap	orule	Nan
 atas	loju	Nan
-atasnya	lori rẹ	Nan
+atasnya	rẹ	None
 atau	tabi	None
 ataupun	tabi	None
 athena	àwon	Nan
-atlantik	ede atlantic	Nan
+atlantik	ede	None
 atlantis	atlantis	Nan
 atlas	atlas	Nan
 atletik	awọn elere idaraya	Nan
@@ -6381,16 +6381,16 @@ bab	orí	Nan
 babad	akọọlẹ	Nan
 babak	idaji	None
 babi	ẹlẹdẹ	Nan
-babilonia	omo kekere	Nan
+babilonia	kekere	None
 babirusa	agbọnrin	Nan
 baby	ọmọ	None
 baca	ka lori	Nan
 bacaan	kika	Nan
 back	sẹhin	Nan
-bacteria	awọn kokoro arun	Nan
+bacteria	arun	None
 ayunan	fifi	Nan
 ayu	ayu	Nan
-ayatayat	awọn ẹsẹ	Nan
+ayatayat	ẹsẹ	None
 ayat	ìpínrọ̀	Nan
 autentikasi	ìfàṣẹsí	Nan
 autism	autism	Nan
@@ -6406,7 +6406,7 @@ awan	awọsanma	Nan
 award	eye	Nan
 awards	ẹbun	Nan
 ayah	baba	Nan
-ayahnya	baba rẹ	Nan
+ayahnya	rẹ	None
 ayam	adiẹ	Nan
 awalnya	lakoko	Nan
 angola	angola	Nan
@@ -6421,12 +6421,12 @@ ah	ah	Nan
 ahli	iwé	Nan
 ahlul	iwé	Nan
 ahmad	ahmad	Nan
-aidit	egba mi o	Nan
+aidit	egba	None
 aids	arannilọwọ	Nan
 air	omi	None
 airbus	ategun afẹfẹ	Nan
 airlangga	airlangga	Nan
-airlines	awon oko ofurufu	Nan
+airlines	oko	None
 agresi	ibinu	Nan
 aizen	ti afẹfẹ	Nan
 agraris	agrarian	Nan
@@ -6464,13 +6464,13 @@ aktivator	alamuuṣẹ	Nan
 aktivis	alapon	Nan
 aktivitas	ìṣe	Nan
 aktivitasaktivitas	ìṣe	Nan
-aktivitasnya	awọn iṣẹ rẹ	Nan
+aktivitasnya	rẹ	None
 akibatnya	nitorina na	Nan
 ajang	ìṣẹlẹ	Nan
 akibat	nitori	Nan
 akhiran	suffix	Nan
 ajaran	awọn ẹkọ	Nan
-ajarannya	awọn ẹkọ rẹ	Nan
+ajarannya	rẹ	None
 ajax	ajax	Nan
 aji	aji	Nan
 akademi	ile-iwe giga	Nan
@@ -6481,7 +6481,7 @@ akan	yoo	None
 akar	gbongbo	None
 akarakar	akarakar	Nan
 akatsuki	akatsuki	Nan
-akbar	baba agba	Nan
+akbar	agba	None
 akhir	ipari	Nan
 akhirakhir	ipari	Nan
 akhirnya	lakotan	Nan
@@ -6527,14 +6527,14 @@ ac	imuletutu	Nan
 acak	id	Nan
 acara	ìṣẹlẹ	Nan
 adaptif	adaṣe	Nan
-adapun	bi fun	Nan
+adapun	fun	None
 adat	aṣa	Nan
 address	adirẹsi	Nan
 adegan	ibi isẹlẹ	Nan
 adi	adi	Nan
 adidas	adidas	Nan
 adik	arabinrin	Nan
-adiknya	aburo rẹ aburo	Nan
+adiknya	rẹ	None
 adiktif	afẹsodi	Nan
 adil	ẹwà	Nan
 adipati	ewurẹ	Nan
@@ -6570,8 +6570,8 @@ an	á	Nan
 anaerobik	anaerobic	Nan
 anak	ọmọ	None
 anakanak	ọmọ	None
-anakanaknya	awọn ọmọ rẹ	Nan
-anaknya	ọmọ rẹ	Nan
+anakanaknya	rẹ	None
+anaknya	rẹ	None
 anal	furofita	Nan
 analis	atunnkanka	Nan
 analisis	onínọmbà	Nan
@@ -6603,10 +6603,10 @@ amonia	amonia	Nan
 amati	ṣọ	Nan
 ancaman	irokeke	Nan
 ancient	atijọ	Nan
-anggota	ọmọ ẹgbẹ	Nan
-anggotaanggota	ọmọ ẹgbẹ	Nan
-anggotaanggotanya	awọn ọmọ ẹgbẹ rẹ	Nan
-anggotanya	awọn ọmọ ẹgbẹ rẹ	Nan
+anggota	ọmọ	None
+anggotaanggota	ọmọ	None
+anggotaanggotanya	rẹ	None
+anggotanya	rẹ	None
 anggrek	orchid	Nan
 anggun	oore-ọfẹ	Nan
 anggur	eso ajara	Nan
@@ -6677,7 +6677,7 @@ alami	àbínibí	Nan
 alamiah	àbínibí	Nan
 alas	àtẹ	Nan
 ali	ali	Nan
-aliansi	adehun kan	Nan
+aliansi	kan	None
 alias	inagijẹ	Nan
 alquran	al-kuran	Nan
 also	tun	Nan
@@ -6722,14 +6722,14 @@ berpuasa	yara	Nan
 berpurapura	dibọn	Nan
 berpusat	ti dojukọ	Nan
 berputar	alayipo	Nan
-berputra	ní ọmọkùnrin	Nan
+berputra	ní	None
 bersabda	wi	Nan
 bersahabat	ore	Nan
 bersaing	dije	Nan
 bersalah	jẹbi	Nan
 bersalin	alaboyun	Nan
 bersama	papọ	Nan
-bersamaan	ni akoko kan naa	Nan
+bersamaan	kan	None
 bersamasama	papọ	Nan
 bersangkutan	fiyesi	Nan
 bersatu	iparapọ	Nan
@@ -6741,24 +6741,24 @@ berotasi	yiyi	Nan
 berpakaian	wọ aṣọ	Nan
 berpartisipasi	kopa ninu	Nan
 berpasangan	ni orisii	Nan
-berpegang	da duro	Nan
+berpegang	da	None
 berpendapat	jiyan	Nan
-berpenduduk	gbe jade	Nan
+berpenduduk	gbe	None
 berpengalaman	kari	Nan
 berpengaruh	mu ipa	Nan
-berperan	mu ipa kan	Nan
-berperang	ni ogun	Nan
+berperan	kan	None
+berperang	ogun	None
 berperilaku	huwa	Nan
-berperioda	ni asiko kan	Nan
-berpidato	ṣe ọrọ kan	Nan
+berperioda	kan	None
+berpidato	kan	None
 berpikir	ronu	Nan
-berpindahpindah	gbe yika	Nan
+berpindahpindah	gbe	None
 berorientasi	iṣalaye	Nan
 bersayap	iyẹ	Nan
 bersejarah	itan	Nan
 bertahap	di .di.	Nan
 bertahuntahun	opolopo odun	Nan
-bertajuk	ti akole	Nan
+bertajuk	akole	None
 bertambah	pọ si	Nan
 bertambahnya	awọn ilosoke	Nan
 bertanding	dije	Nan
@@ -6770,7 +6770,7 @@ bertarung	ja	Nan
 bertekad	pinnu	Nan
 bertekanan	rọ	Nan
 berteman	ṣe ọrẹ	Nan
-bertempat	ti gbe	Nan
+bertempat	gbe	None
 bertahan	kẹhin	Nan
 bersedia	ṣetan	Nan
 bertabrakan	kọlu	Nan
@@ -6804,12 +6804,12 @@ berlainan	yatọ	Nan
 berlaku	wulo	Nan
 berlakunya	ilana-iṣe	Nan
 berlalu	koja	Nan
-berlandaskan	da lori	Nan
+berlandaskan	da	None
 berlangganan	ṣe alabapin	Nan
 berlangsung	mu aye	Nan
 berlangsungnya	tẹsiwaju	Nan
 berlanjut	tẹsiwaju	Nan
-berkuasa	ni agbara	Nan
+berkuasa	agbara	None
 berlapis	fẹẹrẹ	Nan
 berkualitas	didara	Nan
 berkonsentrasi	fifojusi	Nan
@@ -6818,10 +6818,10 @@ berkekuatan	alagbara	Nan
 berkelana	rin kiri	Nan
 berkelanjutan	alagbero	Nan
 berkeley	berkeley	Nan
-berkeliling	lo kakiri	Nan
+berkeliling	kakiri	None
 berkelompok	ninu awọn ẹgbẹ	Nan
 berkembang	sese	Nan
-berkembangnya	idagbasoke rẹ	Nan
+berkembangnya	rẹ	None
 berkenaan	nipa	Nan
 berkepanjangan	pẹ	Nan
 berkisah	sisọ awọn itan	Nan
@@ -6834,7 +6834,7 @@ berlari	sáré	Nan
 berlatih	adaṣe	Nan
 bermotor	ero ọkọ	Nan
 bermuara	õwo si isalẹ lati	Nan
-bermuatan	gba agbara	Nan
+bermuatan	agbara	None
 bermuda	bermuda	Nan
 bermukim	yanju	Nan
 bermula	bẹrẹ	Nan
@@ -6856,8 +6856,8 @@ berlayar	ọkọ oju-omi	Nan
 berlebih	apọju	Nan
 berlebihan	abumọ	Nan
 berlian	okuta iyebiye	Nan
-berlin	ilu berlin	Nan
-berlindung	gba ideri	Nan
+berlin	berlin	None
+berlindung	gba	None
 berlokasi	irọrun be	Nan
 bermacam	orisirisi	None
 bermacammacam	ọpọlọpọ awọn iru ti	Nan
@@ -6951,14 +6951,14 @@ berulang	ni gbogbo igba	Nan
 berulangulang	ni gbogbo igba	Nan
 berumur	agba	None
 berundak	igbesẹ lori awọn pẹtẹẹsì	Nan
-berupa	ni irisi ti	Nan
+berupa	irisi	None
 berupaya	ipa	Nan
 berurutan	ni eto	Nan
 berusaha	igbidanwo	Nan
 berusia	agba	None
 bervariasi	yatọ	Nan
 berwarna	awọ	Nan
-berwenang	fun ni aṣẹ	Nan
+berwenang	fun	None
 berwujud	ojulowo	Nan
 besar	nla	Nan
 berujung	ti ta	Nan
@@ -7028,7 +7028,7 @@ beda	yatọ	Nan
 bedah	iṣẹ abẹ	Nan
 bee	oyin	Nan
 begitu	nitorinaa	Nan
-beijing	ilu beijing	Nan
+beijing	beijing	None
 bekas	tele	None
 bekasi	bekasi	Nan
 bekerja	iṣẹ	Nan
@@ -7063,13 +7063,13 @@ belaka	lasan	Nan
 belakangan	nigbamii	Nan
 benci	korira	Nan
 benda	ohun	Nan
-bendabenda	awọn nkan	Nan
+bendabenda	nkan	None
 bendera	asia	Nan
 bendungan	idido	Nan
 bengawan	ọlọla	Nan
 benggala	bengali	None
 bengkulu	bengkulu	Nan
-bening	ko o	Nan
+bening	ko	None
 bensin	epo	Nan
 bentang	igba	Nan
 benteng	ile odi	Nan
@@ -7080,11 +7080,11 @@ bench	ibujoko	None
 belakang	sẹhin	Nan
 bencana	ajalu	Nan
 benar	ni ọtun	Nan
-belakangnya	lẹhin rẹ	Nan
+belakangnya	rẹ	None
 belanda	fiorino	Nan
 belanja	ohun tio wa	Nan
 belas	aanu	None
-belasan	kan mejila	Nan
+belasan	mejila	None
 belerang	efin	Nan
 belgia	bẹljiọmu	Nan
 beli	ra	None
@@ -7099,7 +7099,7 @@ benarbenar	iwongba	Nan
 bawang	alubosa	Nan
 bawahnya	nisalẹ	Nan
 bawahan	oluṣakoso	Nan
-bantuan	egba mi o	Nan
+bantuan	egba	None
 bantul	bantul	Nan
 banyak	awọn ọpọlọpọ	Nan
 banyaknya	lọpọlọpọ	Nan
@@ -7114,7 +7114,7 @@ barangkali	boya	Nan
 barangsiapa	enikeni	Nan
 barat	iwọ oorun	Nan
 barcelona	ilu barcelona	Nan
-bantu	egba mi o	Nan
+bantu	egba	None
 baris	laini	Nan
 banteng	akọmalu	Nan
 bankbank	banki	Nan
@@ -7130,14 +7130,14 @@ bangunanbangunan	awọn ile	Nan
 bani	bani	Nan
 banjar	banjar	Nan
 banjarmasin	banjarmasin	Nan
-banjir	iṣan omi	Nan
+banjir	omi	None
 bank	banki	Nan
 bankai	bankai	Nan
 banten	ìfilọ	Nan
-barisan	e to	Nan
+barisan	to	None
 barito	barito	Nan
 baru	tuntun	None
-batasbatas	awọn ala	Nan
+batasbatas	ala	None
 batavia	batavia	Nan
 baterai	batiri	Nan
 batik	batik	Nan
@@ -7148,18 +7148,18 @@ batuan	apata	Nan
 batubara	eedu	Nan
 batubatu	okuta	Nan
 batuk	ikọaláìdúró	Nan
-batutulis	mo ko	Nan
+batutulis	ko	None
 bau	orun	Nan
 bawaan	aiyipada	Nan
 bawah	labẹ	Nan
 batasan	ààlà	Nan
-batas	iye to	Nan
+batas	to	None
 batara	ọlọrun	Nan
 batang	yio	None
 barubaru	laipẹ	Nan
 barulah	nikan lẹhinna	Nan
-barunya	tuntun rẹ	Nan
-barus	ni bayi	Nan
+barunya	rẹ	None
+barus	bayi	None
 basa	awọn ipilẹ	Nan
 basah	ririn	Nan
 basal	sily	Nan
@@ -7176,12 +7176,12 @@ baseball	bọọlu afẹsẹgba	Nan
 bangkalan	bangkalan	Nan
 benturan	ikọlu	Nan
 benuaq	continentalq	Nan
-berevolusi	da bi	Nan
+berevolusi	da	None
 berfikir	lerongba	Nan
 berfirman	wi	Nan
 berfokus	lojutu	Nan
 berfungsi	iṣẹ	Nan
-bergabung	darapo mo	Nan
+bergabung	darapo	None
 berganda	lọpọlọpọ	Nan
 berganti	yipada	None
 bergantian	bibẹẹkọ	Nan
@@ -7211,7 +7211,7 @@ bereaksi	fesi	Nan
 beredar	yika	Nan
 berekor	kan	None
 berencana	ngbero	None
-berdasarkan	da lori	Nan
+berdasarkan	da	None
 berhak	ẹtọ si	Nan
 berharap	ireti	Nan
 berjalannya	lọ nipasẹ	Nan
@@ -7251,14 +7251,14 @@ berisiko	eewu	Nan
 berita	awọn iroyin	Nan
 berdasar	ni ipilẹ	Nan
 berdarah	ẹlẹjẹ	Nan
-berdampingan	legbe gbe	Nan
+berdampingan	gbe	None
 beranggapan	ro	None
-beranggotakan	ni awọn ọmọ ẹgbẹ	Nan
+beranggotakan	ọmọ	None
 berangkat	lọ kuro	Nan
 berangsurangsur	di .di.	Nan
 berani	onígboyà	Nan
 beranjak	gbe	None
-berapa	melo ni	Nan
+berapa	melo	None
 berapi	amubina	Nan
 berarti	ti o tumọ si	Nan
 beras	iresi	Nan
@@ -7277,7 +7277,7 @@ berabadabad	sehin	Nan
 beracun	majele	Nan
 berada	wa ni titan	Nan
 beradab	ọlaju	Nan
-beradaptasi	orisirisi si	Nan
+beradaptasi	orisirisi	None
 beragam	oniruuru	Nan
 beragama	ẹlẹsin	Nan
 berakar	fidimule	Nan
@@ -7286,14 +7286,14 @@ berakhirnya	ipari	Nan
 berakibat	ṣẹlẹ	Nan
 beraksi	ni igbese	Nan
 beralih	yipada	None
-berambut	irun ori	Nan
+berambut	ori	None
 berawal	bẹrẹ	Nan
 berbagai	oniruru	Nan
 berbagi	pin	Nan
 berbunga	aladodo	Nan
 berbunyi	ka	Nan
 berburu	ọdẹ	Nan
-bercabang	ti eka	Nan
+bercabang	eka	None
 bercahaya	fẹẹrẹ	Nan
 bercampur	dapọ	Nan
 bercerai	kọsilẹ	Nan
@@ -7317,7 +7317,7 @@ berbalik	yipada	None
 berbanding	ni lafiwe	Nan
 berbangsa	orílẹ-èdè	Nan
 benua	kọntinia	Nan
-berbaring	gba fun	Nan
+berbaring	fun	None
 berbatasan	ààlà lórí	Nan
 berbau	didin	Nan
 berbayar	san	Nan
@@ -7325,7 +7325,7 @@ berbeda	yatọ	Nan
 berbedabeda	yatọ	Nan
 berbentuk	sókè	Nan
 berbicara	sọrọ sókè	Nan
-berbasis	da lori	Nan
+berbasis	da	None
 ekspresi	ikosile	Nan
 eksternal	ita	Nan
 ekstra	afikun	Nan
@@ -7337,13 +7337,13 @@ kepadanya	fún un	Nan
 kepadatan	iwuwo	Nan
 kepahlawanan	akọni ọkunrin	Nan
 kepala	ori	None
-kepalanya	ori rẹ	Nan
+kepalanya	rẹ	None
 kepanduan	sipaki	Nan
 kepastian	idaniloju	Nan
 kepemilikan	nini	Nan
 kepemimpinan	oludari	Nan
-kepemimpinannya	oludari rẹ	Nan
-kependekan	kukuru fun	Nan
+kepemimpinannya	rẹ	None
+kependekan	fun	None
 kenya	kenya	Nan
 kependudukan	olugbe	Nan
 kentang	ọdunkun	Nan
@@ -7371,7 +7371,7 @@ keragaman	oniruuru	Nan
 kerah	kola	Nan
 kerajaan	ijọba	Nan
 kerajaankerajaan	ijọba ọba	Nan
-kerajaannya	ijọba rẹ	Nan
+kerajaannya	rẹ	None
 kerajinan	iṣẹ ọwọ	Nan
 kerak	erunrun	Nan
 kerakyatan	populist	Nan
@@ -7383,8 +7383,8 @@ kerap	nigbagbogbo	Nan
 kerapatan	iwuwo	Nan
 keras	lile	Nan
 keracunan	majele	Nan
-kepentingannya	pataki rẹ	Nan
-kerabat	ibatan kan	Nan
+kepentingannya	rẹ	None
+kerabat	kan	None
 keputusan	ipinnu	Nan
 kepercayaan	gbekele	Nan
 keperluan	iwulo	None
@@ -7413,10 +7413,10 @@ kelihatannya	o dabi pe	Nan
 keliling	yika	Nan
 kelima	karun	None
 kelinci	ehoro	Nan
-keliru	ti ko tọ	Nan
+keliru	ko	None
 kelompok	ẹgbẹ	Nan
 kelompokkelompok	awọn ẹgbẹ	Nan
-kelompoknya	ẹgbẹ rẹ	Nan
+kelompoknya	rẹ	None
 kelopak	awọn ile-ọsin	Nan
 keluar	jade	Nan
 keluaran	o wu	Nan
@@ -7433,15 +7433,15 @@ kelangsungan	ilosiwaju	Nan
 kelanjutan	itesiwaju	Nan
 kelantan	kelantan	Nan
 kelapa	agbon	Nan
-kelaparan	ebi npa	Nan
+kelaparan	ebi	None
 kelarutan	solubility	Nan
 kelas	kilasi	Nan
 kelaskelas	kilasi kilasi	Nan
-kelautan	omi okun	Nan
+kelautan	omi	None
 kelebihan	awọn anfani	Nan
 kelemahan	ailera	Nan
 kemunduran	ifaseyin	Nan
-keluarganya	ebi re	Nan
+keluarganya	ebi	None
 keluhan	ẹdun	Nan
 kembang	òdòdó	Nan
 kembar	ibeji	None
@@ -7461,7 +7461,7 @@ kemudian	lẹhinna	Nan
 kembalinya	padà	Nan
 keluarnya	yo kuro	Nan
 kembali	sẹhin	Nan
-kematiannya	iku re	Nan
+kematiannya	iku	None
 kelurahan	abule ọfiisi	Nan
 kelvin	kelvin	Nan
 kemacetan	ifakalẹ	Nan
@@ -7469,10 +7469,10 @@ kemaharajaan	ọba	Nan
 kemajuan	ilọsiwaju	Nan
 kemakmuran	aisiki	Nan
 kemampuan	agbara	None
-kemampuannya	awọn agbara rẹ	Nan
+kemampuannya	rẹ	None
 kemandirian	ominira	Nan
 kemang	kemang	Nan
-kemanusiaan	ọmọ eniyan	Nan
+kemanusiaan	ọmọ	None
 kemarahan	ibinu	Nan
 kemarau	gbẹ	Nan
 kemasyarakatan	lawujọ	Nan
@@ -7488,7 +7488,7 @@ keuntungan	èrè	Nan
 keutuhan	odindi	Nan
 kevin	kevin	Nan
 kewajiban	ọranyan	Nan
-kewajibannya	awọn adehun rẹ	Nan
+kewajibannya	rẹ	None
 kewalahan	rẹwẹsi	Nan
 kewarganegaraan	ara ilu	Nan
 kewenangan	aṣẹ	Nan
@@ -7496,7 +7496,7 @@ keyakinan	igboya	Nan
 keynes	keynes	Nan
 khadijah	khadija	Nan
 khalayak	jepe	Nan
-keturunannya	iru-ọmọ rẹ	Nan
+keturunannya	rẹ	None
 khalifah	kalifa	Nan
 keturunan	ọmọ	None
 ketujuh	keje	Nan
@@ -7526,7 +7526,7 @@ kinerja	awọn iṣẹ	Nan
 kinetik	ibatan	Nan
 kinetika	ibatan	Nan
 king	ọba	Nan
-kini	ni bayi	Nan
+kini	bayi	None
 kiong	kiong	Nan
 kipas	àìpẹ	Nan
 kira	ronu	Nan
@@ -7551,7 +7551,7 @@ kian	siwaju ati siwaju sii	Nan
 kiba	kiba	Nan
 kicauan	chirp	Nan
 kidal	olowo osi	Nan
-kids	awọn ọmọ wẹwẹ	Nan
+kids	ọmọ	None
 kijang	agbọnrin	Nan
 kilometer	ibuso	None
 ketetapan	ìlànà	Nan
@@ -7645,13 +7645,13 @@ kaspia	ara caspia	Nan
 kasta	itatẹtẹ	Nan
 kasus	ọran	Nan
 kasuskasus	ọran	Nan
-kata	ọrọ náà	Nan
+kata	náà	None
 katai	arara	Nan
 katak	ọpọlọ	Nan
-katakan	sọ o	Nan
+katakan	sọ	None
 karyawan	oṣiṣẹ	Nan
 katakata	awọn ọrọ	Nan
-karyanya	iṣẹ rẹ	Nan
+karyanya	rẹ	None
 karyakarya	iṣẹ	Nan
 karin	afikun	Nan
 karl	karili	Nan
@@ -7668,10 +7668,10 @@ kartini	kartini	Nan
 kartu	kaadi	Nan
 kartun	erere	Nan
 karya	ẹda	Nan
-karyakaryanya	iṣẹ rẹ	Nan
-kariernya	iṣẹ rẹ	Nan
+karyakaryanya	rẹ	None
+kariernya	rẹ	None
 katalis	ayase	Nan
-katanya	o sọ pe	Nan
+katanya	sọ	None
 kategorisejarah	awọn ẹka itan	Nan
 kategorisistem	eto isori	Nan
 kategoritokoh	eeya	Nan
@@ -7697,15 +7697,15 @@ kategorialumni	kategorialumni	Nan
 kategorianatomi	categoricalatomy	Nan
 kategorianime	akoko ikawe	Nan
 kategoriartikel	ẹka ẹka	Nan
-kategoribahasa	ede ede	Nan
+kategoribahasa	ede	None
 kategoridaftar	awọn ẹka atokọ	Nan
-kategoriekonomi	aje ẹka	Nan
+kategoriekonomi	aje	None
 kategorifilm	fiimu ẹka	Nan
 kategorigrup	awọn ẹka ẹgbẹ	Nan
-kategoriindonesia	ede indonesian	Nan
+kategoriindonesia	ede	None
 kategorimanga	kategorimanga	Nan
 kategorinegara	ẹka orilẹ-ede	Nan
-kategoripenyakit	ẹka arun	Nan
+kategoripenyakit	arun	None
 kategoriperang	ogun	None
 karier	iṣẹ	Nan
 karibia	kariaye	Nan
@@ -7716,7 +7716,7 @@ kancah	ibi isere naa	Nan
 kandang	ile-ẹyẹ	Nan
 kandidat	oludije	Nan
 kandung	ẹkọ oniye	Nan
-kandungan	ọmọ inu	Nan
+kandungan	ọmọ	None
 kang	kang	Nan
 kanji	sitashi	Nan
 kanker	alakan	Nan
@@ -7755,7 +7755,7 @@ karavan	ẹgbẹ arinrin-ajo	Nan
 karawang	karawang	Nan
 karbida	kabu ọkọ ayọkẹlẹ	Nan
 karbohidrat	carbohydrate	Nan
-karboksil	ọkọ oju-omi kekere	Nan
+karboksil	kekere	None
 karbon	erogba	Nan
 karbonat	kaboneti	Nan
 karbondioksida	erogba oloro	Nan
@@ -7795,7 +7795,7 @@ kehancuran	iparun	Nan
 keharusan	gbọdọ	Nan
 kehendak	yoo	None
 kehidupan	igbesi aye	Nan
-kehidupannya	ẹmi rẹ	Nan
+kehidupannya	rẹ	None
 kehilangan	lati padanu	Nan
 kehormatan	ọlá	Nan
 kehutanan	igbó	Nan
@@ -7803,8 +7803,8 @@ keilmuan	sayensi	Nan
 keindahan	ẹwa	Nan
 keinginan	ifẹ	Nan
 kegunaan	lilo	Nan
-keinginannya	ifẹ rẹ	Nan
-kegiatannya	awọn iṣẹ rẹ	Nan
+keinginannya	rẹ	None
+kegiatannya	rẹ	None
 kegiatan	awọn akitiyan	Nan
 kediri	kediri	Nan
 kedokteran	egbogi	Nan
@@ -7812,7 +7812,7 @@ kedu	kedu	Nan
 kedua	ikeji	Nan
 keduanya	mejeeji	Nan
 kedudukan	ipo	None
-kedudukannya	ipò rẹ	Nan
+kedudukannya	rẹ	None
 kedutaan	ajasara	Nan
 keemasan	ti goolu	Nan
 keempat	kẹrin	None
@@ -7834,10 +7834,10 @@ kekhawatiran	iṣoro	Nan
 kekosongan	òfo	Nan
 kekristenan	kristiẹniti	Nan
 kekuasaan	agbara	None
-kekuasaannya	agbara rẹ	Nan
+kekuasaannya	rẹ	None
 kekuatan	agbara	None
-kekuatankekuatan	awọn agbara	Nan
-kekuatannya	agbara rẹ	Nan
+kekuatankekuatan	agbara	None
+kekuatannya	rẹ	None
 kekuningan	odo	Nan
 kekurangan	aipe	Nan
 kekeluargaan	ibatan	Nan
@@ -7849,7 +7849,7 @@ kejaksaan	aṣoju	Nan
 kejam	ìkà	Nan
 kejatuhan	ba ara won ja	Nan
 kejayaan	ogo	Nan
-kejayaannya	ogo rẹ	Nan
+kejayaannya	rẹ	None
 kejuaraan	aṣaju	Nan
 kejutan	iyalẹnu	Nan
 kekacauan	rudurudu	Nan
@@ -7858,7 +7858,7 @@ kekal	ayeraye	Nan
 kekalahan	ṣẹgun	Nan
 kekasih	ololufe	Nan
 kekayaan	ọrọ	Nan
-kekayaannya	ọrọ rẹ	Nan
+kekayaannya	rẹ	None
 kekejaman	ìkà	Nan
 kediaman	ibugbe	Nan
 kedelapan	ikẹjọ	Nan
@@ -7887,7 +7887,7 @@ kazekage	kazekage	Nan
 kbbi	kbbi	Nan
 kd	kd	Nan
 ke	sí	Nan
-keadaan	ipo naa	Nan
+keadaan	ipo	None
 keadilan	ododo	None
 keagamaan	ẹlẹsin	Nan
 keahlian	expertrìr.	Nan
@@ -7903,11 +7903,11 @@ kebersihan	mimọ	Nan
 keberuntungan	oriire	None
 kecenderungan	aṣa	Nan
 kecepatan	iyara	Nan
-kecepatannya	iyara rẹ	Nan
+kecepatannya	rẹ	None
 kecerdasan	oloye	None
 kecewa	ti yẹ adehun	Nan
 kecil	kekere	None
-kecilnya	kekere rẹ	Nan
+kecilnya	rẹ	None
 kecuali	ayafi	Nan
 kedah	kedah	Nan
 kedalam	sinu	Nan
@@ -7917,7 +7917,7 @@ kedatangan	dide	Nan
 kedaulatan	ọba aláṣẹ	Nan
 kedekatan	isunmọtosi	Nan
 kecelakaan	ijamba	Nan
-kecambah	awọn ododo	Nan
+kecambah	ododo	None
 kecamatan	iha-agbegbe	Nan
 kecakapan	olorijori	Nan
 kebesaran	titobi	Nan
@@ -7956,7 +7956,7 @@ leher	ọrùn	Nan
 leibniz	leibniz	Nan
 leiden	leiden	Nan
 lebaran	eid	Nan
-lelah	ti rẹ	Nan
+lelah	rẹ	None
 lebar	gbooro	Nan
 lebak	yanilenu	Nan
 lava	lava	Nan
@@ -7985,8 +7985,8 @@ lepas	ọfẹ	Nan
 lereng	iho	Nan
 lestari	alagbero	Nan
 leste	leste	Nan
-letak	ipo naa	Nan
-letaknya	ipo rẹ	Nan
+letak	ipo	None
+letaknya	rẹ	None
 letkol	alabojuto	Nan
 letnan	alabojuto	Nan
 letusan	irukerudo	Nan
@@ -8062,12 +8062,12 @@ larut	pẹ	Nan
 larutan	ojutu	Nan
 larva	idin	Nan
 laser	lesa	Nan
-laskar	ọmọ ogun ọmọ ogun	Nan
+laskar	ogun	None
 last	kẹhin	Nan
 lastri	lastri	Nan
 latar	lẹhin	Nan
 latihan	adaṣe	Nan
-latin	ede latini	Nan
+latin	latini	None
 laun	di .di.	Nan
 laporan	ijabọ	Nan
 landasan	mimọ	Nan
@@ -8086,7 +8086,7 @@ lantai	ilẹ	None
 lantas	nitorinaa	Nan
 laos	laos	Nan
 lapangan	pápá	Nan
-lapar	ebi n pa	Nan
+lapar	ebi	None
 lapindo	lapindo	Nan
 lapisan	ipele	None
 level	ipele	None
@@ -8094,7 +8094,7 @@ lewat	nipasẹ	Nan
 lewis	lewis	Nan
 lubang	iho	Nan
 luhur	t’olofin	Nan
-luka	ọgbẹ kan	Nan
+luka	kan	None
 lukaluka	lukaluka	Nan
 lukis	kikun	Nan
 lukisan	kun	Nan
@@ -8142,9 +8142,9 @@ magnitudo	titobi	Nan
 maha	maha	Nan
 mahabharata	mahabharata	Nan
 mahal	gbowolori	Nan
-mahar	owo ori	Nan
+mahar	ori	None
 maharaja	maharaja	Nan
-mahasiswa	ọmọ ile-iwe kọlẹji	Nan
+mahasiswa	ọmọ	None
 madrid	ilu madrid	Nan
 lupa	gbagbe	Nan
 madiun	madiun	Nan
@@ -8165,14 +8165,14 @@ macro	makiro	Nan
 mada	mada	Nan
 madara	madara	Nan
 madinah	medina	Nan
-lokasinya	ipo naa	Nan
-lokasi	ipo naa	Nan
+lokasinya	ipo	None
+lokasi	ipo	None
 lokal	agbegbe	Nan
 lily	lily	Nan
 lima	marun	Nan
 limbah	egbin	Nan
 limfosit	awọn iṣu ara	Nan
-limit	iye to	Nan
+limit	to	None
 lincoln	linmọlẹ	Nan
 lindung	ni idaabobo	Nan
 line	laini	Nan
@@ -8182,7 +8182,7 @@ linggarjati	linggarjati	Nan
 lingkar	iyipo	Nan
 lingkaran	circle	Nan
 lingkungan	ayika	Nan
-lingkungannya	ayika rẹ	Nan
+lingkungannya	rẹ	None
 lilitan	okun	Nan
 lingkup	awọn dopin	Nan
 lilin	abẹla	Nan
@@ -8249,9 +8249,9 @@ komunikasi	ibaraẹnisọrọ	Nan
 komunis	communist	Nan
 komunisme	communism	Nan
 komunitas	adugbo	Nan
-kondensasi	omi didi	Nan
+kondensasi	omi	None
 kondisi	majemu	Nan
-kondisikondisi	majemu ipo	Nan
+kondisikondisi	ipo	None
 kondom	kondomu	Nan
 konduktivitas	adaṣe	Nan
 koneksi	ìbáṣepọ	Nan
@@ -8283,7 +8283,7 @@ komputer	kọmputa	Nan
 kompensasi	biinu	Nan
 konghucu	confucius	Nan
 kongres	apejọ alapejọ	Nan
-konstanta	ibakan kan	Nan
+konstanta	kan	None
 konstituante	ipinlẹ	Nan
 konstitusi	t’olofin	Nan
 konstitusional	t’olofin	Nan
@@ -8292,7 +8292,7 @@ konsultan	oludamoran	Nan
 konsultasi	ijumọsọrọ	Nan
 konsumen	alabara	Nan
 konsumsi	lilo	Nan
-kontak	kan si	Nan
+kontak	kan	None
 konteks	o tọ	Nan
 kontemporer	imusin	None
 konten	akoonu	Nan
@@ -8380,7 +8380,7 @@ koma	kọma	Nan
 kolonisasi	ilodi	Nan
 kok	looto	Nan
 kokain	kokeni	Nan
-kokoh	to lagbara	Nan
+kokoh	to	None
 kolaborasi	ifowosowopo	Nan
 kolam	adagun-odo	Nan
 koleksi	gbigba	Nan
@@ -8390,7 +8390,7 @@ kolektor	olugbala	Nan
 koloid	didi	Nan
 kolom	ẹka	Nan
 kolombia	agba	None
-kolonel	ọmọ ogun	Nan
+kolonel	ogun	None
 koloni	ileto	Nan
 kolonial	amunisin	Nan
 kolonialisme	amunisin	Nan
@@ -8404,7 +8404,7 @@ kuhp	kuhp	Nan
 kuil	tẹmpili	Nan
 kuiper	kuiper	Nan
 kuliah	kọlẹji	Nan
-kuliner	onje wiwa	Nan
+kuliner	onje	None
 kulit	awọ	Nan
 kulitnya	awọ ara	Nan
 kulon	kulon	Nan
@@ -8418,7 +8418,7 @@ kuna	ku	None
 kuda	ẹṣin	Nan
 kuchiyose	kuchiyose	Nan
 kualitas	didara	Nan
-kualitatif	ti agbara	Nan
+kualitatif	agbara	None
 kuantitas	opoiye	Nan
 kuantitatif	pipo	None
 kuantum	kuatomu	Nan
@@ -8464,9 +8464,9 @@ kupang	kupang	Nan
 kupon	coupon	Nan
 kupukupu	labalaba	None
 kurang	ti o kere	Nan
-kurangnya	ko ni	Nan
+kurangnya	ko	None
 kurenai	kurenai	Nan
-kurikulum	iwe eko	Nan
+kurikulum	eko	None
 kurita	kurita	Nan
 kurniawan	kurniawan	Nan
 kurosaki	kurosaki	Nan
@@ -8484,7 +8484,7 @@ korteks	kotesita	Nan
 korupsi	ibajẹ	Nan
 kosa	fokabulari	Nan
 kosakata	fokabulari	Nan
-kosmik	agba ara	Nan
+kosmik	agba	None
 kosmogoni	ẹwa	Nan
 kosmologi	ẹla ẹlẹwa	Nan
 kosong	òfo	Nan
@@ -8569,23 +8569,23 @@ ginjal	àrùn	None
 gereja	ijo	Nan
 giovanni	giovanni	Nan
 gerbang	ilekun nla	Nan
-gerakangerakan	gbe sẹhin	Nan
+gerakangerakan	gbe	None
 genjutsu	genjutsu	Nan
 genom	oniye	Nan
 genre	oriṣi	Nan
 genus	iwin	Nan
 geografer	ala-ilẹ	Nan
-geografi	ẹkọ nipa ilẹ	Nan
+geografi	ilẹ	None
 geografis	àgbègbè	Nan
-geologi	ẹkọ nipa ilẹ	Nan
-geologis	ẹkọ nipa ilẹ	Nan
+geologi	ilẹ	None
+geologis	ilẹ	None
 geometri	geometry	Nan
 geomorfologi	geomorphology	Nan
 george	george	Nan
 georgia	georgia	None
 gerak	išipopada	Nan
 gerakan	ronu	Nan
-gerakannya	awọn agbeka rẹ	Nan
+gerakannya	rẹ	None
 genin	ẹyọkan	Nan
 giral	gilasi	Nan
 giribangun	giribangun	Nan
@@ -8600,7 +8600,7 @@ gong	gong	Nan
 google	google	Nan
 gordon	gordon	Nan
 goreng	dín	Nan
-goresan	ibadi kan	Nan
+goresan	kan	None
 gosip	olofofo	Nan
 gotong	atokan lowo	Nan
 government	ijọba	Nan
@@ -8650,9 +8650,9 @@ gambang	xylophone	Nan
 gambar	aworan	Nan
 gambaran	aworan	Nan
 gambargambar	awọn aworan	Nan
-gambir	agba oniye	Nan
+gambir	agba	None
 gambut	eésan	Nan
-game	eré náà	Nan
+game	náà	None
 gamelan	gamelan	Nan
 games	awọn ere	Nan
 gamma	gamma	Nan
@@ -8662,7 +8662,7 @@ ganda	ilọpo meji	Nan
 gandum	alikama	Nan
 gandut	agan	Nan
 gang	ale	Nan
-geng	egbe onijagidijagan	Nan
+geng	egbe	None
 gateway	ẹnu-ọna	Nan
 gawang	ibi-afẹde ìlépa	Nan
 gelora	abẹ	Nan
@@ -8694,7 +8694,7 @@ gedunggedung	ile	Nan
 gejala	awọn aisan	Nan
 gejalagejala	awọn aami aisan	Nan
 gejolak	rudurudu	Nan
-gelang	egba owo	Nan
+gelang	egba	None
 gelanggang	gbagede	Nan
 gelap	dudu	Nan
 gelar	ìyí	Nan
@@ -8741,7 +8741,7 @@ hanya	nikan	Nan
 hama	kokoro	Nan
 harta	iṣura	Nan
 harun	harun	Nan
-hawa	oju ojo	Nan
+hawa	ojo	None
 hawaii	hawaii	None
 hayam	hayam	Nan
 hayat	igbesi aye	Nan
@@ -8803,7 +8803,7 @@ grafik	àwòrán	Nan
 grafis	ayaworan	Nan
 graha	graha	Nan
 gram	giramu	Nan
-grand	baba agba	Nan
+grand	agba	None
 gratis	ọfẹ	Nan
 gravitasi	walẹ	Nan
 gresik	gresik	Nan
@@ -8819,7 +8819,7 @@ guruh	ààrá	Nan
 gurun	aṣálẹ	Nan
 haid	oṣu	Nan
 hajar	lu soke	Nan
-haji	irin ajo	Nan
+haji	ajo	None
 hak	ni ọtun	Nan
 hakhak	awọn ẹtọ	Nan
 hakikat	lodi	Nan
@@ -8944,7 +8944,7 @@ email	í-meèlì	Nan
 emansipasi	emancipation	Nan
 emas	wúrà	Nan
 embarkasi	ifilọlẹ	Nan
-embrio	ọmọ inu oyun	Nan
+embrio	ọmọ	None
 emirat	olú ọba	Nan
 emisi	itusilẹ	Nan
 elektronik	itanna	Nan
@@ -9004,7 +9004,7 @@ endokrin	endocrine	Nan
 endoplasma	endoplasm	Nan
 endositosis	endocytosis	Nan
 energi	agbara	None
-energinya	agbara rẹ	Nan
+energinya	rẹ	None
 end	ipari	Nan
 helium	irinse	Nan
 fatimah	fatimah	Nan
@@ -9057,7 +9057,7 @@ gagal	kuna	Nan
 gagasan	imọran	Nan
 gagasangagasan	awọn imọran imọran	Nan
 gaib	ti idan	Nan
-gairah	ife gidigidi	Nan
+gairah	gidigidi	None
 gajah	erin	Nan
 gaji	ekunwo	Nan
 galaksi	galaxy	Nan
@@ -9100,7 +9100,7 @@ filipina	awọn agekuru	Nan
 film	fiimu	Nan
 filmfilm	fiimu	Nan
 filmografi	filmography	Nan
-fet	ọmọ inu	Nan
+fet	ọmọ	None
 filosofi	imoye	Nan
 festival	ajọdun	Nan
 ferguson	ferkir	Nan
@@ -9120,7 +9120,7 @@ fenotipe	phenotype	Nan
 feodal	feudal	Nan
 ferdinand	ferdinand	Nan
 fermentasi	bakteria	Nan
-filosofis	ogbon ori	Nan
+filosofis	ori	None
 filsafat	imoye	Nan
 filsuf	onimoye	Nan
 fiturfitur	awọn ẹya	Nan
@@ -9141,7 +9141,7 @@ fonem	foonu	Nan
 fitur	awọn ẹya	Nan
 fitri	fitri	Nan
 fiskal	inawo	Nan
-fisiologis	ti ẹkọ iwulo ẹya	Nan
+fisiologis	iwulo	None
 filter	àlẹmọ	Nan
 filum	phylum	Nan
 final	ik	Nan
@@ -9158,10 +9158,10 @@ fisika	fisiksi	Nan
 fisikawan	oníṣègùn	Nan
 fisiknya	ti ara	Nan
 fisiologi	fisioloji	Nan
-firman	ọrọ náà	Nan
+firman	náà	None
 kalijaga	ṣọ	Nan
 hemoglobin	haemololobin	Nan
-hendaknya	yẹ ki o wa	Nan
+hendaknya	ki	None
 jaksa	abanirojọ	Nan
 jalan	opopona	Nan
 jalanan	ita	Nan
@@ -9169,7 +9169,7 @@ jalanjalan	opopona	Nan
 jalannya	ọna	Nan
 jalur	ọna tooro	Nan
 jam	wakati	Nan
-jamaah	ajo mimọ	Nan
+jamaah	ajo	None
 jamak	ọpọ	Nan
 jamal	jamal	Nan
 jamaluddin	jamaluddin	Nan
@@ -9182,11 +9182,11 @@ jamur	osun	Nan
 jaka	jaka	Nan
 jajak	idibo	Nan
 jabatan	ipo	None
-jabatannya	ipò rẹ	Nan
+jabatannya	rẹ	None
 jack	jaketi	Nan
 jackson	apinfunni	Nan
 jacob	jakobu	Nan
-jacobin	ẹja kekere	Nan
+jacobin	kekere	None
 jadi	nitorinaa	Nan
 jadwal	iṣeto	Nan
 jafar	jacaferi	Nan
@@ -9196,13 +9196,13 @@ jahe	atalẹ	Nan
 jaipongan	jaipongan	Nan
 jaja	jaja	Nan
 jajahan	ileto	Nan
-jajaran	awọn ipo	Nan
+jajaran	ipo	None
 izin	igbanilaaye	Nan
 jan	ọrun	Nan
 jang	jang	Nan
 jas	aṣọ	Nan
 jasa	awọn iṣẹ	Nan
-jasanya	awọn iṣẹ rẹ	Nan
+jasanya	rẹ	None
 jasmani	ti ara	Nan
 jasminum	jasimi	Nan
 jati	teak	Nan
@@ -9222,7 +9222,7 @@ jaring	àwọn	Nan
 jangan	maṣe	Nan
 jangka	asiko	Nan
 jangkauan	ibiti	None
-janin	ọmọ inu oyun	Nan
+janin	ọmọ	None
 janji	ṣèlérí	Nan
 jantan	akọ	Nan
 jantung	obi	Nan
@@ -9278,7 +9278,7 @@ isa	jẹ	Nan
 isbn	isbn	Nan
 istirahat	fọ	Nan
 istri	iyawo	None
-istrinya	iyawo e	Nan
+istrinya	iyawo	None
 isu	oro	Nan
 isuisu	oro	Nan
 isyarat	kọju	Nan
@@ -9297,7 +9297,7 @@ istilahistilah	imọ-jinlẹ	Nan
 istiadat	awọn kọsitọmu	Nan
 ishida	ishida	Nan
 isi	akoonu	Nan
-isinya	awọn akoonu inu rẹ	Nan
+isinya	rẹ	None
 iskandar	iskandar	Nan
 islam	islam	Nan
 islami	islamu	Nan
@@ -9352,10 +9352,10 @@ ka	ka	Nan
 junior	junior	Nan
 kadensa	kadensa	Nan
 kadiri	wá	Nan
-kakek	baba agba	Nan
+kakek	agba	None
 kakeknya	baba baba re	Nan
-kaki	awọn ẹsẹ	Nan
-kakinya	ẹsẹ rẹ	Nan
+kaki	ẹsẹ	None
+kakinya	rẹ	None
 kaku	kosemi	Nan
 kakuzu	kakuzu	Nan
 kala	aago	Nan
@@ -9386,12 +9386,12 @@ kaisar	olú ọba	Nan
 kaitan	ìbáṣepọ	Nan
 kaitannya	ibatan	Nan
 kajian	iwadi	None
-kakaknya	arakunrin rẹ	Nan
-juni	oṣu karun	Nan
+kakaknya	rẹ	None
+juni	karun	None
 jung	igbo	Nan
 junction	isunpọ	Nan
 jenjang	ipele	None
-jenuh	po lopolopo	Nan
+jenuh	lopolopo	None
 jepang	japan	Nan
 jepara	jepara	Nan
 jerami	koriko	Nan
@@ -9399,7 +9399,7 @@ jerawat	zits	Nan
 jerman	jẹmánì	Nan
 jersey	aso	Nan
 jeruk	ọsan	Nan
-jet	oko ofurufu	Nan
+jet	oko	None
 jibril	gébúrẹ́lì	Nan
 jihad	jija	Nan
 jika	ti o ba ti	Nan
@@ -9414,7 +9414,7 @@ jazz	jazz	Nan
 jean	jean	Nan
 jejak	ẹlẹsẹ-ẹlẹsẹ	Nan
 jejaring	nẹtiwọọki	Nan
-jelas	ko o	Nan
+jelas	ko	None
 jembatan	afara	Nan
 jember	jember	Nan
 jenang	jenang	Nan
@@ -9513,7 +9513,7 @@ ibrani	heberu	Nan
 ibu	iya	Nan
 ibukota	olú ìlú	Nan
 ibukotanya	olú ìlú	Nan
-ibunya	iya rẹ	Nan
+ibunya	rẹ	None
 ichigo	ichigo	Nan
 id	id	Nan
 ida	ida	Nan
@@ -9578,9 +9578,9 @@ het	het	Nan
 heterogen	orisirisi	None
 heterotrof	heterotrophs	Nan
 hewanhewan	ẹranko	Nan
-hidupnya	ẹmi rẹ	Nan
+hidupnya	rẹ	None
 hierarki	olori	Nan
-hijau	alawọ ewe	Nan
+hijau	ewe	None
 hipotesis	idawọle	Nan
 hirarki	olori	Nan
 hirata	hirata	Nan
@@ -9692,7 +9692,7 @@ instalasi	fifi sori	Nan
 instan	lẹsẹkẹsẹ	Nan
 instansi	ibẹwẹ	Nan
 institusi	igbekalẹ	Nan
-instruksi	awọn ilana	Nan
+instruksi	ilana	None
 individual	ẹnikọọkan	Nan
 individu	ẹnikọọkan	Nan
 indische	indische	Nan
@@ -9707,7 +9707,7 @@ illinois	itanna	Nan
 illuminati	itanna	Nan
 ilmiah	sayensi	Nan
 ilmu	sayensi	Nan
-ilmuilmu	rẹ imo	Nan
+ilmuilmu	rẹ	None
 ilmuwan	onimọjinlẹ naa	Nan
 ilusi	iruju	Nan
 ilustrasi	àpèjúwe	Nan
@@ -9723,7 +9723,7 @@ idul	eid	Nan
 ieee	ieee	Nan
 ii	ii	Nan
 iii	iii	Nan
-ijo	alawọ ewe	Nan
+ijo	ewe	None
 ika	ika	Nan
 ikal	ṣupọ	Nan
 ikan	ẹja	Nan
@@ -9768,6 +9768,6 @@ implementasi	imuse	Nan
 implikasi	awọn ilolu	Nan
 implisit	mimọ	Nan
 impor	gbewọle	Nan
-importir	aṣagbewọle lati ilẹ okeere	Nan
+importir	okeere	None
 imperialisme	ijọba ọba	Nan
 →	→	Nan

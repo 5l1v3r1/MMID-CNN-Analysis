@@ -1,4 +1,4 @@
-$  	$	Nan
+$	$	Nan
 parlamentben	ile igbimọ aṣofin	Nan
 parlamenti	ile igbimọ aṣofin	Nan
 parlamentáris	ile igbimọ aṣofin	Nan
@@ -55,7 +55,7 @@ philip	philli	Nan
 peru	perú	Nan
 patak	odò	Nan
 persze	dajudaju	Nan
-periódusos	tabili igbakọọkan	Nan
+periódusos	tabili	None
 patrick	patrick	Nan
 paul	poul	Nan
 paula	paula	Nan
@@ -65,7 +65,7 @@ paunik	paun	Nan
 pc	pc	Nan
 pearl	parili	Nan
 pedig	leteto	Nan
-pekingi	ilu beijing	Nan
+pekingi	beijing	None
 per	didi	Nan
 perc	iseju	Nan
 peremén	eti	Nan
@@ -91,9 +91,9 @@ osztrákok	omo ilu osirelia	Nan
 osztály	kilasi	Nan
 osztályban	kilasi	Nan
 ostroma	dóti	Nan
-ott	ní bẹ	Nan
+ott	ní	None
 ostrom	dotì	Nan
-oscardíjat	ẹbun oscar	Nan
+oscardíjat	oscar	None
 országokból	awọn orilẹ-ede	Nan
 országos	orilẹ-ede	Nan
 országot	orilẹ-ede	Nan
@@ -108,9 +108,9 @@ orvosok	onisegun	Nan
 orális	ẹnu	Nan
 os	baba	Nan
 oscar	oscar	None
-oscardíj	aami oscar	Nan
+oscardíj	oscar	None
 osiris	osiris	Nan
-ottani	ní bẹ	Nan
+ottani	ní	None
 otthagyta	otilo	Nan
 otthon	ni ile	Nan
 paleoindiánok	paleo-india	Nan
@@ -195,12 +195,12 @@ páciens	alaisan	Nan
 pál	poul	Nan
 pálinka	ọti oyinbo	Nan
 pálya	kootu	Nan
-pályafutása	iṣẹ rẹ	Nan
-pályafutását	iṣẹ rẹ	Nan
+pályafutása	rẹ	None
+pályafutását	rẹ	None
 pályaudvar	ibudo	Nan
 pályája	awọn orin	Nan
 pályájának	ọnà	Nan
-pályáját	iṣẹ rẹ	Nan
+pályáját	rẹ	None
 pályán	kootu	Nan
 pályára	ọnà	Nan
 pályát	ọnà	Nan
@@ -216,7 +216,7 @@ próbálták	gbiyanju	Nan
 próféta	woli	Nan
 prózai	prose	Nan
 pszichedelikus	psychedelic	Nan
-prince	ọmọ alade	Nan
+prince	ọmọ	None
 pszichológiai	oroinuokan	Nan
 public	gbangba	Nan
 publikált	atejade	Nan
@@ -228,7 +228,7 @@ puskás	ajagun	None
 pszichotikus	alamọdaju	Nan
 országokban	awọn orilẹ-ede	Nan
 primer	jc	Nan
-pozíciót	awọn ipo	Nan
+pozíciót	ipo	None
 piusz	pius	Nan
 pl	apẹẹrẹ	Nan
 platón	plato	Nan
@@ -238,7 +238,7 @@ pogány	keferi	Nan
 pokol	apaadi	Nan
 pole	òpó	Nan
 polgár	ara ilu	Nan
-polgárháború	ogun abẹlé	Nan
+polgárháború	ogun	None
 polgári	ara ilu	Nan
 polgármester	arabinrin	Nan
 polgárok	ara ilu	Nan
@@ -261,7 +261,7 @@ pillanatban	akoko	Nan
 pillanatában	akoko	Nan
 pilóta	awaoko	Nan
 pilóták	awakọ awakọ	Nan
-pink	awọ pupa	Nan
+pink	pupa	None
 pioneer	aṣáájú-ọ̀nà	Nan
 piros	pupa	None
 politikailag	iṣelu	Nan
@@ -274,7 +274,7 @@ portré	aworan	Nan
 portugál	ilu pọtugali	Nan
 portugália	ilu pọtugali	Nan
 portál	ọna abawọle	Nan
-poszméh	oúnjẹ beni	Nan
+poszméh	oúnjẹ	None
 posztot	awọn ifiweranṣẹ	Nan
 posztumusz	posthumous	Nan
 potlach	potlatch	Nan
@@ -312,7 +312,7 @@ nándorfehérvári	belgrade	Nan
 nápolyi	nepolitan	Nan
 négy	mẹrin	Nan
 négyes	mẹrin	Nan
-négyszer	merin ni igba	Nan
+négyszer	merin	None
 néha	nigbami	Nan
 néhol	ibikan	Nan
 néhány	diẹ ninu	Nan
@@ -323,7 +323,7 @@ nélkülözhetetlen	pataki	Nan
 némely	diẹ ninu	Nan
 náluk	wọn	None
 némelyik	diẹ ninu	Nan
-nála	pẹlu rẹ	Nan
+nála	rẹ	None
 nádor	palatine	Nan
 nyugtató	oogun aifọkanbalẹ	Nan
 nyár	igba ooru	Nan
@@ -347,7 +347,7 @@ németeket	awọn ara jamani	Nan
 népi	eniyan	Nan
 népies	aṣiwere	Nan
 népköztársaság	eniyan eniyan republic	Nan
-néppárt	eniyan ká keta	Nan
+néppárt	ká	None
 néprajz	atọwọdọwọ	Nan
 néprajzi	ẹda abinibi	Nan
 népszavazás	idapada	Nan
@@ -360,7 +360,7 @@ népszerűvé	gbajumọ	Nan
 népszámlálás	ìkànìyàn	Nan
 népszámlálási	ìkànìyàn	Nan
 népességének	olugbe	Nan
-népességnövekedés	idagbasoke olugbe	Nan
+népességnövekedés	idagbasoke	None
 népessége	olugbe	Nan
 népesség	olugbe	Nan
 németh	omo bibi	Nan
@@ -387,7 +387,7 @@ nyelvjárások	awọn iledìí	Nan
 nyelvnek	ede	None
 nyelvre	ede	None
 nyelvvel	ahọn	Nan
-nyelvén	ede naa	Nan
+nyelvén	ede	None
 nyelvű	nsoro	Nan
 nyer	ṣẹgun	Nan
 nyeri	aamieye	Nan
@@ -403,7 +403,7 @@ nyilatkozat	alaye	Nan
 nyelvi	ede	None
 nyelvet	ede	None
 novemberben	ni oṣu kọkanla	Nan
-now	ni bayi	Nan
+now	bayi	None
 nr	n	Nan
 nukleáris	iparun	Nan
 nulla	odo	Nan
@@ -411,16 +411,16 @@ ny	ìè	Nan
 nyak	ọrùn	Nan
 nyelv	ede	None
 nyelvben	ede	None
-nyelvcsalád	idile awọn ede	Nan
+nyelvcsalád	ede	None
 nyelve	ede	None
-nyelvek	awọn ede	Nan
-nyelvekben	awọn ede	Nan
-nyelveket	awọn ede	Nan
+nyelvek	ede	None
+nyelvekben	ede	None
+nyelveket	ede	None
 nyelven	gẹẹsi	Nan
 nyelvhez	ede	None
 nyilatkozata	alaye	Nan
 nyilatkozott	ṣalaye	Nan
-nyilatkozta	wí pé	Nan
+nyilatkozta	pé	None
 nyomozás	iwadii	Nan
 nyomozó	otelemuye	Nan
 nyomtatott	tejede	Nan
@@ -439,7 +439,7 @@ nyugaton	iwọ oorun	Nan
 nyomon	tẹle	Nan
 nyomda	tẹ	Nan
 nyomait	wa	Nan
-nyoma	wa kakiri	Nan
+nyoma	kakiri	None
 nyilván	o han ni	Nan
 nyilvános	gbangba	Nan
 nyilvánosan	gbangba	Nan
@@ -448,7 +448,7 @@ nyilvánosságra	atejade	Nan
 nyilvánvaló	kedere	Nan
 nyilvánvalóan	o han ni	Nan
 nyugatról	ìwọ oòrùn	Nan
-nyilvánvalóvá	ko o	Nan
+nyilvánvalóvá	ko	None
 nyilvánították	ṣalaye	Nan
 nyitott	ṣii	Nan
 nyitva	ṣii	Nan
@@ -597,29 +597,29 @@ okok	awọn idi	Nan
 nőt	obinrin	Nan
 nőtt	dagba	Nan
 nőtte	o ti dagba	Nan
-nővére	arabinrin rẹ	Nan
+nővére	rẹ	None
 obama	oba	None
 objektum	nnkan	Nan
-objektumok	awọn nkan	Nan
+objektumok	nkan	None
 olasz	ilu italia	Nan
 oceanic	òkun	Nan
-odaát	nibe yen	Nan
+odaát	nibe	None
 odáig	titi si asiko yi	Nan
 odüsszeusz	odysseus	Nan
 ok	o dara	Nan
 oka	idi	Nan
 okai	awọn okunfa	Nan
 okból	lati	Nan
-oda	ní bẹ	Nan
+oda	ní	None
 pápa	pope	Nan
 pápai	papal	Nan
 pápát	pọọlu	Nan
-seregek	awọn ọmọ ogun	Nan
-sereget	ọmọ ogun	Nan
-seregét	ọmọ ogun rẹ	Nan
-seregével	ọmọ ogun	Nan
+seregek	ogun	None
+sereget	ogun	None
+seregét	rẹ	None
+seregével	ogun	None
 serkentő	safikun	Nan
-sertésinfluenza	ẹlẹdẹ elede	Nan
+sertésinfluenza	elede	None
 service	iṣẹ	Nan
 shakespeare	sekisipia	Nan
 sherlock	sherlock	Nan
@@ -629,11 +629,11 @@ side	ẹgbẹ	Nan
 sierra	sierra	Nan
 siker	aṣeyọri	Nan
 sikere	aṣeyọri	Nan
-seregei	awọn ọmọ ogun	Nan
+seregei	ogun	None
 sikerei	awọn aṣeyọri	Nan
-serege	ọmọ ogun	Nan
+serege	ogun	None
 senna	senna	Nan
-segítségével	egba mi o	Nan
+segítségével	egba	None
 segítő	oluranlọwọ	Nan
 sehol	besi	Nan
 sejt	sẹẹli	Nan
@@ -647,7 +647,7 @@ semmi	ohunkohun	Nan
 semmiféle	rárá	Nan
 semmilyen	rárá	Nan
 semmit	ohunkohun	Nan
-senki	ko si eniyan kankan	Nan
+senki	kankan	None
 sereg	igboya	Nan
 sikerek	awọn aṣeyọri	Nan
 sikereket	aṣeyọri	Nan
@@ -678,7 +678,7 @@ sikertelen	aṣeyọri	Nan
 sikertelenül	laiṣeeṣe	Nan
 sikerét	aṣeyọri	Nan
 sikerül	ṣaṣeyọri	Nan
-segítségét	egba mi o	Nan
+segítségét	egba	None
 sikerült	ṣaṣeyọri	Nan
 sima	dan	Nan
 simabálnák	awọn ẹja nla	Nan
@@ -689,8 +689,8 @@ singer	akorin	Nan
 sir	sir	Nan
 sikerű	aṣeyọri	Nan
 son	ọmọ	None
-segítségére	egba mi o	Nan
-segítség	egba mi o	Nan
+segítségére	egba	None
+segítség	egba	None
 rövidítése	dúró	None
 s	s	Nan
 saint	mimọ	Nan
@@ -719,7 +719,7 @@ rómában	lomu	Nan
 rómát	lomu	Nan
 róza	dide	Nan
 rózsa	dide	Nan
-rózsaszín	awọ pupa	Nan
+rózsaszín	pupa	None
 rögtön	lẹsẹkẹsẹ	Nan
 rögzített	ti o wa titi	Nan
 rögzítette	ti o gbasilẹ	Nan
@@ -742,7 +742,7 @@ segíteni	lati ṣe iranlọwọ	Nan
 segített	iranwo	Nan
 segítette	iranwo	Nan
 segíti	iranlọwọ	Nan
-segítik	egba mi o	Nan
+segítik	egba	None
 segítsen	ran mi lowo	Nan
 scott	scott	Nan
 scorsese	scorsese	Nan
@@ -755,7 +755,7 @@ sarki	pola	Nan
 sarolta	sarolta	Nan
 sas	idì	Nan
 sata	sata	Nan
-segítséget	egba mi o	Nan
+segítséget	egba	None
 saturn	saturn	Nan
 schengeni	schengen	Nan
 schiller	schiller	Nan
@@ -765,22 +765,22 @@ schumacher	schumacher	Nan
 schwartz	schwartz	Nan
 science	sayensi	Nan
 savaria	ilu savaria	Nan
-róla	nipa rẹ	Nan
+róla	rẹ	None
 sopron	sopron	Nan
 sor	kana	Nan
 szabadkőművesség	masque	Nan
 szabadon	ọfẹ	Nan
 szabadság	ominira	Nan
-szabadságharc	ogun ominira	Nan
+szabadságharc	ogun	None
 szabadságot	ominira	Nan
 szabadságát	ominira	Nan
 szabadtéri	ita gbangba	Nan
 szabolcs	szabolcs	Nan
 szabvány	boṣewa	Nan
 szabály	ṣàkóso	Nan
-szabályai	awọn ipo	Nan
-szabályok	awọn ofin	Nan
-szabályokat	awọn ofin	Nan
+szabályai	ipo	None
+szabályok	ofin	None
+szabályokat	ofin	None
 szabályos	deede	Nan
 szabályozás	ilana	None
 szabadkőműves	freemasoni	Nan
@@ -808,7 +808,7 @@ szakasz	platoon	Nan
 szakasza	apakan	Nan
 szarvasmarha	ẹran	Nan
 szaturnusz	saturn	Nan
-szavai	awọn ọrọ rẹ	Nan
+szavai	rẹ	None
 szavak	awọn ọrọ	Nan
 szavakat	awọn ọrọ	Nan
 szavakkal	awọn ọrọ	Nan
@@ -854,11 +854,11 @@ sorát	kana	Nan
 sosem	rara	Nan
 south	guusu	None
 space	aaye	Nan
-spanyol	ede spanish	Nan
-spanyolok	ede spanish	Nan
+spanyol	ede	None
+spanyolok	ede	None
 spanyolország	ilu sibeeni	Nan
 spanyolországban	ilu sibeeni	Nan
-spanyolul	ni ede sipeeni	Nan
+spanyolul	ede	None
 spd	spd	Nan
 sorrend	ọkọọkan	Nan
 speciális	pataki	Nan
@@ -867,7 +867,7 @@ sorozatot	jara	Nan
 sora	kana	Nan
 sorba	ni tito	Nan
 sorban	kana	Nan
-sorok	awọn ori ila	Nan
+sorok	ori	None
 sorolható	classifiable	Nan
 sorolják	classified	Nan
 soron	kana	Nan
@@ -992,7 +992,7 @@ rendezése	pinpin okun	Nan
 rendezésében	too ti	Nan
 rendező	oludari	Nan
 rendezője	oludari	Nan
-rendfokozatok	awọn ipo	Nan
+rendfokozatok	ipo	None
 rendhagyó	alaibamu	Nan
 rendi	eto imulo	Nan
 rendezvények	iṣẹlẹ	Nan
@@ -1000,7 +1000,7 @@ rendőrség	ọlọpa	Nan
 regina	regina	Nan
 reggel	owurọ	Nan
 példák	awọn apẹẹrẹ	Nan
-például	fun apere	Nan
+például	fun	None
 pénz	owo	Nan
 pénzt	owo	Nan
 pénzügyi	owo	Nan
@@ -1028,7 +1028,7 @@ párizsban	paris	Nan
 párizsi	parisi	Nan
 páros	ani	Nan
 párt	ẹgbẹ	Nan
-pártja	ẹgbẹ rẹ	Nan
+pártja	rẹ	None
 pártok	awọn ẹgbẹ	Nan
 pártot	ẹgbẹ	Nan
 pásztor	oluṣọ-agutan	Nan
@@ -1123,7 +1123,7 @@ részéről	fun	None
 részét	apakan	Nan
 részével	apakan	Nan
 részévé	apakan	Nan
-részük	diẹ ninu wọn	Nan
+részük	wọn	None
 réteg	ipele	None
 rétege	fẹlẹfẹlẹ	Nan
 rétegek	fẹlẹfẹlẹ	Nan
@@ -1179,9 +1179,9 @@ republikánus	oloṣelu ijọba olominira	Nan
 repülés	ọkọ ofurufu	Nan
 repülő	fò	Nan
 repülőgép	ọkọ ofurufu	Nan
-repülőtere	papa ọkọ ofurufu	Nan
-repülőterek	papa ọkọ ofurufu	Nan
-repülőtér	papa ọkọ ofurufu	Nan
+repülőtere	papa	None
+repülőterek	papa	None
+repülőtér	papa	None
 return	padà	Nan
 rex	rex	Nan
 rezonancia	resonance	Nan
@@ -1229,7 +1229,7 @@ romlott	ṣe yẹyẹ	Nan
 rolling	yiyi	Nan
 szegény	talaka	None
 novellák	awọn itan kukuru	Nan
-nova	ko si	Nan
+nova	ko	None
 matematikus	oniṣiro-ọrọ	Nan
 matt	matte pari	Nan
 max	sókè	Nan
@@ -1268,13 +1268,13 @@ master	ọga	Nan
 marketing	titaja	Nan
 medicina	òògùn	Nan
 medián	agbedemeji	Nan
-megegyeznek	wọn gba	Nan
-megegyező	ikan na	Nan
+megegyeznek	gba	None
+megegyező	ikan	None
 megelőzte	niwaju	None
 megelőzve	niwaju	None
 megelőző	prophylactic	Nan
 megelőzően	ṣaaju	Nan
-megengedett	ti gba laaye	Nan
+megengedett	gba	None
 megerősített	ni okun	Nan
 megerősítette	timo	Nan
 megerősítették	timo	Nan
@@ -1310,8 +1310,8 @@ magyarázata	se alaye	Nan
 magyarázatot	alaye	Nan
 magyarázható	explicable	Nan
 magyarázzák	se alaye	Nan
-magzat	ọmọ inu oyun	Nan
-magába	to wa	Nan
+magzat	ọmọ	None
+magába	to	None
 magában	o ni	Nan
 magához	iho	Nan
 magán	ikọkọ	Nan
@@ -1323,10 +1323,10 @@ magára	iho	Nan
 magáról	iho	Nan
 magyarázat	alaye	Nan
 magát	iwo	Nan
-magyarul	ni ede hariba	Nan
+magyarul	ede	None
 magyarországért	họnari	Nan
 magukat	iwo	Nan
-magukkal	pẹlu wọn	Nan
+magukkal	wọn	None
 maguknak	awọn funrararẹ	Nan
 magukra	awọn funrararẹ	Nan
 magvető	irugbin	Nan
@@ -1338,7 +1338,7 @@ magyarországi	ara ilu hungary	Nan
 magyarországnak	onigun	Nan
 magyarországon	ni ilu họnda	Nan
 magyarországot	onigun	Nan
-magyarországra	to họnti	Nan
+magyarországra	to	None
 magyarországról	lati hungary	Nan
 magyarság	ara ilu hungaria	Nan
 magától	funrararẹ	Nan
@@ -1372,7 +1372,7 @@ makedónok	makedonia	None
 malcolm	ibi	Nan
 megfigyelése	wíwo	Nan
 malfoy	malfoy	Nan
-maláj	ede mala	Nan
+maláj	ede	None
 malária	aisan	Nan
 manapság	lasiko	Nan
 manchester	ilu manchester	Nan
@@ -1384,7 +1384,7 @@ megfigyelések	awọn akiyesi	Nan
 megfigyelő	oluwo	Nan
 megfogalmazott	gbekale	Nan
 megtagadta	kọ	Nan
-megtalálható	le ri	Nan
+megtalálható	le	None
 megtalálhatók	ri	Nan
 megtalálni	lati wa	Nan
 megtalálta	ri	Nan
@@ -1396,7 +1396,7 @@ megtett	ajo	None
 megtiltotta	kọsilẹ	Nan
 megtudja	ṣewadi	Nan
 megtámadta	kọlu	Nan
-megtámadták	wọn kọlu	Nan
+megtámadták	wọn	None
 megtörtént	ṣẹlẹ	Nan
 megsérült	farapa	Nan
 megvalósítani	lati mọ	Nan
@@ -1433,7 +1433,7 @@ meklizin	meclizine	Nan
 meleg	loworo	Nan
 melegebb	igbona	Nan
 melinda	melinda	Nan
-mellett	ti o tele	Nan
+mellett	tele	None
 mellette	lẹgbẹẹ ẹ	Nan
 melletti	itele	Nan
 megírta	kọ	Nan
@@ -1497,7 +1497,7 @@ meghívta	pe	Nan
 megindult	ṣí	Nan
 megkapta	gba	None
 megkezdte	bẹrẹ	Nan
-megkezdték	wọn bẹrẹ	Nan
+megkezdték	wọn	None
 megnövekedett	pọ si	Nan
 megnőtt	dagba	Nan
 megoldani	lati yanju	Nan
@@ -1511,7 +1511,7 @@ megosztotta	pin	Nan
 megpróbálja	gbiyanju lati	Nan
 megpróbált	gbiyanju	Nan
 megpróbálta	gbiyanju	Nan
-megpróbálták	wọn gbiyanju	Nan
+megpróbálták	wọn	None
 megrendezett	waye	Nan
 megnyílt	ṣí	Nan
 megnyitotta	ṣí	Nan
@@ -1528,7 +1528,7 @@ megromlott	bajẹ	Nan
 meglepő	iyalẹnu	Nan
 meglévő	wa	Nan
 megmaradt	osi	Nan
-megmutatta	o fihan	Nan
+megmutatta	fihan	None
 megnevezés	denomination	Nan
 megnevezése	orukọ	Nan
 megnyerni	lati bori	Nan
@@ -1562,7 +1562,7 @@ levelében	nipa lẹta	Nan
 levelét	lẹta naa	Nan
 levél	leta	Nan
 levélben	meeli	Nan
-levéltár	awọn ile ifi nkan pamosi	Nan
+levéltár	nkan	None
 levő	jije	None
 lewis	lewis	Nan
 lexikon	igbasilẹ	Nan
@@ -1614,8 +1614,8 @@ lisa	lisa	Nan
 lost	sọnu	Nan
 levelei	ewé	None
 levegőben	ninu afefe	Nan
-lehetett	o le jẹ	Nan
-lehetne	o le jẹ	Nan
+lehetett	le	None
+lehetne	le	None
 lehetnek	boya	Nan
 lehetséges	ṣeeṣe	Nan
 lehettek	le	None
@@ -1627,14 +1627,14 @@ lehetőségek	awọn aye	Nan
 lehetőségeket	awọn aye	Nan
 lehetőséget	aye	Nan
 lehetőségét	aye	Nan
-lehetővé	gba laaye	Nan
+lehetővé	gba	None
 lelet	wa	Nan
 lehetetlenné	soro	Nan
 leletek	awọn ohun-iṣere	Nan
 lehetetlen	soro	Nan
-lehessen	le jẹ	Nan
+lehessen	le	None
 legtöbb	julọ	Nan
-legtöbben	pupọ ninu wọn	Nan
+legtöbben	wọn	None
 legtöbbet	julọ	Nan
 legtöbbször	ọpọlọpọ igba	Nan
 legutolsó	tuntun	None
@@ -1655,8 +1655,8 @@ lelkes	onítara	Nan
 leonardo	leonardo	Nan
 leopold	leopold	Nan
 les	les	Nan
-lesz	yio je	Nan
-lesznek	yio je	Nan
+lesz	yio	None
+lesznek	yio	None
 leszállás	ibalẹ	Nan
 leszámítva	ayafi	Nan
 leszármazottai	iru-ọmọ	Nan
@@ -1664,7 +1664,7 @@ leszármazottja	ọmọ-ọmọ	Nan
 let	jije	None
 letartóztatták	mu	Nan
 lett	di	Nan
-lettek	wọn di	Nan
+lettek	wọn	None
 lettország	latvia	None
 levegő	ategun	Nan
 leonard	adẹtẹ	Nan
@@ -1676,15 +1676,15 @@ lemez	awo	None
 lemezek	awọn disiki	Nan
 lemezen	disiki	Nan
 lemezt	disiki	Nan
-lemond	fi ipo han	Nan
-lemondott	fi ipo silẹ	Nan
+lemond	ipo	None
+lemondott	ipo	None
 levele	lẹta	Nan
 lemondását	ifiwesile re	Nan
 lengyelek	awọn ọpá	Nan
 lengyelország	polandii	Nan
 lengyelországban	polandii	Nan
 lenin	leninisi	Nan
-lenne	yoo jẹ	Nan
+lenne	yoo	None
 lenni	lati jẹ	Nan
 lennie	jẹ	Nan
 lengyel	pólándì	Nan
@@ -1706,7 +1706,7 @@ létrehozta	ṣẹda	Nan
 létrehozták	ṣẹda	Nan
 létrehozása	ẹda	Nan
 létrejött	ṣẹda	Nan
-léte	ní bẹ	Nan
+léte	ní	None
 létrejövő	ṣẹda	Nan
 lét	jije	None
 lépéseket	awọn igbesẹ	Nan
@@ -1772,15 +1772,15 @@ luxemburgi	luxembourg	Nan
 lyuk	iho	Nan
 láb	ẹsẹ	None
 lába	esè	Nan
-lábjegyzet	ẹsẹ ọrọ	Nan
+lábjegyzet	ẹsẹ	None
 lábon	ẹsẹ	None
-lábánál	awọn ẹsẹ kekere	Nan
+lábánál	kekere	None
 lábát	ẹsẹ	None
 láden	laden	Nan
 lágy	rirọ	Nan
 lánchíd	pq bridge	Nan
 lány	ọmọbinrin	Nan
-lánya	ọmọbinrin rẹ	Nan
+lánya	rẹ	None
 lányok	awon odomobirin	Nan
 lányt	ọmọbinrin	Nan
 luxemburg	luxembourg	Nan
@@ -1843,7 +1843,7 @@ látogató	àlejò	Nan
 látogatók	àlejò	Nan
 látni	wo	Nan
 mellyel	ewo	Nan
-mellé	ti o tele	Nan
+mellé	tele	None
 melléknevek	awọn afẹsodi	Nan
 műhely	idanileko	Nan
 működik	iṣẹ	Nan
@@ -1861,7 +1861,7 @@ műszaki	imọ ẹrọ	Nan
 műve	mosi	Nan
 művei	ṣiṣẹ	Nan
 műfaja	oriṣi	Nan
-műveiben	awọn iṣẹ rẹ	Nan
+műveiben	rẹ	None
 műfaj	oriṣi	Nan
 műben	ohun ọgbin	Nan
 mögött	sile	None
@@ -1887,9 +1887,9 @@ nacional	nacional	Nan
 nacionalista	t’orilẹ-ede	Nan
 nacionalizmus	t’orilẹ-ede	Nan
 nagy	tobi	Nan
-nagyanyai	baba agba	Nan
-nagyapai	baba agba	Nan
-nagyapja	baba agba	Nan
+nagyanyai	agba	None
+nagyapai	agba	None
+nagyapja	agba	None
 nagyarányú	titobi	Nan
 nagyban	osunwon	Nan
 nagybritannia	ilu oyinbo briteeni	Nan
@@ -1899,7 +1899,7 @@ nagydíj	grand prix	Nan
 nagydíjat	joju nla	Nan
 nagydíjon	grand prix	Nan
 n	n	Nan
-művét	iṣẹ rẹ	Nan
+művét	rẹ	None
 művészi	iṣẹ ọna	Nan
 művészetének	aworan	Nan
 művek	ṣiṣẹ	Nan
@@ -1908,16 +1908,16 @@ művelet	isẹ	Nan
 művelt	gboye	Nan
 művelődési	aṣa	Nan
 művet	iṣẹ ni	Nan
-művében	iṣẹ rẹ	Nan
+művében	rẹ	None
 mögé	sile	None
-művének	iṣẹ rẹ	Nan
+művének	rẹ	None
 művészek	awọn oṣere	Nan
 művészet	aworan	Nan
 művészetben	aworan	Nan
 művészete	iṣẹ ọna	Nan
 művészetek	ona ona	Nan
 művészeti	iṣẹ ọna	Nan
-művészetoktatási	eko ona	Nan
+művészetoktatási	eko	None
 művész	olorin	Nan
 nagyfokú	kikoro	Nan
 mózes	mósè	Nan
@@ -1941,16 +1941,16 @@ másodperc	ikeji	Nan
 méltó	yẹ	Nan
 másodlagos	atẹle	Nan
 másnap	ni ijọ keji	Nan
-márciusban	ni oṣu kẹta	Nan
+márciusban	kẹta	None
 mária	màríà	Nan
-máris	ni bayi	Nan
+máris	bayi	None
 márk	samisi	Nan
 mármár	marmar	Nan
 márquez	márquez	Nan
 márta	márta	Nan
 márton	martin	Nan
 más	omiiran	Nan
-másfél	ọkan ati idaji	Nan
+másfél	idaji	None
 máshol	ibomiiran	Nan
 másik	omiiran	Nan
 máskor	igba miiran	Nan
@@ -1958,7 +1958,7 @@ másként	bibẹẹkọ	Nan
 másmás	miiran miiran	Nan
 második	ikeji	Nan
 mély	jinjin	Nan
-mélyebb	ko wole si	Nan
+mélyebb	wole	None
 mélyen	jinjin	Nan
 méter	mita	Nan
 mézga	gomu	Nan
@@ -1996,8 +1996,8 @@ mértékben	iye	Nan
 mértéke	ìyí	Nan
 mértékű	ìyí	Nan
 mérkőzésen	baramu	Nan
-március	oṣu kẹta	Nan
-nagyhatalmak	awọn agbara nla	Nan
+március	kẹta	None
+nagyhatalmak	agbara	None
 nagyjából	ni aijọju	Nan
 nevei	awọn orukọ ti	Nan
 nevek	awọn orukọ	Nan
@@ -2041,9 +2041,9 @@ nirvana	nirvana	Nan
 nixon	nixon	Nan
 no	obinrin	Nan
 nob	rárá	Nan
-nobeldíj	onipokinni nobel	Nan
+nobeldíj	nobel	None
 nobeldíjas	nobeldíjas	Nan
-nobeldíjat	fun un ni ẹbun nobel	Nan
+nobeldíjat	nobel	None
 noha	biotilejepe	Nan
 nomád	orukọ ara ilu	Nan
 norman	arabinrin	Nan
@@ -2053,18 +2053,18 @@ norvég	nowejiani	Nan
 norvégia	norway	Nan
 nostradamus	nostradamus	Nan
 niro	niro	Nan
-nincsenek	ko si rara	Nan
+nincsenek	ko	None
 nincsen	kiise	Nan
 nincs	rárá	Nan
 nevében	lori dípò ti	Nan
-nevéből	orukọ rẹ	Nan
-nevéhez	oruko re	Nan
+nevéből	rẹ	None
+nevéhez	oruko	None
 nevén	mọ bi	Nan
 nevének	orukọ	Nan
 nevét	orukọ	Nan
 nevével	orukọ	Nan
 nemesek	awọn ọlọla	Nan
-nevük	orukọ wọn	Nan
+nevük	wọn	None
 nevű	diẹ sii	Nan
 newton	newton	Nan
 nick	lóyún	Nan
@@ -2072,8 +2072,8 @@ nicolas	ohun inu-inu	Nan
 nietzsche	nietzsche	Nan
 night	alẹ	Nan
 nikola	nikola	Nan
-nevüket	orukọ wọn	Nan
-nagyhatalom	agbara nla	Nan
+nevüket	wọn	None
+nagyhatalom	agbara	None
 nemes	ọlọla	Nan
 nem	rárá	Nan
 napforduló	solstice	Nan
@@ -2120,7 +2120,7 @@ negyeddöntő	mẹẹdogun	Nan
 negyeddöntőben	mẹẹdogun	Nan
 negyedik	kẹrin	None
 negyven	ogoji	Nan
-nehezebb	gba gan	Nan
+nehezebb	gba	None
 nehezen	lile	Nan
 nehogy	boya	Nan
 nehéz	lile	Nan
@@ -2162,7 +2162,7 @@ milánó	milan	Nan
 milánóban	malan	Nan
 milánói	milanese	Nan
 mind	gbogbo	Nan
-mindaddig	bi gun	Nan
+mindaddig	gun	None
 mindazonáltal	sibẹsibẹ	Nan
 mindegyik	kọọkan	Nan
 mindegyike	kọọkan	Nan
@@ -2190,8 +2190,8 @@ miksa	awọn aporo	Nan
 miként	bawo	Nan
 minden	gbogbo	Nan
 mindenekelőtt	a la koko	Nan
-mindenesetre	bo se wu ko ri	Nan
-mindössze	o kan	Nan
+mindenesetre	ko	None
+mindössze	kan	None
 minimum	o kere ju	Nan
 minimális	o kere ju	Nan
 miniszter	òjíṣẹ́	Nan
@@ -2207,13 +2207,13 @@ mintha	bii pe	Nan
 minthogy	bẹ yẹn	Nan
 mintsem	ju	Nan
 mindvégig	ni gbogbo igba	Nan
-mindmáig	titi di bayi	Nan
+mindmáig	bayi	None
 mindkét	mejeeji	Nan
 mindketten	mejeeji	Nan
 mindenféle	gbogbo iru	Nan
 mindenhol	ibi gbogbo	Nan
 mindenki	gbogbo eyan	Nan
-mindenkinek	fun gbogbo eniyan	Nan
+mindenkinek	fun	None
 mindenkit	gbogbo eniyan	Nan
 mindenkori	ti nmulẹ	Nan
 mindenképpen	dajudaju	Nan
@@ -2234,7 +2234,7 @@ menekült	asasala	Nan
 menekültek	asasala	Nan
 menekülő	asasala	Nan
 menet	yika	Nan
-mennek	emi yoo lọ	Nan
+mennek	yoo	None
 menni	lati lọ	Nan
 mennydörgés	ààrá	Nan
 mennyi	elo ni	Nan
@@ -2242,7 +2242,7 @@ mennyire	bawo	Nan
 mennyiség	opoiye	Nan
 mennyiségben	iye	Nan
 mennyiségét	oye	Nan
-menstruációs	nkan oṣu	Nan
+menstruációs	nkan	None
 ment	lọ	Nan
 mentek	iwo lo	Nan
 menekülni	sa asala	Nan
@@ -2285,7 +2285,7 @@ mezőgazdasági	ogbin	Nan
 mezőny	gbagede	Nan
 metafizika	afiwera	Nan
 meséli	awọn atunbere	Nan
-mesék	awon to fun	Nan
+mesék	fun	None
 mesterségesen	atọwọda	Nan
 mentén	pẹlú	Nan
 mercedes	mercedes	Nan
@@ -2304,9 +2304,9 @@ mestere	ọga	Nan
 mesterek	ọga	Nan
 mesterséges	atọwọda	Nan
 merült	dide	Nan
-mára	fun oni	Nan
+mára	fun	None
 minél	diẹ sii	Nan
-minőségi	ti agbara	Nan
+minőségi	agbara	None
 mtv	mtv	Nan
 multinacionális	lọpọlọpọ	Nan
 munka	iṣẹ	Nan
@@ -2355,20 +2355,20 @@ muzulmán	musulumi	Nan
 mágikus	ti idan	Nan
 mágneses	oofa	Nan
 máj	ẹdọ	Nan
-május	oṣu karun	Nan
-májusban	ni oṣu karun	Nan
+május	karun	None
+májusban	karun	None
 málta	malta	Nan
 máltai	malita	Nan
 mániás	manic	Nan
-mutatni	lati fihan	Nan
+mutatni	fihan	None
 mutatnak	ṣafihan	Nan
 mutatkozott	o wa	Nan
 mutatkozik	o wa	Nan
 munkás	oṣiṣẹ	Nan
 munkások	osise	Nan
 munkáspárt	ẹgbẹ laala	Nan
-munkássága	iṣẹ rẹ	Nan
-munkásságát	iṣẹ rẹ	Nan
+munkássága	rẹ	None
+munkásságát	rẹ	None
 munkát	iṣẹ	Nan
 museo	ile musiọmu	Nan
 mozart	mozart	Nan
@@ -2429,7 +2429,7 @@ morse	pẹtẹlẹ	Nan
 morva	moravian	Nan
 morvai	moravian	Nan
 mos	wẹ	Nan
-most	ni bayi	Nan
+most	bayi	None
 mostani	lọwọlọwọ	Nan
 moszkva	ilu moscow	Nan
 moszkvai	ilu moscow	Nan
@@ -2441,12 +2441,12 @@ moore	moore	Nan
 moon	osupa	Nan
 monumentális	arabara	Nan
 monty	monty	Nan
-mondani	lati sọ	Nan
+mondani	sọ	None
 mondat	gbolohun ọrọ	Nan
-mondható	le jẹ	Nan
-mondja	wí pé	Nan
+mondható	le	None
+mondja	pé	None
 mondott	wi	Nan
-mondta	o sọ fun	Nan
+mondta	fun	None
 mondták	nwọn wipe	Nan
 mount	òkè	Nan
 mondván	sisọ,	Nan
@@ -2466,7 +2466,7 @@ váratlan	airotẹlẹ	Nan
 váratlanul	lairotẹlẹ	Nan
 várban	ile odi	Nan
 várható	o ti ṣe yẹ	Nan
-várja	nduro fun	Nan
+várja	fun	None
 várkonyi	várkony	Nan
 vármegye	county	Nan
 várnegyed	agbegbe castle	Nan
@@ -2544,7 +2544,7 @@ vád	ibanirojọ	Nan
 vádjával	idiyele	Nan
 vádolták	onimo	Nan
 vágott	ge	Nan
-vágya	tabi awọn	Nan
+vágya	tabi	None
 válasz	idahun	Nan
 válaszolt	dahùn	Nan
 választ	yan	None
@@ -2555,7 +2555,7 @@ választott	yàn	Nan
 vulkán	onina	Nan
 választotta	dibo	Nan
 vulkanikus	onina aruwo	Nan
-voyager	irin ajo	Nan
+voyager	ajo	None
 vonala	laini	Nan
 vonalak	awọn ila	Nan
 vonalat	laini	Nan
@@ -2570,7 +2570,7 @@ vonják	yorawonkuro	Nan
 vonta	fà	Nan
 vonták	yorawonkuro	Nan
 vonult	fẹyìntì	Nan
-vonultak	wọn rin	Nan
+vonultak	wọn	None
 vs	la	Nan
 választottak	dibo	Nan
 választották	dibo	Nan
@@ -2578,7 +2578,7 @@ választás	yiyan	Nan
 válogatás	yiyan	Nan
 válság	rogbodiyan	None
 vált	yipada	None
-váltak	wọn ti di	Nan
+váltak	wọn	None
 váltakozó	omiiran	Nan
 váltja	rọpo	Nan
 váltott	yipada	None
@@ -2590,10 +2590,10 @@ változatai	awọn ẹya	Nan
 változatban	awọn ẹya	Nan
 változatok	awọn ẹya	Nan
 változatos	iyatọ	Nan
-válogatottban	egbe ti orilẹ-ede	Nan
+válogatottban	egbe	None
 válogatott	oriṣiriṣi	Nan
 válni	lati di	Nan
-válnak	yio je	Nan
+válnak	yio	None
 választása	yan	None
 választási	idibo	Nan
 választások	awọn idibo	Nan
@@ -2607,10 +2607,10 @@ válik	di	Nan
 vállal	pinu	None
 vállalat	ile-iṣẹ	Nan
 vállalatok	awọn ile-iṣẹ	Nan
-vállalkozás	e pinu	Nan
+vállalkozás	pinu	None
 vállalt	agbeyewo	Nan
 vállalta	bẹrẹ	Nan
-válhat	le di	Nan
+válhat	le	None
 végeztek	o waiye	Nan
 végezték	o waiye	Nan
 végeztével	ti pari	Nan
@@ -2667,7 +2667,7 @@ zeneszerzőnek	olupilẹṣẹ	Nan
 zeneszerzőt	olupilẹṣẹ	Nan
 zenében	orin	Nan
 zenéje	ohun orin	Nan
-zavarok	maṣe yọ mi lẹnu	Nan
+zavarok	yọ	None
 zavargások	rudurudu	Nan
 zavar	rudurudu	Nan
 zalaegerszegi	zalaegerszeg	Nan
@@ -2757,7 +2757,7 @@ vért	ihamọra	Nan
 vértanúk	ajẹriku	Nan
 wass	wass	Nan
 véve	iwo	Nan
-vírus	kòkòrò àrùn fáírọọsì	Nan
+vírus	àrùn	None
 vírusok	awọn ọlọjẹ	Nan
 vívott	ja	Nan
 víz	omi	None
@@ -2767,7 +2767,7 @@ vízi	aromiyo	Nan
 vígjáték	awada	Nan
 von	von	Nan
 volte	folti	Nan
-voltam	mo ti sọ	Nan
+voltam	sọ	None
 vers	ewi	Nan
 verse	ẹsẹ	None
 versei	awọn ewi	Nan
@@ -2789,11 +2789,11 @@ veresége	ṣẹgun	Nan
 verdi	verdi	Nan
 vegyipari	ile-iṣẹ kemikali	Nan
 vegyületek	awọn iṣiro	Nan
-vele	pẹlu rẹ	Nan
+vele	rẹ	None
 velence	àlépa	Nan
-velencei	ede venice	Nan
+velencei	ede	None
 velencében	icede	Nan
-velük	pẹlu wọn	Nan
+velük	wọn	None
 vencel	awọn ayaba	Nan
 vendégek	awon alejo	Nan
 venezia	venezia	Nan
@@ -2811,12 +2811,12 @@ veszélyt	irokeke	Nan
 vet	gbìn	Nan
 vetett	gbon	Nan
 vetette	ju	Nan
-vetették	wọn ti wa	Nan
+vetették	wọn	None
 vett	mu	Nan
 vette	mu	Nan
-vettek	wọn mu	Nan
+vettek	wọn	None
 vettel	vettel	Nan
-vették	wọn mu	Nan
+vették	wọn	None
 vetítés	ilana	None
 vevő	alabara	Nan
 vezet	darí	Nan
@@ -2855,7 +2855,7 @@ valamit	nkan	None
 valamivel	fẹẹrẹ	Nan
 valencia	valencia	Nan
 valkűr	valkyrie	Nan
-vallja	wí pé	Nan
+vallja	pé	None
 vallon	wolika	Nan
 vallott	ṣalaye	Nan
 vallotta	bẹbẹ	Nan
@@ -2864,7 +2864,7 @@ valamelyik	ọkan	Nan
 vallási	ẹlẹsin	Nan
 valamely	a	Nan
 valahol	ibikan	Nan
-utólag	lẹyìn náà	Nan
+utólag	náà	None
 vacsora	ounje ale	Nan
 vad	ibanirojọ	Nan
 vadon	egan	Nan
@@ -2956,7 +2956,7 @@ viselkedés	ihuwasi	Nan
 viselkedése	ihuwasi	Nan
 viselkedését	ihuwasi	Nan
 viselt	wọ	Nan
-viselő	ti nso	Nan
+viselő	nso	None
 viszonya	ibatan	Nan
 viszonylag	jo	None
 viszonylagos	ibatan	Nan
@@ -2971,15 +2971,15 @@ vlagyimir	vladimir	Nan
 vokális	t’ohun	Nan
 voldemort	voldemort	Nan
 volga	volga	Nan
-volna	yoo jẹ	Nan
+volna	yoo	None
 volt	folti	Nan
 volta	iseda	Nan
-voltak	wọn wa	Nan
+voltak	wọn	None
 vizsgálat	idanwo	Nan
 vizet	omi	None
 vizes	olomi	Nan
 vizelethajtó	diuretic	Nan
-viszonyok	awọn ipo	Nan
+viszonyok	ipo	None
 viszonyt	ibatan	Nan
 viszonyát	ibatan	Nan
 viszonyítva	farawe si	Nan
@@ -2987,8 +2987,8 @@ vita	ijiroro	Nan
 vitatott	idije	Nan
 vitiligo	vitiligo	Nan
 vincent	vincent	Nan
-vitt	ti gbe	Nan
-vitték	wọn mu wọn lọ si	Nan
+vitt	gbe	None
+vitték	wọn	None
 viták	àríyànjiyàn	Nan
 vitákat	àríyànjiyàn	Nan
 vitát	ijiroro	Nan
@@ -2998,9 +2998,9 @@ vizek	omi	None
 vitte	mu	Nan
 vezeti	darí	Nan
 vince	vince	Nan
-világörökség	ajogunba agbaye	Nan
-vezérkar	giga ofin	Nan
-vezérkari	oloye oṣiṣẹ	Nan
+világörökség	agbaye	None
+vezérkar	ofin	None
+vezérkari	oloye	None
 vi	vi	Nan
 via	nipasẹ	Nan
 victor	segun	Nan
@@ -3013,7 +3013,7 @@ vidám	dun	None
 vidék	orilẹ-ede	Nan
 vidéke	ẹkùn	Nan
 vidékeken	awọn agbegbe	Nan
-vidéken	ni igberiko	Nan
+vidéken	igberiko	None
 vezére	oludari	Nan
 vidéki	igberiko	None
 vezér	darí	Nan
@@ -3034,16 +3034,16 @@ vezetőinek	awọn adari	Nan
 vezetője	oludari	Nan
 vezetőjét	oludari	Nan
 vezényelte	o waiye	Nan
-vidékén	ni igberiko	Nan
+vidékén	igberiko	None
 vietnam	vietnam	Nan
-vietnami	ede vietnam	Nan
-világháborút	ogun agbaye ii	Nan
-világhírű	olokiki agbaye	Nan
+vietnami	ede	None
+világháborút	agbaye	None
+világhírű	agbaye	None
 világi	alailesin	Nan
-világon	lori agbaye	Nan
-világos	ko o	Nan
+világon	agbaye	None
+világos	ko	None
 világosabb	tan imọlẹ	Nan
-világossá	ko o	Nan
+világossá	ko	None
 világot	agbaye	None
 világra	agbaye	None
 világszerte	kariaye	Nan
@@ -3052,9 +3052,9 @@ világválság	ibanujẹ	Nan
 világába	ileaye	Nan
 világában	ileaye	Nan
 világát	agbaye	None
-világháborús	ogun agbaye ii	Nan
-világháborúban	ogun agbaye ii	Nan
-világháború	ogun àgbáyé	Nan
+világháborús	agbaye	None
+világháborúban	agbaye	None
+világháború	ogun	None
 világegyetem	agbaye	None
 vihar	ìjì	Nan
 vii	vii	Nan
@@ -3063,14 +3063,14 @@ viktor	victor	None
 villa	orita	Nan
 villamos	itanna	Nan
 vilmos	william	Nan
-világörökségi	ajogunba agbaye	Nan
+világörökségi	agbaye	None
 világ	agbaye	None
-világatlasz	agbaye atlas	Nan
-világbajnok	agbajo agbaye	Nan
-világbajnoki	ayo agbaye	Nan
-világbajnokság	idije agbaye	Nan
+világatlasz	agbaye	None
+világbajnok	agbaye	None
+világbajnoki	agbaye	None
+világbajnokság	agbaye	None
 világbajnokságon	world championship	Nan
-világbajnokságot	ayo agbaye	Nan
+világbajnokságot	agbaye	None
 világban	agbaye	None
 világa	agbaye	None
 zenés	gaju ni	Nan
@@ -3102,7 +3102,7 @@ zenészek	awọn akọrin	Nan
 évenként	ododun	Nan
 évente	ododun	Nan
 éves	lododun	Nan
-évesen	ni ọjọ ori ti	Nan
+évesen	ori	None
 évet	ọdun	Nan
 évi	lododun	Nan
 évig	ọdun	Nan
@@ -3131,7 +3131,7 @@ zenészek	awọn akọrin	Nan
 órák	wakati	Nan
 ítéletet	idajọ	Nan
 ítélet	idajọ	Nan
-írók	mo ko	Nan
+írók	ko	None
 írója	onkqwe	Nan
 írták	kọ	Nan
 írva	kọ	Nan
@@ -3172,7 +3172,7 @@ zenészek	awọn akọrin	Nan
 érvényes	wulo	Nan
 értelmezés	itumọ	Nan
 értelemben	ori	None
-érintkezés	kan si	Nan
+érintkezés	kan	None
 érintő	kan	None
 érkezett	dé	None
 érkezik	wá	Nan
@@ -3183,7 +3183,7 @@ zenészek	awọn akọrin	Nan
 érsek	archbishop	Nan
 érseki	archbishop	Nan
 ért	loye	Nan
-érte	fun okunrin na	Nan
+érte	okunrin	None
 értek	iye	Nan
 értekezés	ikede	Nan
 értelem	itumo	None
@@ -3194,7 +3194,7 @@ zenészek	awọn akọrin	Nan
 északról	ariwa	Nan
 északvietnami	északvietnami	Nan
 észre	akiyesi	Nan
-észt	ede estonia	Nan
+észt	ede	None
 észtország	estonia	Nan
 étel	oúnjẹ	None
 ételek	awọn ounjẹ	Nan
@@ -3219,8 +3219,8 @@ zenészek	awọn akọrin	Nan
 és	ati	Nan
 években	ọdun	Nan
 ész	wit	Nan
-északamerika	ariwa amerika	Nan
-északamerikai	ariwa amerika	Nan
+északamerika	amerika	None
+északamerikai	amerika	None
 északamerikában	ni north america	Nan
 északdéli	ariwa-guusu	Nan
 északi	ariwa	Nan
@@ -3248,7 +3248,7 @@ zenészek	awọn akọrin	Nan
 útjára	ọnà	Nan
 ült	joko	Nan
 útján	nipasẹ	Nan
-útikalauz	ajo itọsọna	Nan
+útikalauz	ajo	None
 újlatin	ara ilu romania	Nan
 újonnan	tuntun	None
 újra	lẹẹkansi	Nan
@@ -3261,7 +3261,7 @@ zenészek	awọn akọrin	Nan
 újév	odun titun	Nan
 ún	ti a pe	Nan
 úr	ogbeni	Nan
-úszó	leefofo loju omi	Nan
+úszó	omi	None
 út	lu	Nan
 úti	awọn ibi	Nan
 útja	ọnà	Nan
@@ -3277,8 +3277,8 @@ zenészek	awọn akọrin	Nan
 őshonos	abinibi	Nan
 ősi	atijọ	Nan
 ősszel	ni isubu	Nan
-ősz	igba irẹdanu ewe	Nan
-őszi	igba irẹdanu ewe	Nan
+ősz	ewe	None
+őszi	ewe	None
 őt	marun	Nan
 űrhajó	ọkọ ofurufu	Nan
 űrhajós	aredumare	Nan
@@ -3298,14 +3298,14 @@ zenészek	awọn akọrin	Nan
 ütközés	ikọlu	Nan
 üvegházhatású	eefin	Nan
 üzemanyag	epo	Nan
-üzen	fi ifiranṣẹ ranṣẹ	Nan
+üzen	fi	None
 üzenet	ifiranṣẹ	Nan
 üzenetet	ifiranṣẹ	Nan
 üzent	ogun	None
 üzleti	iṣowo	Nan
 ütközött	jamba	Nan
 óta	niwon	Nan
-újkor	tuntun ọdun	Nan
+újkor	tuntun	None
 újból	lẹẹkansi	Nan
 ördög	eṣu	Nan
 öreg	atijọ	Nan
@@ -3320,7 +3320,7 @@ zenészek	awọn akọrin	Nan
 örökös	ajogun	Nan
 örököse	ajogun	Nan
 örökösödési	aṣeyọri	Nan
-örömmel	fi ayọ	Nan
+örömmel	fi	None
 ös	baba	Nan
 önéletrajzi	itan ara ẹni	Nan
 össze	papọ	Nan
@@ -3328,7 +3328,7 @@ zenészek	awọn akọrin	Nan
 önmagát	t’okan	Nan
 óvárosa	atijọ ilu	Nan
 öböl	bay	Nan
-öccse	aburo rẹ kekere	Nan
+öccse	kekere	None
 ödön	odon	Nan
 ökológiai	ilolupo	Nan
 ömlik	ṣiṣan	Nan
@@ -3402,7 +3402,7 @@ utókor	iran iran	Nan
 állapotot	ipinle	Nan
 állomás	ibudo	Nan
 állapotban	ni majemu	Nan
-állapota	ipinle rẹ	Nan
+állapota	rẹ	None
 államfő	olú ìlú	Nan
 állami	ipinle	Nan
 államnak	ipinle	Nan
@@ -3431,18 +3431,18 @@ utókor	iran iran	Nan
 általában	nigbagbogbo	Nan
 általános	gbogboogbo	Nan
 általánosan	gbogbogbo	None
-általánosságban	ni gbogbogbo	Nan
+általánosságban	gbogbogbo	None
 ám	sibẹsibẹ,	Nan
 án	loju	Nan
 ányos	iya-iya	Nan
-április	oṣu kẹrin	Nan
-áprilisban	oṣu kẹrin	Nan
+április	kẹrin	None
+áprilisban	kẹrin	None
 álma	apu	Nan
 álló	dúró	None
 állítólagos	esun	Nan
 állítólag	titẹnumọ	Nan
 állt	duro	Nan
-álltak	wọn wa	Nan
+álltak	wọn	None
 állás	iṣẹ	Nan
 álláspont	ibi iduro	Nan
 álláspontja	awari	None
@@ -3455,10 +3455,10 @@ utókor	iran iran	Nan
 állított	ṣeto	Nan
 állította	ṣalaye	Nan
 állítottak	ti	Nan
-állították	oun ni	Nan
+állították	oun	None
 állítása	tun	Nan
 állítani	ṣeto	Nan
-áprilisi	oṣu kẹrin	Nan
+áprilisi	kẹrin	None
 államforma	fọọmu ti ijọba	Nan
 államban	ipinle	Nan
 zárt	ni pipade	Nan
@@ -3473,7 +3473,7 @@ zászló	asia	Nan
 zászlós	faṣẹ si	Nan
 zászlót	asia	Nan
 zóna	agbegbe aago	Nan
-zöld	alawọ ewe	Nan
+zöld	ewe	None
 zöldség	ewebe	Nan
 zöme	pupọ ti	Nan
 zu	zu	Nan
@@ -3496,9 +3496,9 @@ zsigmond	sigismund	Nan
 zsinagóga	sínágọ́gù	Nan
 zsolt	awọn orin	Nan
 zsuzsanna	zsuzsanna	Nan
- cm	cm	Nan
- kg	kg	Nan
- km	km	Nan
+cm	cm	Nan
+kg	kg	Nan
+km	km	Nan
 ága	ẹka	Nan
 ágai	awọn ẹka	Nan
 ágazatok	awọn apa	Nan
@@ -3518,13 +3518,13 @@ zsuzsanna	zsuzsanna	Nan
 ádám	adam	Nan
 ábécé	abidi	None
 ábrázoló	aṣoju	Nan
- kmes	awọn ọrọ	Nan
- kmre	km kuro	Nan
- km²	km²	Nan
- mg	miligiramu	Nan
- mm	mm	Nan
-  km	km	Nan
- °c	° c	Nan
+kmes	awọn ọrọ	Nan
+kmre	km kuro	Nan
+km²	km²	Nan
+mg	miligiramu	Nan
+mm	mm	Nan
+km	km	Nan
+°c	° c	Nan
 állambeli	ipinle	Nan
 §	§	Nan
 ×	×	Nan
@@ -3540,14 +3540,14 @@ zsuzsanna	zsuzsanna	Nan
 áram	lọwọlọwọ	Nan
 énekesek	awọn akọrin	Nan
 énekesnő	akorin	Nan
-épp	ni bayi	Nan
-éppen	o kan	Nan
+épp	bayi	None
+éppen	kan	None
 éppúgy	pelu	Nan
 építeni	kọ	Nan
 épített	itumọ	Nan
 építette	itumọ	Nan
-építettek	wọn kọ	Nan
-építették	wọn kọ	Nan
+építettek	wọn	None
+építették	wọn	None
 építkezés	ikole	Nan
 építmény	edifice	Nan
 építtetett	itumọ	Nan
@@ -3559,7 +3559,7 @@ zsuzsanna	zsuzsanna	Nan
 ének	orin	Nan
 élt	gbé	None
 élte	gbé	None
-éltek	won gbe	Nan
+éltek	gbe	None
 élve	laaye	Nan
 élvezte	gbadun	Nan
 élén	ni ṣiṣi	Nan
@@ -3602,23 +3602,23 @@ zsuzsanna	zsuzsanna	Nan
 épület	ile	Nan
 épületben	ile	Nan
 épülete	ile	Nan
-élni	lati gbe	Nan
+élni	gbe	None
 épületei	awọn ile	Nan
 épületet	ile	Nan
 épületében	ile	Nan
-épülnek	wọn ti kọ	Nan
+épülnek	wọn	None
 épült	itumọ	Nan
-épültek	wọn ti kọ	Nan
-épülő	da lori	Nan
+épültek	wọn	None
+épülő	da	None
 ér	iṣọn	Nan
 épületek	awọn ile	Nan
 ára	owo	Nan
-élnek	won gbe	Nan
+élnek	gbe	None
 életünk	awọn aye wa	Nan
 átlagos	aropin	Nan
 átlagosan	lori apapọ	Nan
-átmeneti	fun igba diẹ	Nan
-átmenetileg	fun igba diẹ	Nan
+átmeneti	fun	None
+átmenetileg	fun	None
 átmérője	opin	Nan
 átszámítás	recalculation	Nan
 áttörést	itusilẹ	Nan
@@ -3626,11 +3626,11 @@ zsuzsanna	zsuzsanna	Nan
 átvette	mu	Nan
 átvették	mu	Nan
 ázsia	esia	None
-ázsiai	ara ilu esia	Nan
+ázsiai	esia	None
 ázsiában	esia	None
 édes	adun	Nan
 édesanyja	iya	Nan
-átlaghőmérséklet	apapọ awọn iwọn otutu	Nan
+átlaghőmérséklet	otutu	None
 édesapja	baba	Nan
 átlag	aropin	Nan
 átdolgozta	tunwo	Nan
@@ -3639,12 +3639,12 @@ zsuzsanna	zsuzsanna	Nan
 árpádházi	árpád	Nan
 árpádsávos	àpótí	Nan
 áruk	ẹru	Nan
-árvíz	iṣan omi	Nan
+árvíz	omi	None
 árán	inawo	Nan
 ás	ma wà	Nan
 ásványi	alumọni	Nan
 át	nipasẹ	Nan
-átadja	gba koja	Nan
+átadja	gba	None
 átadott	silẹ	Nan
 átadta	fi	None
 átalakult	yipada	None
@@ -3662,14 +3662,14 @@ zsuzsanna	zsuzsanna	Nan
 életre	si igbesi aye	Nan
 élettartam	igbesi aye	Nan
 élettartama	igbesi aye	Nan
-életében	ẹmi rẹ	Nan
-életének	ẹmi rẹ	Nan
+életében	rẹ	None
+életének	rẹ	None
 életére	laaye	Nan
 életéről	igbesi aye	Nan
 életét	igbesi aye	Nan
 életüket	aye won	Nan
 életem	igbesi aye mi	Nan
-élete	ẹmi rẹ	Nan
+élete	rẹ	None
 életben	laaye	Nan
 életbe	ipa	Nan
 éghajlati	afefe	Nan
@@ -3693,10 +3693,10 @@ utódja	agbapo	Nan
 utódai	arọpo	Nan
 utóda	agbapo	Nan
 születéskor	ibi	Nan
-születésnapja	ojo ibi	Nan
+születésnapja	ojo	None
 születésének	ibi	Nan
 születésű	bi	Nan
-szülés	ibimọ ọmọ	Nan
+szülés	ọmọ	None
 szülőháza	ibi ibi	Nan
 szülők	awọn obi	Nan
 szünet	sinmi	Nan
@@ -3732,14 +3732,14 @@ sámuel	sámúẹ́lì	Nan
 sándor	alaapọn	Nan
 sóska	sorrel	Nan
 sör	kana	Nan
-sörök	awọn ori ila	Nan
+sörök	ori	None
 sötét	dudu	Nan
 sötétebb	ṣokunkun	Nan
 sötétség	okunkun	None
 sújtotta	lu	Nan
-súlya	iwuwo rẹ	Nan
-súlyos	to ṣe pataki	Nan
-súlyosabb	to ṣe pataki	Nan
+súlya	rẹ	None
+súlyos	to	None
+súlyosabb	to	None
 súlyosan	wuwo	Nan
 sült	rosoti	Nan
 sőt	pẹlupẹlu	Nan
@@ -3788,7 +3788,7 @@ szép	lẹwa	Nan
 színházban	itage	Nan
 széndioxid	erogba oloro	Nan
 szélén	selenium	Nan
-székelyföldön	ilẹ szekler	Nan
+székelyföldön	ilẹ	None
 székelymagyar	hongari szekely	Nan
 székelység	székely	Nan
 székesegyház	katidira	Nan
@@ -3816,16 +3816,16 @@ szóló	adashe	Nan
 szórakoztató	idanilaraya	Nan
 szót	ọrọ	Nan
 szótár	iwe itumọ	Nan
-szótárak	iwe itumo	Nan
+szótárak	itumo	None
 szóval	nitorinaa	Nan
 szög	igun	Nan
 szörnyű	oburewa	Nan
 szöveg	ọrọ	Nan
 szövege	ọrọ naa	Nan
 szójegyzék	iwe afọwọkọ	Nan
-szócikkek	awọn nkan	Nan
+szócikkek	nkan	None
 szócikk	nkan	None
-szóból	ọrọ náà	Nan
+szóból	náà	None
 színpadon	ipele	None
 színpadra	ipele	None
 színre	awọ	Nan
@@ -3845,11 +3845,11 @@ szóban	ẹnu	Nan
 színésznő	oṣere	Nan
 székelyföldi	székelyföld	Nan
 sűrűsége	iwuwo	Nan
-tagja	ọmọ ẹgbẹ	Nan
+tagja	ọmọ	None
 tartozik	jẹ ti	Nan
 tartoznak	jẹ	Nan
 tartozott	o jẹ ti	Nan
-tartoztak	wọn jẹ	Nan
+tartoztak	wọn	None
 tartozó	fun	None
 tartva	tọju	Nan
 tartása	tọju	Nan
@@ -3859,14 +3859,14 @@ tartózkodott	dúró	None
 tartózkodása	dúró	None
 tartózkodó	olugbe	Nan
 tatár	jábánì	Nan
-tatárjárás	ajagun ayabo mongol	Nan
+tatárjárás	ajagun	None
 tatárok	tatars	Nan
-tartották	oun ni	Nan
+tartották	oun	None
 tava	adagun	Nan
 tartottak	waye	Nan
 tartott	waye	Nan
 tartalmazta	ninu	Nan
-tartalmazza	to wa	Nan
+tartalmazza	to	None
 tartalmazzák	ni	Nan
 tartalmazó	pẹlu	Nan
 tartalmú	akoonu	Nan
@@ -3882,8 +3882,8 @@ tartományok	agbegbe	Nan
 tartományt	igberiko	None
 tartotta	waye	Nan
 tavak	adagun	Nan
-tavasszal	ni orisun omi	Nan
-tavasz	orisun omi	Nan
+tavasszal	omi	None
+tavasz	omi	None
 tekintenek	ṣakiyesi	Nan
 tekinteni	kasi	Nan
 tekintetben	ọwọ	Nan
@@ -3903,7 +3903,7 @@ tekint	wo	Nan
 tekercs	okun	Nan
 tej	wara	Nan
 tehát	nitorinaa	Nan
-tavaszi	orisun omi	Nan
+tavaszi	omi	None
 taylor	taylor	Nan
 te	iwo	Nan
 tea	tii	Nan
@@ -3927,10 +3927,10 @@ találhatóak	nipa	Nan
 találhatók	ri	Nan
 találja	nwa	None
 találják	wa	Nan
-találkozhatunk	a le pade	Nan
+találkozhatunk	le	None
 találkozik	wa kọja	Nan
 találkozott	pàdé	Nan
-találkoztak	wọn pade	Nan
+találkoztak	wọn	None
 találkozó	ipade	Nan
 találnak	wa	Nan
 találni	lati wa	Nan
@@ -3942,16 +3942,16 @@ található	ninu	Nan
 találunk	wa	Nan
 találhatunk	ri	Nan
 tallium	thallium	Nan
-tagjai	ọmọ ẹgbẹ ti	Nan
-tagjainak	ọmọ ẹgbẹ ti	Nan
-tagjait	awọn ọmọ ẹgbẹ	Nan
-tagjaként	bi ọmọ ẹgbẹ kan	Nan
-tagjának	ọmọ ẹgbẹ	Nan
-tagját	ọmọ ẹgbẹ	Nan
-tagjává	ọmọ ẹgbẹ	Nan
-tagok	ọmọ ẹgbẹ	Nan
+tagjai	ọmọ	None
+tagjainak	ọmọ	None
+tagjait	ọmọ	None
+tagjaként	kan	None
+tagjának	ọmọ	None
+tagját	ọmọ	None
+tagjává	ọmọ	None
+tagok	ọmọ	None
 tagolt	sọrọ	Nan
-tagállamok	awọn ọmọ ẹgbẹ egbe	Nan
+tagállamok	egbe	None
 tajvan	taiwan	Nan
 taktikai	ọgbọn	Nan
 takács	òwú	Nan
@@ -3963,7 +3963,7 @@ tamás	thomas	Nan
 tanait	awọn tẹnisi	Nan
 tanított	kọ	Nan
 tanította	kọ	Nan
-tanítványa	ọmọ ẹ̀yìn	Nan
+tanítványa	ọmọ	None
 tanítványai	omo ile	Nan
 tanítás	nkọ́ni	Nan
 tanítása	nkọ́ni	Nan
@@ -3981,7 +3981,7 @@ tanára	alamọdaju	Nan
 tanár	olukọ	Nan
 tanácsok	awọn imọran	Nan
 tandíj	owo ileiwe	Nan
-tangarafélék	ẹgbẹ kekere	Nan
+tangarafélék	kekere	None
 tankönyvkiadó	akede iwe	Nan
 tanulmány	iwadi	None
 tanulmányai	awọn ijinlẹ	Nan
@@ -3998,7 +3998,7 @@ tanácsadó	oludamoran	Nan
 tanácsköztársaság	ara ilu soviet	Nan
 tanulmányozása	keko	None
 telefon	foonu	Nan
-székelyföld	ilẹ szekler	Nan
+székelyföld	ilẹ	None
 székely	szekely	Nan
 szerkezetet	be	Nan
 szerkezeti	igbekale	Nan
@@ -4030,7 +4030,7 @@ szerinte	gẹgẹ bi tirẹ	Nan
 szerinti	ti	Nan
 szerintük	ronu	Nan
 szerk	ṣatunkọ	Nan
-szerkesztett	ti won ko	Nan
+szerkesztett	ko	None
 szerkesztette	satunkọ	Nan
 szerkesztő	olootu	Nan
 szerkesztői	olootu	Nan
@@ -4108,7 +4108,7 @@ szem	oju	Nan
 szembe	oju	Nan
 szemben	idakeji	Nan
 szembeni	lodi si	Nan
-szeme	oju rẹ	Nan
+szeme	rẹ	None
 szemere	szemere	Nan
 szemközti	idakeji	Nan
 szemmel	oju	Nan
@@ -4116,7 +4116,7 @@ szentgyörgyi	szentgyörgy	Nan
 szenved	jiya	Nan
 szenvedett	jiya	Nan
 szerepel	ninu	Nan
-szerepelnek	to wa	Nan
+szerepelnek	to	None
 szerepelt	ifihan	Nan
 szerepet	ipa	Nan
 szerephez	ipa	Nan
@@ -4130,10 +4130,10 @@ szerepére	ipa ti	Nan
 szerepét	ipa	Nan
 szerepük	ipa	Nan
 szeret	ni ife	Nan
-szerepe	ipa rẹ	Nan
+szerepe	rẹ	None
 szerep	ipa	Nan
 szerencsés	oriire	None
-szerencsére	da fun	Nan
+szerencsére	fun	None
 szenvedtek	jiya	Nan
 szenvedés	ibanujẹ	Nan
 szenvedő	ijiya	Nan
@@ -4147,12 +4147,12 @@ szerbia	serbia	Nan
 szerbiában	serbia	Nan
 szerbül	serbian	Nan
 szerelem	ni ife	Nan
-szerelme	ifẹ rẹ	Nan
+szerelme	rẹ	None
 szerelmes	ni ife	Nan
 szerelmi	amily	Nan
 szerbek	awọn iṣẹ	Nan
 székelyek	szekely	Nan
-szilveszter	ojo ati ale ojo siwaju odun titun	Nan
+szilveszter	ojo	None
 szilárd	líle	Nan
 száma	nọmba	Nan
 számban	nọmba	Nan
@@ -4165,7 +4165,7 @@ számos	lọpọlọpọ	Nan
 számot	nọmba	Nan
 számottevő	akude	Nan
 számtalan	ainiye	Nan
-számuk	nọmba wọn	Nan
+számuk	wọn	None
 számukra	wọn	None
 számvitel	iṣiro	Nan
 számában	àtúnse	Nan
@@ -4234,7 +4234,7 @@ szorosan	sunmọ	Nan
 szlovákiai	slovakia	Nan
 szlovákiában	ni ilu slovakia	Nan
 szlovákok	slovaks	Nan
-szlovén	ede slovenia	Nan
+szlovén	ede	None
 szlovénia	slovenia	Nan
 szláv	slavic	Nan
 szlávok	awọn slav	Nan
@@ -4248,7 +4248,7 @@ szobrászművész	ere	Nan
 szobrát	ere	Nan
 szlovákia	slovakia	Nan
 szocialista	alamọdaju	Nan
-szlovák	ede slovaki	Nan
+szlovák	ede	None
 szinusz	oniye	Nan
 szimbolikus	apẹẹrẹ	Nan
 szimbólum	aami	Nan
@@ -4260,11 +4260,11 @@ szinkronizálva	muuṣiṣẹpọ	Nan
 szint	ipele	None
 szinte	fẹẹrẹ	Nan
 szinten	tun	Nan
-szintje	awọn ipele	Nan
-szintjén	awọn ipele	Nan
-szintre	awọn ipele	Nan
+szintje	ipele	None
+szintjén	ipele	None
+szintre	ipele	None
 szintén	tun	Nan
-szintű	awọn ipele	Nan
+szintű	ipele	None
 szkandium	iruju	Nan
 szocializmus	ọrọ ajumọṣe	Nan
 szociológia	sociology	Nan
@@ -4285,8 +4285,8 @@ szonda	wadi	Nan
 szor	irun	Nan
 szoros	fẹẹrẹ	Nan
 szolgáltatás	iṣẹ	Nan
-szolgáltak	yoo wa	Nan
-szolgált	yoo wa	Nan
+szolgáltak	yoo	None
+szolgált	yoo	None
 szolgálnak	sìn	Nan
 szociáldemokrata	ijọba tiwantiwa	Nan
 szociális	lawujọ	Nan
@@ -4343,9 +4343,9 @@ típust	awọn oriṣi	Nan
 típusú	oriṣi	Nan
 tíz	mẹwa	Nan
 tó	adagun	Nan
-többségük	pupọ ninu wọn	Nan
+többségük	wọn	None
 többé	eyikeyi diẹ sii	Nan
-többékevésbé	diẹ ẹ sii tabi kere si	Nan
+többékevésbé	tabi	None
 tör	fọ	Nan
 törekedett	wá	Nan
 törekvés	lepa	Nan
@@ -4367,28 +4367,28 @@ tömegközlekedési	ọkọ irinna	Nan
 tömegközlekedés	ọkọ irinna	Nan
 tökéletes	pipe	Nan
 tökéletesen	pipe	Nan
-tölt	gba agbara	Nan
+tölt	agbara	None
 töltenek	na	Nan
 tölti	na	Nan
 töltik	na	Nan
-töltött	gba agbara	Nan
+töltött	agbara	None
 térségében	ẹkùn	Nan
 töltötte	lo	Nan
-töltötték	wọn lo	Nan
+töltötték	wọn	None
 tömb	dina	Nan
 tömeg	ogunlọgọ	Nan
 tömege	iwuwo	Nan
 tömegek	ọpọ eniyan	Nan
 tömeges	lowo	Nan
 tömegesen	ifọwọra	Nan
-töltöttek	wọn lo	Nan
+töltöttek	wọn	None
 történetek	awọn itan	Nan
 térségben	ẹkùn	Nan
-térképek	awọn maapu	Nan
+térképek	maapu	None
 tárgyalt	idunadura	Nan
 tárgyalások	idunadura	Nan
 tárgyalásokat	idunadura	Nan
-tárgyat	awọn nkan	Nan
+tárgyat	nkan	None
 tárgyeset	ẹsun	Nan
 tárgyát	koko	Nan
 tárgyú	ofin	None
@@ -4400,7 +4400,7 @@ társai	awọn ẹlomiran	Nan
 társas	gregarious	Nan
 társaság	ile-iṣẹ	Nan
 társasági	ajọ	Nan
-tárgyakat	awọn nkan	Nan
+tárgyakat	nkan	None
 társaságában	ile-iṣẹ	Nan
 tárgyak	ohun	Nan
 tárgy	nnkan	Nan
@@ -4421,12 +4421,12 @@ tánc	jó	Nan
 táplálék	ounjẹ	Nan
 tárgya	nnkan	Nan
 társulat	ile-iṣẹ	Nan
-társult	ni nkan ṣe	Nan
+társult	nkan	None
 távol	jinna	Nan
 témákat	awọn akọle	Nan
 témát	akori	Nan
 tény	o daju	Nan
-tények	awọn ododo	Nan
+tények	ododo	None
 tényező	ifosiwewe	Nan
 tényezők	awọn okunfa	Nan
 tényleg	nitootọ	Nan
@@ -4450,19 +4450,19 @@ távolsági	gigun	Nan
 távolságra	lati	Nan
 távon	igba	Nan
 térség	ẹkùn	Nan
-távozik	ori jade	Nan
+távozik	ori	None
 távozása	ilọkuro	Nan
 távú	igba	Nan
 téglatest	kuboidi	Nan
-tél	igba otutu	Nan
-télen	ni igba otutu	Nan
-téli	igba otutu	Nan
+tél	otutu	None
+télen	otutu	None
+téli	otutu	None
 téma	koko	Nan
 távozott	kuro	Nan
 támogatja	lati ṣe atilẹyin	Nan
 történeteket	awọn itan	Nan
 történeti	itan	Nan
-unokaöccse	ọmọ arakunrin	Nan
+unokaöccse	ọmọ	None
 unokája	ọmọ-ọmọ	Nan
 up	sókè	Nan
 ura	oluwa	Nan
@@ -4506,7 +4506,7 @@ utcai	opopona	Nan
 utcában	loju ọna	Nan
 utcák	ita	Nan
 utcán	loju ọna	Nan
-utoljára	fun igba ikẹhin	Nan
+utoljára	fun	None
 utolsó	kẹhin	Nan
 után	lẹhin	Nan
 utána	lẹhin	Nan
@@ -4531,14 +4531,14 @@ utalt	korira	Nan
 utalás	itọkasi	Nan
 utaló	ti o ni ibatan	Nan
 utasította	kọ	Nan
-utasítás	awọn ilana	Nan
-utasítást	awọn ilana	Nan
+utasítás	ilana	None
+utasítást	ilana	None
 utat	ọna	Nan
 utazik	irin-ajo	Nan
 utalva	ifilo si	Nan
 történetet	itan	Nan
 ugyanis	eyun	Nan
-ugyanezen	ikan na	Nan
+ugyanezen	ikan	None
 törvénytelen	arufin	Nan
 törzs	ẹyà	Nan
 törzsek	awọn igara	Nan
@@ -4570,11 +4570,11 @@ történészek	òpìtàn	Nan
 történő	loju	Nan
 törvény	ofin	None
 törvénye	ofin	None
-törvényei	awọn ofin	Nan
-törvények	awọn ofin	Nan
-törvényeket	awọn ofin	Nan
+törvényei	ofin	None
+törvények	ofin	None
+törvényeket	ofin	None
 törvényhozás	ofin	None
-túlélők	ye awon to ye	Nan
+túlélők	to	None
 tükrözi	awọn digi	Nan
 tükör	digi	Nan
 udvari	kootu	Nan
@@ -4584,14 +4584,14 @@ uefa	uefa	Nan
 uefakupa	uefakupa	Nan
 ugor	olórí	Nan
 ugyan	botilẹjẹpe	Nan
-ugyanabban	ikan na	Nan
+ugyanabban	ikan	None
 ugyanaz	kanna	Nan
-ugyanazon	ikan na	Nan
-ugyanazt	ikan na	Nan
+ugyanazon	ikan	None
+ugyanazt	ikan	None
 ugyancsak	bakanna	Nan
-ugyanebben	ikan na	Nan
+ugyanebben	ikan	None
 ugyanekkor	ni igba kaana	Nan
-ugyanez	ikan na	Nan
+ugyanez	ikan	None
 udvarban	kootu	Nan
 udvar	kootu	Nan
 tűzte	ṣeto	Nan
@@ -4603,11 +4603,11 @@ tüntetők	awọn alainitelorun	Nan
 türk	tọki	Nan
 tüskés	ifowopamo	Nan
 tüzet	ina	Nan
-ugyanezt	ikan na	Nan
+ugyanezt	ikan	None
 tüzérségi	ohun ija	Nan
 től	lati	Nan
-tőle	lati ọdọ rẹ	Nan
-tőlük	lati ọdọ wọn	Nan
+tőle	rẹ	None
+tőlük	wọn	None
 tűnik	dabi	Nan
 tűnnek	han	Nan
 tűnt	han	Nan
@@ -4618,7 +4618,7 @@ támasztja	atilẹyin	Nan
 támadó	ajagun	None
 teréz	hysteresis	Nan
 terézia	koreia	Nan
-terül	oun ni	Nan
+terül	oun	None
 terület	agbegbe	Nan
 területe	agbegbe	Nan
 területei	awọn agbegbe	Nan
@@ -4664,7 +4664,7 @@ tetszik	fẹran	Nan
 tetszőleges	eyikeyi	Nan
 tette	ṣe	Nan
 tettek	wọn	None
-tették	wọn wa	Nan
+tették	wọn	None
 teutonok	awọn teutons	Nan
 tevékenykedett	ṣiṣẹ	Nan
 tevékenység	ìṣe	Nan
@@ -4672,7 +4672,7 @@ tevékenysége	ìṣe	Nan
 teszi	ṣe	Nan
 tesz	ṣe	Nan
 testület	ara	Nan
-testét	ara rẹ	Nan
+testét	rẹ	None
 területének	agbegbe	Nan
 területére	agbegbe	Nan
 területéről	lati	Nan
@@ -4681,7 +4681,7 @@ területű	agbegbe	Nan
 tesla	tesla	Nan
 test	ara	Nan
 természetfeletti	iyanu	Nan
-teste	ara rẹ	Nan
+teste	rẹ	None
 testet	ara	Nan
 testi	ti ara	Nan
 testvér	arakunrin	Nan
@@ -4709,12 +4709,12 @@ templomot	ijo	Nan
 tengely	àá	Nan
 tenger	okun	Nan
 teljesítménye	agbara	None
-tengeralattjáró	ọkọ inu omi kekere	Nan
+tengeralattjáró	kekere	None
 teljesítmény	imuṣere	Nan
 teljesen	patapata	Nan
 telepedtek	yanju	Nan
 telepesek	atipo	Nan
-telepített	fi sori ẹrọ	Nan
+telepített	fi	None
 települt	yanju	Nan
 település	pinpin okun	Nan
 települése	awọn ibugbe	Nan
@@ -4725,12 +4725,12 @@ településen	pinpin okun	Nan
 települést	pinpin okun	Nan
 televízió	tẹlifisiọnu	Nan
 televíziós	tẹlifisiọnu	Nan
-teli	igba otutu	Nan
+teli	otutu	None
 teljes	pari	Nan
 teljesített	ošišẹ	Nan
-tengeralattjárók	awọn ipin omi inu omi	Nan
+tengeralattjárók	omi	None
 tengerbe	okun	Nan
-tengeren	ni omi okun	Nan
+tengeren	omi	None
 terjedt	tànkálẹ	Nan
 terjedő	sí	Nan
 terjesztette	silẹ	Nan
@@ -4751,18 +4751,18 @@ terhesség	oyun	Nan
 terhes	loyun	Nan
 teret	aaye	Nan
 tengerentúli	okeokun	Nan
-tengeri	igba omi okun	Nan
+tengeri	omi	None
 tengerpart	eti okun	Nan
 tengerparti	okun	Nan
 tengerparton	eti okun	Nan
-tengerszint	ipele omi okun	Nan
+tengerszint	omi	None
 tenisz	tẹnisi	Nan
 természetes	àbínibí	Nan
 teniszező	tennis	Nan
 tenni	lati ṣe	Nan
 tennis	tẹnisi	Nan
 teodicea	iṣọtẹ	Nan
-teológia	eko nipa esin	Nan
+teológia	eko	None
 teológiai	imq ẹkọ	Nan
 tere	tere	Nan
 teremtett	ṣẹda	Nan
@@ -4787,7 +4787,7 @@ tudósok	sayensi	Nan
 tulajdonképpen	gangan	Nan
 tudni	lati mọ	Nan
 tulajdonképpeni	foju	Nan
-tudnak	wọn mọ	Nan
+tudnak	wọn	None
 tudjuk	a mọ	Nan
 trianoni	trianon	Nan
 trója	tiro	Nan
@@ -4804,7 +4804,7 @@ tudatában	imo	Nan
 tudható	isọdi	Nan
 tudja	le	None
 tudjon	kọ ẹkọ	Nan
-tudják	wọn mọ	Nan
+tudják	wọn	None
 tulajdonos	oniwun	Nan
 tulajdonosa	oniwun	Nan
 tulajdonsága	ohun-ini	Nan
@@ -4817,8 +4817,8 @@ tájak	iwoye	Nan
 táján	yika	Nan
 támadt	ní	None
 támadta	kọlu	Nan
-támadtak	wọn kọlu	Nan
-támadták	wọn kọlu	Nan
+támadtak	wọn	None
+támadták	wọn	None
 támadás	kọlu	Nan
 támadása	kọlu	Nan
 támadások	ku	None
@@ -4832,7 +4832,7 @@ tulajdonságait	awọn ẹya	Nan
 tulajdonságok	awọn ohun-ini	Nan
 tulajdonában	ohun ini	Nan
 tupac	tupac	Nan
-turisták	aririn ajo	Nan
+turisták	ajo	None
 turisztikai	oniriajo	Nan
 trek	irin-ajo	Nan
 turizmus	irin-ajo	Nan
@@ -4856,15 +4856,15 @@ tiszt	oṣiṣẹ	Nan
 tiszta	mọ	Nan
 tisztek	awọn olori	Nan
 tiszteletbeli	ọlá	Nan
-tiszteletben	bọwọ fun	Nan
+tiszteletben	fun	None
 tisztelete	ọwọ	Nan
 tiszteletére	ọlá	Nan
-tisztelt	bọwọ fun	Nan
+tisztelt	fun	None
 tisztelték	lola	Nan
 tiszti	oṣiṣẹ	Nan
 tiltott	leewọ	Nan
 tisztséget	ọfiisi	Nan
-tiltakozott	fi ehonu han	Nan
+tiltakozott	fi	None
 till	titi	Nan
 texasi	texas	Nan
 textilipar	ile ise aso	Nan
@@ -4881,11 +4881,11 @@ tibeti	tibetian	Nan
 tibor	tibor	Nan
 tigris	ẹyẹ	Nan
 tilalom	gbesele	Nan
-tilos	ko si aaye	Nan
-tisztában	mò nípa	Nan
-tisztán	ko o	Nan
+tilos	ko	None
+tisztában	mò	None
+tisztán	ko	None
 tisztázott	koyewa	Nan
-tony	ikan isere	Nan
+tony	ikan	None
 topográf	arosọ	Nan
 torna	ibi idaraya	Nan
 tornán	figagbaga	Nan
@@ -4901,7 +4901,7 @@ tradicionális	ibile	None
 tragikus	ajalu	Nan
 tragédia	ajalu	Nan
 tolkien	tolkien	Nan
-toldi	so fun	Nan
+toldi	fun	None
 toldalék	samisi	Nan
 tokaji	tokay	Nan
 titanic	titanic	Nan
@@ -4948,7 +4948,7 @@ elsők	akoko	Nan
 elsőként	akoko	Nan
 elsősorban	nipataki	Nan
 elte	tun	Nan
-eltekintve	yàtò sí	Nan
+eltekintve	yàtò	None
 eltelt	koja	Nan
 elteltével	lẹhin	Nan
 elterjedt	lọwọlọwọ	Nan
@@ -4961,12 +4961,12 @@ eltérés	iyato	None
 eltérő	yatọ	Nan
 első	akoko	Nan
 elvét	opo	Nan
-elég	ti to	Nan
+elég	to	None
 előadó	oluṣe	Nan
 előadók	awọn agbohunsoke	Nan
 előbb	ṣaaju	Nan
 előbbi	tele	None
-elődje	àyànjáde rẹ	Nan
+elődje	rẹ	None
 elődöntő	agbedemeji	Nan
 elődöntőben	semifinals	Nan
 előfordul	waye	Nan
@@ -4981,7 +4981,7 @@ előadásában	ikowe	Nan
 elé	eti	Nan
 előadást	ikowe	Nan
 előadások	ifarahan	Nan
-eléggé	ti to	Nan
+eléggé	to	None
 elérheti	de ọdọ	Nan
 elérhető	wa	Nan
 elérhetővé	wa	Nan
@@ -5008,7 +5008,7 @@ ellenség	ọtá	Nan
 ellenséges	agbalejo	Nan
 ellentmondásos	ilodi	Nan
 ellentét	ilodi si	Nan
-ellentétben	ko jọra	Nan
+ellentétben	ko	None
 ellentétek	alatako	Nan
 ellentétes	idakeji	Nan
 ellenzék	àtakò	Nan
@@ -5019,10 +5019,10 @@ ellenfele	alatako	Nan
 ellenében	lodi si	Nan
 ellenezte	tako	Nan
 ellenben	sibẹsibẹ	Nan
-elkerülése	lati yago fun	Nan
+elkerülése	fun	None
 elkezdett	bere	Nan
 elkezdte	bẹrẹ	Nan
-elkezdték	wọn bẹrẹ	Nan
+elkezdték	wọn	None
 elkezdődött	bẹrẹ	Nan
 elképzelhető	ironu	Nan
 elképzelés	iro	Nan
@@ -5036,7 +5036,7 @@ elküldte	firanṣẹ	Nan
 ellen	lodi si	Nan
 ellene	lodi si	Nan
 ellenére	pelu	Nan
-ellenük	si wọn	Nan
+ellenük	wọn	None
 ellenőrzés	iṣakoso	Nan
 elnevezése	lorukọ	Nan
 elnevezést	yiyan	Nan
@@ -5103,16 +5103,16 @@ endre	andrew	Nan
 energia	agbara	None
 energiája	agbara	None
 energiát	agbara	None
-enged	gba laaye	Nan
-engedte	je ki n	Nan
+enged	gba	None
+engedte	ki	None
 engedték	tu silẹ	Nan
 engedély	iwe-aṣẹ	Nan
 engedélyezett	iwe-aṣẹ	Nan
 engedélyezte	yọọda	Nan
-engedélyezték	fun ni aṣẹ	Nan
+engedélyezték	fun	None
 engedélyt	igbanilaaye	Nan
-ennek	fun eyi	Nan
-eredete	ipilẹṣẹ rẹ	Nan
+ennek	fun	None
+eredete	rẹ	None
 eredeti	atilẹba	Nan
 eredetileg	ni akọkọ	Nan
 erejű	ipinnu	Nan
@@ -5154,7 +5154,7 @@ eredményeket	awọn esi	Nan
 eljárást	ilana	None
 emo	emo	Nan
 emlősök	osin	Nan
-előírások	awọn ilana	Nan
+előírások	ilana	None
 email	í-meèlì	Nan
 emancipáció	emancipation	Nan
 ember	ènìyàn	Nan
@@ -5163,9 +5163,9 @@ embere	ọkunrin	Nan
 emberei	eniyan	Nan
 emberek	eniyan	Nan
 embereket	eniyan	Nan
-embereknek	fun eniyan	Nan
+embereknek	fun	None
 emberi	ènìyàn	Nan
-emberiség	ọmọ eniyan	Nan
+emberiség	ọmọ	None
 embernek	eniyan	Nan
 emberre	ọkunrin	Nan
 emberrel	eniyan	Nan
@@ -5215,7 +5215,7 @@ emelkedik	dide	Nan
 emelkedő	si oke	Nan
 emellett	yàtò	None
 emelt	dide	Nan
-emelte	gbe soke	Nan
+emelte	gbe	None
 emeltek	tẹre	Nan
 emiatt	nitori eyi	Nan
 emma	emma	Nan
@@ -5228,7 +5228,7 @@ emlék	iranti	Nan
 emléke	iranti	Nan
 emlékei	ìrántí	Nan
 emigráns	emigrant	Nan
-eljárások	awọn ilana	Nan
+eljárások	ilana	None
 eljárás	ejo	Nan
 eljutott	de ọdọ	Nan
 döntöttek	pinnu	Nan
@@ -5270,10 +5270,10 @@ eddig	titi si asiko yi	Nan
 eddigi	titi si asiko yi	Nan
 ede	salọ	Nan
 egyegy	ọkan-ọkan	Nan
-egyelőre	fun akoko kan	Nan
+egyelőre	kan	None
 egyenes	taara	Nan
 egyenesen	taara	Nan
-egyenként	ni kookan	Nan
+egyenként	kookan	None
 egyenlet	idogba	Nan
 egyenletes	iduroṣinṣin	Nan
 egyenlítő	olumeta	Nan
@@ -5308,7 +5308,7 @@ egerek	eku	Nan
 egyesült	isọdọkan	Nan
 délután	ọsán	Nan
 délről	guusu	None
-dolgozta	iṣẹ to dara	Nan
+dolgozta	to	None
 dolgoztak	ṣiṣẹ	Nan
 dolgozó	ṣiṣẹ	Nan
 dolgozók	osise	Nan
@@ -5327,7 +5327,7 @@ dolgozott	ṣiṣẹ	Nan
 dont	pinnu	Nan
 dolgozni	lati ṣiṣẹ	Nan
 dolgozik	iṣẹ	Nan
-diák	ọmọ ile-iwe	Nan
+diák	ọmọ	None
 diákok	omo ile	Nan
 diána	diana	Nan
 dns	dns	Nan
@@ -5342,7 +5342,7 @@ dokumentumok	awọn iwe aṣẹ	Nan
 dolgok	ohun	Nan
 dolgokat	ohun	Nan
 dolgot	ohun	Nan
-dolgoznak	wọn ṣiṣẹ	Nan
+dolgoznak	wọn	None
 douglas	douglas	Nan
 down	silẹ	Nan
 dr	dókítà	Nan
@@ -5350,13 +5350,13 @@ dédanyjan	dédanyjan	Nan
 dédapjan	dédapjan	Nan
 dél	guusu	None
 délafrikai	south afirika	Nan
-délamerika	ila gusu amerika	Nan
-délamerikai	ila gusu amerika	Nan
+délamerika	amerika	None
+délamerikai	amerika	None
 délelőtt	owurọ	Nan
 délen	guusu	None
 déli	guusu	None
-déliek	awọn ara guusu	Nan
-délkeleti	guusu ila oorun	Nan
+déliek	guusu	None
+délkeleti	guusu	None
 délkorea	south korea	Nan
 délnyugati	guusu	None
 délnyugaton	guusu	None
@@ -5379,7 +5379,7 @@ dupla	ilọpo meji	Nan
 durva	ti o ni inira	Nan
 dvd	dvd	Nan
 dvdn	dvdn	Nan
-dán	ede danish	Nan
+dán	ede	None
 dánia	egeskov	Nan
 dunai	danube	Nan
 erői	awọn ipa	Nan
@@ -5392,7 +5392,7 @@ eleje	kutukutu	Nan
 elején	ni ibere	Nan
 elejére	oke	Nan
 elejétől	bẹrẹ	Nan
-elek	mo n gbe	Nan
+elek	gbe	None
 elektrokémia	itanna	Nan
 elektromos	itanna	Nan
 elektromágneses	itanna	Nan
@@ -5400,7 +5400,7 @@ elektronikai	itanna	Nan
 elektronikus	itanna	Nan
 elektronok	elekitironi	Nan
 elem	ano	Nan
-elegendő	ti to	Nan
+elegendő	to	None
 eleme	awọn ohun	Nan
 elbeszélő	onirohin	Nan
 elbeszélés	itan	Nan
@@ -5427,7 +5427,7 @@ elhagyták	kọ silẹ	Nan
 elhangzott	gbo	Nan
 elhatározta	pinnu	Nan
 elhelyezett	o wa	Nan
-elhelyezkedése	ipo rẹ	Nan
+elhelyezkedése	rẹ	None
 elhelyezkedő	o wa	Nan
 elhunyt	kú	Nan
 elindult	ti bẹrẹ	Nan
@@ -5458,7 +5458,7 @@ elfoglalják	gbalaye	Nan
 elfoglalni	gbalaye	Nan
 elfoglalt	nṣiṣe lọwọ	Nan
 elfoglalta	ti tẹdo	Nan
-elfogadni	lati gba	Nan
+elfogadni	gba	None
 egyetem	yunifasiti	Nan
 ehhez	eyi	Nan
 egészét	odidi	Nan
@@ -5466,9 +5466,9 @@ egyiptom	íjíbítì	Nan
 egyiptomban	íjíbítì	Nan
 egyiptomi	ara egipti	Nan
 egykor	nigbati a	Nan
-egykori	ni akoko kan	Nan
-egykét	tabi meji	Nan
-egymillió	million kan	Nan
+egykori	kan	None
+egykét	tabi	None
+egymillió	kan	None
 egymás	olukuluuku ara wa	Nan
 egymáshoz	si kọọkan miiran	Nan
 egymásnak	si kọọkan miiran	Nan
@@ -5477,10 +5477,10 @@ egymással	pẹlu kọọkan miiran	Nan
 egymást	olukuluuku ara wa	Nan
 egymástól	lati kọọkan miiran	Nan
 egyre	lailai	Nan
-egyikük	ọkan ninu wọn	Nan
+egyikük	wọn	None
 egyrészt	lọna miiran	Nan
 egyike	ọkan	Nan
-egyidőben	ni akoko kan naa	Nan
+egyidőben	kan	None
 egyetemen	ni yunifasiti	Nan
 egyetemes	agbaye	None
 egyetemet	yunifasiti	Nan
@@ -5491,17 +5491,17 @@ egyetértés	àdéhùn	Nan
 egyezik	baramu	Nan
 egyezmény	apejọ	Nan
 egyezményt	apejọ	Nan
-egyfajta	kan ti	Nan
+egyfajta	kan	None
 egyforma	kanna	Nan
 egyház	ijo	Nan
 egyházak	awọn ile ijọsin	Nan
-egyidejűleg	ni akoko kan naa	Nan
+egyidejűleg	kan	None
 egyik	ọkan	Nan
 egyszer	lẹẹkan	Nan
 egyszeri	ẹyọkan	Nan
-egyszerre	ni akoko kan naa	Nan
+egyszerre	kan	None
 egyértelműen	o han ni	Nan
-egyúttal	ni akoko kan naa	Nan
+egyúttal	kan	None
 együtt	papọ	Nan
 együttes	ni idapo	Nan
 együttese	ṣajọpọ	Nan
@@ -5515,7 +5515,7 @@ egész	gbogbo	Nan
 egészen	oyimbo	Nan
 egészséges	ni ilera	Nan
 egészében	gbogbo	Nan
-egyértelmű	ko o	Nan
+egyértelmű	ko	None
 egyéni	ẹnikọọkan	Nan
 egyének	olúkúlùkù	Nan
 egyén	ẹnikọọkan	Nan
@@ -5534,7 +5534,7 @@ egységet	isokan	Nan
 egységre	isokan	Nan
 egyáltalán	rara	Nan
 egyéb	omiiran	Nan
-egyébként	bi o ti le je pe	Nan
+egyébként	le	None
 egységeket	awọn sipo	Nan
 erők	awọn ipa	Nan
 erőket	awọn ipa	Nan
@@ -5543,7 +5543,7 @@ filozófiája	imoye	Nan
 filozófus	onimoye	Nan
 filozófusok	onimoye	Nan
 finger	ika	Nan
-finn	ede finisi	Nan
+finn	ede	None
 finnország	finland	Nan
 finnugor	finno-ugric	Nan
 finom	dara	Nan
@@ -5554,7 +5554,7 @@ firenzei	florentine	Nan
 firenzében	florence	Nan
 fityma	foreskin	Nan
 fiume	fiume	Nan
-filozófiai	ogbon ori	Nan
+filozófiai	ori	None
 fizetett	san	Nan
 filozófia	imoye	Nan
 filmográfia	filmography	Nan
@@ -5608,7 +5608,7 @@ fiú	ọmọkunrin	Nan
 fiút	ọmọkunrin	Nan
 fk	fk	Nan
 flamand	flemish	Nan
-flotta	ọkọ oju-omi kekere	Nan
+flotta	kekere	None
 floyd	floyd	Nan
 fm	fm	Nan
 fodor	frill	Nan
@@ -5637,13 +5637,13 @@ felületet	dada	Nan
 felület	dada	Nan
 felállították	tẹre	Nan
 felé	sí	Nan
-felében	idaji ti	Nan
-felén	idaji ti	Nan
+felében	idaji	None
+felén	idaji	None
 felépítése	be	Nan
 felépítését	be	Nan
 felépítésű	be	Nan
-felépült	gba pada	Nan
-felét	idaji ti	Nan
+felépült	gba	None
+felét	idaji	None
 felújítás	imupada	Nan
 felújítása	atunkọ	Nan
 felügyelet	abojuto	Nan
@@ -5657,7 +5657,7 @@ ferenczy	ferenczy	Nan
 feszültséget	ẹdọfu	Nan
 feudális	feudal	Nan
 fia	ọmọ	None
-fiai	awọn ọmọ	Nan
+fiai	ọmọ	None
 fiatal	odo	Nan
 fiatalabb	abikẹhin	Nan
 fiatalok	odo	Nan
@@ -5677,7 +5677,7 @@ fernando	fernando	Nan
 ferrari	ferrari	Nan
 fertőzés	akoran	Nan
 fertőzések	awọn àkóràn	Nan
-fertőzött	ti kó àrùn	Nan
+fertőzött	àrùn	None
 fertőző	akoran	Nan
 festett	ya	Nan
 figyelmen	ero	Nan
@@ -5709,7 +5709,7 @@ forrás	orisun	None
 forrása	orisun	None
 forrásból	orisun	None
 formában	apẹrẹ	Nan
-források	awọn orisun	Nan
+források	orisun	None
 formulaes	awọn agbekalẹ	Nan
 formula	agbekalẹ	Nan
 forgalom	ijabọ	Nan
@@ -5727,8 +5727,8 @@ forgó	yiyi	Nan
 forint	forin	Nan
 forma	fọọmu	Nan
 formai	lodo	None
-formulaben	awọn agbekalẹ rẹ	Nan
-forrásokból	awọn orisun	Nan
+formulaben	rẹ	None
+forrásokból	orisun	None
 forró	gbona	Nan
 forum	apejọ	Nan
 françois	faranse	None
@@ -5759,21 +5759,21 @@ francesco	faranse	None
 francia	faranse	None
 forgalmi	ijabọ	Nan
 franciaország	faranse	None
-franciaországban	ni faranse	Nan
+franciaországban	faranse	None
 franciaországi	faranse	None
 francis	francis	None
 francisco	francisco	Nan
 franciák	faranse	None
-franciául	ni faranse	Nan
+franciául	faranse	None
 franco	franco	Nan
-franciaországba	orilẹ-ede faranse	Nan
+franciaországba	faranse	None
 foglalkozás	oojọ	Nan
 forgalmat	ijabọ	Nan
 fordítások	ogbufọ	Nan
 folyamat	ilana	None
 folyamata	ilana	None
 folyamatban	ni ilọsiwaju	Nan
-folyamatok	awọn ilana	Nan
+folyamatok	ilana	None
 folyamatos	lemọlemọfún	Nan
 folyamatosan	loorekoore	Nan
 folyamatot	ilana	None
@@ -5850,14 +5850,14 @@ felvételek	awọn gbigbasilẹ	Nan
 ezeket	iwọnyi	Nan
 ezekkel	pẹlu awọn wọnyi	Nan
 ezeknek	iwọnyi	Nan
-ezekre	fun awọn wọnyi	Nan
+ezekre	fun	None
 ezelőtt	ti o ti kọja	Nan
 ezen	lori eyi	Nan
-ezenkívül	yàtò sí yen	Nan
+ezenkívül	yàtò	None
 ezentúl	láti ìsisìnyí	Nan
 ezer	ẹgbẹrun	Nan
 ezerjófű	ọgọọgọrun	Nan
-ezredes	ọmọ ogun	Nan
+ezredes	ogun	None
 ezt	eyi	Nan
 ezután	lẹhinna	Nan
 ezzel	pẹlu eyi	Nan
@@ -5873,11 +5873,11 @@ everest	everest	Nan
 evolúció	itankalẹ	Nan
 evolúciós	itankalẹ	Nan
 ewing	ewing	Nan
-expedíció	irin ajo	Nan
+expedíció	ajo	None
 experience	iriri	Nan
 explorer	aṣawakiri	Nan
 export	okeere	None
-exporttermékek	okeere awọn ọja	Nan
+exporttermékek	okeere	None
 express	han	Nan
 ez	eyi	Nan
 ezalatt	nibayi	Nan
@@ -5895,8 +5895,8 @@ február	oṣu kínní	Nan
 februárban	ni kínní	Nan
 federer	federer	Nan
 fedett	ti bo	Nan
-fedezte	se awari	Nan
-fedezték	se awari	Nan
+fedezte	awari	None
+fedezték	awari	None
 fedi	ideri	Nan
 fedélzetén	wa ninu ọkọ	Nan
 fegyver	ohun ija	Nan
@@ -5948,7 +5948,7 @@ erősen	lagbara	Nan
 erőssége	okun	Nan
 erősségű	okun	Nan
 erőszak	iwa-ipa	Nan
-erőszakkal	nipa agbara	Nan
+erőszakkal	agbara	None
 erőszakos	iwa-ipa	Nan
 erősítette	ni okun	Nan
 erősítették	timo	Nan
@@ -5957,7 +5957,7 @@ erősödő	kikankikan	Nan
 erőt	okun	Nan
 erőteljes	alagbara	Nan
 erőteljesen	strongly	Nan
-erővel	fi agbara mu	Nan
+erővel	agbara	None
 esemény	ìṣẹlẹ	Nan
 esküvő	igbeyawo	None
 esnek	ṣubu	Nan
@@ -6001,12 +6001,12 @@ eszközt	ọna	Nan
 felvételeket	awọn gbigbasilẹ	Nan
 fegyveres	ni ihamọra	Nan
 fegyvert	ohun ija	Nan
-felkerült	fi kun	Nan
+felkerült	fi	None
 felkérte	pe	Nan
 felkérést	pe	Nan
-fellelhető	le ri	Nan
+fellelhető	le	None
 fellépett	ošišẹ	Nan
-felléptek	sise ni	Nan
+felléptek	sise	None
 fellépés	awọn iṣẹ	Nan
 fellépése	awọn iṣẹ	Nan
 fellépő	oluṣe	Nan
@@ -6014,7 +6014,7 @@ felmelegedés	alapapo	Nan
 felmerült	dide	Nan
 felnőtt	agba	None
 felnőttek	agbalagba	Nan
-felosztás	ile ipin	Nan
+felosztás	ipin	None
 felosztása	awọn oriṣi	Nan
 felkereste	ṣàbẹwò	Nan
 felsorolt	ṣe akojọ	Nan
@@ -6048,7 +6048,7 @@ feltűnő	t’ohun	Nan
 felvenni	gbe	None
 felvett	ti o gbasilẹ	Nan
 felvette	kíkó	Nan
-felvették	gba wọle	Nan
+felvették	gba	None
 felvilágosodás	imoye	Nan
 felvonás	iṣe	Nan
 felváltva	bibẹẹkọ	Nan
@@ -6056,34 +6056,34 @@ felvétel	gbigbasilẹ	Nan
 felvétele	igbasilẹ	Nan
 feltételezhető	aigbega	Nan
 feltételezett	fura si	Nan
-feltételeket	awọn ipo	Nan
-feltételek	awọn ipo	Nan
+feltételeket	ipo	None
+feltételek	ipo	None
 felszínen	lori dada	Nan
 felszíni	dada	Nan
 felszínre	hiho okun	Nan
 felszínt	dada	Nan
 felszínén	awọn dada	Nan
 felszínét	dada	Nan
-felszólította	ro o	Nan
-felfedezték	se awari	Nan
+felszólította	ro	None
+felfedezték	awari	None
 felső	loke	Nan
 felsőfokú	alabojuto	Nan
 felsőoktatási	eto-eko giga	Nan
 feltehetően	jasi	Nan
 feltehetőleg	aigbekele	Nan
-feltárt	fi han	Nan
+feltárt	fi	None
 feltétel	majemu	Nan
 feltétele	ibeere	Nan
 felsőbb	loke	Nan
 fegyverrel	ohun ija	Nan
-felfedezte	se awari	Nan
-felfedezett	se awari	Nan
+felfedezte	awari	None
+felfedezett	awari	None
 fejlesztések	idagbasoke	None
 fejlesztési	idagbasoke	None
 fejlett	ti ni ilọsiwaju	Nan
-fejlettebb	diẹ to ti ni ilọsiwaju	Nan
-fejlődik	da bi	Nan
-fejlődtek	ni idagbasoke	Nan
+fejlettebb	to	None
+fejlődik	da	None
+fejlődtek	idagbasoke	None
 fejlődés	idagbasoke	None
 fejlődése	itankalẹ	Nan
 fejlődési	idagbasoke	None
@@ -6096,15 +6096,15 @@ fejlődött	imudarasi	Nan
 fejlesztése	idagbasoke	None
 fejlődő	sese	Nan
 fejlesztés	idagbasoke	None
-fejlesztette	ni idagbasoke	Nan
+fejlesztette	idagbasoke	None
 fehér	funfun	Nan
 fehérek	alawo funfun	Nan
 fehérjék	awọn ọlọjẹ	Nan
 fej	ori	None
 feje	ori	None
-fejedelem	ọmọ alade	Nan
+fejedelem	ọmọ	None
 fejedelemség	ijoye	Nan
-fejedelme	ọmọ alade	Nan
+fejedelme	ọmọ	None
 fejedelmek	awọn ọmọ-alade	Nan
 fejedelmi	ọmọ-alade	Nan
 fejezet	orí	Nan
@@ -6112,26 +6112,26 @@ fejezi	ṣe	Nan
 fejezte	ti ṣalaye	Nan
 fejezték	pari	Nan
 fejlesztett	ti ni ilọsiwaju	Nan
-fejlesztették	ni idagbasoke	Nan
+fejlesztették	idagbasoke	None
 fejtette	se alaye	Nan
 fejében	awọn ọkàn	Nan
 fejér	fejér	Nan
 felel	idahun	Nan
 felelt	idahun	Nan
 felelős	lodidi	Nan
-felelősek	ṣeduro fun	Nan
-felelőssé	ṣeduro fun	Nan
+felelősek	fun	None
+felelőssé	fun	None
 felesleges	aibojumu	Nan
 feleség	iyawo	None
-felesége	iyawo e	Nan
-feleségek	awọn aya	Nan
-feleségének	iyawo e	Nan
-feleségét	iyawo e	Nan
-feleségével	iyawo e	Nan
-feleségül	ti ni iyawo	Nan
+felesége	iyawo	None
+feleségek	aya	None
+feleségének	iyawo	None
+feleségét	iyawo	None
+feleségével	iyawo	None
+feleségül	iyawo	None
 felett	loke	Nan
 feletti	lori	Nan
-fele	idaji ti	Nan
+fele	idaji	None
 feldolgozó	ero isise	Nan
 feldolgozása	sisẹ	Nan
 felbomlása	ya kuro	Nan
@@ -6149,7 +6149,7 @@ feladata	ojuse	None
 feladatok	awọn iṣẹ-ṣiṣe	Nan
 feladatokat	awọn iṣẹ-ṣiṣe	Nan
 feladatot	iṣẹ-ṣiṣe	Nan
-feladta	ó juwọ́ sílẹ̀	Nan
+feladta	sílẹ̀	None
 felajánlotta	ti a nṣe	Nan
 fel	sókè	Nan
 divatos	asiko	Nan
@@ -6170,7 +6170,7 @@ artúr	artúr	Nan
 arány	wúrà	Nan
 aránya	o yẹ	Nan
 arányban	ipin	None
-arcát	oju rẹ	Nan
+arcát	rẹ	None
 aránylag	jo	None
 arcképe	aworan	Nan
 arattak	kórè	Nan
@@ -6180,18 +6180,18 @@ apolloprogram	aporoloplop	Nan
 apostol	aposteli	Nan
 apple	apu	Nan
 apró	kekere	None
-arab	dè lárúbáwá	Nan
+arab	lárúbáwá	None
 arabok	awọn ara larubawa	Nan
 arad	arad	Nan
 aradi	aradi	Nan
 aragóniai	aragonni	Nan
 arany	wúrà	Nan
 aranybulla	ẹwẹ bọọlu	Nan
-aranycsapat	egbe goolu	Nan
+aranycsapat	egbe	None
 aratott	isegun	Nan
-arca	oju rẹ	Nan
+arca	rẹ	None
 arányos	wuyi	Nan
-arányuk	ipin wọn	Nan
+arányuk	wọn	None
 asimov	asimov	Nan
 augusztusban	ni oṣu kẹjọ	Nan
 aus	aus	Nan
@@ -6245,7 +6245,7 @@ angol	gẹẹsi	Nan
 angolok	arakunrin gẹẹsi	Nan
 angolszász	anglo-saxon	Nan
 angolszászok	anglo-saxons	Nan
-angolul	ni ede gẹẹsi	Nan
+angolul	ede	None
 angyal	angẹli	Nan
 andy	andy	Nan
 angyalok	awọn angẹli	Nan
@@ -6257,7 +6257,7 @@ amivel	ewo	Nan
 amiért	idi	Nan
 amy	amy	Nan
 amíg	titi	Nan
-amúgy	bi o ti le je pe	Nan
+amúgy	le	None
 an	á	Nan
 anapesztus	afọwọkọ	Nan
 anatómiai	ẹda ara	Nan
@@ -6362,7 +6362,7 @@ bella	bella	Nan
 belseje	inu ilohunsoke	Nan
 belsejében	inu	Nan
 belső	ti abẹnu	Nan
-bekerült	to wa	Nan
+bekerült	to	None
 bek	§	Nan
 bejárata	ẹnu ọna	Nan
 bejutott	oye	Nan
@@ -6422,7 +6422,7 @@ azelőtt	ṣaaju	Nan
 aznap	ọjọ́ yẹn	Nan
 azokat	awon na	Nan
 bach	biriki	Nan
-baja	ti ko tọ	Nan
+baja	ko	None
 bajnai	bajnai	Nan
 balogh	balogh	Nan
 baloldali	osi	Nan
@@ -6453,8 +6453,8 @@ bajor	bavarian	Nan
 baranya	baranya	Nan
 baksis	àgbọn	Nan
 baktérium	alamọmọ	Nan
-baktériumok	awọn kokoro arun	Nan
-baktériumokat	awọn kokoro arun	Nan
+baktériumok	arun	None
+baktériumokat	arun	None
 bal	bọọlu	Nan
 balassa	balassa	Nan
 balassi	balassi	Nan
@@ -6476,7 +6476,7 @@ aktívan	actively	Nan
 akusztikus	ẹyẹ	Nan
 akác	acikia	Nan
 akár	yoo	None
-akárcsak	o kan	Nan
+akárcsak	kan	None
 al	al	Nan
 akiről	àjọ who	Nan
 alacsony	kekere	None
@@ -6487,11 +6487,11 @@ akar	yoo	None
 akarat	yoo	None
 akarata	yoo	None
 akarja	si	Nan
-akarnak	wón fé	Nan
+akarnak	fé	None
 akart	fẹ	Nan
 akarta	fẹ	Nan
-akartak	wọn fẹ	Nan
-akarták	wọn fẹ	Nan
+akartak	wọn	None
+akarták	wọn	None
 akció	ìṣe	Nan
 akhilleusz	achilles	Nan
 aki	àjọ who	Nan
@@ -6512,7 +6512,7 @@ alapfokú	alakọbẹrẹ	Nan
 alapja	ipile	Nan
 alapjai	awọn ipilẹ	Nan
 alapjait	awọn ipilẹ	Nan
-alapján	da lori	Nan
+alapján	da	None
 alapját	ipilẹ	Nan
 alapjául	ipilẹ	Nan
 alapon	ipilẹ	Nan
@@ -6532,9 +6532,9 @@ alakok	isiro	Nan
 alakul	ndagba	Nan
 alakulat	ibiyi	Nan
 alakulatok	awọn ipa	Nan
-alakulnak	da bi	Nan
+alakulnak	da	None
 alakult	ipilẹ	Nan
-alakultak	ni idagbasoke	Nan
+alakultak	idagbasoke	None
 alakulása	itankalẹ	Nan
 alakot	apẹrẹ	Nan
 alaposan	daradara	Nan
@@ -6551,7 +6551,7 @@ adatokat	data	Nan
 adatot	data	Nan
 addig	titi lẹhinna	Nan
 addigi	ti tẹlẹ	Nan
-addigra	to ba di igbayen	Nan
+addigra	to	None
 adja	tẹ	Nan
 adjon	fifun	Nan
 adminisztratív	isakoso	Nan
@@ -6564,8 +6564,8 @@ acdc	acdc	Nan
 a	awọn	Nan
 ab	ab	Nan
 aba	aba	Nan
-abba	sinu rẹ	Nan
-abban	ninu rẹ	Nan
+abba	rẹ	None
+abban	rẹ	None
 abból	lati ibẹ	Nan
 abc	abc	Nan
 abraham	rabúráhámù	Nan
@@ -6606,17 +6606,17 @@ ady	ady	Nan
 adó	owo-ori	Nan
 akadályozta	idilọwọ	Nan
 adódik	nitori	Nan
-adót	owo ori	Nan
+adót	ori	None
 afganisztán	afiganisitani	Nan
 afganisztáni	afiganisitani	Nan
 afgán	ara ilu afiganisitani	Nan
 afrika	afirika	Nan
 afrikai	ara ilu afirika	Nan
 afrikában	afirika	Nan
-adók	mo fun	Nan
+adók	fun	None
 aminosavak	amino acids	Nan
 alapot	ipile	Nan
-alapul	da lori	Nan
+alapul	da	None
 alpesi	alpine	Nan
 alpha	alfa	Nan
 alpok	alẹ	Nan
@@ -6691,7 +6691,7 @@ amelyik	ewo	Nan
 amelynek	ewo	Nan
 amelyre	ewo	Nan
 amelyekkel	ewo	Nan
-alapszik	da lori	Nan
+alapszik	da	None
 alkotmányos	t’olofin	Nan
 alkotmánya	t’olofin	Nan
 albuma	awo-orin	Nan
@@ -6777,11 +6777,11 @@ csapadékmennyiség	òjò	Nan
 csapat	egbe	None
 csapata	ẹgbẹ naa	Nan
 csapatai	awọn ẹgbẹ	Nan
-csapatait	awọn ọmọ ogun	Nan
+csapatait	ogun	None
 csapatban	egbe	None
 csapatnak	egbe	None
-csapatok	awọn ọmọ ogun	Nan
-csapatokat	awọn ọmọ ogun	Nan
+csapatok	ogun	None
+csapatokat	ogun	None
 csapatot	egbe	None
 csapattal	egbe	None
 csapattársa	ẹlẹgbẹ	Nan
@@ -6793,7 +6793,7 @@ családját	idile	Nan
 cross	rekọja	Nan
 cruz	cruz	Nan
 csaba	csaba	Nan
-csak	o kan	Nan
+csak	kan	None
 csakhamar	laipe	Nan
 csakis	nikan	Nan
 csaknem	fẹẹrẹ	Nan
@@ -6803,9 +6803,9 @@ családban	idile	Nan
 családból	idile	Nan
 családfája	molebi	Nan
 családi	idile	Nan
-családja	ebi re	Nan
+családja	ebi	None
 családjának	idile	Nan
-családjával	ebi re	Nan
+családjával	ebi	None
 csapás	ajalu	Nan
 csapást	fẹ	Nan
 csarnok	gbongan	Nan
@@ -6842,7 +6842,7 @@ csatában	ogun	None
 csatát	ogun	None
 cseh	czech	Nan
 csehek	czechs	Nan
-csehország	apapọ ilẹ ṣẹẹki	Nan
+csehország	ilẹ	None
 csehszlovák	czechoslovak	Nan
 csatornák	awọn ikanni	Nan
 csoda	iyanu	Nan
@@ -6857,7 +6857,7 @@ chase	lepa	Nan
 che	che	Nan
 chelsea	chelsea	Nan
 chicago	chicago	Nan
-chile	ede chile	Nan
+chile	ede	None
 chopin	chopin	Nan
 chris	kilasi	Nan
 christian	kristiẹni	Nan
@@ -6910,8 +6910,8 @@ cigányság	gypsies	Nan
 cikk	nkan	None
 cikke	nkan	None
 cikkei	nkan	None
-cikkek	awọn nkan	Nan
-cikkeket	awọn nkan	Nan
+cikkek	nkan	None
+cikkeket	nkan	None
 corvin	corvin	Nan
 cikket	nkan	None
 ciklámen	cyclamen	Nan
@@ -6946,7 +6946,7 @@ dc	dc	Nan
 david	dáfídì	Nan
 dalát	orin	Nan
 dalí	dalí	Nan
-dan	ede danish	Nan
+dan	ede	None
 daniel	daniel	Nan
 dante	dante	Nan
 darab	nkan	None
@@ -6972,7 +6972,7 @@ digitális	oni-nọmba	Nan
 diktatúra	ijọba ijọba	Nan
 dilléniafélék	dilléniafélék	Nan
 dinamikus	ìmúdàgba	Nan
-dinasztia	idile oba	Nan
+dinasztia	oba	None
 dinoszaurusz	dainoso	Nan
 dinoszauruszok	dinosaurs	Nan
 diplomáciai	oselu ara ilu	Nan
@@ -6988,9 +6988,9 @@ depeche	depeche	Nan
 depresszió	ibanujẹ	Nan
 der	der	Nan
 derékszögű	onigun mẹrin	Nan
-derül	fi han	Nan
+derül	fi	None
 dalt	orin	Nan
-derült	ko o	Nan
+derült	ko	None
 descartes	descartes	Nan
 deutsche	deutsche	Nan
 dexter	dexter	Nan
@@ -7033,14 +7033,14 @@ csoportok	awọn ẹgbẹ	Nan
 csoportot	ẹgbẹ	Nan
 csoportra	awọn ẹgbẹ	Nan
 csupán	nikan	Nan
-csák	o kan	Nan
+csák	kan	None
 császár	olú ọba	Nan
 császári	ọba	Nan
 császárral	emperor	Nan
 cár	tsar	Nan
 cég	ile-iṣẹ	Nan
 cégek	awọn ile-iṣẹ	Nan
-címere	ami orileede	Nan
+címere	orileede	None
 címet	adirẹsi	Nan
 címlapja	bo	Nan
 címmel	adirẹsi	Nan
@@ -7063,8 +7063,8 @@ céget	ile-iṣẹ	Nan
 cél	ilepa	Nan
 célba	ìfọkànsí	Nan
 célból	ipari	Nan
-céljuk	ibi-afẹde wọn	Nan
-céljából	lati le	Nan
+céljuk	wọn	None
+céljából	le	None
 célját	idi	Nan
 dalok	awọn orin	Nan
 céllal	ibasepo	Nan
@@ -7082,9 +7082,9 @@ c++	c ++	Nan
 bizonnyal	esan	Nan
 bizonyos	dajudaju	Nan
 bizonytalan	aidaniloju	Nan
-bizonyult	oun ni	Nan
+bizonyult	oun	None
 bizonyultak	safihan lati jẹ	Nan
-bizonyítja	fi mule	Nan
+bizonyítja	fi	None
 bizonyítják	ṣafihan	Nan
 bizonyított	safihan	Nan
 bizonyíték	ẹri	Nan
@@ -7122,7 +7122,7 @@ bobby	ariwo	Nan
 bocskai	bocskai	Nan
 bokros	bushy	Nan
 boldog	dun	None
-bolgár	ede bulgaria	Nan
+bolgár	ede	None
 bolgárok	bulgarians	Nan
 bolsevik	bolshevik	Nan
 bolyai	bolyai	Nan
@@ -7159,8 +7159,8 @@ biblia	bibeli	None
 beosztás	ifiweranṣẹ	Nan
 berendezések	ohun elo	Nan
 berlin	berlin	None
-berlinben	ni ilu berlin	Nan
-berlini	ilu berlin	Nan
+berlinben	berlin	None
+berlini	berlin	None
 bernard	bernard	Nan
 bertalan	bertalan	Nan
 berzsenyi	berzsenyi	Nan
@@ -7178,7 +7178,7 @@ benedek	onigbọnna	Nan
 belül	laarin	None
 belüli	ninu	Nan
 belőle	rẹ	None
-belőlük	lati ọdọ wọn	Nan
+belőlük	wọn	None
 bem	bem	Nan
 bemutatja	mu wa	Nan
 bemutatni	lọwọlọwọ	Nan
@@ -7192,7 +7192,7 @@ ben	ninu	Nan
 bencés	benedictine	Nan
 benefícium	anfani	Nan
 beszélgetés	sọrọ	Nan
-beszélhetünk	a le sọrọ	Nan
+beszélhetünk	le	None
 beszélik	sọrọ	Nan
 bevallása	gbigba	Nan
 bevett	mulẹ	Nan
@@ -7217,7 +7217,7 @@ beszélnek	sọrọ	Nan
 beszélni	sọrọ	Nan
 beszélt	sọ	None
 beszéltek	nsoro	Nan
-beszélünk	an sọrọ	Nan
+beszélünk	an	None
 beszélő	nsoro	Nan
 beteg	alaisan	Nan
 bibliai	bibeli	None
@@ -7233,7 +7233,7 @@ betegség	aisan	Nan
 caesar	késárì	Nan
 bonaparte	bonaparte	Nan
 bontakozott	ṣi silẹ	Nan
-bécsi	ede viennese	Nan
+bécsi	ede	None
 békaszőlőfélék	potamogetonaceae	Nan
 béke	alafia	Nan
 békeszerződés	adehun alafia	Nan
@@ -7295,13 +7295,13 @@ bérelt	yiyalo	Nan
 bíboros	kadinal	Nan
 bír	ni	Nan
 bírálta	ti ṣofintoto	Nan
-bírói	ti ofin	Nan
+bírói	ofin	None
 bíróság	kootu	Nan
 bánk	banki	Nan
-bírósági	ti ofin	Nan
+bírósági	ofin	None
 bízott	gbekele	Nan
-bízta	ti fi le	Nan
-bízták	ti fi le	Nan
+bízta	le	None
+bízták	le	None
 ból	lati	Nan
 bölcs	sage	Nan
 bölcsek	ologbon	Nan
@@ -7441,7 +7441,7 @@ kiadó	akede	Nan
 kiadója	akede	Nan
 kialakult	mulẹ	Nan
 ki	àjọ who	Nan
-kezdték	wọn bẹrẹ	Nan
+kezdték	wọn	None
 kft	ltd.	Nan
 kezére	ọwọ	Nan
 kezdő	alakọbẹrẹ	Nan
@@ -7455,16 +7455,16 @@ kezelik	tọju	Nan
 kezelni	ibaṣowo	Nan
 kezelte	tọju	Nan
 kezelés	itọju	Nan
-kezelése	itọju rẹ	Nan
+kezelése	rẹ	None
 kezelésére	itọju	Nan
 kezébe	ọwọ	Nan
 kezében	ọwọ	Nan
 kezét	ọwọ	Nan
 kerülő	lati jẹ	Nan
 kerülése	etanje	Nan
-kerültek	wọn jẹ	Nan
+kerültek	wọn	None
 kemény	lile	Nan
-keményebb	gba gan	Nan
+keményebb	gba	None
 keményen	lile	Nan
 keménység	líle	Nan
 ken	efin	Nan
@@ -7472,7 +7472,7 @@ kennedy	keniyan	Nan
 kenny	omobirin	Nan
 kerek	mo beere	Nan
 kerepesi	awọn kerepes	Nan
-keres	wa fun	Nan
+keres	fun	None
 keresett	wá	Nan
 keresi	nwa	None
 kereskedelem	iṣowo	Nan
@@ -7512,9 +7512,9 @@ kerületek	awọn agbegbe	Nan
 kerületi	kaakiri	Nan
 kerületében	agbegbe	Nan
 kerülhet	mu	Nan
-kerülhetett	le jẹ	Nan
+kerülhetett	le	None
 kerülnek	jẹ	Nan
-kerülni	yago fun	Nan
+kerülni	fun	None
 került	iye owo	Nan
 kernel	ekuro	Nan
 keringő	waltz	Nan
@@ -7527,13 +7527,13 @@ keresztesek	awọn ọgagun	Nan
 keresztény	kristiẹni	Nan
 kereszténydemokrata	kristiẹni	Nan
 keresztények	awọn kristiani	Nan
-kialakultak	ni idagbasoke	Nan
+kialakultak	idagbasoke	None
 kereszténység	kristiẹniti	Nan
 keresztül	kọja	Nan
 kereső	oluwari	Nan
 keretein	ilana	None
 keretek	awọn fireemu	Nan
-keretében	ilana naa	Nan
+keretében	ilana	None
 keretén	ilana	None
 kering	orbitin	Nan
 kereszténységet	kristiẹniti	Nan
@@ -7547,7 +7547,7 @@ kitörése	ìbújáde	Nan
 kitörések	iparun	Nan
 kitűnő	o tayọ	Nan
 kitűzött	ṣeto	Nan
-kiválasztott	ti a ti yan	Nan
+kiválasztott	yan	None
 kiváltság	prerogative	Nan
 kiváltó	fa	Nan
 kiváló	o tayọ	Nan
@@ -7559,7 +7559,7 @@ kiterjedő	gbooro si	Nan
 kivételek	imukuro	Nan
 kiterjedésű	onisẹpo	Nan
 kiterjedt	sanlalu	Nan
-kisebbnagyobb	tobi ati kekere	Nan
+kisebbnagyobb	kekere	None
 kisebbség	ẹlẹgbẹ	Nan
 kisebbségek	kekere	None
 kisebbségi	kekere	None
@@ -7571,7 +7571,7 @@ kispályás	ẹgbẹ-ẹgbẹ	Nan
 kiss	fẹnuko	Nan
 kissé	a bit	Nan
 kistérség	ipinya	Nan
-kisváros	ilu kekere	Nan
+kisváros	kekere	None
 kit	tani	Nan
 kitalált	aijẹ ootọ	Nan
 kiterjedése	itẹsiwaju	Nan
@@ -7589,8 +7589,8 @@ kommunikációs	ibaraenisọrọ	Nan
 kommunista	communist	Nan
 kommunisták	komunisonu	Nan
 kommunizmus	ibaraẹnisọrọ	Nan
-komoly	to ṣe pataki	Nan
-komolyabb	diẹ to ṣe pataki	Nan
+komoly	to	None
+komolyabb	to	None
 komolyan	isẹ	Nan
 komplex	eka	None
 kollégium	ibusun	Nan
@@ -7622,7 +7622,7 @@ kifejezetten	ni pataki	Nan
 kifejezés	ikosile	Nan
 kifejezések	awọn ikosile	Nan
 kifejezést	ikosile	Nan
-kifejlesztett	ni idagbasoke	Nan
+kifejlesztett	idagbasoke	None
 kifelé	jade	Nan
 kifolyólag	fun	None
 kihalt	parun	Nan
@@ -7648,7 +7648,7 @@ kicsi	kekere	None
 kicsit	diẹ	Nan
 kiderül	han	Nan
 kiderült	o wa ni tan	Nan
-kidolgozott	ni idagbasoke	Nan
+kidolgozott	idagbasoke	None
 kiegyezés	adehun adehun	Nan
 kiegészítő	afikun	Nan
 kiemelkedő	dayato	Nan
@@ -7673,9 +7673,9 @@ királyságot	ijọba	Nan
 kirk	kirk	Nan
 king	ọba	Nan
 kinevezett	yan	None
-kinek	fun tani	Nan
-kikötője	oko oju omi	Nan
-kikötők	awọn ebute oko oju omi	Nan
+kinek	fun	None
+kikötője	omi	None
+kikötők	omi	None
 kilenc	mẹsan	Nan
 kilencedik	ẹkẹsan	Nan
 kilencvenes	ọkan-din-logun	Nan
@@ -7734,7 +7734,7 @@ jut	wá	Nan
 jutnak	gba	None
 játssza	ìtàgé	Nan
 játsszák	mu ṣiṣẹ	Nan
-játszanak	wọn ṣere	Nan
+játszanak	wọn	None
 játszani	lati mu ṣiṣẹ	Nan
 játszhatott	dun	None
 játszik	mu ṣiṣẹ	Nan
@@ -7749,7 +7749,7 @@ játék	eré	Nan
 játékban	eré	Nan
 járó	pẹlu	Nan
 járás	rìn	None
-járvány	àjàkálẹ àrùn	Nan
+járvány	àrùn	None
 járult	tiwon	Nan
 jutni	gba	None
 jutott	de ọdọ	Nan
@@ -7776,7 +7776,7 @@ jelentőségét	pataki ti	Nan
 jelentőségű	pataki	Nan
 jeles	fowo si	Nan
 jelezte	itọkasi	Nan
-jelképe	aami kan ti	Nan
+jelképe	kan	None
 jelképezi	aṣoju	Nan
 jellege	iseda	Nan
 jellegzetes	aṣoju	Nan
@@ -7807,7 +7807,7 @@ jelentést	awọn ijabọ	Nan
 jelentését	itumo	None
 jelentő	ijabọ	Nan
 jellemzőek	aṣoju	Nan
-jellemzően	ojo melo	Nan
+jellemzően	melo	None
 jellemzői	awọn ẹya	Nan
 jeruzsálemi	jerusalẹmu	Nan
 jezsuita	jesuit	Nan
@@ -7852,7 +7852,7 @@ kastély	ile odi	Nan
 kat	kíkà	Nan
 kata	kata	Nan
 katalin	catherine	None
-katalán	ede catalan	Nan
+katalán	ede	None
 katasztrofális	ìparun	Nan
 katasztrófa	ajalu	Nan
 kategória	ẹka	Nan
@@ -7868,10 +7868,10 @@ kategóriamagyar	ẹya ara ilu họnariani	Nan
 kassa	kassa	Nan
 karácsony	keresimesi	Nan
 kapta	gba	None
-kaptak	wọn ni	Nan
-kapták	wọn ni	Nan
+kaptak	wọn	None
+kapták	wọn	None
 kapu	ilekun nla	Nan
-kapunk	a gba	Nan
+kapunk	gba	None
 kapus	aṣọ́kun	Nan
 kar	bibajẹ	Nan
 karakter	ohun kikọ	Nan
@@ -7931,15 +7931,15 @@ jótékonysági	aanu	None
 jóval	pọ	Nan
 józsef	jósẹ́fù	Nan
 jön	wá	Nan
-jönnek	wọn ti wa	Nan
+jönnek	wọn	None
 jött	wa	Nan
-jöttek	wọn wa	Nan
-jövő	ojo iwaju	Nan
-jövőben	ojo iwaju	Nan
+jöttek	wọn	None
+jövő	ojo	None
+jövőben	ojo	None
 júlia	julia	Nan
 július	oṣu keje	Nan
 júliusban	ni oṣu keje	Nan
-június	oṣu karun	Nan
+június	karun	None
 jószág	ẹran	Nan
 júniusban	ni oṣu june	Nan
 jórészt	ibebe	Nan
@@ -7952,7 +7952,7 @@ játékvezető	kọsọ	Nan
 jég	yinyin	Nan
 jéghegy	berg	Nan
 jégkorong	ẹlẹsẹ	Nan
-jégkorszak	yinyin ori	Nan
+jégkorszak	ori	None
 jégmadárfélék	kingfisher	Nan
 jéna	jena	Nan
 jézus	jesu	None
@@ -7963,7 +7963,7 @@ jóllehet	biotilejepe	Nan
 kafka	kafka	Nan
 kajmánhalfélék	gar	Nan
 kakas	akukọ	Nan
-kapcsolatba	kan si	Nan
+kapcsolatba	kan	None
 kapcsolatban	ìbáṣepọ	Nan
 kapcsolatok	awọn ibatan	Nan
 kapcsolatokat	awọn ibatan	Nan
@@ -7994,7 +7994,7 @@ kambrium	cambrian	Nan
 kanadai	ara ilu kanada	Nan
 kanadában	kánádà	None
 kancellár	ọga adari	Nan
-kandela	ibọn kekere	Nan
+kandela	kekere	None
 kane	kane	Nan
 kant	kant	Nan
 kanton	canton	Nan
@@ -8008,7 +8008,7 @@ közepén	ni aarin	Nan
 közepére	àárín	None
 közepétől	àárín	None
 közgazdasági	aje	None
-közgyűlés	ipade gbogbogbo	Nan
+közgyűlés	gbogbogbo	None
 közigazgatás	isakoso gbangba	Nan
 közigazgatási	isakoso	Nan
 közigazgatásilag	abojuto	Nan
@@ -8044,11 +8044,11 @@ közép	àárín	None
 középen	ni aarin	Nan
 középeurópa	aarin yuroopu	Nan
 középeurópai	arin-yuroopu	Nan
-középhőmérséklet	otutu otutu	Nan
+középhőmérséklet	otutu	None
 középiskola	ile-iwe giga	Nan
 középiskolai	ile-iwe giga	Nan
 középiskolák	ile-iwe giga	Nan
-középkor	ojo ori ti o wa larin	Nan
+középkor	ori	None
 középkori	igba atijọ	Nan
 középpontja	aarin	Nan
 középpontjában	idojukọ	Nan
@@ -8076,7 +8076,7 @@ közvetett	aiṣe-taara	Nan
 közvetlen	taara	Nan
 közvetlenül	taara	Nan
 köztudatban	gbangba	Nan
-közölte	so fun	Nan
+közölte	fun	None
 következők	telẹ	Nan
 következtében	nitori	Nan
 környéke	agbegbe	Nan
@@ -8095,7 +8095,7 @@ körül	yika	Nan
 körülbelül	nipa	Nan
 körüli	yika	Nan
 környék	agbegbe	Nan
-körülményei	awọn ipo	Nan
+körülményei	ipo	None
 környező	agbegbe	Nan
 környezetvédelmi	ayika	Nan
 könyvtára	awọn ile ikawe	Nan
@@ -8114,7 +8114,7 @@ környezetben	ayika	Nan
 környezeti	ayika	Nan
 környezetvédelem	idaabobo ayika	Nan
 környezetében	agbegbe	Nan
-körülmények	awọn ipo	Nan
+körülmények	ipo	None
 körülvevő	agbegbe	Nan
 körülötte	yika	Nan
 kötődő	owun	Nan
@@ -8122,20 +8122,20 @@ kövek	okuta	Nan
 követ	tẹle	Nan
 követelt	beere	Nan
 követelte	beere	Nan
-követett	tele mi	Nan
+követett	tele	None
 követi	telẹ	Nan
 követik	tẹle	Nan
 következett	ṣẹlẹ	Nan
 következik	tẹle	Nan
 következménye	awọn gaju	Nan
 következményei	awọn abajade	Nan
-következményeként	bi awọn kan nitori	Nan
+következményeként	kan	None
 következtek	ṣẹlẹ	Nan
 következtetni	pari	Nan
 kötődik	owun	Nan
 kötötték	pari	Nan
 kötöttek	pari	Nan
-kötötte	ti so	Nan
+kötötte	so	None
 körű	okeerẹ	Nan
 köszönheti	jẹri	Nan
 köszönhető	o ṣeun	Nan
@@ -8189,8 +8189,8 @@ larry	larry	Nan
 las	las	Nan
 lassan	laiyara	Nan
 lassú	lọra	Nan
-latin	ede latini	Nan
-latinul	ede latini	Nan
+latin	latini	None
+latinul	latini	None
 legeredményesebb	aṣeyọri julọ	Nan
 legerősebb	lágbára	Nan
 legfejlettebb	onitẹsiwaju	Nan
@@ -8204,7 +8204,7 @@ legmeghatározóbb	julọ	Nan
 legmélyebb	ti aigbagbo	Nan
 legnagyobb	logan	Nan
 legnagyobbak	tobi julo	Nan
-legnépesebb	po julo	Nan
+legnépesebb	po	None
 legnépszerűbb	julọ olokiki	Nan
 legrosszabb	buru	Nan
 legrégebbi	akọbi	Nan
@@ -8259,10 +8259,10 @@ közösségek	awọn agbegbe	Nan
 közösségi	ẹgbẹ	Nan
 között	laarin	None
 közötti	lati	Nan
-közöttük	to wa	Nan
+közöttük	to	None
 közúti	kẹkẹ ele	Nan
 közül	ti	Nan
-közülük	lára wọn	Nan
+közülük	wọn	None
 kúp	konu	Nan
 küldetés	ise	Nan
 küldte	firanṣẹ	Nan
@@ -8288,7 +8288,7 @@ lakosságának	olugbe	Nan
 lakott	gbé	None
 lady	iyaafin	Nan
 labdát	bọọlu	Nan
-labdarúgóválogatott	egbe bọọlu	Nan
+labdarúgóválogatott	egbe	None
 labdarúgószövetség	bọọlu afẹsẹgba	Nan
 küzdelem	ijakadi	None
 küzdött	ja	Nan
@@ -8297,7 +8297,7 @@ kő	okuta	Nan
 kőolaj	epo	Nan
 kőrösi	kőrösi	Nan
 kőzetek	awọn apata	Nan
-laktak	wọn ti gbe	Nan
+laktak	gbe	None
 kőzetekből	awọn apata	Nan
 la	la	Nan
 labda	bọọlu	Nan
@@ -8331,7 +8331,7 @@ kráter	arekereke	Nan
 kritikát	ibaniwi	Nan
 kovács	alawodudu	Nan
 kovász	pẹlẹbẹ	Nan
-kozmikus	agba ara	Nan
+kozmikus	agba	None
 kr	cr	Nan
 kristályos	okuta	Nan
 kristóf	christi	Nan
@@ -8350,7 +8350,7 @@ kultúrák	awọn asa	Nan
 kultúrát	aṣa	Nan
 kámaszútra	kama sutra	Nan
 kán	khan	Nan
-kápolna	ile ijosin	Nan
+kápolna	ijosin	None
 károkat	bibajẹ	Nan
 károly	charles	None
 károlyi	károlyi	Nan
@@ -8420,7 +8420,7 @@ konfliktusok	rogbodiyan	None
 konföderáció	confederation	Nan
 konföderációs	iṣeduro	Nan
 kongresszus	ile asofin ijoba	Nan
-kongói	ilu kongo	Nan
+kongói	kongo	None
 konrád	konrad	Nan
 kormány	ijọba	Nan
 kormánya	ijọba	Nan
@@ -8432,9 +8432,9 @@ korábban	sẹyìn	Nan
 korábbi	tele	None
 koráig	ti ọjọ-ori	Nan
 korán	kutukutu	Nan
-korának	akoko rẹ	Nan
+korának	rẹ	None
 korántsem	jinna	Nan
-korát	ọjọ ori	Nan
+korát	ori	None
 kossuth	kossuth	Nan
 koszinusz	ẹwa	Nan
 koszorú	aṣiri	Nan
@@ -8463,7 +8463,7 @@ korszakban	akoko	Nan
 korona	ade	Nan
 könyvet	iwe	Nan
 kémiai	kẹmika	Nan
-kényszerítették	fi agbara mu	Nan
+kényszerítették	agbara	None
 kígyószisz	chigúmù	Nan
 kína	ṣaina	Nan
 kínai	ṣaina	Nan
@@ -8517,18 +8517,18 @@ könyv	iwe	Nan
 könyvben	iwe	Nan
 könyve	iwe	Nan
 könyvek	awọn iwe	Nan
-költöztek	wọn gbe	Nan
+költöztek	gbe	None
 költészete	oríkì	None
 költészet	oríkì	None
 költségvetési	eto isuna	Nan
 kód	owusu	Nan
 kórház	ile-iwosan	Nan
 kórházba	ile-iwosan	Nan
-kórházban	ni ile iwosan	Nan
+kórházban	iwosan	None
 kölcsey	kolcsey	Nan
 kölcsönhatás	ibaraenisepo	Nan
 kölcsönző	yiyalo	Nan
-készülő	ngbaradi fun	Nan
+készülő	fun	None
 kölcsönös	pelu ara	Nan
 költemény	ewi	Nan
 költeményei	awọn ewi	Nan
@@ -8538,9 +8538,9 @@ költségek	inawo	Nan
 költséges	gbowolori	Nan
 költségvetés	isuna	Nan
 költ	na	Nan
-kényszerítette	fi agbara mu	Nan
-készültek	wọn ṣe	Nan
-készülnek	wọn ṣe	Nan
+kényszerítette	agbara	None
+készültek	wọn	None
+készülnek	wọn	None
 képezi	jẹ	Nan
 képezik	jẹ	Nan
 képeznek	fọọmu	Nan
@@ -8560,9 +8560,9 @@ képez	fọọmu	Nan
 képviselői	awọn aṣoju	Nan
 képet	aworan	Nan
 képességű	agbara	None
-kényszerült	fi agbara mu si	Nan
-kénytelen	si wa labẹ iwulo ti	Nan
-kénytelenek	fi agbara mu si	Nan
+kényszerült	agbara	None
+kénytelen	iwulo	None
+kénytelenek	agbara	None
 kép	aworan	Nan
 képe	aworan	Nan
 képei	awọn fọto	Nan
@@ -8573,7 +8573,7 @@ képes	le	None
 képesek	anfani	Nan
 képesség	agbara	None
 képessége	agbara	None
-képességei	awọn agbara	Nan
+képességei	agbara	None
 képességeit	ogbon	Nan
 képest	afiwe	Nan
 képviselője	aṣoju	Nan
@@ -8631,14 +8631,14 @@ halt	kú	Nan
 haltak	kú	Nan
 haltetvek	branchiura	Nan
 halál	iku	None
-halála	iku re	Nan
-halálakor	iku re	Nan
+halála	iku	None
+halálakor	iku	None
 haladt	ṣí	Nan
 halálbüntetés	ijiya olu	Nan
 halad	tẹsiwaju	Nan
 hajót	ọkọ oju-omi	Nan
-hagyta	jẹ ki o	Nan
-hagyták	wọn lọ	Nan
+hagyta	ki	None
+hagyták	wọn	None
 hagyva	nlọ	Nan
 hajdani	ti yore	Nan
 hajlandó	fẹ	Nan
@@ -8649,18 +8649,18 @@ hajtott	iwakọ	Nan
 hajtotta	jade	Nan
 hajtottak	ti	Nan
 hajó	ọkọ oju-omi	Nan
-hajók	awọn ọkọ oju omi	Nan
+hajók	omi	None
 hajón	wa ninu ọkọ	Nan
 hajós	atukọ̀	Nan
 hal	ẹja	Nan
-halálbüntetést	idajo iku	Nan
-halálistenek	oriṣa iku	Nan
+halálbüntetést	iku	None
+halálistenek	iku	None
 halállal	iku	None
 hangját	ohun	Nan
 hangok	awọn ohun	Nan
 hangot	ìró	None
 hangszer	irinse	Nan
-hangszerek	ohun èlò ìkọrin	Nan
+hangszerek	èlò	None
 hangszeres	irinse	Nan
 hangsúly	tcnu	Nan
 hangsúlyos	imulẹ	Nan
@@ -8675,10 +8675,10 @@ hangján	ohun	Nan
 hangja	ìró	None
 hang	ohun	Nan
 hanem	sugbon pelu	Nan
-halálos	ti ku	Nan
+halálos	ku	None
 halálra	iku	None
 halált	iku	None
-haláláig	iku re	Nan
+haláláig	iku	None
 halálának	iku	None
 halálát	iku	None
 halálával	iku	None
@@ -8733,9 +8733,9 @@ gépgyártás	enjinnia mekaniki	Nan
 görögök	awọn hellene	Nan
 görögül	griki	Nan
 ha	ti o ba ti	Nan
-hadseregcsoport	ẹgbẹ ọmọ ogun	Nan
-hadserege	ọmọ ogun	Nan
-hadsereget	ọmọ ogun	Nan
+hadseregcsoport	ogun	None
+hadserege	ogun	None
+hadsereget	ogun	None
 hadtest	yinbon	Nan
 hadvezetés	adari ologun	Nan
 hadvezér	gbogboogbo	Nan
@@ -8748,22 +8748,22 @@ hagynia	lọ	Nan
 hagyomány	atọwọdọwọ	Nan
 hagyománya	aṣa	Nan
 hagyományai	aṣa	Nan
-hadseregben	ọmọ ogun	Nan
-hadsereg	ọmọ ogun	Nan
+hadseregben	ogun	None
+hadsereg	ogun	None
 hadosztály	pipin	Nan
 hadnagy	lieutenant	Nan
 habsburg	habsburg	None
-habsburgház	ile habsburg	Nan
+habsburgház	habsburg	None
 habsburgok	awọn ohun elo habsburgs	Nan
 habár	itanjẹ	Nan
 had	ologun	Nan
 hadaikum	hadean	Nan
-hadak	ọmọ ogun	Nan
+hadak	ogun	None
 hagyományos	ibile	None
 hadarás	gabble	Nan
 haderő	awọn ipa	Nan
 hadi	ologun	Nan
-haditengerészet	ọmọ ogun	Nan
+haditengerészet	ogun	None
 hadjárat	ipolongo	Nan
 hadjáratok	awọn ipolongo	Nan
 hadjáratot	ipolongo	Nan
@@ -8779,7 +8779,7 @@ ható	anesitetiki	Nan
 hatóság	awọn alaṣẹ	Nan
 hatóságok	awọn alaṣẹ	Nan
 havi	oṣooṣu	Nan
-havonta	ni oṣu kan	Nan
+havonta	kan	None
 hawaii	hawaii	None
 haydn	haydn	Nan
 haydnt	haydn	Nan
@@ -8798,8 +8798,8 @@ határozta	ṣe idanimọ	Nan
 határozza	pinnu	Nan
 határozzák	pinnu	Nan
 határozószó	adverb	Nan
-határt	iye to	Nan
-határában	aala ti	Nan
+határt	to	None
+határában	aala	None
 határán	ààlà	Nan
 határát	ààlà	Nan
 hatás	ipa	Nan
@@ -8827,7 +8827,7 @@ helyezés	ibi	Nan
 helyi	agbegbe	Nan
 helyenként	ninu awọn aye	Nan
 helyen	ibi	Nan
-helyeken	awọn ipo	Nan
+helyeken	ipo	None
 helyek	àwọn ibò	Nan
 head	ori	None
 hegedű	violin	Nan
@@ -8848,7 +8848,7 @@ helye	ibi	Nan
 hegyvidék	awọn ilu giga	Nan
 hanks	awọn han	Nan
 határolja	gbo	Nan
-határait	awọn aala	Nan
+határait	aala	None
 harmincas	ọgbọn	Nan
 harold	harold	Nan
 harrison	ẹwọn	Nan
@@ -8875,8 +8875,8 @@ harcba	ja	Nan
 harcban	ja	Nan
 harci	ogun	None
 harcművészeti	ijakadi	None
-harcok	awọn ogun	Nan
-harcokban	awọn ogun	Nan
+harcok	ogun	None
+harcokban	ogun	None
 harcolt	ja	Nan
 harcoltak	ja	Nan
 harcoló	ija	Nan
@@ -8900,9 +8900,9 @@ hatott	le	None
 hatottak	fowo	Nan
 hatvanas	sexagesimal	Nan
 határ	ààlà	Nan
-határa	iye to	Nan
-határain	awọn aala	Nan
-hatalmak	awọn agbara	Nan
+határa	to	None
+határain	aala	None
+hatalmak	agbara	None
 hatalma	agbara	None
 hat	mefa	Nan
 használó	olumulo	Nan
@@ -8911,7 +8911,7 @@ használatos	wulo	Nan
 használatára	lo	Nan
 használatát	lilo	Nan
 használatával	lilo	Nan
-használható	nkan elo	Nan
+használható	nkan	None
 használja	lo	Nan
 határok	awọn ifilelẹ lọ	Nan
 használjuk	ti lo	Nan
@@ -8977,7 +8977,7 @@ genetikai	jiini	Nan
 genf	geneva	None
 genfben	geneva	None
 genfi	genevan	Nan
-geológiai	ẹkọ nipa ilẹ	Nan
+geológiai	ilẹ	None
 geometria	geometry	Nan
 gazdasága	aje	None
 gazdaság	eto-aje	Nan
@@ -9003,7 +9003,7 @@ galileo	galileo	Nan
 geometriai	geometric	Nan
 függőleges	inaro	Nan
 függő	igbẹkẹle	Nan
-félidőben	idaji akoko	Nan
+félidőben	idaji	None
 félig	idaji	None
 félsziget	ile larubawa	Nan
 féltekén	itatẹtẹ	Nan
@@ -9040,9 +9040,9 @@ fák	igi	Nan
 fázis	alakoso	Nan
 férfit	ọkunrin	Nan
 férj	ọkọ	Nan
-férje	ọkọ rẹ	Nan
+férje	rẹ	None
 földtörténeti	itan aye	Nan
-földön	lori ilẹ	Nan
+földön	ilẹ	None
 fölé	loke	Nan
 fölött	loke	Nan
 fúzió	apapọ	Nan
@@ -9060,7 +9060,7 @@ földről	ilẹ	None
 földrengések	awọn iwariri-ilẹ	Nan
 földrengés	ìṣẹlẹ	Nan
 földre	silẹ	Nan
-férjhez	ti ni iyawo	Nan
+férjhez	iyawo	None
 férjét	ọkọ	Nan
 fórum	apejọ	Nan
 föderáció	federation	Nan
@@ -9071,10 +9071,10 @@ függően	fehin ti	Nan
 földet	ile aye	Nan
 földi	ilẹ	None
 földközitenger	okun mẹditarenia	Nan
-földművelés	minisita fun ogbin	Nan
+földművelés	fun	None
 földpátok	awọn ege	Nan
-földrajz	ẹkọ nipa ilẹ	Nan
-földrajza	ẹkọ nipa ilẹ	Nan
+földrajz	ilẹ	None
+földrajza	ilẹ	None
 földrajzi	àgbègbè	Nan
 földgáz	ategun ayebaye	Nan
 gyűjtemény	gbigba	Nan
@@ -9095,7 +9095,7 @@ gyermekét	ọmọ	None
 gyermekük	ọmọ	None
 gyilkos	apaniyan	Nan
 gyilkosság	paniyan	Nan
-gyerekek	awọn ọmọ wẹwẹ	Nan
+gyerekek	ọmọ	None
 gyilkosságok	awọn ipaniyan	Nan
 gyerek	ọmọ	None
 gyenge	ailera	Nan
@@ -9111,7 +9111,7 @@ gyakoroltak	adaṣe	Nan
 gyakorta	ti igbakan	Nan
 gyakrabban	fe e je gbogbo igba	Nan
 gyakran	nigbagbogbo	Nan
-gyalog	loju ẹsẹ	Nan
+gyalog	ẹsẹ	None
 gyarmat	ileto	Nan
 gyarmati	amunisin	Nan
 gyengébb	alailagbara	Nan
@@ -9136,7 +9136,7 @@ győzött	bori	Nan
 gyökerei	wá	Nan
 gyógyszerek	àwọn òògùn	Nan
 gyógyszer	oogun	Nan
-gyógyhatása	alumoni ti ipa	Nan
+gyógyhatása	alumoni	None
 gyorsabb	yara ju	Nan
 gyorsabban	yara ju	Nan
 gyorsan	yara	Nan
@@ -9195,7 +9195,7 @@ gitárok	gita	Nan
 gondok	iṣoro	Nan
 gondolat	ronu	Nan
 gondolata	awọn ero	Nan
-grand	baba agba	Nan
+grand	agba	None
 grande	giga	Nan
 grant	yọọda	Nan
 gravitációs	walẹ	Nan
@@ -9263,7 +9263,7 @@ ilyenek	eyikeyi	Nan
 ilyenkor	ni akoko yi	Nan
 im	im	Nan
 immunrendszer	ma ajesara	Nan
-immár	ni bayi	Nan
+immár	bayi	None
 imperial	ọba	Nan
 importtermékek	awọn ọja wọle	Nan
 imre	imre	Nan
@@ -9325,7 +9325,7 @@ ie	b.c	Nan
 ifj	jr.	Nan
 ifjabb	junior	Nan
 ifjú	ọdọ	Nan
-ifjúkora	ọdọ rẹ	Nan
+ifjúkora	rẹ	None
 idős	agbalagba	Nan
 ifjúság	ọdọ	Nan
 időről	aago	Nan
@@ -9336,7 +9336,7 @@ idézetek	avvon	Nan
 idézi	rántí	Nan
 idő	aago	Nan
 időben	ni asiko	Nan
-időjárás	oju ojo	Nan
+időjárás	ojo	None
 időjárási	meteorological	Nan
 idők	aago	Nan
 időkben	aago	Nan
@@ -9353,7 +9353,7 @@ igény	nilo	Nan
 igénybe	iraye si	Nan
 igénye	beere	Nan
 igényel	nilo	Nan
-igénylő	to nilo	Nan
+igénylő	to	None
 igényt	beere	Nan
 ihlette	atilẹyin	Nan
 ii	ii	Nan
@@ -9391,7 +9391,7 @@ iphone	ipad	Nan
 jaj	alas	Nan
 jakab	awọn orukọ james	Nan
 jakamárfélék	jakamárfélék	Nan
-jamaica	ilu ilu jamaica	Nan
+jamaica	jamaica	None
 jambus	iambus	Nan
 james	awọn orukọ james	Nan
 jan	oṣu kini	Nan
@@ -9418,10 +9418,10 @@ ivan	evan	Nan
 iván	iván	Nan
 ix	ix	Nan
 izabella	isabella	Nan
-izland	ede iceland	Nan
-izlandi	ede icelandic	Nan
+izland	iceland	None
+izlandi	ede	None
 izrael	israeli	Nan
-izraeli	ọmọ israel	Nan
+izraeli	ọmọ	None
 jackson	apinfunni	Nan
 javaslatot	igbero	Nan
 javaslatára	igbero	Nan
@@ -9435,7 +9435,7 @@ jelenkori	imusin	None
 jelenleg	lọwọlọwọ	Nan
 jelenlegi	lọwọlọwọ	Nan
 jelenléte	iwaju naa	Nan
-jelenlétében	niwaju ti	Nan
+jelenlétében	niwaju	None
 jelenlétét	iwaju naa	Nan
 jelennek	han	Nan
 jelenség	lasan	Nan
@@ -9589,10 +9589,10 @@ hozni	muwa	Nan
 hozott	mu	Nan
 hozta	mu	Nan
 hoztak	mu	Nan
-hozták	oun ni	Nan
-hozza	yoo mu	Nan
+hozták	oun	None
+hozza	yoo	None
 hozzá	rẹ	None
-hozzájuk	si wọn	Nan
+hozzájuk	wọn	None
 hozzájárul	tiwon	Nan
 hozzájárult	tiwon	Nan
 hosszúságú	gigun	Nan
@@ -9615,15 +9615,15 @@ horvátok	awọn irugbin croats	Nan
 horvátország	kroatia	Nan
 hossza	gigun	Nan
 hosszabb	gun	None
-honvédség	ọmọ ogun	Nan
+honvédség	ogun	None
 hozzájárultak	tiwon	Nan
 hivatkozott	tọka	Nan
 hivatalosan	ifowosi	Nan
 henry	henry	Nan
 hepatitis	jedojedo	Nan
 herbert	herbert	Nan
-herceg	ọmọ alade	Nan
-hercege	the duke	Nan
+herceg	ọmọ	None
+hercege	the	None
 hercegi	ducal	Nan
 hercegnő	ọmọ-alade	Nan
 hercegség	adodo	Nan
@@ -9641,13 +9641,13 @@ hemingway	hemingway	Nan
 helyszínei	awọn aaye	Nan
 helyszínek	awọn aaye	Nan
 helyszínen	aaye	Nan
-helytelen	ti ko tọ	Nan
+helytelen	ko	None
 helyzet	ipinle	Nan
 helyzetbe	ipo	None
-helyzetben	awọn ipo	Nan
-helyzete	ipo naa	Nan
+helyzetben	ipo	None
+helyzete	ipo	None
 helyzetet	ipo	None
-helyzetét	ipo naa	Nan
+helyzetét	ipo	None
 helyébe	rọpo	Nan
 helyén	ibi	Nan
 helyére	ibi	Nan
@@ -9657,7 +9657,7 @@ hendrix	hendrix	Nan
 heti	sẹsẹ	Nan
 hetvenes	agogo	Nan
 heves	kikan	Nan
-hiszi	o ro pe	Nan
+hiszi	ro	None
 hit	igbagbọ	Nan
 hite	hite	Nan
 hitel	kirẹditi	Nan
@@ -9678,13 +9678,13 @@ history	itan	Nan
 hirtelen	lojiji	Nan
 hiba	ẹbi	Nan
 hibák	awọn aṣiṣe	Nan
-hibás	ti ko tọ	Nan
+hibás	ko	None
 hibát	awọn aṣiṣe	Nan
 hidak	afara	Nan
 hidat	afara	Nan
 hideg	tutu	Nan
 hivatkoznak	ọna asopọ	Nan
-hidegháború	ogun tutu	Nan
+hidegháború	ogun	None
 hill	òkè	Nan
 himnusz	orin oloyin	Nan
 himnusza	hemó .ù	Nan
@@ -9724,10 +9724,10 @@ hívei	awọn alafaramọ	Nan
 hívja	pe	Nan
 hívjuk	pe	Nan
 hívják	pe	Nan
-hívnak	wọn pe mi	Nan
+hívnak	wọn	None
 hívott	ti a pe	Nan
 hívta	o pe	Nan
-hívták	ti a pe wọn	Nan
+hívták	wọn	None
 hívő	olupe	Nan
 hívők	oloootitọ	Nan
 hódfélék	castoridae	Nan
@@ -9744,8 +9744,8 @@ idegen	ajeji	Nan
 idegenforgalmi	oniriajo	Nan
 idegenforgalom	irin-ajo	Nan
 ideig	aago	Nan
-ideiglenes	fun igba diẹ	Nan
-ideiglenesen	fun igba diẹ	Nan
+ideiglenes	fun	None
+ideiglenesen	fun	None
 ideje	aago	Nan
 idejében	aago	Nan
 idején	ninu	Nan
@@ -9777,12 +9777,12 @@ háborúban	ogun	None
 háborúellenes	antiwar	Nan
 háborúja	ogun	None
 háborúk	ogun	None
-háborús	akoko ogun	Nan
-háborút	awọn ogun	Nan
+háborús	ogun	None
+háborút	ogun	None
 hálózat	nẹtiwọọki	Nan
 hálózati	agbara	None
 hálózatok	awọn nẹtiwọki	Nan
-hány	melo ni	Nan
+hány	melo	None
 hármas	meteta	Nan
 három	mẹta	Nan
 háromszor	emeta	Nan
@@ -9815,7 +9815,7 @@ héber	heberu	Nan
 hélium	irinse	Nan
 hét	meje	Nan
 héten	ọsẹ	Nan
-hétig	fun ọsẹ kan	Nan
+hétig	kan	None
 héttel	ọsẹ	Nan
 híd	afara	Nan
 hídon	afara	Nan
@@ -9835,14 +9835,14 @@ hátterében	lẹhin	Nan
 háttér	lẹhin	Nan
 háttérbe	lẹhin	Nan
 háttérben	lẹhin	Nan
-hátulról	lati sile	Nan
-hátán	ẹhin rẹ	Nan
+hátulról	sile	None
+hátán	rẹ	None
 hírlap	iwe iroyin	Nan
 ház	ilé	None
 házak	awọn ile	Nan
 házaspár	tọkọtaya	Nan
 házasság	igbeyawo	None
-házasságot	ti ni iyawo	Nan
+házasságot	iyawo	None
 házat	ilé	None
 házba	ilé	None
 házban	ilé	None

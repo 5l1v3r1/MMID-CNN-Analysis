@@ -5,7 +5,7 @@
 ห้องสมุด	ile ikawe	Nan
 ห้าง	fipamọ	Nan
 ห้างฉัตร	idorikodo iwiregbe	Nan
-ห้างหุ้นส่วนจำกัด	ajọṣepọ to lopin	Nan
+ห้างหุ้นส่วนจำกัด	to	None
 ฬาพานิช	iṣowo	Nan
 อก	igbaya	Nan
 อคิลลีส	achilles	Nan
@@ -14,7 +14,7 @@
 องค์กรปกครองส่วนท้องถิ่น	agbari ijọba ibilẹ	Nan
 องค์การนิสิต	akeko agbari	Nan
 องค์การมหาชน	awujọ ti gbogbo eniyan	Nan
-องค์การสหประชาชาติ	igbimọ gbogboogbo ti orilẹ-ede agbaye	Nan
+องค์การสหประชาชาติ	agbaye	None
 องค์บาก	ong bak	Nan
 อนึ่ง	lojiji	Nan
 อนาลโย	analoy	Nan
@@ -33,16 +33,16 @@
 อดีตรองหัวหน้าหน่วยที่	igbakeji igbakeji ti apa naa	Nan
 อนุทิน	iwe itosiwe	Nan
 หเตุการณ์	ipo	None
-หุ่น	ọmọ aja	Nan
+หุ่น	ọmọ	None
 หลักสูตรวิทยาศาสตรมหาบัณฑิต	titunto si ti eto imọ	Nan
 หลังจาก	lẹhin	Nan
-หลังสงคราม	lẹhin ogun	Nan
-หลังสงครามโลกครั้งที่	lẹhin ogun agbaye	Nan
-หลังสงครามโลกครั้งที่สอง	lẹhin ogun agbaye keji	Nan
+หลังสงคราม	ogun	None
+หลังสงครามโลกครั้งที่	agbaye	None
+หลังสงครามโลกครั้งที่สอง	agbaye	None
 หลังเหตุการณ์	lẹhin iṣẹlẹ naa	Nan
 หลาย	lọpọlọpọ	Nan
-หลีกภัย	sa fun	Nan
-หลุมดำจิ๋ว	aami kekere dudu	Nan
+หลีกภัย	fun	None
+หลุมดำจิ๋ว	kekere	None
 หล่มสัก	lom sak	Nan
 หวาย	rattan	Nan
 หอก	ọkọ	Nan
@@ -66,7 +66,7 @@
 หัวหิน	hua hin	Nan
 หัว	ori	None
 หาบเร่	ode onija	Nan
-หลักสูตรภาษาไทย	ede ti ede thai	Nan
+หลักสูตรภาษาไทย	ede	None
 อนุสรณ์สถาน	iranti	Nan
 อปักธงชัย	pak thongchai	Nan
 ออกมาในอะนิเมะเท่านั้น	wiwa jade ni anime nikan	Nan
@@ -95,7 +95,7 @@
 ออกฉายครั้งแรกเมื่อวันที่	ni akọkọ wo lori	Nan
 อักษรเกาหลี	ahbidi korean	Nan
 อักษร	leta	Nan
-อะโลน	ẹyọ kan	Nan
+อะโลน	kan	None
 อะโกนิสต์	agonist	Nan
 อะลูมิเนียม	alumọni	Nan
 อะมาเดอุส	amadeus	Nan
@@ -130,14 +130,14 @@
 อสามชุก	sam chuk	Nan
 อลาสก้า	alaska	Nan
 อรุณี	arunee	Nan
-อริยสัจ	otitọ ti ko ni agbara	Nan
+อริยสัจ	agbara	None
 อรัญประเทศ	aranyaprathet	Nan
 อรรถพร	athaponi	Nan
 อรรถกถา	asọye	Nan
 อรทัย	ọmọdé	Nan
 อลังการ	ohun ọṣọ	Nan
 อันดับ	rating	Nan
-หลักสูตรภาษาอังกฤษ	ẹkọ ede gẹẹsi	Nan
+หลักสูตรภาษาอังกฤษ	ede	None
 หลักสูตรนานาชาติ	eto kariaye	Nan
 หน้าอก	àyà	Nan
 หมวด	ẹgbẹ	Nan
@@ -145,7 +145,7 @@
 หมวดหมู่กลุ่มดนตรีที่ก่อตั้งในปี	ẹya ẹgbẹ orin ti iṣeto ni	Nan
 หมวดหมู่กลุ่มดนตรีสัญชาติเกาหลี	ẹgbẹ orin korea	Nan
 หมวดหมู่กวีชาวไทย	ẹya thai ti akowe	Nan
-หมวดหมู่การฉลองปีใหม่	ẹya ayẹyẹ ọdun tuntun	Nan
+หมวดหมู่การฉลองปีใหม่	tuntun	None
 หมวดหมู่การประท้วงในประเทศไทย	ẹya ẹya ni thailand	Nan
 หมวดหมู่การ์ตูนญี่ปุ่นแนวโชเน็น	ẹka: ere aworan japanese, ara shonen	Nan
 หมวดหมู่จุลชีววิทยา	ẹya microbiology	Nan
@@ -153,7 +153,7 @@
 หมวดหมู่ชาวไทยที่เกิดในต่างประเทศ	ẹya thai eniyan ti a bi ni okeokun	Nan
 หมวดหมู่ดาวเคราะห์ชั้นใน	ẹya ile aye	Nan
 หมวดหมู่ดาวเคราะห์หิน	ẹya stone planet	Nan
-หมวดหมู่ทหารอากาศชาวไทย	ẹya thai force force	Nan
+หมวดหมู่ทหารอากาศชาวไทย	force	None
 หมวดหมู่ทหารเรือชาวไทย	ẹya ọgagun thai	Nan
 หมวดหมู่นักการเมืองไทย	ẹya ti awọn oloselu thai	Nan
 หมวดหมู่ประวัติศาสตร์ไทย	ẹya itan itan thai	Nan
@@ -165,8 +165,8 @@
 หน่วยพันธุกรรม	ẹya jiini	Nan
 หมวดหมู่บุคคลจากมหาวิทยาลัยสุโขทัยธรรมาธิราช	awọn ẹka lati ile-ẹkọ giga ṣọọsi sukhothai thammathirat	Nan
 หมวดหมู่บุคคลจากจุฬาลงกรณ์มหาวิทยาลัย	awọn ẹka lati ile-ẹkọ giga chulalongkorn	Nan
-หมวดหมู่บอยแบนด์	ẹya ọmọ ẹgbẹ	Nan
-หมวดหมู่บริษัทที่ก่อตั้งในปี	ile-iṣẹ ẹka ti o da ni	Nan
+หมวดหมู่บอยแบนด์	ọmọ	None
+หมวดหมู่บริษัทที่ก่อตั้งในปี	da	None
 หมวดหมู่บริษัทของไทย	ẹya ile-iṣẹ thai	Nan
 หมวดหมู่นายกรัฐมนตรีไทย	ẹya thai prime minister	Nan
 หมวดหมู่นักร้องไทย	ẹya akọrin thai	Nan
@@ -175,9 +175,9 @@
 หน่วยประมวลผลกลาง	apakan processing aarin	Nan
 หน่วยที่	ẹgbẹ	Nan
 ส่วนหัว	orí	Nan
-ส่วนในฤดูฝนน้ำจะท่วมทุกปี	ni akoko ojo, omi yoo ṣan omi ni gbogbo ọdun.	Nan
+ส่วนในฤดูฝนน้ำจะท่วมทุกปี	omi	None
 ส่วนใหญ่	pupọ	Nan
-ส่วนใหญ่เป็นโรงสีข้าว	pupọ ninu wọn jẹ awọn ọlọ iresi.	Nan
+ส่วนใหญ่เป็นโรงสีข้าว	wọn	None
 ส่องแสง	imọlẹ	Nan
 ส้ม	ọsan	Nan
 ส้มเช้ง	osan osan	Nan
@@ -185,18 +185,18 @@
 หงษ์ทอง	hong thong	Nan
 หงษ์มานพ	ilu hong manop	Nan
 หงสกุล	ilu hong sakul	Nan
-หญ้าทะเล	koriko omi	Nan
+หญ้าทะเล	omi	None
 หญ้าฝรั่น	saffron	Nan
 หนองคาย	nong khai	Nan
 หนองม่วง	nong muang	Nan
 หนองหาน	nong han	Nan
 หนองฮี	nong hee	Nan
-หน่วยทหารในค่าย	ẹgbẹ ọmọ ogun ninu ibudó	Nan
+หน่วยทหารในค่าย	ogun	None
 หน่วยคำเติม	morpheme	Nan
 หน่วยความจำ	iranti	Nan
 หนุ่ม	odo	Nan
 หนุมาน	hanuman	Nan
-หนึ่งธิดา	ọmọbinrin kan	Nan
+หนึ่งธิดา	kan	None
 หน่วยบัญชาการนาวิกโยธิน	awọn ile-iṣẹ marine corps	Nan
 หนึ่ง	ọkan	Nan
 หนังสือลามก	awọn iwe ohun iwa aitọ	Nan
@@ -216,7 +216,7 @@
 หมู่ที่	abule	Nan
 หมู่เกาะเคย์แมน	awọn erekusu cayman	Nan
 หมู่เกาะแบลีแอริก	awọn erekusu balearic	Nan
-หมู่เกาะโซโลมอน	solomon islands	Nan
+หมู่เกาะโซโลมอน	solomon	None
 หม่อมราชวงศ์ปรีดิยาธร	r. pridiyathorn	Nan
 หม่อมหลวงปิ่น	mama pin	Nan
 หม่อมเจ้าจุฑาวัชร	prince jutawatchai	Nan
@@ -235,13 +235,13 @@
 หมวดหมู่โรงเรียนบุรุษในประเทศไทย	ẹya ile-iwe awọn ọkunrin ni thailand	Nan
 หลอดอาหาร	esophagus	Nan
 หลวง	ọba	Nan
-หรือเรียกว่า	tabi ti a pe	Nan
+หรือเรียกว่า	tabi	None
 หรือที่เรียกกันว่า	tun mo bi	Nan
-หรือที่รู้จักกันในชื่อ	tabi mọ bi	Nan
-หรือชื่อทางการคือ	tabi orukọ osise ni	Nan
-หรือการแสดงธงชาติ	tabi fifi aami orilẹ-ede han	Nan
+หรือที่รู้จักกันในชื่อ	tabi	None
+หรือชื่อทางการคือ	tabi	None
+หรือการแสดงธงชาติ	tabi	None
 หลอก	àfọ	Nan
-หมวดหมู่พระราชนัดดาในรัชกาลที่	ẹka royal ọmọ ti ijọba	Nan
+หมวดหมู่พระราชนัดดาในรัชกาลที่	ọmọ	None
 หมวดหมู่โรงเรียนที่มีอัตราการแข่งขันสูง	ẹya ile-iwe pẹlu oṣuwọn idije giga	Nan
 หมวดหมู่แนวพระราชดำริ	ẹya ipilẹṣẹ	Nan
 หมวดหมู่พระราชปนัดดาในรัชกาลที่	ẹka ọba panadda ni ijọba	Nan
@@ -254,7 +254,7 @@
 หมวดหมู่รัฐคอมมิวนิสต์	ẹya ipinlẹ komunisiti	Nan
 หมวดหมู่รัฐมนตรีว่าการกระทรวงการต่างประเทศไทย	ẹka: minister foreign foreign thai	Nan
 หมวดหมู่รัฐวิสาหกิจไทย	ẹka thai katakara	Nan
-หมวดหมู่รัฐสิ้นสภาพในทวีปเอเชีย	ẹya ipinle ti ipinle ti dawọ ni esia	Nan
+หมวดหมู่รัฐสิ้นสภาพในทวีปเอเชีย	esia	None
 หมวดหมู่รัฐและดินแดนที่ก่อตั้งในปี	ipinle ati awọn ẹka agbegbe	Nan
 หมวดหมู่รายการโทรทัศน์ไทย	ẹya eto tẹlifisiọnu thai	Nan
 หมวดหมู่ละครโทรทัศน์ไทย	ẹya thai eré tẹlifisiọnu thai	Nan
@@ -264,16 +264,16 @@
 หมวดหมู่เพศศึกษา	ẹkọ ẹkọ nipa ibalopọ	Nan
 หมวดหมู่เครื่องเทศ	spice ẹka	Nan
 หมวดหมู่อวัยวะเพศ	ẹya ara	Nan
-หมวดหมู่อวัยวะ	eya ara	Nan
-หมวดหมู่อดีตอาณานิคมของอังกฤษ	ẹya amunisin ti ilẹ gẹẹsi tẹlẹ	Nan
+หมวดหมู่อวัยวะ	eya	None
+หมวดหมู่อดีตอาณานิคมของอังกฤษ	ilẹ	None
 หมวดหมู่อดีตอาณานิคมของสเปน	ẹya amunisin ti ara ilu spani tẹlẹlo	Nan
-หมวดหมู่โรค	ẹya arun	Nan
-หมวดหมู่อดีตอาณานิคมของฝรั่งเศส	ẹya faranse tẹlẹ amunisin	Nan
+หมวดหมู่โรค	arun	None
+หมวดหมู่อดีตอาณานิคมของฝรั่งเศส	faranse	None
 หมวดหมู่สิ้นสุดในคริสต์ศตวรรษที่	ẹka pari ni ọdun 19th.	Nan
 หมวดหมู่สิ่งก่อสร้างในพุทธศตวรรษที่	ẹya ti awọn ile ni orundun 21st	Nan
 หมวดหมู่สัตว์เลื้อยคลาน	ẹya asọ	Nan
 หมวดหมู่สัตว์มีแกนสันหลัง	ẹya vertebral ẹka	Nan
-หมวดหมู่สมุนไพร	eya ẹka	Nan
+หมวดหมู่สมุนไพร	eya	None
 หมวดหมู่สถาบันอุดมศึกษาในกรุงเทพมหานคร	awọn ẹka ti awọn ile-ẹkọ giga ni bangkok	Nan
 หมวดหมู่สโมสรในพรีเมียร์ลีก	ẹya ẹgbẹ ni ijoba league	Nan
 อันประกอบด้วย	wa ninu	Nan
@@ -299,7 +299,7 @@
 อุภัยราศี	dariji zodiac	Nan
 อุปนิสัย	ohun kikọ	Nan
 อุปกรณ์คอมพิวเตอร์	awọn ẹya ẹrọ kọmputa	Nan
-อุปกรณ์	ohun èlò	Nan
+อุปกรณ์	èlò	None
 อุบล	oyinbo	Nan
 อุทุมพรพิสัย	uthumphon phisai	Nan
 อุณหภูมิ	otutu	None
@@ -316,7 +316,7 @@
 อื่น	omiiran	Nan
 อำเภอแม่แจ่ม	agbegbe mae chaem	Nan
 อำเภอแม่แตง	agbegbe mae taeng	Nan
-อำเภอโนนดินแดง	agbegbe non din daeng	Nan
+อำเภอโนนดินแดง	din	None
 อำเภอโนนสุวรรณ	agbegbe non suwan	Nan
 อิงค์	inc.	Nan
 อิงลิช	gẹẹsi	Nan
@@ -345,7 +345,7 @@
 อิรัก	iraaki	Nan
 อิมแพ็ค	imo	Nan
 อิมาจิน	imajin	Nan
-อิเควทอเรียลกินี	idaraya equatorial guinea	Nan
+อิเควทอเรียลกินี	guinea	None
 อำเภอแม่ทะ	agbegbe mae tha	Nan
 อุเทน	mu	Nan
 อู๋	wu	Nan
@@ -369,7 +369,7 @@
 เกียรติศักดิ์	ogo	Nan
 เกียรติประวัติ	kj iyi	Nan
 เกียรติ	ọlá	Nan
-เกิดนิมิตร	ṣẹda iran kan	Nan
+เกิดนิมิตร	kan	None
 เกิดจากเชื้อไวรัส	fa nipasẹ ọlọjẹ	Nan
 เกิดจากการรวมตัวของ	fa nipasẹ iṣọpọ ti	Nan
 ฮิวงะ	hyuga	Nan
@@ -386,11 +386,11 @@
 ฮินาตะ	hinata	Nan
 อเมริกัน	ara ilu amẹrika	Nan
 อเมริกา	amẹrika	Nan
-อเมริกาเหนือ	ariwa amerika	Nan
+อเมริกาเหนือ	amerika	None
 อเล็กซานเดอร์	alexander	Nan
 อเล็กซ์	irina	Nan
 อโลหะ	ti kii-irin	Nan
-อ่อนเพลีย	ti rẹ	Nan
+อ่อนเพลีย	rẹ	None
 อ่าน	ka	Nan
 อ่าวลึก	ao luek	Nan
 อ้างว่า	beere pe	Nan
@@ -413,7 +413,7 @@
 ฮัมบูร์ก	hamburg	Nan
 ฮันกึล	hangul	Nan
 ฮักบี้	o dabọ	Nan
-ฮอว์ค	okun omi	Nan
+ฮอว์ค	omi	None
 ฮอลโลว์	ṣofo	Nan
 ฮาตาเกะ	igbẹki	Nan
 อำเภอแจ้ห่ม	agbegbe chae hom	Nan
@@ -421,7 +421,7 @@
 อำเภอเวียงแก่น	agbegbe wiang kaen	Nan
 อานโตนิโอ	antonio	Nan
 อาบาราอิ	abarai	Nan
-อายุ	ọjọ ori	Nan
+อายุ	ori	None
 อารยา	araya	Nan
 อาร์	r	Nan
 อาร์กอน	argonni	Nan
@@ -471,12 +471,12 @@
 อาคารส่วนที่	apakan ile	Nan
 อาคารอุบลรัตนราชกัญญา	ubonratana ratchakanya ile	Nan
 อาคารเฉลิมพระเกียรติ	chaloem phrakiat ile	Nan
-อาทิ	bi eleyi	Nan
+อาทิ	eleyi	None
 อาดัม	adam	Nan
 อาณาเขตติดต่อ	agbegbe olubasọrọ	Nan
 อาณาจักรแพกเจ	pakae kingdom	Nan
-อาณาจักรอยุธยาเริ่มเสื่อมอำนาจลงราวพุทธศตวรรษที่	ijọba ayutthaya bẹrẹ si kọ ni agbara ni ayika orundun.	Nan
-อาณาจักรอยุธยาปกครองเขมรเป็นเวลาเกือบปี	ijọba ayutthaya ṣe ijọba cambodia fun o fẹrẹ to ọdun kan.	Nan
+อาณาจักรอยุธยาเริ่มเสื่อมอำนาจลงราวพุทธศตวรรษที่	agbara	None
+อาณาจักรอยุธยาปกครองเขมรเป็นเวลาเกือบปี	to	None
 อานนท์	anoni	Nan
 อาณาจักรสุโขทัย	ijọba sukhothai	Nan
 อาณาจักร	ijọba	Nan
@@ -484,7 +484,7 @@
 อาซึกะ	asuka	Nan
 อาจารย์ใหญ่	olori olori	Nan
 อาจารย์	alamọdaju	Nan
-อาจหมายถึง	o le tumọ si	Nan
+อาจหมายถึง	le	None
 อาณาจักรธนบุรี	ijọba thonburi	Nan
 อำเภอตะพานหิน	agbegbe tafan hin	Nan
 อำเภอทับคล้อ	agbegbe thap khlo	Nan
@@ -499,10 +499,10 @@
 อำเภอสารภี	agbegbe saraphi	Nan
 อำเภอสิชล	agbegbe sichon	Nan
 อำเภอสุไหงโกลก	sungai kolok district	Nan
-อำเภอหนองกี่	agbegbe nong ki	Nan
+อำเภอหนองกี่	ki	None
 อำเภอห้วยราช	agbegbe huai rat	Nan
 อำเภออมก๋อย	agbegbe omkoi	Nan
-อำเภอเกาะคา	agbegbe ko kha	Nan
+อำเภอเกาะคา	ko	None
 อำเภอเขวาสินรินทร์	agbegbe khwao sinarin	Nan
 อำเภอเฉลิมพระเกียรติ	agbegbe chaloem phrakiat	Nan
 อำเภอเชียงของ	agbegbe chiang khong	Nan
@@ -524,12 +524,12 @@
 อำเภอลำปลายมาศ	àgbègbè lam plai mat	Nan
 อำเภอลาดหลุมแก้ว	agbegbe lat lum kaeo	Nan
 อำเภอร่อนพิบูลย์	agbegbe ron phibun	Nan
-อำเภอบ้านลาด	ilẹ ban lat	Nan
-อำเภอบางเสาธง	bang sao thong district	Nan
-อำเภอบางละมุง	àgbègbè bang lamung	Nan
-อำเภอบางพลี	bang phli district	Nan
-อำเภอบางบ่อ	bang bo district	Nan
-อำเภอบางบัวทอง	àgbègbè bang bua thong	Nan
+อำเภอบ้านลาด	ilẹ	None
+อำเภอบางเสาธง	bang	None
+อำเภอบางละมุง	bang	None
+อำเภอบางพลี	bang	None
+อำเภอบางบ่อ	bang	None
+อำเภอบางบัวทอง	bang	None
 อำเภอบ้านหมี่	wiwọle ban district	Nan
 อำเภอบัวใหญ่	agbegbe bua yai	Nan
 อำเภอน้ำเกลี้ยง	agbegbe nam kliang	Nan
@@ -563,7 +563,7 @@
 วิลเลียม	william	Nan
 วิลเลี่ยม	william	Nan
 วิวัฒนาการ	itankalẹ	Nan
-วิวัฒน์	da bi	Nan
+วิวัฒน์	da	None
 วิวัฒน์เกียรติ	wiwat kiat	Nan
 วิศว	imọ-ẹrọ	Nan
 วิศวกร	ẹnjinia	Nan
@@ -596,10 +596,10 @@
 วิลลี่	willy	Nan
 วิบูลย์	o dabọ	Nan
 วิตามินอี	vitamin e	Nan
-วิทยาการคอมพิวเตอร์	imo komputa sayensi	Nan
+วิทยาการคอมพิวเตอร์	komputa	None
 วิทยาการระบาด	ẹkọ-ajakalẹ-arun	Nan
-วิทยาลัยการจัดการเพื่อการพัฒนา	kọlẹji ti isakoso fun idagbasoke	Nan
-วิทยาลัยการบริหารรัฐกิจ	ile-iwe giga ti isakoso ilẹ	Nan
+วิทยาลัยการจัดการเพื่อการพัฒนา	idagbasoke	None
+วิทยาลัยการบริหารรัฐกิจ	ilẹ	None
 วิทยาลัยครูสวนสุนันทา	suan sunandha college college	Nan
 วิทยาลัยดุริยางคศิลป์	kọlẹji ti orin	Nan
 วิทยาลัยนวัตกรรมและการจัดการ	kọlẹji ti innovation ati management	Nan
@@ -615,7 +615,7 @@
 วินเนอร์	winner	Nan
 วินัย	ibawi	Nan
 วินชี	vinci	Nan
-วิธีการหาความสัมพันธ์	bii o ṣe le wa awọn ibatan	Nan
+วิธีการหาความสัมพันธ์	le	None
 วิทยุ	redio	Nan
 วิทยาเขตเฉลิมพระเกียรติ	ile-iṣẹ chaloem phrakiat	Nan
 วิมเบิลดัน	wimbledon	Nan
@@ -636,24 +636,24 @@
 ศุภณัฐ	afikun	Nan
 ศูนย์	aarin	Nan
 ศูนย์การค้า	ile-itaja	Nan
-ศูนย์การบินทหารบก	ile-iṣẹ rọgbun ẹgbẹ ogun	Nan
-ศูนย์การศึกษาแม่ฮ่องสอน	ile-iṣẹ ẹkọ mae hong ọmọ	Nan
+ศูนย์การบินทหารบก	ogun	None
+ศูนย์การศึกษาแม่ฮ่องสอน	ọmọ	None
 ศูนย์คอมพิวเตอร์	ile-iṣẹ kọmputa	Nan
 ศูนย์ค้าส่ง	ile-iṣẹ ataja	Nan
 ศูนย์บริการวิชาการ	ile-iṣẹ iṣẹ ijinlẹ	Nan
-ศูนย์ภาษา	ile-iṣẹ ede	Nan
+ศูนย์ภาษา	ede	None
 ศูนย์รังสิต	ile-iṣẹ rangsit	Nan
 ศูนย์ลำปาง	ile-iṣẹ lampang	Nan
 ศูนย์แพทยศาสตรศึกษาชั้นคลินิก	ile-iṣẹ oogun eto oogun	Nan
 สก	dabaru	Nan
 สกว	trf	Nan
 สง่าพล	yangan	Nan
-สงครามเย็น	ogun tutu	Nan
-สงครามเกาหลี	ogun korea	Nan
-สงครามอวกาศ	ogun aye	Nan
-สงครามมหาเอเชียบูรพา	ogun nla east asia	Nan
+สงครามเย็น	ogun	None
+สงครามเกาหลี	ogun	None
+สงครามอวกาศ	ogun	None
+สงครามมหาเอเชียบูรพา	ogun	None
 สงครามครูเสด	egbe	None
-ศึกนันทบุเรง	ogun nanthabureng	Nan
+ศึกนันทบุเรง	ogun	None
 สงคราม	ogun	None
 สกุลเพชรหึง	petcheng	Nan
 สกุลหยาดน้ำค้าง	sundew	Nan
@@ -674,7 +674,7 @@
 ศรเพชร	ọfa diamond	Nan
 ศศิธร	sasithorn	Nan
 ศักดิ์ศรี	ọlá	Nan
-ศักย์ไฟฟ้า	agbara ina	Nan
+ศักย์ไฟฟ้า	agbara	None
 ศัพท์	imọ-jinlẹ	Nan
 ศาลชั้นต้น	kootu ilu	Nan
 ศาลหลักเมือง	ilu atọka ilu	Nan
@@ -688,7 +688,7 @@
 ศิลปะเชียงแสน	chiang saen art	Nan
 ศิลปะเครื่องปั้นดินเผา	aseka ikoko	Nan
 ศิลปะเขมร	iṣẹ ọnimọ khmer	Nan
-ศิษย์เก่าคณะเศรษฐศาสตร์	oluko ti iwe-ẹkọ eto-ọrọ aje	Nan
+ศิษย์เก่าคณะเศรษฐศาสตร์	aje	None
 ศิลปะศรีวิชัย	aworan aworan srivijaya	Nan
 ศิลปะการแสดง	iṣẹ ọna	Nan
 ศิลปะ	aworan	Nan
@@ -705,16 +705,16 @@
 วงดนตรี	ẹgbẹ	Nan
 วงศ์กำแหง	idile	Nan
 วงศ์ถั่ว	nut idile	Nan
-วงศ์ปลากดทะเล	ebi eja	Nan
+วงศ์ปลากดทะเล	ebi	None
 วงศ์ปลากะรัง	egbe	None
 วงศ์ปลายอดม่วง	wong pla yot muang	Nan
-วงศ์ปลาหลังเขียว	eja alawọ ewe	Nan
+วงศ์ปลาหลังเขียว	ewe	None
 วงศ์ปลาเนื้ออ่อน	cichlid	Nan
 วงศ์ปลาเสือตอ	idile ẹja tiger	Nan
 วงศ์พัวพันธ์	wongpua phan	Nan
 วงศ์วิริยะ	wiriya	Nan
 วงศ์เทวัญ	idile	Nan
-วงศ์แคหางค่าง	wong khae hang kong	Nan
+วงศ์แคหางค่าง	kong	None
 วงษ์คำเหลา	wong kham lao	Nan
 วงเงิน	idiwọn	Nan
 วองโกเล่แฟมิลี	ìdílé vongola	Nan
@@ -737,16 +737,16 @@
 ล่าทา	sode	Nan
 ลานจาตุรงคสันนิบาต	quadrangle	Nan
 ลามิวูดีน	lamiwooden	Nan
-ลายน้ำ	agbegbe omi	Nan
+ลายน้ำ	omi	None
 ลาว	laos	Nan
 ลาออก	tun-pinpin	Nan
 ลำดับ	paṣẹ	Nan
-ลำดับพระปฐมวงศ์ในพระบรมราชวงศ์จักรี	bere fun ti genesisi ni ijọba chakri	Nan
-ลำดับพระมหากษัตริย์ไทย	bere fun ti thai king	Nan
+ลำดับพระปฐมวงศ์ในพระบรมราชวงศ์จักรี	fun	None
+ลำดับพระมหากษัตริย์ไทย	fun	None
 ลำตัว	ọkọ	Nan
 ลำลูกกา	lam luk ka	Nan
 ลำลูกกาคลอง	lam luk kaal	Nan
-ลำไส้เล็ก	ifun kekere	Nan
+ลำไส้เล็ก	kekere	None
 ลิง	obo	Nan
 ลิซท์	liszt	Nan
 ลิปปี	ọdun aaye	Nan
@@ -787,7 +787,7 @@
 วันแรม	ọjọ	Nan
 วัย	ti pẹ	Nan
 วัลลิโภดม	walliphodom	Nan
-วิชาการคอม	kọmputa ọmọ ile-iwe	Nan
+วิชาการคอม	ọmọ	None
 วิชาการ	omowe	Nan
 วิจิตรศิลป์	iṣẹ ọnà	Nan
 วิจัย	iwadii	Nan
@@ -803,7 +803,7 @@
 วัสดุฟิสไซล์	ohun elo fissile	Nan
 วาเลนไทน์	falentaini	Nan
 วอล์ค	rìn	None
-วันที่เข้าฉาย	ojo ifisile	Nan
+วันที่เข้าฉาย	ojo	None
 วันที่ขึ้นเครื่องหมาย	ọjọ ami	Nan
 วัง	ààfin	Nan
 วังจันทร์	wang chan	Nan
@@ -828,7 +828,7 @@
 วัตต์	watt	Nan
 วัดโพธิ์	wat pho	Nan
 วัดเจดีย์หลวง	tẹmpili chedi luang	Nan
-วันที่ออกอากาศชื่อตอนแขกรับเชิญ	ọjọ igbohunsafefe, orukọ iṣẹlẹ, irisi alejo	Nan
+วันที่ออกอากาศชื่อตอนแขกรับเชิญ	irisi	None
 วัดหน้าพระธาตุ	na phra ti tẹmpili yẹn	Nan
 วัดสุทัศนเทพวรารามราชวรมหาวิหาร	suthasan thep wararam tẹmpili	Nan
 วัดสองพี่น้อง	tẹmpili phi nong temple	Nan
@@ -837,7 +837,7 @@
 วัดพระศรีรัตนมหาธาตุ	wat phra si rattana mahathat	Nan
 วัดพระลอย	tẹmpili phra loi	Nan
 วัดหนองเพียร	tẹmpili nong phian	Nan
-สตรอเบอรี่	iru eso didun kan	Nan
+สตรอเบอรี่	kan	None
 สตรีวิทยา	radiology	Nan
 สติปัญญา	oloye	None
 สารานุกรมไทยฉบับราชบัณฑิตยสถาน	thai encyclopedia royal institute edition	Nan
@@ -846,8 +846,8 @@
 สาเหตุ	fa	Nan
 สำนวนเก่า	idiom atijọ	Nan
 สำนักงานขนส่งกรุงเทพมหานครพื้นที่	office ọkọ ti ilu bangkok	Nan
-สำนักงานคณะกรรมการวัฒนธรรมแห่งชาติ	office of the national culture commission	Nan
-สำนักงานโครงการพัฒนาแห่งสหประชาชาติ	ọfiisi ti idagbasoke ilọsiwaju ti orilẹ-ede	Nan
+สำนักงานคณะกรรมการวัฒนธรรมแห่งชาติ	the	None
+สำนักงานโครงการพัฒนาแห่งสหประชาชาติ	idagbasoke	None
 สำนักระบาดวิทยา	bureau of epidemiology	Nan
 สำนักราชเลขาธิการ	akowe	Nan
 สำนักวิทยบริการ	office of resources oro	Nan
@@ -856,7 +856,7 @@
 สำรวจ	iwadi	None
 สำราญ	gleefully	Nan
 สำหรับ	fun	None
-สำหรับประเทศไทย	fun thailand	Nan
+สำหรับประเทศไทย	fun	None
 สินิทธา	zititha	Nan
 สินสมุทร	ẹṣẹ samut	Nan
 สินค้าอุปโภคบริโภค	awọn ẹru olumulo	Nan
@@ -869,8 +869,8 @@
 สิงหาคม	oṣu kẹjọ	Nan
 สำโรง	aṣiṣe	Nan
 สำเนียง	isọrọsi	Nan
-สำหรับในปี	fun ninu odun	Nan
-สำหรับใช้เป็นตราหัวหนังสือราชการไทย	fun lilo bi edidi lori iwe ijọba thai	Nan
+สำหรับในปี	fun	None
+สำหรับใช้เป็นตราหัวหนังสือราชการไทย	fun	None
 สิงโต	kiniun	Nan
 สิปปภาค	ekun zippy	Nan
 สารละลาย	ojutu	Nan
@@ -883,10 +883,10 @@
 สาขาหัวหิน	ẹka hua hin	Nan
 สาครสินธุ์	ẹṣẹ sakorn	Nan
 สาทร	sathorn	Nan
-สาธารณรัฐประชาชนจีน	orílẹ̀ – èdè àwọn ènìyàn ṣáínà	Nan
-สาธารณรัฐออสเตรีย	orileede olominira	Nan
+สาธารณรัฐประชาชนจีน	orílẹ̀	None
+สาธารณรัฐออสเตรีย	orileede	None
 สาธารณรัฐอินโดนีเซีย	orilẹ-ede ti indonesia	Nan
-สาธารณรัฐเช็ก	apapọ ilẹ ṣẹẹki	Nan
+สาธารณรัฐเช็ก	ilẹ	None
 สาธารณรัฐโดมินิกัน	orilẹ-ede ara dominika	Nan
 สานติวัตร	santiwat	Nan
 สามก๊ก	awọn ijọba mẹta	Nan
@@ -896,7 +896,7 @@
 สายเมืองทอง	laini mueang thong	Nan
 สายเดียว	laini laini	Nan
 สายหมอก	fogi	Nan
-สายสีม่วง	laini eleyi	Nan
+สายสีม่วง	eleyi	None
 สายสีน้ำเงิน	laini bulu	Nan
 สารภี	sáráfù	Nan
 สายสีชมพู	laini laini	Nan
@@ -935,7 +935,7 @@
 สเตอรอล	ise elegbogi	Nan
 สุนัขจิ้งจอก	fox	Nan
 สเตราส์	strauss	Nan
-สูงจากระดับน้ำทะเลปานกลาง	loke okun ipele	Nan
+สูงจากระดับน้ำทะเลปานกลาง	ipele	None
 สูง	ga	Nan
 สุ่น	oorun	Nan
 สุโขทัย	sukhothai	Nan
@@ -946,7 +946,7 @@
 สุนทรเวช	sunthornwet	Nan
 สุนทร	sunthorn	Nan
 สิ่งเสพติด	oògùn	Nan
-สิ้นพระชนม์ในรัชกาลที่	ku ni ijọba ti	Nan
+สิ้นพระชนม์ในรัชกาลที่	ku	None
 สี	awọ	Nan
 สีขาว	awọ funfun	Nan
 สีดำ	awọ dudu	Nan
@@ -969,7 +969,7 @@
 สุดารัตน์	lojiji	Nan
 สุดสาคร	lojiji	Nan
 สุนทรภู่	sunthorn phu	Nan
-สุดท้ายตายด้วยฝีมือ	ni ipari, ku nipa ogbon.	Nan
+สุดท้ายตายด้วยฝีมือ	ku	None
 สุจาริณี	sucharinee	Nan
 สุจริตกุล	sucharitkun	Nan
 สุครีพ	sukree	Nan
@@ -987,8 +987,8 @@
 สปาร์ค	sipaki	Nan
 สพ	pato	Nan
 สภานิติบัญญัติแห่งชาติ	apejọ isofin ti orilẹ-ede	Nan
-สภาผู้แทนนิสิต	igbimọ aṣoju ọmọ ile-iwe	Nan
-สภาพอากาศ	oju ojo	Nan
+สภาผู้แทนนิสิต	ọmọ	None
+สภาพอากาศ	ojo	None
 สมจิตต์	somchit	Nan
 สมจิตร	somchit	Nan
 สมชัย	somchai	Nan
@@ -1001,8 +1001,8 @@
 สมเด็จพระนางเจ้ารำไพพรรณี	ayaba rambhai barni	Nan
 สมเด็จ	kabiyesi	Nan
 สมุทวณิช	samutavanich	Nan
-สมาชิกฤดูกาลที่	awọn ọmọ ẹgbẹ asiko	Nan
-สมาชิกรับเชิญตอนพิเศษ	ti pe awọn ọmọ ẹgbẹ si awọn iṣẹlẹ pataki	Nan
+สมาชิกฤดูกาลที่	ọmọ	None
+สมาชิกรับเชิญตอนพิเศษ	ọmọ	None
 สนิทวงศ์	sanit wong	Nan
 สมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้	ẹgbẹ ti ila-oorun iwọ-oorun iwọ-oorun asia	Nan
 สมัยสุโขทัย	akoko sukhothai	Nan
@@ -1011,7 +1011,7 @@
 สมัยก่อนประวัติศาสตร์	awọn akoko akoko iṣaaju	Nan
 สมัยกรุงธนบุรี	akoko thonburi	Nan
 สมัย	asiko	Nan
-สมัยอาณานิคมฝรั่งเศส	akoko amunisin faranse	Nan
+สมัยอาณานิคมฝรั่งเศส	faranse	None
 สมเด็จพระนางเจ้าฯ	kabiyesi	Nan
 สนามไฟฟ้า	aaye ina mọnamọna	Nan
 สนามฟุตบอล	bọọlu afẹsẹgba	Nan
@@ -1024,10 +1024,10 @@
 สถานีโทรทัศน์ไทยพีบีเอส	thai pbs tẹlifisiọnu thai	Nan
 สถาบัน	igbekalẹ	Nan
 สถาบันการศึกษา	ile-iṣẹ ẹkọ	Nan
-สถาบันบัณฑิตพัฒนบริหารศาสตร์	national institute of development administration	Nan
+สถาบันบัณฑิตพัฒนบริหารศาสตร์	development	None
 สถาบันพระบรมราชชนก	royal institute	Nan
-สถาบันวิจัยจุฬาภรณ์	ile-iṣẹ iwadi chulabhorn	Nan
-สถาบันวิจัยและพัฒนา	iwadi ati idagbasoke ilọsiwaju	Nan
+สถาบันวิจัยจุฬาภรณ์	iwadi	None
+สถาบันวิจัยและพัฒนา	idagbasoke	None
 สถาบันศูนย์และหน่วยงานในมหาวิทยาลัย	awọn ile-iṣẹ, awọn ile-iṣẹ, ati awọn ẹka ni awọn ile-ẹkọ giga	Nan
 สถาบันสมทบ	elegbe igbekalẹ	Nan
 สถาบันอาชีวศึกษา	ẹkọ ajọṣepọ	Nan
@@ -1043,9 +1043,9 @@
 สถาปนิก	ayaworan	Nan
 สถาบันโภชนาการ	institute of nutrition	Nan
 สถาบันเทคโนโลยีราชมงคล	ile-iṣẹ imọ-ẹrọ rajamangala	Nan
-สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง	ladwanbang institute of technology mongkut	Nan
-สถาบันเทคโนโลยีพระจอมเกล้า	king mongkut&#39;s institute of technology	Nan
-สถาบันเทคโนโลยีนานาชาติสิรินธร	sirindhorn international institute of technology	Nan
+สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง	technology	None
+สถาบันเทคโนโลยีพระจอมเกล้า	technology	None
+สถาบันเทคโนโลยีนานาชาติสิรินธร	technology	None
 สถาปัตยกรรมไทย	thai faaji	Nan
 สมเด็จพระบรมราชาที่	ọba naa	Nan
 สมเด็จพระบรมโอรสาธิราช	olori ade	Nan
@@ -1060,8 +1060,8 @@
 สัตว์มีแกนสันหลัง	spine	Nan
 สัตว์เลี้ยงลูกด้วยน้ำนม	awọn osin	Nan
 สัตว์เลื้อยคลาน	rọpo	Nan
-สัตว์เลื้อยคลานในอันดับนี้	awọn abuku ni ipo yii	Nan
-สัทศาสตร์	awọn orisun	Nan
+สัตว์เลื้อยคลานในอันดับนี้	ipo	None
+สัทศาสตร์	orisun	None
 สันติ	alafia	Nan
 สันติสุข	alafia	Nan
 สัมผัสนอก	rhyme ita	Nan
@@ -1070,9 +1070,9 @@
 สาขาวิชาวิทยาการคอมพิวเตอร์	eto imọ-ẹrọ kọmputa	Nan
 สาขาวิชารัฐประศาสนศาสตร์	sakaani ti iṣẹ-ilu	Nan
 สาขาวิชาบริหารธุรกิจ	eto isakoso iṣowo	Nan
-สาขาวิชานิติศาสตร์	oluko ti ofin	Nan
+สาขาวิชานิติศาสตร์	ofin	None
 สาขาลำปาง	alaka lampang	Nan
-สาขาย่อย	ti eka	Nan
+สาขาย่อย	eka	None
 สะล้อ	bireki	Nan
 สาขามนุษยศาสตร์	eda eniyan	Nan
 สาขาปราจีนบุรี	ẹka prachinburi	Nan
@@ -1100,7 +1100,7 @@
 สมเด็จพระรามาธิบดีที่	ọba ramathibodi	Nan
 สมเด็จพระมหิตลาธิเบศร	somdet phra mahidol latibes	Nan
 สมเด็จพระเจ้าลูกเธอ	gboga re royal	Nan
-ส่วนต่อขยายบางซื่อท่าพระ	ifaagun bang sue tha phra	Nan
+ส่วนต่อขยายบางซื่อท่าพระ	bang	None
 สวนดุสิตโพล	suan dusit ibo didi	Nan
 สวนสมเด็จพระศรีนครินทร์	somdet phra srinagarindra park	Nan
 สองสาย	awọn onirin meji	Nan
@@ -1112,10 +1112,10 @@
 สวนผึ้ง	suan phueng	Nan
 สส	asiri	Nan
 สวิตเซอร์แลนด์	switzerland	Nan
-สวัสดีปีใหม่	e ku odun, eku iyedun	Nan
+สวัสดีปีใหม่	ku	None
 สวัสดิ์	sawat	Nan
 สวรรคโลก	sawankhalok	Nan
-สวรรคตหรือ	kọjá lọ	Nan
+สวรรคตหรือ	kọjá	None
 สวรรคต	kọja lọ	Nan
 สวี	suites	Nan
 ลา	la	Nan
@@ -1135,9 +1135,9 @@
 โดย	nipasẹ	Nan
 โดยคำว่า	nipa ọrọ naa	Nan
 โดยตรง	taara	Nan
-โดยทรงพระกรุณาโปรดเกล้าฯ	oore-ọfẹ ni fifun nipasẹ olukọ rẹ	Nan
+โดยทรงพระกรุณาโปรดเกล้าฯ	rẹ	None
 โดยที่	nibo	Nan
-โดยบ่งบอกถึงปริมาณและคุณภาพของสิ่งตีพิมพ์อิเล็กทรอนิกส์ของสถาบัน	nipa fifihan titobi ati didara awọn atẹjade ẹrọ itanna ti igbekalẹ	Nan
+โดยบ่งบอกถึงปริมาณและคุณภาพของสิ่งตีพิมพ์อิเล็กทรอนิกส์ของสถาบัน	fifihan	None
 โดเมกิ	orilẹ-ede	Nan
 โดราเอมอนฉบับภาพยนตร์	doraemon movie edition	Nan
 โดยในวันที่	nipa	Nan
@@ -1146,7 +1146,7 @@
 โดยเจ้าฟ้าธรรมธิเบศรไชยเชษฐสุริยวงศ์	nipa prince thamathibet sornchai chetchuriyawong	Nan
 โชว์	fihan	None
 โดยสรุป	ni soki	Nan
-โดยมีพระภิกษุสงฆ์นำเวียนเทียน	pẹlu monk kan ti n ṣafihan ilana iṣọn abẹla kan	Nan
+โดยมีพระภิกษุสงฆ์นำเวียนเทียน	kan	None
 โดยมีตัวอย่างบทพากย์ฉบัง	pẹlu awọn apẹẹrẹ ti awọn ewi	Nan
 โดยมี	pẹlu	Nan
 โดยปกติแล้ว	deede	Nan
@@ -1156,7 +1156,7 @@
 โดเมน	ašẹ	Nan
 โชคดี	orire daada	Nan
 โจโจ้	jojo	None
-แฮปปี้และชาร์ล	inu ati charles	Nan
+แฮปปี้และชาร์ล	charles	None
 แฮ็ค	sakasaka	Nan
 โกบอล	agbaye	None
 โกร	dagba	Nan
@@ -1207,7 +1207,7 @@
 โยฮันน์	johann	None
 โยเซฟ	jósẹ́fù	Nan
 โรค	aisan	Nan
-โรคประจำตัว	aisedeedede arun	Nan
+โรคประจำตัว	arun	None
 โรงเรียนนนทรีวิทยา	ile-iwe nonsi witthaya	Nan
 โรงเรียนดาราวิทยาลัย	ile-ẹkọ giga dara	Nan
 โรงเรียนการบิน	ile-iwe ofurufu	Nan
@@ -1217,7 +1217,7 @@
 โฟลเอ็ม	flo m	Nan
 โรงพยาบาลรามาธิบดี	ile-iwosan ramathibodi	Nan
 โรงพยาบาลกรุงเทพ	bangkok hospital	Nan
-โรคไต	àrùn àrùn	Nan
+โรคไต	àrùn	None
 โรคเกาต์	gout	Nan
 โรคุโด	rokudo	Nan
 โรคออทิซึม	autism	Nan
@@ -1282,7 +1282,7 @@
 แลกเปลี่ยนโดยถือ	ṣe paṣipaarọ nipasẹ didimu	Nan
 แร็ปเปอร์	olórin	Nan
 แรงโน้มถ่วง	walẹ	Nan
-แย้มบุญเรือง	jijade fun iteriba	Nan
+แย้มบุญเรือง	fun	None
 แย้มนาม	orukọ	Nan
 แฟรงค์	frank	Nan
 แยกจากคลองบางกอกใหญ่ฝั่งซ้าย	isopọ lati bangkok yai canal ni apa osi	Nan
@@ -1294,7 +1294,7 @@
 แม่น้ำทะเลสาบสำคัญ	odò adagun odo pataki	Nan
 แยกจากคลองบางกอกใหญ่ฝั่งขวา	isopọ lati bangkok yai canal ni apa ọtun	Nan
 และ	ati	Nan
-แฟมิลีที่ไปพักผ่อนที่เกาะมาเฟีย	ebi lọ lati sinmi lori erekusu mafia	Nan
+แฟมิลีที่ไปพักผ่อนที่เกาะมาเฟีย	ebi	None
 แฟชั่น	njagun	Nan
 แถบ	pẹpẹ	Nan
 แทซิทัส	tasita	Nan
@@ -1308,9 +1308,9 @@
 แนวความคิดที่	erongba	Nan
 แนวพระราชดำริ	royal ipilẹṣẹ	Nan
 แนสแด็ก	nasdaq	Nan
-แบคทีเรีย	awọn kokoro arun	Nan
+แบคทีเรีย	arun	None
 แบงค์	bank	Nan
-แบทเทิลบรอลเลอร์	tanker ogun	Nan
+แบทเทิลบรอลเลอร์	ogun	None
 แบรนด์แอมบาสเดอร์	asoju brand	Nan
 แบ่งประเทศไทยออกเป็น	pin tapa sinu	Nan
 แพ้	padanu	Nan
@@ -1324,7 +1324,7 @@
 แผนไพรีพินาศ	igbimọ alakoso	Nan
 แผนที่	maapu	None
 แป้ง	iyẹfun	Nan
-แบ่งได้เป็น	ni a le pin si	Nan
+แบ่งได้เป็น	le	None
 แบ่งออกได้เป็น	pin si	Nan
 แบ่งออกเป็น	pin si	Nan
 แผลศักดิ์สิทธิ์	ọgbẹ mimọ	Nan
@@ -1332,7 +1332,7 @@
 และกลายเป็นอู่ข้าวอู่น้ำที่มีชื่อเสียงของไทย	o si di agbọn burẹdi olokiki ni thailand	Nan
 และครอบครัว	ati ẹbi	Nan
 แสงสิงแก้ว	sang singkaew	Nan
-แสงเทียน	ori abẹle	Nan
+แสงเทียน	ori	None
 แสตมป์	ontẹ	Nan
 แสนรัก	ni ife	Nan
 แสนโภศิก	saen phosik	Nan
@@ -1343,7 +1343,7 @@
 แหวนธรรมดา	pẹtẹlẹ oruka	Nan
 แหวนมาเล่ริง	oruka malele	Nan
 แห่งบันนัม	ti ban nam	Nan
-แห่งสหประชาชาติ	igbimọ gbogboogbo ti orilẹ-ede agbaye	Nan
+แห่งสหประชาชาติ	agbaye	None
 แองกวิลลา	anguilla	Nan
 แองเจิ้ล	angẹli	Nan
 แอซิด	acid	Nan
@@ -1367,13 +1367,13 @@
 แสงชูโต	chuto	Nan
 แวน	fani	Nan
 และคำว่า	ati ọrọ naa	Nan
-และจังหวัดใกล้เคียง	ati awọn agbegbe nitosi	Nan
+และจังหวัดใกล้เคียง	nitosi	None
 และดุษฎีบัณฑิต	ati dokita ti imọye	Nan
-และตามสภาพเศรษฐกิจและสังคม	ati ni ibamu si awọn ipo ọrọ-aje ati awujọ	Nan
-และตำแหน่ง	ati ipo	Nan
+และตามสภาพเศรษฐกิจและสังคม	ipo	None
+และตำแหน่ง	ipo	None
 และที่สำคัญคือ	ati ohun pataki ni	Nan
 และธงของต่างประเทศ	ati awọn asia ajeji	Nan
-และปัจจุบัน	ati bayi	Nan
+และปัจจุบัน	bayi	None
 และพรรคฟุนซินเปค	ati ayẹyẹ funchinpec	Nan
 และรถไฟ	ati irin ni	Nan
 และรัสเซีย	ati russia	Nan
@@ -1382,23 +1382,23 @@
 และสังคมศาสตร์	ati awọn sáyẹnsì awujọ	Nan
 และสัตว์	ati awon eranko	Nan
 และสโรชา	ati sarocha	Nan
-และหลังจากสงครามภายใน	ati lẹhin ogun inu	Nan
+และหลังจากสงครามภายใน	ogun	None
 แล้วเดินเวียนรอบปูชนียสถาน	lẹhinna rin ni ayika ibi-mimọ	Nan
-และได้ปรากฏตัวตอนภาค	ati ki o han ninu isele	Nan
+และได้ปรากฏตัวตอนภาค	ki	None
 และในปี	ati ni ọdun	Nan
-และโลก	ati ni agbaye	Nan
+และโลก	agbaye	None
 และเรียกว่า	ati pe ti a pe	Nan
 และเมื่อวันที่	ati lori	Nan
 แสงจันทร์	osupa	Nan
 และเมืองเก่า	ati ilu atijọ	Nan
-และเป็น	ati ki o jẹ	Nan
+และเป็น	ki	None
 และเปียโน	ati duru	Nan
 และอเมริกาเหนือ	ati ariwa america	Nan
 และอื่น	ati awọn miiran	Nan
 และอำเภอกันทรารมย์	ati agbegbe kanthararom	Nan
 และออกซิเจน	ati atẹgun	Nan
-และเป็นสมาชิกราชวงศ์	ati pe o jẹ ọmọ ẹgbẹ ti idile ọba	Nan
-โรงเรียนนายเรืออากาศ	royal thai air force academy	Nan
+และเป็นสมาชิกราชวงศ์	ọmọ	None
+โรงเรียนนายเรืออากาศ	force	None
 โรงเรียนบดินทรเดชา	ile-iwe bodindecha	Nan
 โรงเรียนประชานิเวศน์	ile-iwe prachaniwet	Nan
 ไปจนถึง	si	Nan
@@ -1416,13 +1416,13 @@
 ไปรษณีย์อุบลราชธานี	ifiweranṣẹ ifiweranṣẹ ubon ratchathani	Nan
 ไปรษณีย์เดชอุดม	ile ifiweranṣẹ det	Nan
 ไปรษณีย์โพนพิสัย	phon phisai ifiweranṣẹ ifiweranṣẹ	Nan
-ไผ่แดง	ọrun pupa	Nan
+ไผ่แดง	pupa	None
 ไพฑูรย์	chrysoberyl	Nan
-ไม่มีบันทึกว่าใครเป็นคนสร้าง	ko si igbasilẹ ti ẹniti o ṣẹda rẹ.	Nan
-ไม่ผ่านเข้ารอบ	ti o ko oṣiṣẹ	Nan
+ไม่มีบันทึกว่าใครเป็นคนสร้าง	ko	None
+ไม่ผ่านเข้ารอบ	ko	None
 ไม่บังคับ	iyan	None
 ไม่ทราบข้อมูล	alaye aimọ	Nan
-ไม่ต่ำกว่า	ko kere ju	Nan
+ไม่ต่ำกว่า	ko	None
 ไมโครซอฟท์	microsoft	Nan
 ไนโตรเจน	nitrogen	Nan
 ไมอามี่	miami	Nan
@@ -1433,7 +1433,7 @@
 ไพรวัลย์	praiwan	Nan
 ไพรบึง	igbo	Nan
 ไมค์	mike	Nan
-ไม่มีแขน	ko si awọn ọwọ	Nan
+ไม่มีแขน	ko	None
 ไนลอน	ọra	Nan
 ไทโรซีน	tyrosine	Nan
 ไชโย	bravo!	Nan
@@ -1448,10 +1448,10 @@
 ได้กล่าวว่า	sọrọ	Nan
 ได้ดังนี้	ni atẹle	Nan
 ได้ทูลเกล้าฯ	gbekalẹ	Nan
-ได้มีโอกาสสร้างความสัมพันธ์อันดีต่อกัน	ni aye lati kọ awọn ibatan to dara pẹlu kọọkan miiran	Nan
+ได้มีโอกาสสร้างความสัมพันธ์อันดีต่อกัน	to	None
 ได้รับ	gba	None
-ได้รับฉายาว่า	gba oruko apeso naa	Nan
-ได้รับรางวัล	gba ẹbun kan	Nan
+ได้รับฉายาว่า	oruko	None
+ได้รับรางวัล	kan	None
 ได้ร่วมกันในภารกิจในด้านต่าง	paapọ ninu iṣẹ apinfunni ni awọn aaye pupọ.	Nan
 ไทลื้อ	thai lue	Nan
 ไทรโลจี	iṣẹ ibatan mẹta	Nan
@@ -1463,14 +1463,14 @@
 ไทย	thai	Nan
 ไต้หวัน	taiwan	Nan
 ไต	àrùn	None
-ได้เป็น	gba lati wa ni	Nan
-ได้เคลื่อนไหวตรวจสอบการทำงานของรัฐบาลกัมพูชาอย่างแข็งขัน	ti gbera lọwọ lati ṣayẹwo iṣẹ ti ijọba cambodian	Nan
+ได้เป็น	gba	None
+ได้เคลื่อนไหวตรวจสอบการทำงานของรัฐบาลกัมพูชาอย่างแข็งขัน	gbera	None
 ได้สู้กับ	ni igbidanwo pẹlu	Nan
 ได้สำเร็จ	ni aṣeyọri	Nan
 ไท	olominira	Nan
 ไชยา	chaiya	Nan
 ไม่ว่าจะ	boya	Nan
-ไม่แตกกิ่ง	ko ti iyasọtọ	Nan
+ไม่แตกกิ่ง	ko	None
 ไอโมบาย	mo-mobile	Nan
 ไอโอ	io	Nan
 ไฮยาซินธ์	akinirin	Nan
@@ -1535,7 +1535,7 @@
 ไวเปอร์	paramọlẹ	Nan
 ไวเซิร์ด	weiss	Nan
 ไวรัสตับอักเสบ	ẹdọforo	Nan
-ไวรัส	kòkòrò àrùn fáírọọsì	Nan
+ไวรัส	àrùn	None
 ไวยากรณ์	èdè grámà	Nan
 ไวโอเลต	awọ aro	Nan
 ไชยวัฒน์	chaiwat	Nan
@@ -1556,22 +1556,22 @@
 ใช่	bẹẹni!	Nan
 ใช้ขยายความเฉพาะบุคคล	lo lati teleni	Nan
 ใช้ชื่อว่า	ti o lorukọ	Nan
-ใช้เวลา	gba akoko	Nan
+ใช้เวลา	gba	None
 ใต้	labẹ	Nan
 ในช่วงหลัง	nigbamii	Nan
-ในช่วงสงครามโลกครั้งที่สอง	nigba ogun agbaye keji	Nan
-ในช่วงสงครามโลกครั้งที่	lakoko ogun agbaye	Nan
-ในช่วงสงครามเย็น	lakoko ogun tutu	Nan
+ในช่วงสงครามโลกครั้งที่สอง	agbaye	None
+ในช่วงสงครามโลกครั้งที่	agbaye	None
+ในช่วงสงครามเย็น	ogun	None
 ในช่วงปี	nigba ọdun	Nan
 ในชิงร้อยชิงล้าน	ni ching ching milionu	Nan
 โอบามา	oba	None
 ในคศ	ninu ọdun	Nan
 ในขณะที่	lakoko ti	Nan
-ในกาลต่อมา	ni ojo iwaju	Nan
+ในกาลต่อมา	ojo	None
 ในการเลือกตั้ง	ninu idibo	Nan
-ในการประเมินผลงานวิจัยของสถาบัน	ni iṣiro iṣiro awọn abajade iwadi ti ile-ẹkọ naa	Nan
+ในการประเมินผลงานวิจัยของสถาบัน	iwadi	None
 ในกลุ่ม	ni ẹgbẹ	Nan
-ในกรณีนี้	fun idi eyi	Nan
+ในกรณีนี้	fun	None
 ในคริสต์ศตวรรษที่	ni ọrundun kẹrindilogun	Nan
 ในช่วงแรก	ni ibere	Nan
 โอกาส	aye	Nan
@@ -1590,7 +1590,7 @@
 โรงเรียนเขมะสิริอนุสสรณ์	ile-iwe anusorn khemasiri	Nan
 โรงเรียนเจ้าพระยาวิทยาคม	ile-iwe chao phraya witthayakhom	Nan
 โรงเรียนเฉลิมพระเกียรติสมเด็จพระศรีนครินทร์	chaloem phrakiat somdet phra srinagarindra ile-iwe	Nan
-โรงเรียนเทศบาล	ile-iwe gbogbogbo	Nan
+โรงเรียนเทศบาล	gbogbogbo	None
 โรงเรียนไตรมิตรวิทยาลัย	ile-iwe traimit wittayalai	Nan
 โรงแรม	hotẹẹli	Nan
 โสภณ	ẹlẹwa	Nan
@@ -1620,13 +1620,13 @@
 ในเบื้องต้น	ni ibere	Nan
 ในเรื่อง	ni iyi si	Nan
 ในเหตุการณ์	ninu iṣẹlẹ	Nan
-ในเอเชียตะวันออกเฉียงใต้	ni guusu ila oorun asia	Nan
+ในเอเชียตะวันออกเฉียงใต้	guusu	None
 ในแฮร์รี่	harry	Nan
 ในโอกาสครบรอบ	lori ayeye ti iranti aseye	Nan
-ใบเสมา	awọn ile ogun	Nan
+ใบเสมา	ogun	None
 ใหญ่	nla	Nan
-ให้พลเอกเปรม	fun gbogbogbo prem	Nan
-ให้สมเด็จพระเทพรัตนราชสุดาฯ	fun hrh princess maha chakri sirindhorn	Nan
+ให้พลเอกเปรม	gbogbogbo	None
+ให้สมเด็จพระเทพรัตนราชสุดาฯ	fun	None
 ให้เสียงพากย์	ohun adaṣe	Nan
 ไคเอ็น	kaien	Nan
 ไข้หวัดใหญ่สเปน	ilu spanish	Nan
@@ -1646,7 +1646,7 @@
 ในอดีต	ni atijo	Nan
 ในหนังสือ	ninu iwe	Nan
 ในสหรัฐอเมริกา	ni awọn ipinlẹ iṣọkan	Nan
-ในพระบาทสมเด็จพระพุทธเลิศหล้านภาลัย	ninu ọla rẹ ọba, phra buddha lertlah, napalai	Nan
+ในพระบาทสมเด็จพระพุทธเลิศหล้านภาลัย	rẹ	None
 ในพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลก	ni ijọba king buddha yodfa chula lok	Nan
 ในปีเดียวกันนั้น	ni ọdun kanna	Nan
 ในปีเดียวกัน	ni ọdun kanna	Nan
@@ -1658,7 +1658,7 @@
 ในปลายปี	ni opin ọdun	Nan
 ในประเทศญี่ปุ่น	ni japan	Nan
 ในบางฉบับ	ni diẹ ninu awọn itọsọna	Nan
-ในทางตรงกันข้าม	bi be ko	Nan
+ในทางตรงกันข้าม	ko	None
 ในทางดาราศาสตร์	ninu aworawo	Nan
 ในปีที่	ninu ọdun	Nan
 แต่ไม่สำเร็จ	ṣugbọn o yanju	Nan
@@ -1670,7 +1670,7 @@
 ในสมัยกรุงศรีอยุธยา	ni akoko ayutthaya	Nan
 ในฤดูกาล	ni akoko	Nan
 ในรัฐบาล	ninu ijọba	Nan
-ในภาษาอังกฤษ	ni ede gẹẹsi	Nan
+ในภาษาอังกฤษ	ede	None
 ในรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว	nigba ijọba mongkut ọba	Nan
 ในระหว่างปี	nigba ọdun	Nan
 ในระยะหลัง	laipẹ	Nan
@@ -1682,7 +1682,7 @@
 เขตคลองสาน	agbegbe khlong san	Nan
 แต่ไม่ประสบความสำเร็จ	ṣugbọn laisi aṣeyọri	Nan
 แต่ใน	ṣugbọn ninu	Nan
-เทริโอ	ọmọ ogun	Nan
+เทริโอ	ogun	None
 เทวดา	angẹli	Nan
 เทวรูป	oriṣa	Nan
 เทศบาล	agbegbe	Nan
@@ -1699,7 +1699,7 @@
 เทศบาลเมืองหนองคาย	agbegbe nong khai	Nan
 เทศบาลเมืองหนองบัวลำภู	agbegbe nong bua lamphu	Nan
 เทศวิศาล	exansive	Nan
-เธอจะอยู่กับฉันตลอดไป	iwọ yoo wa pẹlu mi lailai	Nan
+เธอจะอยู่กับฉันตลอดไป	yoo	None
 เธอกับฉัน	iwọ ati emi	Nan
 เธรซ	itanran	Nan
 เธคุนุ	atilẹyin	Nan
@@ -1708,7 +1708,7 @@
 เทพีเธมิส	olohun	None
 เท็นเท็น	mẹwa mẹwa	Nan
 เทโรศาสน	tero sasana	Nan
-เทเบิลเทนนิส	tẹnisi tabili	Nan
+เทเบิลเทนนิส	tabili	None
 เทียนโพธิ์สุวรรณ	thian pho suwan	Nan
 เทียนเงิน	fitila fadaka	Nan
 เทียนทอง	awọn abẹla goolu	Nan
@@ -1730,15 +1730,15 @@
 เดือดทะลุจุดศูนย์	farabale nipasẹ aarin	Nan
 เดือนกุมภาพันธ์	oṣu kínní	Nan
 เดือนตุลาคม	oṣu kẹwa	Nan
-เดือนตุลาคมมีฝนตกชุกที่สุด	oṣu kẹwa ni ojo ojo	Nan
+เดือนตุลาคมมีฝนตกชุกที่สุด	ojo	None
 เดือนธันวาคม	oṣu kejila	Nan
 เดือนมกราคม	oṣu kini	Nan
-เดือนมิถุนายน	oṣu karun	Nan
+เดือนมิถุนายน	karun	None
 เทพมรณะ	iku	None
 เทพพิทักษ์	theppitak	Nan
 เทนโจอิน	tenjo-in	Nan
 เทนนิส	tẹnisi	Nan
-เทคโนโลยีสารสนเทศ	isalaye fun tekinoloji	Nan
+เทคโนโลยีสารสนเทศ	fun	None
 เทคโนโลยี	imọ ẹrọ	Nan
 เทพอานูบิส	anubis	Nan
 เทควันโด้	taekwondo	Nan
@@ -1752,7 +1752,7 @@
 เดนโอ	den o	Nan
 เธอเป็นเพื่อนอาบาราอิ	o jẹ ọrẹ ti abarai.	Nan
 เนย	bota	Nan
-เปิดสอนระดับปริญญาตรี	ṣi fun iwadi ti ko iti gba oye	Nan
+เปิดสอนระดับปริญญาตรี	gba	None
 เปียงยาง	pyongyang	Nan
 เปียโตร	pietro	Nan
 เปียโน	piano	Nan
@@ -1761,20 +1761,20 @@
 เป็น	jẹ	Nan
 เป็นขนมของชาวไทยมุสลิม	ṣe a desaati ti awọn musulumi thai	Nan
 เป็นครั้งแรก	ni igba akọkọ	Nan
-เป็นงานเขียนในชุด	njẹ iṣẹ ti a kọ sinu eto kan	Nan
+เป็นงานเขียนในชุด	kan	None
 เป็นต่อ	lodi si	Nan
 เป็นต้น	abbl.	Nan
 เป็นต้นมา	niwon	Nan
-เป็นต้นไม้ประจำมหาวิทยาลัย	ṣe igi ti ile-ẹkọ giga kan	Nan
+เป็นต้นไม้ประจำมหาวิทยาลัย	kan	None
 เป็นบัวในสกุล	ṣe lotus ni iwin	Nan
 เป็นประธาน	di alakoso	Nan
-เป็นปลาตู้สวยงาม	ṣe ẹja aromiyo ẹwa kan	Nan
+เป็นปลาตู้สวยงาม	kan	None
 เป๊ปซี่	pepsi	Nan
-เป็นโฮโมโลกัสกับ	ṣe kan homologus pẹlu	Nan
+เป็นโฮโมโลกัสกับ	kan	None
 เป็นเวลา	fun	None
 เป็นเมืองหลวง	ṣe olu ni	Nan
 เป็นเจ้าเมืองปกครอง	gomina	None
-เป็นเครื่องหมายแสดงว่า	ṣe ami kan pe	Nan
+เป็นเครื่องหมายแสดงว่า	kan	None
 เปอร์โตริโก้	puẹto riko	Nan
 เป็นอาวุธ	bi ohun ija	Nan
 เป็นหัวหน้าพรรค	alaga ẹgbẹ	Nan
@@ -1782,7 +1782,7 @@
 เป็นสีประจำ	awọ deede	Nan
 เป็นวิญญาณเทียมเพศชาย	ṣe ẹmi atọwọda ọkunrin	Nan
 เป็นพ่อของ	ni baba ti	Nan
-เป็นพระราชโอรสพระองค์เดียวในพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช	ni ọmọ kanṣoṣo ti king bhumibol adulyadej	Nan
+เป็นพระราชโอรสพระองค์เดียวในพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช	ọmọ	None
 เป็นอดีตหัวหน้าหน่วยที่	ṣe oludari iṣaaju ti ẹyọkan	Nan
 เนกิ	negi	Nan
 เปอร์เซีย	páṣíà	Nan
@@ -1790,7 +1790,7 @@
 เนรมิต	pilẹ	Nan
 เนะ	ọtun	Nan
 เนื่องจาก	niwon	Nan
-เนื่องจากประเทศเหล่านั้นอยู่ในตำแหน่งบนโลกที่ต่างไปจากประเทศไทย	nitori wọn wa ni ipo kan lori earth ti o yatọ si thailand	Nan
+เนื่องจากประเทศเหล่านั้นอยู่ในตำแหน่งบนโลกที่ต่างไปจากประเทศไทย	kan	None
 เนื้อที่	agbegbe	Nan
 เนื้อที่ประมาณ	agbegbe isunmọ	Nan
 เนื้อร้อง	lyrics	Nan
@@ -1804,7 +1804,7 @@
 เบรกมา	bireki	Nan
 เบริธ	berith	Nan
 เบลเฟกอล	bellegal	Nan
-เปลี่ยนชื่อเป็น	fun lorukọ mii si	Nan
+เปลี่ยนชื่อเป็น	fun	None
 เปลวไฟ	iná	Nan
 เปรู	perú	Nan
 เปรี้ยว	ekan	Nan
@@ -1812,11 +1812,11 @@
 เบ็นเท็น	ben 10	Nan
 เปล่งพานิช	plengpanich	Nan
 เบโทเฟิน	beethoven	Nan
-เบื่ออาหาร	ti sun	Nan
+เบื่ออาหาร	sun	None
 เบาหวาน	atọgbẹ	Nan
 เบาท์	bait	Nan
 เบา	ina	Nan
-เบอร์ลิน	ilu berlin	Nan
+เบอร์ลิน	berlin	None
 เบส	baasi	Nan
 เบื้องหลัง	lẹhin	Nan
 เพกาซัส	pegasus	Nan
@@ -1856,12 +1856,12 @@
 เจ	j	Nan
 เจ็ดเทพโจรสลัด	shichibukai	Nan
 เข้าเฝ้า	ni olukopa	Nan
-เข้าชิงไนน์เอ็นเตอร์เทนอวอร์ดส	ti yan fun awọn aṣayan mẹsan idanilaraya.	Nan
+เข้าชิงไนน์เอ็นเตอร์เทนอวอร์ดส	fun	None
 เขตดุสิต	ibe	Nan
 เขตที่	agbegbe	Nan
 เขตบางกอกใหญ่	agbegbe bangkok yai	Nan
-เขตบางซื่อ	àgbègbè bang sue	Nan
-เขตบางแค	bang khae	Nan
+เขตบางซื่อ	bang	None
+เขตบางแค	bang	None
 เขตปทุมวัน	pathumwan	Nan
 เขตภาษีเจริญ	agbegbe phasi charoen	Nan
 เขตมีนบุรี	agbegbe min buri	Nan
@@ -1889,19 +1889,19 @@
 เขากล่าวว่า	o si wi	Nan
 เขมนิจ	ailokiki	Nan
 เขื่อนกิ่วลม	dam kio afẹfẹ	Nan
-เดธโน้ต	iku akọsilẹ	Nan
+เดธโน้ต	iku	None
 เจ็บ	egbo	None
 เจ้าจอม	olori	Nan
 เชียงใหม่	chiang mai	Nan
 เชี่ยววงศ์กุล	chiewwongkun	Nan
 เชื่อมต่อกับรถไฟฟ้ามหานคร	ti sopọ mọ mrt	Nan
-เชื่อมแม่น้ำท่าจีน	so tha chin odò naa.	Nan
+เชื่อมแม่น้ำท่าจีน	so	None
 เชื้อชาติ	ije	None
 เชื้อรา	olu naa	Nan
 เช็ค	ṣayẹwo	Nan
 เช่นกัน	pelu	Nan
 เช่นเดียวกัน	bakanna	Nan
-เช้ามืดวันที่	asaale ti ojo	Nan
+เช้ามืดวันที่	ojo	None
 เช้าวันรุ่งขึ้น	li owurọ ọjọ keji	Nan
 เซกิ	seki	Nan
 เซน	fọnti	Nan
@@ -1922,7 +1922,7 @@
 เซอร์เบีย	serbia	Nan
 เซอร์วิส	isẹ	Nan
 เซอร์	sir	Nan
-เซสติโม	o to	Nan
+เซสติโม	to	None
 เซโรนอส	seronos	Nan
 เจ้าของจุกนม	oniwun ọra	Nan
 เชียงยืน	chiang yuen	Nan
@@ -1937,11 +1937,11 @@
 เจ้าฟ้ามหิดลอดุลเดช	prince mahidol adulyadej	Nan
 เจ้าฟ้าหญิง	princess	Nan
 เจ้าฟ้าอุบลรัตนราชกัญญา	chaofa ubonratana rajaganya	Nan
-เจ้าหนี้การค้า	ibiti a ti sanwo	Nan
+เจ้าหนี้การค้า	ibiti	None
 เจ้าเมือง	gomina	None
-เจ้าเมืองขุขันธ์	gomina ti khukhan	Nan
+เจ้าเมืองขุขันธ์	gomina	None
 เจ้าโลก	hegemony	Nan
-เฉพาะด้านตะวันออกเฉียงใต้เท่านั้นที่เป็นที่ราบลุ่มแม่น้ำโขง	nikan apa guusu ila-oorun ni ilẹ mekong.	Nan
+เฉพาะด้านตะวันออกเฉียงใต้เท่านั้นที่เป็นที่ราบลุ่มแม่น้ำโขง	ilẹ	None
 เฉลิม	chalerm	Nan
 เฉลิมชัย	chalermchai	Nan
 เชียงของ	chiangkhong	Nan
@@ -1981,10 +1981,10 @@
 เอม	ifọkanbalẹ	Nan
 เอเชียแปซิฟิก	pacific asia	Nan
 เอเชียเหนือ	ariwa asia	Nan
-เอเชียตะวันตกเฉียงใต้	ilẹ guusu iwọ oorun guusu	Nan
+เอเชียตะวันตกเฉียงใต้	guusu	None
 เอเชีย	esia	None
 เอื้อย	uri	Nan
-เอี่ยมสุข	inu mi dun	Nan
+เอี่ยมสุข	dun	None
 เหล็ก	irin	Nan
 เอี่ยมยิ่ง	emi	Nan
 เอสโตเนีย	estonia	Nan
@@ -1994,18 +1994,18 @@
 เอล	el	Nan
 เอริค	eric	Nan
 เออร์โกสเฟียร์	ergosphere	Nan
-เอเชียใต้	guusu asia	Nan
-เหลือสมาชิก	awọn ọmọ ẹgbẹ to ku	Nan
+เอเชียใต้	guusu	None
+เหลือสมาชิก	ku	None
 เหรียญรัตนาภรณ์	owo awọ rattanaporn	Nan
 เว้นวรรค	aaye	Nan
-เศรษฐกิจพอเพียง	oro aje to peye	Nan
+เศรษฐกิจพอเพียง	to	None
 เศรษฐบุตร	sethaputra	Nan
 เศรษฐศาสตร์จุลภาค	microeconomics	Nan
 เศรษฐศาสตร์มหภาค	macroeconomics	Nan
 เสงี่ยม	ihuwasi	Nan
 เสชนะ	win	Nan
-เสด็จพระราชสมภพ	ọmọ bibi	Nan
-เสนอชื่อเข้าชิงและรับรางวัล	ṣe yiyan ati gba ẹbun kan.	Nan
+เสด็จพระราชสมภพ	ọmọ	None
+เสนอชื่อเข้าชิงและรับรางวัล	gba	None
 เสนา	sena	Nan
 เสนาเมือง	ilu sena	Nan
 เสนีวงศ์	seni wong	Nan
@@ -2041,7 +2041,7 @@
 แคม	oju opo wẹẹbu	Nan
 แคมป์เบลล์	campbell	Nan
 แคมเปญ	ipolongo	Nan
-แคมเล็ก	kamera kekere	Nan
+แคมเล็ก	kekere	None
 แคมใหญ่	apata nla	Nan
 แคร็กเกอร์	nutcracker	Nan
 แคลคูลัสเชิงปริพันธ์	esekagba kalculus	Nan
@@ -2056,7 +2056,7 @@
 แดเนียล	dáníẹ́lì	Nan
 แดนสุพรรณ	afikun	Nan
 แขวงจำปาสัก	champasak province	Nan
-แดงทั้งแผ่นดิน	gbogbo ilẹ pupa	Nan
+แดงทั้งแผ่นดิน	pupa	None
 แจ๊ส	jazz	Nan
 แจ๊ค	jack	Nan
 แจ็ค	jack	Nan
@@ -2104,7 +2104,7 @@
 เว็บสเตอร์	oju opo wẹẹbu	Nan
 เภสัชกร	oloogun	Nan
 เภสัชจลนศาสตร์	elegbogi	Nan
-เม	oṣu karun	Nan
+เม	karun	None
 เมกา	mega	Nan
 เมฆ	awọsanma	Nan
 เมฆออร์ต	oort awọsanma	Nan
@@ -2138,7 +2138,7 @@
 เฟอร์นิเจอร์	aga	Nan
 เฟรดริก	fredoni	Nan
 เพชรพระอุมา	diamond phra uma	Nan
-เพชรา	baba agba	Nan
+เพชรา	agba	None
 เพชรเกษม	petchkasem	Nan
 เพดานอ่อน	asọ aja	Nan
 เพทาย	zircon	Nan
@@ -2161,7 +2161,7 @@
 เพื่อเป็นการเผยแผ่พระพุทธศาสนาและประชาสัมพันธ์กิจกรรมทางพระพุทธศาสนาต่าง	ni ibere lati tan buddhism ati igbelaruge awọn iṣẹ ẹsin	Nan
 เพื่อ	fun	None
 เฟส	alakoso	Nan
-เพียงพอ	ti to	Nan
+เพียงพอ	to	None
 เพศชาย	arakunrin	Nan
 เพศ	ibalopọ	Nan
 เพลโต	plato	Nan
@@ -2178,7 +2178,7 @@
 เร้กเก้	reggae	None
 เลข	nọmba	Nan
 เลขที่	nọmba	Nan
-เลขาธิการสหประชาชาติ	akowe-gbogbogbo ti ajo agbaye	Nan
+เลขาธิการสหประชาชาติ	agbaye	None
 เลนส์	awọn lẹnsi	Nan
 เลออน	leon	Nan
 เลิฟ	ni ife	Nan
@@ -2188,10 +2188,10 @@
 เล็ก	kekere	None
 เล่ม	iwe	Nan
 เล่มที่	nọmba iwe	Nan
-เวทีทอง	ipele goolu	Nan
+เวทีทอง	ipele	None
 เว็บ	wẹẹbu	Nan
 เวโรนา	verona	Nan
-เวียนเทียนรอบอุโบสถหรือสถูปเจดีย์พุทธสถานต่าง	yika yika ile-isinmu tabi pagoda	Nan
+เวียนเทียนรอบอุโบสถหรือสถูปเจดีย์พุทธสถานต่าง	tabi	None
 เวียงสา	wiang sa	Nan
 เวียงสระ	wiang sa	Nan
 เวิลด์	ileaye	Nan
@@ -2204,10 +2204,10 @@
 เวลาประมาณ	akoko iṣiro	Nan
 เวล	agbọn	Nan
 เวิร์คพอยท์สตูดิโอ	studio workpoint	Nan
-เรือเร็วโจมตี	titẹ ọkọ oju omi iyara	Nan
-เรือสำรวจ	rọ ọkọ oju omi	Nan
-เรือยกพลขึ้นบก	ibalẹ ọkọ oju omi	Nan
-เรดวัน	ọjọ pupa	Nan
+เรือเร็วโจมตี	omi	None
+เรือสำรวจ	omi	None
+เรือยกพลขึ้นบก	omi	None
+เรดวัน	pupa	None
 เรด	pupa	None
 เรซูเม	pada	Nan
 เยื่อหุ้มสมอง	àdàkọ	Nan
@@ -2222,11 +2222,11 @@
 เม็ดขนุน	agbọnrin	Nan
 เมื่อเดือนมีนาคม	ni irina	Nan
 เยอรมัน	jẹmánì	Nan
-แต่ในปัจจุบัน	ṣugbọn ni bayi	Nan
+แต่ในปัจจุบัน	bayi	None
 เรวดี	awọn iroyin ti o dara	Nan
 เริ่มการผลิตนำเข้า	bẹrẹ gbejade gbekalẹ	Nan
 เรือนนาค	ile naga	Nan
-เรือตรี	ọkọ oju-omi kekere	Nan
+เรือตรี	kekere	None
 เรืองศรี	rueangsri	Nan
 เรืองรุ่ง	gbigbe	Nan
 เรียะชอาณาจักร	ijọba	Nan
@@ -2237,7 +2237,7 @@
 เรียกว่า	ti a pe	Nan
 เรียกกันว่า	ti a pe	Nan
 เริ่มตั้งแต่อาณาจักรอยุธยาได้โจมตีอาณาจักรเขมร	bibẹrẹ pẹlu ijọba ti ayutthaya ti o kọlu ijọba ti khmer.	Nan
-เริ่มจากเดือนพฤศจิกายนเมษายน	bibẹrẹ lati oṣu kọkanla si kẹrin	Nan
+เริ่มจากเดือนพฤศจิกายนเมษายน	kẹrin	None
 เริ่มก่อสร้าง	bẹrẹ ikole	Nan
 เรียว	tẹẹrẹ	Nan
 ព្រះរាជាណាចក្រកម្ពុជា	ព្រះរាជាណាចក្រ កម្ពុជា	Nan
@@ -2257,7 +2257,7 @@
 ซิทคอม	sitcom	Nan
 ซินเดอเรลล่า	cinderella	Nan
 ซิมไฟลา	simphila	Nan
-ซิโนไทย	ede sino thai	Nan
+ซิโนไทย	ede	None
 ซี	c	Nan
 ซีซี	cc	Nan
 ซึ่งมี	ewo ni	Nan
@@ -2270,7 +2270,7 @@
 ซีแคนต์	asiri	Nan
 ซีเซียม	cesium	Nan
 ซีเจ	cj	Nan
-ซีเกมส์	awọn ere sea	Nan
+ซีเกมส์	sea	None
 ซีสต์	awọn eegun	Nan
 ซีลีเนียม	selenium	Nan
 ซีรีเบลลัม	serabellum	Nan
@@ -2278,15 +2278,15 @@
 ซึ่งมีความหมายว่า	eyiti o tumọ si	Nan
 ซัลฟาไดอะซีน	sulfadiazine	Nan
 ซันไชน์	oorun	Nan
-ชื่อนามสกุล	oruko idile akọkọ	Nan
+ชื่อนามสกุล	oruko	None
 ชื่อภาษาญี่ปุ่น	orukọ japanese	Nan
-ชื่อภาษาอังกฤษ	oruko gẹẹsi	Nan
-ชื่อยศภาษาไทย	ipo thai	Nan
-ชื่ออัลบั้ม	oruko awo-orin	Nan
+ชื่อภาษาอังกฤษ	oruko	None
+ชื่อยศภาษาไทย	ipo	None
+ชื่ออัลบั้ม	oruko	None
 ชื่ออื่น	awọn orukọ miiran	Nan
 ชื่อเก่าในวงการ	orukọ atijọ ninu ile-iṣẹ naa	Nan
 ชื่อเดิม	orukọ atijọ	Nan
-ชื่อเมือง	oruko ilu	Nan
+ชื่อเมือง	oruko	None
 ชื่อเรื่อง	akọle naa	Nan
 ชื่อเล่น	inagije	Nan
 ชุดแพนเค้ก	ṣeto pancake	Nan
@@ -2302,7 +2302,7 @@
 ซ	c	Nan
 ช้อน	sibi	Nan
 ซัลฟานิลาไมด์	sulfanilamide	Nan
-ช่องเชิงเทิน	awọn ile ogun	Nan
+ช่องเชิงเทิน	ogun	None
 ช่วงปี	akoko ọdun	Nan
 ช็อกโกแลต	ologbo	Nan
 ชไนเดอร์	schneider	Nan
@@ -2311,11 +2311,11 @@
 ชูมันน์	schumann	Nan
 ช่อง	ikanni	Nan
 ชื่อดัง	olokiki	Nan
-ซึ่งมีทั้งหมด	ewo ni gbogbo rẹ	Nan
+ซึ่งมีทั้งหมด	rẹ	None
 ซึ่งเกิดจากปัจจัยภายนอก	fa nipasẹ awọn okunfa ita	Nan
-ดอกอ้อ	ododo reed	Nan
+ดอกอ้อ	ododo	None
 ดอกไม้	òdòdó	Nan
-ดอกไม้ประจำจังหวัด	ododo ti agbegbe	Nan
+ดอกไม้ประจำจังหวัด	ododo	None
 ดอตคอม	aami com	Nan
 ดอนเมือง	don mueang	Nan
 ดอยอินทนนท์	doi inthanon	Nan
@@ -2324,7 +2324,7 @@
 ดอว์ขิ่นจี	dawin ji	Nan
 ดังนั้น	nitorinaa	Nan
 ดังเช่น	fẹran	Nan
-ดัชนีการพัฒนามนุษย์	atọka idagbasoke eniyan	Nan
+ดัชนีการพัฒนามนุษย์	idagbasoke	None
 ดัตช์	dutch	Nan
 ดันแฮม	dunham	Nan
 ดับเบิลยู	w.	Nan
@@ -2361,7 +2361,7 @@
 ซูรินาเม	suriname	Nan
 ซูเปอร์เซ็นเตอร์	ile-iṣẹ super	Nan
 ซ่อมแซม	tunṣe	Nan
-ซ่าหริ่ม	je kini re dun	Nan
+ซ่าหริ่ม	dun	None
 ซ้าย	osi	Nan
 ฌอง	jean	Nan
 ญ	awọn	Nan
@@ -2411,9 +2411,9 @@
 จุดจอมฟ้า	bọtini bulu	Nan
 จุดกึ่งกลาง	midpoint	Nan
 จุกนมสีขุ่น	tepa elepa	Nan
-จึงใช้ธาตุหมอกและเมฆาได้	nitorinaa le lo ano ti owusu ati awọsanma	Nan
-จึงเปิดโอกาสให้	nitorinaa fun aye	Nan
-จึงทรงพระกรุณาโปรดเกล้า	nitorinaa fi aṣẹ paṣẹ	Nan
+จึงใช้ธาตุหมอกและเมฆาได้	le	None
+จึงเปิดโอกาสให้	fun	None
+จึงทรงพระกรุณาโปรดเกล้า	fi	None
 จุลจอมเกล้าเจ้าอยู่หัว	ọba rama v	Nan
 จ๊กมก	jumkum	Nan
 จำกัด	ltd.	Nan
@@ -2422,10 +2422,10 @@
 จังหวัดเลย	loei province	Nan
 จังหวัดแพร่	phrae	Nan
 จังหาร	junghan	Nan
-จัดขึ้นเมื่อ	gba lowo	Nan
+จัดขึ้นเมื่อ	gba	None
 จัดตั้งขึ้นโดย	ti iṣeto nipasẹ	Nan
 จัดอยู่ในภูมิภาค	ti ṣeto ni ekun	Nan
-จัดเมื่อวันที่	gba lowo	Nan
+จัดเมื่อวันที่	gba	None
 จัดโดย	ti ṣeto nipasẹ	Nan
 จัน	shaneli	Nan
 จันทบุรี	chanthaburi	Nan
@@ -2455,7 +2455,7 @@
 ฉบับวณิพก	awọn nọmba	Nan
 ชั้นมหาวชิรมงกุฎ	kilasi maha wachira	Nan
 ชั้นยศ	ipele	None
-ชั้นสูงสุด	ipele ti o ga julọ	Nan
+ชั้นสูงสุด	ipele	None
 ชา	tii	Nan
 ชากะ	shaka	Nan
 ชาคริต	itaniji	Nan
@@ -2473,13 +2473,13 @@
 ชีวนิชพันธ์	ti ibi	Nan
 ชีพด็อก	sheepdog	Nan
 ชิโนะ	chino	Nan
-ชิลี	ede chile	Nan
+ชิลี	ede	None
 ชิริว	chiryu	Nan
 ชินวัตร	ṣinawatra	Nan
 ชั้นประทวน	ipakà	Nan
 ชิน	saba	Nan
 ชิซุกะ	shizuka	Nan
-ชิงร้อยล้าน	dije fun ọgọrun kan million	Nan
+ชิงร้อยล้าน	kan	None
 ชิงร้อย	figagbaga	Nan
 ชิคิกามิ	shikikami	Nan
 ชำนิ	onimọran	Nan
@@ -2490,7 +2490,7 @@
 ชัยยุทธ	chaiyut	Nan
 ฉลอง	ayeye	Nan
 ฉลองพระชนมายุ	ṣe ayẹyẹ ọdun 80	Nan
-ฉันรักคุณ	mo nifẹ rẹ	Nan
+ฉันรักคุณ	rẹ	None
 ฉาบ	pilasita	Nan
 ฉายเมื่อ	fihan	None
 ฉิ่ง	cymbal	Nan
@@ -2500,7 +2500,7 @@
 ชนิดของเมฆ	iru awọsanma	Nan
 ชม	wo	Nan
 ชมชื่น	iyin	Nan
-ชมพู	awọ pupa	Nan
+ชมพู	pupa	None
 ชมพูทวีป	india	Nan
 ชมพู่	dide apple	Nan
 ชล	adagun-odo	Nan
@@ -2533,7 +2533,7 @@
 ทักษะ	awọn ọgbọn	Nan
 ทัช	fọwọkan	Nan
 ทับ	ipara	Nan
-ทัพเรือภาคที่	ẹka ọkọ oju omi	Nan
+ทัพเรือภาคที่	omi	None
 ทัวร์คอนเสิร์ต	irin-ajo ere-orin	Nan
 ทั่วไป	gbogboogbo	Nan
 ทั้ง	mejeeji	Nan
@@ -2552,24 +2552,24 @@
 ทางอากาศ	nipa afẹfẹ	Nan
 ทางหลวงพิเศษ	opopona pataki	Nan
 ทางรถไฟ	reluwe naa	Nan
-ทางน้ำ	omi omi	Nan
+ทางน้ำ	omi	None
 ทางทิศเหนือติดกับประเทศไทยและลาว	ariwa ni owo nipasẹ thailand ati laosi.	Nan
 ทานากะ	tanaka	Nan
 ทิฆัมพรธีรวงศ์	tikamporn thirawong	Nan
 ทองเจือ	ọla alawọ	Nan
-ทองหยอด	ewe bun	Nan
+ทองหยอด	ewe	None
 ทรงคล้ายทรงกลม	ti iyipo	Nan
-ทรงถือหุ้นจำนวน	giga rẹ di awọn ipin ninu	Nan
+ทรงถือหุ้นจำนวน	ipin	None
 ทรงผนวช	giga re	Nan
-ทรงพระกรุณาโปรดเกล้าโปรดกระหม่อมให้	fi ore-ọfẹ yà mi si mimọ	Nan
-ทรงยี่สิบหน้า	oju ogun	Nan
+ทรงพระกรุณาโปรดเกล้าโปรดกระหม่อมให้	fi	None
+ทรงยี่สิบหน้า	ogun	None
 ทรงลูกบาศก์	kuki	Nan
 ทรงสี่เหลี่ยมขนมเปียกปูน	rhombus	Nan
 ทรงสี่เหลี่ยมมุมฉาก	onigun	Nan
 ทรงห้าหน้า	oju marun	Nan
-ทรงได้รับการทูลเกล้าฯ	gba kabiyesi rẹ ọba	Nan
+ทรงได้รับการทูลเกล้าฯ	rẹ	None
 ทรัพยากร	awọn olu .ewadi	Nan
-ทรัพยากรน้ำ	orisun omi	Nan
+ทรัพยากรน้ำ	omi	None
 ทรัพย์วิจิตร	oro	Nan
 ทรัพย์เพิ่ม	afikun ohun-ini	Nan
 ทรัมเป็ต	trump	Nan
@@ -2579,8 +2579,8 @@
 ทองประสม	iparapọ gold	Nan
 ทองขาว	funfun funfun	Nan
 ทอง	wúrà	Nan
-ทหารอากาศ	agbara afẹfẹ	Nan
-ทหารหน่วยอาเฟลันดราที่	the aphelandra troop	Nan
+ทหารอากาศ	agbara	None
+ทหารหน่วยอาเฟลันดราที่	the	None
 ทองหล่อ	thonglor	Nan
 ทหาร	jagunjagun	Nan
 ทศกัณฐ์	tosakan	Nan
@@ -2596,7 +2596,7 @@
 ท่าน้ำนนท์	omi-omi	Nan
 ท่ายาง	idẹ ontẹ	Nan
 ท่าศาลา	tha sala	Nan
-ท่าอากาศยานเลย	loei papa ọkọ ofurufu	Nan
+ท่าอากาศยานเลย	papa	None
 ท่าเรือ	ibudo	Nan
 ท่าไม้ตาย	olugbe	Nan
 ท้องสนามหลวง	sanam luang	Nan
@@ -2617,7 +2617,7 @@
 ธนิต	thanit	Nan
 ธนาคารไทยพาณิชย์	siam commercial bank	Nan
 ท่านอ้วน	ọra eniyan	Nan
-ธนาคารเพื่อการพัฒนาแห่งเอเชีย	bank development development asia	Nan
+ธนาคารเพื่อการพัฒนาแห่งเอเชีย	development	None
 ธนาคารอิสลามแห่งประเทศไทย	islamic bank of thailand	Nan
 ธนาคารทิสโก้	bank tisco	Nan
 ธนาคารทหารไทย	thai ologun ologun	Nan
@@ -2633,7 +2633,7 @@
 ที	t	Nan
 ทีบีเอส	tbs	Nan
 ทีมชาติไทย	ẹgbẹ orilẹ-ede thailand	Nan
-ทีมใดที่จำนวนข้อที่ถูกน้อยกว่า	egbe wo ni o ni nọmba kekere ju	Nan
+ทีมใดที่จำนวนข้อที่ถูกน้อยกว่า	kekere	None
 ทีวีอินไซด์	tv inu	Nan
 ทีโอที	tot	Nan
 ที่จ่ายร้อยละ	sanwo	Nan
@@ -2645,7 +2645,7 @@
 ที่สำคัญ	bọtini naa	Nan
 ที่หมายถึง	iyẹn tumọ si	Nan
 ที่อยู่อาศัย	ibugbe	Nan
-ท่องอาณาจักรโฮ่งเหมียว	gba igbasilẹ ijọba ti hong miao	Nan
+ท่องอาณาจักรโฮ่งเหมียว	gba	None
 ทไย	kilode	Nan
 ทโกมลบุตร	thakomolabutr	Nan
 ทเวนตี้	meji	Nan
@@ -2698,7 +2698,7 @@
 ตัว	ara	Nan
 ด้านการเกษตร	ogbin	Nan
 ด้านการกีฬา	idaraya	Nan
-ดำรงตำแหน่ง	di ipo mu	Nan
+ดำรงตำแหน่ง	ipo	None
 ดำรงอ่องตระกูล	aṣiṣe ong idile	Nan
 ดำเนินสะดวก	damnoen saduak	Nan
 ดิกชันนารี	itumọ	Nan
@@ -2715,12 +2715,12 @@
 ดิสโพรเซียม	dysprosium	Nan
 ดี	o dara	Nan
 ดีคอนสตรักทิวิสม์	dconrak tavist	Nan
-ด้วยเหตุนี้	fun idi eyi	Nan
+ด้วยเหตุนี้	fun	None
 ด้วย	pẹlu	Nan
 ด็อก	aja	Nan
 ดูแล	itọju	Nan
 ดูเร็กซ์	durex	Nan
-ดูเพิ่มเติมที่	wo eleyi na	Nan
+ดูเพิ่มเติมที่	eleyi	None
 ด้านการต่างประเทศ	foreign affairs	Nan
 ดูเพิ่มเติม	ri diẹ sii	Nan
 ดุสิต	ibe	Nan
@@ -2772,7 +2772,7 @@
 ตั้งงี่สุ่น	tang ngeon	Nan
 ตัวแปร	oniyipada	Nan
 ตัวเลขอย่างเป็นทางการ	awọn nọmba osise	Nan
-ตัวอย่างเช่น	fun apere	Nan
+ตัวอย่างเช่น	fun	None
 ตัวอย่างภาพยนตร์	movie trailer	Nan
 ตั้งอยู่เลขที่	be ni	Nan
 ตัวอย่างต้นแบบแรก	apẹẹrẹ akọkọ	Nan
@@ -2782,7 +2782,7 @@
 ตัวสะกด	akọtọ	Nan
 ตัวลิง	ọbọ	Nan
 ตัวละครจากเรื่อง	awọn ohun kikọ lati inu itan naa	Nan
-ตัวอย่างคำประพันธ์	sample ẹsẹ	Nan
+ตัวอย่างคำประพันธ์	ẹsẹ	None
 จังหวัดเพชรบุรี	phetchaburi province	Nan
 ตั๊กแตน	koriko	Nan
 ตาคลี	takhli	Nan
@@ -2800,29 +2800,29 @@
 ตาระวา	tarawa	Nan
 ตามตำราพรหมชาติฉบับหลวง	gẹgẹbi iwe ti ọba ti brahma	Nan
 ตามตัวสวมเครื่องประดับต่าง	bi o ti wọ awọn ohun-ọṣọ oriṣiriṣi	Nan
-ตำบลกระเทียม	subdistrict ata ilẹ	Nan
+ตำบลกระเทียม	ilẹ	None
 ธรรมศักดิ์	thammasak	Nan
 จังหวัดเชียงใหม่	chiang mai province	Nan
 จังหวัดเชลลา	ṣella	Nan
 การท่องเที่ยว	irin-ajo	Nan
 การท่าเรือ	aṣẹ port	Nan
 การบริการ	isẹ	Nan
-การบริหารการพัฒนา	isakoso idagbasoke	Nan
+การบริหารการพัฒนา	idagbasoke	None
 การบริหารการศึกษา	isakoso eto ẹkọ	Nan
 การบริหารจัดการ	isakoso	Nan
 การบริหารราชการแผ่นดิน	isakoso ijọba	Nan
 การบินไทย	thai airways	Nan
 การปกครองท้องถิ่น	ijọba agbegbe	Nan
 การปกครองส่วนท้องถิ่น	ijọba agbegbe	Nan
-การปกครองแบ่งออกเป็น	ofin naa pin	Nan
+การปกครองแบ่งออกเป็น	ofin	None
 การปฏิรูประบบจัดเก็บภาษีเงินได้	atunṣe ti owo gbigba eto owo-ori	Nan
 การปฏิรูปศาสนา	atunformatione	Nan
-การปฏิวัติฝรั่งเศส	iyika faranse	Nan
+การปฏิวัติฝรั่งเศส	faranse	None
 การปฏิวัติอุตสาหกรรม	iyika ile-iṣẹ	Nan
 การปฏิสนธิ	irọyin	Nan
 การประมง	awọn ipeja	Nan
 การสั่นพ้อง	ipinnu	Nan
-การสังคายนาครั้งที่	bere fun kẹhin	Nan
+การสังคายนาครั้งที่	fun	None
 การศึกษา	eko	None
 การวิเคราะห์	onínọmbà	Nan
 การวิจัย	iwadi	None
@@ -2830,10 +2830,10 @@
 การทำป่าไม้	igbo	Nan
 การลดรูป	iṣe-iṣeṣe	Nan
 การรักษาพยาบาล	oogun	Nan
-การระบาดของไข้หวัดใหญ่สายพันธุ์ใหม่	iwọn tuntun ti aarun ayọkẹlẹ	Nan
-การยึดครองมะละกาของโปรตุเกสในปี	ilu portuguese ni melaka ni ọdun	Nan
+การระบาดของไข้หวัดใหญ่สายพันธุ์ใหม่	tuntun	None
+การยึดครองมะละกาของโปรตุเกสในปี	portuguese	None
 การพูด	nsoro	Nan
-การพัฒนาประชาธิปไตย	democratic idagbasoke	Nan
+การพัฒนาประชาธิปไตย	idagbasoke	None
 การพัฒนา	idagbasoke	None
 การร่วมเพศทางทวารหนัก	foju onibaje	Nan
 การสำเร็จความใคร่ด้วยตนเอง	ilo baraenisere	Nan
@@ -2841,8 +2841,8 @@
 การตั้งถิ่นฐาน	ipinlese	Nan
 กัมพูชาประชาธิปไตย	democratic cambodia	Nan
 กัมพูชาเป็นประเทศที่มีป่าไม้อุดมสมบูรณ์มากที่สุดหากเปรียบเทียบกับประเทศเพื่อนบ้าน	cambodia jẹ orilẹ-ede pẹlu igbo ti o lọpọlọpọ nigba ti a ba ṣe afiwe awọn orilẹ-ede aladugbo.	Nan
-กัมพูชาเป็นอดีตประเทศอาณานิคมของฝรั่งเศสในภูมิภาคเอเชียตะวันออกเฉียงใต้เพียงแค่ประเทศเดียวเท่านั้นที่มีการปกครองด้วยระบอบราชาธิปไตยภายใต้รัฐธรรมนูญ	ilu cambodia nikan ni orilẹ-ede amunisin ti faranse tẹlẹ ni guusu ila oorun asia ti o ni ijọba labẹ ofin naa.	Nan
-กัมพูชาเป็นอาณานิคมของฝรั่งเศสมาตั้งแต่พศ	cambodia ti jẹ ilu ilu faranse lati igba yii.	Nan
+กัมพูชาเป็นอดีตประเทศอาณานิคมของฝรั่งเศสในภูมิภาคเอเชียตะวันออกเฉียงใต้เพียงแค่ประเทศเดียวเท่านั้นที่มีการปกครองด้วยระบอบราชาธิปไตยภายใต้รัฐธรรมนูญ	ofin	None
+กัมพูชาเป็นอาณานิคมของฝรั่งเศสมาตั้งแต่พศ	faranse	None
 กัวเตมาลา	guatemala	Nan
 กานซู	gansu	Nan
 กานต์	kan	None
@@ -2857,7 +2857,7 @@
 การกีฬา	idaraya	Nan
 การขัดเกลาทางสังคม	ilana	None
 การตอบรับ	esi	Nan
-การดำเนินการ	isẹ kan	Nan
+การดำเนินการ	kan	None
 การชัก	ijagba	Nan
 การจูบ	ifẹnukonu	Nan
 การจัดให้มี	ipese	Nan
@@ -2875,16 +2875,16 @@
 การสืบพันธุ์	atunse	None
 การาจ	garage	Nan
 กุหลาบ	dide	Nan
-กุ้ง	awọn ede	Nan
-กุ้งต้ม	boiled ede	Nan
+กุ้ง	ede	None
+กุ้งต้ม	ede	None
 กูเกิล	google	Nan
 ก็คือ	ṣe	Nan
 ก็ใช้เป็น	ti lo bi	Nan
 ก่อตั้ง	ni ipilẹṣẹ	Nan
 ก่อตั้งโดย	ni ipilẹṣẹ nipasẹ	Nan
 ก่อนที่	ṣaaju	Nan
-ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	ṣaaju ki o to di faranse nigbamii	Nan
-ก่อนหน้านั้น	ṣaaju ki o to pe	Nan
+ก่อนที่จะตกเป็นของฝรั่งเศสในเวลาต่อมา	faranse	None
+ก่อนหน้านั้น	to	None
 ก้อย	pink	Nan
 ก้าน	igi pẹlẹbẹ	Nan
 ก้านกล้วย	igi ogede	Nan
@@ -2911,7 +2911,7 @@
 กีฬาแหลมทอง	idaraya laem thong	Nan
 การุณ	karun	None
 การเต้นรำ	ijó	Nan
-การเพิ่มสิทธิประโยชน์แก่นักลงทุนต่างประเทศ	alekun awọn anfani fun awọn oludokoowo ajeji	Nan
+การเพิ่มสิทธิประโยชน์แก่นักลงทุนต่างประเทศ	fun	None
 การเล่น	lati mu ṣiṣẹ	Nan
 การแข่งขัน	idije naa	Nan
 การแบ่งพื้นที่	ipin	None
@@ -2925,8 +2925,8 @@
 กำกับการแสดงโดย	oludari ni	Nan
 กำกับโดยอภิชาติพงศ์	oludari nipasẹ aphichat pong	Nan
 กำมะถัน	brimstone	Nan
-กำลังจะปรับเปลี่ยนเป็น	lilọ lati yipada si	Nan
-กีฬาทางน้ำ	ere idaraya omi	Nan
+กำลังจะปรับเปลี่ยนเป็น	yipada	None
+กีฬาทางน้ำ	omi	None
 กีฬา	idaraya	Nan
 กีฏวิทยา	entomology	Nan
 กิ๊ก	kik	Nan
@@ -2939,7 +2939,7 @@
 กำแพงแสน	kamphaengsaen	Nan
 กำแพงเมืองจีน	odi nla	Nan
 กำแพงเพชร	kamphaeng phet	Nan
-กำหนดตามสภาพภูมิศาสตร์	pinnu nipasẹ ẹkọ nipa ilẹ	Nan
+กำหนดตามสภาพภูมิศาสตร์	ilẹ	None
 กิโลกรัม	kg	Nan
 ขบวนรถสินค้า	ikẹkọ	Nan
 กัมปูเชีย	kamepucia	Nan
@@ -2957,15 +2957,15 @@
 กระทรวงอุตสาหกรรม	ile-iṣẹ ti iṣẹ	Nan
 กระทรวงเกษตรและสหกรณ์	ile-iṣẹ ti ogbin ati awọn ifowosowopo	Nan
 กระทรวงเศรษฐการ	ministry of economic affairs	Nan
-กระทุ่มแบน	apeere kekere	Nan
+กระทุ่มแบน	kekere	None
 กระนวน	rọgbọkú	Nan
 กระนั้น	laifotape	Nan
-กระบวนการสร้าง	ilana ti ile	Nan
+กระบวนการสร้าง	ilana	None
 กรัยวิเชียร	kraiwichian	Nan
 กรัม	giramu	Nan
 กรับเสภา	krapapa	Nan
-กรับพวง	mu opo kan	Nan
-กรับ	gbe soke	Nan
+กรับพวง	kan	None
+กรับ	gbe	None
 กระแต	chipmunk	Nan
 กระดูกค้อน	egungun hammer	Nan
 กระเพาะอาหาร	ikun	Nan
@@ -2974,14 +2974,14 @@
 กระบี่กระบอง	idije pẹlu awọn idà	Nan
 กระบะทราย	apoti iyanrin	Nan
 กระบอง	blackjack	Nan
-กระบวนการสร้างและสลาย	ilana ti ṣiṣẹda ati lilu	Nan
+กระบวนการสร้างและสลาย	ilana	None
 กระหม่อม	ori	None
 กรานาดา	granada	Nan
 กรอง	àlẹmọ	Nan
 กรมอุตุนิยมวิทยา	ẹka meteorological	Nan
 =	=	Nan
  °ซ  °ฟ 	° c ° f	Nan
- ซม	cm	Nan
+ซม	cm	Nan
  −°ซ  °ฟ	- ° c ° f	Nan
 ×	×	Nan
 γ	γ	Nan
@@ -2991,9 +2991,9 @@
 กขขข	abc b	Nan
 กขขขขขขข	a b a b b b a	Nan
 กฎ	ṣàkóso	Nan
-กฎของโคไซน์	ofin cosine	Nan
+กฎของโคไซน์	ofin	None
 กฎแห่งกรรม	karma	Nan
-กติกา	awọn ofin	Nan
+กติกา	ofin	None
 กทม	bangkok	Nan
 กนู	oru	Nan
 กรมหลวงสงขลานครินทร์	kromluang songkhla nakarin	Nan
@@ -3001,9 +3001,9 @@
 กรมศิลปากร	ẹka ile-iṣẹ fine	Nan
 กรมรบพิเศษที่	ẹka awọn ologun pataki	Nan
 กรมทหารราบที่	regiment infantry	Nan
-กรมควบคุมโรค	sakaani ti iṣakoso arun	Nan
+กรมควบคุมโรค	arun	None
 กรรชัย	kanchai	Nan
-กรมข่าวทหารอากาศ	ẹka ti awọn iroyin agbara afẹfẹ	Nan
+กรมข่าวทหารอากาศ	agbara	None
 กรมขุนอิศเรศรังสรรค์	krom khun iset rangsan	Nan
 กรณีที่	ẹjọ naa	Nan
 กมลรัตน์	kamoniratoni	Nan
@@ -3014,21 +3014,21 @@
 กับนางสุจาริณี	pẹlu iyaafin sucharinee	Nan
 กริม	grimm	Nan
 กรุง	olu	Nan
-กองการบินทหารเรือ	pipin bọti oju ogun	Nan
+กองการบินทหารเรือ	ogun	None
 กองการศึกษา	pipin ẹkọ	Nan
 กองการเจ้าหน้าที่	pipin eniyan	Nan
-กองกำลังกึ่งทหาร	awọn ọmọ ogun ologbo	Nan
+กองกำลังกึ่งทหาร	ogun	None
 กองคลัง	išura	Nan
-กองทัพ	awọn ọmọ ogun	Nan
-กองทัพบกไทย	ọmọ ogun thai	Nan
-กองทัพภาคที่	ẹgbẹ ọmọ ogun ti ekun	Nan
+กองทัพ	ogun	None
+กองทัพบกไทย	ogun	None
+กองทัพภาคที่	ogun	None
 กองทัพเรือ	ọgagun	Nan
 กองทัพเรือไทย	ọgagun thai	Nan
-กองทัพแห่งความชอบธรรม	ogun ti ododo	Nan
-กองทัพไทย	ọmọ ogun thai	Nan
-กองบิน	agbara afẹfẹ	Nan
+กองทัพแห่งความชอบธรรม	ododo	None
+กองทัพไทย	ogun	None
+กองบิน	agbara	None
 กองบินปีกหมุนที่	wing spingning wing	Nan
-กองพลทหารม้าที่	ẹgbẹ ọmọ ogun cavalry	Nan
+กองพลทหารม้าที่	ogun	None
 กองพันทหารช่างที่	ẹgbẹ ẹlẹda	Nan
 กอด	famọra	Nan
 กันอริ	kanori	Nan
@@ -3071,7 +3071,7 @@
 กล้ามเนื้อ	isan	Nan
 กล้องถ่ายภาพ	kamẹra	Nan
 กล้วยไม้ดาว	star orchid	Nan
-กล่าวคือ	ti o ni lati sọ	Nan
+กล่าวคือ	sọ	None
 กวี	ewi	Nan
 กลูคากอน	glucon	Nan
 กลุ่มที่	ẹgbẹ naa	Nan
@@ -3091,7 +3091,7 @@
 คิเคียว	kikyo	Nan
 คีตกวี	olupilẹṣẹ	Nan
 คือประมาณ	jẹ nipa	Nan
-คือเพลง	ṣe orin kan	Nan
+คือเพลง	kan	None
 คุณ	iwo	Nan
 คุณครูจอมเวท	olukọni onidan	Nan
 คุณปลื้ม	khun pluem	Nan
@@ -3099,10 +3099,10 @@
 คุณากร	iwọ	Nan
 คุราปิก้า	kurapika	Nan
 คุโรซึจิ	kurotsuji	Nan
-คุ้มค่า	iwọn to dara	Nan
+คุ้มค่า	to	None
 คูกิมิยะ	kukimiya	Nan
 งาน	iṣẹ	Nan
-งดส่งเข้าประกวด	ma wole	Nan
+งดส่งเข้าประกวด	wole	None
 ฆ้องวงใหญ่	big gong	Nan
 ฆ้อง	gong	Nan
 ฆ	juan	Nan
@@ -3140,7 +3140,7 @@
 คำแปล	itumọ	Nan
 คำเมือง	ilu ọrọ	Nan
 คำอธิบาย	apejuwe	Nan
-คำสุภาพ	ọrọ rere	Nan
+คำสุภาพ	rere	None
 คำสุดท้ายของวรรคที่	ọrọ ikẹhin ti paragirafi	Nan
 คิงส์คัพ	ife ọba	Nan
 คำสร้อย	ọrọ	Nan
@@ -3173,11 +3173,11 @@
 จังหวัดน่าน	nan ekun	Nan
 จังหวัดอุดรธานี	udon thani agbegbe	Nan
 จังหวัดหนองบัวลำภู	nong bua lamphu agbegbe	Nan
-จังหวัดสิงห์บุรี	kọrin igberiko buri	Nan
+จังหวัดสิงห์บุรี	igberiko	None
 จังหวัดสมุทรสงคราม	samut songkhram agbegbe	Nan
 จังหวัดสงขลา	songkhla	Nan
 จังหวัดลำพูน	lamphun	Nan
-จักรพรรดิไททัส	emperor titu	Nan
+จักรพรรดิไททัส	titu	None
 จังหวัดราชบุรี	ratchaburi	Nan
 จังหวัดยโสธร	yasotoni	Nan
 จังหวัดมหาสารคาม	maha sarakham province	Nan
@@ -3188,7 +3188,7 @@
 จังหวัดระยอง	rayong	Nan
 งานเทางามสัมพันธ์	ibasepo tao ngam	Nan
 จักรพรรดิเนอร์วา	emperor nirvana	Nan
-จะได้	yoo gba	Nan
+จะได้	gba	None
 งามวงศ์วาน	ngamwongwan	Nan
 งู	ejo	Nan
 งูอนาคอนดา	anaconda	Nan
@@ -3197,18 +3197,18 @@
 จตุรงค์	chatuchak	Nan
 จนกระทั่ง	titi	Nan
 จนกระทั่งปี	titi di ọdun	Nan
-จนกระทั่งเมื่อปี	titi ọdun to kọja	Nan
+จนกระทั่งเมื่อปี	to	None
 จนครปฐม	nakhon pathom	Nan
-จนมีคำกล่าวว่า	titi ti o fi sọ bẹẹ	Nan
+จนมีคำกล่าวว่า	sọ	None
 จน่าน	oṣu mon	Nan
 จบุรีรัมย์	buriram	Nan
 จมูก	imu	Nan
-จระเข้และแอลลิเกเตอร์	ooni ati alligator	Nan
+จระเข้และแอลลิเกเตอร์	ooni	None
 จรัญญา	charanya	Nan
 จริยธรรม	iwa	Nan
 จะเข้	boya	Nan
-จะเขียนว่า	yoo sọ	Nan
-จะต้องหาตัวแทนลงจากเวที	gbọdọ wa aṣoju kan lati jade kuro ni ipele	Nan
+จะเขียนว่า	sọ	None
+จะต้องหาตัวแทนลงจากเวที	ipele	None
 จอร์เจีย	georgia	None
 จอมเทียน	jomtien	Nan
 จอมพลเรือ	ọkọ marshal	Nan
@@ -3232,7 +3232,7 @@
 ข้าวเกรียบปากหม้อ	awọn onirun ti iresi	Nan
 ข้าวเจ้า	paddy	Nan
 ข้าวโพด	agbado	None
-ข้าหลวงกำกับราชการเมืองขุขันธ์คนที่	gomina, gomina ti ilu khukhan	Nan
+ข้าหลวงกำกับราชการเมืองขุขันธ์คนที่	gomina	None
 ฃ	ฃ	Nan
 คงยิ่ง	o ṣeeṣe pupọ	Nan
 คงเจริญ	boya ṣe ilọsiwaju	Nan
@@ -3240,7 +3240,7 @@
 คณะครุศาสตร์อุตสาหกรรม	oluko ti ẹkọ iṣẹ	Nan
 คณะที่	olukọ ni	Nan
 คณะบัญชี	oluko ti isiro	Nan
-คณะปฏิรูปการปกครองแผ่นดิน	igbimọ rogbodiyan	Nan
+คณะปฏิรูปการปกครองแผ่นดิน	rogbodiyan	None
 คณารศ	kanara	Nan
 คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี	oluko ti isegun, ile-iwosan ramathibodi	Nan
 คณะแพทยศาสตร์ศิริราชพยาบาล	oluko ti oogun siriraj hospital	Nan
@@ -3265,33 +3265,33 @@
 ขสมก	ibi	Nan
 ของ	ti	Nan
 ของทุกปี	odoodun	Nan
-ของประเทศจีน	ti china	Nan
+ของประเทศจีน	china	None
 ของมหาวิทยาลัย	ti yunifasiti naa	Nan
 ของมัน	tirẹ	Nan
 ของร่างกาย	ti ara	Nan
-ของสมเด็จฮุน	ti somdej hun	Nan
+ของสมเด็จฮุน	hun	None
 ของสิ่งมีชีวิต	ti awọn ohun alãye	Nan
 ของสุนทรภู่	ti sunthorn phu	Nan
 ของเหลว	omi	None
-ของโลก	ti agbaye	Nan
+ของโลก	agbaye	None
 ขอนแก่น	khon kaen	Nan
-ขอบคุณที่รักกัน	mo dupe fun ife mi	Nan
+ขอบคุณที่รักกัน	fun	None
 ข้อมูลทั่วไป	ifihan pupopupo	Nan
 ขุนหาญ	han	Nan
 ขุขันธิน	khan tin	Nan
 ขึ้นไป	soke	Nan
 ขึ้นเป็น	titi de	Nan
 ขี้ผึ้ง	epo-eti	Nan
-ข้อมูลปรากฏการณ์โลกร้อน	ibanilẹru igbona agbaye	Nan
+ข้อมูลปรากฏการณ์โลกร้อน	agbaye	None
 ขีดเส้นใต้	si underline	Nan
 ขิง	atalẹ	Nan
 ขาย	ta	Nan
 ขา	ẹsẹ	None
 ขั้นที่	igbesẹ	Nan
-ขอให้เด็กสมัยปฏิวัติของข้าพเจ้า	ṣe awọn ọmọ rogbodiyan mi	Nan
-ขอเช็ดน้ำตา	jẹ ki a nù omije kuro	Nan
+ขอให้เด็กสมัยปฏิวัติของข้าพเจ้า	rogbodiyan	None
+ขอเช็ดน้ำตา	ki	None
 ขิม	dulcimer	Nan
-คนที่ไปช่วยรุ่นที่	awọn eniyan ti o lọ lati ṣe iranlọwọ fun iran naa	Nan
+คนที่ไปช่วยรุ่นที่	fun	None
 คนแคระ	arara	Nan
 คนแรก	akọkọ eniyan	Nan
 ความยาวช่วงคลื่น	gigun gigun	Nan
@@ -3300,19 +3300,19 @@
 ความรู้	imọ naa	Nan
 ความสว่าง	imọlẹ	Nan
 ความสัมพันธ์กับประเทศไทย	ibasepo pẹlu thailand	Nan
-ความสัมพันธ์ระหว่างจีนกับอเมริกา	ibasepo laarin china ati amẹrika	Nan
+ความสัมพันธ์ระหว่างจีนกับอเมริกา	china	None
 ความสูง	giga	Nan
 ความส่องสว่าง	imọlẹ	Nan
 ความหนาแน่นของประชากร	iwuwo olugbe	Nan
 ความหมาย	itumo	None
 ความหมายโดยพยัญชนะ	itumọ consonant	Nan
-ความเข้มของการส่องสว่าง	agbara itanna	Nan
+ความเข้มของการส่องสว่าง	agbara	None
 ความเข้าใจ	oye	Nan
 ความเร่ง	isare	None
 ความโกรธ	ibinu	Nan
 ความโน้มถ่วง	ibora	Nan
 คัทลียา	cattleya	Nan
-คัญทัพ	ogun pataki	Nan
+คัญทัพ	ogun	None
 คัชชินสกี	kutchinski	Nan
 คัง	kang	Nan
 คอสตาริกา	costa rica	Nan
@@ -3338,7 +3338,7 @@
 คลองสาน	khlong san	Nan
 คริส	chris	Nan
 คราประยูร	gbadura	Nan
-ครั้งหนึ่ง	ni akoko kan	Nan
+ครั้งหนึ่ง	kan	None
 ครอบครัว	idile	Nan
 ครอคโคไดล์	ooni	None
 คม	didasilẹ	Nan
@@ -3347,7 +3347,7 @@
 จังหวัดเชียงราย	chiang rai	Nan
 คลองเตย	khlong toei	Nan
 คลาวิคอร์ด	kilasi	Nan
-ความฝันอันสูงสุด	gbẹhin ala	Nan
+ความฝันอันสูงสุด	ala	None
 ความบริสุทธิ์	wiwe	Nan
 ความนิยม	gbajumo	Nan
 ความถี่	igbohunsafẹfẹ	Nan
@@ -3380,7 +3380,7 @@
 มม	mm	Nan
 มมหิดล	ile-ẹkọ giga mahidol	Nan
 มยุรา	peacock	Nan
-มลายู	ede mala	Nan
+มลายู	ede	None
 มวยปล้ำ	ijakadi	None
 มหาวิทยาลัยปทุมธานี	ile-ẹkọ pathum thani	Nan
 มหาวิทยาลัยบูรพา	yunifasiti burapha	Nan
@@ -3403,16 +3403,16 @@
 ภาพยนตร์ลามก	sinima fiimu	Nan
 ภาพรวม	akopọ	Nan
 ภายหลัง	lẹhin	Nan
-ภายหลังสงคราม	lẹhin ogun	Nan
+ภายหลังสงคราม	ogun	None
 ภายใต้ความช่วยเหลือจากกองทุนการเงินระหว่างประเทศ	labẹ iranlọwọ ti international monetary fund	Nan
-ภายในวงขอบเหรียญเบื้องบนมีข้อความว่า	laarin oke owo naa ni alaye kan ti	Nan
+ภายในวงขอบเหรียญเบื้องบนมีข้อความว่า	kan	None
 ภารกิจ	ise	Nan
-ภาวะเศรษฐกิจของกัมพูชาหลังจากมีการเปลี่ยนแปลงการปกครองจากระบอบสังคมนิยมเป็นระบอบประชาธิปไตย	awọn ipo ọrọ-aje ni ilu kambodia lẹhin iyipada ijọba lati ọdọ ijọba tiwantiwa.	Nan
+ภาวะเศรษฐกิจของกัมพูชาหลังจากมีการเปลี่ยนแปลงการปกครองจากระบอบสังคมนิยมเป็นระบอบประชาธิปไตย	ipo	None
 ภาษาญี่ปุ่น	japanese	Nan
 ภาษาบาลี	pali	Nan
-ภาษาสเปน	ede spanish	Nan
+ภาษาสเปน	ede	None
 ภาษาอังกฤษ	englishdè gẹẹsi	Nan
-ภาษาอีสาน	ede northeast	Nan
+ภาษาอีสาน	ede	None
 ภาษาเกชัว	quechua	Nan
 ภาษาเฉพาะอาชีพ	jargon	Nan
 ภาษาเบสิก	ipilẹ	Nan
@@ -3433,7 +3433,7 @@
 ภาษาโคบอล	kọpọ	Nan
 ภูธเนศ	bhutanet	Nan
 ภาพยนตร์ตอน	isele	Nan
-มหาวิทยาลัยภูมินทร์พนมเปญ	ile-iwe giga phumin, phnom penh	Nan
+มหาวิทยาลัยภูมินทร์พนมเปญ	penh	None
 มหาวิทยาลัยมหาสารคาม	ile-ẹkọ giga yun sarakham	Nan
 มังกี้	ọbọ	Nan
 มังคุด	mangosteen	Nan
@@ -3505,8 +3505,8 @@
 มาสคาร่า	mascara	Nan
 ภาพยนตร์ชุดนี้	eto fiimu yii	Nan
 ภาพยนตร์	sinima	Nan
-พาร์ค	agba duro	Nan
-พาวเวอร์บาย	ra agbara	Nan
+พาร์ค	agba	None
+พาวเวอร์บาย	agbara	None
 พาเมล่า	pamela	Nan
 พิชัย	phichai	Nan
 พิชิต	ṣẹgun	Nan
@@ -3517,7 +3517,7 @@
 พิพิธภัณฑ์	musiọmu	Nan
 พิม	pim	Nan
 พิมประภา	phimprapa	Nan
-พิมพ์เล็ก	atẹjade kekere	Nan
+พิมพ์เล็ก	kekere	None
 พิมลวรรณ	phimonwan	Nan
 พิรุณ	ojo	None
 พิสุทธิ์	o wuyi	Nan
@@ -3542,30 +3542,30 @@
 พากย์เป็น	gbasilẹ bi	Nan
 พลอากาศเอกหญิง	acm obinrin	Nan
 พลฯ	gbogbogbo	None
-พลังงานคลื่น	agbara wave	Nan
-พลังงานนิวเคลียร์	agbara iparun	Nan
-พลังงานลม	agbara afẹfẹ	Nan
-พลังงานไฟฟ้า	agbara ina	Nan
+พลังงานคลื่น	agbara	None
+พลังงานนิวเคลียร์	agbara	None
+พลังงานลม	agbara	None
+พลังงานไฟฟ้า	agbara	None
 พลัส	ni afikun	Nan
 พลาซา	plaza	Nan
 พลาสติก	ṣiṣu	Nan
 พลาสมา	pilasima	Nan
 พลเรือเอก	abojuto	Nan
-พลเอกสนธิ	gbogbogbo sonthi	Nan
+พลเอกสนธิ	gbogbogbo	None
 พวกสัตว์ลำตัวกลม	yika ara eranko	Nan
 พศ	fri	Nan
-พอ	ti to	Nan
+พอ	to	None
 พอตเตอร์	amokoko	Nan
-พอตเตอร์กับเจ้าชายเลือดผสม	amokoko ati oloye idaji-ẹjẹ	Nan
+พอตเตอร์กับเจ้าชายเลือดผสม	oloye	None
 พัลซาร์	pulsar	Nan
 พับลิชชิ่ง	atẹjade	Nan
 พันธเสน	bond	Nan
 พันธุ์สุนัข	aja ajọbi	Nan
-พันธุ์พืช	eya ọgbin	Nan
+พันธุ์พืช	eya	None
 พันธุศาสตร์	jiini	Nan
 พายุ	ìjì	Nan
 พันธมิตร	alliance	Nan
-พัทยาใต้	guusu pattaya	Nan
+พัทยาใต้	guusu	None
 พัทยาเหนือ	ariwa pattaya	Nan
 พัฒน์ชัย	phatchai	Nan
 พัชรี	phachari	Nan
@@ -3611,7 +3611,7 @@
 ฟีฟ่าคลับเวิลด์คัพ	fifa club world cup	Nan
 ฟิสิกส์อนุภาค	apakan fisiksi	Nan
 พุ่มพวง	obinrin	Nan
-พู่กัน	awo kun	Nan
+พู่กัน	awo	None
 พ่อขุนรามคำแหง	ọba ramkhamhaeng	Nan
 พ่อขุนศรีอินทราทิตย์	ihamo king	Nan
 พ่อมด	oluṣeto	Nan
@@ -3645,7 +3645,7 @@
 มาเก๊า	macau	Nan
 มาเฟีย	nsomi	Nan
 มาเรีย	maria	Nan
-รัฐธรรมนูญแห่งราชอาณาจักรไทย	orileede ti ijọba ti thailand	Nan
+รัฐธรรมนูญแห่งราชอาณาจักรไทย	orileede	None
 รัฐบาลไทย	ijọba thai	Nan
 รัฐบุรุษ	ipinlẹ	Nan
 รัฐประหาร	coup	Nan
@@ -3659,32 +3659,32 @@
 รัฐเทกซัส	texas	Nan
 รัตนบุรี	rattanaburi	Nan
 รัตนาธิเบศร์	rattanathibet	Nan
-รับบทโดย	dun nipasẹ	Nan
+รับบทโดย	dun	None
 รับพระราชทาน	gba	None
 รัศมี	ologbo	Nan
 ราชวงศ์ทิพย์จักราธิวงศ์	idile ọba, chakrathiwong	Nan
-ราชวงศ์ถัง	idile oba ti tang	Nan
-ราชวงศ์ชิง	idile oba qing	Nan
-ราชวงศ์จิ้นตะวันออก	idile oba ila-oorun	Nan
+ราชวงศ์ถัง	oba	None
+ราชวงศ์ชิง	oba	None
+ราชวงศ์จิ้นตะวันออก	oba	None
 ราชมังคลากีฬาสถาน	rápá rajamangala	Nan
 ราชนาวี	ọgagun	Nan
 รัชดาภิเษก	ratchadaphisek	Nan
-ราชตระกูล	ọmọ ọba	Nan
-รางวัลโนเบล	onipokinni nobel	Nan
+ราชตระกูล	ọmọ	None
+รางวัลโนเบล	nobel	None
 รางวัลนาฏราช	awọn ere aṣẹgun royal dancer	Nan
 รางวัลนักร้องไทยสากลชายยอดนิยม	gbajumọ akọ thai international singer award	Nan
 รางวัลนักร้องยอดเยี่ยม	ẹbun akọrin ti o dara julọ	Nan
-รากแก่น	mojuto gbongbo	Nan
+รากแก่น	gbongbo	None
 รัสเซล	russell	Nan
 รางวัลไนน์เอ็นเตอร์เทน	aami mẹsan idanilaraya	Nan
 ราชวงศ์บ้านพลูหลวง	ile ti royal ti plu luang	Nan
 รัชกาลสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว	ijọba ti king chulalongkorn	Nan
 รังสีแกมมา	ere ray	Nan
 ระดับการกระโดดสูง	fò ga	Nan
-ระดับปริญญาเอก	ipele phd	Nan
+ระดับปริญญาเอก	ipele	None
 ระดับปริญญาโท	ìyí ọga	Nan
-ระดับมัธยมศึกษา	ipele keji	Nan
-ระดับอาชีวศึกษา	ipele ti igbimọ	Nan
+ระดับมัธยมศึกษา	ipele	None
+ระดับอาชีวศึกษา	ipele	None
 ระนอง	ranong	Nan
 ระนาด	xylophone	Nan
 ระนาดทุ้ม	alto xylophone	Nan
@@ -3695,26 +3695,26 @@
 ระบบสืบพันธุ์	eto ibisi	Nan
 ระบบสุริยะ	eto oorun	Nan
 ระบบโครงกระดูก	eto isokuso	Nan
-ระบบใช้อำนาจเด็ดขาด	eto agbara to pe	Nan
+ระบบใช้อำนาจเด็ดขาด	to	None
 ระยะ	alakoso	Nan
 รังสีเอกซ์	x-ray	Nan
 รังสี	eegun	Nan
 รังสิตคลอง	rangsit khlong	Nan
 รักแห่งสยาม	ife ti siam	Nan
 รักษาสิ่งแวดล้อม	daabobo ayika	Nan
-รักษาศีล	akiyesi awọn ilana	Nan
+รักษาศีล	ilana	None
 รัชกาลที่	ijọba	Nan
 ระโนด	deadkú	Nan
 ระเบียง	balikoni	Nan
-ระหว่างสงครามโลกครั้งที่	lakoko ogun agbaye	Nan
+ระหว่างสงครามโลกครั้งที่	agbaye	None
 ระหว่างปี	nigba ọdun	Nan
 ระวิ	laarin	None
 ระยะเวลาการดำรงตำแหน่ง	akoko ti iṣẹ	Nan
 ระยะเวลา	iye akoko	Nan
 ระเบียบ	paṣẹ	Nan
 ระดับกระโดดสูง	fò ga	Nan
-ราชวงศ์พระร่วง	phyn ruang idile oba	Nan
-ราชวงศ์อู่ทอง	u-thong idile oba	Nan
+ราชวงศ์พระร่วง	oba	None
+ราชวงศ์อู่ทอง	oba	None
 รูปวรรณยุกต์	fọọmu ara	Nan
 รูปสามเหลี่ยมมุมป้าน	onigbọwọ onigun mẹta	Nan
 รูปสี่เหลี่ยมด้านขนาน	parallelogram	Nan
@@ -3725,16 +3725,16 @@
 ร้องร่วมกับ	kọrin pẹlu	Nan
 ร้องโดย	kọ nipasẹ	Nan
 ร้อยตรี	lieutenant keji	Nan
-ร้านอาหาร	ile-ounjẹ kan	Nan
+ร้านอาหาร	kan	None
 ฤดูกาล	akoko naa	Nan
-ฤดูฝน	ti ojo	Nan
+ฤดูฝน	ojo	None
 ฤดูร้อน	akoko gbona	Nan
 ล	awọn	Nan
 ลงวันที่	ti ọjọ	Nan
 ลพบุรี	lop buri	Nan
 ลักษณะภูมิอากาศ	afefe	Nan
 ลักษณะทางกายภาพ	awọn abuda ti ara	Nan
-ลักษณะทั่วไป	awọn abuda gbogbogbo	Nan
+ลักษณะทั่วไป	gbogbogbo	None
 ลักษณะ	wo	Nan
 ละติจูด	latitude	Nan
 ละครโทรทัศน์	ọṣẹ opera	Nan
@@ -3764,7 +3764,7 @@
 รายชื่ออธิการบดี	atokọ awọn ọffisi	Nan
 รายชื่อเพลง	atokọ awọn orin	Nan
 รายนามรองอธิการประจำวิทยาเขต	orukọ atokọ ti awọn alakoso igbimọ lori ogba	Nan
-รายนามอธิการบดี	atokọ ti aare	Nan
+รายนามอธิการบดี	aare	None
 รายพระนามพระมหากษัตริย์ไทย	atokọ ti awọn ọba thai	Nan
 รายะนาค	raya nak	Nan
 รุ่งเพชร	rung petch	Nan
@@ -3790,15 +3790,15 @@
 มีนวิทยา	ẹ̀kọ́	None
 มีนายกรัฐมนตรี	ni nomba iranse	Nan
 มีประวัติศาสตร์ยาวนาน	ni itan gigun	Nan
-มีพรมแดนทางทิศใต้จรดกับอ่าวไทย	gbigbe si guusu nipasẹ gulf ti thailand	Nan
+มีพรมแดนทางทิศใต้จรดกับอ่าวไทย	guusu	None
 มีภูเขาล้อมรอบอยู่	ti yika nipasẹ awọn oke-nla	Nan
 มีลักษณะดังนี้	ni awọn abuda wọnyi	Nan
-มีลักษณะภูมิประเทศคล้ายชามหรืออ่าง	ni awọn ẹya bii ekan tabi agbada	Nan
+มีลักษณะภูมิประเทศคล้ายชามหรืออ่าง	tabi	None
 มีลาภ	ni ọrọ	Nan
 มีล่า	ni sode	Nan
-มีสูตรการคำนวณหาจำนวนฟัน	agbekalẹ kan wa lati ṣe iṣiro nọmba eyin.	Nan
+มีสูตรการคำนวณหาจำนวนฟัน	kan	None
 มีอยู่	wa tẹlẹ	Nan
-มีอุณหภูมิเฉลี่ย	iwọn otutu	Nan
+มีอุณหภูมิเฉลี่ย	otutu	None
 มีอุทยานแห่งชาติสำคัญหลายแห่ง	ọpọlọpọ awọn itura orilẹ-ede wa ti o ṣe pataki.	Nan
 มีเดีย	media	Nan
 มีโคลซีน	pẹlu cole scene	Nan
@@ -3819,14 +3819,14 @@
 มโนราห์	manohra	Nan
 ยอดเขาสูงที่สุดของกัมพูชาคือ	tente oke giga ti kambodia jẹ	Nan
 มีทั้งสิ้น	gbogbo	Nan
-มีด	ọbẹ kan	Nan
+มีด	kan	None
 มาเลเซีย	malaysia	None
 มาเลเซียตะวันตก	iwọ oorun iwọ-oorun	Nan
 มิจิรุ	mikhiru	Nan
 มิตร	ore	Nan
 มิตรชัย	mitchai	Nan
 มิตรเพชรา	ore	Nan
-มิถุนายน	oṣu karun	Nan
+มิถุนายน	karun	None
 มินต์	mint	Nan
 มิลจิ	milji	Nan
 มิลตัน	milton	Nan
@@ -3839,11 +3839,11 @@
 มิวสิกวีดีโอ	fidio orin	Nan
 มีชื่อเล่นว่า	lórúkọ	Nan
 มีชื่อว่า	ti o lorukọ	Nan
-มีฉายาว่า	pẹlu oruko apeso naa	Nan
-มีจำนวน	ni nomba kan	Nan
+มีฉายาว่า	oruko	None
+มีจำนวน	kan	None
 มีความหมายว่า	itumo	None
-มีความยาว	ni ipari kan	Nan
-มีดาบฟันวิญญาณ	pẹlu idà ẹmi kan	Nan
+มีความยาว	kan	None
+มีดาบฟันวิญญาณ	kan	None
 มีข้อความว่า	ti yàn	Nan
 มิโร	miro	Nan
 มิเตอร์	mita	Nan
@@ -3857,7 +3857,7 @@
 ยาขับปัสสาวะ	diuretic	Nan
 ยูโรเพียม	europium	Nan
 ยูไนเต็ด	orilẹ amẹrika	Nan
-ย่านตาขาว	yan khao	Nan
+ย่านตาขาว	yan	None
 รณชัย	ronnachai	Nan
 รณภพ	aye	Nan
 รณฤทธิ์	ogun	None
@@ -3867,7 +3867,7 @@
 รถลาก	rickshaw	Nan
 รถโดยสารประจำทาง	bosi	Nan
 รถโดยสารประจำทางสาย	laini laini	Nan
-รถไฟฟ้าชานเมืองสายสีแดงอ่อน	agbegbe ina pupa	Nan
+รถไฟฟ้าชานเมืองสายสีแดงอ่อน	pupa	None
 รถไฟฟ้ามหานคร	mrt	Nan
 รฟม	r.o.	Nan
 รวดเร็ว	yara	Nan
@@ -3906,14 +3906,14 @@
 ยาง	roba	Nan
 ยาปฏิชีวนะ	awọn ajẹsara ara	Nan
 พลอสนธิ	idapọ polson	Nan
-ยุคกลาง	ojo ori ti o wa larin	Nan
+ยุคกลาง	ori	None
 ยุคที่	igbala	Nan
 ยู	u	Nan
 ยุ้ย	aggeṣeju	Nan
 ยุวธิดา	ọmọbinrin ọdọ	Nan
-ยุทธนาวี	ogun ti ọgagun	Nan
-ยุคใหม่	odun tuntun	Nan
-ยุคโลหะ	irin ori	Nan
+ยุทธนาวี	ogun	None
+ยุคใหม่	tuntun	None
+ยุคโลหะ	ori	None
 ยุคก่อนประวัติศาสตร์	akoko iṣaaju	Nan
 ยุคโบราณ	igba atijọ	Nan
 ยุคเรเนสซองส์	akoko renaissance	Nan
@@ -3925,7 +3925,7 @@
 ยุคเฮอัง	heian akoko	Nan
 ธรรมเมกขสถูป	dharma makk stupa	Nan
 พลอย	okuta iyebiye	Nan
-พลทหาร	ọmọ ogun	Nan
+พลทหาร	ogun	None
 บริเวณรอบทะเลสาบเขมร	ni ayika khmer lake	Nan
 บริเวณเขตภูเขาทางภาคเหนือ	ekun mountain ni ariwa	Nan
 บรูไน	brunei	Nan
@@ -3947,14 +3947,14 @@
 บาคุกันธาตุไฟ	ẹya ina bakugan	Nan
 บาคคัส	bacchus	Nan
 บัวใหญ่	bua yai	Nan
-บัวเชด	ododo lotus	Nan
+บัวเชด	ododo	None
 บัวลอย	bualoy	Nan
-บริหารธุรกิจ	alakoso iseowo	Nan
+บริหารธุรกิจ	iseowo	None
 บัว	lotus	Nan
 บันทึกความทรงจำ	akọsilẹ	Nan
-บันทึกการสร้างโลก	igbasilẹ agbaye	Nan
+บันทึกการสร้างโลก	agbaye	None
 บันทึก	igbasilẹ	Nan
-บัณฑิตวิทยาลัยร่วมด้านพลังงานและสิ่งแวดล้อม	ile-iwe ile-ẹkọ giga ti agbara ati ayika	Nan
+บัณฑิตวิทยาลัยร่วมด้านพลังงานและสิ่งแวดล้อม	agbara	None
 บัณฑิต	gboye gboye	Nan
 บังไค	bangkai	Nan
 บันเทิง	ere idaraya	Nan
@@ -3964,16 +3964,16 @@
 นี่คือ	eyi ni	Nan
 นุช	ayọ	Nan
 นเรศ	awọn eegun	Nan
-นโยบายทางการทูตของจีน	eto imulo-ilu ti ilu china	Nan
+นโยบายทางการทูตของจีน	china	None
 น็อกซ์	knox	Nan
 น้องครีม	ipara nong	Nan
 น้องชาย	arakunrin aburo	Nan
 น้อยมาก	pupọ diẹ	Nan
 น้ำ	omi	None
 น้ำค้าง	ìri	Nan
-น้ำดื่ม	omi mimu	Nan
+น้ำดื่ม	omi	None
 น้ำท่วม	ìkún-omi	Nan
-น้ำฝน	omi ojo	Nan
+น้ำฝน	ojo	None
 น้ำพอง	ti onigbọwọ	Nan
 น้ำมะนาว	oje lẹmọọn	Nan
 น้ำมัน	epo	Nan
@@ -3989,17 +3989,17 @@
 บทสวดสรภัญญะที่ขึ้นต้นด้วยธรรมมะคือ	awọn ẹkun sorapanya ti o bẹrẹ pẹlu dharma jẹ	Nan
 บทสวดบาลีที่ขึ้นต้นด้วยอรหัง	pali nkorin ti o bẹrẹ pẹlu arhat	Nan
 บทบาททางการเมือง	oselu ipa	Nan
-บทนมัสการนอบน้อมบูชาพระพุทธเจ้า	awọn ori ti ijosin onírẹlẹ ti buddha oluwa	Nan
+บทนมัสการนอบน้อมบูชาพระพุทธเจ้า	ijosin	None
 น้ำหนัก	iwuwo	Nan
-น้ำยืน	omi duro	Nan
-บนบก	lori ilẹ	Nan
+น้ำยืน	omi	None
+บนบก	ilẹ	None
 นีโอ	neo	Nan
 บางกอกน้อย	bangkok noi	Nan
-บางซื่อ	bang sue	Nan
+บางซื่อ	bang	None
 บ้านฉาง	wiwọle ban	Nan
 บ้านปราสาท	ile kasulu	Nan
 บ้านผือ	wiwọle ban phue	Nan
-บ้านฝันดอตคอม	baan fan com	Nan
+บ้านฝันดอตคอม	fan	None
 บ้านลาด	wiwọle ban	Nan
 บ้านเขว้า	ile	Nan
 บ้านแพ้ว	ile	Nan
@@ -4019,7 +4019,7 @@
 ประชากรประมาณ	iye olugbe ilu	Nan
 ประจำปี	lododun	Nan
 ประจักษ์	farahan	Nan
-บ่อทอง	goolu omi ikudu	Nan
+บ่อทอง	omi	None
 ประจวบคีรีขันธ์	prachuap khiri khan	Nan
 ประกาศเป็นป่าสงวน	ti ṣalaye bi ifiṣura igbo	Nan
 ประกาศิต	aṣẹ	Nan
@@ -4031,13 +4031,13 @@
 บางครั้ง	nigba miiran	Nan
 บูมเมอแรง	boomerang	Nan
 บุตร	ọmọ	None
-บางปะกอก	bang pakok	Nan
-บางปะหัน	bang pahan	Nan
+บางปะกอก	bang	None
+บางปะหัน	bang	None
 บางพลัด	bangplad	Nan
 บางส่วน	diẹ ninu	Nan
 บางเขน	bangkhen	Nan
 บางแสน	bangsaen	Nan
-บางใหญ่	bang yai	Nan
+บางใหญ่	bang	None
 บานไม่รู้โรย	amaranth	Nan
 บารอมิเตอร์	barometer	Nan
 บารัก	baraki	Nan
@@ -4068,7 +4068,7 @@
 นิเทศศาสตรบัณฑิต	apon ti arts	Nan
 นอกจากนี้แล้ว	yato si	Nan
 นอกเหนือจากนี้	miiran ju	Nan
-นอนไม่หลับ	ko le sun	Nan
+นอนไม่หลับ	sun	None
 นอร์ส	norse	Nan
 นะงะซะกิ	nagasaki	Nan
 นะโม	namo	Nan
@@ -4093,8 +4093,8 @@
 นักเศรษฐศาสตร์	oludokoowo	Nan
 นักเขียนการ์ตูน	ese aworan	Nan
 นักเขียน	onkọwe	Nan
-นักสู้อันดับ	onija ti o wa ni ogun	Nan
-นักศึกษาวิชาทหาร	ọmọ ile-iwe ologun	Nan
+นักสู้อันดับ	ogun	None
+นักศึกษาวิชาทหาร	ọmọ	None
 นักวิทยาศาสตร์	onimọjinlẹ naa	Nan
 นักวิชาการ	ọmọwe	Nan
 นักเต้นนำ	olórin adari	Nan
@@ -4107,7 +4107,7 @@
 ธีม	akori naa	Nan
 ธีระ	thira	Nan
 ธีรเดช	thiradej	Nan
-ธุรกิจ	iṣowo kan	Nan
+ธุรกิจ	kan	None
 ธุรกิจการบิน	iṣowo agbari	Nan
 นก	eye	Nan
 นกกระจอก	onirẹlẹ	Nan
@@ -4115,13 +4115,13 @@
 นกกระทุง	ẹyẹ pelikan	Nan
 นกกระเต็น	kingfisher	Nan
 นกขมิ้น	canary	Nan
-นกน้อย	eye kekere	Nan
+นกน้อย	kekere	None
 นกแก้ว	ododo	None
 นกแอร์	afẹfẹ afẹfẹ	Nan
 นวนิยาย	aramada	Nan
 นราธิวาส	narathiwat	Nan
 นราธิป	narathip	Nan
-นร	ọmọ ile-iwe	Nan
+นร	ọmọ	None
 นพดล	nopadon	Nan
 นพจินดา	noppachinda	Nan
 นวล	ehin-erin	Nan
@@ -4131,7 +4131,7 @@
 นครราชสีมา	nakhon ratchasima	Nan
 นครพนม	nakhon phanom	Nan
 นครปฐม	nakhon pathom	Nan
-นครนิวยอร์ก	ilu york tuntun	Nan
+นครนิวยอร์ก	tuntun	None
 นที	agbofinro	Nan
 นิ่ม	asọ	Nan
 นันทเสน	nanthasen	Nan
@@ -4173,7 +4173,7 @@
 นายยงยุทธ	mr yongyut	Nan
 นัยนา	oju	Nan
 นั่นคือ	ti o jẹ	Nan
-นั่นเอง	ní bẹ	Nan
+นั่นเอง	ní	None
 นั้น	iyẹn	Nan
 นา	aaye	Nan
 นากา	naga	Nan
@@ -4211,13 +4211,13 @@
 พงษ์พานิช	pongpanich	Nan
 พงษ์เพชร	phong phet	Nan
 พงษ์ไพบูลย์	phongpaibun	Nan
-พจนานุกรมออนไลน์	iwe itumo ayelujara	Nan
+พจนานุกรมออนไลน์	itumo	None
 พญา	agọ	Nan
 พญามังราย	phaya mangrai	Nan
 พตท	agbegbe	Nan
 พธม	o.	Nan
 พนมไพร	phanom phrai	Nan
-พบหลักฐานของมนุษย์ซึ่งมีอายุเก่าแก่ที่สุดถึงห้าแสนปี	ri ẹri ti awọn eniyan, akọbi ti o to ẹgbẹrun marun ẹgbẹrun ọdun.	Nan
+พบหลักฐานของมนุษย์ซึ่งมีอายุเก่าแก่ที่สุดถึงห้าแสนปี	to	None
 พยัญชนะ	aimọkan	Nan
 พยัญชนะสะกดควบกล้ำ	awọn ariyanjiyan	Nan
 พยางค์	ọṣẹ-ohun	Nan
@@ -4231,7 +4231,7 @@
 พรรคประชาธรรม	ẹgbẹ prachatham	Nan
 พ	t	Nan
 พรรคธรรมาธิปัตย์	ẹgbẹ thammathipat	Nan
-พรรคการเมืองใหม่	ẹgbẹ oloselu tuntun	Nan
+พรรคการเมืองใหม่	tuntun	None
 พรบ	ìṣe	Nan
 พรนารายณ์	narai	Nan
 พร	ere onihoho	Nan
@@ -4240,13 +4240,13 @@
 พรรคชาติไทย	chart thai party	Nan
 พระคาถาชินบัญชร	isinku chinnabanchon	Nan
 ฝ้าย	owu	Nan
-ฝ่าเท้า	sole ti ẹsẹ	Nan
+ฝ่าเท้า	ẹsẹ	None
 ผิวสี	awọ awọ	Nan
 ผี	iwin	Nan
-ผีน่ารัก	iwin to wuyi	Nan
+ผีน่ารัก	to	None
 ผู้กำกับ	oludari	Nan
 ผู้จัดการ	oluṣakoso	Nan
-ผู้จัดการทีม	oluṣakoso egbe	Nan
+ผู้จัดการทีม	egbe	None
 ผู้ชนะ	winner	Nan
 ผู้ชาย	ọkunrin	Nan
 ผู้ช่วยศาสตราจารย์	iranlọwọ ojogbon	Nan
@@ -4256,7 +4256,7 @@
 ผู้ฝึกสอน	olukọni	Nan
 ผู้พิทักษ์แห่งพิรุณ	olutọju ipọnju	Nan
 ผู้พิทักษ์แห่งอรุณ	olutọju ti ọmọde	Nan
-ผู้ว่าการธนาคารแห่งประเทศไทย	gomina ti bank of thailand	Nan
+ผู้ว่าการธนาคารแห่งประเทศไทย	gomina	None
 ผู้ว่าราชการจังหวัด	gomina	None
 ฝ่ายบริหาร	isakoso	Nan
 ฝ่ามือ	ọpẹ	Nan
@@ -4281,8 +4281,8 @@
 พระยาไกรภักดีศรีนครลำดวน	phraya kraiphakdi si nakorn lamduan	Nan
 พระราชกรณียกิจ	awọn iṣẹ ọba	Nan
 พระราชลัญจกรประจำพระองค์	ami ọba	Nan
-พระราชวงศ์	ọmọ ọba	Nan
-พระราชวรวงศ์เธอ	ọmọ ọba	Nan
+พระราชวงศ์	ọmọ	None
+พระราชวรวงศ์เธอ	ọmọ	None
 พระราชวังดุสิต	aafin dusit	Nan
 พระราชวังเดิม	aafin atilẹba	Nan
 พระลอ	phra lor	Nan
@@ -4293,9 +4293,9 @@
 พระอัษฎามหาเจดีย์	phra asada maha chedi	Nan
 พระอิศวร	shiva	Nan
 พระอิสริยยศ	akọle royal	Nan
-พลตำรวจเอก	olopa gbogbogbo	Nan
-พลตรีหญิง	obirin air force	Nan
-พลตรี	agbara afẹfẹ	Nan
+พลตำรวจเอก	gbogbogbo	None
+พลตรีหญิง	force	None
+พลตรี	agbara	None
 พฤกษศาสตร์	botany	Nan
 พริกไทย	ata	Nan
 พริกหวาน	ata ata	Nan
@@ -4303,8 +4303,8 @@
 พริกหยวก	ata ata	Nan
 พรานกระต่าย	olutapa	Nan
 พระโคตมพุทธเจ้า	buddha amulet	Nan
-พระเจ้าหลานเธอ	ọlọrun arakunrin rẹ	Nan
-พระเจ้าลูกยาเธอ	ọlọrun ọmọ	Nan
+พระเจ้าหลานเธอ	rẹ	None
+พระเจ้าลูกยาเธอ	ọmọ	None
 พระเกียรติยศ	kj iyi	Nan
 พระอุโบสถ	buddhist tẹmpili	Nan
 พราหมณ์	brahmin	Nan
@@ -4314,12 +4314,12 @@
 พระตำหนัก	aafin	Nan
 พระที่นั่งจักรพรรดิพิมาน	emperor phiman palace	Nan
 พระที่นั่งดุสิตมหาปราสาท	dusit maha prasat itẹ ipade	Nan
-พระที่นั่งบรมพิมาน	boromphiman igbesoke	Nan
+พระที่นั่งบรมพิมาน	igbesoke	None
 พระธรรมปิฎก	dhammapitaka	Nan
 พระธิดา	ọmọbinrin	Nan
 พระนคร	olu	Nan
 พระนาม	orukọ	Nan
-พระนามต้นราชสกุล	oruko akoko	Nan
+พระนามต้นราชสกุล	oruko	None
 พระนารายณ์	vishnu	Nan
 พระบรมธาตุไชยา	awọn ẹda ti buddha	Nan
 พระบรมราชชนก	patronage royal	Nan
@@ -4330,7 +4330,7 @@
 พระบาทสมเด็จพระปรเมนทรมหาอานันทมหิดล	kabiyesi ọba bhumibol adulyadej maha anandamahidol	Nan
 พระมงกุฏเกล้าเจ้าอยู่หัว	ọba rama iv	Nan
 พระพุทธศาสนา	buddhism	Nan
-พระพุทธบาท	ẹsẹ buddha	Nan
+พระพุทธบาท	ẹsẹ	None
 พระพุทธชินราช	phra buddha chinnarat	Nan
 พระพันวัสสาอัยยิกาเจ้า	ẹgbẹrun buddha	Nan
 พระพันปีหลวง	millennium luang	Nan
@@ -4340,10 +4340,10 @@
 พระปกเกล้าเจ้าอยู่หัว	ọba prajadhipok	Nan
 พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จฯ	kabiyesi ọba	Nan
 พระบาทสมเด็จพระเจ้าอยู่หัวอานันทมหิดล	ọba ananda mahidol	Nan
-พระบาทสมเด็จพระเจ้าอยู่หัวภูมิพลอดุลยเดชทรงพระกรุณาโปรดเกล้าฯ	kabiyesi oba bhumibol adulyadej fi inu rere dun	Nan
+พระบาทสมเด็จพระเจ้าอยู่หัวภูมิพลอดุลยเดชทรงพระกรุณาโปรดเกล้าฯ	dun	None
 พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลก	phra buddha phra yot fa, chulalongkorn	Nan
 พระปรางค์สามยอด	prang sam yot	Nan
-ผลสำรวจ	awọn abajade iwadi	Nan
+ผลสำรวจ	iwadi	None
 ผลรวม	akopọ	Nan
 ผลผลิตพลอยได้	awọn ọja	Nan
 ประเทศเปรู	perú	Nan
@@ -4359,8 +4359,8 @@
 ประโยค	gbolohun ọrọ	Nan
 ปรัชญา	imoye	Nan
 ปรัชญาตะวันตก	imoye oorun	Nan
-ปรากฏการณ์โลกร้อน	afikun aropin iwọn gbigbona tabi otutu	Nan
-ปรากฏตัวตอนแรกในตอน	akọkọ han ninu iṣẹlẹ kan	Nan
+ปรากฏการณ์โลกร้อน	otutu	None
+ปรากฏตัวตอนแรกในตอน	kan	None
 ปรากฏตัวในตอน	han ni	Nan
 ปราจีนบุรี	prachin buri	Nan
 ปลาปอมปาดัวร์	pompadour	Nan
@@ -4389,7 +4389,7 @@
 ประธานาธิบดี	adari	Nan
 ประมาณ	nipa	Nan
 ประมาณคศ	nipa	Nan
-ประมาณปี	o fẹrẹ to ọdun kan	Nan
+ประมาณปี	kan	None
 ประยงค์	prayong	Nan
 ประวัติศาสตร์	itan	Nan
 ประวัติศาสตร์สเปน	itan-ede spani	Nan
@@ -4427,7 +4427,7 @@
 ปืนพกกึ่งอัตโนมัติ	ologbele-laifọwọyi ibon	Nan
 ปืนใหญ่	kanonu	Nan
 ปืนใหญ่กลางกระสุนวิถีโค้ง	canen alabọde alapin koko	Nan
-ปืนไร้แรงสะท้อนถอยหลัง	the recil ibon	Nan
+ปืนไร้แรงสะท้อนถอยหลัง	the	None
 ปุณณกันต์	punnakan	Nan
 ปุตราจายา	putrajaya	Nan
 ปุ๋ย	ajile	Nan
@@ -4454,7 +4454,7 @@
 ปัน	pin	Nan
 ปัญโญภาส	panopas	Nan
 ปัญจาบ	punjab	Nan
-ปัจจุบันเลิกเขียนแล้ว	lọwọlọwọ ko kikọ	Nan
+ปัจจุบันเลิกเขียนแล้ว	ko	None
 ปัจจุบันมีที่นั่งอยู่ในสภาผู้แทนราษฎร	lọwọlọwọ awọn ijoko ni ile awọn aṣoju	Nan
 ปัจจุบันประเทศไทยมีภาพยนตร์ที่มุ่งสู่ตลาดโลก	lasiko yi, thailand ni awọn fiimu ti o lọ soke si ọja agbaye.	Nan
 ปั้น	m	Nan
@@ -4468,11 +4468,11 @@
 ปัจจุบัน	lọwọlọwọ	Nan
 พลศักดิ์	polsak	Nan
 ปั๊บ	lojiji	Nan
-ปากดี	ẹnu rere	Nan
+ปากดี	rere	None
 ปิปเปอราซิลลิน	piill acillin	Nan
 ปาเลสไตน์	palestine	Nan
 ปาสกาล	pasita	Nan
-ปาร์ค	agba duro	Nan
+ปาร์ค	agba	None
 ปารีส	paris	Nan
 ปาริชาต	parichat	Nan
 ปาก	ẹnu	Nan

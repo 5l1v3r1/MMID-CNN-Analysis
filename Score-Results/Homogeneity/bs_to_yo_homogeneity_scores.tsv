@@ -55,7 +55,7 @@ pšenica	alikama	Nan
 q	q	Nan
 putovanje	irin-ajo	Nan
 putovanja	irin-ajo	Nan
-putnici	awọn arinrin ajo	Nan
+putnici	ajo	None
 putne	irin-ajo	Nan
 pumpe	bẹtiroli	Nan
 pun	pun	Nan
@@ -95,7 +95,7 @@ protestanti	alatẹnumọ	Nan
 prosječne	aropin	Nan
 prosječna	aropin	Nan
 prosjeku	aropin	Nan
-propisima	awọn ilana	Nan
+propisima	ilana	None
 prometu	ijabọ	Nan
 promijenila	yipada	None
 promijenio	yipada	None
@@ -126,7 +126,7 @@ proza	prose	Nan
 prozi	prose	Nan
 prozor	ferese	Nan
 proći	rekoja	Nan
-prođe	gba koja	Nan
+prođe	gba	None
 prošao	koja	Nan
 proširenja	awọn amugbooro	Nan
 proširenje	imugboroosi	Nan
@@ -145,7 +145,7 @@ protjerani	tii jade	Nan
 protiv	lodi si	Nan
 protok	ṣiṣan	Nan
 protokola	ilana	None
-protokoli	awọn ilana	Nan
+protokoli	ilana	None
 proučava	awọn ijinlẹ	Nan
 proučavaju	iwadi	None
 proučavanja	awọn ijinlẹ	Nan
@@ -201,14 +201,14 @@ razuma	ti idi	Nan
 razumijevanja	oye	Nan
 razumijevanje	oye	Nan
 razumjeti	lati ni oye	Nan
-razvija	ni idagbasoke	Nan
+razvija	idagbasoke	None
 razvijaju	dagbasoke	None
-razvijala	ni idagbasoke	Nan
-razvijao	ni idagbasoke	Nan
+razvijala	idagbasoke	None
+razvijao	idagbasoke	None
 razvijati	dagbasoke	None
 razvije	ndagba	Nan
-razvijen	ni idagbasoke	Nan
-razvijena	ni idagbasoke	Nan
+razvijen	idagbasoke	None
+razvijena	idagbasoke	None
 razne	oniruru	Nan
 razna	oniruru	Nan
 razmnožavanje	atunse	None
@@ -241,7 +241,7 @@ radnički	ṣiṣẹ	Nan
 radnja	ìṣe	Nan
 radnje	awọn iṣẹ	Nan
 radnju	ìṣe	Nan
-rado	fi ayọ	Nan
+rado	fi	None
 radom	iṣẹ	Nan
 radova	ṣiṣẹ	Nan
 radove	ṣiṣẹ	Nan
@@ -309,9 +309,9 @@ ranjen	farapa	Nan
 ranko	ranko	Nan
 rano	kutukutu	Nan
 rang	ipo	None
-razvijene	ni idagbasoke	Nan
+razvijene	idagbasoke	None
 prometa	ijabọ	Nan
-proljeće	orisun omi	Nan
+proljeće	omi	None
 priključuje	sopọ	Nan
 prilika	aye	Nan
 prilikama	awọn aye	Nan
@@ -322,7 +322,7 @@ prilično	lẹwa	Nan
 prilog	asomọ	Nan
 prilozi	awọn asomọ	Nan
 prima	prima	Nan
-primaju	wọn gba	Nan
+primaju	gba	None
 primarna	jc	Nan
 primarne	jc	Nan
 primarni	jc	Nan
@@ -345,7 +345,7 @@ prikaz	ifihan	Nan
 prikaza	ifihan	Nan
 prikazan	han	Nan
 prikazana	han	Nan
-prikazati	lati fihan	Nan
+prikazati	fihan	None
 prikazivanja	fifihan	None
 prijevod	translation	Nan
 prijateljstva	ọrẹ	Nan
@@ -363,13 +363,13 @@ pripadala	jẹ ti	Nan
 pripadali	jẹ ti	Nan
 pripadalo	jẹ ti	Nan
 pripadao	jẹ ti	Nan
-pripadnici	ọmọ ẹgbẹ	Nan
-pripadnik	ọmọ ẹgbẹ	Nan
-pripadnika	ọmọ ẹgbẹ	Nan
+pripadnici	ọmọ	None
+pripadnik	ọmọ	None
+pripadnika	ọmọ	None
 princip	opo	Nan
 princeze	ọmọ-alade	Nan
 princeza	ọmọ-alade	Nan
-princ	ọmọ alade	Nan
+princ	ọmọ	None
 primjena	ohun elo	Nan
 primjene	ohun elo	Nan
 primjeni	waye	Nan
@@ -380,7 +380,7 @@ primjer	apẹẹrẹ	Nan
 primirje	alaafia	None
 primjera	awọn apẹẹrẹ	Nan
 primjeri	awọn apẹẹrẹ	Nan
-primjerice	fun apere	Nan
+primjerice	fun	None
 primjeru	apẹẹrẹ	Nan
 primjećuje	awọn akọsilẹ	Nan
 primorje	etikun	Nan
@@ -415,7 +415,7 @@ prema	gẹgẹ bi	Nan
 premda	biotilejepe	Nan
 premijer	adari igbimọ ijọba	Nan
 premijera	adari igbimọ ijọba	Nan
-preminuo	kọjá lọ	Nan
+preminuo	kọjá	None
 pretraživači	awọn ẹrọ iṣawari	Nan
 prenos	gbigbe	Nan
 prenose	gbigbe	Nan
@@ -428,7 +428,7 @@ prepoznatljiv	mọ	Nan
 prenosa	gbigbe	Nan
 prijatelja	ọrẹ	Nan
 pretvara	awọn iyipada	Nan
-preuzeo	gba gbogbo e	Nan
+preuzeo	gba	None
 pridružile	darapo	None
 pridružio	darapo	None
 pridružuje	parapọ	Nan
@@ -441,21 +441,21 @@ prihvatanje	gbigba	Nan
 prihvati	gba	None
 prihvatili	gba	None
 prihvatio	gba	None
-prihvatiti	lati gba	Nan
+prihvatiti	gba	None
 prihvaćen	gba	None
 prihvaćena	gba	None
 pridjev	ajẹtífù	Nan
 približno	sunmọ	Nan
 približava	n approaching	Nan
 pri	ni	Nan
-preuzima	gba lori	Nan
+preuzima	gba	None
 preuzimanja	awọn gbigba lati ayelujara	Nan
 prevashodno	nipataki	Nan
 previše	pupo ju	Nan
 prevladava	bori	Nan
 prevlast	eleda	Nan
 prevodi	ogbufọ	Nan
-pretvaraju	wọn yipada	Nan
+pretvaraju	yipada	None
 prezentacija	igbejade	Nan
 preći	láti sọdá	Nan
 prečnika	opin	Nan
@@ -463,8 +463,8 @@ pređe	yarn	Nan
 prešao	rekọja	Nan
 prešla	rekọja	Nan
 prešli	rekọja	Nan
-preživjeli	ye awon to ye	Nan
-prezime	oruko idile	Nan
+preživjeli	to	None
+prezime	oruko	None
 pripadnosti	isọdọmọ	Nan
 pripaja	attaches	Nan
 pripisuje	awọn eroja	Nan
@@ -489,9 +489,9 @@ producent	aṣelọpọ	Nan
 prodati	lati ta	Nan
 proces	ilana	None
 procesa	ilana	None
-procese	awọn ilana	Nan
-procesi	awọn ilana	Nan
-procesima	awọn ilana	Nan
+procese	ilana	None
+procesi	ilana	None
+procesima	ilana	None
 procesor	ero isise	Nan
 procesora	ero isise	Nan
 programer	olutojueni	Nan
@@ -517,11 +517,11 @@ projekt	ise agbese	Nan
 projekta	ise agbese	Nan
 projekti	awọn iṣẹ	Nan
 projektu	ise agbese	Nan
-prokurativama	awọn ilana	Nan
-prolaz	fi aye	Nan
+prokurativama	ilana	None
+prolaz	fi	None
 prolaze	rekoja	Nan
-prolazi	gba koja	Nan
-proljeća	orisun omi	Nan
+prolazi	gba	None
+proljeća	omi	None
 proizvodnju	gbóògì	Nan
 proizvodnjom	gbóògì	Nan
 proizvodnji	gbóògì	Nan
@@ -563,7 +563,7 @@ pritisku	titẹ	Nan
 pritoke	owo-ori	Nan
 pristupa	iraye si	Nan
 pristup	iraye si	Nan
-prisilio	fi agbara mu	Nan
+prisilio	agbara	None
 prirodu	iseda	Nan
 pripovijetke	awọn itan	Nan
 priprema	igbaradi	Nan
@@ -587,12 +587,12 @@ privatne	ikọkọ	Nan
 privatni	ikọkọ	Nan
 priznanja	idanimọ	Nan
 priznanje	idanimọ	Nan
-priznao	gba wọle	Nan
+priznao	gba	None
 priznat	mọ	Nan
 priznata	mọ	Nan
-priznati	lati gba	Nan
+priznati	gba	None
 priznavanje	idanimọ	Nan
-priznala	gba wọle	Nan
+priznala	gba	None
 priča	itan	Nan
 priču	itan	Nan
 priština	pristina	Nan
@@ -603,7 +603,7 @@ problem	iṣoro	Nan
 problema	awọn iṣoro	Nan
 priče	awọn itan	Nan
 promet	ijabọ	Nan
-priznaju	wọn gba	Nan
+priznaju	gba	None
 privređivanja	iṣowo	Nan
 privatnih	ikọkọ	Nan
 privatno	ikọkọ	Nan
@@ -620,11 +620,11 @@ privredno	ti ọrọ-aje	Nan
 privrednog	aje	None
 privrednom	aje	None
 privredu	aje	None
-privremeno	fun igba diẹ	Nan
+privremeno	fun	None
 privredni	aje	None
 prelazak	orilede	Nan
-razvijeni	ni idagbasoke	Nan
-razvijeno	ni idagbasoke	Nan
+razvijeni	idagbasoke	None
+razvijeno	idagbasoke	None
 see	wo	Nan
 segmentima	awọn ẹya	Nan
 seid	ran	Nan
@@ -862,7 +862,7 @@ sjedinjenih	isọdọkan	Nan
 sidran	ìdákọ̀ró	Nan
 signal	ifihan	Nan
 signala	ifihan	Nan
-signale	awọn ifihan agbara	Nan
+signale	agbara	None
 sigurni	daju	Nan
 sigurno	o daju	Nan
 sigurnost	aabo	Nan
@@ -908,8 +908,8 @@ sistemom	eto	Nan
 sisari	osin	Nan
 sistemu	eto	Nan
 situacija	ipo	None
-situacijama	awọn ipo	Nan
-situacije	awọn ipo	Nan
+situacijama	ipo	None
+situacije	ipo	None
 situaciji	ipo	None
 situaciju	ipo	None
 sive	grẹy	Nan
@@ -917,7 +917,7 @@ sjedinjene	isọdọkan	Nan
 site	aaye	Nan
 samoa	samoa	Nan
 sisara	mamma	Nan
-sirovina	ogidi nkan	Nan
+sirovina	nkan	None
 sina	ọmọ	None
 sinan	ẹṣẹ	Nan
 sindbad	sindbad	Nan
@@ -926,7 +926,7 @@ singl	ẹyọkan	Nan
 singlovi	awọn ẹlẹgbẹ	Nan
 sinonim	synonym	Nan
 sirovine	awọn ohun elo aise	Nan
-sinova	awọn ọmọ	Nan
+sinova	ọmọ	None
 sinteza	kolaginni	Nan
 sintezu	kolaginni	Nan
 sinus	ẹṣẹ	Nan
@@ -935,7 +935,7 @@ sira	warankasi	Nan
 sirije	síríà	Nan
 sirište	rennet	Nan
 sintaksa	syntax	Nan
-razvijenim	ni idagbasoke	Nan
+razvijenim	idagbasoke	None
 samo	nikan	Nan
 samim	nikan	Nan
 reprezentativac	player bọọlu ti orilẹ-ede	Nan
@@ -946,14 +946,14 @@ republike	olominira	Nan
 republikom	olominira	Nan
 republiku	olominira	Nan
 republičkog	olominira	Nan
-resursa	awọn orisun	Nan
-resurse	awọn orisun	Nan
-resursi	awọn orisun	Nan
-resursima	awọn orisun	Nan
+resursa	orisun	None
+resurse	orisun	None
+resursi	orisun	None
+resursima	orisun	None
 reunion	atunpo	Nan
 revolucija	iyika	Nan
 revolucije	iyika	Nan
-reprezentaciju	egbe ti orilẹ-ede	Nan
+reprezentaciju	egbe	None
 reprezentacije	awọn ẹgbẹ orilẹ-ede	Nan
 reprezentacija	oniduro	Nan
 repa	turnip	Nan
@@ -1012,7 +1012,7 @@ režim	ipo	None
 režiser	oludari	Nan
 riba	ẹja	Nan
 ribe	ẹja	Nan
-reći	lati sọ	Nan
+reći	sọ	None
 riječne	odo	Nan
 reguliše	fiofinsi	Nan
 regionalnim	agbegbe	Nan
@@ -1035,11 +1035,11 @@ računarima	awọn kọmputa	Nan
 računari	awọn kọmputa	Nan
 računara	kọmputa	Nan
 računar	kọmputa	Nan
-razvijenom	ni idagbasoke	Nan
-razvila	ni idagbasoke	Nan
-razvili	ni idagbasoke	Nan
-razvilo	ni idagbasoke	Nan
-razvio	ni idagbasoke	Nan
+razvijenom	idagbasoke	None
+razvila	idagbasoke	None
+razvili	idagbasoke	None
+razvilo	idagbasoke	None
+razvio	idagbasoke	None
 razvitak	idagbasoke	None
 razvitka	idagbasoke	None
 reakcijama	awọn aati	Nan
@@ -1075,14 +1075,14 @@ refleksa	reflex	Nan
 refleks	reflex	Nan
 referendumu	idapada	Nan
 receptor	olugba	Nan
-recimo	jẹ ki a sọ	Nan
+recimo	sọ	None
 red	pupa	None
 reda	paṣẹ	Nan
 redoks	redox	Nan
-redom	ni ọna kan	Nan
-redova	awọn ori ila	Nan
+redom	kan	None
+redova	ori	None
 reakciji	ifura	Nan
-redove	awọn ori ila	Nan
+redove	ori	None
 redovno	nigbagbogbo	Nan
 redu	o dara	Nan
 redukcija	idinku	Nan
@@ -1155,8 +1155,8 @@ sadrži	ni	Nan
 sabor	katidira	Nan
 sabora	sabora	Nan
 sabrana	gbà	Nan
-sad	ni bayi	Nan
-sada	ni bayi	Nan
+sad	bayi	None
+sada	bayi	None
 sadašnja	lọwọlọwọ	Nan
 sadašnje	lọwọlọwọ	Nan
 sabahnamaz	sabahnamaz	Nan
@@ -1174,9 +1174,9 @@ ruda	irin	Nan
 ruci	ọwọ	Nan
 rizvić	rizvic	Nan
 riža	iresi	Nan
-rječica	odo kekere	Nan
-rječice	odo kekere	Nan
-rječnici	iwe itumo	Nan
+rječica	kekere	None
+rječice	kekere	None
+rječnici	itumo	None
 rječnik	iwe itumọ	Nan
 rječnika	iwe itumọ	Nan
 rjeđe	kere nigbagbogbo	Nan
@@ -1215,8 +1215,8 @@ romani	iwe	Nan
 romanu	aramada	Nan
 romeo	romeo	Nan
 romi	róòmù	Nan
-ropstva	oko eru	Nan
-ropstvo	oko eru	Nan
+ropstva	oko	None
+ropstvo	oko	None
 rođen	bi	Nan
 romana	aramada	Nan
 rođena	bi	Nan
@@ -1316,7 +1316,7 @@ partnera	alabaṣepọ	Nan
 partneri	awọn alabaṣiṣẹpọ	Nan
 patnje	ijiya	Nan
 patrijarh	babalawo	Nan
-parteru	ibi ilẹ	Nan
+parteru	ilẹ	None
 patrijarha	babalawo	Nan
 pauk	alantakun	Nan
 paul	poul	Nan
@@ -1331,8 +1331,8 @@ pali	pali	Nan
 pale	bia	Nan
 ovim	pẹlu eyi	Nan
 ovisi	gbarale	Nan
-ovisno	da lori	Nan
-ovlasti	awọn agbara	Nan
+ovisno	da	None
+ovlasti	agbara	None
 ovo	eyi	Nan
 ovog	ti eyi	Nan
 ovoga	ti eyi	Nan
@@ -1354,22 +1354,22 @@ out	jade	Nan
 ova	eyi	Nan
 ovaca	agutan	Nan
 ovaj	eyi	Nan
-ovakav	bi eleyi	Nan
+ovakav	eleyi	None
 ozren	ozren	Nan
-ovako	bi eleyi	Nan
-ovakve	bi eleyi	Nan
-ovakvi	bi eleyi	Nan
-ovakvim	bi eleyi	Nan
-ovakvo	bi eleyi	Nan
-ovakvog	bi eleyi	Nan
+ovako	eleyi	None
+ovakve	eleyi	None
+ovakvi	eleyi	None
+ovakvim	eleyi	None
+ovakvo	eleyi	None
+ovakvog	eleyi	None
 ovde	nibi	Nan
 ovdje	nibi	Nan
-ovakva	bi eleyi	Nan
+ovakva	eleyi	None
 palestine	palestine	Nan
 očekivalo	o ti ṣe yẹ	Nan
 oči	oju	Nan
 padavine	ojoriro	Nan
-padne	yoo subu	Nan
+padne	yoo	None
 padom	ṣubu	Nan
 padu	ṣubu	Nan
 pak	pak	Nan
@@ -1384,7 +1384,7 @@ palače	ààfin	Nan
 palaču	ààfin	Nan
 paldum	paldum	Nan
 padavina	ojoriro	Nan
-padaju	wọn ṣubu	Nan
+padaju	wọn	None
 pada	daradara bẹẹni	Nan
 pad	paadi	Nan
 očiju	oju	Nan
@@ -1397,8 +1397,8 @@ oštećenja	bibajẹ	Nan
 očekuje	nireti	Nan
 oštra	didasilẹ	Nan
 oštro	ndinku	Nan
-oženio	ti ni iyawo	Nan
-oženjen	ti ni iyawo	Nan
+oženio	iyawo	None
+oženjen	iyawo	None
 p	p	Nan
 pa	pa	Nan
 pacijenata	alaisan	Nan
@@ -1480,7 +1480,7 @@ plina	gaasi	Nan
 plod	eso	Nan
 ploda	eso	Nan
 plodne	irọyin	Nan
-plodno	so eso	Nan
+plodno	so	None
 plemstva	ọlaju	Nan
 pjeva	kọrin	Nan
 pjesnika	ewi	Nan
@@ -1501,7 +1501,7 @@ pingvini	penguins	Nan
 piramida	jibiti	Nan
 piramide	jibiti	Nan
 pećina	ihò	Nan
-peći	awọn ileru	Nan
+peći	ileru	None
 petén	petén	Nan
 petrović	petrovic	Nan
 peru	peru	Nan
@@ -1530,7 +1530,7 @@ pitanjima	awọn ọran	Nan
 pitanju	ibeere	Nan
 pića	ohun mimu	Nan
 piše	o kọ	Nan
-pišu	mo ko	Nan
+pišu	ko	None
 pitagora	pythagoras	Nan
 pjege	awọn ami didan	Nan
 pjesma	orin	Nan
@@ -1564,8 +1564,8 @@ pisao	kọ	Nan
 pobjedom	isegun	Nan
 otvoreni	ṣii	Nan
 otvorena	ṣii	Nan
-opreme	ohun èlò	Nan
-opremu	ohun èlò	Nan
+opreme	èlò	None
+opremu	èlò	None
 opsada	dotì	Nan
 opsade	dotì	Nan
 opstanak	iwalaaye	Nan
@@ -1577,9 +1577,9 @@ opća	gbogboogbo	Nan
 opće	gbogboogbo	Nan
 općeg	gbogboogbo	Nan
 općem	gbogboogbo	Nan
-općenito	ni gbogbogbo	Nan
+općenito	gbogbogbo	None
 opći	gbogboogbo	Nan
-oprema	ohun èlò	Nan
+oprema	èlò	None
 oportunitetni	anfani	Nan
 oporezivanja	owo-ori	Nan
 oplođena	idapọ	Nan
@@ -1627,7 +1627,7 @@ općini	agbegbe	Nan
 općinu	agbegbe	Nan
 općoj	gbogboogbo	Nan
 opšta	gbogboogbo	Nan
-opšte	ni gbogbogbo	Nan
+opšte	gbogbogbo	None
 opštine	awọn agbegbe	Nan
 općina	agbegbe	Nan
 or	tabi	None
@@ -1697,19 +1697,19 @@ opasnost	ijamba	Nan
 opasnosti	ewu	Nan
 opatija	tẹriba	Nan
 one	ọkan	Nan
-ondje	ní bẹ	Nan
+ondje	ní	None
 onda	lẹhinna	Nan
 onako	lonakona	Nan
 olovo	darí	Nan
 oluja	ìjì	Nan
 omer	ojò	Nan
 omerpaša	omerpasha	Nan
-omogućava	gba laaye	Nan
+omogućava	gba	None
 omogućavaju	mu ṣiṣẹ	Nan
 omogućila	sise	None
 olimpijskom	olimpiiki	Nan
 omogućilo	sise	None
-omogućuje	gba laaye	Nan
+omogućuje	gba	None
 omogućuju	mu ṣiṣẹ	Nan
 omot	ideri	Nan
 omotač	agekuru	Nan
@@ -1768,7 +1768,7 @@ otprilike	sunmọ	Nan
 otrov	majele	Nan
 otuda	ibẹ	Nan
 otvara	ṣi	Nan
-otvaraju	wọn ṣii	Nan
+otvaraju	wọn	None
 otvaranja	ṣiṣi	Nan
 otvaranje	ṣiṣi	Nan
 otvor	ṣiṣi	Nan
@@ -1776,8 +1776,8 @@ otvora	awọn ṣiṣi	Nan
 otvoren	ṣii	Nan
 otkriće	awari	None
 otkrića	awari	None
-otkriveno	se awari	Nan
-otkriveni	se awari	Nan
+otkriveno	awari	None
+otkriveni	awari	None
 osvajači	asegun	Nan
 osvojenih	ṣẹgun	Nan
 osvoji	ṣẹgun	Nan
@@ -1788,12 +1788,12 @@ otac	baba	Nan
 osvajanjem	nipa iṣẹgun	Nan
 otcijepljenje	ipinya	Nan
 otišli	lọ	Nan
-otkrili	se awari	Nan
-otkrio	se awari	Nan
+otkrili	awari	None
+otkrio	awari	None
 otkriva	han	Nan
-otkriven	se awari	Nan
-otkrivena	se awari	Nan
-otkrivene	se awari	Nan
+otkriven	awari	None
+otkrivena	awari	None
+otkrivene	awari	None
 otišao	osi	Nan
 osovine	àáá	Nan
 osobu	eniyan	Nan
@@ -1861,7 +1861,7 @@ osmansko	ilu ottoman	Nan
 osmanskog	ilu ottoman	Nan
 osmanskom	ilu ottoman	Nan
 osniva	ipilẹ	Nan
-osnivaju	fi idi mulẹ	Nan
+osnivaju	fi	None
 osnivanja	idasile	Nan
 osnivanje	idasile	Nan
 osnovao	ipilẹ	Nan
@@ -1904,7 +1904,7 @@ potencijala	agbara	None
 potencijalno	oyi	Nan
 potiče	iwuri	Nan
 potvrđuje	jẹrisi	Nan
-potiču	gba iwuri	Nan
+potiču	gba	None
 potkraj	ni igbehin	Nan
 potok	ṣiṣan	Nan
 potom	lẹhinna	Nan
@@ -1954,7 +1954,7 @@ povećanjem	nipa jijẹ	Nan
 povezanost	asopọmọra	Nan
 površinama	roboto	None
 postupno	di .di.	Nan
-postupaka	awọn ilana	Nan
+postupaka	ilana	None
 poslove	awọn iṣẹ	Nan
 poslovima	awọn iṣẹ	Nan
 poslovna	iṣowo	Nan
@@ -1966,7 +1966,7 @@ posmatrača	oluwo	Nan
 posredstvom	nipasẹ	Nan
 post	ifiweranṣẹ	Nan
 postaje	di	Nan
-postaju	wọn di	Nan
+postaju	wọn	None
 postala	di	Nan
 postale	di	Nan
 postali	di	Nan
@@ -1991,7 +1991,7 @@ posljednje	eyi tio gbeyin	Nan
 posljednjeg	eyi tio gbeyin	Nan
 posljednjem	eyi tio gbeyin	Nan
 poslije	lẹhin	Nan
-postupci	awọn ilana	Nan
+postupci	ilana	None
 postanak	jiini	Nan
 postanka	duro	Nan
 postojali	wa	Nan
@@ -2044,7 +2044,7 @@ precizno	gbọgán	Nan
 pred	asọtẹlẹ	Nan
 predaje	awọn olufun	Nan
 predaju	tẹriba	Nan
-predao	fi lé	Nan
+predao	fi	None
 predavanja	awọn ikowe	Nan
 predjelima	yanilenu	Nan
 predjelu	onitara	Nan
@@ -2052,13 +2052,13 @@ pravoslavne	àtijọ	Nan
 pravoslavna	àtijọ	Nan
 pravoslavlje	orthodoxy	Nan
 pravoslavci	àtijọ	Nan
-pravila	awọn ofin	Nan
-pravilima	awọn ofin	Nan
+pravila	ofin	None
+pravilima	ofin	None
 pravilna	tọ	Nan
 pravilno	o ti tọ	Nan
 pravilo	ṣàkóso	Nan
 pravilu	ṣàkóso	Nan
-pravim	mo so wípé	Nan
+pravim	so	None
 predlaže	imọran	Nan
 pravima	awọn ẹtọ	Nan
 pravna	t’olofin	Nan
@@ -2091,7 +2091,7 @@ predstavljen	gbekalẹ	Nan
 predstavljati	lati soju	Nan
 predstavljao	aṣoju	Nan
 predstavljalo	aṣoju	Nan
-predmetima	awọn nkan	Nan
+predmetima	nkan	None
 prednji	iwaju	Nan
 prednost	anfani	Nan
 prednosti	awọn anfani	Nan
@@ -2109,7 +2109,7 @@ predstavljaju	aṣoju	Nan
 predstavljala	aṣoju	Nan
 predsjedniku	si alakoso	Nan
 pravi	o sọpe	Nan
-prave	wọn ṣe	Nan
+prave	wọn	None
 pravdu	ooto	Nan
 poznatim	olokiki	Nan
 poznato	mọ	Nan
@@ -2135,7 +2135,7 @@ površinu	dada	Nan
 povući	fa	Nan
 pozadini	lẹhin	Nan
 pozicija	ipo	None
-pozicije	awọn ipo	Nan
+pozicije	ipo	None
 poziciji	ipo	None
 počeli	bẹrẹ	Nan
 poziciju	ipo	None
@@ -2151,10 +2151,10 @@ počelo	bẹrẹ	Nan
 počeo	bẹrẹ	Nan
 početak	bẹrẹ	Nan
 praksi	adaṣe	Nan
-praktički	di oba	Nan
-praktično	di oba	Nan
+praktički	oba	None
+praktično	oba	None
 prate	tẹle	Nan
-prateći	to tẹle	Nan
+prateći	to	None
 prati	wẹ	Nan
 pratiti	lati tẹle	Nan
 praksa	adaṣe	Nan
@@ -2179,7 +2179,7 @@ početnu	ni ibẹrẹ	Nan
 počev	mo bere	Nan
 poželjno	pelu	Nan
 počevši	bẹrẹ	Nan
-počinju	wọn bẹrẹ	Nan
+počinju	wọn	None
 počitelj	awọn oluṣewadii	Nan
 pošalje	firanṣẹ	Nan
 pošta	meeli	Nan
@@ -2192,18 +2192,18 @@ posjetio	ṣàbẹwò	Nan
 posjeduju	gba	None
 pojma	erongba	Nan
 pojmom	erongba	Nan
-pojmova	awọn ofin	Nan
-pojmovi	awọn ofin	Nan
+pojmova	ofin	None
+pojmovi	ofin	None
 pokazala	fihan	None
 pokazale	fihan	None
 pokazali	fihan	None
 pokazalo	fihan	None
 pokazao	fihan	None
-pokazati	lati fihan	Nan
+pokazati	fihan	None
 pokazuje	fihan	None
 pokazuju	ṣafihan	Nan
 poklapa	ibaamu	Nan
-pokraj	ti o tele	Nan
+pokraj	tele	None
 pokrajina	igberiko	None
 pojedinog	ẹnikọọkan	Nan
 pojedinim	ẹnikọọkan	Nan
@@ -2259,7 +2259,7 @@ pokrenuo	ipilẹṣẹ	Nan
 pokušaj	gbidanwo	Nan
 pokušaji	awọn igbiyanju	Nan
 pokušajima	awọn igbiyanju	Nan
-pokušaju	wọn gbiyanju	Nan
+pokušaju	wọn	None
 pokušali	gbiyanju	Nan
 pokušao	gbiyanju	Nan
 pokušati	lati gbiyanju	Nan
@@ -2279,7 +2279,7 @@ podloge	aropo	Nan
 podlogu	sobusitireti	Nan
 podlozi	aropo	Nan
 podne	ọsan	Nan
-podnijeti	lati fi	Nan
+podnijeti	fi	None
 podnožju	ẹsẹ	None
 podrazumijeva	fihan	None
 podrazumijevaju	laisọfa	Nan
@@ -2315,7 +2315,7 @@ pogledu	iwo	Nan
 pogodila	lu	Nan
 pogotovo	ni pataki	Nan
 poginuo	kú	Nan
-pogrešno	ti ko tọ	Nan
+pogrešno	ko	None
 pohod	rin irinajo	Nan
 pohoda	rin irinajo	Nan
 pohvaliti	lati yìn	Nan
@@ -2348,15 +2348,15 @@ slika	aworan	Nan
 političke	oselu	Nan
 političkih	oselu	Nan
 poraženi	ṣẹgun	Nan
-pored	ti o tele	Nan
+pored	tele	None
 poredak	paṣẹ	Nan
 poremećaj	rudurudu	Nan
 poremećaja	ségesège	Nan
 poremećaji	ségesège	Nan
 poretku	paṣẹ	Nan
 porez	owo-ori	Nan
-poreza	owo ori	Nan
-porezi	owo ori	Nan
+poreza	ori	None
+porezi	ori	None
 porezne	owo-ori	Nan
 porezni	owo-ori	Nan
 poređenje	lafiwe	Nan
@@ -2422,7 +2422,7 @@ poruku	ifiranṣẹ	Nan
 posao	iṣẹ	Nan
 posavina	posavina	Nan
 porto	ibudo	Nan
-poplava	iṣan omi	Nan
+poplava	omi	None
 popisu	atokọ	Nan
 popisa	atokọ	Nan
 poljskoj	polandii	Nan
@@ -2435,7 +2435,7 @@ polovini	idaji	None
 polovinom	idaji	None
 položaj	ipo	None
 položaja	ipo	None
-položaje	awọn ipo	Nan
+položaje	ipo	None
 položajem	ipo	None
 položaju	ipo	None
 poluga	lefa	Nan
@@ -2486,21 +2486,21 @@ ponavlja	tun	Nan
 ponajprije	nipataki	Nan
 poluprečnik	ologbo	Nan
 poluprečnika	ologbo	Nan
-pomalo	kekere die	Nan
+pomalo	kekere	None
 pomaže	iranlọwọ	Nan
-pomažu	egba mi o	Nan
+pomažu	egba	None
 pomenuti	mẹnuba	Nan
 pominje	nmẹnuba	Nan
 ponajviše	okeene	Nan
 pomogao	iranwo	Nan
-pomorstvo	igba omi okun	Nan
-pomoć	egba mi o	Nan
-pomoći	egba mi o	Nan
+pomorstvo	omi	None
+pomoć	egba	None
+pomoći	egba	None
 pomoćne	oluranlọwọ	Nan
 pomoću	lilo	Nan
 pompej	pompeii	Nan
 pompeja	pompeii	Nan
-pomogne	egba mi o	Nan
+pomogne	egba	None
 slikama	awọn aworan	Nan
 slikar	ayaworan	Nan
 slikari	awọn kikun	Nan
@@ -2520,7 +2520,7 @@ vladar	adarí	Nan
 vladara	adarí	Nan
 vladari	awọn alaṣẹ	Nan
 vjetar	afẹfẹ	Nan
-vjeruju	wọn gbagbọ	Nan
+vjeruju	wọn	None
 vjeruje	gbagbọ	Nan
 vjeru	igbagbọ	Nan
 vjernika	onigbagbọ	Nan
@@ -2592,7 +2592,7 @@ vijadukt	viaduct	Nan
 vijek	orundun	Nan
 vijeka	orundun	Nan
 vijekova	sehin	Nan
-vijekovima	fun sehin	Nan
+vijekovima	fun	None
 vijeku	orundun	Nan
 vijenac	aṣiri	Nan
 vijest	awọn iroyin	Nan
@@ -2643,8 +2643,8 @@ visoko	ga	Nan
 vinci	vinci	Nan
 vino	waini	Nan
 virginia	wundia	Nan
-virus	kòkòrò àrùn fáírọọsì	Nan
-virusa	kòkòrò àrùn fáírọọsì	Nan
+virus	àrùn	None
+virusa	àrùn	None
 visina	gíga	Nan
 visine	gíga	Nan
 vijećnica	gbongan ilu	Nan
@@ -2660,7 +2660,7 @@ visinom	gíga	Nan
 vodi	nyorisi	Nan
 vodik	hydrogen	Nan
 vodika	hydrogen	Nan
-vrline	iwa rere	Nan
+vrline	rere	None
 vrlo	pupọ	Nan
 vrsta	irú	Nan
 vrstama	eya	None
@@ -2675,7 +2675,7 @@ vršiti	lati ṣe	Nan
 vuk	ikooko	Nan
 vuka	ikooko	Nan
 vukašinović	vukašinović	Nan
-vrlina	iwa rere	Nan
+vrlina	rere	None
 vrijeme	aago	Nan
 vrijednostima	awọn iye	Nan
 vrijednosti	awọn iye	Nan
@@ -2696,7 +2696,7 @@ vrijede	wulo	Nan
 vrijedi	o tọ si	Nan
 vrijednost	iye	Nan
 vrhovni	adajọ	Nan
-vremenskom	oju ojo	Nan
+vremenskom	ojo	None
 vukčić	ikooko	Nan
 vuče	fa	Nan
 xx	xx	Nan
@@ -2735,22 +2735,22 @@ xii	xii	Nan
 xiv	xiv	None
 xix	xix	Nan
 wilhelm	wilhelm	Nan
-vremenskih	oju ojo	Nan
-vremenski	oju ojo	Nan
-vremenske	oju ojo	Nan
+vremenskih	ojo	None
+vremenski	ojo	None
+vremenske	ojo	None
 vojnim	ologun	Nan
 vojno	ogun	None
 vojnog	ologun	Nan
 vojnoj	ogun	None
 vojnom	ogun	None
 vojnu	ogun	None
-vojsci	ọmọ ogun	Nan
-vojska	ọmọ ogun	Nan
-vojske	ọmọ ogun	Nan
-vojskom	ọmọ ogun	Nan
+vojsci	ogun	None
+vojska	ogun	None
+vojske	ogun	None
+vojskom	ogun	None
 vojskovođa	olori ologun	Nan
 vojskovođe	awọn olori ologun	Nan
-vojsku	ọmọ ogun	Nan
+vojsku	ogun	None
 vojvoda	duke	Nan
 vojvode	ewurẹ	Nan
 vojnike	jagunjagun	Nan
@@ -2775,7 +2775,7 @@ vojnici	jagunjagun	Nan
 vojnicima	jagunjagun	Nan
 vodu	omi	None
 vojvodini	vojvodina	Nan
-vokal	awọn leè	Nan
+vokal	leè	None
 vole	yoo	None
 vratili	padà	Nan
 vratima	ilekun	Nan
@@ -2783,7 +2783,7 @@ vratio	padà	Nan
 vratiti	padà	Nan
 vratu	ọrùn	Nan
 vraća	padà	Nan
-vraćaju	wọn pada	Nan
+vraćaju	wọn	None
 vratila	ọpa	Nan
 vraćanje	padà	Nan
 vrbasa	vrbasa	Nan
@@ -2844,23 +2844,23 @@ usporedba	lafiwe	Nan
 usporedbi	lafiwe	Nan
 uspostavili	mulẹ	Nan
 utc	utc	None
-uspostaviti	fi idi mulẹ	Nan
-uspostavljaju	fi idi mulẹ	Nan
+uspostaviti	fi	None
+uspostavljaju	fi	None
 uspostavljanja	idasile	Nan
 uspostavljanje	idasile	Nan
 uspostavljena	mulẹ	Nan
 usprkos	pelu	Nan
 usta	ẹnu	Nan
 ustanak	rogbodiyan	None
-uspostavlja	fi idi mulẹ	Nan
+uspostavlja	fi	None
 uspješan	aṣeyọri	Nan
 utemeljen	ilẹ	None
 uticaj	ipa	Nan
 uvjet	majemu	Nan
-uvjeta	awọn ipo	Nan
-uvjete	awọn ipo	Nan
-uvjeti	awọn ipo	Nan
-uvjetima	awọn ipo	Nan
+uvjeta	ipo	None
+uvjete	ipo	None
+uvjeti	ipo	None
+uvjetima	ipo	None
 uvod	ifihan	Nan
 uvodi	awọn ifihan	Nan
 uvođenja	ifihan	Nan
@@ -2869,7 +2869,7 @@ uvođenjem	nipasẹ ṣafihan	Nan
 uz	éù	Nan
 uzeo	mu	Nan
 uzeti	mu	Nan
-uzgajaju	wọn ajọbi	Nan
+uzgajaju	wọn	None
 uzgoj	ajọbi	Nan
 uvijek	nigbagbogbo	Nan
 uveo	ṣafihan	Nan
@@ -2879,7 +2879,7 @@ uticaja	ikolu	Nan
 uticajem	ipa	Nan
 uticajima	awọn ipa	Nan
 uticala	nfa	Nan
-utiče	yoo ni ipa lori	Nan
+utiče	yoo	None
 utiču	kan	None
 utjecajem	ikolu	Nan
 utemeljena	ilẹ	None
@@ -2895,8 +2895,8 @@ utvrde	awọn odi	Nan
 uzima	gba	None
 uspjesi	awọn aṣeyọri	Nan
 uspjele	ṣaṣeyọri	Nan
-uputa	awọn ilana	Nan
-upute	awọn ilana	Nan
+uputa	ilana	None
+upute	ilana	None
 uputio	kọ	Nan
 upućuje	tọka	Nan
 upućuju	tọka	Nan
@@ -2942,17 +2942,17 @@ usora	usora	Nan
 usore	usore	Nan
 usori	usori	Nan
 uspijeva	ṣaṣeyọri	Nan
-uspijevaju	wọn ṣaṣeyọri	Nan
+uspijevaju	wọn	None
 uspio	ṣaṣeyọri	Nan
 uspjeh	aṣeyọri	Nan
 uspjeha	aṣeyọri	Nan
 uspjehe	awọn aṣeyọri	Nan
 uspjehom	aṣeyọri	Nan
 uspjela	ṣaṣeyọri	Nan
-uslovima	awọn ipo	Nan
-uslovi	awọn ipo	Nan
-uslove	awọn ipo	Nan
-uslova	awọn ipo	Nan
+uslovima	ipo	None
+uslovi	ipo	None
+uslove	ipo	None
+uslova	ipo	None
 uređenje	tito	Nan
 uređenju	tito	Nan
 us	àwa	Nan
@@ -2970,7 +2970,7 @@ uslijedio	tẹle	Nan
 usljed	nitori	Nan
 uslov	majemu	Nan
 uskrs	ajinde	Nan
-uzimaju	wọn mu	Nan
+uzimaju	wọn	None
 uzimanje	mu	Nan
 uzor	àpẹẹrẹ	Nan
 velež	velež	Nan
@@ -3081,7 +3081,7 @@ ušle	ti tẹ	Nan
 uzvišenja	elevations	Nan
 uče	kọ ẹkọ	Nan
 učenici	omo ile	Nan
-učenik	ọmọ ile-iwe	Nan
+učenik	ọmọ	None
 učenika	omo ile	Nan
 učenja	kikọ ẹkọ	Nan
 učenje	kikọ ẹkọ	Nan
@@ -3130,8 +3130,8 @@ vajta	funfun	Nan
 zabranjeno	ewọ	Nan
 zabranjenog	ewọ	Nan
 zadar	zadar	Nan
-članovi	ọmọ ẹgbẹ	Nan
-članovima	ọmọ ẹgbẹ	Nan
+članovi	ọmọ	None
+članovima	ọmọ	None
 članstvo	ẹgbẹ	Nan
 čola	iwaju	Nan
 čolić	colic	Nan
@@ -3145,10 +3145,10 @@ zadar	zadar	Nan
 čuje	o gbọ	Nan
 čula	gbo	Nan
 čuo	gbo	Nan
-članove	ọmọ ẹgbẹ	Nan
-članova	ọmọ ẹgbẹ	Nan
+članove	ọmọ	None
+članova	ọmọ	None
 članku	nkan	None
-članice	awọn ọmọ ẹgbẹ egbe	Nan
+članice	egbe	None
 čitanje	kika	Nan
 čitati	lati ka	Nan
 čitav	mo ka	Nan
@@ -3160,11 +3160,11 @@ zadar	zadar	Nan
 čitavu	mo ka	Nan
 čišćenja	ninu	Nan
 čišćenje	ninu	Nan
-član	ọmọ ẹgbẹ	Nan
-člana	ọmọ ẹgbẹ	Nan
+član	ọmọ	None
+člana	ọmọ	None
 članak	nkan	None
-članci	awọn nkan	Nan
-članica	ọmọ ẹgbẹ	Nan
+članci	nkan	None
+članica	ọmọ	None
 čitluk	chitluk	Nan
 čitanja	awọn kika	Nan
 čuva	ntọju	Nan
@@ -3203,7 +3203,7 @@ zadar	zadar	Nan
 šaban	shaban	Nan
 šah	chess	Nan
 šalje	fifiranṣẹ	Nan
-šalju	wọn firanṣẹ	Nan
+šalju	wọn	None
 čvrsto	ìdúróṣinṣin	Nan
 širila	tànkálẹ	Nan
 čitaj	ka	Nan
@@ -3225,7 +3225,7 @@ zadar	zadar	Nan
 česta	loorekoore	Nan
 čaršiji	ọjà	Nan
 čaršija	baagi	Nan
-čapljina	ọmọ ogun	Nan
+čapljina	ogun	None
 čak	ani	Nan
 ćatić	atić	Nan
 ćazim	ma binu	Nan
@@ -3236,10 +3236,10 @@ zadar	zadar	Nan
 ćeliji	ẹyin	Nan
 čestica	patiku	Nan
 ćelijski	cellular	Nan
-ćemo	a yoo	Nan
+ćemo	yoo	None
 ćirilica	cyrillic	Nan
 ćirilice	cyrillic	Nan
-ću	mo ti yoo	Nan
+ću	yoo	None
 ćud	iṣesi	Nan
 ćuprija	parish	Nan
 čad	chad	Nan
@@ -3254,17 +3254,17 @@ zadar	zadar	Nan
 činilo	o dabi enipe	Nan
 činiti	lati ṣe	Nan
 činjenica	o daju	Nan
-činjenice	awọn ododo	Nan
-činjenici	awọn ododo	Nan
+činjenice	ododo	None
+činjenici	ododo	None
 činjenicom	o daju	Nan
 činjenicu	o daju	Nan
 činom	iṣe	Nan
-činova	awọn ipo	Nan
+činova	ipo	None
 čip	chirún	Nan
 čist	mọ	Nan
 čime	kini	Nan
 čim	ju	Nan
-čile	ede chile	Nan
+čile	ede	None
 čiju	tani	Nan
 četrdeset	ogoji	Nan
 četverougao	aimọye	Nan
@@ -3274,7 +3274,7 @@ zadar	zadar	Nan
 četvrti	kẹrin	None
 četvrtog	ti kerin	Nan
 često	nigbagbogbo	Nan
-češka	apapọ ilẹ ṣẹẹki	Nan
+češka	ilẹ	None
 češće	fe e je gbogbo igba	Nan
 čija	tani	Nan
 čije	tani	Nan
@@ -3323,7 +3323,7 @@ zadar	zadar	Nan
 ženeva	geneva	None
 željko	željko	Nan
 željeznica	reluwe	Nan
-živim	mo n gbe	Nan
+živim	gbe	None
 živio	gbé	None
 životu	igbesi aye	Nan
 žlijezda	ẹṣẹ	Nan
@@ -3348,7 +3348,7 @@ zadar	zadar	Nan
 živjele	awon olore	Nan
 živjeli	awon olore	Nan
 živjelo	gbé	None
-živjeti	lati gbe	Nan
+živjeti	gbe	None
 živković	živković	Nan
 življenja	ti igbesi aye	Nan
 živinice	adie	Nan
@@ -3373,10 +3373,10 @@ zadar	zadar	Nan
 španija	ilu sibeeni	Nan
 španije	ti spain	Nan
 španiji	ilu sibeeni	Nan
-španske	ede spanish	Nan
-španski	ede spanish	Nan
-španskog	ede spanish	Nan
-španskom	ni ede sipeeni	Nan
+španske	ede	None
+španski	ede	None
+španskog	ede	None
+španskom	ede	None
 šta	kini	Nan
 štab	olú	Nan
 škotska	ilu scotland	Nan
@@ -3420,7 +3420,7 @@ zadar	zadar	Nan
 želja	ifẹ	Nan
 želje	awọn ifẹ	Nan
 žalica	aanu	None
- °c	° c	Nan
+°c	° c	Nan
 šupljine	awọn iho	Nan
 šume	igbo	Nan
 štajersku	aṣa	Nan
@@ -3440,9 +3440,9 @@ zadar	zadar	Nan
 šuma	igbo	Nan
 šumama	igbo	Nan
 štite	dáàbò	Nan
- mm ×  mm	mm × mm	Nan
- km²	km²	Nan
- km	km	Nan
+mm	mm × mm	Nan
+km²	km²	Nan
+km	km	Nan
 zasluge	anfani	Nan
 zasniva	orisun	None
 zasnovan	orisun	None
@@ -3475,7 +3475,7 @@ započela	bẹrẹ	Nan
 započeli	bẹrẹ	Nan
 započeo	bẹrẹ	Nan
 započinje	bẹrẹ	Nan
-započinju	wọn bẹrẹ	Nan
+započinju	wọn	None
 zapošljava	oṣiṣẹ	Nan
 zapravo	ni pato	Nan
 zapovjedništvom	pipaṣẹ	Nan
@@ -3498,7 +3498,7 @@ završni	ipari	Nan
 zaštita	aabo	Nan
 zaštite	aabo	Nan
 zavisnosti	gbarale	Nan
-zavisno	da lori	Nan
+zavisno	da	None
 zavisi	gbarale	Nan
 zavise	o gbarale	Nan
 zatvorena	ni pipade	Nan
@@ -3514,7 +3514,7 @@ zauzima	wa lori	Nan
 zauzimaju	gbalaye	Nan
 zauzimanja	awọn iṣẹ	Nan
 zauzimanje	iṣẹ	Nan
-zauzme	gba lori	Nan
+zauzme	gba	None
 zavale	zavale	Nan
 zavidovići	ilara	Nan
 zauzeti	nṣiṣe lọwọ	Nan
@@ -3551,7 +3551,7 @@ zajedničkog	wọpọ	Nan
 zadnji	kẹhin	Nan
 zadržao	tọju	Nan
 zadržati	tọju	Nan
-zadržava	da duro	Nan
+zadržava	da	None
 zadržavaju	idaduro	Nan
 zadužbina	ẹbun	Nan
 zadužen	rọ	Nan
@@ -3584,14 +3584,14 @@ zaključio	pari	Nan
 zaključiti	lati pari	Nan
 zaključka	ipari	Nan
 zakon	ofin	None
-zakona	ti ofin	Nan
-zakone	awọn ofin	Nan
-zakoni	awọn ofin	Nan
+zakona	ofin	None
+zakone	ofin	None
+zakoni	ofin	None
 zaliv	bay	Nan
-zakonima	awọn ofin	Nan
+zakonima	ofin	None
 zakonodavna	isofin	Nan
 zakonodavnu	isofin	Nan
-zakonom	nipa ofin	Nan
+zakonom	ofin	None
 zakonski	ni t’olofin	Nan
 zakonu	ofin	None
 zalagao	ṣèlérí	Nan
@@ -3624,7 +3624,7 @@ znakova	ohun kikọ	Nan
 znakove	awọn ami	Nan
 znakovi	awọn ami	Nan
 znala	o mọ	Nan
-znali	wọn mọ	Nan
+znali	wọn	None
 znam	mo mo	Nan
 zone	agbegbe aago	Nan
 znamenitosti	fojusi	Nan
@@ -3634,7 +3634,7 @@ znao	o mọ	Nan
 znatan	akude	Nan
 znati	lati mọ	Nan
 znatne	akude	Nan
-znatno	ni riro	Nan
+znatno	riro	None
 znamo	a mọ	Nan
 znak	ami	Nan
 zoni	agbegbe aago	Nan
@@ -3662,7 +3662,7 @@ zoran	zoran	Nan
 zore	owurọ	Nan
 zorica	zorica	Nan
 zove	pípè	Nan
-zovu	wọn pe	Nan
+zovu	wọn	None
 zrak	ategun	Nan
 zraka	ategun	Nan
 zonu	agbegbe aago	Nan
@@ -3675,11 +3675,11 @@ zub	ehin	Nan
 zubi	eyin	None
 zvala	ti a pe	Nan
 zraku	ategun	Nan
-znaju	wọn mọ	Nan
+znaju	wọn	None
 znaci	ọna	Nan
 zna	o mọ	Nan
-zelenim	alawọ ewe	Nan
-zeleno	alawọ ewe	Nan
+zelenim	ewe	None
+zeleno	ewe	None
 zemalja	awọn orilẹ-ede	Nan
 zemaljska	ilẹ-ilẹ	Nan
 zemlja	ile aye	Nan
@@ -3693,10 +3693,10 @@ zemljište	ilẹ	None
 zemljom	orilẹ-ede	Nan
 zemlju	ile aye	Nan
 zemnog	ilẹ-ilẹ	Nan
-zelenih	alawọ ewe	Nan
-zeleni	alawọ ewe	Nan
-zelene	alawọ ewe	Nan
-zelena	alawọ ewe	Nan
+zelenih	ewe	None
+zeleni	ewe	None
+zelene	ewe	None
+zelena	ewe	None
 zbir	aropọ	Nan
 zbirci	awọn ikojọpọ	Nan
 zbirka	gbigba	Nan
@@ -3704,7 +3704,7 @@ zbirke	awọn ikojọpọ	Nan
 zbirku	gbigba	Nan
 zbivanja	iṣẹlẹ	Nan
 zbog	nitori pe	Nan
-zenica	ọmọ ile-iwe	Nan
+zenica	ọmọ	None
 zbornik	gbigba	Nan
 zdravko	pẹlẹ o	Nan
 zdravlja	ilera	Nan
@@ -3714,8 +3714,8 @@ zekat	zakat	Nan
 zeland	silandia	Nan
 zelandu	silandia	Nan
 zdenko	zdenko	Nan
-zenice	awọn ọmọ ile-iwe	Nan
-zenici	awọn ọmọ ile-iwe	Nan
+zenice	ọmọ	None
+zenici	ọmọ	None
 zenit	zenith	Nan
 zlatna	wúrà	Nan
 zlatne	wúrà	Nan
@@ -3747,12 +3747,12 @@ zidine	odi	Nan
 zlata	wúrà	Nan
 zidova	odi	Nan
 zidovi	odi	Nan
-zima	igba otutu	Nan
+zima	otutu	None
 zimama	winitutu	Nan
 zime	winitutu	Nan
-zimi	ni igba otutu	Nan
-zimske	igba otutu	Nan
-zimskim	igba otutu	Nan
+zimi	otutu	None
+zimske	otutu	None
+zimskim	otutu	None
 zidove	odi	Nan
 okolnosti	awọn ayidayida	Nan
 uporedo	ni afiwe	Nan
@@ -3765,10 +3765,10 @@ stidne	itiju	Nan
 stigao	dé	None
 stigla	dé	None
 stigli	dé	None
-stihova	awọn ẹsẹ	Nan
-stihove	awọn ẹsẹ	Nan
-stihovi	awọn ẹsẹ	Nan
-stihovima	awọn ẹsẹ	Nan
+stihova	ẹsẹ	None
+stihove	ẹsẹ	None
+stihovi	ẹsẹ	None
+stihovima	ẹsẹ	None
 stijena	apata	Nan
 stijenama	awọn apata	Nan
 stijene	awọn apata	Nan
@@ -3823,7 +3823,7 @@ sto	ọgọrun	Nan
 stoca	ẹran	Nan
 stoga	nitorinaa	Nan
 stilu	ara	Nan
-stoje	wọn duro	Nan
+stoje	wọn	None
 stolac	alaga	Nan
 stoljeća	orundun	Nan
 stoljeću	orundun	Nan
@@ -3874,7 +3874,7 @@ srpskog	serbian	Nan
 statistika	eeka	Nan
 standarda	boṣewa	Nan
 standardima	awọn ajohunše	Nan
-stari	baba agba	Nan
+stari	agba	None
 starih	atijọ	Nan
 starije	agbalagba	Nan
 starijeg	agbalagba	Nan
@@ -3882,11 +3882,11 @@ stariji	agbalagba	Nan
 starijih	agbalagba	Nan
 starim	atijọ	Nan
 staro	atijọ	Nan
-starog	baba agba	Nan
+starog	agba	None
 staroj	atijọ	Nan
 starom	atijọ	Nan
-starost	ọjọ ori	Nan
-starosti	ọjọ ori	Nan
+starost	ori	None
+starosti	ori	None
 staru	atijọ	Nan
 state	ipinle	Nan
 stare	atijọ	Nan
@@ -3899,7 +3899,7 @@ standardnog	boṣewa	Nan
 stanica	ibudo	Nan
 stanice	awọn ibudo	Nan
 stanicu	ibudo	Nan
-stanja	awọn ipo	Nan
+stanja	ipo	None
 standardi	awọn ajohunše	Nan
 stanje	majemu	Nan
 stanovišta	awọn iwo	Nan
@@ -3928,7 +3928,7 @@ susreće	pàdé	Nan
 susreću	pàdé	Nan
 suverenitet	ọba aláṣẹ	Nan
 sučić	sučić	Nan
-supruge	awọn aya	Nan
+supruge	aya	None
 supruga	iyawo	None
 suprotnosti	alatako	Nan
 suprotnom	idakeji	Nan
@@ -3947,7 +3947,7 @@ sunčevog	oorun	Nan
 sunčevom	oorun	Nan
 super	dara julọ	Nan
 suprotan	idakeji	Nan
-suprotno	bi be ko	Nan
+suprotno	ko	None
 sunčev	oorun	Nan
 sultana	sultan	Nan
 suša	ogbele	Nan
@@ -3965,12 +3965,12 @@ svih	gbogbo	Nan
 svijest	mimọ	Nan
 svijesti	mimọ	Nan
 svijet	ileaye	Nan
-svijeta	ti agbaye	Nan
+svijeta	agbaye	None
 svijetli	didan	Nan
 svemu	ohun gbogbo	Nan
 svemiru	agbaye	None
 svemirska	aaye	Nan
-svemira	ti agbaye	Nan
+svemira	agbaye	None
 sv	gbogbo	Nan
 sva	gbogbo	Nan
 svaka	kọọkan	Nan
@@ -3991,7 +3991,7 @@ svakodnevno	lojojumo	Nan
 sultan	sultan	Nan
 sulejmana	sulejmana	Nan
 sulejman	sulejman	Nan
-student	ọmọ ile-iwe	Nan
+student	ọmọ	None
 studenti	omo ile	Nan
 studij	iwadi	None
 studija	iwadi	None
@@ -4038,7 +4038,7 @@ sudom	kootu	Nan
 sudova	kootu	Nan
 sudovi	kootu	Nan
 sudbine	kadara	None
-sudska	ti ofin	Nan
+sudska	ofin	None
 suha	gbẹ	Nan
 suhe	gbẹ	Nan
 sukob	rogbodiyan	None
@@ -4070,7 +4070,7 @@ stvori	ṣẹda	Nan
 svijetlo	ina	Nan
 srez	bibẹ	Nan
 sredstvima	owo	Nan
-smiju	wọn le	Nan
+smiju	le	None
 smisao	itumo	None
 smisla	ori	None
 smislu	ori	None
@@ -4089,7 +4089,7 @@ smijer	itọsọna	Nan
 smije	o rẹrin	Nan
 smeđe	brown	Nan
 smetnje	kikọlu	Nan
-služio	yoo wa	Nan
+služio	yoo	None
 služiti	lati sin	Nan
 smanjena	dinku	Nan
 smanjenja	awọn iyọkuro	Nan
@@ -4106,7 +4106,7 @@ smatrana	ṣakiyesi	Nan
 smatrao	ṣakiyesi	Nan
 smatrati	ronu	Nan
 smatraju	ṣakiyesi	Nan
-služili	yoo wa	Nan
+služili	yoo	None
 snagama	awọn ipa	Nan
 snagom	okun	Nan
 snimio	filimu	Nan
@@ -4115,7 +4115,7 @@ snimljen	ti o gbasilẹ	Nan
 so	nitorinaa	Nan
 soba	yara	Nan
 sobe	awọn yara	Nan
-sobom	pẹlu rẹ	Nan
+sobom	rẹ	None
 socijalistička	alaifeiruedaomoenikeji	Nan
 socijalističke	alaifeiruedaomoenikeji	Nan
 socijalističkih	alaifeiruedaomoenikeji	Nan
@@ -4146,7 +4146,7 @@ snimanja	gbigbasilẹ	Nan
 snimanje	gbigbasilẹ	Nan
 snijeg	yinyin	Nan
 socijalni	lawujọ	Nan
-služila	yoo wa	Nan
+služila	yoo	None
 služe	sìn	Nan
 sljedećim	itele	Nan
 sloboda	ominira	Nan
@@ -4170,8 +4170,8 @@ sljedeća	itele	Nan
 slike	awọn aworan	Nan
 slikom	aworan	Nan
 sliku	aworan	Nan
-sliva	pupa buulu toṣokunkun	Nan
-slivu	pupa buulu toṣokunkun	Nan
+sliva	pupa	None
+slivu	pupa	None
 sličan	jọra	Nan
 slična	jọra	Nan
 slobodnu	ọfẹ	Nan
@@ -4209,8 +4209,8 @@ složene	eka	None
 sloja	ipele	None
 slojeva	fẹlẹfẹlẹ	Nan
 slojevima	fẹlẹfẹlẹ	Nan
-slom	ko ṣiṣẹ	Nan
-sloma	ko ṣiṣẹ	Nan
+slom	ko	None
+sloma	ko	None
 slonovače	ehin-erin	Nan
 slova	awọn ọrọ	Nan
 sloga	ọṣẹ-ohun	Nan
@@ -4220,13 +4220,13 @@ slovenija	slovenia	Nan
 slovenije	slovenia	Nan
 sloveniji	slovenia	Nan
 slovo	ọrọ	Nan
-slovom	ninu ọrọ kan	Nan
+slovom	kan	None
 složena	eka	None
 slovenaca	ara ilu slovenia	Nan
 socijalnih	lawujọ	Nan
 socijalno	lawujọ	Nan
 socijalnu	lawujọ	Nan
-spuštaju	wọn lọ silẹ	Nan
+spuštaju	wọn	None
 spö	spö	Nan
 sr	sr	Nan
 srba	awọn iṣẹ	Nan
@@ -4242,7 +4242,7 @@ srca	obi	Nan
 srce	obi	Nan
 srcem	obi	Nan
 spušta	sokale	Nan
-spriječiti	lati yago fun	Nan
+spriječiti	fun	None
 spreče	idilọwọ	Nan
 spreča	idilọwọ	Nan
 sportova	eré ìdárayá	Nan
@@ -4386,7 +4386,7 @@ svim	si gbogbo	Nan
 turizam	irin-ajo	Nan
 turizma	irin-ajo	Nan
 turneja	ajo	None
-turneje	irin ajo	Nan
+turneje	ajo	None
 turneju	ajo	None
 turnir	figagbaga	Nan
 turnira	figagbaga	Nan
@@ -4402,7 +4402,7 @@ turistički	oniriajo	Nan
 turističke	oniriajo	Nan
 turistička	oniriajo	Nan
 turista	oniriajo	Nan
-trupe	awọn ọmọ ogun	Nan
+trupe	ogun	None
 tržišta	awọn ọja	Nan
 tržište	ọjà	Nan
 tržištu	ọjà	Nan
@@ -4478,7 +4478,7 @@ trenutni	lọwọlọwọ	Nan
 trenutno	lọwọlọwọ	Nan
 trebale	yẹ	Nan
 trebala	yẹ	Nan
-trebaju	wọn nilo	Nan
+trebaju	wọn	None
 treba	yẹ	Nan
 traje	na	Nan
 trajno	titilai	Nan
@@ -4489,7 +4489,7 @@ tranzistora	transistors	Nan
 travnik	ọdan	Nan
 tretman	itọju	Nan
 travnika	ọdan	Nan
-traže	nwa fun	Nan
+traže	fun	None
 traženje	wa	Nan
 tražeći	béèrè	Nan
 traži	wa	Nan
@@ -4542,7 +4542,7 @@ ubuntu	ubuntu	Nan
 umjetničkih	iṣẹ ọna	Nan
 umjetnost	aworan	Nan
 umjetnosti	aworan	Nan
-umre	o ku	Nan
+umre	ku	None
 umrežavanje	nẹtiwọki	Nan
 umrla	kú	Nan
 umro	kú	Nan
@@ -4587,8 +4587,8 @@ uobičajena	wọpọ	Nan
 uobičajene	wọpọ	Nan
 uobičajeni	wọpọ	Nan
 uobičajeno	nigbagbogbo	Nan
-uopće	ni gbogbogbo	Nan
-uopšte	ni gbogbogbo	Nan
+uopće	gbogbogbo	None
+uopšte	gbogbogbo	None
 uostalom	lẹhinna	Nan
 uoči	ṣaaju	Nan
 uočio	ṣe akiyesi	Nan
@@ -4637,8 +4637,8 @@ ugarski	ara ilu hungary	Nan
 ugarske	ara ilu hungary	Nan
 ugao	igun	Nan
 ubuntua	ubuntua	Nan
-udaje	awọn iyawo	Nan
-udala	ti ni iyawo	Nan
+udaje	iyawo	None
+udala	iyawo	None
 udaljena	latọna jijin	Nan
 udaljenost	jinna	Nan
 udaljenosti	awọn ijinna	Nan
@@ -4670,7 +4670,7 @@ ulaska	titẹsi	Nan
 ulaz	ẹnu ọna	Nan
 ulaza	ẹnu ọna	Nan
 ulazak	titẹsi	Nan
-ulaze	wọn wọle	Nan
+ulaze	wọn	None
 ulazi	ti nwọ	Nan
 ukus	itọwo	Nan
 trajati	kẹhin	Nan
@@ -4682,7 +4682,7 @@ ujedinjenim	isọdọkan	Nan
 ujedinjenje	isọdọkan	Nan
 ujedinjeno	isọdọkan	Nan
 ujedinjenog	isọdọkan	Nan
-ujedno	ni akoko kan naa	Nan
+ujedno	kan	None
 ukrajina	yukirenia	Nan
 ujutro	ni aro	Nan
 ukazuje	tọka	Nan
@@ -4690,7 +4690,7 @@ ukazuju	tọka	Nan
 uključuje	pẹlu	Nan
 uključuju	pẹlu	Nan
 uključujući	pẹlu	Nan
-ukloniti	yọ kuro	Nan
+ukloniti	yọ	None
 ukoliko	ti o ba ti	Nan
 ukazao	se afihan	Nan
 trajao	pẹ	Nan
@@ -4726,7 +4726,7 @@ tehnički	tekinikali	Nan
 talasa	igbi	Nan
 talijum	thallium	Nan
 tamno	dudu	Nan
-tamo	ní bẹ	Nan
+tamo	ní	None
 tarik	tarik	Nan
 tastatura	keyboard	Nan
 taylor	taylor	Nan
@@ -4746,7 +4746,7 @@ temelji	orisun	None
 temeljna	ipilẹ	Nan
 temelju	orisun	None
 temperatura	otutu	None
-temperaturama	awọn iwọn otutu	Nan
+temperaturama	otutu	None
 temperature	otutu	None
 temperaturi	otutu	None
 temperaturom	otutu	None
@@ -4787,7 +4787,7 @@ svoga	ti tirẹ	Nan
 svoj	tirẹ	Nan
 svoja	tirẹ	Nan
 svoje	tiwon	Nan
-svojih	ti ara wọn	Nan
+svojih	wọn	None
 svojim	rẹ	None
 svjetski	agbaye	None
 svjetske	agbaye	None
@@ -4797,7 +4797,7 @@ svima	gbogbo eniyan	Nan
 svinja	ẹlẹdẹ	Nan
 svinje	elede	None
 svira	ìtàgé	Nan
-sviraju	wọn ṣere	Nan
+sviraju	wọn	None
 svirali	dun	None
 svirao	dun	None
 svojoj	t’emi	Nan
@@ -4876,7 +4876,7 @@ tip	oriṣi	Nan
 tipa	oriṣi	Nan
 tipičan	aṣoju	Nan
 tipični	aṣoju	Nan
-tipično	ojo melo	Nan
+tipično	melo	None
 tipova	awọn oriṣi	Nan
 tipovi	awọn oriṣi	Nan
 tokove	ós	Nan
@@ -4898,7 +4898,7 @@ tradicionalni	ibile	None
 tradicionalnih	ibile	None
 tradicionalnim	ibile	None
 tradicionalno	aṣa	Nan
-trag	wa kakiri	Nan
+trag	kakiri	None
 tragedija	ajalu	Nan
 tragedije	ajalu	Nan
 tragova	wa	Nan
@@ -4945,7 +4945,7 @@ teritoriju	agbegbe	Nan
 termalne	igbona	Nan
 termin	igba	Nan
 termina	igba	Nan
-termini	awọn ofin	Nan
+termini	ofin	None
 tereza	teresa	Nan
 teret	ẹru	Nan
 terenu	pápá	Nan
@@ -4991,7 +4991,7 @@ tendencija	iwa	Nan
 težina	iwuwo	Nan
 teže	wuwo julọ	Nan
 testovi	awọn idanwo	Nan
-teze	iwe ilana	Nan
+teze	ilana	None
 teče	ós	Nan
 tečnost	omi	None
 tečnosti	awọn olomi	Nan
@@ -5004,7 +5004,7 @@ teškim	nira	Nan
 teško	nira	Nan
 teškog	nira	Nan
 teškom	nira	Nan
-teža	iwe ilana	Nan
+teža	ilana	None
 težak	wuwo	Nan
 teški	wuwo	Nan
 okolnim	agbegbe	Nan
@@ -5049,7 +5049,7 @@ folk	eniyan	Nan
 fizičkih	ti ara	Nan
 fotografija	fọtoyiya	Nan
 fotosinteza	photosynthesis	Nan
-francuzi	ara faranse naa	Nan
+francuzi	faranse	None
 franje	francis	None
 franjevački	franciscan	Nan
 franjevci	franciscans	Nan
@@ -5066,7 +5066,7 @@ fuad	fuad	Nan
 fudbal	bọọlu	Nan
 francuza	faranse	None
 francusku	faranse	None
-francuskom	ni faranse	Nan
+francuskom	faranse	None
 francuskoj	faranse	None
 fotosinteze	photosynthesis	Nan
 fotosintezu	photosynthesis	Nan
@@ -5132,8 +5132,8 @@ finalu	ipari	Nan
 finansije	isuna	Nan
 finansijskih	owo	Nan
 finska	finland	Nan
-finske	ede finisi	Nan
-finski	ede finisi	Nan
+finske	ede	None
+finski	ede	None
 finskoj	ni finland	Nan
 firefox	firefox	Nan
 firma	iduroṣinṣin	Nan
@@ -5143,8 +5143,8 @@ fizici	fisiksi	Nan
 fizika	fisiksi	Nan
 fizike	fisiksi	Nan
 filozofski	ọgbọn-ọgbọn	Nan
-filozofske	ogbon ori	Nan
-filozofska	ogbon ori	Nan
+filozofske	ori	None
+filozofska	ori	None
 filozofiju	imoye	Nan
 filipović	filipović	Nan
 film	fiimu	Nan
@@ -5174,7 +5174,7 @@ godine	ọdun	Nan
 godini	ọdun	Nan
 godinu	ọdun	Nan
 godišnja	lododun	Nan
-godišnje	ni ọdun kan	Nan
+godišnje	kan	None
 godišnji	lododun	Nan
 gogolj	gogol	Nan
 gol	ibi-afẹde	Nan
@@ -5205,7 +5205,7 @@ gljive	olu	Nan
 gleda	wiwo	Nan
 goran	goran	Nan
 goraždu	ilu	Nan
-govore	wọn sọ	Nan
+govore	sọ	None
 govoreći	nsoro	Nan
 govori	soro	Nan
 govorili	sọrọ	Nan
@@ -5249,11 +5249,11 @@ generacija	iran	Nan
 generacije	iran	Nan
 general	gbogboogbo	Nan
 generala	gbogboogbo	Nan
-generalno	ni gbogbogbo	Nan
+generalno	gbogbogbo	None
 genocid	ipaeyarun	Nan
 genocida	ipaeyarun	Nan
-geografija	ẹkọ nipa ilẹ	Nan
-geografije	ẹkọ nipa ilẹ	Nan
+geografija	ilẹ	None
+geografije	ilẹ	None
 geografska	àgbègbè	Nan
 geografske	àgbègbè	Nan
 geografski	àgbègbè	Nan
@@ -5281,8 +5281,8 @@ gasova	ategun	Nan
 gasoviti	oloyin	Nan
 gaj	oriṣa	Nan
 geografskom	àgbègbè	Nan
-geološke	ẹkọ nipa ilẹ	Nan
-geološki	ẹkọ nipa ilẹ	Nan
+geološke	ilẹ	None
+geološki	ilẹ	None
 glasine	agbasọ	Nan
 glasnik	ojiṣẹ	Nan
 glasova	ibo	Nan
@@ -5447,7 +5447,7 @@ dugme	bọtini	Nan
 dugmeta	bọtini	Nan
 dugo	gun	None
 dugog	gun	None
-dugotrajne	gun lasting	Nan
+dugotrajne	gun	None
 dugu	gun	None
 duh	ẹmi	Nan
 duha	ẹmi	Nan
@@ -5506,7 +5506,7 @@ enzimi	ensaemusi	Nan
 ep	éú	Nan
 epa	daradara	Nan
 euro	euro	None
-epidemija	àjàkálẹ àrùn	Nan
+epidemija	àrùn	None
 epohe	igbala	Nan
 epsilon	epsilon	Nan
 epu	ẹsẹ	None
@@ -5606,10 +5606,10 @@ engleska	england	Nan
 energetski	funnilokun	Nan
 engleske	ti england	Nan
 engleskih	gẹẹsi	Nan
-engleskim	ni ede gẹẹsi	Nan
+engleskim	ede	None
 engleskog	gẹẹsi	Nan
 engleskoj	ni england	Nan
-engleskom	ni ede gẹẹsi	Nan
+engleskom	ede	None
 englesku	gẹẹsi	Nan
 englezi	gẹẹsi	Nan
 engleski	gẹẹsi	Nan
@@ -5654,11 +5654,11 @@ internetu	intaneti	Nan
 inteligencija	oloye	None
 insuficijencija	aito	Nan
 instrument	irinse	Nan
-instrukcije	awọn ilana	Nan
+instrukcije	ilana	None
 infekcije	awọn àkóràn	Nan
 informacija	alaye	Nan
 informacije	alaye	Nan
-informatika	imo komputa sayensi	Nan
+informatika	komputa	None
 informativni	ti alaye	Nan
 infrastruktura	amayederun	Nan
 inhibira	awọn idiwọ	Nan
@@ -5725,13 +5725,13 @@ ilirsko	ollyrian	Nan
 ilirskog	ollyrian	Nan
 im	im	Nan
 ima	o wa	Nan
-imaju	wọn ni	Nan
+imaju	wọn	None
 imajući	nini	Nan
 imala	ní	None
 imale	ní	None
 ilijaš	ilijaš	Nan
 ilijada	iliad	Nan
-ilija	tabi emi	Nan
+ilija	tabi	None
 ilidža	ilidža	Nan
 igračima	awọn oṣere	Nan
 igračke	ọmọlangidi	Nan
@@ -5796,7 +5796,7 @@ izbore	awọn idibo	Nan
 izbori	awọn idibo	Nan
 izborima	awọn idibo	Nan
 izdaje	ẹlẹtan	Nan
-izdaju	fi hàn	Nan
+izdaju	fi	None
 izdanja	awọn itọsọna	Nan
 izdanje	àtúnse	Nan
 izdanju	àtúnse	Nan
@@ -5813,8 +5813,8 @@ izbjeglice	asasala	Nan
 izbjeglica	asasala	Nan
 iza	sile	None
 izabran	dibo	Nan
-izabrana	ti a ti yan	Nan
-izabrane	ti a ti yan	Nan
+izabrana	yan	None
+izabrane	yan	None
 izabrani	yàn	Nan
 izaziva	mu	Nan
 izazove	awọn italaya	Nan
@@ -5824,9 +5824,9 @@ izazvao	binu	Nan
 izazvati	lati binu	Nan
 izašao	jade wá	Nan
 izašla	jade wá	Nan
-izbačen	da àwọn jade	Nan
+izbačen	da	None
 izbijanja	awọn ibesile	Nan
-izbio	bu jade	Nan
+izbio	bu	None
 izazvalo	ṣẹlẹ	Nan
 iz	lati	Nan
 izet	izet	Nan
@@ -5851,7 +5851,7 @@ izgubio	sọnu	Nan
 izgubili	sọnu	Nan
 izgubila	sọnu	Nan
 izgleda	o dabi pe	Nan
-izgovara	n sọ	Nan
+izgovara	sọ	None
 izgovor	ikewo	Nan
 izgovora	ikewo	Nan
 izgradio	itumọ	Nan
@@ -5871,20 +5871,20 @@ ix	ix	Nan
 ivo	ivo	Nan
 ivica	eti	Nan
 israel	israeli	Nan
-ista	ikan na	Nan
+ista	ikan	None
 istaknuti	lati toka si	Nan
 istanbul	tantanébúbù	Nan
 istanbulu	istanbulu	Nan
-iste	ikan na	Nan
+iste	ikan	None
 istezanje	nínàá	Nan
-isti	ikan na	Nan
-istih	ikan na	Nan
-istim	ikan na	Nan
+isti	ikan	None
+istih	ikan	None
+istim	ikan	None
 istina	ooto	Nan
 istine	ooto	Nan
 ističe	dopin	Nan
 ističu	ai-gba	Nan
-isto	ikan na	Nan
+isto	ikan	None
 ispunjen	ṣẹ	Nan
 ispunjava	pàdé	Nan
 ispuni	kun	Nan
@@ -5896,7 +5896,7 @@ islamskog	islamu	Nan
 islamskoj	islamu	Nan
 islamu	islam	Nan
 island	erekusu	Nan
-istog	ikan na	Nan
+istog	ikan	None
 ismet	arabara	Nan
 ispitivanja	idanwo	Nan
 ispitivanje	àyẹ̀wò	Nan
@@ -5907,7 +5907,7 @@ ispred	ni iwaju	Nan
 isprobavanje	idanwo	Nan
 iso	ipin	None
 istoimene	ti orukọ kanna	Nan
-istoj	ikan na	Nan
+istoj	ikan	None
 istok	ila-oorun	Nan
 isus	jesu	None
 isusa	jesu	None
@@ -5916,7 +5916,7 @@ italija	ilu italia	Nan
 italijani	awọn ara italia	Nan
 italijanski	ilu italia	Nan
 italije	ilu italia	Nan
-istu	ikan na	Nan
+istu	ikan	None
 italiji	ilu italia	Nan
 italiju	ilu italia	Nan
 itd	abbl.	Nan
@@ -5930,9 +5930,9 @@ igrači	awọn oṣere	Nan
 istraživači	awọn oniwadi	Nan
 istraživanjima	iwadii	Nan
 istoka	ila-oorun	Nan
-istom	ikan na	Nan
+istom	ikan	None
 istorija	itan	Nan
-istovremeno	ni akoko kan naa	Nan
+istovremeno	kan	None
 istočna	ila-oorun	Nan
 istočne	ila-oorun	Nan
 istočni	ila-oorun	Nan
@@ -6032,7 +6032,7 @@ gradsko	ilu	Nan
 gradskog	ilu	Nan
 gradskom	ilu	Nan
 gradu	ilu	Nan
-grafika	awọn eya aworan	Nan
+grafika	eya	None
 grafička	ayaworan	Nan
 grafičke	ayaworan	Nan
 grafički	ayaworan	Nan
@@ -6041,7 +6041,7 @@ grafičkog	ayaworan	Nan
 gramatika	èdè grámà	Nan
 grana	ẹka	Nan
 granata	alumọni	Nan
-grand	baba agba	Nan
+grand	agba	None
 gradski	ilu	Nan
 gradske	ilu	Nan
 gradska	ilu	Nan
@@ -6065,20 +6065,20 @@ gradovi	awọn ilu	Nan
 gradnji	ikole	Nan
 grane	awọn ẹka	Nan
 granica	ààlà	Nan
-granicama	awọn aala	Nan
+granicama	aala	None
 građen	itumọ	Nan
 građena	itumọ	Nan
 građene	itumọ	Nan
 građevina	ile	Nan
 građevine	awọn ile	Nan
 građevinski	ikole	Nan
-grb	ami orileede	Nan
+grb	orileede	None
 građe	awọn ohun elo	Nan
 grba	hump	Nan
 grbavice	humps	Nan
 grbavici	humps	Nan
-grbom	ami orileede	Nan
-grbu	ami orileede	Nan
+grbom	orileede	None
+grbu	orileede	None
 grci	awọn hellene	Nan
 grcima	awọn hellene	Nan
 grešaka	awọn aṣiṣe	Nan
@@ -6086,7 +6086,7 @@ grbavica	humpback	Nan
 heart	obi	Nan
 građanskog	ara ilu	Nan
 građanski	ara ilu	Nan
-granice	awọn aala	Nan
+granice	aala	None
 granici	ààlà	Nan
 granicu	ààlà	Nan
 graniči	ààlà	Nan
@@ -6129,7 +6129,7 @@ hotela	hotẹẹli	Nan
 hoteli	awọn hotẹẹli	Nan
 hotelu	hotẹẹli	Nan
 house	ilé	None
-hoće	yoo ṣe	Nan
+hoće	yoo	None
 hrabrost	igboya	Nan
 hram	tẹmpili	Nan
 humanizam	ẹda eniyan	Nan
@@ -6154,7 +6154,7 @@ if	ti o ba ti	Nan
 igara	awọn ere	Nan
 igor	igor	Nan
 igra	eré	Nan
-igraju	wọn ṣere	Nan
+igraju	wọn	None
 igrala	dun	None
 igrali	dun	None
 igrama	awọn ere	Nan
@@ -6275,19 +6275,19 @@ bili	wà	Nan
 biljaka	eweko	Nan
 bilje	ewe	None
 bilješke	awọn akọsilẹ	Nan
-bilježe	wọn ṣe igbasilẹ	Nan
+bilježe	wọn	None
 bilježi	awọn akọsilẹ	Nan
 biljka	ohun ọgbin	Nan
 bijeli	funfun	Nan
 bijele	funfun	Nan
 bijela	funfun	Nan
-bijaše	oun ni	Nan
+bijaše	oun	None
 beču	vienna	Nan
 bešlagić	paruwo	Nan
 bešlić	bẹbẹ	Nan
 bh	bh	Nan
 bi	bi	Nan
-biblije	awọn bibeli	Nan
+biblije	bibeli	None
 bibliji	bibeli	None
 biljkama	eweko	Nan
 bibliografija	iwe itan	Nan
@@ -6297,7 +6297,7 @@ bih	m ba	Nan
 bihać	bihać	Nan
 bihaća	bihaća	Nan
 bihaćki	bihaćki	Nan
-bihaću	mo ti yoo	Nan
+bihaću	yoo	None
 biblioteka	ile ikawe	Nan
 beča	vienna	Nan
 biljke	eweko	Nan
@@ -6305,14 +6305,14 @@ biljnih	ohun ọgbin	Nan
 bitan	bitan	Nan
 biti	jẹ	Nan
 bitka	ogun	None
-bitke	awọn ogun	Nan
-bitki	awọn ogun	Nan
+bitke	ogun	None
+bitki	ogun	None
 bitku	ogun	None
 bitna	pataki	Nan
 bitne	pataki	Nan
 bitno	pataki	Nan
 biva	biva	Nan
-bivaju	wọn jẹ	Nan
+bivaju	wọn	None
 bivša	mofi	Nan
 bivše	mofi	Nan
 bivšeg	mofi	Nan
@@ -6335,7 +6335,7 @@ biološka	ẹkọ oniye	Nan
 biološki	ẹkọ oniye	Nan
 biosfera	biosphere	Nan
 bira	oti sekengberi	Nan
-biraju	wọn yan	Nan
+biraju	yan	None
 biseri	pele	None
 biografija	isedale	Nan
 bivših	mofi	Nan
@@ -6402,7 +6402,7 @@ beg	bẹbẹ	Nan
 baziran	orisun	None
 bazirana	orisun	None
 bazu	mimọ	Nan
-baš	o kan	Nan
+baš	kan	None
 bašagić	башагић	Nan
 bašagića	башагића	Nan
 bašeskija	башескија	Nan
@@ -6416,7 +6416,7 @@ be	jẹ	Nan
 bebek	ọmọ	None
 bedema	awọn agbọnrin	Nan
 baštine	ogún	Nan
-bivšoj	awọn tele	Nan
+bivšoj	tele	None
 bića	eeyan	Nan
 biće	jije	None
 bosanskom	bosniani	Nan
@@ -6460,7 +6460,7 @@ bošnjaka	bosniaks	Nan
 bošnjani	awọn ara ilu bosni	Nan
 bratstvo	odaran	Nan
 bratu	arakunrin	Nan
-bratunac	ọmọ ẹgbọn	Nan
+bratunac	ọmọ	None
 brazil	ilu brazil	Nan
 braća	awọn arakunrin	Nan
 braće	awọn arakunrin	Nan
@@ -6470,7 +6470,7 @@ brdski	olorun	Nan
 brdu	òkè	Nan
 bregović	bregović	Nan
 breza	biriki	Nan
-brigade	ọmọ ogun	Nan
+brigade	ogun	None
 brijeg	.kè	Nan
 brijegu	òkè	Nan
 brata	arakunrin	Nan
@@ -6626,7 +6626,7 @@ anoda	anode	Nan
 ansambl	ṣajọpọ	Nan
 antarktika	antarctica	Nan
 ante	àgba	Nan
-antibiotik	ogun aporo	Nan
+antibiotik	ogun	None
 antigona	antigone	Nan
 antioksidant	ẹda apakokoro	Nan
 antivirus	adodo	Nan
@@ -6657,8 +6657,8 @@ alberto	alberto	Nan
 adresa	adirẹsi	Nan
 adresu	adirẹsi	Nan
 adsorpcija	adsorption	Nan
-aerodrom	papa ọkọ ofurufu	Nan
-aerodroma	papa ọkọ ofurufu	Nan
+aerodrom	papa	None
+aerodroma	papa	None
 afera	ibalopọ	Nan
 afganistan	afiganisitani	Nan
 africi	afirika	Nan
@@ -6784,8 +6784,8 @@ bajrama	eid	Nan
 bajramović	bajramović	Nan
 bakar	bàbà	Nan
 bakra	bàbà	Nan
-bakterija	awọn kokoro arun	Nan
-bakterije	awọn kokoro arun	Nan
+bakterija	arun	None
+bakterije	arun	None
 azija	asia	Nan
 azerbejdžan	azerbaijan	Nan
 avioni	ọkọ ofurufu	Nan
@@ -6807,10 +6807,10 @@ avgust	oṣu kẹjọ	Nan
 avijacija	ọkọ ofurufu	Nan
 avion	ọkọ ofurufu	Nan
 autori	awọn onkọwe	Nan
-atlantskog	ede atlantic	Nan
-atlantski	ede atlantic	Nan
+atlantskog	ede	None
+atlantski	ede	None
 atini	hensténì	Nan
-aprilu	oṣu kẹrin	Nan
+aprilu	kẹrin	None
 apsolutna	idi	Nan
 apsolutni	idi	Nan
 apsolutno	egba	None
@@ -6819,14 +6819,14 @@ arabija	ara arabia	Nan
 arabije	ara arabia	Nan
 arabiji	ara arabia	Nan
 arapa	arapa	Nan
-arapi	dè lárúbáwá	Nan
-arapska	dè lárúbáwá	Nan
-arapske	dè lárúbáwá	Nan
-arapski	dè lárúbáwá	Nan
-arapskih	dè lárúbáwá	Nan
-arapskim	dè lárúbáwá	Nan
-aprila	oṣu kẹrin	Nan
-april	oṣu kẹrin	Nan
+arapi	lárúbáwá	None
+arapska	lárúbáwá	None
+arapske	lárúbáwá	None
+arapski	lárúbáwá	None
+arapskih	lárúbáwá	None
+arapskim	lárúbáwá	None
+aprila	kẹrin	None
+april	kẹrin	None
 apostola	aposteli	Nan
 aplikacije	awọn ohun elo	Nan
 antičko	atijọ	Nan
@@ -6836,7 +6836,7 @@ anto	anto	Nan
 antoaneta	antoaneta	Nan
 anton	anton	Nan
 antonija	antonija	Nan
-arapskog	dè lárúbáwá	Nan
+arapskog	lárúbáwá	None
 antonije	antonije	Nan
 antropologija	anthropology	Nan
 antropologije	anthropology	Nan
@@ -6846,7 +6846,7 @@ aparat	ohun elo	Nan
 aparata	ohun elo	Nan
 aplikacija	ohun elo	Nan
 antonio	antonio	Nan
-arapskom	dè lárúbáwá	Nan
+arapskom	lárúbáwá	None
 arbih	arbi	Nan
 argentina	ilu amẹrika	Nan
 arslanagić	arslanagić	Nan
@@ -6867,7 +6867,7 @@ atina	hensténì	Nan
 atine	hensténì	Nan
 aspekt	abala	None
 balade	awọn ballads	Nan
-armije	ọmọ ogun	Nan
+armije	ogun	None
 aritmetika	isiro	Nan
 arheolozi	archaeologists	Nan
 arheološka	igba atijọ	Nan
@@ -6876,12 +6876,12 @@ arhipelag	ile ikawe	Nan
 arhitekt	ayaworan	Nan
 arhitekta	ayaworan	Nan
 arhitektonski	ayaworan	Nan
-armija	ọmọ ogun	Nan
+armija	ogun	None
 arhitektura	faaji	Nan
 arhitekturi	faaji	Nan
 arhitekturu	faaji	Nan
-arhiv	ile ifi nkan pamosi	Nan
-arhiva	ile ifi nkan pamosi	Nan
+arhiv	nkan	None
+arhiva	nkan	None
 arija	aria	Nan
 aristotel	aristotle	Nan
 aristotela	aristotle	Nan
@@ -6897,13 +6897,13 @@ dno	isalẹ	Nan
 dns	dns	Nan
 dnu	isalẹ	Nan
 do	sí	Nan
-dob	ọjọ ori	Nan
-doba	ọjọ ori	Nan
+dob	ori	None
+doba	ori	None
 dobar	o dara	Nan
 dobara	o dara	Nan
-dobi	ọjọ ori	Nan
+dobi	ori	None
 dobija	gba	None
-dobijaju	wọn gba	Nan
+dobijaju	gba	None
 dječja	ọmọ	None
 djevojčice	awon odomobirin	Nan
 djevojčica	ọmọbinrin	Nan
@@ -6927,14 +6927,14 @@ djetinjstvu	ewe	None
 djelovima	awọn ẹya	Nan
 djelima	awọn iṣẹ	Nan
 dobijanje	gba	None
-dobiju	wọn gba	Nan
+dobiju	gba	None
 dodati	ṣafikun	Nan
 dodatna	afikun	Nan
 dodatne	afikun	Nan
 dodatni	afikun	Nan
 dodatnim	afikun	Nan
 dodatno	afikun ohun ti	Nan
-dodatu	fi kun	Nan
+dodatu	fi	None
 dodavanja	awọn afikun	Nan
 dodavanje	fifi	Nan
 dodavanjem	nipa fifi	Nan
@@ -6945,7 +6945,7 @@ događa	ṣẹlẹ	Nan
 događaj	ìṣẹlẹ	Nan
 dodatak	afikun	Nan
 dodaje	o ṣe afikun	Nan
-dobu	ọjọ ori	Nan
+dobu	ori	None
 dobru	o dara	Nan
 dobila	gba	None
 dobile	gba	None
@@ -7005,7 +7005,7 @@ digitalni	oni-nọmba	Nan
 devedesetih	nin nin	Nan
 djelatnost	ìṣe	Nan
 dinamo	dynamo	Nan
-dinastija	idile oba	Nan
+dinastija	oba	None
 distribucije	pinpin	Nan
 distrikt	agbegbe	Nan
 distrikta	agbegbe	Nan
@@ -7016,7 +7016,7 @@ divlje	egan	Nan
 dizajn	apẹrẹ	Nan
 dizajna	apẹrẹ	Nan
 dizdar	dizdar	Nan
-djeca	awọn ọmọ wẹwẹ	Nan
+djeca	ọmọ	None
 djece	ọmọ	None
 djeci	ọmọ	None
 djecom	ọmọ	None
@@ -7025,7 +7025,7 @@ distribucija	pinpin	Nan
 disku	disiki	Nan
 diskografija	itan	Nan
 diska	disiki	Nan
-dinastije	idile oba	Nan
+dinastije	oba	None
 dino	dino	Nan
 dio	apakan	Nan
 dioksid	itọsi	Nan
@@ -7053,13 +7053,13 @@ doveo	mu	Nan
 dovesti	darí	Nan
 dovode	nyorisi	Nan
 dovodi	nyorisi	Nan
-dovoljan	ti to	Nan
-dovoljno	ti to	Nan
+dovoljan	to	None
+dovoljno	to	None
 doza	iwọn lilo	Nan
 dozama	abere	Nan
 doze	abere	Nan
 dozvola	igbanilaaye	Nan
-dozvoljava	gba laaye	Nan
+dozvoljava	gba	None
 dostupne	wa	Nan
 dostupna	wa	Nan
 dostupan	wa	Nan
@@ -7068,13 +7068,13 @@ doprinijeli	tiwon	Nan
 doprinijelo	tiwon	Nan
 doprinos	ilowosi	Nan
 doprinosi	awọn ifunni	Nan
-dopušta	gba laaye	Nan
+dopušta	gba	None
 dosada	ifura	Nan
 dosegla	de ọdọ	Nan
-dozvoljeno	gba laaye	Nan
+dozvoljeno	gba	None
 doselili	àlejò	Nan
 doslovno	itumọ ọrọ gangan	Nan
-dosta	ti to	Nan
+dosta	to	None
 dostigao	de ọdọ	Nan
 dostignuća	awọn aṣeyọri	Nan
 dostiže	de ọdọ	Nan
@@ -7135,7 +7135,7 @@ dolaska	dide	Nan
 dolaskom	dide	Nan
 dolasku	dide	Nan
 dolazak	dide	Nan
-dolaze	wọn ti wa	Nan
+dolaze	wọn	None
 dolazi	o bọ	Nan
 dolazili	wa	Nan
 dokumenata	awọn iwe aṣẹ	Nan
@@ -7309,8 +7309,8 @@ britanskih	ara ilu gẹẹsi	Nan
 brzi	yara	Nan
 britanskog	ara ilu gẹẹsi	Nan
 broda	ọkọ oju-omi	Nan
-brodova	awọn ọkọ oju omi	Nan
-brodovi	awọn ọkọ oju omi	Nan
+brodova	omi	None
+brodovi	omi	None
 brodu	ọkọ oju-omi	Nan
 broj	nọmba	Nan
 broja	nọmba	Nan
@@ -7319,10 +7319,10 @@ brod	ọkọ oju-omi	Nan
 brzina	iyara	Nan
 brzine	iyara	Nan
 brzinom	iyara	Nan
-bugarske	ede bulgaria	Nan
-bugarski	ede bulgaria	Nan
-bugarskoj	ede bulgaria	Nan
-bugarskom	ede bulgaria	Nan
+bugarske	ede	None
+bugarski	ede	None
+bugarskoj	ede	None
+bugarskom	ede	None
 bugojno	bugojno	Nan
 buha	buha	Nan
 buhe	bu	None
@@ -7338,7 +7338,7 @@ ca	ca.	Nan
 bukvalno	itumọ ọrọ gangan	Nan
 civilizacije	ọlaju	Nan
 bugari	bulgarians	Nan
-budućnosti	ti ojo iwaju	Nan
+budućnosti	ojo	None
 brzinu	iyara	Nan
 brzo	yara	Nan
 brčko	brčko	Nan
@@ -7350,12 +7350,12 @@ buenos	o dara	Nan
 bubrezi	kidinrin	Nan
 budi	jẹ	Nan
 budizam	buddhism	Nan
-budu	mo ti yoo	Nan
-buduće	ojo iwaju	Nan
-budućeg	ti ojo iwaju	Nan
-budući	ojo iwaju	Nan
-budućnost	ojo iwaju	Nan
-bude	yio je	Nan
+budu	yoo	None
+buduće	ojo	None
+budućeg	ojo	None
+budući	ojo	None
+budućnost	ojo	None
+bude	yio	None
 drugog	omiiran	Nan
 civilizaciju	ọlaju	Nan
 cjeline	tani	Nan
@@ -7364,7 +7364,7 @@ davati	fún	Nan
 david	david	Nan
 davis	davis	Nan
 davnina	ohun atijọ	Nan
-davno	ni ojo ti oti pe seyin	Nan
+davno	ojo	None
 davor	adun	Nan
 davorin	davorin	Nan
 daytonskog	ti dayton	Nan
@@ -7380,9 +7380,9 @@ datoteku	faili	Nan
 datoteke	awọn faili	Nan
 danima	àwọn ọjọ́	Nan
 danska	egeskov	Nan
-danske	ede danish	Nan
-danski	ede danish	Nan
-danskoj	ede danish	Nan
+danske	ede	None
+danski	ede	None
+danskoj	ede	None
 dante	dante	Nan
 dao	fún	Nan
 decenijama	ewadun	Nan
@@ -7412,7 +7412,7 @@ derventa	derventa	Nan
 derviš	dervish	Nan
 derviša	dervish	Nan
 deset	mẹwa	Nan
-desetak	kan mejila	Nan
+desetak	mejila	None
 demokratija	tiwantiwa	Nan
 demografija	ibi afọwọya	Nan
 delčev	awọn ege	Nan
@@ -7424,7 +7424,7 @@ definira	asọye	Nan
 definisan	asọye	Nan
 definisana	asọye	Nan
 definisati	setumo	Nan
-dedić	baba agba	Nan
+dedić	agba	None
 definitivno	dajudaju	Nan
 dei	dei	Nan
 dejtonski	dayton	Nan
@@ -7502,17 +7502,17 @@ cu	pẹlu	Nan
 cup	ife	Nan
 cvijet	òdòdó	Nan
 cvijeta	òdòdó	Nan
-cvijeće	awọn ododo	Nan
+cvijeće	ododo	None
 dalje	siwaju	Nan
 cvjeta	òdò	Nan
 da	bẹẹni	Nan
 daje	ti o ba jẹ	Nan
-daju	nwon fun	Nan
+daju	fun	None
 dajući	fifun	Nan
 dakle	nitorinaa	Nan
 dala	fún	Nan
 daleko	ojni gangan	Nan
-cvjetovi	awọn ododo	Nan
+cvjetovi	ododo	None
 јuliјanski	julian	Nan
 izmedu	laarin	None
 između	laarin	None
@@ -7521,8 +7521,8 @@ mz	mz	Nan
 münchen	munich	Nan
 münchenu	munich	Nan
 n	n	Nan
-n   z	nz	Nan
-n  x	nx	Nan
+z	nz	Nan
+x	nx	Nan
 na	loju	Nan
 naboja	idiyele	Nan
 nacija	orílẹ-èdè	Nan
@@ -7586,9 +7586,9 @@ nadalje	siwaju	Nan
 nade	ireti	Nan
 nadimak	inagije	Nan
 nadležnosti	ẹjọ	Nan
-nadmorska	loke okun ipele	Nan
-nadmorske	loke okun ipele	Nan
-nadmorskoj	loke okun ipele	Nan
+nadmorska	ipele	None
+nadmorske	ipele	None
+nadmorskoj	ipele	None
 nadrealista	surrealist	Nan
 nadbiskup	archbishop	Nan
 najbolje	o ti dara ju	Nan
@@ -7599,8 +7599,8 @@ moći	agbara	None
 možda	boya	Nan
 moždine	ọra	Nan
 može	le	None
-možemo	a le	Nan
-možete	o le	Nan
+možemo	le	None
+možete	le	None
 mramor	okuta didan	Nan
 mrav	kokoro	Nan
 mreža	nẹtiwọọki	Nan
@@ -7683,7 +7683,7 @@ napravljene	ṣe	Nan
 napravljeni	ṣe	Nan
 napredak	ilọsiwaju	Nan
 naprijed	siwaju	Nan
-naprimjer	fun apere	Nan
+naprimjer	fun	None
 naproksen	naproxen	Nan
 napulj	naples	Nan
 napusti	lọ	Nan
@@ -7730,7 +7730,7 @@ narodni	eniyan	Nan
 narodne	eniyan	Nan
 narodna	eniyan	Nan
 narodima	awọn orilẹ-ede	Nan
-napuštaju	wọn lọ	Nan
+napuštaju	wọn	None
 naraste	gbooro	Nan
 naravi	iseda	Nan
 naravno	dajudaju	Nan
@@ -7797,7 +7797,7 @@ nama	àwa	Nan
 namaz	àdúrà	Nan
 namaza	namaz	Nan
 nalazio	ri	Nan
-nameće	fi agbara mu	Nan
+nameće	agbara	None
 namjena	idi	Nan
 namjera	ero	Nan
 namjere	ero	Nan
@@ -7894,7 +7894,7 @@ milama	maili	Nan
 milan	malan	Nan
 milana	milana	Nan
 mile	maili	Nan
-mijenjaju	wọn yipada	Nan
+mijenjaju	yipada	None
 milion	million	Nan
 milić	ololufe	Nan
 miljacka	miljacka	Nan
@@ -7950,15 +7950,15 @@ menadžment	iṣakoso	Nan
 mene	emi	Nan
 meni	si mi	Nan
 menstruacije	oṣu	Nan
-menstrualni	nkan oṣu	Nan
-menstrualnog	nkan oṣu	Nan
+menstrualni	nkan	None
+menstrualnog	nkan	None
 mercury	makiuri	Nan
 merlin	ẹrin	Nan
 mesa	eran	Nan
 meso	eran	Nan
 meta	meta	Nan
-metabolizam	ti iṣelọpọ agbara	Nan
-metabolizma	ti iṣelọpọ agbara	Nan
+metabolizam	agbara	None
+metabolizma	agbara	None
 metafizika	afiwera	Nan
 metafora	afiwe	Nan
 menadžer	oluṣakoso	Nan
@@ -7978,18 +7978,18 @@ meksika	mexico	None
 meksiko	mexico	None
 meku	rirọ	Nan
 melodije	awọn orin aladun	Nan
-membrane	awo ilu	Nan
+membrane	awo	None
 memić	memić	Nan
 memići	memići	Nan
 meki	rirọ	Nan
 mira	iyanu	Nan
-miraz	owo ori	Nan
+miraz	ori	None
 miris	orun	Nan
 mogla	le	None
 mogle	le	None
-mogli	won le	Nan
+mogli	le	None
 moglo	le	None
-mogu	mo le	Nan
+mogu	le	None
 moguć	ṣeeṣe	Nan
 moguća	ṣeeṣe	Nan
 moguće	ṣeeṣe	Nan
@@ -8036,10 +8036,10 @@ more	okun	Nan
 morem	lẹba okun	Nan
 morfologija	mofoloji	Nan
 morima	òkun	Nan
-morske	omi okun	Nan
+morske	omi	None
 moru	okun	Nan
 moskva	mọṣaga	Nan
-moraju	wọn gbọdọ	Nan
+moraju	wọn	None
 mora	gbọdọ	Nan
 mooa	mooa	Nan
 moo	moo	Nan
@@ -8193,7 +8193,7 @@ obradu	sisẹ	Nan
 obrazovanja	eko	None
 obrazovanje	eko	None
 obrazuje	awọn fọọmu	Nan
-obrađuje	awọn ilana	Nan
+obrađuje	ilana	None
 obreda	irubo	Nan
 obrnuto	idakeji	Nan
 oblikovanje	apẹrẹ	Nan
@@ -8202,8 +8202,8 @@ oblike	awọn apẹrẹ	Nan
 oblika	apẹrẹ	Nan
 objekt	nnkan	Nan
 objekta	nnkan	Nan
-objekte	awọn nkan	Nan
-objekti	awọn nkan	Nan
+objekte	nkan	None
+objekti	nkan	None
 objektima	ohun elo	Nan
 objektivne	eredi	Nan
 objema	mejeeji	Nan
@@ -8237,7 +8237,7 @@ noviji	tuntun	None
 novim	tuntun	None
 nositelj	agbẹru	Nan
 nosioci	awọn ọkọ ayọkẹlẹ	Nan
-nosio	ti gbe	Nan
+nosio	gbe	None
 nosili	wọ	Nan
 nogometaši	ẹlẹsẹ ẹlẹsẹ	Nan
 nogometna	bọọlu	Nan
@@ -8329,7 +8329,7 @@ određene	pàtó	Nan
 određenih	dajudaju	Nan
 određenim	dajudaju	Nan
 određeno	dajudaju	Nan
-određenog	ti kan pato	Nan
+određenog	kan	None
 određenoj	dajudaju	Nan
 određenom	dajudaju	Nan
 određenu	dajudaju	Nan
@@ -8393,8 +8393,8 @@ ode	ode	Nan
 odgoj	eko	None
 odbila	kọ	Nan
 odbija	kọ	Nan
-odbacuju	wọn kọ	Nan
-odavno	ni ojo ti oti pe seyin	Nan
+odbacuju	wọn	None
+odavno	ojo	None
 obuhvataju	kaakiri	Nan
 obuhvatala	yika	Nan
 obuhvaća	kaakiri	Nan
@@ -8424,8 +8424,8 @@ odlučila	pinnu	Nan
 odlučili	pinnu	Nan
 odluci	awọn ipinnu	Nan
 odlučio	pinnu	Nan
-odlučuju	wọn pinnu	Nan
-odmah	ni bayi	Nan
+odlučuju	wọn	None
+odmah	bayi	None
 odmor	sinmi	Nan
 odmorište	isimi isinmi	Nan
 odnos	ibatan	Nan
@@ -8440,14 +8440,14 @@ odgovor	idahun	Nan
 odgovoran	lodidi	Nan
 odgovorio	si dahun pe	Nan
 odgovornost	ojuse	None
-odgovornosti	awọn ojuse	Nan
+odgovornosti	ojuse	None
 odigrala	dun	None
 odlikuje	apọju	Nan
 odigrana	dun	None
 odiseja	odyssey	Nan
 odjeću	aṣọ	Nan
 odlaska	ilọkuro	Nan
-odlaze	wọn lọ	Nan
+odlaze	wọn	None
 odlazi	kuro patapata	Nan
 odlika	didara	Nan
 odlike	awọn ẹya	Nan
@@ -8500,17 +8500,17 @@ negdje	ibikan	Nan
 nego	rẹ	None
 nejednakost	aidogba	Nan
 nek	ọgbẹni	Nan
-neka	jẹ ki	Nan
+neka	ki	None
 nekad	nigbakan	None
 nekada	lẹẹkan	Nan
-nekadašnjeg	ti tele	Nan
+nekadašnjeg	tele	None
 neke	diẹ ninu	Nan
 neki	diẹ ninu	Nan
 nekih	diẹ ninu	Nan
 nekim	si diẹ ninu	Nan
 neko	ẹnikan	Nan
 nedžad	nedžad	Nan
-nedugo	ko pẹ	Nan
+nedugo	ko	None
 nedovoljno	aito	Nan
 nedostatka	aini	Nan
 nažalost	laanu	Nan
@@ -8525,7 +8525,7 @@ nebo	awọn ọrun	Nan
 neboderi	awọn ọkọ ofurufu oju-ọrun	Nan
 nebu	awọn ọrun	Nan
 neda	neda	Nan
-nedaleko	ko jina	Nan
+nedaleko	ko	None
 nedavno	laipẹ	Nan
 nedjelja	ọjọ sundee	Nan
 nedostatak	aini	Nan
@@ -8544,7 +8544,7 @@ nastavili	tesiwaju	Nan
 nastavio	tesiwaju	Nan
 nastaviti	lati tesiwaju	Nan
 nastavlja	tẹsiwaju	Nan
-nastavljaju	wọn tẹsiwaju	Nan
+nastavljaju	wọn	None
 nastavljeno	tesiwaju	Nan
 nastojao	tiraka	Nan
 nastoji	akitiyan	Nan
@@ -8584,10 +8584,10 @@ navedene	ṣe akojọ	Nan
 navedenih	ṣe akojọ	Nan
 navedenim	ṣe akojọ	Nan
 navedeno	ṣalaye	Nan
-navesti	lati ipo	Nan
+navesti	ipo	None
 navijača	egeb onijakidijagan	Nan
 navijači	egeb onijakidijagan	Nan
-navode	wọn ipo	Nan
+navode	ipo	None
 navedeni	ṣe akojọ	Nan
 nekog	ẹnikan	Nan
 naučna	sayensi	Nan
@@ -8596,7 +8596,7 @@ nastupao	ošišẹ	Nan
 nastupe	awọn iṣe	Nan
 nastupi	awọn iṣe	Nan
 nastupima	awọn iṣe	Nan
-nasuprot	bi be ko	Nan
+nasuprot	ko	None
 natjecanja	awọn idije	Nan
 nato	lẹhinna	Nan
 naučio	kọ ẹkọ	Nan
@@ -8631,7 +8631,7 @@ njegova	tirẹ	Nan
 njegov	tirẹ	Nan
 njega	rẹ	None
 nje	nje	Nan
-nivoima	awọn ipele	Nan
+nivoima	ipele	None
 nivou	ipele	None
 niz	okun	Nan
 niza	okun	Nan
@@ -8648,7 +8648,7 @@ niže	ni isalẹ	Nan
 niži	kere	Nan
 nižih	kere	Nan
 nizine	àwọn ilẹ̀ kéékèèké	Nan
-nivoa	awọn ipele	Nan
+nivoa	ipele	None
 njemačkog	jẹmánì	Nan
 njemačkom	ni jẹmánì	Nan
 njihovo	tiwọn	None
@@ -8713,7 +8713,7 @@ nekropola	negbogbo	Nan
 neku	diẹ ninu	Nan
 nele	ẹyẹ	Nan
 nema	rárá	Nan
-nemaju	wọn ko ni	Nan
+nemaju	ko	None
 nemetal	ailorukọ	Nan
 nemoguće	soro	Nan
 nevesinje	nevesinje	Nan
@@ -8729,7 +8729,7 @@ neobično	dani	None
 news	awọn iroyin	Nan
 nezadovoljstvo	ainitẹlọrun	Nan
 nezaposlenost	alainiṣẹ	Nan
-nikako	ko ṣee ṣe	Nan
+nikako	ko	None
 nikakve	kò si	Nan
 nikakvog	kò si	Nan
 niko	enikeni	Nan
@@ -8738,15 +8738,15 @@ nikolaj	кккллй	Nan
 nikole	nikole	Nan
 nikada	rara	Nan
 nila	nila	Nan
-nisam	emi ko	Nan
+nisam	ko	None
 niska	kekere	None
 niske	kekere	None
 niskim	kekere	None
 niskog	kekere	None
-nismo	a ko	Nan
+nismo	ko	None
 nisu	awón kó	Nan
 nimalo	rara	Nan
-nekoliko	kan diẹ	Nan
+nekoliko	kan	None
 nikad	rara	Nan
 nijemaca	awọn ara jamani	Nan
 nezaposlenosti	alainiṣẹ	Nan
@@ -8757,7 +8757,7 @@ nezavisno	olominira	Nan
 nezavisnost	ominira	Nan
 nezavisnosti	ominira	Nan
 nijemci	awọn ara jamani	Nan
-neće	yoo ko	Nan
+neće	ko	None
 nešto	nkan	None
 ni	ni	Nan
 nietzsche	nietzsche	Nan
@@ -8781,7 +8781,7 @@ kategorijasrednjobosanski	ẹkacentral bosnian	Nan
 kategorijaumjetnost	categoryart	Nan
 kategorijaunskosanski	ẹka-ilẹ	Nan
 kategorijavoće	eso ẹka	Nan
-kategorijačlanovi	awọn ọmọ ẹgbẹ	Nan
+kategorijačlanovi	ọmọ	None
 kategorijaženski	obinrin obinrin	Nan
 kategorije	awọn ẹka	Nan
 kategorijama	awọn ẹka	Nan
@@ -8825,8 +8825,8 @@ kipra	kírúsì	Nan
 kipru	kírúsì	Nan
 kemal	kemal	Nan
 kefir	kefir	Nan
-kažu	wọn sọ	Nan
-kažemo	a sọ	Nan
+kažu	sọ	None
+kažemo	sọ	None
 katoda	ẹyẹ	Nan
 katolici	katoliki	Nan
 katolika	ẹlẹsin katoliki	Nan
@@ -8842,7 +8842,7 @@ kazasi	kazasi	Nan
 kazna	iya	Nan
 kazne	awọn ijiya	Nan
 kaznu	iya	Nan
-kaže	wí pé	Nan
+kaže	pé	None
 kavkaza	caucasus	Nan
 kirijum	kiri	Nan
 katedra	alaga	Nan
@@ -8854,7 +8854,7 @@ kantonu	canton	Nan
 kao	bi	Nan
 kapacitet	agbara	None
 kapaciteta	agbara	None
-kapaciteti	awọn agbara	Nan
+kapaciteti	agbara	None
 kapetan	balogun	Nan
 kapetana	balogun	Nan
 kapija	ilekun nla	Nan
@@ -8888,7 +8888,7 @@ karakter	ohun kikọ	Nan
 karakteristika	ti iwa	Nan
 karlo	karlo	Nan
 karta	maapu	None
-karte	awọn maapu	Nan
+karte	maapu	None
 kartica	kaadi	Nan
 kartice	awọn kaadi	Nan
 kartu	maapu	None
@@ -8967,9 +8967,9 @@ komora	iyẹwu	Nan
 komunikacija	ibaraẹnisọrọ	Nan
 komunikacije	awọn ibaraẹnisọrọ	Nan
 komunikaciju	ibaraẹnisọrọ	Nan
-komunista	ọmọ ẹgbẹ ilu	Nan
-komunistička	ọmọ ẹgbẹ ilu	Nan
-komunističke	ọmọ ẹgbẹ ilu	Nan
+komunista	ọmọ	None
+komunistička	ọmọ	None
+komunističke	ọmọ	None
 komunizma	communism	Nan
 konami	konami	Nan
 konačan	ipari	Nan
@@ -9073,8 +9073,8 @@ književna	imọwe	Nan
 klubovi	ọgọ	Nan
 klubu	ọgọ	Nan
 km	km	Nan
-knez	ọmọ alade	Nan
-kneza	ọmọ alade	Nan
+knez	ọmọ	None
+kneza	ọmọ	None
 knjiga	iwe	Nan
 knjige	awọn iwe	Nan
 knjigu	iwe	Nan
@@ -9114,7 +9114,7 @@ jaden	talaka	None
 jadrana	awọn adriatic	Nan
 jadransko	adriatic	Nan
 jadranskog	adriatic	Nan
-jagoda	iru eso didun kan	Nan
+jagoda	kan	None
 jagode	awọn iru eso igi	Nan
 jahić	ẹlẹṣin	Nan
 jacques	jacques	Nan
@@ -9148,15 +9148,15 @@ japana	japan	Nan
 japanski	japanese	Nan
 japanu	japanu	Nan
 janja	ọdọ aguntan	Nan
-jasna	ko o	Nan
+jasna	ko	None
 java	java	Nan
 javi	pe	Nan
 javiti	ijabọ	Nan
 javlja	awọn ijabọ	Nan
-javljaju	wọn jabo	Nan
+javljaju	jabo	None
 javna	gbangba	Nan
 javne	gbangba	Nan
-jasno	ko o	Nan
+jasno	ko	None
 jedinica	ẹyọkan	Nan
 izvršna	adari	Nan
 izvršio	ti ṣe	Nan
@@ -9173,7 +9173,7 @@ izuzetne	yatọ	Nan
 izuzetno	yatọ	Nan
 izuzev	ayafi	Nan
 izučava	awọn ijinlẹ	Nan
-izučavaju	wọn kẹkọ	Nan
+izučavaju	wọn	None
 izučavanje	iwadi	None
 izraziti	lati han	Nan
 izrazi	awọn ikosile	Nan
@@ -9198,7 +9198,7 @@ izravno	taara	Nan
 iznosio	mu jade	Nan
 izvršiti	lati ṣe	Nan
 izvanredne	extraordinary	Nan
-izveden	ti gbe jade	Nan
+izveden	gbe	None
 izvoznik	atajasita	Nan
 izvozu	okeere	None
 izvođač	alagbaṣe	Nan
@@ -9222,7 +9222,7 @@ izvedena	ošišẹ	Nan
 izvedeni	ti ari	Nan
 izveli	ošišẹ	Nan
 izvesti	mu jade	Nan
-izvire	awọn orisun omi	Nan
+izvire	omi	None
 izvještaj	ijabọ	Nan
 izvještaju	ijabọ	Nan
 izvedbe	imuṣere	Nan
@@ -9230,10 +9230,10 @@ izvlačenje	iyaworan	Nan
 izvodi	awọn itọsẹ	Nan
 izvodili	ošišẹ	Nan
 izvor	orisun	None
-izvora	awọn orisun	Nan
-izvore	awọn orisun	Nan
-izvori	awọn orisun	Nan
-izvorima	awọn orisun	Nan
+izvora	orisun	None
+izvore	orisun	None
+izvori	orisun	None
+izvorima	orisun	None
 izvode	ṣe	Nan
 jedinicama	awọn sipo	Nan
 jedinice	awọn sipo	Nan
@@ -9249,10 +9249,10 @@ julija	oṣu keje	Nan
 julije	oṣu keje	Nan
 julska	oṣu keje	Nan
 julu	oṣu keje	Nan
-juna	oṣu karun	Nan
+juna	karun	None
 junak	akọni	Nan
 junaka	awọn akọni	Nan
-juni	oṣu karun	Nan
+juni	karun	None
 jugoslaviju	yugoslavia	Nan
 jugoslaviji	yugoslavia	Nan
 jugoslavije	yugoslavia	Nan
@@ -9264,12 +9264,12 @@ još	diẹ sii	Nan
 ju	ju	Nan
 juan	iwin	Nan
 judaizam	ẹsin juu	Nan
-junu	oṣu karun	Nan
+junu	karun	None
 jug	guusu	None
-jugoistoku	guusu ila oorun	Nan
-jugoistočne	guusu ila oorun	Nan
-jugoistočnoj	guusu ila oorun	Nan
-jugoistočnom	guusu ila oorun	Nan
+jugoistoku	guusu	None
+jugoistočne	guusu	None
+jugoistočnoj	guusu	None
+jugoistočnom	guusu	None
 jugoslaveni	yugoslavs	Nan
 jugoslavenske	yugoslav	Nan
 jugoslavenskih	yugoslav	Nan
@@ -9342,7 +9342,7 @@ jedinstva	isokan	Nan
 jedinstven	alailẹgbẹ	Nan
 jedinstvena	alailẹgbẹ	Nan
 jedinstveni	alailẹgbẹ	Nan
-jedu	wọn jẹ	Nan
+jedu	wọn	None
 jedinstveno	alailẹgbẹ	Nan
 jedinstvenu	alailẹgbẹ	Nan
 jedinstvo	isokan	Nan
@@ -9357,12 +9357,12 @@ jela	awopọ	Nan
 jelena	agbọnrin	Nan
 jezik	ede	None
 jezika	ede	None
-jezike	awọn ede	Nan
+jezike	ede	None
 jezikom	ede	None
 jeziku	ede	None
 jezičke	awọn taabu	Nan
-jezički	ede kika	Nan
-jezicima	awọn ede	Nan
+jezički	ede	None
+jezicima	ede	None
 jezične	ede	None
 ječam	ọkà baali	Nan
 jna	jna	Nan
@@ -9373,17 +9373,17 @@ joj	ouch	Nan
 jordan	jordan	Nan
 jezični	ede	None
 kalesija	kalesija	Nan
-jezici	awọn ede	Nan
+jezici	ede	None
 jezgra	mojuto	Nan
 jer	nitori	Nan
-jesen	igba irẹdanu ewe	Nan
-jeseni	igba irẹdanu ewe	Nan
-jesenjin	igba irẹdanu ewe	Nan
+jesen	ewe	None
+jeseni	ewe	None
+jesenjin	ewe	None
 jest	jẹ	Nan
-jeste	oun ni	Nan
+jeste	oun	None
 jesti	lati jẹ	Nan
 jezgro	mojuto	Nan
-jesu	wọn jẹ	Nan
+jesu	wọn	None
 jetre	ẹdọ	Nan
 jevreja	ju	Nan
 jevreji	ju	Nan
@@ -9461,7 +9461,7 @@ logori	ago	Nan
 logoru	àgọ́	None
 lokacija	ipo	None
 logično	mogbonwa	Nan
-lokacije	awọn ipo	Nan
+lokacije	ipo	None
 lokaliteta	agbegbe	Nan
 lokalitetu	agbegbe	Nan
 lokalna	agbegbe	Nan
@@ -9496,11 +9496,11 @@ legura	alloy	Nan
 legure	awọn alloys	Nan
 leksikologija	lexicology	Nan
 leonardo	leonardo	Nan
-let	jẹ ki	Nan
+let	ki	None
 lete	fò	Nan
 letjelica	ọkọ ofurufu	Nan
 liječenja	itọju	Nan
-lezbejka	ọmọ obinrin obinrin	Nan
+lezbejka	ọmọ	None
 leže	irọ	Nan
 leži	irọ	Nan
 ležišta	awọn agbejade	Nan
@@ -9560,11 +9560,11 @@ marks	awọn aami	Nan
 maroka	morocco	Nan
 maroko	morocco	Nan
 maroku	morocco	Nan
-mars	oṣu kẹta	Nan
+mars	kẹta	None
 marshall	marshall	Nan
 marsu	ọkunrin	Nan
-mart	oṣu kẹta	Nan
-marta	oṣu kẹta	Nan
+mart	kẹta	None
+marta	kẹta	None
 martin	martin	Nan
 markama	awọn aami	Nan
 marka	ami	Nan
@@ -9577,14 +9577,14 @@ mao	mao	Nan
 mapa	maapu	None
 maraka	awọn ontẹ	Nan
 maria	arabinrin	Nan
-martu	oṣu kẹta	Nan
+martu	kẹta	None
 marie	ọkọ	Nan
 marije	ti màríà	Nan
 mariji	mariji	Nan
 marijin	marijin	Nan
 marijom	màríà	Nan
 mariju	mariju	Nan
-mariner	ọkọ oju omi	Nan
+mariner	omi	None
 marino	igbafẹfẹ	Nan
 marija	marija	Nan
 manjine	kekere	None
@@ -9642,8 +9642,8 @@ magnezijuma	iṣuu magnẹsia	Nan
 mahala	mahala	Nan
 mahmud	mahmud	Nan
 mahom	okeene	Nan
-maj	oṣu karun	Nan
-maja	oṣu karun	Nan
+maj	karun	None
+maja	karun	None
 luči	awọn imọlẹ	Nan
 lučenje	yomijade	Nan
 luče	awọn imọlẹ	Nan
@@ -9664,7 +9664,7 @@ luksemburški	luxembourgish	Nan
 luku	alubosa	Nan
 luminiscencija	luminescence	Nan
 lutecijum	lutetium	Nan
-luke	awọn ebute oko oju omi	Nan
+luke	omi	None
 majka	iya	Nan
 majke	àwọn ìyá	Nan
 majko	iya	Nan
@@ -9691,13 +9691,13 @@ mali	kekere	None
 majkom	iya	Nan
 major	pataki	Nan
 majstori	ọga	Nan
-maju	oṣu karun	Nan
+maju	karun	None
 mak	mak	Nan
 makedonci	makedonia	None
 makedonija	makedonia	None
 maligni	apanirun	Nan
 makedonije	makedonia	None
-makedonski	ara makedonia	Nan
+makedonski	makedonia	None
 makroekonomija	macroeconomics	Nan
 makromolekula	macromolecule	Nan
 maksimalno	o pọju	Nan
@@ -9765,7 +9765,7 @@ kratkom	kukuru	Nan
 kraljevstva	ijọba	Nan
 kraljevske	ọba	Nan
 kraljevska	ọba	Nan
-kraljevića	ọmọ alade	Nan
+kraljevića	ọmọ	None
 krajevi	pari	Nan
 krajevima	pari	Nan
 krajina	ala-ilẹ	Nan
@@ -9781,7 +9781,7 @@ kraljeva	ti awọn ọba	Nan
 kraljevi	awọn ọba	Nan
 kraljevina	ijọba	Nan
 kraljevine	awọn ijọba	Nan
-kraljević	ọmọ alade	Nan
+kraljević	ọmọ	None
 kralj	ọba	Nan
 korozije	iparun	Nan
 korozija	iparun	Nan
@@ -9801,8 +9801,8 @@ kontroliše	awọn iṣakoso	Nan
 kontrolom	iṣakoso	Nan
 kontrolu	iṣakoso	Nan
 konvekcija	convection	Nan
-kontaktu	kan si	Nan
-kontakt	kan si	Nan
+kontaktu	kan	None
+kontakt	kan	None
 konstrukcije	awọn agbele	Nan
 konstantno	nigbagbogbo	Nan
 koncerte	awọn ere orin	Nan
@@ -9895,7 +9895,7 @@ kvantne	kuatomu	Nan
 kup	ife	Nan
 kupe	kẹkẹ ẹlẹsẹ mẹrin	Nan
 kupres	kupres	Nan
-kupu	opo kan	Nan
+kupu	kan	None
 kuran	quran	None
 kurana	quran	None
 kuranu	quran	None
@@ -9904,10 +9904,10 @@ kupa	ife	Nan
 kulturnih	aṣa	Nan
 kćer	ọmọbinrin	Nan
 kćerka	ọmọbinrin	Nan
-latinski	ede latini	Nan
-latinsko	ede latini	Nan
-latinskog	ede latini	Nan
-latinskom	ede latini	Nan
+latinski	latini	None
+latinsko	latini	None
+latinskog	latini	None
+latinskom	latini	None
 latvija	latvia	None
 lav	lav	Nan
 lazar	lazar	Nan
@@ -9919,9 +9919,9 @@ legende	arosọ	Nan
 legendi	arosọ	Nan
 legija	ẹgbẹ pataki	Nan
 legije	awọn ẹgbẹ	Nan
-latinske	ede latini	Nan
-latinska	ede latini	Nan
-latinica	ede latini	Nan
+latinske	latini	None
+latinska	latini	None
+latinica	latini	None
 latin	latari	Nan
 kćerke	awọn ọmọbinrin	Nan
 kćerku	ọmọbinrin	Nan
@@ -9951,7 +9951,7 @@ krleža	ticks	Nan
 krležin	krležin	Nan
 krompir	ọdunkun	Nan
 kroz	nipasẹ	Nan
-krpelj	fi ami si	Nan
+krpelj	fi	None
 krstaški	ajasin	Nan
 krug	circle	Nan
 kruga	circle	Nan
@@ -9970,7 +9970,7 @@ kretanje	ronu	Nan
 kretanju	ronu	Nan
 kreće	gbigbe	Nan
 krugu	circle	Nan
-kreću	wọn n gbe	Nan
+kreću	gbe	None
 krila	iyẹ	Nan
 krilo	iyẹ	Nan
 kripton	krypton	Nan

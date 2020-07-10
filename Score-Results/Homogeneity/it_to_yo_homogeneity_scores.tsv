@@ -15,7 +15,7 @@ pittore	ayaworan	Nan
 pittori	awọn kikun	Nan
 piste	awọn orin	Nan
 pino	igi pine	Nan
-pink	awọ pupa	Nan
+pink	pupa	None
 pinehearst	pinehearst	Nan
 piemontesi	piedmont	Nan
 piena	kun	Nan
@@ -106,12 +106,12 @@ personaggi	ohun kikọ	Nan
 personaggio	ohun kikọ	Nan
 personale	oṣiṣẹ	Nan
 personali	ti ara ẹni	Nan
-petrolio	epo ilẹ	Nan
+petrolio	ilẹ	None
 piedi	ẹsẹ	None
 petto	àyà	Nan
 pezzo	nkan	None
 piante	eweko	Nan
-pianura	ilẹ pẹlẹbẹ	Nan
+pianura	ilẹ	None
 pianure	àwọn ilẹ̀ kéékèèké	Nan
 piattaforma	pẹpẹ	Nan
 piatti	awopọ	Nan
@@ -122,7 +122,7 @@ picasso	picasso	Nan
 picco	tente oke	Nan
 piccola	kekere	None
 piccole	kekere	None
-piccoli	ọmọ kekere	Nan
+piccoli	kekere	None
 piccolo	kekere	None
 piazze	awọn onigun mẹrin	Nan
 pianoforte	duru	Nan
@@ -151,24 +151,24 @@ potendo	ni anfani	Nan
 potente	alagbara	Nan
 potenti	alagbara	Nan
 potenza	agbara	None
-potenze	awọn agbara	Nan
+potenze	agbara	None
 potenziale	agbara	None
 postumo	posthumous	Nan
 potenziali	agbara	None
 potenzialmente	fẹẹrẹ	Nan
 poter	le	None
 potere	agbara	None
-poteri	awọn agbara	Nan
-potersi	won le	Nan
+poteri	agbara	None
+potersi	le	None
 potesse	le	None
 potenzialità	ipa	Nan
 posto	ibi	Nan
 posti	awọn ijoko	Nan
 posteriormente	panini	Nan
-possedere	láti ní	Nan
+possedere	ní	None
 possedeva	o si ni ohun ini	Nan
 possesso	ohun-ini	Nan
-possiamo	a le	Nan
+possiamo	le	None
 possibile	ṣeeṣe	Nan
 possibili	ṣeeṣe	Nan
 possibilità	seese	Nan
@@ -182,7 +182,7 @@ posteriore	ru	Nan
 posteriori	ru	Nan
 potessero	le	None
 possano	le	None
-poteva	o le	Nan
+poteva	le	None
 potranno	yoo	None
 prato	ọdan	Nan
 precedente	ti iṣaaju	Nan
@@ -203,7 +203,7 @@ pratiche	awọn iṣe	Nan
 praticato	adaṣe	Nan
 praticata	adaṣe	Nan
 potrebbe	le	None
-potrebbero	won le	Nan
+potrebbero	le	None
 potrà	yoo	None
 potter	amọkoko	Nan
 potuto	le	None
@@ -213,13 +213,13 @@ poveri	talaka	None
 povero	talaka	None
 povertà	osi	Nan
 pozzi	kanga	Nan
-pozzo	omi dáadáa	Nan
+pozzo	omi	None
 praga	ẹrin	Nan
 pratica	adaṣe	Nan
-praticamente	di oba	Nan
-potevano	won le	Nan
+praticamente	oba	None
+potevano	le	None
 possa	le	None
-posizioni	awọn ipo	Nan
+posizioni	ipo	None
 posizione	ipo	None
 pone	fi	None
 ponendo	gbigbe	Nan
@@ -234,7 +234,7 @@ pop	agbejade	Nan
 popolare	gbajumọ	Nan
 popolari	gbajumọ	Nan
 popolarità	gbaye-gbale	Nan
-popolata	gbe jade	Nan
+popolata	gbe	None
 pontificia	papal	Nan
 pompei	pompeii	Nan
 pomeriggio	ọsán	Nan
@@ -258,8 +258,8 @@ popolazione	olugbe	Nan
 popolazioni	olugbe	Nan
 popoli	awọn eniyan	Nan
 popolo	eniyan	Nan
-porterà	yoo mu	Nan
-porti	awọn ebute oko oju omi	Nan
+porterà	yoo	None
+porti	omi	None
 portiere	adena	Nan
 porto	ibudo	Nan
 portogallo	ilu pọtugali	Nan
@@ -294,8 +294,8 @@ portati	mu	Nan
 portato	mu	Nan
 portavoce	agbẹnusọ	Nan
 precoce	kutukutu	Nan
-permisero	gba laaye	Nan
-permettono	gba laaye	Nan
+permisero	gba	None
+permettono	gba	None
 papi	awọn baba	Nan
 parabola	parabola	Nan
 paradise	paradise	Nan
@@ -310,13 +310,13 @@ pare	nkqwe	Nan
 parecchi	lọpọlọpọ	Nan
 parecchie	lọpọlọpọ	Nan
 pareggio	fa	Nan
-parametri	awọn aye sise	Nan
+parametri	sise	None
 papale	papal	Nan
 papa	pọọlu	Nan
 paolo	pọ́ọ̀lù	Nan
 palla	bọọlu	Nan
 pallacanestro	bọọlu inu agbọn	Nan
-pallanuoto	omi adodo	Nan
+pallanuoto	omi	None
 pallavolo	folliboolu	Nan
 pallone	bọọlu	Nan
 palma	igi igi ọ̀pẹ	Nan
@@ -348,7 +348,7 @@ parteciparono	kopa	Nan
 partecipato	kopa	Nan
 partecipazione	ikopa	Nan
 partecipando	kopa	Nan
-parlò	mo sọ	Nan
+parlò	sọ	None
 parlato	sọ	None
 parlate	sọ	None
 pareri	awọn ero	Nan
@@ -363,7 +363,7 @@ parlamentare	ile igbimọ aṣofin	Nan
 parlamentari	awọn aṣòfin	Nan
 parlamento	ile igbimọ aṣofin	Nan
 parlando	nsoro	Nan
-parlano	wọn sọrọ	Nan
+parlano	wọn	None
 parlare	sọrọ	Nan
 parlata	ọrọ	Nan
 parenti	awọn ibatan	Nan
@@ -382,7 +382,7 @@ ottimi	o tayọ	Nan
 ottimo	nla	Nan
 otto	mẹjọ	Nan
 ottobre	oṣu kẹwa	Nan
-ottocento	orundun ogun	Nan
+ottocento	ogun	None
 ottomano	ilu ottoman	Nan
 ottiene	gba	None
 ottenendo	gba	None
@@ -420,7 +420,7 @@ palazzi	ààfin	Nan
 palazzo	ààfin	Nan
 palco	ipele	None
 palcoscenico	ipele	None
-pale	awọn ibojì	Nan
+pale	ibojì	None
 pala	shovel	Nan
 paesi	awọn orilẹ-ede	Nan
 paese	orilẹ-ede	Nan
@@ -447,8 +447,8 @@ partenza	ilọkuro	Nan
 pensava	ronu	Nan
 pensieri	awọn ero	Nan
 pensiero	ronu	Nan
-penso	mo ro pe	Nan
-pensò	mo ro pe	Nan
+penso	ro	None
+pensò	ro	None
 people	eniyan	Nan
 pensatori	nronu	Nan
 peppers	ata	Nan
@@ -460,15 +460,15 @@ perché	nitori	Nan
 perciò	nitorinaa	Nan
 peppino	peppino	Nan
 pensato	ronu	Nan
-pensare	lati ro	Nan
+pensare	ro	None
 pensando	lerongba	Nan
 peer	ojúgbà	Nan
 peggio	buru	Nan
 peggior	buru	Nan
 peggiore	buru	Nan
 pelle	awọ	Nan
-pellegrini	ajo mimọ	Nan
-pellegrino	ajo mimọ	Nan
+pellegrini	ajo	None
+pellegrino	ajo	None
 pellicola	fiimu	Nan
 pellicole	fiimu	Nan
 pena	iya	Nan
@@ -492,9 +492,9 @@ perlopiù	okeene	Nan
 permanenti	titilai	Nan
 permanenza	dúró	None
 permesso	igbanilaaye	Nan
-permette	o gba laaye	Nan
+permette	gba	None
 permettendo	gbigba	Nan
-permettere	faa ye gba	Nan
+permettere	gba	None
 permanente	titilai	Nan
 pericolosi	lewu	Nan
 pericolose	lewu	Nan
@@ -526,9 +526,9 @@ pascoli	àgbegbe	Nan
 pasolini	pasolini	Nan
 partì	fina si	Nan
 pasqua	ajinde	Nan
-passa	gba koja	Nan
+passa	gba	None
 passaggi	awọn igbesẹ	Nan
-passaggio	fi aye	Nan
+passaggio	fi	None
 passando	gbako.leyin	Nan
 passano	rekoja	Nan
 passare	lati kọja	Nan
@@ -570,12 +570,12 @@ pd	p	Nan
 pdl	pdl	Nan
 pearl	parili	Nan
 peccati	awọn ẹṣẹ	Nan
-patti	awọn nkan	Nan
-permise	gba laaye	Nan
+patti	nkan	None
+permise	gba	None
 patrono	alabojuto	Nan
 patrick	patrick	Nan
 passi	awọn igbesẹ	Nan
-passione	ife gidigidi	Nan
+passione	gidigidi	None
 passioni	awọn ifẹ	Nan
 passivo	palolo	Nan
 passo	igbesẹ	Nan
@@ -599,15 +599,15 @@ raccolti	gbà	Nan
 raccolto	gbà	Nan
 racconta	awọn atunbere	Nan
 raccontano	sọ	None
-raccogliere	lati gba	Nan
-raccontare	lati so fun	Nan
-raccontato	so fun	Nan
+raccogliere	gba	None
+raccontare	fun	None
+raccontato	fun	None
 racconti	awọn itan	Nan
 racconto	itan	Nan
 rachel	aṣọ awọleke	Nan
 radiazione	itu	None
 radiazioni	itu	None
-raccontata	so fun	Nan
+raccontata	fun	None
 raccoglie	gba	None
 rabbia	ibinu	Nan
 r	r	Nan
@@ -632,7 +632,7 @@ radicali	awọn ipilẹṣẹ	Nan
 radice	gbongbo	None
 raggiungimento	aṣeyọri	Nan
 raggiungono	de ọdọ	Nan
-raggiunse	ó dé	Nan
+raggiunse	dé	None
 raggiunsero	de ọdọ	Nan
 raggiunta	de ọdọ	Nan
 raggiunto	de oke	Nan
@@ -671,7 +671,7 @@ purgatorio	purgatory	Nan
 puro	mimọ	Nan
 purple	elese	Nan
 purtroppo	laanu	Nan
-può	le o	Nan
+può	le	None
 q	q	Nan
 pure	ọdunkun ọfun	Nan
 qf	qf	Nan
@@ -690,14 +690,14 @@ pugile	ẹlẹṣẹ	Nan
 puglia	puglia	Nan
 pugliese	puglia	Nan
 pugno	punch	Nan
-pulp	ti ko nira	Nan
+pulp	ko	None
 punizione	iya	Nan
 punk	pọnki	Nan
 punta	aba	Nan
 puntata	tẹtẹ	Nan
 puntate	awọn tẹtẹ	Nan
 punte	awọn imọran	Nan
-punteggio	o wole	Nan
+punteggio	wole	None
 punti	awọn aaye	Nan
 punto	ojuami	Nan
 quale	ewo	Nan
@@ -724,11 +724,11 @@ quartieri	adugbo	Nan
 quartiere	aladugbo	Nan
 qualificazione	afijẹẹri	Nan
 qualità	didara	Nan
-qualora	ki jina bi	Nan
+qualora	ki	None
 qualsiasi	eyikeyi	Nan
 qualunque	ohunkohun ti	Nan
 quando	nigbawo	Nan
-quanti	melo ni	Nan
+quanti	melo	None
 quantistica	kuatomu	Nan
 quantità	opoiye	Nan
 quanto	elo ni	Nan
@@ -780,11 +780,11 @@ regolarmente	nigbagbogbo	Nan
 reich	ọlọrọ	Nan
 rendendo	sise	None
 rendere	ṣe	Nan
-rendimento	so eso	Nan
+rendimento	so	None
 rendono	ṣe	Nan
 renesmee	atunkọ	Nan
 reno	reno	Nan
-rende	mu ki	Nan
+rende	ki	None
 reologia	rheology	Nan
 reparto	eka	None
 reperti	nwa	None
@@ -811,7 +811,7 @@ religiosa	ẹlẹsin	Nan
 religiose	ẹlẹsin	Nan
 religiosi	esin	Nan
 religioso	ẹlẹsin	Nan
-regole	awọn ofin	Nan
+regole	ofin	None
 redazione	igbimọ olootu	Nan
 redatto	tunṣe	Nan
 recò	o si lọ	Nan
@@ -891,16 +891,16 @@ pubblicò	gbangba	Nan
 pubblico	gbangba	Nan
 pubblicità	ipolowo	Nan
 primato	alakọbẹrẹ	Nan
-primavera	orisun omi	Nan
+primavera	omi	None
 prime	akoko	Nan
 primi	akoko	Nan
 primo	akoko	Nan
-prince	ọmọ alade	Nan
+prince	ọmọ	None
 primario	jc	Nan
 principale	akọkọ	Nan
 principalmente	o kun	Nan
 principato	ijoye	Nan
-principe	ọmọ alade	Nan
+principe	ọmọ	None
 principessa	ọmọ-alade	Nan
 principi	awọn ipilẹṣẹ	Nan
 principio	opo	Nan
@@ -908,7 +908,7 @@ principali	akọkọ	Nan
 primarie	jc	Nan
 primaria	jc	Nan
 prima	ṣaaju	Nan
-prevenire	lati yago fun	Nan
+prevenire	fun	None
 prevenzione	idena	Nan
 previsione	asọtẹlẹ	Nan
 prevista	o ti ṣe yẹ	Nan
@@ -933,7 +933,7 @@ procura	aṣoju	Nan
 procuratore	aṣoju	Nan
 prodotta	produced	None
 prodotte	produced	None
-processi	awọn ilana	Nan
+processi	ilana	None
 prodotti	awọn ọja	Nan
 produce	gbejade	Nan
 producono	mu jade	Nan
@@ -942,7 +942,7 @@ produrre	lati gbejade	Nan
 produsse	produced	None
 produttiva	iṣelọpọ	Nan
 prodotto	ọja	Nan
-procedure	awọn ilana	Nan
+procedure	ilana	None
 procedura	ilana	None
 procedimento	ọna	Nan
 privati	ikọkọ	Nan
@@ -976,12 +976,12 @@ prese	o mu	Nan
 presenta	mu wa	Nan
 presentano	lọwọlọwọ	Nan
 presentare	lati se agbekale	Nan
-presentarsi	lati fihan	Nan
+presentarsi	fihan	None
 presentata	gbekalẹ	Nan
 prescindere	ṣe itọju	Nan
 prendere	lati mu	Nan
 prendendo	mu	Nan
-prende	o gba	Nan
+prende	gba	None
 prefazione	oro akoso	Nan
 preferisce	fẹran	Nan
 preferiti	ayanfẹ	Nan
@@ -1026,7 +1026,7 @@ presenti	lọwọlọwọ	Nan
 presentò	o gbekalẹ	Nan
 presenza	niwaju	None
 presenze	wiwa	Nan
-presero	wọn mu	Nan
+presero	wọn	None
 presi	o ti mu mi	Nan
 preside	diini	Nan
 presidente	adari	Nan
@@ -1042,7 +1042,7 @@ produttori	awọn aṣelọpọ	Nan
 protetti	ni idaabobo	Nan
 protetto	lailewu	Nan
 protezione	aabo	Nan
-protocolli	awọn ilana	Nan
+protocolli	ilana	None
 protocollo	ilana	None
 prova	idanwo	Nan
 protette	ni idaabobo	Nan
@@ -1062,7 +1062,7 @@ prossima	itele	Nan
 prossimi	n bọ	Nan
 prossimità	isunmọtosi	Nan
 prossimo	t’okan t’okan	Nan
-prostata	ẹṣẹ to somọ	Nan
+prostata	to	None
 prostitute	panṣaga	Nan
 protagonista	protagonist	Nan
 protagoniste	protagonists	Nan
@@ -1150,7 +1150,7 @@ progressivamente	ni ilọsiwaju	Nan
 progressive	onitẹsiwaju	Nan
 progressivo	onitẹsiwaju	Nan
 progresso	ilọsiwaju	Nan
-proporzioni	awọn ipin	Nan
+proporzioni	ipin	None
 propose	dabaa	Nan
 proposito	idi	Nan
 proposta	igbero	Nan
@@ -1214,7 +1214,7 @@ marxismo	marxism	Nan
 marxista	marxist	Nan
 mary	mary	Nan
 marziali	ogun	None
-marzo	oṣu kẹta	Nan
+marzo	kẹta	None
 maschera	iboju	Nan
 maschere	awọn iboju iparada	Nan
 maschi	okunrin	None
@@ -1290,7 +1290,7 @@ mangiare	lati jẹ	Nan
 manhattan	manhattan	Nan
 mani	ọwọ	Nan
 maniera	ọna	Nan
-manifesta	fi han	Nan
+manifesta	fi	None
 manifestazione	ifihan	Nan
 manifestazioni	iṣẹlẹ	Nan
 manifesto	farahan	Nan
@@ -1301,14 +1301,14 @@ marc	akọrin	Nan
 marcata	samisi	Nan
 marilyn	arabinrin	Nan
 marina	marina	Nan
-marine	omi okun	Nan
-marines	ọkọ oju omi	Nan
-marini	omi okun	Nan
-marino	omi okun	Nan
+marine	omi	None
+marines	omi	None
+marini	omi	None
+marino	omi	None
 marijuana	taba lile	Nan
 mario	mario	Nan
-marittima	igba omi okun	Nan
-marittimo	igba omi okun	Nan
+marittima	omi	None
+marittimo	omi	None
 mark	samisi	Nan
 marketing	titaja	Nan
 marley	marley	Nan
@@ -1323,7 +1323,7 @@ marcello	marcello	Nan
 marche	awọn akọmọ	Nan
 marchese	marquis	Nan
 marchi	awọn orukọ iyasọtọ	Nan
-marchio	oruko oja	Nan
+marchio	oruko	None
 marcia	irin-ajo	Nan
 marco	marco	Nan
 marconi	ara marconi	Nan
@@ -1354,11 +1354,11 @@ miei	temi	Nan
 michael	olorin	Nan
 miami	o ni ife mi	Nan
 mia	temi	Nan
-metropolitane	awọn alaja kekere	Nan
+metropolitane	kekere	None
 metropolitano	ilu	Nan
 mette	fi	None
 mettendo	fifi	Nan
-mettere	lati fi	Nan
+mettere	fi	None
 mettersi	gba	None
 mettono	fi	None
 metà	idaji	None
@@ -1367,7 +1367,7 @@ mezza	idaji	None
 mezzanotte	ọganjọ oru	Nan
 mezzi	ọna	Nan
 mezzo	idaji	None
-mezzogiorno	aago mejila	Nan
+mezzogiorno	mejila	None
 mi	emi	Nan
 mike	ji	Nan
 metropolitana	ipamo	Nan
@@ -1410,9 +1410,9 @@ milanese	milanese	Nan
 metropoli	metropoli	None
 metro	mita	Nan
 metri	awọn mita	Nan
-membrana	awo ilu	Nan
+membrana	awo	None
 membri	ẹgbẹ	Nan
-membro	ọmọ ẹgbẹ	Nan
+membro	ọmọ	None
 memoria	iranti	Nan
 memorial	ìrántí	Nan
 memorie	awọn iwe iranti	Nan
@@ -1440,7 +1440,7 @@ medievale	igba atijọ	Nan
 medievali	igba atijọ	Nan
 medio	aropin	Nan
 medioevale	igba atijọ	Nan
-medioevo	ojo ori ti o wa larin	Nan
+medioevo	ori	None
 mediterranea	mẹditarenia	Nan
 mediterraneo	mẹditarenia	Nan
 menzione	mẹnuba	Nan
@@ -1452,7 +1452,7 @@ messico	meksiko	None
 messina	mesina	Nan
 messo	fi	None
 mestre	mestre	Nan
-mestruale	nkan oṣu	Nan
+mestruale	nkan	None
 meta	idaji	None
 metafisica	afiwera	Nan
 metalli	awọn irin	Nan
@@ -1495,7 +1495,7 @@ lisola	lisola	Nan
 litaliano	l’ẹnu-jagun	Nan
 litorale	etikun	Nan
 live	wa laaye	Nan
-livelli	awọn ipele	Nan
+livelli	ipele	None
 livello	ipele	None
 liverpool	liverpool	Nan
 livio	liviour	Nan
@@ -1506,7 +1506,7 @@ lisbona	lisbon	Nan
 lintroduzione	ifihan	Nan
 linux	àlẹmọ	Nan
 linvasione	ikogun	Nan
-linverno	igba otutu	Nan
+linverno	otutu	None
 linvito	ifiwepe	Nan
 lione	lyon	Nan
 lionel	kiniun	Nan
@@ -1539,7 +1539,7 @@ lontana	jinna	Nan
 londinese	londoner	Nan
 logica	kannaa	Nan
 loggia	loggia	Nan
-loggetto	nkan naa	Nan
+loggetto	nkan	None
 lobiettivo	ibi-afẹde	Nan
 lobo	lobe	Nan
 locale	agbegbe	Nan
@@ -1560,7 +1560,7 @@ linterpretazione	itumọ	Nan
 lintero	gbogbo e	Nan
 linterno	inu ilohunsoke	Nan
 limitato	lopin	Nan
-limite	iye to	Nan
+limite	to	None
 limiti	awọn ifilelẹ lọ	Nan
 limitrofi	adugbo	Nan
 limmagine	aworan naa	Nan
@@ -1596,7 +1596,7 @@ limpresa	kekeke	Nan
 lincarico	lincarico	Nan
 lincidente	ijamba naa	Nan
 lincontro	linmọlẹ	Nan
-lingue	awọn ede	Nan
+lingue	ede	None
 linguistica	ẹkọ ẹkọ	Nan
 linguistiche	ede	None
 linguistico	ede	None
@@ -1613,7 +1613,7 @@ lintera	gbogbo	Nan
 linteresse	awọn anfani	Nan
 linguaggio	ede	None
 lontani	jinna	Nan
-linguaggi	awọn ede	Nan
+linguaggi	ede	None
 lingresso	ẹnu-ọna	Nan
 linda	linda	Nan
 lindia	lindia	Nan
@@ -1634,10 +1634,10 @@ lingua	ahọn	Nan
 minuscola	kekere	None
 lontano	jinna	Nan
 lopera	lopera	Nan
-mag	oṣu karun	Nan
+mag	karun	None
 magazine	iwe irohin	Nan
 magazzino	ile itaja	Nan
-maggio	oṣu karun	Nan
+maggio	karun	None
 maggior	tobi julo	Nan
 maggioranza	poju	Nan
 mafioso	nsomi	Nan
@@ -1652,13 +1652,13 @@ maggiori	diẹ sii	Nan
 mafia	nsomi	Nan
 maestro	ọga	Nan
 maestri	ọga	Nan
-lì	ní bẹ	Nan
+lì	ní	None
 ma	ṣugbọn	Nan
 macchia	abawọn	Nan
 macchie	awọn abawọn	Nan
 macchina	ẹrọ	Nan
 macchine	oko	None
-macedone	ara makedonia	Nan
+macedone	makedonia	None
 macedoni	makedonia	None
 macedonia	eso saladi	Nan
 machiavelli	machiavelli	Nan
@@ -1668,7 +1668,7 @@ madonna	madona	Nan
 madre	iya	Nan
 madrid	ilu madrid	Nan
 magico	ti idan	Nan
-là	ní bẹ	Nan
+là	ní	None
 magistrati	awọn adajọ	Nan
 magistratura	adajo	Nan
 malcolm	ibi	Nan
@@ -1682,7 +1682,7 @@ malta	malta	Nan
 mamma	ìyá	Nan
 man	ọkunrin	Nan
 manager	oluṣakoso	Nan
-manca	ko si	Nan
+manca	ko	None
 mancano	sonu	Nan
 mancanza	aini	Nan
 malthusianesimo	malthusianism	Nan
@@ -1762,14 +1762,14 @@ lussemburgo	luxembourg	Nan
 luther	luther	None
 lunico	ọkan nikan	Nan
 look	wo	Nan
-lunica	oun nikan	Nan
+lunica	oun	None
 lungo	gun	None
 luigi	louis	Nan
 luis	luis	Nan
 luke	awure	Nan
 lultima	tuntun	None
-lultimo	eyi to gbeyin	Nan
-lumanità	ọmọ eniyan	Nan
+lultimo	to	None
+lumanità	ọmọ	None
 luminosa	didan	Nan
 luminosità	didan	Nan
 luna	osupa	Nan
@@ -1785,7 +1785,7 @@ minuti	iṣẹju	Nan
 mio	temi	Nan
 notevole	o lapẹẹrẹ	Nan
 notevoli	o lapẹẹrẹ	Nan
-notevolmente	ni riro	Nan
+notevolmente	riro	None
 noti	mọ	Nan
 notizia	awọn iroyin	Nan
 notizie	awọn iroyin	Nan
@@ -1795,7 +1795,7 @@ notte	alẹ	Nan
 notti	awọn alẹ	Nan
 notturna	alẹ	Nan
 notturno	alẹ	Nan
-nova	ko si	Nan
+nova	ko	None
 novanta	aadọrun	Nan
 notorietà	akiyesi	Nan
 notato	ṣe akiyesi	Nan
@@ -1841,7 +1841,7 @@ numerose	lọpọlọpọ	Nan
 novelle	awọn itan kukuru	Nan
 novembre	oṣu kọkanla	Nan
 novità	awọn ikede	Nan
-now	ni bayi	Nan
+now	bayi	None
 nozze	igbeyawo	None
 nu	nu	None
 nucleare	iparun	Nan
@@ -1878,7 +1878,7 @@ nessuna	kò si	Nan
 neo	moolu	Nan
 neoclassicismo	afiyesi	Nan
 neoclassico	negilassic	Nan
-neonato	ọmọ tuntun	Nan
+neonato	tuntun	None
 neppure	bẹni	Nan
 nera	dudu	Nan
 nerazzurra	inter	Nan
@@ -1902,9 +1902,9 @@ nominati	yan	None
 nomination	awọn yiyan	Nan
 nolan	alaini	None
 nominato	yan	None
-nona	ko si ni	Nan
+nona	ko	None
 nonché	si be e si	Nan
-nonna	iya agba	Nan
+nonna	agba	None
 nonno	rárá rárá	Nan
 nono	ẹkẹsan	Nan
 nonostante	pelu	Nan
@@ -1943,7 +1943,7 @@ organismi	oganisimu	Nan
 organismo	ara	Nan
 organizza	awọn oluṣeto	Nan
 organizzare	lati ṣeto	Nan
-organizzarono	wọn ṣeto	Nan
+organizzarono	wọn	None
 organizzata	ṣeto	Nan
 organico	organic	Nan
 orchestra	olutoju	Nan
@@ -1960,7 +1960,7 @@ optimus	ireti	Nan
 or	tabi	None
 ora	bayi	None
 orale	ẹnu	Nan
-oramai	ni bayi	Nan
+oramai	bayi	None
 orari	awọn akoko orin	Nan
 orario	iṣeto	Nan
 orazio	orazio	Nan
@@ -1969,7 +1969,7 @@ opinione	ero	Nan
 organizzati	ṣeto	Nan
 organizzazione	agbari	Nan
 orlando	orlando	Nan
-ormai	ni bayi	Nan
+ormai	bayi	None
 ormoni	homonu	Nan
 oro	wúrà	Nan
 orochimaru	orochimaru	Nan
@@ -1980,8 +1980,8 @@ oscar	oscar	None
 oscura	dudu	Nan
 oscuro	dudu	Nan
 ospedale	iwosan	None
-ospedali	awọn ile iwosan	Nan
-ospita	àwọn ọmọ ogun	Nan
+ospedali	iwosan	None
+ospita	ogun	None
 ortodossi	àtijọ	Nan
 origini	awọn ipilẹṣẹ	Nan
 origine	oti	Nan
@@ -2008,7 +2008,7 @@ operazione	isẹ	Nan
 offrire	lati pese	Nan
 offrono	ìfilọ	Nan
 offrì	o rubọ	Nan
-oggetti	awọn nkan	Nan
+oggetti	nkan	None
 oggetto	nnkan	Nan
 oggi	loni	Nan
 offre	awọn ipese	Nan
@@ -2027,7 +2027,7 @@ occidente	oorun	Nan
 occorre	gbọdọ	Nan
 occupa	awọn iṣowo	Nan
 occupano	ibaṣowo	Nan
-occupare	lati gbe	Nan
+occupare	gbe	None
 occuparsi	gbalaye	Nan
 occupata	ti tẹdo	Nan
 occupati	ti tẹdo	Nan
@@ -2093,7 +2093,7 @@ morbo	aisan	Nan
 morfologia	mofoloji	Nan
 morgan	morgan	None
 mori	mori	Nan
-morire	lati ku	Nan
+morire	ku	None
 morale	iwa	Nan
 montgomery	montgomery	Nan
 montenegro	montenegro	Nan
@@ -2113,9 +2113,9 @@ montagna	òkè	Nan
 montagne	awọn oke-nla	Nan
 montale	montale	Nan
 montana	montana	Nan
-morirono	wọn ku	Nan
+morirono	ku	None
 mondadori	mondadori	Nan
-morirà	maa ku	Nan
+morirà	ku	None
 moro	moor	Nan
 mostro	aderubaniyan	Nan
 mostrò	aderubaniyan	Nan
@@ -2142,7 +2142,7 @@ mortalità	iku	None
 morte	iku	None
 morti	kú	Nan
 morto	kú	Nan
-morì	o ku	Nan
+morì	ku	None
 mosca	ilu moscow	Nan
 mossa	gbe	None
 mosse	e	Nan
@@ -2253,7 +2253,7 @@ navale	ologun	Nan
 navali	ologun	Nan
 navata	fẹẹrẹ	Nan
 nave	ọkọ oju-omi	Nan
-navi	awọn ọkọ oju omi	Nan
+navi	omi	None
 navigazione	lilọ	Nan
 nazionale	orilẹ-ede	Nan
 nazionali	orilẹ-ede	Nan
@@ -2270,7 +2270,7 @@ nelleuropa	nelleuropa	Nan
 nellisola	ni erekusu	Nan
 nellitalia	nellitalia	Nan
 nello	ninu	Nan
-nelloceano	ninu omi okun	Nan
+nelloceano	omi	None
 nellopera	ninu iṣẹ	Nan
 nelletà	nelletà	Nan
 nellottobre	nellottobre	Nan
@@ -2282,7 +2282,7 @@ nelson	nelson	Nan
 nemiche	ọtá	Nan
 nellottocento	nellottocento	Nan
 nellestate	ninu ooru	Nan
-nellesercito	ninu ẹgbẹ ọmọ ogun	Nan
+nellesercito	ogun	None
 nellepisodio	nellepisodio	Nan
 nell	ninu	Nan
 nella	ninu	Nan
@@ -2417,7 +2417,7 @@ timore	bẹru	Nan
 tipica	aṣoju	Nan
 tocco	fọwọkan	Nan
 todd	ọmọ	None
-togliere	yọ kuro	Nan
+togliere	yọ	None
 tokyo	tokyo	None
 tolkien	tolkien	Nan
 tolleranza	ifarada	Nan
@@ -2433,7 +2433,7 @@ tomba	ibojì	None
 tobi	tobi	Nan
 to	sí	Nan
 tiziano	titian	Nan
-tipicamente	ojo melo	Nan
+tipicamente	melo	None
 tipiche	aṣoju	Nan
 tipici	aṣoju	Nan
 tipico	aṣoju	Nan
@@ -2449,14 +2449,14 @@ titolare	dimu	Nan
 titoli	awọn akọle	Nan
 titolo	akọle	Nan
 tipi	awọn oriṣi	Nan
-tony	ikan isere	Nan
+tony	ikan	None
 tessuti	awọn aṣọ asọ	Nan
 tesoro	iṣura	Nan
 tentò	o gbiyanju	Nan
 tenuta	ohun-ini	Nan
 tenuti	owun	Nan
 tenuto	ṣe oniduro	Nan
-teologia	eko nipa esin	Nan
+teologia	eko	None
 teorema	ọgbọn	Nan
 tentato	igbidanwo	Nan
 teoria	yii	Nan
@@ -2501,7 +2501,7 @@ terza	kẹta	None
 terzi	kẹta	None
 terziario	ile-ẹkọ giga	Nan
 terzo	kẹta	None
-tesi	iwe ilana	Nan
+tesi	ilana	None
 tesla	tesla	Nan
 terry	ilẹkun	Nan
 terrestri	ilẹ	None
@@ -2514,11 +2514,11 @@ terminare	ipari	Nan
 terminata	ti pari	Nan
 terminato	lori	Nan
 termine	igba	Nan
-termini	awọn ofin	Nan
+termini	ofin	None
 terminò	o pari	Nan
 terra	ilẹ	None
 terraferma	ilẹ	None
-terre	awọn ilẹ	Nan
+terre	ilẹ	None
 terremoti	awọn iwariri-ilẹ	Nan
 terremoto	ìṣẹlẹ	Nan
 terreni	ilẹ	None
@@ -2544,20 +2544,20 @@ trattative	idunadura	Nan
 trasporti	irinna	Nan
 trasmissioni	awọn gbigbe	Nan
 trasmissione	gbigbe	Nan
-trasferita	ti o ti gbe	Nan
-trasferito	ti o ti gbe	Nan
+trasferita	gbe	None
+trasferito	gbe	None
 trasferta	gbigbe	Nan
-trasferì	o si gbe	Nan
+trasferì	gbe	None
 trasforma	wa ni	Nan
 trasformare	lati commute	Nan
 trasformata	yipada	None
 trasformato	yipada	None
 trasformazione	iyipada	Nan
 trasformazioni	awọn iyipada	Nan
-trasformò	o yipada	Nan
-trasmessa	gbe ka	Nan
-trasmessi	gbe ka	Nan
-trasmesso	gbe ka	Nan
+trasformò	yipada	None
+trasmessa	gbe	None
+trasmessi	gbe	None
+trasmesso	gbe	None
 trasmettere	lati afefe	Nan
 travaglio	laala	Nan
 trasferisce	awọn gbigbe	Nan
@@ -2575,7 +2575,7 @@ trono	itẹ	Nan
 troppo	pupo ju	Nan
 trova	wa	Nan
 trovando	wiwa	Nan
-trovano	wọn wa	Nan
+trovano	wọn	None
 trovare	lati wa	Nan
 tronco	ẹhin mọto	Nan
 trinità	metalokan	Nan
@@ -2592,7 +2592,7 @@ trentanni	ọgbọn	Nan
 trento	trento	Nan
 triangolo	onigun mẹta	Nan
 tribunale	kootu	Nan
-tribunali	awọn kootu ofin	Nan
+tribunali	ofin	None
 tributo	oriyin	Nan
 tribù	ẹyà	Nan
 tricolore	tricolor	Nan
@@ -2628,7 +2628,7 @@ tornati	padà	Nan
 tornato	padà	Nan
 tornei	awọn idije	Nan
 torneo	figagbaga	Nan
-tornerà	yoo pada wa	Nan
+tornerà	yoo	None
 tornò	o pada	Nan
 toro	akọmalu	Nan
 toronto	toronto	Nan
@@ -2656,7 +2656,7 @@ trama	idite	Nan
 tendenza	aṣa	Nan
 tram	ọkọ ayọkẹlẹ	Nan
 tragico	ajalu	Nan
-tradito	fi hàn	Nan
+tradito	fi	None
 tradizionale	ibile	None
 tradizionali	ibile	None
 tradizionalmente	aṣa	Nan
@@ -2666,15 +2666,15 @@ tradotta	itumọ	Nan
 tradotto	itumọ	Nan
 traduzione	translation	Nan
 traduzioni	ogbufọ	Nan
-trae	laarin ati	Nan
-traffici	gbigbe kakiri	Nan
+trae	laarin	None
+traffici	kakiri	None
 traffico	ijabọ	Nan
 tragedia	ajalu	Nan
 tragica	ajalu	Nan
 trailer	trailer	Nan
 tende	awọn aṣọ-ikele	Nan
 ten	mẹwa	Nan
-temporaneamente	fun igba diẹ	Nan
+temporaneamente	fun	None
 successiva	itele	Nan
 successivamente	atẹle	Nan
 successive	atẹle	Nan
@@ -2694,11 +2694,11 @@ successi	awọn aṣeyọri	Nan
 succede	o n ṣẹlẹ	Nan
 subì	jiya	Nan
 stuart	aṣaju	Nan
-studente	ọmọ ile-iwe	Nan
+studente	ọmọ	None
 studenti	omo ile	Nan
 studi	eko	None
 studia	on ka iwe	Nan
-studiare	lati iwadi	Nan
+studiare	iwadi	None
 studiato	iwadi	None
 studio	iwadi	None
 studiosi	awọn ọjọgbọn	Nan
@@ -2708,7 +2708,7 @@ sua	rẹ	None
 subire	jiya	Nan
 subisce	na	Nan
 subito	lẹsẹkẹsẹ	Nan
-suddivisioni	awọn ile ipin	Nan
+suddivisioni	ipin	None
 strutture	awọn ẹya	Nan
 suddiviso	pin	Nan
 sudovest	guusu	None
@@ -2726,14 +2726,14 @@ suonò	ìró	None
 super	dara julọ	Nan
 supera	koja	Nan
 superamento	bibori	Nan
-suonava	o dun	Nan
+suonava	dun	None
 sun	oorun	Nan
 summer	igba ooru	Nan
 sullo	loju	Nan
 sue	rẹ	None
-sufficiente	ti to	Nan
-sufficientemente	ti to	Nan
-sufficienti	ti to	Nan
+sufficiente	to	None
+sufficientemente	to	None
+sufficienti	to	None
 suffragio	to	None
 suggerisce	daba	Nan
 suggerito	daba	Nan
@@ -2745,7 +2745,7 @@ sul	lori	Nan
 sulla	loju	Nan
 sulle	loju	Nan
 sullisola	lori erekusu	Nan
-sudest	guusu ila oorun	Nan
+sudest	guusu	None
 strutturali	igbekale	Nan
 strutturale	igbekale	Nan
 struttura	be	Nan
@@ -2756,7 +2756,7 @@ stimato	wulo	Nan
 stime	awọn iṣiro	Nan
 stimolazione	ayun	Nan
 stile	ara	Nan
-stipola	awọn ofin	Nan
+stipola	ofin	None
 stone	okuta	Nan
 stop	duro	Nan
 storia	itan	Nan
@@ -2841,16 +2841,16 @@ tecnologia	imọ-ẹrọ	Nan
 teatri	imiran	Nan
 tavola	tabili	None
 taub	taub	Nan
-tattica	awọn ilana	Nan
+tattica	ilana	None
 tanti	lọpọlọpọ	Nan
 tanto	pọ	Nan
 tappa	ipele	None
-tappe	awọn ipele	Nan
+tappe	ipele	None
 taranto	taranto	Nan
 tarda	pẹ	Nan
 tardi	pẹ	Nan
 tardo	pẹ	Nan
-targa	awo iwe-aṣẹ	Nan
+targa	awo	None
 tasse	owo-ori	Nan
 tassi	takisi	Nan
 tasso	oṣuwọn	Nan
@@ -2866,7 +2866,7 @@ temendo	bẹru	Nan
 temi	awọn akori	Nan
 temperato	inu	Nan
 temperatura	otutu	None
-temperature	awọn iwọn otutu	Nan
+temperature	otutu	None
 tematica	akori	Nan
 tempesta	ìjì	Nan
 tempio	tẹmpili	Nan
@@ -2907,11 +2907,11 @@ svevo	swabian	Nan
 susan	susan	Nan
 svezia	sweden	Nan
 sviluppano	dagbasoke	None
-sviluppare	lati dagbasoke	Nan
+sviluppare	dagbasoke	None
 svilupparsi	dagbasoke	None
-sviluppata	ni idagbasoke	Nan
-sviluppate	ni idagbasoke	Nan
-sviluppati	ni idagbasoke	Nan
+sviluppata	idagbasoke	None
+sviluppate	idagbasoke	None
+sviluppati	idagbasoke	None
 sviluppa	ndagba	Nan
 supremo	adajọ	Nan
 supremazia	eleda	Nan
@@ -2926,19 +2926,19 @@ superiore	ga	Nan
 superiori	tayọ	Nan
 superiorità	titobi	Nan
 superman	alagbara	Nan
-superstiti	ye awon to ye	Nan
+superstiti	to	None
 superò	ṣẹgun	Nan
 supplementari	afikun	Nan
 supporti	atilẹyin	Nan
 supporto	atilẹyin	Nan
-sviluppato	ni idagbasoke	Nan
+sviluppato	idagbasoke	None
 sviluppi	idagbasoke	None
 sviluppo	idagbasoke	None
 sviluppò	idagbasoke	None
 t	t	Nan
 tabella	tabili	None
 tagli	awọn gige	Nan
-taglia	ge rẹ	Nan
+taglia	rẹ	None
 tagliare	lati ge	Nan
 tagliata	ge	Nan
 taglio	ge	Nan
@@ -2946,7 +2946,7 @@ take	mu	Nan
 tal	eyi	Nan
 tale	iru	Nan
 talento	ẹbun	Nan
-tales	awon to fun	Nan
+tales	fun	None
 tali	iwọnyi	Nan
 talmente	nitorinaa	Nan
 talora	nigbami	Nan
@@ -2998,7 +2998,7 @@ videogioco	ere fidio	Nan
 videografia	fọtoyiya	Nan
 videro	nwon ri	Nan
 vie	ita	Nan
-viene	oun ni	Nan
+viene	oun	None
 vienna	vienna	Nan
 vietato	ewọ	Nan
 vietnam	vietnam	Nan
@@ -3027,7 +3027,7 @@ visto	ti ri	Nan
 viso	oju	Nan
 visibile	han	Nan
 visconti	viscounts	Nan
-virus	kòkòrò àrùn fáírọọsì	Nan
+virus	àrùn	None
 viola	awọ aro	Nan
 violazione	o ṣẹ	Nan
 violenta	iwa-ipa	Nan
@@ -3042,7 +3042,7 @@ virale	gbogun ti	Nan
 virgilio	wundia	Nan
 virgin	wundia	Nan
 virtuale	foju	Nan
-virtù	iwa rere	Nan
+virtù	rere	None
 vinti	bori	Nan
 vita	igbesi aye	Nan
 victoria	iṣẹgun	Nan
@@ -3056,20 +3056,20 @@ verità	ooto	Nan
 verga	ọpá	Nan
 vero	ooto	Nan
 veronese	veronese	Nan
-verranno	wọn yoo wa	Nan
-verrà	yoo wa	Nan
+verranno	yoo	None
+verrà	yoo	None
 versante	ẹgbẹ	Nan
-versi	awọn ẹsẹ	Nan
+versi	ẹsẹ	None
 versione	ẹya	Nan
 verona	verona	Nan
 vere	ooto	Nan
-verdone	alawọ ewe	Nan
+verdone	ewe	None
 verdi	ọya	Nan
-venivano	wọn wa	Nan
-venne	oun ni	Nan
-vennero	wọn wa	Nan
-ventanni	ogun odun	Nan
-ventennio	ogun odun	Nan
+venivano	wọn	None
+venne	oun	None
+vennero	wọn	None
+ventanni	ogun	None
+ventennio	ogun	None
 venti	ogun	None
 vento	afẹfẹ	Nan
 venuta	n bọ	Nan
@@ -3079,7 +3079,7 @@ veramente	looto	Nan
 verbale	ẹnu	Nan
 verbi	ìse	Nan
 verbo	ìse	Nan
-verde	alawọ ewe	Nan
+verde	ewe	None
 versioni	awọn ẹya	Nan
 victor	segun	Nan
 verso	si ọna	Nan
@@ -3163,16 +3163,16 @@ zone	awọn agbegbe	Nan
 zucchero	ṣuga	Nan
 zurigo	zurich	Nan
 |	|	Nan
- cm	cm	Nan
+cm	cm	Nan
 zolfo	efin	Nan
- km	km	Nan
- mm	mm	Nan
- nm	nm	Nan
+km	km	Nan
+mm	mm	Nan
+nm	nm	Nan
   	  	Nan
 ª	ª	Nan
 ½	½	Nan
 ×	×	Nan
- m	m	Nan
+m	m	Nan
 zodiaco	zodiac	Nan
 zio	aburo	Nan
 zia	arabinrin	Nan
@@ -3197,18 +3197,18 @@ warner	onilọ	Nan
 warhol	warhol	Nan
 voci	awọn ohun	Nan
 voglia	fẹ	Nan
-voglio	mo fe iwe itumo kekere	Nan
+voglio	kekere	None
 vogliono	fẹ	Nan
 voi	iwo	Nan
 vol	folti	Nan
 voce	ohun	Nan
-volante	idari oko kẹkẹ	Nan
+volante	oko	None
 voldemort	voldemort	Nan
 voler	fẹ	Nan
 volere	fẹ	Nan
 volesse	fẹ	Nan
 voleva	o fẹ	Nan
-volevano	wọn fẹ	Nan
+volevano	wọn	None
 volare	lati fo	Nan
 vocazione	iṣẹ-ṣiṣe	Nan
 vocali	ohun	Nan
@@ -3223,10 +3223,10 @@ vivente	ngbe	Nan
 viventi	ngbe	Nan
 vivere	wa laaye	Nan
 viveva	o ngbe	Nan
-vivevano	won gbe	Nan
+vivevano	gbe	None
 vivi	laaye	Nan
-vivo	mo n gbe	Nan
-vivono	won gbe	Nan
+vivo	gbe	None
+vivono	gbe	None
 vizi	vices	Nan
 volgare	alaibikita	Nan
 voli	awọn ọkọ ofurufu	Nan
@@ -3248,7 +3248,7 @@ want	fẹ	Nan
 war	ogun	None
 ward	ẹṣọ	Nan
 vs	la	Nan
-veniva	oun ni	Nan
+veniva	oun	None
 voto	dibo	Nan
 votazione	dibo	Nan
 volontari	olufaraji	Nan
@@ -3260,10 +3260,10 @@ volti	awọn oju	Nan
 volto	oju	Nan
 volturi	volturi	Nan
 volume	iwọn didun	Nan
-volumi	awọn ipele	Nan
+volumi	ipele	None
 voluta	folti	Nan
 voluto	yoo	None
-vorrebbe	yoo ṣe bẹ	Nan
+vorrebbe	yoo	None
 vorrei	mo feran lati	Nan
 votato	dibo	Nan
 voti	ibo	Nan
@@ -3276,10 +3276,10 @@ ungheria	họnari	Nan
 unica	nikan	Nan
 unicamente	nikan	Nan
 uniche	alailẹgbẹ	Nan
-unepoca	akoko kan	Nan
+unepoca	kan	None
 unici	nikan	Nan
 unidea	ohun agutan	Nan
-unimmagine	aworan kan	Nan
+unimmagine	kan	None
 unimportante	ohun pataki	Nan
 unindagine	iwadii	Nan
 unintervista	ifọrọwanilẹnuwo	Nan
@@ -3299,7 +3299,7 @@ una	a	Nan
 unaltra	omiran	Nan
 unampia	jakejado	Nan
 unarea	agbegbe	Nan
-unattività	ìṣe kan	Nan
+unattività	kan	None
 unazione	ohun igbese	Nan
 und	ati be be lo	Nan
 underground	ipamo	Nan
@@ -3313,7 +3313,7 @@ unulteriore	siwaju	Nan
 ununica	ununica	Nan
 unì	darapo	None
 uomini	okunrin	None
-unora	wakati kan	Nan
+unora	kan	None
 uomo	ọkunrin	Nan
 uranio	kẹmika	Nan
 urbana	ilu	Nan
@@ -3322,7 +3322,7 @@ urbani	ilu	Nan
 urbanistica	igbogun ilu	Nan
 urbanistico	t’ibilẹ ilu	Nan
 up	sókè	Nan
-unopera	iṣẹ kan ti	Nan
+unopera	kan	None
 uno	ọkan	Nan
 universo	agbaye	None
 unitario	ipinya	Nan
@@ -3340,7 +3340,7 @@ universitarie	yunifasiti	Nan
 universitario	yunifasiti	Nan
 university	yunifasiti	Nan
 università	yunifasiti	Nan
-unisola	erekusu kan	Nan
+unisola	kan	None
 ultimo	kẹhin	Nan
 ultimi	kẹhin	Nan
 ultime	tuntun	None
@@ -3348,7 +3348,7 @@ turchi	tooki	Nan
 turchia	tọki	Nan
 turco	tooki	Nan
 turismo	irin-ajo	Nan
-turisti	aririn ajo	Nan
+turisti	ajo	None
 turistica	oniriajo	Nan
 turca	tọki	Nan
 turistiche	oniriajo	Nan
@@ -3362,15 +3362,15 @@ turistici	oniriajo	Nan
 tupac	tupac	Nan
 tuo	rẹ	None
 tunisia	tunisia	Nan
-trovato	ri rẹ	Nan
+trovato	rẹ	None
 trovava	o si wà	Nan
 trovavano	ri	Nan
-troverà	yoo ri	Nan
+troverà	yoo	None
 troviamo	a wa	Nan
 trovò	mo wa	Nan
 trucco	ifipaju	Nan
 true	èké	Nan
-truppe	awọn ọmọ ogun	Nan
+truppe	ogun	None
 tu	iwo	Nan
 tua	rẹ	None
 tubercolosi	iko	Nan
@@ -3448,7 +3448,7 @@ vario	iyatọ	Nan
 varsavia	warsaw	Nan
 vasari	vasari	Nan
 vasco	vasco	Nan
-vasi	awọn ọkọ oju omi	Nan
+vasi	omi	None
 vaso	idẹ	Nan
 vasta	gbooro	Nan
 vaste	sanlalu	Nan
@@ -3461,12 +3461,12 @@ vene	iṣọn	Nan
 venendo	n bọ	Nan
 venerdì	ọjọru	Nan
 venere	usúsì	Nan
-veneta	ede venice	Nan
+veneta	ede	None
 venduti	awọn ti onra	Nan
-veneti	ede venice	Nan
+veneti	ede	None
 venezia	icede	Nan
 veneziana	afọju ti fenisiani	Nan
-veneziano	ede venice	Nan
+veneziano	ede	None
 venezuela	venezuela	None
 venga	wá	Nan
 vengano	jẹ	Nan
@@ -3511,7 +3511,7 @@ utilizzati	ti lo	Nan
 utenti	awọn olumulo	Nan
 utente	olumulo	Nan
 usò	lo	Nan
-usano	wọn lo	Nan
+usano	wọn	None
 usare	lo	Nan
 usata	ti lo	Nan
 usate	ti lo	Nan
@@ -3536,9 +3536,9 @@ vampiri	awọn vampires	Nan
 vampiro	fanpaya	Nan
 van	ayokele	Nan
 vanessa	vanessa	Nan
-vangeli	awọn ihinrere	Nan
+vangeli	ihinrere	None
 vangelo	ihinrere	None
-vanno	wọn lọ	Nan
+vanno	wọn	None
 vanta	awọn ẹya	Nan
 vantaggi	awọn anfani	Nan
 vantaggio	anfani	Nan
@@ -3666,11 +3666,11 @@ rivali	awọn abanidije	Nan
 rivalità	orogun	Nan
 rive	eti okun	Nan
 rivela	han	Nan
-rivelare	fi han	Nan
-rivelato	fi han	Nan
+rivelare	fi	None
+rivelato	fi	None
 rivelazione	ifihan	Nan
-rivelerà	fi han	Nan
-rivelò	o si fi han	Nan
+rivelerà	fi	None
+rivelò	fi	None
 river	odo	Nan
 riveste	ìtàgé	Nan
 riviera	etikun	Nan
@@ -3687,7 +3687,7 @@ romanzo	aramada	Nan
 rompere	fọ	Nan
 romantica	ti alefi ife han	Nan
 ronald	ronald	None
-rosa	awọ pupa	Nan
+rosa	pupa	None
 rosario	rosary	Nan
 rose	dide	Nan
 ross	rosa	Nan
@@ -3732,7 +3732,7 @@ scontri	rogbodiyan	None
 scontro	figagbaga	Nan
 sconfitti	ṣẹgun	Nan
 scolastica	ile-iwe	Nan
-sclerosi	arun inu ẹjẹ	Nan
+sclerosi	arun	None
 scioglimento	itu	None
 schizofrenia	schizophrenia	Nan
 school	ile-iwe	Nan
@@ -3752,7 +3752,7 @@ scienziato	onimo-jinlẹ	Nan
 sconvolto	inu bibi	Nan
 schiera	agbalejo	Nan
 scoperta	awari	None
-scoperti	se awari	Nan
+scoperti	awari	None
 scritta	kọ	Nan
 scritte	kọ	Nan
 scritti	kọ	Nan
@@ -3771,15 +3771,15 @@ scrittura	kikọ	Nan
 screen	iboju	Nan
 scozzesi	ara ilu scotland	Nan
 scozzese	ara ilu scotland	Nan
-scoperto	se awari	Nan
+scoperto	awari	None
 scopi	awọn idi	Nan
 scopo	idi	Nan
 scoppio	ìbújáde	Nan
 scopre	awari	None
 scoprire	lati iwari	Nan
 scoprirà	iwari	Nan
-scoprono	wọn ṣe awari	Nan
-scoprì	o ṣe awari	Nan
+scoprono	awari	None
+scoprì	awari	None
 scorie	egbin	Nan
 scorre	ti nṣàn	Nan
 scorta	ifipamọ ifipamọ	Nan
@@ -3788,7 +3788,7 @@ scott	scott	Nan
 scozia	ilu scotland	Nan
 scoperte	awari	None
 schiena	sẹhin	Nan
-schiavitù	oko eru	Nan
+schiavitù	oko	None
 schiavi	ẹrú	Nan
 sarebbero	yoo	None
 sarà	sara	Nan
@@ -3796,7 +3796,7 @@ sasori	sasori	Nan
 sasso	okuta	Nan
 satellitare	satẹlaiti	Nan
 satellite	satẹlaiti	Nan
-sarebbe	yoo jẹ	Nan
+sarebbe	yoo	None
 satelliti	awọn satẹlaiti	Nan
 savona	savona	Nan
 sawyer	oluwara	Nan
@@ -3821,13 +3821,13 @@ sapienza	ọgbọn	Nan
 saputo	mọ	Nan
 sara	sara	Nan
 sarah	sarah	Nan
-saranno	wọn yoo jẹ	Nan
+saranno	yoo	None
 sarcofago	ẹṣẹ	Nan
 scaglia	chirún	Nan
 scala	akaba	Nan
 scale	pẹtẹẹsì	Nan
 scalemajor	asemajor	Nan
-scelti	ti a ti yan	Nan
+scelti	yan	None
 scelto	yàn	Nan
 scena	ibi isẹlẹ	Nan
 scende	lọ silẹ	Nan
@@ -3845,7 +3845,7 @@ schermo	iboju	Nan
 scelte	awọn yiyan	Nan
 riuscì	o ṣaṣeyọri	Nan
 scelta	yiyan	Nan
-scegliere	lati yan	Nan
+scegliere	yan	None
 scaletta	tẹẹrẹ	Nan
 scalo	pe	Nan
 scambi	pasipaaro	Nan
@@ -3874,7 +3874,7 @@ ricorso	afilọ	Nan
 ricordiamo	ranti	Nan
 ricostruire	atunkọ	Nan
 ricostruzione	atunkọ	Nan
-ricoverato	gba ile iwosan	Nan
+ricoverato	iwosan	None
 ridotta	dinku	Nan
 ridotte	dinku	Nan
 ridotti	dinku	Nan
@@ -3885,7 +3885,7 @@ ricordato	ranti	Nan
 ricordati	ranti	Nan
 ricky	ricky	Nan
 riconosce	ṣe idanimọ	Nan
-riconoscere	lati da	Nan
+riconoscere	da	None
 riconoscimenti	ẹbun	Nan
 riconoscimento	idanimọ	Nan
 riconosciuta	mọ	Nan
@@ -4015,12 +4015,12 @@ scuderia	idurosinsin	Nan
 rilasciato	tu silẹ	Nan
 rilevante	akude	Nan
 ristrutturazione	isọdọtun	Nan
-risulta	oun ni	Nan
+risulta	oun	None
 risultando	abajade	Nan
 risultano	jẹ	Nan
 risultare	esi	Nan
 risultati	awọn esi	Nan
-ristoranti	awon ile onje	Nan
+ristoranti	onje	None
 risultato	esi	Nan
 risurrezione	ajinde	Nan
 risveglia	ji	Nan
@@ -4036,7 +4036,7 @@ risolvere	lati yanju	Nan
 risonanza	resonance	Nan
 risorgimento	risorgimento	Nan
 risorsa	awọn olu .ewadi	Nan
-risorse	awọn orisun	Nan
+risorse	orisun	None
 rispettare	ọwọ	Nan
 rispettivamente	leralera	Nan
 rispettive	oniwun	Nan
@@ -4063,7 +4063,7 @@ riunione	ipade	Nan
 riuniti	jọ	Nan
 riuscendo	aṣeyọri	Nan
 riuscire	si aṣeyọri	Nan
-riuscirono	wọn ṣaṣeyọri	Nan
+riuscirono	wọn	None
 riuscirà	ṣaṣeyọri	Nan
 rituali	awọn irubo	Nan
 ritornò	padà	Nan
@@ -4101,7 +4101,7 @@ rinnovamento	isọdọtun	Nan
 rinnovato	tunse	Nan
 rino	rino	Nan
 rinuncia	amojukuro	Nan
-rinunciare	jowo re sile	Nan
+rinunciare	sile	None
 ring	òrùka	Nan
 rimbalzo	tunbo	Nan
 rimasto	ṣẹku	Nan
@@ -4116,8 +4116,8 @@ rimanenti	ku	None
 rimanere	dúró	None
 rimaneva	ṣẹku	Nan
 rimangono	ṣẹku	Nan
-rimarrà	yoo wa nibe	Nan
-rimase	ó dúró	Nan
+rimarrà	nibe	None
+rimase	dúró	None
 rimasero	ṣẹku	Nan
 rimasta	ṣẹku	Nan
 rimaste	ṣẹku	Nan
@@ -4146,7 +4146,7 @@ risalgono	ibaṣepọ	Nan
 risalente	ibaṣepọ	Nan
 riporta	awọn ijabọ	Nan
 riportano	ijabọ	Nan
-riportare	lati jabo	Nan
+riportare	jabo	None
 riportata	royin	Nan
 riportate	royin	Nan
 riportati	royin	Nan
@@ -4172,13 +4172,13 @@ sostanzialmente	idaran	Nan
 sospetti	awọn fura	Nan
 sostegno	atilẹyin	Nan
 sostenere	lati fowosowopo	Nan
-sosteneva	o sọ	Nan
+sosteneva	sọ	None
 sostengono	atilẹyin	Nan
 sostenitore	alatilẹyin	Nan
 sostenitori	awọn olufowosi	Nan
 sostenne	atilẹyin	Nan
 sostenendo	ni atilẹyin	Nan
-sospeso	ti daduro fun igba diẹ	Nan
+sospeso	fun	None
 sospensione	idadoro	Nan
 sorti	ayanmọ	Nan
 sopravvissuto	ọlọla	Nan
@@ -4189,7 +4189,7 @@ sorella	arabinrin	Nan
 sorelle	arabinrin	Nan
 sorge	ga soke	Nan
 sorgente	orisun	None
-sorgenti	awọn orisun	Nan
+sorgenti	orisun	None
 sorgere	lati dide	Nan
 sorpresa	iyalẹnu	Nan
 sorsero	dide	Nan
@@ -4197,7 +4197,7 @@ sorta	irú	Nan
 sorte	ayanmọ	Nan
 sorteggio	fa	Nan
 sostenuta	atilẹyin	Nan
-sopravvissuti	ye awon to ye	Nan
+sopravvissuti	to	None
 sostenuto	atilẹyin	Nan
 sostituire	rọpo	Nan
 soundtrack	ohun orin	Nan
@@ -4212,8 +4212,8 @@ spa	sipaa	Nan
 space	aaye	Nan
 spada	idà	Nan
 spagna	ilu sibeeni	Nan
-spagnola	ede spanish	Nan
-spagnoli	ede spanish	Nan
+spagnola	ede	None
+spagnoli	ede	None
 sovrano	ọba	Nan
 sottostante	ni isalẹ	Nan
 sottoposto	koko	Nan
@@ -4234,7 +4234,7 @@ sottolineato	tenumo	Nan
 sottomissione	tẹriba	Nan
 sottoposta	tẹriba	Nan
 sostiene	atilẹyin	Nan
-spagnolo	ede spanish	Nan
+spagnolo	ede	None
 soprattutto	okeene	Nan
 soprannome	inagije	Nan
 soggetta	koko	Nan
@@ -4242,7 +4242,7 @@ soggetti	wonyen	Nan
 soggetto	koko	Nan
 soggiorno	yara nla ibugbe	Nan
 soglia	àbáwọlé	Nan
-sogni	awọn ala	Nan
+sogni	ala	None
 sofia	sofia	Nan
 sogno	àlá	Nan
 sola	ọkan	Nan
@@ -4258,7 +4258,7 @@ sofferenza	ijiya	Nan
 so	mo mo	Nan
 soccer	bọọlu	Nan
 soccorso	giga	Nan
-soci	ọmọ ẹgbẹ	Nan
+soci	ọmọ	None
 social	ile-iṣẹ	Nan
 sociale	lawujọ	Nan
 sociali	lawujọ	Nan
@@ -4273,13 +4273,13 @@ soddisfare	itelorun	Nan
 soldato	jagunjagun	Nan
 soprannominato	lórúkọ	Nan
 soldi	owo	Nan
-soli	o kan	Nan
+soli	kan	None
 sonata	sonata	Nan
 sonate	sonatas	Nan
 sondaggio	ibo	Nan
 sonetto	sonnet	Nan
 sonno	sun	None
-sonny	ọmọ arakunrin	Nan
+sonny	ọmọ	None
 son	ọmọ	None
 sono	mo wa	Nan
 sonore	dìẹ	Nan
@@ -4287,7 +4287,7 @@ sonorità	sonority	Nan
 sonoro	ọmọluwabi	Nan
 sony	ọmọkùnrin	Nan
 sookie	sookie	Nan
-sopra	lori rẹ	Nan
+sopra	rẹ	None
 sonora	ìró	None
 somme	awọn akopọ	Nan
 somma	aropọ	Nan
@@ -4315,29 +4315,29 @@ squadre	awọn ẹgbẹ	Nan
 square	square	Nan
 srl	ltd.	Nan
 st	st.	Nan
-sta	oun ni	Nan
+sta	oun	None
 stabile	idurosinsin	Nan
 squadra	egbe	None
-stabilire	lati fi idi mulẹ	Nan
+stabilire	fi	None
 stabilito	mulẹ	Nan
 stabilità	iduroṣinṣin	Nan
 stabilì	mulẹ	Nan
 stadi	papa-iṣere	Nan
 stadio	àgbàlá	Nan
 stadium	papa-iṣere	Nan
-stabilisce	fi idi mulẹ	Nan
+stabilisce	fi	None
 spunto	ifa	Nan
 spunti	awọn imọran	Nan
-springsteen	orisun omi	Nan
+springsteen	omi	None
 sportive	eré ìdárayá	Nan
 sportivi	eré ìdárayá	Nan
 sportivo	eré ìdárayá	Nan
 sposa	iyawo	None
 sposare	lati fẹ	Nan
-sposarsi	lati gba iyawo	Nan
-sposata	ti ni iyawo	Nan
-sposato	ti ni iyawo	Nan
-sposi	ti ni iyawo	Nan
+sposarsi	iyawo	None
+sposata	iyawo	None
+sposato	iyawo	None
+sposi	iyawo	None
 sposta	gbe	None
 spostamenti	awọn agbeka	Nan
 spostamento	yi lọ yi bọ	Nan
@@ -4360,7 +4360,7 @@ status	ipo	None
 statuto	ìlànà	Nan
 stauffenberg	stauffenberg	Nan
 stava	o jẹ	Nan
-stavano	wọn wa	Nan
+stavano	wọn	None
 stavolta	ni akoko yi	Nan
 statunitensi	amẹrika	Nan
 state	ti	Nan
@@ -4374,7 +4374,7 @@ stan	onidan	Nan
 standard	boṣewa	Nan
 stando	jije	None
 stanley	ìlù	Nan
-stanno	wọn jẹ	Nan
+stanno	wọn	None
 stanza	yara	Nan
 stanze	awọn yara	Nan
 star	irawo	Nan
@@ -4425,7 +4425,7 @@ spesso	nigbagbogbo	Nan
 spielberg	spielberg	Nan
 spina	pulọọgi	Nan
 spinge	titari	Nan
-spinoff	idagbasoke ọja miiran	Nan
+spinoff	idagbasoke	None
 spinse	ti	Nan
 spinta	lepa	Nan
 spinto	ti	Nan
@@ -4452,7 +4452,7 @@ spezia	turari	Nan
 spia	ina ifihan	Nan
 spiagge	awọn eti okun	Nan
 spiaggia	eti okun	Nan
-spicca	dúró síta	Nan
+spicca	síta	None
 spiccano	ai-gba	Nan
 spicco	yori	None
 spiega	salaye	Nan
@@ -4500,19 +4500,19 @@ separati	yà	Nan
 serial	tẹlentẹle	Nan
 seriamente	isẹ	Nan
 serie	jara	Nan
-serio	to ṣe pataki	Nan
+serio	to	None
 serpente	ejo	Nan
 serra	eefin	Nan
-seria	to ṣe pataki	Nan
+seria	to	None
 serse	agbari	Nan
 servire	lati sin	Nan
-servita	yoo wa	Nan
-servito	yoo wa	Nan
+servita	yoo	None
+servito	yoo	None
 servizi	awọn iṣẹ	Nan
 servizio	iṣẹ	Nan
 servono	sìn	Nan
 serve	nilo	Nan
-seri	to ṣe pataki	Nan
+seri	to	None
 sergio	sergio	Nan
 serena	serena	Nan
 separato	lọtọ	Nan
@@ -4531,7 +4531,7 @@ serata	irọlẹ	Nan
 serate	irọlẹ	Nan
 serbia	serbia	Nan
 separate	yà	Nan
-sembrano	wọn dabi	Nan
+sembrano	wọn	None
 sembra	o dabi pe	Nan
 sembianze	hihan	Nan
 seconda	ikeji	Nan
@@ -4544,7 +4544,7 @@ second	ikeji	Nan
 secondo	ikeji	Nan
 sed	sed	Nan
 sede	ijoko	Nan
-sedi	awọn ipo	Nan
+sedi	ipo	None
 sedia	alaga	Nan
 sedicesimi	mefa	Nan
 sedici	mẹrindilogun	Nan
@@ -4580,7 +4580,7 @@ seguirono	tẹle	Nan
 seguita	tẹle	Nan
 seguiti	tẹle	Nan
 seguito	atẹle	Nan
-seguono	wọn tẹle	Nan
+seguono	wọn	None
 seguì	tẹle	Nan
 sei	mefa	Nan
 seicento	ẹgbẹta	Nan
@@ -4594,7 +4594,7 @@ segna	awọn aami	Nan
 segnalano	ijabọ	Nan
 segnalare	ijabọ	Nan
 segnale	ifihan	Nan
-segnali	awọn ifihan agbara	Nan
+segnali	agbara	None
 segnando	siṣamisi	Nan
 segnare	samisi	Nan
 segnato	samisi	Nan
@@ -4618,7 +4618,7 @@ sinatra	sinatra	Nan
 simona	simona	Nan
 sindaco	arabinrin	Nan
 sinfonia	ohun afetigbọ	Nan
-singapore	orílẹ̀ èdè singapore	Nan
+singapore	orílẹ̀	None
 singer	akorin	Nan
 singola	ẹyọkan	Nan
 singolare	alailẹgbẹ	Nan
@@ -4633,7 +4633,7 @@ significato	itumo	None
 signor	ọgbẹni	Nan
 signora	fúnmi	Nan
 signore	oluwa	Nan
-signori	okunrin jeje	Nan
+signori	okunrin	None
 signoria	oluwa	Nan
 silente	ipalọlọ	Nan
 silenzio	ipalọlọ	Nan
@@ -4649,7 +4649,7 @@ sinistro	osi	Nan
 situati	wa	Nan
 situato	o wa	Nan
 situazione	ipo	None
-situazioni	awọn ipo	Nan
+situazioni	ipo	None
 siviglia	sevilla	Nan
 sketch	sketch	Nan
 situate	wa	Nan
@@ -4765,8 +4765,8 @@ collinari	olorun	Nan
 colline	awọn oke-nla	Nan
 collins	collins	Nan
 collezioni	awọn ikojọpọ	Nan
-collirio	oju omi	Nan
-colloca	awọn ipo	Nan
+collirio	omi	None
+colloca	ipo	None
 collocata	gbe	None
 collocazione	kopo	Nan
 colloquio	ifọrọwanilẹnuwo	Nan
@@ -4816,9 +4816,9 @@ colpisce	kọlu	Nan
 colonizzazione	ilodi	Nan
 colonna	ẹka	Nan
 colonne	awọn ọwọn	Nan
-colonnello	ọmọ ogun	Nan
+colonnello	ogun	None
 color	awọ	Nan
-colorcolor	awo awọ	Nan
+colorcolor	awo	None
 colore	awọ	Nan
 colori	awọn awọ	Nan
 coloro	wọn	None
@@ -4833,14 +4833,14 @@ combinazione	apapo	Nan
 collaborazioni	awọn ifowosowopo	Nan
 collaboratori	awọn alabaṣiṣẹpọ	Nan
 classificazione	isọdi	Nan
-classifiche	awọn ipo	Nan
+classifiche	ipo	None
 claudia	agbedemeji	Nan
 clavicembalo	harpsichord	Nan
 clemente	clement	Nan
 clero	àlùfáà	Nan
 classificato	classified	Nan
 client	alabara	Nan
-climatiche	oju ojo	Nan
+climatiche	ojo	None
 climatologia	oke-nla	Nan
 clinica	ile-iwosan	Nan
 clinico	isẹgun	Nan
@@ -4867,7 +4867,7 @@ classico	ayebaye	Nan
 classifica	wiwo	Nan
 clone	ẹda oniye	Nan
 collaborazione	ifowosowopo	Nan
-cloni	ere ibeji	Nan
+cloni	ibeji	None
 cm	cm	Nan
 coinvolte	lowo	Nan
 coinvolti	lowo	Nan
@@ -4892,7 +4892,7 @@ coalizione	isokan	Nan
 cobra	kobi	Nan
 cocaina	kokeni	Nan
 coda	iru	Nan
-code	awọn ori ila	Nan
+code	ori	None
 codice	koodu	Nan
 codici	awọn koodu	Nan
 coefficiente	olùsọdipúpọ	Nan
@@ -4912,7 +4912,7 @@ computer	kọmputa	Nan
 comunale	idalẹnu ilu	Nan
 comunali	idalẹnu ilu	Nan
 comune	wọpọ	Nan
-compreso	to wa	Nan
+compreso	to	None
 comunemente	wọpọ	Nan
 comunica	mba sọrọ	Nan
 comunicare	lati baraẹnisọrọ	Nan
@@ -4921,7 +4921,7 @@ comunicazione	ibaraẹnisọrọ	Nan
 comunicazioni	ibaraẹnisọrọ	Nan
 comunismo	ibaraẹnisọrọ	Nan
 comuni	wọpọ	Nan
-compresi	to wa	Nan
+compresi	to	None
 comprese	pẹlu	Nan
 compresa	pẹlu	Nan
 compositore	olupilẹṣẹ	Nan
@@ -4932,17 +4932,17 @@ composta	kq	Nan
 composte	yellow	Nan
 composti	awọn iṣiro	Nan
 composto	yellow	Nan
-comprare	lati ra	Nan
+comprare	ra	None
 comprende	o ni	Nan
 comprendente	ninu	Nan
 comprendere	loye	Nan
-comprendeva	to wa	Nan
-comprendono	wọn pẹlu	Nan
+comprendeva	to	None
+comprendono	wọn	None
 comprensione	oye	Nan
 comunista	communist	Nan
 compose	kq	Nan
 comunisti	awọn alagbọrọ	Nan
-comunque	bo se wu ko ri	Nan
+comunque	ko	None
 conclude	pari	Nan
 concludere	lati pari	Nan
 conclusa	pari	Nan
@@ -5005,7 +5005,7 @@ comics	awada	Nan
 comincia	o bẹrẹ	Nan
 cominciano	berè	Nan
 cominciare	berè	Nan
-cominciarono	wọn bẹrẹ	Nan
+cominciarono	wọn	None
 cominciato	bẹrẹ	Nan
 cominciò	o bẹrẹ	Nan
 comitato	igbimo	Nan
@@ -5047,7 +5047,7 @@ compito	iṣẹ-ṣiṣe	Nan
 compiuta	ṣẹ	Nan
 compiuti	ṣe	Nan
 compiuto	ṣẹ	Nan
-compleanno	ojo ibi	Nan
+compleanno	ojo	None
 complessa	eka	None
 complesse	eka	None
 complessi	eka	None
@@ -5096,17 +5096,17 @@ centrosinistra	aarin	Nan
 century	orundun	Nan
 cera	epo-eti	Nan
 cerano	cerano	Nan
-cerca	wa fun	Nan
-cercando	nwa fun	Nan
+cerca	fun	None
+cercando	fun	None
 centro	aarin	Nan
 cercano	gbidanwo	Nan
-cercato	nwa fun	Nan
+cercato	fun	None
 cercava	o wa	Nan
 cerchi	awọn iyika	Nan
 cerchia	circle	Nan
 cerchio	circle	Nan
 cercò	mo wa	Nan
-cercare	wa fun	Nan
+cercare	fun	None
 centri	awọn ile-iṣẹ	Nan
 centrali	awọn ibudo	Nan
 centrale	aringbungbun	Nan
@@ -5119,7 +5119,7 @@ cellule	sẹẹli	Nan
 cemento	nja	Nan
 cena	ounje ale	Nan
 ceneri	ru	Nan
-cenni	ko si	Nan
+cenni	ko	None
 censimento	ìkànìyàn	Nan
 censura	ipanu	Nan
 centenario	ọgọ́rùn-ún	Nan
@@ -5138,7 +5138,7 @@ cartone	paali	Nan
 carriera	iṣẹ	Nan
 cartoni	awọn katọn	Nan
 casale	ilé	None
-casalinga	iyawo ile	Nan
+casalinga	iyawo	None
 case	awọn ile	Nan
 caserta	ẹjọ	Nan
 casey	ẹjọ	Nan
@@ -5163,7 +5163,7 @@ carnevale	erekusu	Nan
 caro	olufẹ	Nan
 carol	carol	Nan
 caso	ọran	Nan
-cassa	tabili owo	Nan
+cassa	tabili	None
 cassano	cassano	Nan
 cassazione	cassation	Nan
 categoriagruppi	categoriagruppi	Nan
@@ -5192,7 +5192,7 @@ castello	ile odi	Nan
 casting	simẹnti	Nan
 castro	ọpọlọ	Nan
 casuale	id	Nan
-catalano	ede catalan	Nan
+catalano	ede	None
 catalogna	catalonia	Nan
 catalogo	iwe ipolowo ọja	Nan
 catania	catania	Nan
@@ -5249,7 +5249,7 @@ citato	toka si	Nan
 citazione	avvon	Nan
 citando	so	None
 citazioni	awọn alaye	Nan
-cittadina	ilu kekere	Nan
+cittadina	kekere	None
 cittadinanza	ara ilu	Nan
 cittadine	ilu	Nan
 cittadini	ara ilu	Nan
@@ -5285,7 +5285,7 @@ chernobyl	ṣẹẹri	Nan
 chi	àjọ who	Nan
 chiama	ti o fẹràn	Nan
 charlotte	charlotte	Nan
-chiamano	wọn pe	Nan
+chiamano	wọn	None
 chiamata	pe	Nan
 chiamate	awọn ipe	Nan
 chiamati	ti a pe	Nan
@@ -5311,9 +5311,9 @@ chakra	chakra	Nan
 champions	awọn aṣaju	Nan
 chandler	chandler	Nan
 chanel	shaneli	Nan
-chiara	ko o	Nan
+chiara	ko	None
 chiaramente	kedere	Nan
-chiari	ko o	Nan
+chiari	ko	None
 chiarire	lati salaye	Nan
 chirurgo	oniṣẹ-abẹ	Nan
 chisciotte	pẹkipẹki	Nan
@@ -5334,7 +5334,7 @@ chirurgia	iṣẹ abẹ	Nan
 cerimonia	ayẹyẹ	Nan
 chinoni	quinones	Nan
 chimici	kemikali	Nan
-chiaro	ko o	Nan
+chiaro	ko	None
 chiave	bọtini	Nan
 chicago	chicago	Nan
 chiede	béèrè	Nan
@@ -5351,7 +5351,7 @@ chimica	kemistri	Nan
 chimiche	kẹmika	Nan
 chimico	onimọn-jinlẹ	Nan
 carducci	kadio	Nan
-condannato	da lẹbi	Nan
+condannato	da	None
 condivisa	pin	Nan
 cure	itọju	Nan
 curiosità	iwariiri	Nan
@@ -5375,7 +5375,7 @@ cubana	kuba	Nan
 cucina	ibi idana	Nan
 cuddy	olufe	Nan
 cugina	obinrin aburo	Nan
-cugino	ọmọ ẹgbọn	Nan
+cugino	ọmọ	None
 cui	ewo	Nan
 cullen	cullen	Nan
 culto	egbeokunkun	Nan
@@ -5388,13 +5388,13 @@ cuore	obi	Nan
 cupola	éù	Nan
 daccordo	gba	None
 cuba	kuba	Nan
-dacqua	ti omi	Nan
+dacqua	omi	None
 dagli	nipasẹ	Nan
 damore	ni ife	Nan
 dance	jó	Nan
 dancing	jijo	Nan
 dando	fifun	Nan
-danese	ede danish	Nan
+danese	ede	None
 daniel	daniel	Nan
 damerica	ti amẹrika	Nan
 daniele	daniele	Nan
@@ -5417,7 +5417,7 @@ dallalto	lati oke	Nan
 dallaltra	lori miiran	Nan
 dallaltro	lori miiran	Nan
 dallassemblea	dallassemblea	Nan
-dalle	fun ni	Nan
+dalle	fun	None
 dalleuropa	lati yuroopu	Nan
 dallinizio	láti ìbẹ̀rẹ̀	Nan
 dallitalia	lati italia	Nan
@@ -5427,7 +5427,7 @@ daffari	iṣowo	Nan
 dante	dante	Nan
 csi	csi	Nan
 crosta	erunrun	Nan
-crede	o ro pe	Nan
+crede	ro	None
 credendo	onigbagbọ	Nan
 credenza	bọọlu	Nan
 credenze	awọn igbagbọ	Nan
@@ -5435,7 +5435,7 @@ credere	láti gbàgbọ	Nan
 credeva	o gbagbọ	Nan
 crebbe	dagba	Nan
 crediti	kirediti	Nan
-credo	mo ro pe	Nan
+credo	ro	None
 credono	gbagbọ	Nan
 creed	igbagbo	Nan
 cresce	gbooro	Nan
@@ -5461,7 +5461,7 @@ creativo	ẹda	Nan
 creato	ṣẹda	Nan
 creatore	eleda	Nan
 crescita	idagba	Nan
-cruise	ọkọ oju-omi kekere	Nan
+cruise	kekere	None
 cresciuta	dagba	Nan
 creta	kíréte	Nan
 critica	ibaniwi	Nan
@@ -5555,7 +5555,7 @@ dellesercito	dellesercito	Nan
 delleconomia	delleconomia	Nan
 dellassemblea	dellassemblea	Nan
 dellasse	dellasse	Nan
-dellasia	ti esia	Nan
+dellasia	esia	None
 dellamministrazione	dellamministrazione	Nan
 dellamore	ti ife	Nan
 dellanello	dellanello	Nan
@@ -5581,7 +5581,7 @@ davide	david	Nan
 davis	davis	Nan
 davvero	looto	Nan
 day	ọjọ	Nan
-davanti	niwaju ti	Nan
+davanti	niwaju	None
 days	àwọn ọjọ́	Nan
 dc	a.d	Nan
 de	de	Nan
@@ -5590,7 +5590,7 @@ dean	diini	Nan
 death	iku	None
 debba	yẹ	Nan
 dazione	dation	Nan
-dava	o fun	Nan
+dava	fun	None
 dautore	dautore	Nan
 daustria	ti austria	Nan
 daphne	daphne	Nan
@@ -5605,10 +5605,10 @@ darko	darko	Nan
 darte	aworan	Nan
 data	ọjọ	Nan
 datata	ti akoko	Nan
-date	ni aaye rẹ	Nan
+date	rẹ	None
 dati	data	Nan
 dato	fifun	Nan
-debiti	awon gbese	Nan
+debiti	gbese	None
 debito	gbese	None
 debole	ailera	Nan
 debolezza	ailera	Nan
@@ -5653,7 +5653,7 @@ costume	aṣọ	Nan
 consigli	imọran	Nan
 consiglia	niyanju	Nan
 consigliere	onimọran	Nan
-consiglieri	awọn ọmọ ẹgbẹ igbimọ	Nan
+consiglieri	ọmọ	None
 consiglio	imọran	Nan
 consiste	ni	Nan
 considerevole	akude	Nan
@@ -5677,7 +5677,7 @@ conservazione	ibi ipamọ	Nan
 considera	ka	Nan
 considerando	nronu	Nan
 considerano	ronu	Nan
-considerare	lati ro	Nan
+considerare	ro	None
 considerarsi	ṣakiyesi	Nan
 considerata	ṣakiyesi	Nan
 considerate	ṣakiyesi	Nan
@@ -5686,7 +5686,7 @@ considerato	ṣakiyesi	Nan
 contano	ka	Nan
 conservata	ni ifipamọ	Nan
 contare	lati ka	Nan
-contatto	kan si	Nan
+contatto	kan	None
 continentale	continental	Nan
 continentali	continental	Nan
 continente	kọntinia	Nan
@@ -5705,11 +5705,11 @@ continuano	tẹsiwaju	Nan
 conti	awọn iroyin	Nan
 contesto	o tọ	Nan
 contenuto	akoonu	Nan
-conte	pẹlu rẹ	Nan
+conte	rẹ	None
 contea	county	Nan
 contempo	ni igba kaana	Nan
 contemporanea	contemporary	Nan
-contemporaneamente	ni akoko kan naa	Nan
+contemporaneamente	kan	None
 contemporanei	imusin	None
 contemporaneo	imusin	None
 contenente	ti o ni awọn	Nan
@@ -5722,13 +5722,13 @@ contenute	ninu	Nan
 contenuti	akoonu	Nan
 contatti	awọn olubasọrọ	Nan
 conserva	se itoju	Nan
-consentono	gba laaye	Nan
-consentito	gba laaye	Nan
+consentono	gba	None
+consentito	gba	None
 confessa	jewo	Nan
 confessione	ijewo	Nan
 confessioni	ijewo	Nan
 configurazione	iṣeto	Nan
-confina	awọn aala	Nan
+confina	aala	None
 confinanti	adugbo	Nan
 confermò	o timo	Nan
 confine	ààlà	Nan
@@ -5738,14 +5738,14 @@ conformazione	apejọpọ	Nan
 confronti	awọn afiwera	Nan
 confronto	lafiwe	Nan
 confusione	rudurudu	Nan
-confini	awọn aala	Nan
+confini	aala	None
 confermato	timo	Nan
 confermata	timo	Nan
 confermare	jẹrisi	Nan
 condivisione	pinpin	Nan
 condiviso	pin	Nan
 condizione	majemu	Nan
-condizioni	awọn ipo	Nan
+condizioni	ipo	None
 condotta	ihuwasi	Nan
 condotti	o waiye	Nan
 condotto	o waiye	Nan
@@ -5760,7 +5760,7 @@ conferma	ìmúdájú	Nan
 congregazione	ijọ	Nan
 congresso	apejọ alapejọ	Nan
 coniglio	ehoro	Nan
-coniugi	oko tabi aya	Nan
+coniugi	aya	None
 consapevole	mọ	Nan
 consapevolezza	imo	Nan
 consecutive	kana	Nan
@@ -5774,15 +5774,15 @@ conseguenze	awọn abajade	Nan
 conseguimento	iyọrisi	Nan
 consensi	awọn onigbagbọ	Nan
 consenso	ase	Nan
-consente	o gba laaye	Nan
-consentire	gba laaye	Nan
+consente	gba	None
+consentire	gba	None
 conquistò	bori	Nan
 continue	lemọlemọfún	Nan
 conquiste	awọn aṣeyọri	Nan
 conquistata	ṣẹgun	Nan
 connessi	ti sopọ	Nan
 connessione	ìbáṣepọ	Nan
-conobbe	ó pàdé	Nan
+conobbe	ó	None
 conosce	mọ	Nan
 conoscenza	imo	Nan
 conoscenze	imo	Nan
@@ -5797,7 +5797,7 @@ conquista	iṣẹgun	Nan
 conquistare	ṣẹgun	Nan
 conquistato	bori	Nan
 condivide	mọlẹbi	Nan
-continuerà	yoo tesiwaju	Nan
+continuerà	yoo	None
 continuità	ilosiwaju	Nan
 corte	kootu	Nan
 corti	kukuru	Nan
@@ -5807,7 +5807,7 @@ cortometraggio	fiimu kukuru	Nan
 corvo	kuroo	Nan
 corso	dajudaju	Nan
 cosa	ohun	Nan
-cose	kini eleyi	Nan
+cose	eleyi	None
 cosenza	cosenza	Nan
 cosiddetta	bẹ-ti a npe	Nan
 cosiddette	bẹ-ti a npe	Nan
@@ -5837,15 +5837,15 @@ correlati	jẹmọ	Nan
 costa	o na	Nan
 costantemente	ni imurasilẹ	Nan
 costo	iye owo	Nan
-costretta	fi agbara mu	Nan
-costretti	fi agbara mu	Nan
-costretto	fi agbara mu	Nan
+costretta	agbara	None
+costretti	agbara	None
+costretto	agbara	None
 costringe	awọn ipa	Nan
-costrinse	o fi agbara mu	Nan
+costrinse	agbara	None
 costituì	ṣe	Nan
 costruire	kọ	Nan
-costruite	ti won ko	Nan
-costruiti	ti won ko	Nan
+costruite	ko	None
+costruiti	ko	None
 costruito	itumọ	Nan
 costruttori	awọn akọle	Nan
 costruzione	ikole	Nan
@@ -5863,8 +5863,8 @@ costiera	etikun	Nan
 costiere	etikun	Nan
 costituente	ipinlẹ	Nan
 costituire	se	Nan
-costituisce	oun ni	Nan
-costituiscono	wọn ṣe	Nan
+costituisce	oun	None
+costituiscono	wọn	None
 costituita	ṣe	Nan
 costituite	ṣe	Nan
 costituiti	ni	Nan
@@ -5909,10 +5909,10 @@ contribuendo	idasi	Nan
 conversione	iyipada	Nan
 convince	parowa	Nan
 convincere	lati parowa	Nan
-convinse	o da oun loju	Nan
+convinse	oun	None
 coppie	orisii	Nan
 copre	awọn ibora	Nan
-coprire	da nkan bo	Nan
+coprire	nkan	None
 coprono	ideri	Nan
 coraggio	igboya	Nan
 corbucci	corbucci	Nan
@@ -6022,7 +6022,7 @@ anticamente	ni igba atijọ	Nan
 apparsa	han	Nan
 anello	òrùka	Nan
 andò	o lọ	Nan
-ammesso	gba wọle	Nan
+ammesso	gba	None
 ammette	gba	None
 amministrativa	isakoso	Nan
 amministrative	isakoso	Nan
@@ -6099,7 +6099,7 @@ appartenente	ohun ini	Nan
 arte	aworan	Nan
 arterie	àlọ	Nan
 arti	iṣẹ ọnà	Nan
-articoli	awọn nkan	Nan
+articoli	nkan	None
 articolo	nkan	None
 artificiale	atọwọda	Nan
 art	nkan	None
@@ -6122,9 +6122,9 @@ arresti	faṣẹ ọba mu	Nan
 arresto	mú	Nan
 arriva	de	Nan
 arrivando	n bọ	Nan
-arrivano	wọn de	Nan
+arrivano	wọn	None
 arrivare	de	Nan
-arrivarono	wọn de	Nan
+arrivarono	wọn	None
 arrivata	dé	None
 arrivati	dé	None
 arrivato	dé	None
@@ -6154,9 +6154,9 @@ assassins	apaniyan	Nan
 ascoltato	gbo	Nan
 ascolti	o gbọ	Nan
 asia	esia	None
-asiatica	ara ilu esia	Nan
-asiatici	ara ilu esia	Nan
-asiatico	ara ilu esia	Nan
+asiatica	esia	None
+asiatici	esia	None
+asiatico	esia	None
 aspettare	duro de	Nan
 aspettative	awọn ireti	Nan
 aspetti	duro de	Nan
@@ -6179,15 +6179,15 @@ approvata	ti a fọwọsi	Nan
 apprezzati	mọrírì	Nan
 approvato	ti a fọwọsi	Nan
 appunti	awọn akọsilẹ	Nan
-appunto	o kan	Nan
+appunto	kan	None
 apre	ṣi	Nan
-aprile	oṣu kẹrin	Nan
+aprile	kẹrin	None
 aprire	lati ṣii	Nan
 aprono	ṣii	Nan
 appuntamento	ipinnu lati pade	Nan
 appositamente	pataki	Nan
 appoggio	atilẹyin	Nan
-appoggiato	gbigbe ara le	Nan
+appoggiato	le	None
 appartenenti	ohun ini	Nan
 appartenenza	ẹgbẹ	Nan
 apparteneva	o jẹ ti	Nan
@@ -6206,7 +6206,7 @@ applicazioni	awọn ohun elo	Nan
 aprì	o ṣii	Nan
 aquila	idì	Nan
 ar	ar	Nan
-araba	dè lárúbáwá	Nan
+araba	lárúbáwá	None
 aree	awọn agbegbe	Nan
 arena	gbagede	Nan
 aretino	arezzo	Nan
@@ -6220,14 +6220,14 @@ aristotele	aristotele	Nan
 arizona	arizona	Nan
 arma	ohun ija	Nan
 armando	ihamọra	Nan
-armata	ọmọ ogun	Nan
+armata	ogun	None
 armate	ni ihamọra	Nan
 area	agbegbe	Nan
 ambientati	ambientati	Nan
 are	jẹ	Nan
-archivio	ile ifi nkan pamosi	Nan
+archivio	nkan	None
 arabi	awọn ara larubawa	Nan
-arabo	dè lárúbáwá	Nan
+arabo	lárúbáwá	None
 arancia	ọsan	Nan
 arcana	arcane	Nan
 archeologici	igba atijọ	Nan
@@ -6240,14 +6240,14 @@ architettonici	ayaworan	Nan
 architettonico	ayaworan	Nan
 architettura	faaji	Nan
 architetture	ayaworan ile	Nan
-archivi	awọn ile ifi nkan pamosi	Nan
+archivi	nkan	None
 arco	tẹriba	Nan
 ambientate	acclimatized	Nan
 ambientata	ṣeto	Nan
 ambientali	ayika	Nan
 adottati	gba	None
 adottato	gba	None
-adottò	o gba	Nan
+adottò	gba	None
 adozione	isọdọmọ	Nan
 adrian	adrian	Nan
 adriatico	adriatic	Nan
@@ -6258,9 +6258,9 @@ aerea	ategun	Nan
 aeree	ategun	Nan
 aerei	ọkọ ofurufu	Nan
 aereo	ọkọ ofurufu	Nan
-aeroporti	papa ọkọ ofurufu	Nan
+aeroporti	papa	None
 adulti	agbalagba	Nan
-adottare	lati gba	Nan
+adottare	gba	None
 adotta	adopts	Nan
 adolf	adágún	Nan
 adams	adams	Nan
@@ -6273,22 +6273,22 @@ addio	o dabọ	Nan
 addirittura	ani	Nan
 aderenti	awọn alafaramọ	Nan
 adesione	alemora	Nan
-adesso	ni bayi	Nan
+adesso	bayi	None
 adiacenti	nitosi	None
 adolescente	ọdọ	Nan
 adolescenti	odo	Nan
 adolescenza	ọdọ	Nan
-aeroporto	papa ọkọ ofurufu	Nan
+aeroporto	papa	None
 ad	sí	Nan
 aerosmith	aerosmith	Nan
 affacciano	mojufo	Nan
 affinché	nitorinaa	Nan
 affinità	ijora	Nan
 affreschi	frescoes	Nan
-affronta	dojú kọ	Nan
+affronta	dojú	None
 affrontano	ibaṣowo	Nan
 affrontare	koju si	Nan
-affidato	ti fi le	Nan
+affidato	le	None
 affrontato	sọrọ	Nan
 aforismi	awọn apọju	Nan
 africa	afirika	Nan
@@ -6297,7 +6297,7 @@ africani	ara ilu afirika	Nan
 africano	ara ilu afirika	Nan
 afroamericani	ara ilu amẹrika amẹrika	Nan
 afghanistan	afiganisitani	Nan
-affidata	ti fi le	Nan
+affidata	le	None
 affida	awọn igbekele	Nan
 affiancato	darapo	None
 affari	iṣowo	Nan
@@ -6340,13 +6340,13 @@ abile	onilàkaye	Nan
 a	sí	Nan
 abba	baba	Nan
 abbandona	ewé	None
-abbandonando	npa sile	Nan
+abbandonando	sile	None
 abbandonare	kọ silẹ	Nan
 abbandonata	kọ silẹ	Nan
 abbandonato	kọ silẹ	Nan
 abbandono	ikopa	Nan
 abbandonò	o kọ	Nan
-abbastanza	ti to	Nan
+abbastanza	to	None
 abbia	ní	None
 abbiamo	a ni	Nan
 abbiano	ni	Nan
@@ -6364,22 +6364,22 @@ acidi	awọn acids	Nan
 acido	acid	Nan
 acqua	omi	None
 acque	omi	None
-acquisire	lati gba	Nan
-acquisito	ti fi agbara mu	Nan
+acquisire	gba	None
+acquisito	agbara	None
 acquista	ra	None
 acquistare	ra	None
 acquistato	ra	None
 acronimo	adape	Nan
 action	ìṣe	Nan
 accusato	onimo	Nan
-age	ọjọ ori	Nan
+age	ori	None
 accusa	ẹsùn	Nan
 accordo	àdéhùn	Nan
 accetta	ake	Nan
-accettare	lati gba	Nan
+accettare	gba	None
 accettata	gba	None
 accettato	ti a fọwọsi	Nan
-accettò	mo gba	Nan
+accettò	gba	None
 acciai	steels	Nan
 acciaio	irin	Nan
 accoglie	kaabọ	Nan
@@ -6409,7 +6409,7 @@ allultima	allultima	Nan
 allultimo	allultimo	Nan
 alluniversità	ni yunifasiti	Nan
 allora	lẹhinna	Nan
-allievo	ọmọ ile-iwe	Nan
+allievo	ọmọ	None
 allievi	omo ile	Nan
 allidea	allidea	Nan
 allarrivo	de dide	Nan
@@ -6432,7 +6432,7 @@ allaperto	awọn gbagede	Nan
 alluscita	ni ijade	Nan
 almeno	o kere ju	Nan
 altresì	tun	Nan
-altrettanto	bakana fun e	Nan
+altrettanto	fun	None
 altri	awọn miiran	Nan
 altrimenti	bibẹẹkọ	Nan
 altro	omiiran	Nan
@@ -6465,21 +6465,21 @@ alternativo	omiiran	Nan
 altezza	gíga	Nan
 alti	ga	Nan
 alluso	tọka	Nan
-allanno	ni ọdun kan	Nan
+allanno	kan	None
 allan	allan	Nan
 allamico	allamico	Nan
 agricolo	ogbin	Nan
 agricoltura	ogbin	Nan
 ai	sí	Nan
-aids	ọmọ kekere	Nan
+aids	kekere	None
 air	ategun	Nan
 aires	afẹfẹ	Nan
 agricoli	ogbin	Nan
 aiuta	o ṣe iranlọwọ	Nan
-aiutarlo	ràn án lọ́wọ́	Nan
+aiutarlo	án	None
 aiutato	iranwo	Nan
 aiuti	iranlowo	Nan
-aiuto	egba mi o	Nan
+aiuto	egba	None
 al	si awọn	Nan
 alan	alan	Nan
 aiutare	lati ran	Nan
@@ -6491,11 +6491,11 @@ aggiunge	afikun	Nan
 aggiungendo	fifi	Nan
 aggiungere	lati fikun	Nan
 aggiungono	ṣafikun	Nan
-aggiunse	o fi kun	Nan
+aggiunse	fi	None
 aggiunta	afikun	Nan
-aggiunte	fi kun	Nan
-aggiunti	fi kun	Nan
-aggiunto	fi kun	Nan
+aggiunte	fi	None
+aggiunti	fi	None
+aggiunto	fi	None
 agire	ìṣe	Nan
 agisce	iṣe	Nan
 agiscono	iṣe	Nan
@@ -6508,7 +6508,7 @@ albania	albania	Nan
 alfabeto	abidi	None
 alfonso	alfonso	Nan
 ali	iyẹ	Nan
-alice	ọkọ oju-omi kekere	Nan
+alice	kekere	None
 alighieri	alighieri	Nan
 alimentare	ifunni	Nan
 alimentari	oúnjẹ	None
@@ -6557,7 +6557,7 @@ brasiliano	ara ilu brazil	Nan
 bravo	omo daadaa	Nan
 breaking	fifọ	Nan
 bree	afẹfẹ	Nan
-brano	fi aye	Nan
+brano	fi	None
 box	àpótí	Nan
 bowie	tẹriba	Nan
 bottiglia	ìgo	Nan
@@ -6601,7 +6601,7 @@ bros	bros	Nan
 brevemente	ni ṣoki	Nan
 brevi	kukuru	Nan
 brian	bẹtẹli	Nan
-brigata	ọmọ ogun	Nan
+brigata	ogun	None
 brigate	awọn alagbẹdẹ	Nan
 brillante	o wuyi	Nan
 brindisi	tositi	Nan
@@ -6635,7 +6635,7 @@ billie	ìdíyelé	Nan
 bibliografia	iwe itan	Nan
 bibbia	bibeli	None
 bianconeri	bianconeri	Nan
-berlino	ilu berlin	Nan
+berlino	berlin	None
 berlusconi	berlusconi	Nan
 bersaglio	ibi-afẹde	Nan
 best	dara julọ	Nan
@@ -6657,7 +6657,7 @@ bisogni	aini	Nan
 boccaccio	boccaccio	Nan
 bolla	nkuta	Nan
 bologna	bologna	Nan
-bolognese	ede bolognese	Nan
+bolognese	ede	None
 bomba	gbamu	Nan
 bombardamenti	awọn bugbamu	Nan
 bocca	ẹnu	Nan
@@ -6696,7 +6696,7 @@ canti	se o korin	Nan
 cantiere	ile aaye	Nan
 canto	mo kọrin	Nan
 canton	canton	Nan
-cantoni	awọn ilu kekere	Nan
+cantoni	kekere	None
 cantautore	akọrin	Nan
 canzone	orin	Nan
 caos	rudurudu	Nan
@@ -6751,7 +6751,7 @@ capitali	olu	Nan
 capitalismo	kapitalisimu	Nan
 capitano	balogun	Nan
 capite	okoowo	Nan
-capito	mo ti gba	Nan
+capito	gba	None
 capitoli	ori	None
 capitolo	orí	Nan
 capo	ọga	Nan
@@ -6760,12 +6760,12 @@ capodanno	odun titun	Nan
 capolavori	awọn iṣẹ aṣenọju	Nan
 capolavoro	aṣapẹrẹ	Nan
 capoluogo	olú ìlú	Nan
-cappella	ile ijosin	Nan
+cappella	ijosin	None
 capire	lati ni oye	Nan
 cancro	alakan	Nan
 canali	awọn ikanni	Nan
 canale	ikanni	Nan
-calciatore	agba boolu	Nan
+calciatore	agba	None
 calciatori	awọn oṣere afẹsẹgba	Nan
 calcio	bọọlu	Nan
 calcistica	bọọlu	Nan
@@ -6859,7 +6859,7 @@ australian	ilu olominira	Nan
 australia	australia	None
 austin	austin	Nan
 attualmente	lọwọlọwọ	Nan
-attuare	gbe jade	Nan
+attuare	gbe	None
 audio	ohun	Nan
 augusto	ogo	Nan
 aumenta	posi	Nan
@@ -6877,8 +6877,8 @@ autonomia	ijọba ara ẹni	Nan
 attuali	lọwọlọwọ	Nan
 autonomo	adase	Nan
 autori	awọn onkọwe	Nan
-avevano	wọn ni	Nan
-avrebbe	yoo ni	Nan
+avevano	wọn	None
+avrebbe	yoo	None
 avrebbero	yoo	None
 avrà	yoo	None
 avuto	ní	None
@@ -6892,14 +6892,14 @@ avvenuta	ṣẹlẹ	Nan
 avvenuti	ṣẹlẹ	Nan
 avvenuto	ṣẹlẹ	Nan
 avvenire	waye	Nan
-avessero	wọn ni	Nan
+avessero	wọn	None
 avesse	ní	None
 averlo	ni	Nan
 autorità	aṣẹ	Nan
 autostrada	opopona	Nan
 autostradale	opopona	Nan
 autostrade	opopona	Nan
-autunno	igba irẹdanu ewe	Nan
+autunno	ewe	None
 avanti	kọja siwaju	Nan
 avanzata	ilosiwaju	Nan
 avanzate	ti ni ilọsiwaju	Nan
@@ -6916,7 +6916,7 @@ attrici	awọn oṣere	Nan
 attrice	oṣere	Nan
 at	ni	Nan
 atene	hensténì	Nan
-atlantico	ede atlantic	Nan
+atlantico	ede	None
 atleti	elere idaraya	Nan
 atmosfera	bugbamu	Nan
 atmosfere	awọn oju oorun	Nan
@@ -6933,7 +6933,7 @@ asteroidi	asteroids	Nan
 assunto	yawo	Nan
 assunta	assumed	Nan
 assistito	ṣe iranlọwọ	Nan
-associata	ni nkan ṣe	Nan
+associata	nkan	None
 associati	awọn alajọṣepọ	Nan
 association	ẹgbẹ	Nan
 associato	ẹlẹgbẹ	Nan
@@ -6953,7 +6953,7 @@ atteggiamenti	awọn iwa	Nan
 atteggiamento	iwa	Nan
 attorno	nipa	Nan
 attratto	ni ifojusi	Nan
-attraversa	gba koja	Nan
+attraversa	gba	None
 attraversando	líla	Nan
 attraversare	lọ kọja	Nan
 attraversato	lọ nipasẹ	Nan
@@ -6970,7 +6970,7 @@ attori	olukopa	Nan
 avverbio	adverb	Nan
 attore	oṣere	Nan
 attivo	lọwọ	Nan
-attendere	duro fun	Nan
+attendere	fun	None
 attentati	ku	None
 attentato	igbiyanju	Nan
 attento	ṣọra	Nan
@@ -6989,7 +6989,7 @@ atto	iṣe	Nan
 assistere	ran	Nan
 avversari	alatako	Nan
 avverte	kilọ	Nan
-batteri	awọn kokoro arun	Nan
+batteri	arun	None
 batteria	batiri	Nan
 batterista	onilu	Nan
 battesimo	ìrìbọmi	Nan
@@ -7005,7 +7005,7 @@ bay	bay	Nan
 bayern	bayern	Nan
 battuta	lu	Nan
 batte	lu	Nan
-battaglie	awọn ogun	Nan
+battaglie	ogun	None
 battaglia	ogun	None
 baseball	bọọlu afẹsẹgba	Nan
 basi	ipilẹ iṣẹ	Nan
@@ -7018,8 +7018,8 @@ basse	kekere	None
 bassi	kekere	None
 bassista	baasi ẹrọ orin	Nan
 basso	baasi	Nan
-basta	iyẹn ti to	Nan
-basti	ti to	Nan
+basta	to	None
+basti	to	None
 bastone	ọpá	Nan
 batman	arabinrin	Nan
 baywatch	baywatch	Nan
@@ -7109,9 +7109,9 @@ barre	awọn ifi	Nan
 barriera	idankan duro	Nan
 barry	abọ	Nan
 barsetbandmembers	awọn olukọ ẹgbẹ ẹgbẹ	Nan
-bart	oko igbo	Nan
+bart	oko	None
 bartolomeo	bartholomew	Nan
-barça	ọkọ oju omi	Nan
+barça	omi	None
 basa	basa	Nan
 basandosi	gbigbekele	Nan
 basata	orisun	None
@@ -7133,7 +7133,7 @@ banks	bèbe	Nan
 bar	pẹpẹ	Nan
 bara	òkú	None
 barbara	barbara	Nan
-barca	ọkọ oju omi	Nan
+barca	omi	None
 barcelona	agbọnrin	Nan
 è	jẹ	Nan
 dellesperienza	dellesperienza	Nan
@@ -7214,9 +7214,9 @@ guida	itọsọna	Nan
 guevara	guevara	Nan
 grassi	ọra	Nan
 gratuito	ọfẹ	Nan
-grave	to ṣe pataki	Nan
+grave	to	None
 gravemente	isẹ	Nan
-gravi	to ṣe pataki	Nan
+gravi	to	None
 gravidanza	oyun	Nan
 grano	alikama	Nan
 gravitazionale	gravitational	Nan
@@ -7238,11 +7238,11 @@ gradi	iwọn	Nan
 grado	ìyí	Nan
 graduale	di mimọ	Nan
 gradualmente	di .di.	Nan
-grafica	awọn eya aworan	Nan
+grafica	eya	None
 grafico	ayaworan	Nan
 graham	graham	Nan
 gran	nla	Nan
-grand	baba agba	Nan
+grand	agba	None
 grande	nla	Nan
 grandezza	iwọn	Nan
 greche	griki	Nan
@@ -7267,7 +7267,7 @@ guccini	guccini	Nan
 gruppo	ẹgbẹ	Nan
 gruppi	awọn ẹgbẹ	Nan
 grotte	awọn iho	Nan
-green	alawọ ewe	Nan
+green	ewe	None
 gregori	gregori	Nan
 gregorio	gregory	Nan
 gregory	gregory	Nan
@@ -7290,17 +7290,17 @@ incise	kọ lara	Nan
 incisioni	awọn ohun ikọwe	Nan
 inciso	lairotẹlẹ	Nan
 include	pẹlu	Nan
-includono	wọn pẹlu	Nan
-inclusa	to wa	Nan
+includono	wọn	None
+inclusa	to	None
 incisa	kọ lara	Nan
 incluse	pẹlu	Nan
-incluso	to wa	Nan
+incluso	to	None
 incontra	pàdé	Nan
 incontrano	pàdé	Nan
 incontrare	pàdé	Nan
 incontrato	pàdé	Nan
 incontri	awọn ipade	Nan
-inclusi	to wa	Nan
+inclusi	to	None
 incinta	loyun	Nan
 incidere	igbasilẹ	Nan
 incidenti	awọn ijamba	Nan
@@ -7317,7 +7317,7 @@ incendi	ina	Nan
 incentrata	lojutu	Nan
 incentrato	lojutu	Nan
 incerta	aidaniloju	Nan
-incide	yoo ni ipa lori	Nan
+incide	yoo	None
 incidente	ijamba	Nan
 incontro	ipade	Nan
 in	ninu	Nan
@@ -7364,7 +7364,7 @@ illegale	arufin	Nan
 illuminati	tan	Nan
 illustri	yato si	Nan
 im	im	Nan
-imbarcazioni	ọkọ oju-omi kekere	Nan
+imbarcazioni	kekere	None
 immaginare	lati fojuinu	Nan
 il	awọn	Nan
 immaginario	aijẹ ootọ	Nan
@@ -7399,17 +7399,17 @@ immunitario	ajesara	Nan
 imparare	kọ ẹkọ	Nan
 impiegato	oṣiṣẹ	Nan
 impiego	lo	Nan
-impone	fi agbara mu	Nan
+impone	agbara	None
 imponente	fifi	Nan
 imporre	lati fa	Nan
 importante	pataki	Nan
 importanti	pataki	Nan
 importanza	pataki	Nan
-importazioni	awọn agbewọle lati ilu okeere	Nan
+importazioni	okeere	None
 impose	ti paṣẹ	Nan
 impossibile	soro	Nan
 imposta	owo-ori	Nan
-imposte	owo ori	Nan
+imposte	ori	None
 imposto	ti paṣẹ	Nan
 impresa	iduroṣinṣin	Nan
 impiegati	oṣiṣẹ	Nan
@@ -7417,7 +7417,7 @@ governatore	gomina	None
 impiegata	oṣiṣẹ	Nan
 impianti	awọn fifi sori ẹrọ	Nan
 impatto	ikolu	Nan
-impedire	lati yago fun	Nan
+impedire	fun	None
 impedisce	idilọwọ	Nan
 impedito	idilọwọ	Nan
 impegnata	ti ṣe	Nan
@@ -7454,13 +7454,13 @@ galleria	eefin	Nan
 gallagher	gallagher	Nan
 galilei	awọn ara ilu galili	Nan
 fuso	yo	Nan
-futura	ojo iwaju	Nan
-future	ojo iwaju	Nan
-futuri	ojo iwaju	Nan
-futurismo	ojo iwaju	Nan
-futurista	ojo iwaju	Nan
+futura	ojo	None
+future	ojo	None
+futuri	ojo	None
+futurismo	ojo	None
+futurista	ojo	None
 futuristi	awọn ọjọ iwaju	Nan
-futuro	ojo iwaju	Nan
+futuro	ojo	None
 fx	fx	Nan
 gabriel	gabriel	Nan
 gabriella	gabriella	Nan
@@ -7507,7 +7507,7 @@ generali	gbogbogbo	None
 generalmente	gbogbogbo	None
 garibaldi	àgbàbádi	Nan
 fusi	aago	Nan
-furono	wọn wa	Nan
+furono	wọn	None
 fuori	jade	Nan
 frate	friar	Nan
 fratelli	awọn arakunrin	Nan
@@ -7564,7 +7564,7 @@ fuoco	ina	Nan
 fuggire	sa lo	Nan
 genoa	genoa	Nan
 fugge	sá lọ	Nan
-fu	oun ni	Nan
+fu	oun	None
 frequentemente	nigbagbogbo	Nan
 frequenti	nigbagbogbo	Nan
 frequentò	o wa	Nan
@@ -7575,7 +7575,7 @@ frodo	poaching	Nan
 from	lati	Nan
 fronte	iwaju	Nan
 frontiera	ààlà	Nan
-frontiere	awọn aala	Nan
+frontiere	aala	None
 frontman	frontman	Nan
 frutta	eso	Nan
 frutti	unrẹrẹ	Nan
@@ -7587,11 +7587,11 @@ genovesi	genoese	Nan
 giudice	lẹjọ	Nan
 giudici	awọn onidajọ	Nan
 giudizi	awọn idajọ	Nan
-giudiziaria	ti ofin	Nan
-giudiziario	ti ofin	Nan
+giudiziaria	ofin	None
+giudiziario	ofin	None
 giudizio	idajọ	Nan
 giudicato	lẹjọ	Nan
-giugno	oṣu karun	Nan
+giugno	karun	None
 giuliano	julian	Nan
 giulietta	juliet	Nan
 giulio	giulio	Nan
@@ -7618,7 +7618,7 @@ giri	iyipo	Nan
 girl	ọmọbinrin	Nan
 giro	yika	Nan
 giunse	o wa	Nan
-giovani	ẹ̀yin ọ̀dọ́	Nan
+giovani	ọ̀dọ́	None
 giunsero	de ọdọ	Nan
 giunti	awọn isẹpo	Nan
 goethe	goethe	Nan
@@ -7678,7 +7678,7 @@ gestione	iṣakoso	Nan
 gesti	kọju	Nan
 gente	eniyan	Nan
 gentile	irú	Nan
-geografia	ẹkọ nipa ilẹ	Nan
+geografia	ilẹ	None
 geografica	àgbègbè	Nan
 geografiche	àgbègbè	Nan
 geografico	àgbègbè	Nan
@@ -7734,7 +7734,7 @@ fox	kọlọkọ	Nan
 indossa	wọ	Nan
 industria	ile ise	Nan
 lasciando	nlọ	Nan
-lasciano	wọn lọ	Nan
+lasciano	wọn	None
 lasciare	lati lọ	Nan
 lasciata	osi	Nan
 lasciato	osi	Nan
@@ -7765,7 +7765,7 @@ larrivo	ipadade	Nan
 larry	larry	Nan
 larsenal	arsenal	Nan
 larte	awọn aworan	Nan
-larticolo	nkan naa	Nan
+larticolo	nkan	None
 lassociazione	ẹgbẹ naa	Nan
 laquila	idì	Nan
 laterale	ita	Nan
@@ -7782,7 +7782,7 @@ lavanzata	lavanzata	Nan
 laveva	laveva	Nan
 lavora	ṣiṣẹ	Nan
 lavorando	ṣiṣẹ	Nan
-lavorano	wọn ṣiṣẹ	Nan
+lavorano	wọn	None
 lavorare	lati ṣiṣẹ	Nan
 lautorità	aṣẹ	Nan
 laura	laura	Nan
@@ -7790,9 +7790,9 @@ laumento	awọn ilosoke	Nan
 lattuale	ẹlẹtiriki naa	Nan
 laterza	kẹta	None
 lati	awọn ẹgbẹ	Nan
-latina	ede latini	Nan
-latini	ede latini	Nan
-latino	ede latini	Nan
+latina	latini	None
+latini	latini	None
+latino	latini	None
 latitudine	latitude	Nan
 latmosfera	bugbamu	Nan
 lato	ẹgbẹ	Nan
@@ -7810,7 +7810,7 @@ lappellativo	lappellativo	Nan
 laccesso	laccesso	Nan
 laccusa	ibanirojọ	Nan
 lacqua	omi	None
-lacquisto	awọn ra	Nan
+lacquisto	ra	None
 lacronimo	adape	Nan
 laddove	nibo	Nan
 laccademia	omowe	Nan
@@ -7821,7 +7821,7 @@ lagenzia	ibẹwẹ	Nan
 laggiunta	fifi	Nan
 laghi	adagun-odo	Nan
 lago	abẹrẹ	Nan
-laeroporto	papa ọkọ ofurufu	Nan
+laeroporto	papa	None
 labruzzo	labruzzo	Nan
 laboratorio	yàrá	Nan
 labilità	ailorukọ	Nan
@@ -7837,7 +7837,7 @@ kurt	kurt	Nan
 kutner	kutner	Nan
 kyle	kyle	Nan
 l	l	Nan
-la	ní bẹ	Nan
+la	ní	None
 labbandono	ikopa	Nan
 labbra	ète	None
 lagricoltura	lagricoltura	Nan
@@ -7884,9 +7884,9 @@ lavorazione	sisẹ	Nan
 lessico	ologbo	Nan
 lestate	igba ooru	Nan
 lestrazione	isediwon	Nan
-let	jẹ ki	Nan
+let	ki	None
 letichetta	aami	Nan
-lets	jẹ ki	Nan
+lets	ki	None
 lessere	jije	None
 lettera	leta	Nan
 letterari	imọwe	Nan
@@ -7906,7 +7906,7 @@ lerrore	aṣiṣe	Nan
 lesame	kẹhìn	Nan
 lesecuzione	ipaniyan	Nan
 lesempio	apẹẹrẹ	Nan
-lesercito	ọmọ ogun	Nan
+lesercito	ogun	None
 lesibizione	lesibizione	Nan
 lesioni	ipalara	Nan
 lesistenza	iwalaaye	Nan
@@ -7924,7 +7924,7 @@ libera	ọfẹ	Nan
 liberale	olutayo	Nan
 liberali	awọn ominira	Nan
 liberamente	larọwọto	Nan
-li	ní bẹ	Nan
+li	ní	None
 liberare	láti lómìnira	Nan
 liberato	ṣeto ọfẹ	Nan
 liberazione	ominira	Nan
@@ -7948,7 +7948,7 @@ levento	ìṣẹlẹ	Nan
 levi	levi	Nan
 levoluzione	itankalẹ	Nan
 lewis	lewis	Nan
-lex	awọn tele	Nan
+lex	tele	None
 lexie	lexie	Nan
 lezione	ẹkọ	Nan
 lettore	oluka	Nan
@@ -7994,10 +7994,10 @@ leggenda	arosọ	Nan
 leggendari	arosọ	Nan
 lelezione	ẹkọ naa	Nan
 leliminazione	imukuro	Nan
-lenergia	agbara naa	Nan
+lenergia	agbara	None
 lenin	lenin	Nan
 lennon	lennon	Nan
-lenorme	fun ppe	Nan
+lenorme	fun	None
 lenta	lọra	Nan
 lentamente	laiyara	Nan
 lento	lọra	Nan
@@ -8028,8 +8028,8 @@ legislazione	ofin	None
 legitto	legitto	Nan
 lei	obinrin na	Nan
 kiev	kiev	Nan
-kids	awọn ọmọ wẹwẹ	Nan
-kid	ọmọ kekere	Nan
+kids	ọmọ	None
+kid	kekere	None
 intenzioni	ero	Nan
 inter	aarin	Nan
 intera	gbogbo	Nan
@@ -8048,7 +8048,7 @@ interessanti	awon	Nan
 intento	idi	Nan
 intenso	kikoro	Nan
 intensità	kikankikan	Nan
-inserito	fi kun	Nan
+inserito	fi	None
 insieme	papọ	Nan
 insiste	tenumo	Nan
 institute	institute	Nan
@@ -8064,7 +8064,7 @@ intendeva	o pinnu	Nan
 intensa	kikoro	Nan
 intensi	kikoro	Nan
 interiore	inu	Nan
-inseriti	to wa	Nan
+inseriti	to	None
 interna	ti abẹnu	Nan
 internazionali	international	Nan
 intervallo	aarin	Nan
@@ -8083,7 +8083,7 @@ intraprendere	pinu	None
 intrapreso	bẹrẹ	Nan
 intesa	oye	Nan
 interrotta	idilọwọ	Nan
-interrompere	lati da gbigbi duro	Nan
+interrompere	da	None
 interpretò	o tumọ	Nan
 interne	ti abẹnu	Nan
 internet	intanẹẹti	Nan
@@ -8101,8 +8101,8 @@ interpretazioni	awọn itumọ	Nan
 interprete	onitumọ	Nan
 interpreti	onitumọ	Nan
 internazionale	kariaye	Nan
-inserite	to wa	Nan
-inserita	fi sii	Nan
+inserite	to	None
+inserita	fi	None
 inserisce	jije	None
 influenti	gbajugbaja	Nan
 influenza	ipa	Nan
@@ -8111,7 +8111,7 @@ influenzati	fowo	Nan
 influenzato	fowo	Nan
 influenze	awọn ipa	Nan
 infinito	ailopin	Nan
-informa	ni irisi	Nan
+informa	irisi	None
 informazione	alaye	Nan
 informazioni	alaye	Nan
 infortunio	ijamba	Nan
@@ -8155,7 +8155,7 @@ insediamento	pinpin okun	Nan
 insegnamenti	awọn ẹkọ	Nan
 insegnante	olukọ	Nan
 insegnanti	olukọ	Nan
-inserire	lati fi sii	Nan
+inserire	fi	None
 innamora	ṣubu ninu ife	Nan
 introdotta	ṣafihan	Nan
 iniziò	bẹrẹ	Nan
@@ -8170,7 +8170,7 @@ inizialmente	ni akoko	Nan
 iniziando	bẹrẹ	Nan
 iniziano	berè	Nan
 iniziare	lati bẹrẹ	Nan
-iniziarono	wọn bẹrẹ	Nan
+iniziarono	wọn	None
 iniziata	bẹrẹ	Nan
 iniziate	bẹrẹ	Nan
 iniziativa	ipilẹṣẹ	Nan
@@ -8199,7 +8199,7 @@ jason	jason	Nan
 jane	jane	Nan
 iv	iv	Nan
 ivan	evan	Nan
-ivi	ninu rẹ	Nan
+ivi	rẹ	None
 izzie	izzie	Nan
 j	j	Nan
 jack	jaketi	Nan
@@ -8231,7 +8231,7 @@ kent	ewọ	Nan
 kernel	ekuro	Nan
 kevin	kevin	Nan
 keith	keith	Nan
-just	o kan	Nan
+just	kan	None
 junior	junior	Nan
 juliet	juliet	Nan
 jon	jon	Nan
@@ -8282,9 +8282,9 @@ invece	dipo	Nan
 inventato	ti a se	Nan
 invenzioni	awọn ipilẹṣẹ	Nan
 invernale	wintry	Nan
-invernali	igba otutu	Nan
+invernali	otutu	None
 inverni	winitutu	Nan
-inverno	igba otutu	Nan
+inverno	otutu	None
 investimenti	idoko-owo	Nan
 irlandesi	irish	Nan
 iron	irin	Nan
@@ -8315,7 +8315,7 @@ iscritto	forukọsilẹ	Nan
 islamica	islamu	Nan
 islamico	islamu	Nan
 island	erekusu	Nan
-islanda	ede iceland	Nan
+islanda	iceland	None
 isola	erekusu	Nan
 isolamento	ìyàraẹniṣọtọ	Nan
 isolato	ti ya sọtọ	Nan
@@ -8368,7 +8368,7 @@ donald	donald	Nan
 doppietta	àmúró	Nan
 doppio	ilọpo meji	Nan
 dora	dora	Nan
-dorchestra	ede adari	Nan
+dorchestra	ede	None
 dorian	dori	Nan
 doriente	ti ila-oorun	Nan
 doppiatori	olukopa ohun	Nan
@@ -8400,7 +8400,7 @@ doppia	meji	Nan
 doppiaggio	dubulẹ	Nan
 don	don	Nan
 dotate	ni ipese pẹlu	Nan
-divisioni	awọn ipin	Nan
+divisioni	ipin	None
 division	pipin	Nan
 distribuiti	pin	Nan
 distribuito	pin	Nan
@@ -8422,7 +8422,7 @@ distretto	agbegbe	Nan
 distretti	awọn agbegbe	Nan
 disputa	àríyànjiyàn	Nan
 disputato	àríyànjiyàn	Nan
-disse	o sọ	Nan
+disse	sọ	None
 distacco	iyasọtọ	Nan
 distante	jinna	Nan
 distanza	jinna	Nan
@@ -8457,20 +8457,20 @@ divieto	idinamọ	Nan
 diversi	yatọ	Nan
 diverse	yatọ	Nan
 diversamente	bibẹẹkọ	Nan
-divennero	wọn di	Nan
+divennero	wọn	None
 diventa	di	Nan
 diventando	di	Nan
-diventano	wọn di	Nan
+diventano	wọn	None
 diventare	di	Nan
 diventata	di	Nan
 diventati	di	Nan
 diventato	di	Nan
-diventerà	yoo di	Nan
+diventerà	yoo	None
 diventò	o di	Nan
 divenuta	di	Nan
 divenuto	di	Nan
 divergenze	awọn iyatọ	Nan
-diverrà	yoo di	Nan
+diverrà	yoo	None
 diversa	yatọ	Nan
 divenire	di	Nan
 dotati	pẹlu	Nan
@@ -8534,12 +8534,12 @@ einstein	einstein	Nan
 effettivamente	gangan	Nan
 effettivo	gangan	Nan
 effetto	ipa	Nan
-effettua	mu ki	Nan
+effettua	ki	None
 effettuare	ṣe	Nan
-effettuata	ti gbe jade	Nan
-effettuate	ti gbe jade	Nan
-effettuati	ti gbe jade	Nan
-effettuato	ti gbe	Nan
+effettuata	gbe	None
+effettuate	gbe	None
+effettuati	gbe	None
+effettuato	gbe	None
 efficace	munadoko	Nan
 efficacia	ndin	Nan
 efficiente	munadoko	Nan
@@ -8565,7 +8565,7 @@ drammatico	ìgbésẹ	Nan
 drew	fà	Nan
 drive	wakọ	Nan
 dragon	dragoni	Nan
-dovrebbero	wọn yẹ	Nan
+dovrebbero	wọn	None
 dovrebbe	o ye	Nan
 dovranno	yoo	None
 dott	dókítà	Nan
@@ -8579,10 +8579,10 @@ double	ilọpo meji	Nan
 dove	nibo ni o wa	Nan
 dover	nini	Nan
 dovesse	yẹ	Nan
-dovette	o ní	Nan
-dovettero	wọn ni	Nan
+dovette	ní	None
+dovettero	wọn	None
 doveva	ibi ti o lọ	Nan
-dovevano	wọn ni	Nan
+dovevano	wọn	None
 droga	oogun	Nan
 droghe	awọn oogun	Nan
 ds	ód	Nan
@@ -8599,7 +8599,7 @@ e	jẹ	Nan
 earth	ile aye	Nan
 east	ila-oorun	Nan
 eastwood	ila-oorun	Nan
-ebbe	o ní	Nan
+ebbe	ní	None
 ebbero	ní	None
 ebraica	juu	Nan
 durante	lakoko	Nan
@@ -8660,9 +8660,9 @@ des	des	None
 descrisse	ṣàpèjúwe	Nan
 destinato	ti a pinnu	Nan
 deputato	igbakeji	Nan
-destinazione	opin irin ajo	Nan
+destinazione	ajo	None
 destra	ni ọtun	Nan
-deuropa	awọn euro	Nan
+deuropa	euro	None
 deve	nilo lati	Nan
 devono	gbọdọ	Nan
 devozione	ìfaradà	Nan
@@ -8712,13 +8712,13 @@ dellopera	dellopera	Nan
 dellopinione	delloneione	Nan
 dellordine	aṣẹ	Nan
 dellorganizzazione	agbari	Nan
-delloro	ti wọn	Nan
+delloro	wọn	None
 dellomonimo	dellomonimo	Nan
 dellinizio	dellinizio	Nan
 dellinghilterra	ti england	Nan
 dellinferno	ti apaadi	Nan
 dellestate	ti igba ooru	Nan
-delletà	lori ori	Nan
+delletà	ori	None
 delleuropa	delleuropa	Nan
 dellevento	dellevento	Nan
 dellex	dellex	Nan
@@ -8732,7 +8732,7 @@ dellindia	ti india	Nan
 dellindividuo	olukuluku	Nan
 dellindustria	ile ise	Nan
 dellinfanzia	ewe	None
-dellospedale	iwosan ṣaaju ki o to	Nan
+dellospedale	to	None
 dellottocento	dellottocento	Nan
 dellue	adun	Nan
 dellufficio	dellufficio	Nan
@@ -8781,20 +8781,20 @@ direzioni	awọn itọsọna	Nan
 dirige	dari	Nan
 dirigente	oludari	Nan
 diretti	taara	Nan
-dirigenti	awọn alaṣẹ agba	Nan
+dirigenti	agba	None
 dirigere	taara	Nan
 diritti	awọn ẹtọ	Nan
 diritto	ni ọtun	Nan
 dirlanda	dirlanda	Nan
 dirty	dọti	Nan
-dirà	yoo so fun	Nan
+dirà	fun	None
 dirigenza	oludari	Nan
 dirette	dari	Nan
 direttamente	taara	Nan
 diretta	wa laaye	Nan
 dinteresse	dinteresse	Nan
 dintorni	agbegbe	Nan
-dinverno	ni igba otutu	Nan
+dinverno	otutu	None
 dio	ọlọrun	Nan
 diocesi	diocese	Nan
 dipartimento	eka	None
@@ -8806,7 +8806,7 @@ dipingere	lati kun	Nan
 dipinti	awọn kikun	Nan
 dipinto	kikun	Nan
 diploma	diploma	Nan
-dire	lati sọ	Nan
+dire	sọ	None
 disagio	rudurudu	Nan
 dino	dino	Nan
 disastro	ajalu	Nan
@@ -8834,7 +8834,7 @@ discepoli	awọn ọmọ-ẹhin	Nan
 discesa	sisale	Nan
 dischi	awọn disiki	Nan
 disciplina	ibawi	Nan
-discipline	awọn ilana	Nan
+discipline	ilana	None
 disco	disiki	Nan
 discografia	itan	Nan
 discografica	igbasilẹ	Nan
@@ -8847,16 +8847,16 @@ discriminazione	iyasoto	Nan
 disc	disiki	Nan
 dinghilterra	ti england	Nan
 dinfanzia	ewe	None
-dinastia	idile oba	Nan
-dicono	wọn sọ	Nan
+dinastia	oba	None
+dicono	sọ	None
 die	kú	Nan
 dieci	mẹwa	Nan
-diede	o fun	Nan
-diedero	nwon fun	Nan
+diede	fun	None
+diedero	fun	None
 dieta	ounje	Nan
 dick	dick	Nan
 dietro	sile	None
-difendere	duro fun	Nan
+difendere	fun	None
 difensore	olugbeja	Nan
 difesa	olugbeja	Nan
 difese	awọn aabo	Nan
@@ -8874,7 +8874,7 @@ dice	o sọpe	Nan
 dicembre	oṣu kejila	Nan
 dicendo	sisọ	Nan
 dicendogli	enikeji	Nan
-diceva	o sọ pe	Nan
+diceva	sọ	None
 dichiara	awọn ipinlẹ	Nan
 dichiarando	n ṣalaye	Nan
 dichiarare	kede	Nan
@@ -8956,7 +8956,7 @@ feriti	farapa	Nan
 ferito	farapa	Nan
 ferma	duro	Nan
 fermare	duro	Nan
-feto	ọmọ inu oyun	Nan
+feto	ọmọ	None
 felix	felix	Nan
 fiamma	ina	Nan
 fianco	ẹgbẹ	Nan
@@ -8989,7 +8989,7 @@ fiducia	gbekele	Nan
 fiera	ẹwà	Nan
 fiere	awọn ifihan	Nan
 fifa	ẹru	Nan
-figli	awọn ọmọ	Nan
+figli	ọmọ	None
 figlia	ọmọbinrin	Nan
 figlie	awọn ọmọbinrin	Nan
 figlio	ọmọ	None
@@ -9011,8 +9011,8 @@ fascia	ẹgbẹ	Nan
 fascino	ifaya	Nan
 fascismo	fascism	Nan
 fascista	fascist	Nan
-farà	yoo ṣe	Nan
-fargli	ṣe rẹ	Nan
+farà	yoo	None
+fargli	rẹ	None
 fare	lati ṣe	Nan
 faranno	yoo	None
 famosi	olokiki	Nan
@@ -9038,8 +9038,8 @@ fc	fc	Nan
 febbraio	oṣu kínní	Nan
 febbre	otutu	None
 fece	o ṣe	Nan
-fecero	wọn ṣe	Nan
-fede	oruka igbeyawo	Nan
+fecero	wọn	None
+fede	igbeyawo	None
 fazioni	awọn ẹgbẹ	Nan
 fedele	oloootitọ	Nan
 fedeltà	iṣootọ	Nan
@@ -9056,7 +9056,7 @@ fate	o ṣe	Nan
 fatica	rirẹ	Nan
 fatta	ṣe	Nan
 fatte	ṣe	Nan
-fatti	awọn ododo	Nan
+fatti	ododo	None
 fatto	ṣe	Nan
 fattore	ifosiwewe	Nan
 fattori	awọn okunfa	Nan
@@ -9066,29 +9066,29 @@ favore	ojurere	Nan
 favorendo	iwuri	Nan
 favorevole	ọjo	Nan
 favorevoli	ọjo	Nan
-favorire	egba mi o	Nan
-fasi	awọn ipele	Nan
-filosofica	ogbon ori	Nan
-filosofiche	ogbon ori	Nan
-filosofici	ogbon ori	Nan
+favorire	egba	None
+fasi	ipele	None
+filosofica	ori	None
+filosofiche	ori	None
+filosofici	ori	None
 football	bọọlu	Nan
 ford	ṣeéṣe	Nan
 foresta	igbo	Nan
 foreste	igbo	Nan
 forks	forks	Nan
 forlì	foril	Nan
-fonti	awọn orisun	Nan
+fonti	orisun	None
 forma	fọọmu	Nan
 formale	lodo	None
 formalmente	lẹsẹsẹ	Nan
 formando	lara	Nan
 formano	fọọmu	Nan
 formare	lati dagba	Nan
-formarono	wọn ṣe akoso	Nan
+formarono	wọn	None
 formaggio	warankasi	Nan
 fonte	orisun	None
 fontana	orisun	None
-fondò	o da	Nan
+fondò	da	None
 folle	irikuri	Nan
 follia	isinwin	Nan
 fonda	ipilẹ	Nan
@@ -9113,12 +9113,12 @@ forti	lagbara	Nan
 fortuna	oriire	None
 fortunato	oriire	None
 forza	agbara	None
-forzata	fi agbara mu	Nan
+forzata	agbara	None
 fortemente	strongly	Nan
 forze	agbara	None
 fossa	ọfin	Nan
 fosse	o jẹ	Nan
-fossero	wọn wa	Nan
+fossero	wọn	None
 fossili	fosaili	Nan
 foto	aworan	Nan
 fotografia	fọtoyiya	Nan
@@ -9149,11 +9149,11 @@ finestre	windows	Nan
 finge	dibọn	Nan
 fini	pari	Nan
 finire	lati pari	Nan
-finirono	wọn pari	Nan
+finirono	wọn	None
 finisce	pari	Nan
 finestra	ferese	Nan
 finita	lori	Nan
-finlandese	ede finisi	Nan
+finlandese	ede	None
 finlandia	finland	Nan
 fino	titi	Nan
 finora	titi di asiko yii	Nan
@@ -9161,9 +9161,9 @@ finì	pari	Nan
 fiore	òdòdó	Nan
 finito	ti pari	Nan
 fine	ipari	Nan
-finché	bi gun	Nan
+finché	gun	None
 finanziario	owo	Nan
-filosofico	ogbon ori	Nan
+filosofico	ori	None
 filosofo	onimoye	Nan
 fin	lati	Nan
 final	ipari	Nan
@@ -9171,7 +9171,7 @@ finale	ik	Nan
 finali	ipari	Nan
 finalista	apẹhinda	Nan
 finalità	ipari	Nan
-finalmente	pẹ to	Nan
+finalmente	to	None
 finanza	isuna	Nan
 finanziamenti	igbeowo	Nan
 finanziamento	nina owo	Nan
@@ -9181,13 +9181,13 @@ finanziaria	owo	Nan
 fiorentina	florentine	Nan
 fiorentini	florentine	Nan
 fiorentino	florentine	Nan
-fiori	awọn ododo	Nan
+fiori	ododo	None
 flauto	ferese	Nan
 flavio	flavio	Nan
 flora	ododo	None
 florida	ilu florida	Nan
-flotta	ọkọ oju-omi kekere	Nan
-flottazione	leefofo loju omi	Nan
+flotta	kekere	None
+flottazione	omi	None
 floyd	floyd	Nan
 fluido	ito	Nan
 flussi	ós	Nan
@@ -9222,14 +9222,14 @@ family	idile	Nan
 familiari	idile	Nan
 eroi	awọn akọni	Nan
 eros	eros	Nan
-erroneamente	ti ko tọ	Nan
+erroneamente	ko	None
 errore	aṣiṣe	Nan
 errori	awọn aṣiṣe	Nan
 es	es	Nan
 eroe	akọni	Nan
 esame	ayewo	Nan
 esattamente	gangan	Nan
-esaurito	ko si ọja	Nan
+esaurito	ko	None
 esce	jade	Nan
 escludendo	laisi	Nan
 esclusione	iyọkuro	Nan
@@ -9243,7 +9243,7 @@ equilibrio	iwọntunwọnsi	Nan
 equivalente	deede	Nan
 er	eri	Nan
 era	akoko	Nan
-erano	wọn wa	Nan
+erano	wọn	None
 erba	koriko	Nan
 ercole	hercules	Nan
 erede	ajogun	Nan
@@ -9265,8 +9265,8 @@ esistente	wa	Nan
 esistenti	wa	Nan
 esibizione	ifihan	Nan
 esistenza	iwalaaye	Nan
-esisteva	ní bẹ	Nan
-esistevano	ní bẹ	Nan
+esisteva	ní	None
+esistevano	ní	None
 esistono	wa	Nan
 esiti	awọn iyọrisi	Nan
 esito	abajade	Nan
@@ -9288,8 +9288,8 @@ esercita	exerts	Nan
 esercitare	ere idaraya	Nan
 esercitata	tiraka	Nan
 esercitato	adaṣe	Nan
-eserciti	ọmọ ogun	Nan
-esercito	ọmọ ogun	Nan
+eserciti	ogun	None
+esercito	ogun	None
 escono	jade	Nan
 episodio	isele	Nan
 episodi	awọn ere	Nan
@@ -9317,7 +9317,7 @@ elevato	ga	Nan
 elezione	idibo	Nan
 elezioni	awọn idibo	Nan
 eli	eli	Nan
-eliminare	yọ kuro	Nan
+eliminare	yọ	None
 eliminata	imukuro	Nan
 eliminate	imukuro	Nan
 eliminati	imukuro	Nan
@@ -9332,7 +9332,7 @@ emozioni	awọn ẹdun	Nan
 emule	emule	Nan
 en	yo	Nan
 entrare	lati wa si	Nan
-entrarono	wọn wọle	Nan
+entrarono	wọn	None
 entrata	titẹsi	Nan
 entrate	owo-wiwọle	Nan
 entrati	ti tẹ	Nan
@@ -9379,7 +9379,7 @@ evento	ìṣẹlẹ	Nan
 evidenza	ẹri	Nan
 evidenziato	ti ni ifojusi	Nan
 evitando	etanje	Nan
-evitare	lati yago fun	Nan
+evitare	fun	None
 evoluzione	itankalẹ	Nan
 evoluzioni	idagbasoke	None
 ex	tele	None
@@ -9391,7 +9391,7 @@ etnici	ẹya	Nan
 etnie	awọn ẹya	Nan
 etrusca	etruscan	Nan
 ettore	hector	Nan
-età	ọjọ ori	Nan
+età	ori	None
 eugenio	eugenio	Nan
 euro	eur	Nan
 europa	yuroopu	Nan
@@ -9413,7 +9413,7 @@ falcone	iwin	Nan
 fallimento	ikuna	Nan
 fallito	kuna	Nan
 facoltà	olukọ	Nan
-fallo	o kan ṣe	Nan
+fallo	kan	None
 falsi	èké	Nan
 falso	èké	Nan
 fama	okiki	Nan
@@ -9436,7 +9436,7 @@ facebook	facebook	Nan
 facendo	n ṣe	Nan
 facendolo	n ṣe	Nan
 facente	sise	None
-faceva	oun ni	Nan
+faceva	oun	None
 facevano	ṣe	Nan
 facile	rọrun	Nan
 ezio	ezio	Nan

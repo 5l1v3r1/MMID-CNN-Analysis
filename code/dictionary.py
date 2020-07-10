@@ -1,4 +1,4 @@
-# from google.cloud import translate_v2 as translate
+from google.cloud import translate_v2 as translate
 from nltk.stem.snowball import SnowballStemmer
 from utils import get_cnn_index, get_language_code_mapping
 import os
@@ -19,6 +19,7 @@ def process_dictionary(language_code, overwrite=False):
     translation. Stemmed with NLTK.
     :param dic_path: Str with path to the dictionary path of the foreign language
     """
+
     dic_path = RAW_DICTIONARY_PATH + language_code
 
     output_path = PROCESSED_DICTIONARY_PATH + language_code
@@ -31,9 +32,9 @@ def process_dictionary(language_code, overwrite=False):
         num_words_processed = sum(
             1 for line in open(output_path, encoding='utf-8'))
         if num_words_raw == num_words_processed and not overwrite:
-            # print("File already exists and will not be overwritten")
+            print("{} dictionary already exists and will not be overwritten".format(language_code))
             return
-        print("File found and will be overwritten")
+        print("{} dictionary found and will be overwritten".format(language_code))
 
     # initialize stemmer and translate client
     translate_client = translate.Client()
@@ -46,6 +47,9 @@ def process_dictionary(language_code, overwrite=False):
 
         with open(dic_path, 'r', encoding='utf-8') as f:
             for line in f:
+                if count % 50 == 0:
+                    print(count/10000)
+                count += 1
                 words = line.rstrip('\n').split('\t')
 
                 foreign_word = words[0]
@@ -87,6 +91,7 @@ def get_translation_dictionary(language_code, inverted=False, overwrite=False):
 
 
 def create_foreign_to_foreign_dictionary(language_code1, language_code2, overwrite=False):
+
     dic_path = RAW_DICTIONARY_PATH + language_code1
 
     output_path = FOREIGN_TO_FOREIGN_PATH.format(
@@ -97,9 +102,9 @@ def create_foreign_to_foreign_dictionary(language_code1, language_code2, overwri
         num_words_processed = sum(
             1 for line in open(output_path, encoding='utf-8'))
         if num_words_raw == num_words_processed and not overwrite:
-            # print("File already exists and will not be overwritten")
+            print("{} to {} dictionary already exists and will not be overwritten".format(language_code1, language_code2))
             return
-        print("File found and will be overwritten")
+        print("{} to {} dictionary found and will be overwritten".format(language_code1, language_code2))
 
     print("Writing to {}".format(output_path))
 
@@ -143,11 +148,15 @@ def get_foreign_to_foreign_dictionary(language_code1, language_code2):
     return d
 
 
-def read_raw_dictionary(language_code):
+def read_raw_dictionary(language_code, invert=False):
     """ Reads raw dictionary from language code, used for median max cosine calc """
     with open(RAW_DICTIONARY_PATH + language_code, 'r', encoding='utf-8') as f:
         r = csv.reader(f, delimiter='\t')
-        d = {row[0]: row[1] for row in r}
+        if not invert:
+            d = {row[0]: row[1] for row in r}
+        else:
+            d = {row[1]: row[0] for row in r}
+
 
     return d
 
@@ -190,19 +199,19 @@ def main():
     """ Used for preprocessing dictionaries with GOOGLE API. Cannot parallelize,
     or else will run into API rate_limit errors.
     """
-    LANGS = ("en", "ar", "az", "bn", "bs", "bg", "nl", "fr", "de", "gu", "hi", "hu", "id", "it",
-             "lv", "ro", "sr", "so", "es", "sv", "ta", "te", "th", "tr", "uk", "ur", "uz", "vi", "cy", "yo")
-    for lc1 in ["en"]:
-        for lc2 in LANGS:
-            print("STARTED {} to {}".format(lc1.upper(), lc2.upper()))
-            if lc1 != lc2:
-                if lc1 == "en":
-                    process_dictionary(lc2)
-                elif lc2 == "en":
-                    process_dictionary(lc1)
-                else:
-                    create_foreign_to_foreign_dictionary(lc1, lc2)
-            print("FINISHED {} to {} \n\n".format(lc1.upper(), lc2.upper()))
+    # LANGS = ("en", "ar", "az", "bn", "bs", "bg", "nl", "fr", "de", "gu", "hi", "hu", "id", "it",
+    #          "lv", "ro", "sr", "so", "es", "sv", "ta", "te", "th", "tr", "uk", "ur", "uz", "vi", "cy", "yo")
+    # for lc1 in ["en"]:
+    #     for lc2 in LANGS:
+    #         print("STARTED {} to {}".format(lc1.upper(), lc2.upper()))
+    #         if lc1 != lc2:
+    #             if lc1 == "en":
+    #                 process_dictionary(lc2)
+    #             elif lc2 == "en":
+    #                 process_dictionary(lc1)
+    #             else:
+    #                 create_foreign_to_foreign_dictionary(lc1, lc2)
+    #         print("FINISHED {} to {} \n\n".format(lc1.upper(), lc2.upper()))
 
     # lc1 = sys.argv[1].strip().lower()
     # lc2 = sys.argv[2].strip().lower()
@@ -219,6 +228,6 @@ def main():
     #     create_foreign_to_foreign_dictionary(lc1, lc2)
     # print("FINISHED")
 
-
+    process_dictionary("cy")
 if __name__ == '__main__':
     main()

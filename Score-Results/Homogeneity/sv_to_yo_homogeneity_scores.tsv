@@ -101,7 +101,7 @@ problemet	iṣoro naa	Nan
 procent	ogorun	Nan
 process	ilana	None
 processen	ilana	None
-processer	awọn ilana	Nan
+processer	ilana	None
 producent	aṣelọpọ	Nan
 producenten	aṣelọpọ	Nan
 producenter	ti onse	Nan
@@ -136,7 +136,7 @@ projektet	ise agbese	Nan
 prokaryoter	prokaryotes	Nan
 promemoria	ami iranti	Nan
 propaganda	ete ti	Nan
-proportioner	awọn ipin	Nan
+proportioner	ipin	None
 prosa	prose	Nan
 protein	amuaradagba	Nan
 proteiner	awọn ọlọjẹ	Nan
@@ -144,14 +144,14 @@ proteinerna	awọn ọlọjẹ	Nan
 proteinet	amuaradagba	Nan
 protestanter	alatẹnumọ	Nan
 protestantiska	alatẹnumọ	Nan
-protesterade	fi ehonu han	Nan
+protesterade	fi	None
 privat	ikọkọ	Nan
 radion	redio	Nan
 ragnar	ragnar	Nan
-reglerna	awọn ofin	Nan
+reglerna	ofin	None
 regn	ojo	None
 regnar	ojo	None
-regnskog	ojo ojo	Nan
+regnskog	ojo	None
 reguljära	deede	Nan
 reidar	reidar	Nan
 regleras	dari	Nan
@@ -165,7 +165,7 @@ relation	ibatan	Nan
 reinfeldt	reinfeldt	Nan
 reglerar	fiofinsi	Nan
 reglera	fiofinsi	Nan
-regler	awọn ilana	Nan
+regler	ilana	None
 regi	iforukọsilẹ	Nan
 regim	ijọba	Nan
 regimen	ijọba	Nan
@@ -250,9 +250,9 @@ ramel	fireemu	Nan
 ramels	awọn rameli	Nan
 ramen	ilana	None
 rammstein	rammstein	Nan
-rankas	awọn ipo	Nan
+rankas	ipo	None
 rankning	ipo	None
-rankningar	awọn ipo	Nan
+rankningar	ipo	None
 rapport	ijabọ	Nan
 rapporten	ijabọ	Nan
 reaktionerna	awọn aati	Nan
@@ -286,7 +286,7 @@ reda	wa	Nan
 redaktör	olootu	Nan
 redan	tẹlẹ	Nan
 rede	itẹ-ẹiyẹ	Nan
-rederiet	ọkọ oju-omi kekere	Nan
+rederiet	kekere	None
 redo	ṣetan	Nan
 redovisas	royin	Nan
 redskap	jia	Nan
@@ -335,7 +335,7 @@ period	asiko	Nan
 peter	pétérù	Nan
 petersburg	petersburg	Nan
 pilatus	pilatu	Nan
-pink	awọ pupa	Nan
+pink	pupa	None
 pippi	ẹyẹ	Nan
 pippin	pippin	Nan
 pirate	ajalelokun	Nan
@@ -378,14 +378,14 @@ parterna	awọn ẹgbẹ	Nan
 parti	ẹgbẹ	Nan
 partido	partidos	Nan
 parlamentets	ile igbimọ aṣofin	Nan
-partier	awọn ipin	Nan
+partier	ipin	None
 partiet	ẹgbẹ	Nan
 partiets	ẹgbẹ	Nan
 partiklar	patikulu	Nan
 partiledare	oludari ẹgbẹ	Nan
 partner	alabaṣepọ	Nan
 partnern	alabaṣepọ	Nan
-partierna	awọn ipin	Nan
+partierna	ipin	None
 parlamentet	ile	Nan
 parlamenten	awọn ile igbimọ ijọba	Nan
 parlamentariska	ile igbimọ aṣofin	Nan
@@ -410,7 +410,7 @@ passade	ọfẹ	Nan
 passagerare	ero-ọkọ	Nan
 paz	paz	Nan
 pc	pc	Nan
-peang	fi agbara mu	Nan
+peang	agbara	None
 pearl	ewa	Nan
 peka	ojuami	Nan
 pekar	ojuami	Nan
@@ -427,7 +427,7 @@ paus	sinmi	Nan
 placerades	gbe	None
 paulus	pọ́ọ̀lù	Nan
 paul	pọ́ọ̀lù	Nan
-passagerarna	awọn arinrin ajo	Nan
+passagerarna	ajo	None
 passande	o dara	Nan
 passar	jije	None
 passera	ṣe kọja	Nan
@@ -458,7 +458,7 @@ prag	prague	Nan
 praktiken	adaṣe	Nan
 praktisk	ilowo	Nan
 praktiska	ilowo	Nan
-praktiskt	di oba	Nan
+praktiskt	oba	None
 prata	sọrọ	Nan
 poäng	ojuami	Nan
 post	meeli	Nan
@@ -473,26 +473,26 @@ port	ibudo	Nan
 porto	ifiweranṣẹ	Nan
 porträtt	aworan	Nan
 portugal	ilu pọtugali	Nan
-portugals	awọn ọna kekere	Nan
+portugals	kekere	None
 portugisiska	ilu pọtugali	Nan
 position	ipo	None
 positionen	ipo	None
-positioner	awọn ipo	Nan
+positioner	ipo	None
 positiv	rere	None
 pratar	sọrọ	Nan
 praxis	adaṣe	Nan
-precis	o kan	Nan
+precis	kan	None
 premier	awọn ere	Nan
 preussen	prussia	Nan
 preventivmedel	contraceptive	Nan
 primitiva	alakọbẹrẹ	Nan
 primtal	nomba	Nan
 primära	jc	Nan
-prince	ọmọ alade	Nan
+prince	ọmọ	None
 princip	opo	Nan
 principen	opo	Nan
 principer	awọn ipilẹṣẹ	Nan
-prins	ọmọ alade	Nan
+prins	ọmọ	None
 prinsen	olori	Nan
 prinsessan	princess	Nan
 pris	ẹbun	Nan
@@ -595,7 +595,7 @@ policy	eto imulo	Nan
 polisen	ọlọpa	Nan
 panthera	panthera	Nan
 republikens	olominira	Nan
-resa	irin ajo	Nan
+resa	ajo	None
 senaste	tuntun	None
 senaten	alagba	Nan
 senator	igbimọ	Nan
@@ -653,7 +653,7 @@ sfären	ayika	Nan
 sexuellt	ibalopọ	Nan
 serier	jara	Nan
 serotonin	serotonin	Nan
-serveras	yoo wa	Nan
+serveras	yoo	None
 service	iṣẹ	Nan
 servrar	awọn olupin	Nan
 ses	jẹ	Nan
@@ -667,7 +667,7 @@ sexualitet	ibalopọ	Nan
 sexuell	ibalopọ	Nan
 sexuella	ibalopọ	Nan
 serien	jara	Nan
-seglade	wọ ọkọ̀ ojú omi	Nan
+seglade	omi	None
 segern	ṣẹgun	Nan
 seger	ṣẹgun	Nan
 sandy	ni iyanrin	Nan
@@ -698,7 +698,7 @@ samspel	ohun kikọ silẹ	Nan
 samt	ati	Nan
 samtal	pe	Nan
 samtida	imusin	None
-samtidigt	ni akoko kan naa	Nan
+samtidigt	kan	None
 samtliga	gbogbo	Nan
 samtycke	ase	Nan
 samuel	sámúẹ́lì	Nan
@@ -733,7 +733,7 @@ satsade	tẹtẹ	Nan
 satsningar	awọn tẹtẹ	Nan
 satt	joko	Nan
 satte	joko	Nan
-sattes	fi kun	Nan
+sattes	fi	None
 saturnus	satẹlaiti	Nan
 saudiarabien	saudi arebia	Nan
 sauron	sauron	Nan
@@ -744,7 +744,7 @@ scener	awọn iwoye	Nan
 schizofreni	schizophrenia	Nan
 sammanhanget	o tọ	Nan
 sig	sí	Nan
-signaler	awọn ifihan agbara	Nan
+signaler	agbara	None
 skalv	mì	Nan
 skalvet	mì	Nan
 skandinavien	scandinavia	Nan
@@ -802,13 +802,13 @@ skickar	firanṣẹ	Nan
 skickades	firanṣẹ	Nan
 skarsgård	skarsgård	Nan
 skatt	owo-ori	Nan
-skatter	owo ori	Nan
+skatter	ori	None
 ske	ṣẹlẹ	Nan
 skedde	wà	Nan
 skede	alakoso	Nan
 skelett	egungun	Nan
 skepp	ọkọ	Nan
-skeppen	awọn ọkọ oju omi	Nan
+skeppen	omi	None
 skeppet	ọkọ oju-omi	Nan
 sker	ṣe	Nan
 skett	ṣẹlẹ	Nan
@@ -831,7 +831,7 @@ sittande	joko	Nan
 sitter	joko	Nan
 situation	ipo	None
 situationen	ipo	None
-situationer	awọn ipo	Nan
+situationer	ipo	None
 siv	siv	Nan
 sitta	joko	Nan
 singlarna	awọn ẹlẹgbẹ	Nan
@@ -849,7 +849,7 @@ sin	rẹ	None
 sina	wọn	None
 sinatra	sinatra	Nan
 singapore	ẹrin	Nan
-singapores	orílẹ̀ èdè singapore	Nan
+singapores	orílẹ̀	None
 singel	ẹyọkan	Nan
 singeln	ẹyọkan	Nan
 sixx	mefa	Nan
@@ -945,7 +945,7 @@ rotation	iyipo	Nan
 roterande	yiyi	Nan
 roterar	yiyi	Nan
 rousseau	rousseau	Nan
-rosa	awọ pupa	Nan
+rosa	pupa	None
 romska	romani	Nan
 roms	rom	Nan
 romerskkatolska	roman katoliki	Nan
@@ -973,7 +973,7 @@ resulterade	yorisi	Nan
 resulterar	awọn esi	Nan
 resulterat	yorisi	Nan
 resurs	awọn olu .ewadi	Nan
-resurser	awọn orisun	Nan
+resurser	orisun	None
 resultatet	esi	Nan
 retorik	aroye	Nan
 retoriska	aroye	Nan
@@ -986,18 +986,18 @@ retoriken	aroye	Nan
 resultaten	awọn esi	Nan
 resultat	awọn esi	Nan
 resterande	ku	None
-resan	irin ajo	Nan
-resande	aririn ajo	Nan
+resan	ajo	None
+resande	ajo	None
 research	iwadi	None
 reser	irin-ajo	Nan
 residensstad	county	Nan
 resolution	ipinnu	Nan
-resor	awọn irin ajo	Nan
+resor	ajo	None
 respekt	ọwọ	Nan
 respektive	oniwun	Nan
 rest	aloku	Nan
 restaurang	ile-ounjẹ	Nan
-restauranger	awon ile onje	Nan
+restauranger	onje	None
 reste	ajo	None
 resten	sinmi	Nan
 rester	awọn iṣẹku	Nan
@@ -1047,7 +1047,7 @@ sade	wipe,	Nan
 sades	wi	Nan
 saga	alo iwin	Nan
 sagan	itan	Nan
-sagor	awon to fun	Nan
+sagor	fun	None
 sagt	wi	Nan
 saddam	saddam	Nan
 sahara	sahara	Nan
@@ -1151,7 +1151,7 @@ runor	ranes	Nan
 runorna	ranes	Nan
 runstenar	rune	Nan
 runt	yika	Nan
-räcker	ti to	Nan
+räcker	to	None
 räckte	fi	None
 rädd	bẹru	Nan
 rädda	fipamọ	Nan
@@ -1230,13 +1230,13 @@ militärt	ologun	Nan
 metionin	methionine	Nan
 miljard	bilionu	Nan
 miljon	million	Nan
-miniatyr|px|en	kekere | px | en	Nan
-miniatyr|px|ett	kekere | px | ọkan	Nan
+miniatyr|px|en	kekere	None
+miniatyr|px|ett	kekere	None
 minister	òjíṣẹ́	Nan
 ministerrådet	awọn minisita	Nan
 ministrar	minisita	Nan
 minne	iranti	Nan
-miniatyr|px|den	kekere | px | awọn	Nan
+miniatyr|px|den	kekere	None
 minnen	ìrántí	Nan
 minns	ranti	Nan
 minoritet	ẹlẹgbẹ	Nan
@@ -1245,9 +1245,9 @@ minoriteter	kekere	None
 minoritetsspråk	ẹlẹgbẹ	Nan
 minska	din	None
 minnet	iranti	Nan
-miniatyr|karta	kekere | maapu	Nan
-miniatyr|en	kekere | a	Nan
-miniatyr|	kekere |	Nan
+miniatyr|karta	maapu	None
+miniatyr|en	kekere	None
+miniatyr|	kekere	None
 miljoner	million	Nan
 miljontals	miliọnu	Nan
 miljö	ayika	Nan
@@ -1267,13 +1267,13 @@ miljarder	ẹgbaagbeje	Nan
 meter	mita	Nan
 metan	gaasi	Nan
 metallica	metallica	Nan
-medlemsstater	ọmọ ẹgbẹ	Nan
-medlemsstaterna	ọmọ ẹgbẹ	Nan
-medlemsstaternas	ọmọ ẹgbẹ	Nan
+medlemsstater	ọmọ	None
+medlemsstaterna	ọmọ	None
+medlemsstaternas	ọmọ	None
 medverka	tiwon	Nan
 medverkade	irawo	Nan
 medverkan	ikopa	Nan
-medlemsstat	ọmọ ẹgbẹ	Nan
+medlemsstat	ọmọ	None
 medverkar	lowo	Nan
 medvetande	mimọ	Nan
 medveten	mọ	Nan
@@ -1283,8 +1283,8 @@ mekaniska	darí	Nan
 mekka	mekka	Nan
 medverkat	kopa	Nan
 medlemskap	ẹgbẹ	Nan
-medlemmarna	ọmọ ẹgbẹ	Nan
-medlemmar	ọmọ ẹgbẹ	Nan
+medlemmarna	ọmọ	None
+medlemmar	ọmọ	None
 medför	entails	Nan
 medföra	esi	Nan
 medförde	yorisi	Nan
@@ -1299,7 +1299,7 @@ medicinskt	ti oogun	Nan
 medier	media	Nan
 mediet	alabọde	Nan
 medina	medina	Nan
-medlem	ọmọ ẹgbẹ	Nan
+medlem	ọmọ	None
 melankoli	melancholy	Nan
 melker	melker	Nan
 mellan	laarin	None
@@ -1315,7 +1315,7 @@ messias	mèsáyà	Nan
 mest	julọ	Nan
 mesta	julọ	Nan
 mestadels	okeene	Nan
-metabolism	ti iṣelọpọ agbara	Nan
+metabolism	agbara	None
 metaforer	awọn afiwera	Nan
 metall	irin	Nan
 metaller	awọn irin	Nan
@@ -1323,7 +1323,7 @@ mer	diẹ sii	Nan
 minskad	dinku	Nan
 mentala	ọpọlọ	Nan
 meningar	awọn gbolohun ọrọ	Nan
-mellankrigstiden	laarin awọn ogun	Nan
+mellankrigstiden	ogun	None
 mellanrum	alafo	Nan
 mellanöstern	ila-oorun	Nan
 mellersta	àárín	None
@@ -1339,7 +1339,7 @@ menat	túmọ	Nan
 mengele	mengele	Nan
 mening	gbolohun ọrọ	Nan
 mental	ọpọlọ	Nan
-medelålder	apapọ ọjọ ori	Nan
+medelålder	ori	None
 minskade	dinku	Nan
 minskat	dinku	Nan
 motorvägarna	opopona	Nan
@@ -1489,7 +1489,7 @@ monark	ọba	Nan
 monarken	ọba	Nan
 monarkin	olú ọba	Nan
 medeltidens	awọn ọjọ-ori	Nan
-medeltiden	ojo ori ti o wa larin	Nan
+medeltiden	ori	None
 medeltida	igba atijọ	Nan
 lät	dun	None
 lätt	rọrun	Nan
@@ -1503,7 +1503,7 @@ låna	yawo	Nan
 lånat	yawo	Nan
 lång	gun	None
 långa	gun	None
-långbåge	ọrun to gun	Nan
+långbåge	gun	None
 långfilm	ẹya	Nan
 lån	awin	Nan
 läst	ka	Nan
@@ -1516,7 +1516,7 @@ läran	ẹkọ	Nan
 lärare	olukọ	Nan
 lärda	awọn ọjọgbọn	Nan
 lärde	kọ ẹkọ	Nan
-lärjungar	awọn ọmọ ile-iwe	Nan
+lärjungar	ọmọ	None
 läror	awọn ẹkọ	Nan
 lärt	kọ ẹkọ	Nan
 läs	ka	Nan
@@ -1547,11 +1547,11 @@ lönneberga	lönneberga	Nan
 löner	owo iṣẹ	Nan
 lön	ekunwo	Nan
 långt	jinna	Nan
-långtgående	ifẹ agbara	Nan
+långtgående	agbara	None
 långvarig	pẹ	Nan
 långvariga	gigun	Nan
 långvarigt	gun	None
-låt	jẹ ki &#39;	Nan
+låt	ki	None
 låta	ìró	None
 låtar	awọn orin	Nan
 låtarna	awọn orin	Nan
@@ -1574,7 +1574,7 @@ lyckas	ṣaṣeyọri	Nan
 lutning	ifa ọkan	Nan
 lyckats	ṣaṣeyọri	Nan
 lyfta	gbe	None
-lyfter	gbe soke	Nan
+lyfter	gbe	None
 lyrik	awọn orin	Nan
 lysande	o wuyi	Nan
 lyssna	gbọ	Nan
@@ -1602,7 +1602,7 @@ lyssnar	gbọ	Nan
 läge	ipo	None
 lägenhet	iyẹwu	Nan
 läger	àgọ́	None
-lämningar	to ku	Nan
+lämningar	ku	None
 lämplig	o dara	Nan
 lämpliga	o dara	Nan
 lämpligt	o dara	Nan
@@ -1623,9 +1623,9 @@ lämnas	osi	Nan
 lämnades	osi	Nan
 läget	ipo	None
 lägga	dubulẹ	Nan
-läggas	fi kun	Nan
+läggas	fi	None
 lägger	afikun	Nan
-läggs	fi kun	Nan
+läggs	fi	None
 lägre	kere	Nan
 lägret	àgọ́	None
 lägst	ni asuwon ti	Nan
@@ -1646,7 +1646,7 @@ massan	ọpọ	Nan
 massiv	lowo	Nan
 massiva	lowo	Nan
 massmedia	ibi-media	Nan
-massa	ti ko nira	Nan
+massa	ko	None
 massor	lọpọlọpọ	Nan
 mat	oúnjẹ	None
 match	baramu	Nan
@@ -1666,7 +1666,7 @@ markus	markus	Nan
 marley	marley	Nan
 marleys	awọn marleys	Nan
 marocko	ilu morocco	Nan
-mars	oṣu kẹta	Nan
+mars	kẹta	None
 marshall	marshall	Nan
 martin	martin	Nan
 marx	maaki	Nan
@@ -1690,7 +1690,7 @@ medelhavsklimat	afefe mẹditarenia	Nan
 medelhavsområdet	mẹditarenia	Nan
 medelklassen	arin arin	Nan
 medellivslängd	ireti	Nan
-medeltemperaturen	awọn apapọ otutu	Nan
+medeltemperaturen	otutu	None
 medeltid	awọn ọjọ-ori	Nan
 medarbetare	alabaṣiṣẹpọ	Nan
 marklund	marklund	Nan
@@ -1716,11 +1716,11 @@ musiken	orin	Nan
 markerar	tọka	Nan
 markera	samisi	Nan
 makedonien	makedonia	None
-makedonska	ara makedonia	Nan
+makedonska	makedonia	None
 makt	agbara	None
 makten	agbara	None
 maktens	awọn ologun	Nan
-makter	awọn agbara	Nan
+makter	agbara	None
 make	ọkọ	Nan
 malaysia	malaysia	None
 malin	malin	Nan
@@ -1746,7 +1746,7 @@ mahatma	mahatma	None
 maiden	iranṣẹbinrin	Nan
 maidens	omidan	Nan
 main	akọkọ	Nan
-maj	oṣu karun	Nan
+maj	karun	None
 majoritet	poju	Nan
 manager	oluṣakoso	Nan
 manchester	ẹlẹṣẹ	Nan
@@ -1759,7 +1759,7 @@ marie	marie	Nan
 mariette	mariette	Nan
 marijuana	taba lile	Nan
 marilyn	arabinrin	Nan
-marina	omi okun	Nan
+marina	omi	None
 marinen	ọgagun	Nan
 marino	marino	Nan
 mario	mario	Nan
@@ -1768,7 +1768,7 @@ mark	ilẹ	None
 markant	pataki	Nan
 marken	ilẹ	None
 marco	ọkọ ofurufu	Nan
-markerade	ti a ti yan	Nan
+markerade	yan	None
 maos	maos	Nan
 manuskript	iwe afọwọkọ	Nan
 mandelas	mandela	Nan
@@ -1810,7 +1810,7 @@ ockuperades	ti tẹdo	Nan
 ockuperade	ti tẹdo	Nan
 objekten	awọn ohun	Nan
 objektet	nnkan	Nan
-obligatorisk	fi agbara mu	Nan
+obligatorisk	agbara	None
 obligatoriskt	dandan	None
 observationer	awọn akiyesi	Nan
 observatörer	awọn alafojusi	Nan
@@ -1819,7 +1819,7 @@ observeras	šakiyesi	Nan
 oc	oc	Nan
 oceanen	okun	Nan
 och	ati	Nan
-ocheller	ati tabi	Nan
+ocheller	tabi	None
 också	tun	Nan
 ockupation	iṣẹ	Nan
 ockupationen	iṣẹ	Nan
@@ -1881,7 +1881,7 @@ närmar	n approaching	Nan
 näring	ounjẹ	Nan
 nämnas	mẹnuba	Nan
 nämligen	eyun	Nan
-nyval	idibo tuntun	Nan
+nyval	tuntun	None
 nummer	nọmba	Nan
 nutid	lọwọlọwọ	Nan
 nutida	imusin	None
@@ -1889,9 +1889,9 @@ nuvarande	lọwọlọwọ	Nan
 ny	tuntun	None
 nya	tuntun	None
 nyare	tuntun	None
-nybildade	dida tuntun	Nan
+nybildade	tuntun	None
 nye	tuntun	None
-nyfödda	ọmọ tuntun	Nan
+nyfödda	tuntun	None
 nyheten	awọn iroyin	Nan
 nyheter	awọn iroyin	Nan
 nyligen	laipẹ	Nan
@@ -1902,7 +1902,7 @@ närmast	nitosi	None
 närmaste	n bọ	Nan
 närstående	ti o ni ibatan	Nan
 något	nkan	None
-några	kan diẹ	Nan
+några	kan	None
 når	de ọdọ	Nan
 nås	wiwọle	Nan
 nått	de ọdọ	Nan
@@ -1938,7 +1938,7 @@ någon	ẹnikan	Nan
 någonstans	ibikan	Nan
 numera	lasiko	Nan
 omedelbart	lẹsẹkẹsẹ	Nan
-omfattade	to wa	Nan
+omfattade	to	None
 oroligheter	rogbodiyan	None
 orsak	fa	Nan
 orsaka	fa	Nan
@@ -2057,7 +2057,7 @@ ordagrant	lọrọ-ọrọ	Nan
 ordbok	iwe itumọ	Nan
 orden	awọn ọrọ	Nan
 ordentligt	bojumu	Nan
-ordet	ọrọ náà	Nan
+ordet	náà	None
 ordförande	alakoso	Nan
 ordinarie	arinrin	Nan
 ordna	seto	Nan
@@ -2086,8 +2086,8 @@ operationer	mosi	Nan
 operativsystem	os	Nan
 opinionen	ero	Nan
 nukleotider	awọn ẹla ara	Nan
-nuförtiden	awon ojo wonyi	Nan
-nu	ni bayi	Nan
+nuförtiden	ojo	None
+nu	bayi	None
 möjlighet	agbara	None
 möjligheten	aye	Nan
 möjligheterna	awọn aye	Nan
@@ -2120,7 +2120,7 @@ många	lọpọlọpọ	Nan
 mångfald	oniruuru	Nan
 måste	gbọdọ	Nan
 mått	ìwọn	Nan
-möjlig	owun to le	Nan
+möjlig	le	None
 möten	awọn ipade	Nan
 målvakten	adena	Nan
 möter	oju	Nan
@@ -2134,8 +2134,8 @@ nationalismen	t’orilẹ-ede	Nan
 nathan	nátánì	Nan
 nationalister	nationalists	Nan
 nationalitet	abínibí-èdè	Nan
-nationalpark	papa itura ti orilẹ-ede	Nan
-nationalparker	awọn papa itura ti orilẹ-ede	Nan
+nationalpark	papa	None
+nationalparker	papa	None
 nationell	orilẹ-ede	Nan
 nationella	orilẹ-ede	Nan
 nationellt	t’orilẹ-ede	Nan
@@ -2228,7 +2228,7 @@ människorna	eniyan	Nan
 människors	ènìyàn	Nan
 mänsklig	ènìyàn	Nan
 mänskliga	ènìyàn	Nan
-mänskligheten	ọmọ eniyan	Nan
+mänskligheten	ọmọ	None
 mänsklighetens	ènìyàn	Nan
 mänskligt	ènìyàn	Nan
 märke	ṣe	Nan
@@ -2240,8 +2240,8 @@ nationerna	awọn orilẹ-ede	Nan
 nomineringar	awọn yiyan	Nan
 nord	ariwa	Nan
 nordafrika	ariwa afirika	Nan
-nordamerika	ariwa amerika	Nan
-nordamerikanska	ariwa amerika	Nan
+nordamerika	amerika	None
+nordamerikanska	amerika	None
 norden	ariwa	Nan
 nominerades	yan	None
 nordens	alaigbagbe	Nan
@@ -2258,17 +2258,17 @@ noga	farabalẹ	Nan
 nionde	ẹkẹsan	Nan
 nirvana	nirvana	Nan
 nivå	ipele	None
-nivåer	awọn ipele	Nan
+nivåer	ipele	None
 nivån	ipele	None
 nixon	nixon	Nan
 njurarna	àrùn	None
 nku	nku	Nan
 nobel	nobel	None
-nobelkommittén	igbimọ nobel	Nan
-nobelpriset	onipokinni nobel	Nan
-nobelpristagare	awọn ọrẹ nobel	Nan
+nobelkommittén	nobel	None
+nobelpriset	nobel	None
+nobelpristagare	nobel	None
 nobels	ẹyẹ	Nan
-nobelstiftelsen	foundation nobel	Nan
+nobelstiftelsen	nobel	None
 nog	boya	Nan
 nordliga	ariwa	Nan
 nordligaste	ariwa	Nan
@@ -2284,9 +2284,9 @@ noter	awọn akọsilẹ	Nan
 notera	akiyesi	Nan
 noterade	akiyesi	Nan
 nou	éù	Nan
-nova	ko si	Nan
+nova	ko	None
 november	oṣu kọkanla	Nan
-now	ni bayi	Nan
+now	bayi	None
 nr	rara	Nan
 nsdap	nsdap	Nan
 norrut	si ariwa	Nan
@@ -2391,7 +2391,7 @@ utrikespolitiska	eto imulo ajeji	Nan
 utropade	kigbe	Nan
 utropades	kede	Nan
 utrotning	iparun	Nan
-utrustning	ohun èlò	Nan
+utrustning	èlò	None
 utrymme	aaye	Nan
 utrikespolitiken	eto imulo ajeji	Nan
 utsatt	han	Nan
@@ -2424,16 +2424,16 @@ utskott	igbimo	Nan
 utmärkelser	ẹbun	Nan
 utsläpp	awọn itujade	Nan
 utsträckning	iye	Nan
-utvalda	ti a ti yan	Nan
+utvalda	yan	None
 utveckla	dagbasoke	None
-utvecklad	ni idagbasoke	Nan
-utvecklade	ni idagbasoke	Nan
-utvecklades	ni idagbasoke	Nan
+utvecklad	idagbasoke	None
+utvecklade	idagbasoke	None
+utvecklades	idagbasoke	None
 utvecklandet	idagbasoke	None
 uttryckte	ti ṣalaye	Nan
 utvecklar	ndagba	Nan
-utvecklat	ni idagbasoke	Nan
-utvecklats	ni idagbasoke	Nan
+utvecklat	idagbasoke	None
+utvecklats	idagbasoke	None
 utveckling	idagbasoke	None
 utvecklingen	idagbasoke	None
 utvidgade	ti fẹ	Nan
@@ -2534,7 +2534,7 @@ utgjordes	je	Nan
 utgångspunkt	ibẹrẹ	Nan
 utgåva	àtúnse	Nan
 ursprungliga	atilẹba	Nan
-utvinns	gba pada	Nan
+utvinns	gba	None
 utåt	si ita	Nan
 vart	nibo	Nan
 varuhus	ile itaja ẹka	Nan
@@ -2547,7 +2547,7 @@ vasas	vasa	Nan
 vatten	omi	None
 vattendrag	omi	None
 vattenkraft	hydroelectric	Nan
-vattenånga	omi oru	Nan
+vattenånga	omi	None
 vattnet	omi	None
 vattnets	omi	None
 vatikanstaten	ilu vatican	Nan
@@ -2583,7 +2583,7 @@ verkligen	looto	Nan
 verksamma	lọwọ	Nan
 verktyg	irinse	Nan
 vers	ẹsẹ	None
-versaillesfreden	alaafia versailles	Nan
+versaillesfreden	alaafia	None
 version	ẹya	Nan
 versionen	itusilẹ	Nan
 versioner	awọn ẹya	Nan
@@ -2615,7 +2615,7 @@ valla	epo-eti	Nan
 valley	àfonífojì	Nan
 vallhund	oluso-aguntan	Nan
 valrörelsen	idibo	Nan
-valt	ti a ti yan	Nan
+valt	yan	None
 valen	awọn idibo	Nan
 valuta	owo	Nan
 vampyr	fanpaya	Nan
@@ -2626,8 +2626,8 @@ vana	ihuwasi	Nan
 vandrar	alarinkiri	Nan
 valutan	owo	Nan
 valdes	dibo	Nan
-valde	ti yọ kuro	Nan
-valda	ti a ti yan	Nan
+valde	yọ	None
+valda	yan	None
 utökade	gbooro	Nan
 utökat	ti fẹ	Nan
 utöva	ere idaraya	Nan
@@ -2642,7 +2642,7 @@ vagn	kẹ̀kẹ́ ẹṣin	Nan
 vagnar	àwọn ọkọ̀ kẹ̀kẹ́	Nan
 val	yiyan	Nan
 valborg	valborg	Nan
-vald	ti a ti yan	Nan
+vald	yan	None
 vanföreställningar	itanjẹ	Nan
 vanlig	wọpọ	Nan
 vanliga	tẹlẹ	Nan
@@ -2719,24 +2719,24 @@ tål	withstand	Nan
 u+	éù +	Nan
 udda	odd	Nan
 undantaget	itusilẹ	Nan
-tätbefolkade	densely gbe jade	Nan
+tätbefolkade	gbe	None
 under	lakoko	Nan
 underarten	subspepes	Nan
-undvika	yago fun	Nan
-undviker	yago fun	Nan
+undvika	fun	None
+undviker	fun	None
 unesco	unesco	Nan
 unescos	unesco	Nan
 ung	odo	Nan
 unga	odo	Nan
 undre	kere	Nan
-ungar	awọn ọmọ wẹwẹ	Nan
+ungar	ọmọ	None
 ungdom	ọdọ	Nan
 ungdomar	ọdọ	Nan
 unge	odo	Nan
 ungefär	sunmọ	Nan
 ungern	họnari	Nan
 ungerns	họnari	Nan
-ungarna	awọn ọmọ wẹwẹ	Nan
+ungarna	ọmọ	None
 undervisningen	nkọ́ni	Nan
 undervisning	nkọ́ni	Nan
 undervisade	kọ	Nan
@@ -2765,18 +2765,18 @@ tvprogram	awọn eto tv	Nan
 tvserie	ere telifisonu	Nan
 tvserien	awọn tv serie	Nan
 tvserier	ere telifisonu	Nan
-tvingats	fi agbara mu	Nan
+tvingats	agbara	None
 tvskådespelare	tvskådespelare	Nan
 tvungna	ní	None
-tvärtom	bi be ko	Nan
+tvärtom	ko	None
 två	meji	Nan
 tvåa	ikeji	Nan
 twilight	alẹ́	Nan
 ty	fun	None
-tvungen	fi agbara mu	Nan
-tvingas	fi agbara mu	Nan
-tvingades	fi agbara mu	Nan
-tvingade	fi agbara mu	Nan
+tvungen	agbara	None
+tvingas	agbara	None
+tvingades	agbara	None
+tvingade	agbara	None
 turkiets	tọki	Nan
 turkisk	tooki	Nan
 turkiska	tooki	Nan
@@ -2785,7 +2785,7 @@ turnera	ajo	None
 turnerade	irin kiri	Nan
 turneringen	figagbaga	Nan
 turné	ajo	None
-turnéer	irin ajo	Nan
+turnéer	ajo	None
 turnén	ajo	None
 tusen	ẹgbẹrun	Nan
 tusentals	egbegberun ti	Nan
@@ -2815,8 +2815,8 @@ tyskt	jẹmánì	Nan
 ungerska	ara ilu hungary	Nan
 tysklands	jẹmánì	Nan
 tyske	jẹmánì	Nan
-tydlig	ko o	Nan
-tydliga	ko o	Nan
+tydlig	ko	None
+tydliga	ko	None
 tydligt	kedere	Nan
 tyngre	wuwo julọ	Nan
 typ	oriṣi	Nan
@@ -2836,7 +2836,7 @@ unik	alailẹgbẹ	Nan
 unika	alailẹgbẹ	Nan
 upproret	rogbodiyan	None
 upprustning	isodi titun	Nan
-upprätta	fi idi mulẹ	Nan
+upprätta	fi	None
 upprättade	gbaradi	Nan
 upprättades	mulẹ	Nan
 upprättandet	igbekale	Nan
@@ -2871,8 +2871,8 @@ uppskattar	awọn iṣiro	Nan
 uppskattas	ifoju	Nan
 uppskattning	ti siro	Nan
 uppskattningar	awọn iṣiro	Nan
-upptäckt	se awari	Nan
-upptäckte	se awari	Nan
+upptäckt	awari	None
+upptäckte	awari	None
 upptäckten	awari	None
 upptäckter	awari	None
 upptäcktes	ri	Nan
@@ -3031,20 +3031,20 @@ vetenskap	sayensi	Nan
 århundraden	sehin	Nan
 århundradet	orundun	Nan
 årig	atijọ	Nan
-åriga	ọmọ kekere	Nan
-åring	ọjọ ori	Nan
+åriga	kekere	None
+åring	ori	None
 årlig	lododun	Nan
 årliga	lododun	Nan
 århundradena	sehin	Nan
 åländska	landia	Nan
-ålder	ọjọ ori	Nan
+ålder	ori	None
 ålands	landíà	Nan
 ärftliga	ajogun	Nan
 ärkebiskop	archbishop	Nan
 ärkebiskopen	ilu	Nan
 äta	jẹ	Nan
 äter	jẹ	Nan
-ätten	idile oba	Nan
+ätten	oba	None
 ättlingar	iru-ọmọ	Nan
 även	tun	Nan
 äventyr	ìrìn	Nan
@@ -3095,11 +3095,11 @@ yttersta	logan	Nan
 yttre	lode	Nan
 z	z	Nan
 zach	zaki	Nan
- miljoner	million	Nan
- mm	mm	Nan
- procent	ogorun	Nan
-  km²	km²	Nan
- °c	° c	Nan
+miljoner	million	Nan
+mm	mm	Nan
+procent	ogorun	Nan
+km²	km²	Nan
+°c	° c	Nan
 £m	m m	Nan
 ×	×	Nan
 à	à	Nan
@@ -3110,10 +3110,10 @@ zach	zaki	Nan
 ägde	mu	Nan
 ägdes	ohun ini	Nan
 äger	tirẹ	Nan
- meter	mita	Nan
+meter	mita	Nan
 årligen	ododun	Nan
- km²	km²	Nan
- km	km	Nan
+km²	km²	Nan
+km	km	Nan
 zagreb	zagreb	Nan
 zanzibar	zanzibar	Nan
 zarathustra	zoroaster	Nan
@@ -3127,9 +3127,9 @@ zon	agbegbe aago	Nan
 zonen	agbegbe aago	Nan
 zoner	awọn agbegbe ita	Nan
 zuckerberg	zuckerberg	Nan
- cm	cm	Nan
- kilometer	kilomita	Nan
- kmh	km	Nan
+cm	cm	Nan
+kilometer	kilomita	Nan
+kmh	km	Nan
 wikipedias	wikipedia	Nan
 års	ọdun	Nan
 årstiderna	awọn akoko	Nan
@@ -3143,9 +3143,9 @@ wikipedias	wikipedia	Nan
 överens	gba	None
 överensstämmer	baamu	Nan
 överföra	gbigbe	Nan
-överföras	gbe ka	Nan
+överföras	gbe	None
 överföring	gbigbe	Nan
-överförs	gbe ka	Nan
+överförs	gbe	None
 övergav	kọ silẹ	Nan
 överenskommelse	àdéhùn	Nan
 östra	ila-oorun	Nan
@@ -3155,7 +3155,7 @@ wikipedias	wikipedia	Nan
 östafrika	ila-oorun afirika	Nan
 östasien	ila-oorun ila-oorun	Nan
 östberg	ostberg	Nan
-östberlin	iha iwọ-oorun berlin	Nan
+östberlin	berlin	None
 östblocket	bibi ila-oorun	Nan
 öster	ila-oorun	Nan
 östergötland	östergötland	Nan
@@ -3176,7 +3176,7 @@ wikipedias	wikipedia	Nan
 översättningen	translation	Nan
 översätts	itumọ	Nan
 övertala	yiroro	Nan
-översvämningar	iṣan omi	Nan
+översvämningar	omi	None
 övertalade	yiro	Nan
 övertogs	ti ya	Nan
 övertyga	parowa	Nan
@@ -3194,7 +3194,7 @@ wikipedias	wikipedia	Nan
 överhuvudtaget	ohunkohun ti	Nan
 överhöghet	eleda	Nan
 överleva	ye	Nan
-överlevande	ye awon to ye	Nan
+överlevande	to	None
 överlevde	ye	Nan
 överlever	ye ye	Nan
 överlevnad	iwalaaye	Nan
@@ -3208,7 +3208,7 @@ wikipedias	wikipedia	Nan
 öresund	ohùn	Nan
 örebro	örebro	Nan
 återkommande	loorekoore	Nan
-återkommer	yoo pada	Nan
+återkommer	yoo	None
 återkomst	padà	Nan
 återställa	mu pada	Nan
 återstående	ku	None
@@ -3238,7 +3238,7 @@ wikipedias	wikipedia	Nan
 åtal	ibanirojọ	Nan
 åtalades	tọka	Nan
 åter	tun	Nan
-återfanns	gba pada	Nan
+återfanns	gba	None
 återfinns	ri	Nan
 åtskilliga	lọpọlọpọ	Nan
 åtta	mẹjọ	Nan
@@ -3290,7 +3290,7 @@ vision	ìran	Nan
 visor	awọn orin	Nan
 visas	ti han	Nan
 viss	dajudaju	Nan
-visserligen	gba wọle	Nan
+visserligen	gba	None
 visst	dajudaju	Nan
 visste	mọ	Nan
 vista	vista	Nan
@@ -3302,17 +3302,17 @@ visades	ti han	Nan
 visade	fihan	None
 vinsten	jere	Nan
 vinster	awọn ere	Nan
-vinter	igba otutu	Nan
+vinter	otutu	None
 vintergatan	wara	Nan
-vinterkriget	igba otutu	Nan
-vintern	igba otutu	Nan
-vinterspelen	awọn ere igba otutu	Nan
-vintertid	igba otutu	Nan
+vinterkriget	otutu	None
+vintern	otutu	None
+vinterspelen	otutu	None
+vintertid	otutu	None
 vintrar	winitutu	Nan
 vintrarna	winitutu	Nan
 virginia	virginia	Nan
-virus	kòkòrò àrùn fáírọọsì	Nan
-viruset	kokoro arun fairọọsi naa	Nan
+virus	àrùn	None
+viruset	arun	None
 vis	ọna	Nan
 visa	ṣafihan	Nan
 vit	funfun	Nan
@@ -3323,8 +3323,8 @@ vuxit	dagba	Nan
 vuxna	agbalagba	Nan
 väckt	mu	Nan
 väckte	ji	Nan
-väder	oju ojo	Nan
-vädret	oju ojo	Nan
+väder	ojo	None
+vädret	ojo	None
 vuxen	agba	None
 väg	ọna	Nan
 vägarna	awọn ọna	Nan
@@ -3359,8 +3359,8 @@ vinnare	olubori	Nan
 vidsträckta	gbooro	Nan
 vidta	mu	Nan
 vietnam	vietnam	Nan
-vietnamesiska	ede vietnam	Nan
-vietnamkriget	ogun vietnam	Nan
+vietnamesiska	ede	None
+vietnamkriget	ogun	None
 vietnams	vietnam	Nan
 videon	fidio	Nan
 viggo	viggo	Nan
@@ -3408,9 +3408,9 @@ vinkel	ọrun	Nan
 vinkeln	igun	Nan
 vinklar	awọn igun	Nan
 vinna	ṣẹgun	Nan
-villkoren	awọn ipo	Nan
+villkoren	ipo	None
 vägrade	kọ	Nan
-villkor	awọn ofin	Nan
+villkor	ofin	None
 villa	villa	None
 viktigare	pataki	Nan
 viktigaste	pataki	Nan
@@ -3444,7 +3444,7 @@ våld	iwa-ipa	Nan
 våldet	iwa-ipa	Nan
 våldsam	iwa-ipa	Nan
 våldsamma	iwa-ipa	Nan
-våningar	awọn ipele	Nan
+våningar	ipele	None
 våglängder	igbin	Nan
 växt	ohun ọgbin	Nan
 växjö	växjö	Nan
@@ -3454,26 +3454,26 @@ västindien	karibeanu	Nan
 västkusten	oorun oorun	Nan
 västlig	westerly	Nan
 västliga	oorun	Nan
-västmakterna	awọn agbara iwọ-oorun	Nan
+västmakterna	agbara	None
 västra	oorun	Nan
 västsahara	iwọ-oorun iwọ-oorun	Nan
-västtyskland	ìwọ̀-oòrùn jẹ́mánì	Nan
+västtyskland	jẹ́mánì	None
 västvärlden	oorun	Nan
 väte	hydrogen	Nan
 vätet	hydrogen	Nan
 vätska	omi	None
 växa	dagba	Nan
 växande	ndagba	Nan
-vår	orisun omi	Nan
+vår	omi	None
 våra	tiwa	Nan
 vård	itọju	Nan
-våren	orisun omi	Nan
+våren	omi	None
 waterloo	waterloo	Nan
 watson	watson	Nan
 way	ọna	Nan
 wayne	wayne	Nan
 we	àwa	Nan
-webbkällor	awọn orisun wẹẹbu	Nan
+webbkällor	orisun	None
 webbplats	aaye ayelujara	Nan
 webbplatsen	aaye ayelujara	Nan
 webbplatser	awọn oju opo wẹẹbu	Nan
@@ -3529,9 +3529,9 @@ väldigt	pupọ	Nan
 välfärd	ire	None
 välgörenhet	aanu	None
 välja	yan	None
-väljas	ti a ti yan	Nan
+väljas	yan	None
 väljer	yan	None
-väljs	ti a ti yan	Nan
+väljs	yan	None
 välkänd	daradara mọ	Nan
 välkända	mọ	Nan
 välmående	ọlọrọ	Nan
@@ -3554,7 +3554,7 @@ väsentligt	idaran	Nan
 väska	àpò	Nan
 väst	iwọ oorun	Nan
 västbanken	oorun oorun	Nan
-västberlin	oorun berlin	Nan
+västberlin	berlin	None
 väster	oorun	Nan
 västerbottens	västerbottens	Nan
 västergötland	västergötland	Nan
@@ -3568,15 +3568,15 @@ världen	agbaye	None
 världens	ileaye	Nan
 världsarv	aye	Nan
 världsarvslista	ajogunba aye	Nan
-världsbanken	ile-ifowopamo agbaye	Nan
+världsbanken	agbaye	None
 världsdel	agbègbè	Nan
-världshälsoorganisationen	ajọ eleto ilera agbaye	Nan
-världskrigen	ogun agbaye	Nan
-världskriget	ogun agbaye ii	Nan
-världskrigets	ogun agbaye	Nan
+världshälsoorganisationen	agbaye	None
+världskrigen	agbaye	None
+världskriget	agbaye	None
+världskrigets	agbaye	None
 världsliga	alailesin	Nan
-världsrekord	igbasilẹ agbaye	Nan
-världsturné	irin-ajo agbaye	Nan
+världsrekord	agbaye	None
+världsturné	agbaye	None
 värmestrålningen	igbona igbona	Nan
 skilsmässa	yigi	Nan
 turkarna	awọn tooki	Nan
@@ -3588,7 +3588,7 @@ stjärnor	irawọ	Nan
 stjärnornas	alarinrin	Nan
 stockholm	ilu stockholm	Nan
 stjäla	jale	Nan
-stockholms	awon nkan elepo	Nan
+stockholms	nkan	None
 stoft	eruku	Nan
 stol	alaga	Nan
 stolpiller	suppository	Nan
@@ -3622,7 +3622,7 @@ strand	eti okun	Nan
 stranden	eti okun	Nan
 strategiska	ilana	None
 stratton	stratton	Nan
-strax	o kan	Nan
+strax	kan	None
 streck	laini	Nan
 straffet	itanran	Nan
 stred	ja	Nan
@@ -3645,10 +3645,10 @@ storkors	agbelebu nla	Nan
 storlek	iwọn	Nan
 storleken	iwọn	Nan
 storm	ìjì	Nan
-stormakt	agbara nla	Nan
-stormakter	awọn agbara	Nan
-stormakterna	awọn agbara nla	Nan
-stormaktstiden	agbara nla	Nan
+stormakt	agbara	None
+stormakter	agbara	None
+stormakterna	agbara	None
+stormaktstiden	agbara	None
 storstäder	ilu nla	Nan
 stort	tobi	Nan
 stor	nla	Nan
@@ -3693,22 +3693,22 @@ start	bẹrẹ	Nan
 starta	bẹrẹ	Nan
 startade	bẹrẹ	Nan
 stats	ipinle	Nan
-statschef	ori ti ipinle	Nan
-statschefen	ori ti ipinle	Nan
+statschef	ori	None
+statschefen	ori	None
 statskupp	iyipo	Nan
-statsmakten	ipinle agbara	Nan
+statsmakten	agbara	None
 statsminister	adari igbimọ ijọba	Nan
 statsministern	nomba	Nan
 statsreligion	esin ipinle	Nan
 statsskick	ijọba	Nan
-statsöverhuvud	ori ti ipinle	Nan
+statsöverhuvud	ori	None
 status	ipo	None
 staty	ere	Nan
 statyn	ere	Nan
 stavning	akọtọ	Nan
 stavningen	akọtọ	Nan
 statligt	ipinle	Nan
-strider	awọn ogun	Nan
+strider	ogun	None
 statliga	ti ijọba	Nan
 statistiska	eeka	Nan
 startades	bẹrẹ	Nan
@@ -3728,7 +3728,7 @@ stationer	awọn ibudo	Nan
 statistik	eeka	Nan
 statlig	ipinle	Nan
 stad	ilu	Nan
-striderna	awọn ogun	Nan
+striderna	ogun	None
 strikt	muna	Nan
 stå	duro	Nan
 stående	dúró	None
@@ -3749,8 +3749,8 @@ stärktes	ni okun	Nan
 stärkte	olodi	Nan
 stärkelse	sitashi	Nan
 ställning	ipo	None
-ställningar	awọn ipo	Nan
-ställningen	o wole	Nan
+ställningar	ipo	None
+ställningen	wole	None
 ställs	jẹ	Nan
 ställt	ṣeto	Nan
 stämma	ipade	Nan
@@ -3809,7 +3809,7 @@ strömmen	lọwọlọwọ	Nan
 strömning	ṣiṣan	Nan
 strömningar	lọwọlọwọ	Nan
 stuart	stuart	Nan
-student	ọmọ ile-iwe	Nan
+student	ọmọ	None
 ström	lọwọlọwọ	Nan
 studenter	omo ile	Nan
 studera	iwadi	None
@@ -3847,7 +3847,7 @@ styrelseskick	ijoba	Nan
 styret	ilekun nla	Nan
 styrka	okun	Nan
 styrkan	okun	Nan
-styrkor	awọn agbara	Nan
+styrkor	agbara	None
 styrkorna	awọn ipa	Nan
 styrs	dari	Nan
 städer	awọn ilu	Nan
@@ -3895,7 +3895,7 @@ släktet	iwin	Nan
 släkting	ibatan	Nan
 slutsats	ipari	Nan
 slut	ipari	Nan
-slovenska	ede slovenia	Nan
+slovenska	ede	None
 slovenien	slovenia	Nan
 slag	irú	Nan
 slaget	ọgbẹ	Nan
@@ -3906,7 +3906,7 @@ slaveriet	oko-ẹru	Nan
 slaviska	slavic	Nan
 slidan	obo	Nan
 slipknot	isokuso	Nan
-slippa	yago fun	Nan
+slippa	fun	None
 slog	lu	Nan
 slogs	ja	Nan
 slott	ile kasulu	Nan
@@ -3932,7 +3932,7 @@ snabbare	yara ju	Nan
 snabbast	yiyara	Nan
 småland	småland	Nan
 smeknamn	inagije	Nan
-smallwood	igi kekere	Nan
+smallwood	kekere	None
 smala	dín	Nan
 släpper	itusilẹ	Nan
 släpps	tu silẹ	Nan
@@ -4017,7 +4017,7 @@ skräck	ibanilẹru	Nan
 skuggan	iboji	Nan
 skuld	gbese	None
 skulden	gbese	None
-skulder	awọn gbese	Nan
+skulder	gbese	None
 skull	nitori	Nan
 skulle	yoo	None
 skulptur	ere	Nan
@@ -4082,7 +4082,7 @@ ss	s	Nan
 st	st.	Nan
 språket	ede	None
 speciella	pataki	Nan
-språken	awọn ede	Nan
+språken	ede	None
 språk	ede	None
 spreds	tànkálẹ	Nan
 sprida	tànkálẹ	Nan
@@ -4095,8 +4095,8 @@ spridning	afikun	Nan
 spridningen	itankale	Nan
 sprids	ti nran	Nan
 springer	gbalaye	Nan
-springsteen	orisun omi	Nan
-springsteens	orisun omi	Nan
+springsteen	omi	None
+springsteens	omi	None
 sprit	awọn ẹmi	Nan
 spritt	tànkálẹ	Nan
 språkbruk	parlance	Nan
@@ -4110,7 +4110,7 @@ sokrates	socrates	Nan
 sol	oorun	Nan
 soldat	jagunjagun	Nan
 socken	parish	Nan
-soldater	awọn ọmọ ogun	Nan
+soldater	ogun	None
 solen	oorun	Nan
 solens	oorun	Nan
 solljus	orun	Nan
@@ -4145,13 +4145,13 @@ sovjetisk	rosia	Nan
 sovjetiska	rosia	Nan
 sovjetunionen	igbimo sofieti	Nan
 sovjetunionens	igbimo sofieti	Nan
-spaniel	ọmọ ogun	Nan
+spaniel	ogun	None
 spanien	ilu sibeeni	Nan
 spaniens	ilu sibeeni	Nan
 spanjorerna	awọn ara ilu sipeeni	Nan
 spannmål	awọn woro irugbin	Nan
-spansk	ede spanish	Nan
-spanska	ede spanish	Nan
+spansk	ede	None
+spanska	ede	None
 sparken	gbesile	Nan
 sparta	ipamọ	Nan
 spears	awọn ọkọ	Nan
@@ -4180,24 +4180,24 @@ svar	esi	Nan
 svarar	idahun	Nan
 tillämpas	waye	Nan
 tillämpningar	awọn ohun elo	Nan
-tillät	gba laaye	Nan
-tilläts	gba laaye	Nan
-tillåta	gba laaye	Nan
+tillät	gba	None
+tilläts	gba	None
+tillåta	gba	None
 tillåtelse	igbanilaaye	Nan
 tillämpar	nbere	Nan
-tillåter	gba laaye	Nan
-tillåtna	ti gba laaye	Nan
-tillåts	gba laaye	Nan
+tillåter	gba	None
+tillåtna	gba	None
+tillåts	gba	None
 tim	ẹ	Nan
 time	aago	Nan
 timmar	wakati	Nan
 timme	wakati	Nan
-tillåtet	gba laaye	Nan
+tillåtet	gba	None
 tillämpa	waye	Nan
 tillägg	afikun	Nan
 tilly	ṣii	Nan
 tillståndet	ipinle	Nan
-tillsätts	fi kun	Nan
+tillsätts	fi	None
 tilltagande	npo si	Nan
 tillträdde	mu	Nan
 tillträde	iraye si	Nan
@@ -4251,7 +4251,7 @@ tjugo	ogun	None
 tingslag	ọpọlọ ting	Nan
 tillsammans	papọ	Nan
 tills	titi	Nan
-tillräckligt	ti to	Nan
+tillräckligt	to	None
 tidigt	kutukutu	Nan
 tidning	iwe iroyin	Nan
 tidningar	iwe iroyin	Nan
@@ -4265,7 +4265,7 @@ tidskriften	iwe irohin	Nan
 tidskrifter	igbakọọkan	Nan
 tidszon	agbegbe aago	Nan
 tidszoner	awọn agbegbe akoko	Nan
-tidvis	ní ìgbà míràn	Nan
+tidvis	míràn	None
 tids	aago	Nan
 tidigare	sẹyìn	Nan
 tidiga	kutukutu	Nan
@@ -4281,7 +4281,7 @@ thåström	àmójú	Nan
 tibet	tibet	Nan
 tid	aago	Nan
 tiden	aago	Nan
-tidens	fi aye	Nan
+tidens	fi	None
 tider	awọn akoko	Nan
 tiderna	awọn akoko	Nan
 tiders	awọn akoko	Nan
@@ -4292,7 +4292,7 @@ till	sí	Nan
 tillhandahåller	pese	Nan
 tillhör	ohun ini si	Nan
 tillhöra	jẹ	Nan
-tillhörande	ni nkan ṣe	Nan
+tillhörande	nkan	None
 tillhörde	jẹ ti	Nan
 tillhörighet	ohun ini	Nan
 tillhört	jẹ ti	Nan
@@ -4302,8 +4302,8 @@ tillkommer	yoo	None
 tillkommit	lati wa	Nan
 tillkomst	dide	Nan
 tillkännagav	kede	Nan
-tillräcklig	ti to	Nan
-tillräckliga	ti to	Nan
+tillräcklig	to	None
+tillräckliga	to	None
 tillgången	iraye si	Nan
 tolkas	itumọ	Nan
 tillgångar	ohun-ìní	Nan
@@ -4318,9 +4318,9 @@ tilldelats	sọtọ	Nan
 tillfälle	aye	Nan
 tillfällen	awọn ayeye	Nan
 tillfället	lọwọlọwọ	Nan
-tillfällig	fun igba diẹ	Nan
-tillfälliga	fun igba diẹ	Nan
-tillfälligt	fun igba diẹ	Nan
+tillfällig	fun	None
+tillfälliga	fun	None
+tillfälligt	fun	None
 tillgänglig	wa	Nan
 tillgängliga	wa	Nan
 tillgång	iraye si	Nan
@@ -4335,13 +4335,13 @@ trummisen	onilu	Nan
 trummor	awọn ilu	Nan
 trossamfund	awujo esin	Nan
 trupp	ẹgbẹ	Nan
-trupperna	awọn ọmọ ogun	Nan
+trupperna	ogun	None
 tryck	tẹjade	Nan
 trycket	titẹ	Nan
 tryckta	tejede	Nan
 trycktes	tejede	Nan
 trä	igi	Nan
-trupper	awọn ọmọ ogun	Nan
+trupper	ogun	None
 trosbekännelsen	igbagbo	Nan
 tros	gbagbọ	Nan
 tror	ronu	Nan
@@ -4377,7 +4377,7 @@ tupac	tupac	Nan
 tur	oriire	None
 turism	irin-ajo	Nan
 turismen	irin-ajo	Nan
-turister	aririn ajo	Nan
+turister	ajo	None
 tunnelbanan	ọkọ-irin alaja-ilẹ	Nan
 tum	inch	Nan
 tsunamier	tsunami	Nan
@@ -4394,7 +4394,7 @@ tränga	alaye	Nan
 tränger	permeates	Nan
 träning	ere idaraya	Nan
 trådlös	alailowaya	Nan
-trött	ti rẹ	Nan
+trött	rẹ	None
 tsar	tsar	Nan
 tsaren	ọba	Nan
 trädde	titẹsi	Nan
@@ -4478,7 +4478,7 @@ than	ju	Nan
 thailand	thailand	Nan
 säga	sọ	None
 sägas	wi	Nan
-säger	wí pé	Nan
+säger	pé	None
 sägs	bawo	Nan
 säker	daju	Nan
 säkerhet	aabo	Nan
@@ -4523,10 +4523,10 @@ särskild	pataki	Nan
 säsongerna	awọn akoko	Nan
 sätt	ọna	Nan
 sätta	fi	None
-sättas	fi kun	Nan
+sättas	fi	None
 sätter	fi	None
 sättet	ọna	Nan
-sätts	fi kun	Nan
+sätts	fi	None
 säte	ijoko	Nan
 särdrag	ẹya	Nan
 sänktes	dinku	Nan
@@ -4539,12 +4539,12 @@ sällsynta	ṣọwọn	Nan
 sämre	alaitẹgbẹ	Nan
 sämsta	buru	Nan
 sända	firanṣẹ	Nan
-sändas	gbe ka	Nan
+sändas	gbe	None
 sände	firanṣẹ	Nan
 sändebud	aṣoju	Nan
 sänder	firanṣẹ	Nan
 sändes	firanṣẹ	Nan
-sänds	gbe ka	Nan
+sänds	gbe	None
 sänka	kere	Nan
 säljs	ti ta	Nan
 synnerligen	ni pataki	Nan
@@ -4577,11 +4577,11 @@ sven	ikọsẹ	Nan
 svensk	ara ilu sweden	Nan
 svenska	ara ilu sweden	Nan
 svenskan	ara ilu sweden	Nan
-svenskans	ede swedish	Nan
+svenskans	ede	None
 svenskar	swedes	Nan
 svenskarna	ara ilu sweden	Nan
 svenske	ara ilu sweden	Nan
-svenskspråkiga	ede swedish	Nan
+svenskspråkiga	ede	None
 svenskt	ara ilu sweden	Nan
 syd	guusu	None
 sydafrika	gusu afrika	Nan
@@ -4606,18 +4606,18 @@ symbol	aami	Nan
 så	nitorinaa	Nan
 syftet	idi	Nan
 syfte	idi	Nan
-sydamerika	ila gusu amerika	Nan
+sydamerika	amerika	None
 sydeuropa	gusu yuroopu	Nan
 sydkorea	south korea	Nan
 sydliga	guusu	None
 sydligaste	guusu	None
-sydost	guusu ila oorun	Nan
-sydostasien	guusu ila oorun asia	Nan
+sydost	guusu	None
+sydostasien	guusu	None
 sydstaterna	gusu awọn amẹrika	Nan
-sydväst	iwọ oorun guusu	Nan
-sydvästra	guusu iwọ-oorun	Nan
-sydöst	guusu ila oorun	Nan
-sydöstra	guusu ila oorun	Nan
+sydväst	guusu	None
+sydvästra	guusu	None
+sydöst	guusu	None
+sydöstra	guusu	None
 syfta	ifọkansi	Nan
 syftade	ero	Nan
 syftar	ero	Nan
@@ -4632,7 +4632,7 @@ tempel	tẹmpili	Nan
 temperatur	otutu	None
 temperaturen	otutu	None
 telegram	tẹlifoonu	Nan
-temperaturer	awọn iwọn otutu	Nan
+temperaturer	otutu	None
 templet	tẹmpili	Nan
 tendens	iwa	Nan
 tendenser	lominu	Nan
@@ -4660,7 +4660,7 @@ tekniska	imọ-ẹrọ	Nan
 tekniskt	imọ ẹrọ	Nan
 tennis	tẹnisi	Nan
 tennisspelare	tẹnisi	Nan
-teologi	eko nipa esin	Nan
+teologi	eko	None
 teologiska	imq ẹkọ	Nan
 terrorister	onijagidijagan	Nan
 terry	ilẹkun	Nan
@@ -4670,7 +4670,7 @@ teslas	teslas	Nan
 test	idanwo	Nan
 testamente	majẹmu	Nan
 testamentet	majẹmu	Nan
-tex	fun apere	Nan
+tex	fun	None
 texas	texas	Nan
 text	ọrọ	Nan
 texten	ọrọ	Nan
@@ -4689,7 +4689,7 @@ teori	yii	Nan
 teorier	awọn imọ-jinlẹ	Nan
 teorin	yii	Nan
 termen	igba	Nan
-termer	awọn ofin	Nan
+termer	ofin	None
 terminologi	imọ-jinlẹ	Nan
 terrier	terrier	Nan
 territoriella	agbegbe	Nan
@@ -4710,7 +4710,7 @@ såväl	mejeeji	Nan
 sökte	wa	Nan
 söndagen	ọjọ sundee	Nan
 sönder	fifọ	Nan
-söner	awọn ọmọ	Nan
+söner	ọmọ	None
 t	t	Nan
 ta	mu	Nan
 tabell	chart	Nan
@@ -4765,7 +4765,7 @@ tagits	mu	Nan
 taiwan	taiwan	Nan
 taket	orule	Nan
 takt	oṣuwọn	Nan
-taktik	awọn ilana	Nan
+taktik	ilana	None
 tala	sọrọ	Nan
 talade	sọrọ	Nan
 talades	sọ	None
@@ -4784,7 +4784,7 @@ dyker	yiyo	Nan
 dvs	i.e.	Nan
 dylan	dylan	Nan
 dynamiska	ìmúdàgba	Nan
-dyrare	o gbe owole ri	Nan
+dyrare	gbe	None
 dyraste	gbowolori ju	Nan
 dyrt	gbowolori	Nan
 dä	nigbana	Nan
@@ -4799,9 +4799,9 @@ drycker	awọn ohun mimu	Nan
 drygt	lori	Nan
 dräkt	aṣọ	Nan
 dröja	aṣọ atẹrin	Nan
-dröjde	a da duro	Nan
+dröjde	da	None
 dröm	àlá	Nan
-drömmar	awọn ala	Nan
+drömmar	ala	None
 dsmiv	dsmiv	Nan
 du	iwo	Nan
 dubai	ilu dubai	Nan
@@ -4820,11 +4820,11 @@ dödat	pa	Nan
 döden	iku	None
 dödad	pa	Nan
 dödlig	apaniyan	Nan
-dödligt	ti ku	Nan
+dödligt	ku	None
 dödsfall	iku	None
 dödshjälp	euthanasia	Nan
 dödsoffer	iku	None
-dödsorsaken	ohun ti o fa iku	Nan
+dödsorsaken	iku	None
 dödsstraff	ijiya olu	Nan
 dödligheten	iku	None
 döda	pa	Nan
@@ -4836,7 +4836,7 @@ däribland	laarin	None
 därifrån	ibẹ	Nan
 därigenom	nitorina	Nan
 därmed	nitorina	Nan
-därpå	lori rẹ	Nan
+därpå	rẹ	None
 därtill	nitorinaa	Nan
 därutöver	afikun	Nan
 därvid	nitorina	Nan
@@ -4902,7 +4902,7 @@ drog	oogun	Nan
 drogen	oogun	Nan
 droger	awọn oogun	Nan
 draperi	aṣọ-ikele	Nan
-dödsstraffet	idajo iku	Nan
+dödsstraffet	iku	None
 dramer	awọn fiimu	Nan
 dramatiska	ìgbésẹ	Nan
 downs	si isalẹ	Nan
@@ -4919,7 +4919,7 @@ dragit	fẹran	Nan
 drama	eré	Nan
 dramat	eré	Nan
 dramaten	ibamu	Nan
-dramatiker	agba bọọlu	Nan
+dramatiker	agba	None
 dramatiskt	bosipo	Nan
 djurgården	djurgården	Nan
 dök	imi	Nan
@@ -4954,8 +4954,8 @@ elektroner	elekitironi	Nan
 elektronik	ẹrọ itanna	Nan
 element	ano	Nan
 eleonora	eleonora	Nan
-elever	awọn ọmọ ile-iwe	Nan
-eleverna	awọn ọmọ ile-iwe	Nan
+elever	ọmọ	None
+eleverna	ọmọ	None
 elin	elin	Nan
 emo	emo	Nan
 eld	iná	Nan
@@ -4964,7 +4964,7 @@ en	ọkan	Nan
 engelsk	gẹẹsi	Nan
 engelska	gẹẹsi	Nan
 engelskan	gẹẹsi	Nan
-engelskans	ede gẹẹsi	Nan
+engelskans	ede	None
 engelske	gẹẹsi	Nan
 engelskspråkiga	gẹẹsi	Nan
 engels	awọn olukọni	Nan
@@ -5051,7 +5051,7 @@ ekonomisk	aje	None
 ekonomiska	aje	None
 ekonomiskt	ti ọrọ-aje	Nan
 egyptiska	ara egipti	Nan
-dömande	ti ofin	Nan
+dömande	ofin	None
 egyptens	íjíbítì	Nan
 egna	tirẹ	Nan
 efternamn	orukọ idile	Nan
@@ -5059,7 +5059,7 @@ eftersom	niwon	Nan
 efterträdare	agbapo	Nan
 efterträddes	ṣaṣeyọri	Nan
 eftervärlden	iran iran	Nan
-efteråt	lẹyìn náà	Nan
+efteråt	náà	None
 egen	tirẹ	Nan
 egendom	ohun-ini	Nan
 egenskap	ohun-ini	Nan
@@ -5081,7 +5081,7 @@ dagliga	ojoojumo	Nan
 dagligen	ojoojumọ	Nan
 dagars	ọjọ	Nan
 dagligt	ojoojumo	Nan
-dagsläget	ipo akoko	Nan
+dagsläget	ipo	None
 dahlén	dahlén	Nan
 dahléns	dahlén	Nan
 dalar	afonifoji	Nan
@@ -5133,8 +5133,8 @@ danmarks	egeskov	Nan
 danny	dani	None
 dans	jó	Nan
 dansk	dane	Nan
-danska	ede danish	Nan
-danske	ede danish	Nan
+danska	ede	None
+danske	ede	None
 dark	dudu	Nan
 darwin	darwin	Nan
 darwins	darwin	Nan
@@ -5157,7 +5157,7 @@ chans	aye	Nan
 chelsea	chelsea	Nan
 chicago	chicago	Nan
 chile	chile	Nan
-chiles	ede chile	Nan
+chiles	ede	None
 chili	chili	Nan
 choice	yiyan	Nan
 choklad	ologbo	Nan
@@ -5187,7 +5187,7 @@ christian	kristiẹni	Nan
 cobain	cobain	Nan
 cocacola	coca-cola	Nan
 cohen	cohen	Nan
-coldplay	ẹrọ otutu	Nan
+coldplay	otutu	None
 colin	colin	Nan
 colombia	ilu columbia	Nan
 colombo	colombo	Nan
@@ -5227,7 +5227,7 @@ dianno	dianno	Nan
 dickens	dickens	Nan
 dickinson	dickinson	Nan
 diego	kú	Nan
-digerdöden	black iku	Nan
+digerdöden	iku	None
 diameter	opin	Nan
 digital	oni-nọmba	Nan
 diktator	apanirun	Nan
@@ -5244,7 +5244,7 @@ det	awọn	Nan
 detalj	alaye	Nan
 detaljer	awọn alaye	Nan
 detroit	detroit	Nan
-detsamma	ikan na	Nan
+detsamma	ikan	None
 detta	eyi	Nan
 deuterium	deuterium	Nan
 development	idagbasoke	None
@@ -5261,7 +5261,7 @@ dinosaurier	dinosaurs	Nan
 dinosaurierna	dinosaurs	Nan
 distrikt	agbegbe	Nan
 distriktet	agbegbe	Nan
-dit	ní bẹ	Nan
+dit	ní	None
 ditt	rẹ	None
 dittills	titi di asiko yii	Nan
 diverse	oniruru	Nan
@@ -5270,7 +5270,7 @@ divisionen	pipin	Nan
 dj	dj	Nan
 djup	ijinle	Nan
 djupa	jinjin	Nan
-djupare	ko wole si	Nan
+djupare	wole	None
 djupt	jinjin	Nan
 djur	ẹranko	Nan
 djurarter	eya	None
@@ -5328,7 +5328,7 @@ deklarerade	ṣalaye	Nan
 del	apakan	Nan
 dela	pin	Nan
 delad	pin	Nan
-delade	apa kan	Nan
+delade	kan	None
 delades	funni	Nan
 deltagit	lọ	Nan
 deltar	apakan	Nan
@@ -5418,7 +5418,7 @@ fortsättningen	tẹsiwaju	Nan
 fortsatt	tesiwaju	Nan
 forum	apejọ	Nan
 fossila	fosaili	Nan
-foster	ọmọ inu oyun	Nan
+foster	ọmọ	None
 fot	ẹsẹ	None
 fotbeklädnad	aṣọ atẹsẹ	Nan
 fotboll	bọọlu	Nan
@@ -5452,7 +5452,7 @@ flagga	asia	Nan
 flaggan	asia	Nan
 flaggor	awọn asia	Nan
 flames	awọn ina	Nan
-fjädrar	orisun omi	Nan
+fjädrar	omi	None
 flamländska	flemish	Nan
 fler	diẹ sii	Nan
 flera	lọpọlọpọ	Nan
@@ -5460,7 +5460,7 @@ flertal	lọpọlọpọ	Nan
 flertalet	julọ	Nan
 flest	julọ	Nan
 flesta	julọ	Nan
-flandern	awọn ara ilẹ abulẹ	Nan
+flandern	ilẹ	None
 fjorton	mẹrinla	Nan
 fission	fesi	Nan
 fiske	ipeja	Nan
@@ -5468,8 +5468,8 @@ finna	wa	Nan
 finnas	jẹ	Nan
 finner	nwa	None
 finns	jẹ	Nan
-finsk	ede finisi	Nan
-finska	ede finisi	Nan
+finsk	ede	None
+finska	ede	None
 fira	ayeye	Nan
 firade	ṣe ayẹyẹ	Nan
 firades	ṣe ayẹyẹ	Nan
@@ -5484,9 +5484,9 @@ flickan	ọmọbinrin	Nan
 flickor	awon odomobirin	Nan
 flickvän	ọrẹbinrin	Nan
 flygplan	ọkọ ofurufu	Nan
-flygplats	papa ọkọ ofurufu	Nan
-flygplatsen	papa ọkọ ofurufu	Nan
-flygplatser	papa ọkọ ofurufu	Nan
+flygplats	papa	None
+flygplatsen	papa	None
+flygplatser	papa	None
 flygvapnet	ategun ategun	Nan
 flykt	sa asala	Nan
 flyktingar	asasala	Nan
@@ -5499,8 +5499,8 @@ flyttades	ṣí	Nan
 flyttar	gbe	None
 flyttas	ṣí	Nan
 flyger	fò	Nan
-fotbollslandslag	egbe bọọlu	Nan
-flygbolag	ile ise oko ofurufu	Nan
+fotbollslandslag	egbe	None
+flygbolag	oko	None
 flyga	fò	Nan
 flight	oṣuwọn	Nan
 flitigt	aisimi	Nan
@@ -5511,14 +5511,14 @@ floderna	odo	Nan
 flora	ododo	None
 florens	florence	Nan
 florida	ilu florida	Nan
-flotta	ọkọ oju-omi kekere	Nan
+flotta	kekere	None
 flottan	ọgagun	Nan
 floyd	floyd	Nan
 fly	sa asala	Nan
 flydde	sa asala	Nan
 flyg	ọkọ ofurufu	Nan
 flygande	fò	Nan
-finländska	ede finisi	Nan
+finländska	ede	None
 fotbollsspelare	ẹlẹsẹ ẹlẹsẹ	Nan
 fotnoter	awọn iwe afọwọkọ	Nan
 fråga	ibeere	Nan
@@ -5567,7 +5567,7 @@ fysik	fisiksi	Nan
 fyllde	kun	Nan
 fysikaliska	ti ara	Nan
 fysiologi	fisioloji	Nan
-fysiologiska	ti ẹkọ iwulo ẹya	Nan
+fysiologiska	iwulo	None
 fysisk	ti ara	Nan
 fysiska	ti ara	Nan
 fysiskt	nipa ti ara	Nan
@@ -5589,7 +5589,7 @@ funktioner	awọn iṣẹ	Nan
 funktionerna	awọn iṣẹ	Nan
 funnit	ri	Nan
 funnits	ri	Nan
-fursten	ọmọ alade	Nan
+fursten	ọmọ	None
 fusion	ifun	Nan
 fullständig	kun	Nan
 fristående	olominira	Nan
@@ -5598,15 +5598,15 @@ frisk	ni ilera	Nan
 framgångsrik	aṣeyọri	Nan
 framgångsrika	aṣeyọri	Nan
 framgångsrikt	ni ifijišẹ	Nan
-framgår	ko o	Nan
+framgår	ko	None
 framsteg	ilọsiwaju	Nan
 framställa	mu jade	Nan
 framgången	aṣeyọri	Nan
 framställning	gbóògì	Nan
 framstående	aridaju	Nan
-framtid	ojo iwaju	Nan
-framtida	ojo iwaju	Nan
-framtiden	ojo iwaju	Nan
+framtid	ojo	None
+framtida	ojo	None
+framtiden	ojo	None
 framträdande	oguna	Nan
 framträdanden	iṣe	Nan
 framställs	gbaradi	Nan
@@ -5680,7 +5680,7 @@ europarådet	igbimo ti yuroopu	Nan
 européerna	ara ilu yuroopu	Nan
 eus	eu	Nan
 eva	eva	Nan
-evangelierna	awọn ihinrere	Nan
+evangelierna	ihinrere	None
 evangeliska	ihinrere	None
 evans	evans	Nan
 evenemang	ìṣẹlẹ	Nan
@@ -5702,7 +5702,7 @@ etymologi	ẹkọ ẹkọ ẹkọ	Nan
 eu	eu	Nan
 euro	euro	None
 euron	euro	None
-euroområdet	agbegbe euro	Nan
+euroområdet	euro	None
 eventuell	iṣẹlẹ	Nan
 etik	iwa	Nan
 eventuella	eyikeyi	Nan
@@ -5715,13 +5715,13 @@ expandera	faagun	Nan
 expansion	imugboroosi	Nan
 existerade	wa	Nan
 expansionen	imugboroosi	Nan
-expeditionen	irin ajo	Nan
-expeditioner	awọn irin ajo	Nan
+expeditionen	ajo	None
+expeditioner	ajo	None
 experiment	ṣàdánwò	Nan
 experimenterade	ṣàdánwò	Nan
 experter	awọn amoye	Nan
 explosionen	gbuuru	Nan
-expedition	irin ajo	Nan
+expedition	ajo	None
 existera	wa	Nan
 existensen	iwalaaye	Nan
 existens	iwalaaye	Nan
@@ -5791,9 +5791,9 @@ erövringen	iṣẹgun	Nan
 estetik	adani	Nan
 estetiska	darapupo	Nan
 estland	estonia	Nan
-estniska	ede estonia	Nan
+estniska	ede	None
 et	àti	Nan
-etablera	fi idi mulẹ	Nan
+etablera	fi	None
 etablerad	mulẹ	Nan
 etablerade	julọ	Nan
 ersättning	rirọpo	Nan
@@ -5845,10 +5845,10 @@ federal	federal	Nan
 federala	federal	Nan
 federation	federation	Nan
 federationen	igbimọ	Nan
-fel	ti ko tọ	Nan
+fel	ko	None
 felaktig	aiṣe-deede	Nan
 felaktiga	aṣiṣe	Nan
-felaktigt	ti ko tọ	Nan
+felaktigt	ko	None
 felix	felix	Nan
 fem	marun	Nan
 feminism	abo	None
@@ -5860,8 +5860,8 @@ filosofer	onimoye	Nan
 filosofi	imoye	Nan
 filosofin	imoye	Nan
 filosofins	imoye	Nan
-filosofisk	ogbon ori	Nan
-filosofiska	ogbon ori	Nan
+filosofisk	ori	None
+filosofiska	ori	None
 fina	dara	Nan
 final	ik	Nan
 finalen	ipari	Nan
@@ -5926,12 +5926,12 @@ fader	bàbá	None
 fadern	baba	Nan
 faderns	baba	Nan
 fagocyt	phagocyte	Nan
-fakta	awọn ododo	Nan
+fakta	ododo	None
 familjerna	awọn idile	Nan
 fan	gbaga	Nan
 fann	ri	Nan
 fanns	wà	Nan
-faser	awọn ipele	Nan
+faser	ipele	None
 fast	ti o wa titi	Nan
 fasta	líle	Nan
 fastigheter	ile ati ile tita	Nan
@@ -5955,7 +5955,7 @@ fansen	egeb onijakidijagan	Nan
 far	bàbá	None
 fara	ijamba	Nan
 farbror	aburo	Nan
-farfar	baba agba	Nan
+farfar	agba	None
 farlig	lewu	Nan
 farliga	lewu	Nan
 farligt	lewu	Nan
@@ -5970,7 +5970,7 @@ fältet	pápá	Nan
 celler	ẹyin	Nan
 cellen	sẹẹli	Nan
 arvid	arvid	Nan
-asiatiska	ara ilu esia	Nan
+asiatiska	esia	None
 asien	esia	None
 aspekt	abala	None
 aspekter	awọn ẹya	Nan
@@ -5998,8 +5998,8 @@ arterna	eya	None
 arternas	eya	None
 arthur	arthur	Nan
 artikel	nkan	None
-artikeln	nkan naa	Nan
-artiklar	awọn nkan	Nan
+artikeln	nkan	None
+artiklar	nkan	None
 artist	olorin	Nan
 artisten	olorin	Nan
 astronomer	aworawo	Nan
@@ -6029,7 +6029,7 @@ ateist	alaigbagbọ	Nan
 ateister	alaigbagbọ	Nan
 aten	gbogbogbo	None
 atlanta	atlanta	Nan
-atlanten	ede atlantic	Nan
+atlanten	ede	None
 atlas	atlas	Nan
 atmosfär	bugbamu	Nan
 atmosfären	bugbamu	Nan
@@ -6040,21 +6040,21 @@ atomer	awọn ọta	Nan
 atomkärnor	ìgbó	Nan
 att	sí	Nan
 astronomin	aworawo	Nan
-arméns	ọmọ ogun	Nan
-armén	ọmọ ogun	Nan
-arméerna	ọmọ ogun	Nan
+arméns	ogun	None
+armén	ogun	None
+arméerna	ogun	None
 använt	ti lo	Nan
 använts	ti lo	Nan
 apartheid	eleyameya	Nan
 apollo	apollo	Nan
-april	oṣu kẹrin	Nan
+april	kẹrin	None
 ar	jẹ	Nan
 används	ti lo	Nan
 arab	arabawa	Nan
 araber	arabawa	Nan
 araberna	awọn ara larubawa	Nan
 arabisk	arabawa	Nan
-arabiska	dè lárúbáwá	Nan
+arabiska	lárúbáwá	None
 arabvärlden	arabawa	Nan
 arbeta	iṣẹ	Nan
 arabemiraten	uae	Nan
@@ -6092,9 +6092,9 @@ arm	apa	Nan
 armar	awọn ọwọ	Nan
 armenien	armenia	Nan
 armeniska	armenia	Nan
-army	ọmọ ogun	Nan
-armé	ọmọ ogun	Nan
-arméer	ọmọ ogun	Nan
+army	ogun	None
+armé	ogun	None
+arméer	ogun	None
 aristoteles	aristotle	Nan
 autonomi	ijọba ara ẹni	Nan
 aristokratin	ọlaju	Nan
@@ -6118,13 +6118,13 @@ argument	ariyanjiyan	Nan
 antogs	gba	None
 av	ti	Nan
 avancerad	ti ni ilọsiwaju	Nan
-bandmedlemmarna	omo egbe	Nan
+bandmedlemmarna	egbe	None
 bank	bank	Nan
 banker	bèbe	Nan
 banor	awọn ọna	Nan
 baptism	baptisti	Nan
 bar	pẹpẹ	Nan
-bandmedlemmar	omo egbe	Nan
+bandmedlemmar	egbe	None
 bara	nikan	Nan
 barbro	barbro	Nan
 barcelona	ilu barcelona	Nan
@@ -6138,7 +6138,7 @@ bandet	ẹgbẹ	Nan
 banden	igbohunsafefe	Nan
 bakgrund	lẹhin	Nan
 bakom	sile	None
-bakterier	awọn kokoro arun	Nan
+bakterier	arun	None
 bakåt	sẹhin	Nan
 balans	iwontunws.funfun	Nan
 balansen	iwontunws.funfun	Nan
@@ -6149,7 +6149,7 @@ baltimore	baltimore	Nan
 baltiska	baliki	Nan
 bana	ọnà	Nan
 banan	ogede	Nan
-banbrytande	aṣáájú ọ̀nà	Nan
+banbrytande	ọ̀nà	None
 band	ẹgbẹ	Nan
 barnet	ọmọ	None
 baker	beki	Nan
@@ -6205,9 +6205,9 @@ avseenden	ọwọ	Nan
 avser	tọka	Nan
 avses	tọka	Nan
 avsett	ti a pinnu	Nan
-avsevärt	ni riro	Nan
+avsevärt	riro	None
 avsedda	ti a pinnu	Nan
-avlägsna	yọ kuro	Nan
+avlägsna	yọ	None
 avlidna	kú	Nan
 avlidit	kú	Nan
 avancerade	fafa	Nan
@@ -6216,13 +6216,13 @@ avbryta	fagile	None
 avbröts	paarẹ	Nan
 avel	ajọbi	Nan
 avfall	egbin	Nan
-avgick	fi ipo silẹ	Nan
-avgå	fi ipo han	Nan
+avgick	ipo	None
+avgå	ipo	None
 avgör	ipinnu	Nan
 avgöra	pinnu	Nan
 avgörande	pataki	Nan
 avgörs	pinnu	Nan
-avhandling	iwe ilana	Nan
+avhandling	ilana	None
 avkomma	ọmọ	None
 avled	kú	Nan
 avsikt	ero	Nan
@@ -6247,7 +6247,7 @@ bagge	àgbo	Nan
 avtalet	àdéhùn	Nan
 avalanche	avalanche	Nan
 avtal	àdéhùn	Nan
-avsätta	gbe segbe	Nan
+avsätta	gbe	None
 avskaffades	paarẹ	Nan
 avskaffande	iparun	Nan
 avskaffandet	imukuro	Nan
@@ -6256,11 +6256,11 @@ avslutade	ti pari	Nan
 avslutades	pari	Nan
 avslutas	pari	Nan
 avslutat	ti pari	Nan
-avslöjade	fi han	Nan
+avslöjade	fi	None
 avsnitt	isele	Nan
 avsnitten	awọn apakan	Nan
 avsnittet	apakan	Nan
-avstå	yago fun	Nan
+avstå	fun	None
 avstånd	jinna	Nan
 avståndet	jinna	Nan
 avsåg	ti o ni ibatan	Nan
@@ -6316,8 +6316,8 @@ alltmer	pọ si	Nan
 alltsedan	niwon	Nan
 alltså	ninu awọn ọrọ miiran	Nan
 allvar	isẹ	Nan
-allvarlig	to ṣe pataki	Nan
-allvarliga	to ṣe pataki	Nan
+allvarlig	to	None
+allvarliga	to	None
 alltjämt	tun	Nan
 allmänna	gbogboogbo	Nan
 allmänheten	ita	Nan
@@ -6371,7 +6371,7 @@ absint	aironu	Nan
 absolut	egba	None
 absoluta	idi	Nan
 absolution	idaṣẹ	Nan
-absorberas	o gba	Nan
+absorberas	gba	None
 abstrakta	áljẹbrà	Nan
 abu	abu	Nan
 administrativa	isakoso	Nan
@@ -6385,7 +6385,7 @@ ahmed	ahmed	Nan
 aids	eedi	Nan
 aik	-alk	Nan
 airlines	awọn ọkọ ofurufu	Nan
-airport	papa ọkọ ofurufu	Nan
+airport	papa	None
 ajax	ajax	Nan
 akademi	ile-iwe giga	Nan
 akademien	ile-iwe giga	Nan
@@ -6410,7 +6410,7 @@ afrikanska	ara ilu afirika	Nan
 afrikas	afirika	Nan
 afrodite	afrodite	Nan
 aftonbladet	cnn	Nan
-age	ọjọ ori	Nan
+age	ori	None
 agent	aṣoju	Nan
 agerande	ihuwasi	Nan
 alperna	alẹ	Nan
@@ -6425,7 +6425,7 @@ anordnas	pese	Nan
 annat	omiiran	Nan
 anorektiker	awọn aarọ	Nan
 another	omiiran	Nan
-anpassa	orisirisi si	Nan
+anpassa	orisirisi	None
 anpassade	ti adani	Nan
 anpassat	fara	Nan
 anpassning	aṣamubadọgba	Nan
@@ -6441,7 +6441,7 @@ anklagats	onimo	Nan
 anklagelser	ẹsùn	Nan
 anknytning	ìbáṣepọ	Nan
 ankomst	dide	Nan
-anlades	ni a gbe	Nan
+anlades	gbe	None
 anledning	idi	Nan
 anledningar	awọn idi	Nan
 anledningarna	awọn idi	Nan
@@ -6646,7 +6646,7 @@ blue	bulu	Nan
 blues	awọn blues	Nan
 bly	darí	Nan
 bläckpenna	ikọwe	Nan
-blommor	awọn ododo	Nan
+blommor	ododo	None
 blå	bulu	Nan
 blått	bulu	Nan
 blåvitt	bulu-funfun	Nan
@@ -6665,7 +6665,7 @@ blev	di	Nan
 bli	di	Nan
 blind	afoju	Nan
 blir	gba	None
-blivande	ojo iwaju	Nan
+blivande	ojo	None
 blivit	ti	Nan
 block	dina	Nan
 blod	ẹjẹ	Nan
@@ -6716,9 +6716,9 @@ blandas	commingle	Nan
 bruk	lo	Nan
 brukar	nigbagbogbo	Nan
 bål	ẹhin mọto	Nan
-båt	ọkọ oju-omi kekere	Nan
-båtar	ọkọ oju-omi kekere	Nan
-båten	ọkọ oju-omi kekere	Nan
+båt	kekere	None
+båtar	kekere	None
+båten	kekere	None
 böcker	awọn iwe	Nan
 böckerna	awọn iwe	Nan
 både	mejeeji	Nan
@@ -6846,7 +6846,7 @@ brukade	ti lo	Nan
 bygga	kọ	Nan
 by	abule	Nan
 bulgariens	bulgaria	Nan
-bulgariska	ede bulgaria	Nan
+bulgariska	ede	None
 bundna	adehun	Nan
 bunny	eyan oyinbo	Nan
 burj	burj	Nan
@@ -6872,9 +6872,9 @@ bergmans	bergman	Nan
 bergqvist	bergqvist	Nan
 bergarter	awọn apata	Nan
 bergskedjan	awọn oke-nla	Nan
-berlin	ilu berlin	Nan
-berlinmuren	ilu berlin	Nan
-berlins	ilu berlin	Nan
+berlin	berlin	None
+berlinmuren	berlin	None
+berlins	berlin	None
 bernadotte	bernadotte	Nan
 bernhard	bernhard	Nan
 bero	gbarale	Nan
@@ -6926,10 +6926,10 @@ beräknar	awọn iṣiro	Nan
 beräknas	iṣiro	Nan
 beräkningar	awọn iṣiro	Nan
 berätta	sọ	None
-berättade	so fun	Nan
-berättar	wí pé	Nan
-berättas	so fun	Nan
-berättat	so fun	Nan
+berättade	fun	None
+berättar	pé	None
+berättas	fun	None
+berättat	fun	None
 berättelse	itan	Nan
 berättelsen	itan	Nan
 berättelser	awọn itan	Nan
@@ -6945,9 +6945,9 @@ begrepp	erongba	Nan
 begreppen	awọn erongba	Nan
 begreppet	awọn erongba	Nan
 begick	ti ṣe	Nan
-begränsa	iye to	Nan
+begränsa	to	None
 begränsade	lopin	Nan
-begränsar	iye to	Nan
+begränsar	to	None
 begränsas	ihamọ	Nan
 begränsat	ihamọ	Nan
 begränsningar	awọn idiwọn	Nan
@@ -6959,13 +6959,13 @@ befälet	pipaṣẹ	Nan
 befinner	jẹ	Nan
 befintliga	wa	Nan
 befogenhet	aṣẹ	Nan
-befogenheter	awọn agbara	Nan
-befolkade	gbe jade	Nan
+befogenheter	agbara	None
+befolkade	gbe	None
 befolkning	olugbe	Nan
 befolkningen	olugbe	Nan
 befolkningens	olugbe	Nan
-befolkningstillväxt	idagbasoke olugbe	Nan
-befolkningstillväxten	idagbasoke olugbe	Nan
+befolkningstillväxt	idagbasoke	None
+befolkningstillväxten	idagbasoke	None
 befolkningstäthet	iwuwo olugbe	Nan
 befolkningstätheten	iwuwo olugbe	Nan
 befolkningsutveckling	awọn ẹkọ nipa ẹkọ eniyan	Nan
@@ -7043,7 +7043,7 @@ bidragande	ilowosi	Nan
 bidragen	idapada	Nan
 bidraget	ere	Nan
 bidragit	tiwon	Nan
-bidrar	egba mi o	Nan
+bidrar	egba	None
 bidrog	tiwon	Nan
 big	nla	Nan
 bilen	ọkọ ayọkẹlẹ	Nan
@@ -7103,7 +7103,7 @@ besökt	ṣabẹwo	Nan
 besökte	ṣàbẹwò	Nan
 bet	bit	Nan
 besök	ṣàbẹwò	Nan
-bestämmelser	awọn ilana	Nan
+bestämmelser	ilana	None
 bestämma	pinnu	Nan
 bestämdes	pinnu	Nan
 beskyddare	alabojuto	Nan
@@ -7132,7 +7132,7 @@ betydelsefulla	pataki	Nan
 betydelsen	itumo	None
 betydelser	itumo	None
 betyder	tumọ	Nan
-betydligt	ni riro	Nan
+betydligt	riro	None
 betyg	ite	Nan
 bevara	se itoju	Nan
 bevarad	ni ifipamọ	Nan
@@ -7141,7 +7141,7 @@ bevaras	ni ifipamọ	Nan
 bevarat	ni ifipamọ	Nan
 bevarats	ni ifipamọ	Nan
 betydande	akude	Nan
-bevisa	fi mule	Nan
+bevisa	fi	None
 betyda	tumọ	Nan
 betraktas	ṣakiyesi	Nan
 betalt	idiyele	Nan
@@ -7165,18 +7165,18 @@ fälttåg	ipolongo	Nan
 fängelsestraff	ẹwọn	Nan
 karta	maapu	None
 kartan	maapu	None
-kartor	awọn maapu	Nan
+kartor	maapu	None
 kaspiska	ara ilu caspini	Nan
 kasta	jabọ	Nan
 kastar	gège	Nan
 karriären	iṣẹ	Nan
-katalanska	ede catalan	Nan
+katalanska	ede	None
 katastrofen	ajalu	Nan
 katastrofer	ajalu	Nan
 kate	kate	Nan
 kategori	ẹka	Nan
-kategoriasiens	ẹka esia	Nan
-kategoribrittiska	ẹka britain	Nan
+kategoriasiens	esia	None
+kategoribrittiska	britain	None
 katalonien	katalonia	Nan
 karriär	iṣẹ	Nan
 karolinska	karolinska	Nan
@@ -7218,9 +7218,9 @@ kedjor	ẹwọn	Nan
 katolsk	ẹlẹsin katoliki	Nan
 katoliker	ẹlẹsin katoliki	Nan
 katolicismen	ẹlẹsin katoliki	Nan
-kategorikrigsåret	ogun odun ogun	Nan
+kategorikrigsåret	ogun	None
 kategorikvinnor	obinrin ẹka	Nan
-kategoriledamöter	awọn ọmọ ẹgbẹ	Nan
+kategoriledamöter	ọmọ	None
 kategorimusik	orin ẹka	Nan
 kategorimän	kategorimän	Nan
 kategorin	ẹka	Nan
@@ -7281,8 +7281,8 @@ kandidat	oludije	Nan
 kandidater	oludije	Nan
 kanske	boya	Nan
 kant	eti	Nan
-kantoner	awọn ilu kekere	Nan
-kantonerna	awọn ilu kekere	Nan
+kantoner	kekere	None
+kantonerna	kekere	None
 kaos	rudurudu	Nan
 kap	cape	None
 kapacitet	agbara	None
@@ -7395,11 +7395,11 @@ kiss	fẹnuko	Nan
 kinas	kinikan	Nan
 kjell	kjell	Nan
 klan	idile	Nan
-klar	ko o	Nan
+klar	ko	None
 klara	ṣe	Nan
 klarade	koja	Nan
 klarar	rekoja	Nan
-klart	ko o	Nan
+klart	ko	None
 kl	ni	Nan
 kina	kinikan	Nan
 kim	kim	Nan
@@ -7415,7 +7415,7 @@ kent	ewọ	Nan
 kenya	kenya	Nan
 keramik	awọn ohun elo amọ	Nan
 kevin	kevin	Nan
-kids	awọn ọmọ wẹwẹ	Nan
+kids	ọmọ	None
 kiev	kiev	Nan
 kill	pa	Nan
 kille	eniyan	Nan
@@ -7460,7 +7460,7 @@ klockan	agogo	Nan
 kloster	monastery	Nan
 juventus	juventus	Nan
 justice	idajo	None
-just	o kan	Nan
+just	kan	None
 intresset	iwulo	None
 introducerade	ṣafihan	Nan
 introducerades	ṣafihan	Nan
@@ -7489,9 +7489,9 @@ interstellära	alakọja	Nan
 intervju	ifọrọwanilẹnuwo	Nan
 intervjuer	ifọrọwanilẹnuwo	Nan
 intet	rárá	Nan
-intill	ti o tele	Nan
+intill	tele	None
 intog	mu	Nan
-intogs	ti gba ingest	Nan
+intogs	gba	None
 intressant	awon	Nan
 intressanta	ifigagbaga	Nan
 invandrade	aṣikiri	Nan
@@ -7507,8 +7507,8 @@ islamisk	islamu	Nan
 isberg	yinyin	Nan
 islamiska	islamu	Nan
 islams	islam	Nan
-island	ede iceland	Nan
-isländska	ede icelandic	Nan
+island	iceland	None
+isländska	ede	None
 iso	ipin	None
 isolerad	ti ya sọtọ	Nan
 isolerade	ti ya sọtọ	Nan
@@ -7527,7 +7527,7 @@ inåt	ninu	Nan
 ip	ip	Nan
 irak	iraaki	Nan
 irakiska	ara ilu iraaki	Nan
-irakkriget	ogun iraq	Nan
+irakkriget	ogun	None
 iraks	iraaki	Nan
 iran	iran	Nan
 irans	trans	Nan
@@ -7571,11 +7571,11 @@ innebörden	itumo	None
 inriktning	titete	Nan
 inriktningar	amọja	Nan
 inrättades	sókè	Nan
-insats	fi sii	Nan
+insats	fi	None
 institutet	ilé-ìwé	Nan
 institutioner	awọn ile-iṣẹ	Nan
 institutionerna	awọn ile-iṣẹ	Nan
-instruktioner	awọn ilana	Nan
+instruktioner	ilana	None
 instrument	irinse	Nan
 inställning	iwa	Nan
 insulin	hisulini	Nan
@@ -7609,7 +7609,7 @@ inspirerat	atilẹyin	Nan
 installera	fi	None
 isotoper	isotopes	Nan
 israel	israeli	Nan
-israelisk	ọmọ israel	Nan
+israelisk	ọmọ	None
 jordbävning	ìṣẹlẹ	Nan
 jordbävningar	awọn iwariri-ilẹ	Nan
 jordbävningen	ìṣẹlẹ	Nan
@@ -7651,7 +7651,7 @@ julia	julia	Nan
 julian	julian	Nan
 julie	julie	Nan
 julius	julius	Nan
-juni	oṣu karun	Nan
+juni	karun	None
 junior	junior	Nan
 jupiter	jupita	Nan
 jupiters	jupita	Nan
@@ -7703,7 +7703,7 @@ jakob	jakobu	Nan
 jackie	jackie	Nan
 jack	jaketi	Nan
 ja	bẹẹni	Nan
-israeliska	ọmọ israel	Nan
+israeliska	ọmọ	None
 israels	israeli	Nan
 istanbul	ilu istanbul	Nan
 istiden	ọdun yinyin	Nan
@@ -7762,7 +7762,7 @@ kommunisterna	komunisonu	Nan
 kommunistiska	communist	Nan
 landskapet	ala-ilẹ	Nan
 landskommun	landkommun	Nan
-landslag	egbe orile-ede	Nan
+landslag	egbe	None
 landslaget	bọọlu	Nan
 landsting	county	Nan
 lanka	lanka	None
@@ -7784,7 +7784,7 @@ lagring	ibi ipamọ	Nan
 lagstiftande	isofin	Nan
 lagstiftning	ofin	None
 lagstiftningen	ofin	None
-lagt	fi kun	Nan
+lagt	fi	None
 lagts	firanṣẹ	Nan
 laila	laila	Nan
 lake	adagun	Nan
@@ -7815,12 +7815,12 @@ ledning	iṣakoso	Nan
 ledaren	oludari	Nan
 ledare	oludari	Nan
 ledande	yori	None
-latin	ede latini	Nan
-latinamerika	latin amerika	Nan
+latin	latini	None
+latinamerika	amerika	None
 latinamerikanska	hisipaniki	Nan
-latinet	ede latini	Nan
-latinets	ede latini	Nan
-latinska	ede latini	Nan
+latinet	latini	None
+latinets	latini	None
+latinska	latini	None
 laura	laura	Nan
 lava	lava	Nan
 lawrence	lawrence	Nan
@@ -7828,9 +7828,9 @@ le	rẹrin	Nan
 led	ojuami	Nan
 leda	darí	Nan
 ledamot	aṣoju	Nan
-ledamöter	ọmọ ẹgbẹ	Nan
-ledamöterna	ọmọ ẹgbẹ	Nan
-lastbilar	oko nla	Nan
+ledamöter	ọmọ	None
+ledamöterna	ọmọ	None
+lastbilar	oko	None
 lagets	ẹgbẹ	Nan
 laget	egbe	None
 lagerlöf	lagerlöf	Nan
@@ -7861,9 +7861,9 @@ kyrkorna	awọn ile ijọsin	Nan
 kyros	kyro	Nan
 källa	orisun	None
 källan	orisun	None
-källkod	orisun koodu	Nan
-källor	awọn orisun	Nan
-källorna	awọn orisun	Nan
+källkod	orisun	None
+källor	orisun	None
+källorna	orisun	None
 kämpa	ja	Nan
 känd	mọ	Nan
 kända	mọ	Nan
@@ -7875,14 +7875,14 @@ l	l	Nan
 la	la	Nan
 laboratorium	yàrá	Nan
 ladda	ẹru	Nan
-laddade	gba agbara	Nan
+laddade	agbara	None
 laddning	idiyele	Nan
-lade	fi kun	Nan
+lade	fi	None
 lades	pin	Nan
 ladin	laden	Nan
 lag	ofin	None
-lagar	awọn ofin	Nan
-lagarna	awọn ofin	Nan
+lagar	ofin	None
+lagarna	ofin	None
 lagen	ìṣe	Nan
 lager	ọja	Nan
 lagerkvist	lagerkvist	Nan
@@ -7923,8 +7923,8 @@ livet	igbesi aye	Nan
 livets	igbesi aye	Nan
 livslängd	igba aye	Nan
 livsmedel	oúnjẹ	None
-livealbum	awo awo	Nan
-lite	kekere die	Nan
+livealbum	awo	None
+lite	kekere	None
 litauen	lithuania	Nan
 listorna	awọn akojọ aṣayan	Nan
 linjer	awọn ila	Nan
@@ -8014,7 +8014,7 @@ leonard	adẹtẹ	Nan
 leonardo	leonardo	Nan
 leopold	leopold	Nan
 les	les	Nan
-let	jẹ ki	Nan
+let	ki	None
 leta	wo	Nan
 liberalism	ominira	Nan
 liberalismen	ominira	Nan
@@ -8101,7 +8101,7 @@ kostade	iye owo	Nan
 kostar	awọn idiyele	Nan
 kostnaden	idiyele	Nan
 kostnader	awọn idiyele	Nan
-kosmiska	agba ara	Nan
+kosmiska	agba	None
 kostnaderna	awọn idiyele	Nan
 kr	wo	Nan
 kraft	ipa	Nan
@@ -8119,7 +8119,7 @@ kopplingen	ikopa	Nan
 koprolali	coprolalia	Nan
 koranen	kuran	Nan
 korea	korea	Nan
-koreakriget	ogun korea	Nan
+koreakriget	ogun	None
 koreanska	ara ilu korea	Nan
 korn	ọkà	Nan
 korrekt	o ti tọ	Nan
@@ -8129,14 +8129,14 @@ korruptionsindex	ibaje atọka	Nan
 kors	rekọja	Nan
 korset	rekọja	Nan
 kopplas	pelu	Nan
-kontakten	kan si	Nan
-kontaktade	kan si	Nan
-kontakt	kan si	Nan
+kontakten	kan	None
+kontaktade	kan	None
+kontakt	kan	None
 konflikten	rogbodiyan	None
 konflikter	rogbodiyan	None
 kong	kọngi	Nan
 kongo	kongo	None
-kongokinshasa	kongo kinshasa	Nan
+kongokinshasa	kongo	None
 kongress	ile asofin ijoba	Nan
 konflikt	rogbodiyan	None
 kongressen	ile asofin ijoba	Nan
@@ -8177,7 +8177,7 @@ konstnären	olorin	Nan
 konstnärer	awọn oṣere	Nan
 konstnärlig	iṣẹ ọna	Nan
 konstnärliga	iṣẹ ọna	Nan
-konstruerade	ti won ko	Nan
+konstruerade	ko	None
 konstruktion	ikole	Nan
 konstverk	ise ona	Nan
 konsubstantiation	ifojusi	Nan
@@ -8268,7 +8268,7 @@ kurfursten	oludibo	Nan
 kuriosa	awọn iwariiri	Nan
 kurs	dajudaju	Nan
 kurt	kurt	Nan
-kusin	ọmọ ẹgbọn	Nan
+kusin	ọmọ	None
 kust	etikun	Nan
 kusten	etikun	Nan
 kuster	àgbegbe	Nan
@@ -8279,7 +8279,7 @@ kvadratkilometer	onigun mẹrin	Nan
 kvalificerade	iyege	Nan
 kvalitet	didara	Nan
 kvarstod	ku	None
-kommunistisk	ọmọ ẹgbẹ ilu	Nan
+kommunistisk	ọmọ	None
 kub	kuubu	Nan
 krönika	akọọlẹ	Nan
 kriser	rogbodiyan	None
@@ -8313,7 +8313,7 @@ krigen	ogun	None
 kriget	ogun	None
 krigets	ogun	None
 krigsmakt	ologun	Nan
-krigsmakten	awọn ọmọ ogun	Nan
+krigsmakten	ogun	None
 krigsslutet	ogun	None
 kritik	ibaniwi	Nan
 kritiken	ibaniwi	Nan
@@ -8358,7 +8358,7 @@ fängelse	ẹwọn	Nan
 inledningen	ifihan	Nan
 inleder	berè	Nan
 georgier	georgian	Nan
-ger	yoo fun	Nan
+ger	fun	None
 germanska	jẹmánì	Nan
 ges	fifun	Nan
 gestalt	eeya	Nan
@@ -8367,9 +8367,9 @@ georgien	georgia	None
 gett	fifun	Nan
 gia	gia	Nan
 gick	lọ	Nan
-gift	ti ni iyawo	Nan
-gifta	ti ni iyawo	Nan
-gifte	ti ni iyawo	Nan
+gift	iyawo	None
+gifta	iyawo	None
+gifte	iyawo	None
 gifter	majele	Nan
 ghana	gánà	Nan
 georges	georges	Nan
@@ -8382,12 +8382,12 @@ genren	oriṣi	Nan
 genrer	awọn ẹya	Nan
 gentemot	lodi si	Nan
 genus	akọ	Nan
-geografi	ẹkọ nipa ilẹ	Nan
+geografi	ilẹ	None
 geografisk	àgbègbè	Nan
 geografiska	àgbègbè	Nan
 geografiskt	àgbègbè	Nan
-geologi	ẹkọ nipa ilẹ	Nan
-geologiska	ẹkọ nipa ilẹ	Nan
+geologi	ilẹ	None
+geologiska	ilẹ	None
 geologiskt	ẹkọ nipa ilẹ-aye	Nan
 geomorfologi	geomorphology	Nan
 giftermål	igbeyawo	None
@@ -8439,7 +8439,7 @@ gates	awọn ẹnubode	Nan
 gator	ita	Nan
 gary	gary	Nan
 gatorna	ita	Nan
-gavs	ni a fun	Nan
+gavs	fun	None
 gaza	gasa	Nan
 gazaremsan	gasa rinhoho	Nan
 ge	fifun	Nan
@@ -8493,8 +8493,8 @@ genen	ẹbun	Nan
 gener	jiini	Nan
 general	gbogbogbo	None
 generalen	gbogboogbo	Nan
-generalguvernören	gomina gbogbogbo	Nan
-generalsekreterare	akowe gbogbogbo	Nan
+generalguvernören	gbogbogbo	None
+generalsekreterare	gbogbogbo	None
 generation	iran	Nan
 generationen	iran	Nan
 generationer	iran	Nan
@@ -8506,23 +8506,23 @@ genetisk	jiini	Nan
 gaga	gaga	Nan
 god	o dara	Nan
 godkände	ti a fọwọsi	Nan
-gränsen	iye to	Nan
+gränsen	to	None
 gränser	awọn ifilelẹ lọ	Nan
 gränserna	ààlà	Nan
 gräs	koriko	Nan
 gräslök	chive	Nan
 grå	grẹy	Nan
 gränsar	ààlà	Nan
-grön	alawọ ewe	Nan
+grön	ewe	None
 grönland	gẹẹsi	Nan
 grönsaker	ẹfọ	Nan
-grönt	alawọ ewe	Nan
+grönt	ewe	None
 grönwall	grönwall	Nan
 guatemala	guatemala	Nan
 gud	ọlọrun	Nan
-gröna	alawọ ewe	Nan
-gräns	iye to	Nan
-gruppspelet	ipele egbe	Nan
+gröna	ewe	None
+gräns	to	None
+gruppspelet	egbe	None
 grupperna	awọn ẹgbẹ	Nan
 grundat	ipilẹ	Nan
 grunden	ipilẹ	Nan
@@ -8530,7 +8530,7 @@ grunder	awọn ipilẹ	Nan
 grundlag	t’olofin	Nan
 grundlagen	ofin	None
 grundläggande	ipilẹ	Nan
-grundskolan	ile iwe awon omode kekere	Nan
+grundskolan	kekere	None
 grundämne	ano	Nan
 grundämnen	awọn eroja	Nan
 grundämnet	ipilẹṣẹ	Nan
@@ -8554,9 +8554,9 @@ gymnasium	ibi idaraya	Nan
 gällande	lọwọlọwọ	Nan
 gällde	gbẹyin	Nan
 gäller	kan	None
-gäng	egbe onijagidijagan	Nan
-gänget	egbe onijagidijagan	Nan
-gärna	fi ayọ	Nan
+gäng	egbe	None
+gänget	egbe	None
+gärna	fi	None
 gälla	wulo	Nan
 gustafs	gustaf	Nan
 gustaf	gustaf	Nan
@@ -8591,7 +8591,7 @@ graham	graham	Nan
 grammis	giramu	Nan
 grammy	arẹmọ	Nan
 gran	firí	Nan
-grand	baba agba	Nan
+grand	agba	None
 grande	giga	Nan
 grannar	aladugbo	Nan
 grammatik	èdè grámà	Nan
@@ -8599,7 +8599,7 @@ gotlands	gotland	Nan
 gotland	gotland	Nan
 gotiska	gotik	Nan
 godkändes	ti a fọwọsi	Nan
-godkänna	fi ọwọ si	Nan
+godkänna	fi	None
 godkännande	ifọwọsi	Nan
 godkännas	ti a fọwọsi	Nan
 godkänt	ti a fọwọsi	Nan
@@ -8661,7 +8661,7 @@ fördragen	awọn adehun	Nan
 fördraget	adehun	Nan
 fördrevs	tii jade	Nan
 före	ṣaaju	Nan
-fördes	ti gbe	Nan
+fördes	gbe	None
 förebild	awokose	Nan
 föredrar	fẹran	Nan
 föredrog	fẹran	Nan
@@ -8701,7 +8701,7 @@ föreställningar	awọn iṣe	Nan
 förespråkar	onigbawi	Nan
 föreställningen	ṣafihan	Nan
 företagen	awọn ile-iṣẹ	Nan
-företaget	ni bayi	Nan
+företaget	bayi	None
 företagets	ile-iṣẹ	Nan
 företeelse	lasan	Nan
 företeelser	iyalẹnu	Nan
@@ -8764,7 +8764,7 @@ fäste	asomọ	Nan
 fästning	odi	Nan
 föddes	bi	Nan
 födelse	ibi	Nan
-födelsedag	ojo ibi	Nan
+födelsedag	ojo	None
 födelsetal	ibi	Nan
 för	fun	None
 föra	mu	Nan
@@ -8865,13 +8865,13 @@ förteckning	atokọ	Nan
 förtjust	ifẹ	Nan
 förtroende	gbekele	Nan
 förtryck	inilara	Nan
-förts	ti o ti gbe	Nan
+förts	gbe	None
 förut	ṣaaju	Nan
 förutom	ayafi	Nan
 förutsätter	nilo	Nan
 förutsättning	pese	Nan
-förutsättningar	awọn ipo	Nan
-förutsättningarna	awọn ipo	Nan
+förutsättningar	ipo	None
+förutsättningarna	ipo	None
 förvaltning	iṣakoso	Nan
 förvaras	ti o fipamọ	Nan
 förväntade	o ti ṣe yẹ	Nan
@@ -8891,11 +8891,11 @@ förklarat	se alaye	Nan
 förklaring	alaye	Nan
 förklaringar	awọn alaye	Nan
 förklaringen	alaye	Nan
-förknippad	ni nkan ṣe	Nan
-förknippade	ni nkan ṣe	Nan
+förknippad	nkan	None
+förknippade	nkan	None
 förklaras	se alaye	Nan
-förhållandena	awọn ipo	Nan
-förhållanden	awọn ipo	Nan
+förhållandena	ipo	None
+förhållanden	ipo	None
 förhållande	ibatan	Nan
 författarskap	onkọwe	Nan
 författning	t’olofin	Nan
@@ -8912,7 +8912,7 @@ förhindrar	ṣe idiwọ	Nan
 förhistoria	prehistory	Nan
 förhistorisk	prehistoric	Nan
 förhärskande	bori	Nan
-förknippas	ni nkan ṣe	Nan
+förknippas	nkan	None
 förkortas	kikuru	Nan
 förkortat	agekuru	Nan
 förkortning	kikuru	Nan
@@ -8985,7 +8985,7 @@ hålls	waye	Nan
 hår	irun	Nan
 hård	lile	Nan
 hårda	lile	Nan
-hårdare	gba gan	Nan
+hårdare	gba	None
 hårdast	nira julọ	Nan
 högste	olórí	Nan
 håkansson	håkansson	Nan
@@ -9007,10 +9007,10 @@ identisk	aami	Nan
 identitet	idanimọ	Nan
 ida	ida	Nan
 i	ninu	Nan
-hösten	igba irẹdanu ewe	Nan
+hösten	ewe	None
 höst	ṣubu	Nan
 högtryck	ga titẹ	Nan
-höja	gbe dide	Nan
+höja	gbe	None
 höjd	gíga	Nan
 höjder	giga	Nan
 höjdes	pọ si	Nan
@@ -9032,7 +9032,7 @@ huvudstaden	olú ìlú	Nan
 huvudstäder	olú	Nan
 huvudvärk	orififo	Nan
 huxley	huxley	Nan
-hyllade	bu iyin	Nan
+hyllade	bu	None
 hyllning	oriyin	Nan
 huvudstad	olu	Nan
 hypotes	idawọle	Nan
@@ -9041,7 +9041,7 @@ hyser	abo	None
 häcklöpning	àṣekára	Nan
 hälft	idaji	None
 hälften	idaji	None
-hällristning	akọọlẹ kekere	Nan
+hällristning	kekere	None
 hypotesen	idawọle	Nan
 huvudsakligen	o kun	Nan
 huvudsakliga	akọkọ	Nan
@@ -9054,7 +9054,7 @@ hussein	hussein	Nan
 hustru	iyawo	None
 hustrun	iyawo	None
 huvud	ori	None
-huvudartikel	nkan akọkọ	Nan
+huvudartikel	nkan	None
 huvuddelen	olopobobo naa	Nan
 huvudet	ori	None
 huvudkontor	ile olori ise patapata	Nan
@@ -9063,7 +9063,7 @@ huvudperson	oseere pataki	Nan
 huvudrollen	kikopa	Nan
 hälsa	ilera	Nan
 hämnd	ẹsan	Nan
-hämta	gba pada	Nan
+hämta	gba	None
 hämtade	gbaa lati ayelujara	Nan
 här	nibi	Nan
 härifrån	lati ibi	Nan
@@ -9085,7 +9085,7 @@ ideologi	arojinle	Nan
 hänvisar	tọka	Nan
 hänvisa	tọka	Nan
 hämtar	awọn igbapada	Nan
-hämtat	gba pada	Nan
+hämtat	gba	None
 hända	ṣẹlẹ	Nan
 hände	ṣẹlẹ	Nan
 händelse	ìṣẹlẹ	Nan
@@ -9113,7 +9113,7 @@ influenser	ipa	Nan
 informationen	alaye	Nan
 infrastrukturen	amayederun	Nan
 infödda	abinibi	Nan
-inför	niwaju ti	Nan
+inför	niwaju	None
 införa	ṣafihan	Nan
 införande	ifihan	Nan
 införandet	ifihan	Nan
@@ -9140,15 +9140,15 @@ införde	ṣafihan	Nan
 indonesien	indonesia	Nan
 infördes	ṣafihan	Nan
 införts	ṣafihan	Nan
-inkluderade	to wa	Nan
+inkluderade	to	None
 inkluderar	pẹlu	Nan
-inkluderas	to wa	Nan
+inkluderas	to	None
 inkluderat	pẹlu	Nan
 inklusive	pẹlu	Nan
 inkomst	owo oya	Nan
 initiativ	ipilẹṣẹ	Nan
 inkomster	owo oya	Nan
-inkomstkälla	orisun ti owo oya	Nan
+inkomstkälla	orisun	None
 inlandet	ìgbín	Nan
 inleda	pilẹṣẹ	Nan
 inledande	ni ibẹrẹ	Nan
@@ -9172,7 +9172,7 @@ ingripande	ilowosi	Nan
 ingvar	ingvar	Nan
 ingå	apakan	Nan
 ingående	igbewọle	Nan
-ingår	to wa	Nan
+ingår	to	None
 infört	ṣafihan	Nan
 indoeuropeiska	indo	Nan
 individuella	ẹnikọọkan	Nan
@@ -9239,14 +9239,14 @@ inblandad	lowo	Nan
 inblandade	lowo	Nan
 inblandning	ilowosi	Nan
 inbördes	pelu ara	Nan
-inbördeskrig	ogun abẹlé	Nan
-inbördeskriget	ogun abẹlé	Nan
+inbördeskrig	ogun	None
+inbördeskriget	ogun	None
 indelad	pin	Nan
 indelade	pin	Nan
 indelas	pin	Nan
 indelat	pin	Nan
 indelning	pipin	Nan
-indelningar	awọn ipin	Nan
+indelningar	ipin	None
 indelningen	pipin	Nan
 index	atọka	Nan
 huruvida	boya	Nan
@@ -9261,12 +9261,12 @@ havet	okun	Nan
 hastigt	yára	None
 havets	okun	Nan
 havskattfiskar	anarhichadidae	Nan
-havsnivån	ipele omi okun	Nan
+havsnivån	omi	None
 hawaii	hawaii	None
 hawking	yinyin	Nan
 hc	hc	Nan
 hdmi	hdmi	Nan
-havs	igba omi okun	Nan
+havs	omi	None
 hastighet	iyara	Nan
 hasch	haṣish	Nan
 harry	harry	Nan
@@ -9356,7 +9356,7 @@ gård	àgbàlá	Nan
 gården	oko	None
 gått	lọ	Nan
 gåva	fifẹ	Nan
-gör	mu ki	Nan
+gör	ki	None
 göra	ṣe	Nan
 göran	göran	Nan
 halland	halland	Nan
@@ -9378,7 +9378,7 @@ handelspartner	alabaṣiṣẹpọ iṣowo	Nan
 handen	ọwọ	Nan
 handla	iṣe	Nan
 handlade	wà	Nan
-hamnar	awọn ebute oko oju omi	Nan
+hamnar	omi	None
 hemlighet	aṣiri	Nan
 hamnade	pari	Nan
 hamn	ibudo	Nan
@@ -9421,9 +9421,9 @@ holland	gẹẹsi	Nan
 hockey	ẹlẹsẹ	Nan
 hiv	hiv	Nan
 hjalmar	hjalmar	Nan
-hjälp	egba mi o	Nan
-hjälpa	egba mi o	Nan
-hjälper	egba mi o	Nan
+hjälp	egba	None
+hjälpa	egba	None
+hjälper	egba	None
 hjälpmedel	iranlowo	Nan
 hjälpt	iranwo	Nan
 hjälpte	iranwo	Nan

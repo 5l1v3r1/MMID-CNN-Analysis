@@ -8,7 +8,7 @@ import PATHS
 import pickle
 
 # Path to the a pkl file that contains a matrix for a language
-MATRIX_PATH = PATHS.LANGUAGE_PACKAGES_PATH + "/{}/{}-features/{}.pkl"
+MATRIX_PATHS = [ path + "/{}/{}-features/{}.pkl" for path in PATHS.LANGUAGE_PACKAGES_PATHS]
 
 INDEX_PATHS = [path + "/{}/{}_path_index.tsv" for path in PATHS.LANGUAGE_PACKAGES_PATHS]
 
@@ -32,21 +32,21 @@ langcode2name = get_language_code_mapping()
 def get_matrix(file_number, language_code, lang_package):
     """ Retrieves matrix from pkl """
     lang_package = langcode2name[lang_package].lower()
-    lang = langcode2name[language_code]
-    lang = lang.strip().lower()
+    lang = langcode2name[language_code].strip().lower()
 
-    file_path = MATRIX_PATH.format(lang_package, lang, file_number)
+    for matrix_path in MATRIX_PATHS:
+        for lang_name in (lang, lang.title()):
 
-    if not os.path.isfile(file_path):
-        file_path = MATRIX_PATH.format(lang_package, lang.title(), file_number)
+            file_path = matrix_path.format(lang_package, lang_name, file_number)
+            if os.path.isfile(file_path):
+                with open(file_path, 'rb') as fid:
+                    obj = pickle.Unpickler(fid, encoding='latin-1').load()
 
-    if not os.path.isfile(file_path):
-        return None
+                return obj.toarray()
+    
+    return None
 
-    with open(file_path, 'rb') as fid:
-        obj = pickle.Unpickler(fid, encoding='latin-1').load()
-
-    return obj.toarray()
+    
 
 def get_cnn_index(language_code, lang_package):
     """ Gets mapping between language's words and file numbers """

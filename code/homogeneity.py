@@ -2,7 +2,7 @@ import os
 import numpy as np
 import csv
 from sklearn.cluster import k_means
-from sklearn.metrics.cluster import homogeneity_score, silhouette_score
+from sklearn.metrics.cluster import homogeneity_score
 from dictionary import get_foreign_to_foreign_dictionary, get_translation_dictionary
 from utils import *
 import sys
@@ -57,7 +57,7 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
         cnn_index1 = get_cnn_index(language_code1, language_code1) # foreign with foreign lang package
         cnn_index2 = get_cnn_index("en", language_code1) # en with foreign lang package
     else:
-        translation_d = get_foreign_to_foreign_dictionary(language_code1, language_code2) # foreignt to foreign
+        translation_d = get_foreign_to_foreign_dictionary(language_code1, language_code2) # foreign to foreign
         cnn_index1 = get_cnn_index(language_code1, language_code1) # foreign with foreign package
         cnn_index2 = get_cnn_index(language_code2, language_code2) # foreign with foreign package
 
@@ -88,6 +88,27 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
                     [lang1_word, lang2_word, None])
             continue
 
+        # If it is a phrase and not in cnn index break it down
+        if lang1_word not in cnn_index1 or lang2_word not in cnn_index2:
+
+            lang1_word_list = lang1_word.split()
+            lang2_word_list = lang2_word.split()
+
+            lang1_word_list.reverse()
+            lang2_word_list.reverse()
+
+            for word in lang1_word_list:
+                if word in cnn_index1:
+                    lang1_word = word
+                    break
+
+            for word in lang2_word_list:
+                if word in cnn_index2:
+                    lang2_word = word
+                    break
+
+        # Check if broken down word failed or succeeded or skip
+        # if original word in cnn index exists
         if lang1_word not in cnn_index1 or lang2_word not in cnn_index2:
             h_score_list[i, :] = np.array(
                 [lang1_word, lang2_word, "Nan"])
@@ -122,7 +143,7 @@ def run_k_means(language_code1, language_code2, n_jobs=None, save_every=500, pri
 
         true_labels = np.concatenate((np.zeros((1, m1)), np.ones((1, m2))), axis=1)
         data = np.concatenate((lang1_matrix, lang2_matrix), axis=0)
-        centroid, pred_labels, _ = k_means(data, n_clusters=2, n_jobs=n_jobs)
+        centroid, pred_labels, _ = k_means(data, n_clusters=2)
         h_score = homogeneity_score(true_labels.flatten(), pred_labels.flatten())
         h_score_list[i, :] = np.array([lang1_word, lang2_word, h_score])
 

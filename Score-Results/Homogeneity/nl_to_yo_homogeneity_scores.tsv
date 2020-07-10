@@ -8,7 +8,7 @@ politiek	oselu	Nan
 politieke	oselu	Nan
 polo	polo	Nan
 poly	ọpọ	Nan
-pompeius	ile ododo	Nan
+pompeius	ododo	None
 pompen	bẹtiroli	Nan
 pont	ferry	Nan
 pony	poni	Nan
@@ -39,7 +39,7 @@ poot	ẹsẹ	None
 pop	ọmọlangidi	Nan
 positie	ipo	None
 positief	rere	None
-posities	awọn ipo	Nan
+posities	ipo	None
 positieve	rere	None
 post	ifiweranṣẹ	Nan
 postuum	ifiweranṣẹ	Nan
@@ -77,7 +77,7 @@ prachtige	alayeye	Nan
 plekken	yẹriyẹri	Nan
 pleinen	awọn onigun mẹrin	Nan
 pim	pim	Nan
-pink	ika kekere	Nan
+pink	kekere	None
 pinksteren	pẹntikọsti	Nan
 pippi	pippi	Nan
 piramide	jibiti	Nan
@@ -87,7 +87,7 @@ pirate	ajalelokun	Nan
 pisang	pisang	Nan
 pitt	pitt	Nan
 pius	ẹyọ	Nan
-pk	agbara ẹṣin	Nan
+pk	agbara	None
 plaat	awo	None
 plaats	ibi	Nan
 plaatse	iranran	Nan
@@ -103,7 +103,7 @@ pico	pico	Nan
 piece	nkan	None
 pier	afara	Nan
 piercing	lilu	Nan
-piercings	awọn ikún	Nan
+piercings	ikún	None
 pierre	gun	None
 piet	awako	Nan
 pieten	ọkọ ofurufu	Nan
@@ -117,7 +117,7 @@ plaatsgevonden	ṣẹlẹ	Nan
 platen	sii farahan	Nan
 platenlabel	aami gbigbasilẹ	Nan
 platenmaatschappij	ile-iṣẹ igbasilẹ	Nan
-platentektoniek	awo tectonics	Nan
+platentektoniek	awo	None
 platform	pẹpẹ	Nan
 platina	pilatnomu	Nan
 platte	alapin	Nan
@@ -246,7 +246,7 @@ primaten	awọn alakọbẹrẹ	Nan
 primera	primera	Nan
 primitieve	alakọbẹrẹ	Nan
 prestaties	imuṣere	Nan
-prince	ọmọ alade	Nan
+prince	ọmọ	None
 prestatie	imuṣere	Nan
 presidentsverkiezingen	idibo idibo	Nan
 praktische	ilowo	Nan
@@ -284,7 +284,7 @@ professioneel	ọjọgbọn	Nan
 professionele	ọjọgbọn	Nan
 professor	alamọdaju	Nan
 prodigy	onigbọwọ	Nan
-processen	awọn ilana	Nan
+processen	ilana	None
 proces	ilana	None
 procent	ogorun	Nan
 prinses	ọmọ-alade	Nan
@@ -302,7 +302,7 @@ probleem	oro	Nan
 problematiek	awọn iṣoro	Nan
 problemen	awọn ọran	Nan
 procedure	ilana	None
-procedures	awọn ilana	Nan
+procedures	ilana	None
 probeerden	gbiyanju	Nan
 phoenix	phoenix	Nan
 phillips	phillips	Nan
@@ -319,12 +319,12 @@ overgaat	oruka	Nan
 overgang	orilede	Nan
 overgave	tẹriba	Nan
 overgebleven	osi	Nan
-overgebracht	ti o ti gbe	Nan
-overgedragen	ti o ti gbe	Nan
-overgeleverd	fi sile	Nan
+overgebracht	gbe	None
+overgedragen	gbe	None
+overgeleverd	sile	None
 overdreven	àṣejù	Nan
-overgenomen	gba lori	Nan
-overdracht	fi sile	Nan
+overgenomen	gba	None
+overdracht	sile	None
 overdekte	ti bo	Nan
 ouderdom	arúgbó	None
 oudere	agbalagba	Nan
@@ -342,14 +342,14 @@ overal	ibi gbogbo	Nan
 overblijfselen	ku	None
 overdag	nigba ọjọ	Nan
 overdosis	àṣejù	Nan
-overgewicht	jije apọju	Nan
+overgewicht	jije	None
 overgrote	gbooro	Nan
 overhand	bori	Nan
-overlijden	kọjá lọ	Nan
+overlijden	kọjá	None
 overmatig	apọju	Nan
 overmatige	apọju	Nan
 overname	mu	Nan
-overnemen	lati gba lori	Nan
+overnemen	gba	None
 overschot	ajeseku	Nan
 overstromingen	agbara	None
 overtreding	o ṣẹ	Nan
@@ -362,7 +362,7 @@ overwegingen	awọn ifiyesi	Nan
 overwicht	preponderance	Nan
 overleveringen	aṣa	Nan
 overlevering	lore	Nan
-overlevenden	ye awon to ye	Nan
+overlevenden	to	None
 overleven	ye	Nan
 overheden	awọn ijọba	Nan
 overheersende	bori	Nan
@@ -374,7 +374,7 @@ overige	awọn miiran	Nan
 ouder	agbalagba	Nan
 overigens	pẹlupẹlu	Nan
 overkoepelende	apọju	Nan
-overleden	kọjá lọ	Nan
+overleden	kọjá	None
 overledene	kú	Nan
 overledenen	kú	Nan
 overleed	kú	Nan
@@ -430,7 +430,7 @@ originele	atilẹba	Nan
 orkaan	iji lile	Nan
 orkanen	iji	Nan
 orkest	olutoju	Nan
-orleans	awon oloye ilu	Nan
+orleans	oloye	None
 orthodoxe	àtijọ	Nan
 os	akọmalu	Nan
 oscar	oscar	None
@@ -480,12 +480,12 @@ pauselijke	papal	Nan
 perfect	pipe	Nan
 paus	pọọlu	Nan
 paulo	paulo	Nan
-passagiers	awọn arinrin ajo	Nan
+passagiers	ajo	None
 passen	lati baamu	Nan
 passeren	rekoja	Nan
-passie	ife gidigidi	Nan
+passie	gidigidi	None
 passief	palolo	Nan
-past	awọn ipele	Nan
+past	ipele	None
 paste	ibaamu	Nan
 pater	bàbá	None
 patiënt	alaisan	Nan
@@ -502,7 +502,7 @@ periode	asiko ti	Nan
 perzisch	páṣíà	Nan
 perzische	aṣa	Nan
 perzië	persia	Nan
-pest	dudu iku	Nan
+pest	iku	None
 pet	fila	Nan
 pete	pete	Nan
 peter	pétérù	Nan
@@ -535,11 +535,11 @@ persoonlijk	ni eniyan	Nan
 persoonlijke	ti ara ẹni	Nan
 persoonlijkheid	eniyan	Nan
 personage	ohun kikọ	Nan
-passage	fi aye	Nan
+passage	fi	None
 pasen	ajinde	Nan
 pascal	pasita	Nan
 pakken	láti mú	Nan
-pakte	ti gbe	Nan
+pakte	gbe	None
 palace	ààfin	Nan
 palazzo	palazzo	Nan
 paleis	ààfin	Nan
@@ -550,7 +550,7 @@ palestina	palestine	Nan
 pan	pan	Nan
 panama	panama	Nan
 pand	ile	Nan
-pandemie	àjàkálẹ àrùn tókárí-ayé	Nan
+pandemie	àrùn	None
 panden	awọn ohun-ini	Nan
 paniek	ẹrù	Nan
 pakistan	pakistan	Nan
@@ -581,7 +581,7 @@ parlementen	awọn ile igbimọ ijọba	Nan
 parlementsverkiezingen	awọn idibo ile igbimọ aṣofin	Nan
 parma	parma	Nan
 parochie	parish	Nan
-parochiekerk	ijo ile ijosin	Nan
+parochiekerk	ijosin	None
 parodie	parody	Nan
 part	apakan	Nan
 particuliere	ikọkọ	Nan
@@ -624,7 +624,7 @@ scheidsrechter	kọsọ	Nan
 scheidt	yapa	Nan
 schelde	gàn	Nan
 schema	ero	Nan
-schepen	awọn ọkọ oju omi	Nan
+schepen	omi	None
 schepenen	aldermen	Nan
 scheppen	lati ṣẹda	Nan
 schepper	eleda	Nan
@@ -666,7 +666,7 @@ schonk	dà	Nan
 school	ile-iwe	Nan
 schoon	mọ	Nan
 schoonheid	ẹwa	Nan
-schoonzoon	oko omo mi obirin	Nan
+schoonzoon	oko	None
 schoorsteen	simini	Nan
 schoot	gbon	Nan
 schimmel	m	Nan
@@ -767,7 +767,7 @@ samengestelde	yellow	Nan
 samengevoegd	dapọ	Nan
 samenhang	iyipo	Nan
 salvador	salvador	Nan
-roze	awọ pupa	Nan
+roze	pupa	None
 schoten	asokagba	Nan
 schotse	gbamu	Nan
 si	si	Nan
@@ -778,7 +778,7 @@ sierra	sierra	Nan
 sigaret	siga	Nan
 sigmund	sigmund	Nan
 signaal	ifihan	Nan
-signalen	awọn ifihan agbara	Nan
+signalen	agbara	None
 significante	pataki	Nan
 silva	siliki	Nan
 silver	fadaka	Nan
@@ -806,7 +806,7 @@ shift	yi lọ yi bọ	Nan
 shinoda	shinoda	Nan
 shiva	shiva	Nan
 sindsdien	niwon	Nan
-singapore	orílẹ̀ èdè singapore	Nan
+singapore	orílẹ̀	None
 single	ẹyọkan	Nan
 slaan	lati lu	Nan
 slaap	sun	None
@@ -815,14 +815,14 @@ slachtoffer	njiya	Nan
 slachtoffers	olufaragba	Nan
 slag	ogun	None
 slagen	lati ṣaṣeyọri	Nan
-slagveld	oju ogun	Nan
-slakhoorn	ìgbín ìwo	Nan
+slagveld	ogun	None
+slakhoorn	ìwo	None
 slang	ejo	Nan
 slangen	ejo	Nan
-slapen	lati sun	Nan
+slapen	sun	None
 slaven	ẹrú	Nan
 slavenhandel	isowo ẹrú	Nan
-slavernij	oko eru	Nan
+slavernij	oko	None
 slaagt	ṣaṣeyọri	Nan
 slaagden	ṣaṣeyọri	Nan
 slaagde	ṣaṣeyọri	Nan
@@ -838,7 +838,7 @@ set	ṣeto	Nan
 sir	sir	Nan
 sites	awọn aaye	Nan
 situatie	ipo	None
-situaties	awọn ipo	Nan
+situaties	ipo	None
 sjiieten	shiites	Nan
 skelet	egungun	Nan
 sky	ọrun	Nan
@@ -847,9 +847,9 @@ site	aaye	Nan
 schotland	ilu scotland	Nan
 serviërs	awọn iṣẹ iranṣẹ	Nan
 servische	ara serbia	Nan
-scoorde	gba wọle	Nan
+scoorde	gba	None
 scoort	ikun	Nan
-score	o wole	Nan
+score	wole	None
 scoren	lati dimegilio	Nan
 scott	scott	Nan
 script	iwe afọwọkọ	Nan
@@ -878,12 +878,12 @@ schrijvers	onkọwe	Nan
 schubben	irẹjẹ	Nan
 schuilplaats	apanirun	Nan
 schuld	gbese	None
-schulden	awon gbese	Nan
+schulden	gbese	None
 schuldig	jẹbi	Nan
 schwarzenegger	schwarzenegger	Nan
 scientology	onimo ijinle	Nan
 secret	aṣiri	Nan
-secretarisgeneraal	akọwe gbogbogbo	Nan
+secretarisgeneraal	gbogbogbo	None
 sectie	apakan	Nan
 senaat	alagba	Nan
 senatoren	igbimọ	Nan
@@ -893,8 +893,8 @@ sergeant	sapa	Nan
 serie	jara	Nan
 seriemoordenaar	apaniyan	Nan
 seriemoordenaars	apaniyan ni tẹlentẹle	Nan
-serieus	to ṣe pataki	Nan
-serieuze	to ṣe pataki	Nan
+serieus	to	None
+serieuze	to	None
 serotonine	serotonin	Nan
 server	olupin	Nan
 servers	awọn olupin	Nan
@@ -924,15 +924,15 @@ seine	seine	Nan
 royal	ọba	Nan
 royaal	oninurere	Nan
 roy	roy	Nan
-regent	ojo n rọ	Nan
+regent	ojo	None
 regenten	awọn ololufẹ	Nan
 regenval	òjò	Nan
-regenwoud	ojo ojo	Nan
+regenwoud	ojo	None
 regeren	láti ṣàkóso	Nan
 regerende	ṣàkóso	Nan
 regering	ijọba	Nan
 regeringen	awọn ijọba	Nan
-regeringsleider	olórí ìjọba	Nan
+regeringsleider	ìjọba	None
 regie	itọsọna	Nan
 regime	ijọba	Nan
 regiment	ilana	None
@@ -941,7 +941,7 @@ regio	ẹkùn	Nan
 regionaal	agbegbe	Nan
 regen	ojo	None
 regionale	agbegbe	Nan
-regels	awọn ofin	Nan
+regels	ofin	None
 regelmatig	nigbagbogbo	Nan
 reed	wakọ	Nan
 reeds	tẹlẹ	Nan
@@ -954,8 +954,8 @@ reformatie	atunwi	Nan
 regeerde	ṣàkóso	Nan
 regeerperiode	jọba	Nan
 regel	ṣàkóso	Nan
-regelen	seto fun	Nan
-regelgeving	awọn ilana	Nan
+regelen	fun	None
+regelgeving	ilana	None
 regeling	ilana	None
 regelmaat	ibakan	Nan
 regelmatige	deede	Nan
@@ -982,11 +982,11 @@ religieuze	ẹlẹsin	Nan
 religieus	ẹlẹsin	Nan
 religies	awọn ẹsin	Nan
 reguliere	deede	Nan
-reis	irin ajo	Nan
+reis	ajo	None
 reisde	ajo	None
 reist	irin-ajo	Nan
 reizen	lati rin irinajo, rin irinajo	Nan
-reizigers	awọn aririn ajo	Nan
+reizigers	ajo	None
 rekenen	lati ṣe iṣiro	Nan
 reductie	idinku	Nan
 rekening	akọọlẹ	Nan
@@ -1010,7 +1010,7 @@ rat	eku	Nan
 ratten	eku	Nan
 rattenstaarten	eku iru	Nan
 ray	eegun	Nan
-raymond	epo pupa	Nan
+raymond	pupa	None
 reactie	esi	Nan
 reacties	awọn aati	Nan
 reagan	reagan	Nan
@@ -1018,7 +1018,7 @@ reageerde	dahun	Nan
 reageerden	dahun	Nan
 rap	rp	Nan
 reageert	idahun	Nan
-ranglijst	awọn ipo	Nan
+ranglijst	ipo	None
 rang	ipo	None
 radicaal	ti ipilẹṣẹ	Nan
 radicale	ti ipilẹṣẹ	Nan
@@ -1031,11 +1031,11 @@ ramadan	ramadan	None
 ramen	windows	Nan
 ramp	ajalu	Nan
 rampen	ajalu	Nan
-ranch	oko ẹran ọsin	Nan
+ranch	oko	None
 rand	eti	Nan
 randen	igun	Nan
 randstad	randstad	Nan
-rangen	awọn ipo	Nan
+rangen	ipo	None
 reageren	asọye	Nan
 real	gidi	Nan
 realiseren	mọ	Nan
@@ -1052,7 +1052,7 @@ red	ed	Nan
 redactie	olootu	Nan
 redden	lati gbala	Nan
 redding	giga	Nan
-reddingssloepen	ọkọ oju-omi kekere	Nan
+reddingssloepen	kekere	None
 rede	idi	Nan
 rechtspraak	ẹjọ	Nan
 rechtse	apa ọtun	Nan
@@ -1073,7 +1073,7 @@ rechtbank	kootu	Nan
 rechte	taara	Nan
 rechten	awọn ẹtọ	Nan
 rechter	lẹjọ	Nan
-rechterlijke	ti ofin	Nan
+rechterlijke	ofin	None
 receptoren	awọn olugba	Nan
 republikeinse	olominira	Nan
 reputatie	orukọ	Nan
@@ -1185,9 +1185,9 @@ richten	lati fojusi	Nan
 resp	resp	Nan
 respectievelijk	leralera	Nan
 rest	sinmi	Nan
-restanten	to ku	Nan
+restanten	ku	None
 restaurant	ile-ounjẹ	Nan
-restaurants	awon ile onje	Nan
+restaurants	onje	None
 restauratie	imupada	Nan
 resten	ku	None
 respect	ọwọ	Nan
@@ -1206,7 +1206,7 @@ rik	rik	Nan
 ring	òrùka	Nan
 ringen	oruka	Nan
 ringweg	opopona oruka	Nan
-rinus	fi omi ṣan	Nan
+rinus	omi	None
 rio	rio	Nan
 risico	eewu	Nan
 rijken	ọlọrọ	Nan
@@ -1227,7 +1227,7 @@ rihanna	rihanna	Nan
 rij	isinyin	Nan
 rijden	lati wakọ	Nan
 rijdt	awakọ	Nan
-rijen	awọn ori ila	Nan
+rijen	ori	None
 rijk	ọlọrọ	Nan
 riga	adan	Nan
 oppositie	àtakò	Nan
@@ -1244,7 +1244,7 @@ minder	ti o kere	Nan
 mindere	kere	Nan
 minderheden	kekere	None
 minderheid	ẹlẹgbẹ	Nan
-minderjarigen	ọmọ kekere	Nan
+minderjarigen	kekere	None
 mineralen	ohun alumọni	Nan
 minimaal	o kere ju	Nan
 minimale	o kere ju	Nan
@@ -1283,8 +1283,8 @@ mix	dapọ	Nan
 mm	mm	Nan
 mn	mi	Nan
 mobiele	alagbeka	Nan
-mocht	gba ọ laaye	Nan
-mochten	gba wọn laaye	Nan
+mocht	gba	None
+mochten	wọn	None
 moddersnoeken	pẹtẹlẹ pẹtẹpẹtẹ	Nan
 misselijkheid	inu rirun	Nan
 misschien	boya	Nan
@@ -1306,7 +1306,7 @@ misdaden	odaran	Nan
 misdadigers	ọdaràn	Nan
 misdrijf	ilufin	Nan
 misdrijven	odaran	Nan
-mis	ti ko tọ	Nan
+mis	ko	None
 mode	njagun	Nan
 migraine	migraine	Nan
 midnight	ọganjọ oru	Nan
@@ -1320,7 +1320,7 @@ metafysica	afiwera	Nan
 metal	irin	Nan
 metalen	irin	Nan
 metallica	metallica	Nan
-meteen	ni bayi	Nan
+meteen	bayi	None
 meten	ìwọn	Nan
 meter	mita	Nan
 meters	awọn mita	Nan
@@ -1336,7 +1336,7 @@ menselijk	ènìyàn	Nan
 menselijke	ènìyàn	Nan
 mensen	eniyan	Nan
 mensenrechten	eto omo eniyan	Nan
-mensheid	ọmọ eniyan	Nan
+mensheid	ọmọ	None
 menstruatie	asiko	Nan
 mentale	ọpọlọ	Nan
 menu	mẹnu	Nan
@@ -1348,12 +1348,12 @@ merkbaar	ṣe akiyesi	Nan
 methoden	awọn ọna	Nan
 methodes	awọn ọna	Nan
 meting	wiwọn	Nan
-middelbare	arin agba	Nan
+middelbare	agba	None
 middelburg	middelburg	Nan
-middeleeuwen	ojo ori ti o wa larin	Nan
+middeleeuwen	ori	None
 middeleeuws	igba atijọ	Nan
 middeleeuwse	igba atijọ	Nan
-middelen	awọn orisun	Nan
+middelen	orisun	None
 middelgrote	alabọde	Nan
 middellandse	agbedemeji	Nan
 middelpunt	aarin	Nan
@@ -1467,8 +1467,8 @@ morele	iwa	Nan
 mogelijke	ṣeeṣe	Nan
 mogelijkheden	awọn aye	Nan
 mogelijkheid	seese	Nan
-mogen	gba ọ laaye lati	Nan
-mogendheden	awọn agbara	Nan
+mogen	gba	None
+mogendheden	agbara	None
 mohammed	mohammed	Nan
 mol	mol	Nan
 moldavië	moldavia	Nan
@@ -1489,7 +1489,7 @@ moed	igboya	Nan
 moeder	iya	Nan
 moederdag	ọjọ ìyá	Nan
 moeders	àwọn ìyá	Nan
-moedertaal	abinibi ede	Nan
+moedertaal	ede	None
 moeilijk	nira	Nan
 moeilijke	nira	Nan
 moeilijker	diẹ nira	Nan
@@ -1544,7 +1544,7 @@ mengen	lati parapo	Nan
 maanden	awọn oṣu	Nan
 maar	ṣugbọn	Nan
 maarschalk	marshal	Nan
-maart	oṣu kẹta	Nan
+maart	kẹta	None
 maarten	irin-ajo	Nan
 maas	apapo	Nan
 maastricht	maastricht	Nan
@@ -1571,13 +1571,13 @@ m	m	Nan
 ma	ma	Nan
 maag	ikun	Nan
 maagd	wundia	Nan
-maakt	mu ki	Nan
+maakt	ki	None
 maakte	ṣe	Nan
 maakten	ṣe	Nan
 maal	oúnjẹ	None
 maan	oṣupa	Nan
 macht	agbara	None
-machten	awọn agbara	Nan
+machten	agbara	None
 machthebbers	awọn alaṣẹ	Nan
 magische	ti idan	Nan
 magnetisch	oofa	Nan
@@ -1601,7 +1601,7 @@ magazine	iwe irohin	Nan
 machtig	alagbara	Nan
 machtige	alagbara	Nan
 machtigste	alagbara julọ	Nan
-machtsovername	ijagba ti agbara	Nan
+machtsovername	agbara	None
 machu	machu	Nan
 madagaskar	madagascar	Nan
 madame	asiwere	Nan
@@ -1613,7 +1613,7 @@ madonnas	asiwere	Nan
 madrid	ilu madrid	Nan
 mae	mae	Nan
 maffia	nsomi	Nan
-mag	gba laaye	Nan
+mag	gba	None
 madeira	madeira	None
 malcolm	ibi	Nan
 luther	luther	None
@@ -1638,12 +1638,12 @@ loopt	gbalaye	Nan
 logische	mogbonwa	Nan
 logica	kannaa	Nan
 liturgische	liluho	Nan
-livealbum	awo awo	Nan
+livealbum	awo	None
 liverpool	liverpool	Nan
-live||||||||||	gbé ||||| kuka kuka	Nan
+live||||||||||	gbé	None
 lloyd	lloyd	Nan
 locatie	ipo	None
-locaties	awọn ipo	Nan
+locaties	ipo	None
 locke	eyan	Nan
 lockheed	titiipa	Nan
 lodewijk	lodewijk	Nan
@@ -1658,7 +1658,7 @@ lopende	ti nlọ lọwọ	Nan
 lord	oluwa	Nan
 luchtmacht	ategun	Nan
 luchtvaart	ọkọ ofurufu	Nan
-luchtvaartmaatschappij	ile ise oko ofurufu	Nan
+luchtvaartmaatschappij	oko	None
 luchtwegen	eto mimi	Nan
 lucius	lucius	Nan
 ludo	ludo	Nan
@@ -1671,14 +1671,14 @@ luisteren	gbọ	Nan
 luitenant	alabojuto	Nan
 luke	awure	Nan
 lukt	ṣaṣeyọri	Nan
-luchthavens	papa ọkọ ofurufu	Nan
-luchthaven	papa ọkọ ofurufu	Nan
+luchthavens	papa	None
+luchthaven	papa	None
 lucht	ọrun	Nan
 lucas	lucas	Nan
 lorenzo	lorenzo	Nan
 los	tú	None
 losse	tú	None
-lossen	yọ kuro	Nan
+lossen	yọ	None
 lost	yanju	Nan
 lot	pupo	Nan
 loting	fa	Nan
@@ -1699,7 +1699,7 @@ medaillon	medallion	Nan
 mede	tun	Nan
 medelijden	aanu	None
 medeoprichter	àjọ-oludasile	Nan
-medewerkers	awọn ọmọ ẹgbẹ oṣiṣẹ	Nan
+medewerkers	ọmọ	None
 medewerking	ifowosowopo	Nan
 media	media	Nan
 medicatie	oogun	Nan
@@ -1748,7 +1748,7 @@ men	okunrin	None
 meneer	sir	Nan
 menen	tumọ	Nan
 mengeling	dapọ	Nan
-mei	oṣu karun	Nan
+mei	karun	None
 meeuwis	gullfish	Nan
 meetkunde	geometry	Nan
 meet	ìwọn	Nan
@@ -1784,8 +1784,8 @@ maria	arabinrin	Nan
 marie	marie	Nan
 marihuana	taba lile	Nan
 marilyn	arabinrin	Nan
-marine	ọmọ ogun	Nan
-mariniers	ọkọ oju omi	Nan
+marine	ogun	None
+mariniers	omi	None
 mario	mario	Nan
 marathon	ere-ije	Nan
 mao	mao	Nan
@@ -1798,7 +1798,7 @@ manager	oluṣakoso	Nan
 manchester	manchester	Nan
 mandela	mandela	Nan
 manen	osu	Nan
-maritieme	igba omi okun	Nan
+maritieme	omi	None
 manier	ọna	Nan
 mannelijk	akọ	Nan
 mannelijke	akọ	Nan
@@ -1839,7 +1839,7 @@ marokko	ilu morocco	Nan
 mars	maasi	Nan
 market	ọjà	Nan
 marseille	marseille	Nan
-marsoppervlak	ala dada	Nan
+marsoppervlak	ala	None
 martin	martin	Nan
 martín	martin	Nan
 marx	odo	Nan
@@ -1853,7 +1853,7 @@ nabije	nitosi	None
 one	ọkan	Nan
 oneindig	ailopin	Nan
 onenigheid	àríyànjiyàn	Nan
-ongeacht	lainifiyesi fun	Nan
+ongeacht	fun	None
 ongeboren	ọmọ	None
 ongebruikelijk	dani	None
 ongekende	ailopin	Nan
@@ -1864,7 +1864,7 @@ ongetwijfeld	aniani	Nan
 ongeval	ijamba	Nan
 ongeveer	nipa	Nan
 ongewenste	aifẹ	Nan
-onjuist	ti ko tọ	Nan
+onjuist	ko	None
 onduidelijk	koyewa	Nan
 onlangs	laipẹ	Nan
 onderzoekt	ṣewadii	Nan
@@ -1872,7 +1872,7 @@ onderzoeken	si iwadii	Nan
 ondersteunt	atilẹyin	Nan
 ondertussen	lasiko	Nan
 onderverdeeld	pin	Nan
-onderverdeling	ile ipin	Nan
+onderverdeling	ipin	None
 ondervinden	iriri	Nan
 ondervindt	awọn iriri	Nan
 onderweg	loju ọna	Nan
@@ -1902,14 +1902,14 @@ ontmoeting	ipade	Nan
 ontmoette	pàdé	Nan
 ontmoetten	pàdé	Nan
 ontslag	ilekuro	Nan
-ontslagen	gbe kuro	Nan
+ontslagen	gbe	None
 ontgonnen	mined	Nan
 ontevredenheid	ainitẹlọrun	Nan
 onterecht	aitọ	Nan
-ontdekte	se awari	Nan
+ontdekte	awari	None
 onmogelijk	soro	Nan
 ono	ẹni	Nan
-onrechte	ti ko tọ	Nan
+onrechte	ko	None
 onregelmatig	alaibamu	Nan
 onregelmatige	alaibamu	Nan
 onrust	rogbodiyan	None
@@ -1922,14 +1922,14 @@ ontdekken	lati iwari	Nan
 ontdekking	awari	None
 ontdekkingen	awari	None
 ontdekkingsreiziger	aṣawakiri	Nan
-ontdekt	se awari	Nan
+ontdekt	awari	None
 ontbrak	sonu	Nan
 ontsluiting	walẹ	Nan
 ondersteunen	atilẹyin	Nan
 onderste	kere	Nan
-omwille	fun nitori	Nan
+omwille	fun	None
 omzet	owo-wiwọle	Nan
-omzetbelasting	tita ori	Nan
+omzetbelasting	ori	None
 on	loju	Nan
 onafhankelijk	olominira	Nan
 onafhankelijke	olominira	Nan
@@ -1944,7 +1944,7 @@ onderaan	ni isalẹ ti	Nan
 onderbroken	idilọwọ	Nan
 omvatten	pẹlu	Nan
 onderdak	koseemani	Nan
-omvatte	to wa	Nan
+omvatte	to	None
 omvangrijke	olopobobo	Nan
 omgezet	yipada	None
 omhoog	sókè	Nan
@@ -1966,7 +1966,7 @@ onderdanen	wonyen	Nan
 onderdeel	apakan	Nan
 onderdelen	awọn paati	Nan
 ondernam	bẹrẹ	Nan
-ondernemen	lati pinu	Nan
+ondernemen	pinu	None
 ondernemer	otaja	Nan
 onderneming	ile-iṣẹ	Nan
 ondernemingen	awọn ile-iṣẹ	Nan
@@ -1981,15 +1981,15 @@ ondersoort	subspepes	Nan
 ondersoorten	subspepes	Nan
 onderstaande	ni isalẹ	Nan
 onderlinge	pelu ara	Nan
-onderling	laarin ara wọn	Nan
+onderling	wọn	None
 onderliggende	labẹ	Nan
-onderkaak	kekere abẹ	Nan
+onderkaak	kekere	None
 onderdrukken	tẹmọlẹ	Nan
 onderdrukking	inilara	Nan
 onderdrukt	tẹmọlẹ	Nan
 ondergaan	faragba	Nan
 ondergang	ìparun	Nan
-ondergebracht	ti gbe	Nan
+ondergebracht	gbe	None
 ondergeschikt	oluṣakoso	Nan
 ondersteund	atilẹyin	Nan
 onderging	lọ	Nan
@@ -2007,14 +2007,14 @@ ontsnapte	sa asala	Nan
 opgedeeld	pin	Nan
 opgedragen	paṣẹ	Nan
 opgehangen	jadanu	Nan
-opgeheven	gbe soke	Nan
+opgeheven	gbe	None
 opgelegd	ti paṣẹ	Nan
 opgeleid	oṣiṣẹ	Nan
 opgeleverd	jišẹ	Nan
 opgelopen	fowosowopo	Nan
 opgelost	yanju	Nan
 opgemerkt	ṣe akiyesi	Nan
-opgenomen	to wa	Nan
+opgenomen	to	None
 opgepakt	mu	Nan
 opgericht	mulẹ	Nan
 opgerichte	ipilẹ	Nan
@@ -2065,7 +2065,7 @@ opgetreden	ṣẹlẹ	Nan
 opgetrokken	tẹre	Nan
 opgevangen	mú	Nan
 opgevat	lóyún	Nan
-opgeven	jowo re sile	Nan
+opgeven	sile	None
 opgevoed	dide	Nan
 opgevoerd	witoelar	Nan
 opdracht	paṣẹ	Nan
@@ -2080,14 +2080,14 @@ oplage	ẹda	Nan
 opgewekt	ọyaya	Nan
 opdat	iyẹn	Nan
 opbrengsten	egbin	Nan
-opbrengst	so eso	Nan
-ontwikkeld	ni idagbasoke	Nan
-ontwikkelde	ni idagbasoke	Nan
-ontwikkelden	ni idagbasoke	Nan
+opbrengst	so	None
+ontwikkeld	idagbasoke	None
+ontwikkelde	idagbasoke	None
+ontwikkelden	idagbasoke	None
 ontwikkelen	dagbasoke	None
 ontwikkeling	idagbasoke	None
 ontwikkelingen	idagbasoke	None
-ontwikkelingsstoornis	idagbasoke ẹjẹ	Nan
+ontwikkelingsstoornis	idagbasoke	None
 ontwikkelt	ndagba	Nan
 ontworpen	ti a ṣe	Nan
 onvermogen	ailagbara	Nan
@@ -2095,10 +2095,10 @@ onverwacht	airotẹlẹ	Nan
 onverwachte	airotẹlẹ	Nan
 onvoldoende	kò péye	Nan
 onvrede	discontinu	Nan
-onwaarschijnlijk	ko ṣeeṣe	Nan
+onwaarschijnlijk	ko	None
 ontwierp	ti a ṣe	Nan
 ontwerper	aṣapẹrẹ	Nan
-ontwerpen	lati ṣe ọnà rẹ	Nan
+ontwerpen	rẹ	None
 ontwerp	apẹrẹ	Nan
 ontspringen	gushr	Nan
 ontstaan	pilẹṣẹ	Nan
@@ -2126,7 +2126,7 @@ oosten	ila-oorun	Nan
 oostende	aranmo	Nan
 oostenrijk	austria	Nan
 oostenrijkers	austrians	Nan
-oostenrijkhongarije	agunmi ilu australia	Nan
+oostenrijkhongarije	australia	None
 oostenrijkse	ara ilu	Nan
 oosterse	ila-oorun	Nan
 oosteuropa	iha yuroopu	Nan
@@ -2137,7 +2137,7 @@ op	loju	Nan
 opbouw	be	Nan
 oostduitsland	ila-oorun jẹmánì	Nan
 oostblok	ila-oorun ila-oorun	Nan
-oostberlijn	iha iwọ-oorun berlin	Nan
+oostberlijn	berlin	None
 oostazië	ila-oorun ila-oorun	Nan
 oog	oju	Nan
 oogpunt	bi o se ri si	Nan
@@ -2177,7 +2177,7 @@ nero	nero	Nan
 neergezet	fisile	Nan
 nest	itẹ-ẹiyẹ	Nan
 neer	silẹ	Nan
-neef	ọmọ ẹgbọn	Nan
+neef	ọmọ	None
 nederlaag	ṣẹgun	Nan
 nederland	awọn nẹdalandi naa	Nan
 nederlanden	awọn nẹdalandi naa	Nan
@@ -2194,14 +2194,14 @@ nederzetting	pinpin okun	Nan
 nederzettingen	awọn ibugbe	Nan
 need	nilo	Nan
 neemt	gba	None
-net	o kan	Nan
+net	kan	None
 netnummer	koodu agbegbe	Nan
 netvleugeligen	sọfun	Nan
 niemand	enikeni	Nan
 nier	àrùn	None
 nieren	kidinrin	Nan
 niet	kii ṣe	Nan
-nietonafhankelijke	ko ni ominira	Nan
+nietonafhankelijke	ko	None
 niets	ohunkohun	Nan
 niettemin	biotilẹjẹpe	Nan
 nietzsche	nietzsche	Nan
@@ -2209,7 +2209,7 @@ nietzsches	nietzsches	Nan
 nieuw	tuntun	None
 nieuwe	tuntun	None
 nieuwere	tuntun	None
-nieuwguinea	new guinea	Nan
+nieuwguinea	guinea	None
 nieuws	awọn iroyin	Nan
 nieuwste	tuntun	None
 nicole	eefun	Nan
@@ -2238,7 +2238,7 @@ nec	nec	Nan
 ncis	ncis	Nan
 nageslacht	iran iran	Nan
 nagornokarabach	nagornokarabach	Nan
-najaar	igba irẹdanu ewe	Nan
+najaar	ewe	None
 nakomelingen	ọmọ	None
 nam	mu	Nan
 name	orukọ	Nan
@@ -2314,7 +2314,7 @@ niger	niger	Nan
 nigeria	nigeria	Nan
 night	alẹ	Nan
 object	nnkan	Nan
-objecten	awọn nkan	Nan
+objecten	nkan	None
 objectief	tọkàntara	Nan
 objectieve	eredi	Nan
 oceaan	okun	Nan
@@ -2332,12 +2332,12 @@ obelix	obeli	Nan
 oerknal	iro nlala	Nan
 obediënties	igboran	Nan
 oa	àú	Nan
-now	ni bayi	Nan
+now	bayi	None
 nr	rárá	Nan
 nrc	nrc	Nan
 nsb	nsb	Nan
 nsdap	nsdap	Nan
-nu	ni bayi	Nan
+nu	bayi	None
 nucleaire	iparun	Nan
 nul	odo	Nan
 nummer	nọmba	Nan
@@ -2362,7 +2362,7 @@ omdat	nitori	Nan
 omgaan	lati jade	Nan
 omgang	ajọṣepọ	Nan
 omgebouwd	yipada	None
-omgedoopt	fun lorukọ mii	Nan
+omgedoopt	fun	None
 omgekeerd	ona miiran yika	Nan
 omgekeerde	yiyipada	Nan
 omgekomen	kú	Nan
@@ -2387,7 +2387,7 @@ oktober	oṣu kẹwa	Nan
 oldenbarnevelt	oldenbarnevelt	Nan
 olie	epo	Nan
 oftewel	ninu awọn ọrọ miiran	Nan
-nova	ko si	Nan
+nova	ko	None
 nouveau	nouveau	Nan
 nou	daradara	Nan
 nodige	pataki	Nan
@@ -2403,11 +2403,11 @@ nogmaals	lẹẹkan si	Nan
 nominaties	awọn yiyan	Nan
 non	kii ṣe	Nan
 nood	pajawiri	Nan
-noodgedwongen	kuro ninu iwulo	Nan
+noodgedwongen	iwulo	None
 noodsituatie	pajawiri	Nan
 nodig	beere	Nan
 noch	bẹni	Nan
-nobelprijs	onipokinni nobel	Nan
+nobelprijs	nobel	None
 no	rárá	Nan
 nightmare	alaburuku	Nan
 nijl	nile	Nan
@@ -2419,10 +2419,10 @@ nina	nina	Nan
 noodzaak	nilo	Nan
 nintendo	aderindona	Nan
 niveau	ipele	None
-niveaus	awọn ipele	Nan
+niveaus	ipele	None
 nixon	nixon	Nan
 nl	nl	Nan
-nl 	nl	Nan
+nl	nl	Nan
 nm	nm	Nan
 nnationaal	orilẹ-ede	Nan
 nirvana	nirvana	Nan
@@ -2450,7 +2450,7 @@ noordse	alaigbagbe	Nan
 noordpool	arctic	Nan
 noord	ariwa	Nan
 noordafrika	ariwa-afirika	Nan
-noordamerika	ariwa amerika	Nan
+noordamerika	amerika	None
 noordamerikaanse	àríwá amẹ́ríkà	Nan
 noordbrabant	ariwa brabant	Nan
 noordcyprus	ariwa cyprus	Nan
@@ -2516,7 +2516,7 @@ voorgoed	lailai	Nan
 voorgrond	iwaju	Nan
 voorhanden	wa	Nan
 voorheen	ṣaaju	Nan
-voorjaar	orisun omi	Nan
+voorjaar	omi	None
 voorkant	iwaju	Nan
 voorkeur	ààyò	Nan
 voorkomen	hihan	Nan
@@ -2526,14 +2526,14 @@ voordien	ṣaaju	Nan
 voordelen	awọn anfani	Nan
 voordeel	anfani	Nan
 vondsten	nwa	None
-voor	niwaju ti	Nan
+voor	niwaju	None
 vooraanstaande	oguna	Nan
-vooraf	ki o to di	Nan
+vooraf	to	None
 voorafgaand	ṣaaju	Nan
 voorafgaande	ti tẹlẹ	Nan
 vooral	okeene	Nan
 voldemort	amọ kikun	Nan
-vooralsnog	fun akoko kan	Nan
+vooralsnog	kan	None
 voorbeelden	awọn apẹẹrẹ	Nan
 voorbehouden	ifipamọ	Nan
 voorbereid	gbaradi	Nan
@@ -2546,8 +2546,8 @@ voorkomende	wọpọ	Nan
 voldeed	pàdé	Nan
 vol	kun	Nan
 vliegtuigen	ọkọ ofurufu	Nan
-vliegveld	papa ọkọ ofurufu	Nan
-vliegvelden	papa ọkọ ofurufu	Nan
+vliegveld	papa	None
+vliegvelden	papa	None
 vliezen	membranes	Nan
 vlinder	labalaba	None
 vlinders	labalaba	None
@@ -2558,7 +2558,7 @@ vloeistof	omi	None
 vloek	egún	Nan
 vloer	ilẹ	None
 vloog	fò	Nan
-vloot	ọkọ oju-omi kekere	Nan
+vloot	kekere	None
 vlucht	ọkọ ofurufu	Nan
 vliegtuig	ọkọ ofurufu	Nan
 vluchtelingen	asasala	Nan
@@ -2592,7 +2592,7 @@ voetbal	bọọlu	Nan
 voetbalclub	bọọlu afẹsẹgba	Nan
 voetbalclubs	bọọlu bọọlu	Nan
 voetbalelftal	ẹgbẹ bọọlu afẹsẹgba ti orilẹ-ede	Nan
-voetballer	agba boolu	Nan
+voetballer	agba	None
 voetballers	awọn oṣere afẹsẹgba	Nan
 voeten	ẹsẹ	None
 voetnoten	awọn iwe afọwọkọ	Nan
@@ -2613,7 +2613,7 @@ voldaan	itelorun	Nan
 voeding	ounjẹ	Nan
 voedingsstoffen	awọn ounjẹ	Nan
 voedsel	oúnjẹ	None
-voegde	fi kun	Nan
+voegde	fi	None
 voegen	ṣafikun	Nan
 voelde	ro	None
 voelden	ro	None
@@ -2668,7 +2668,7 @@ waarnemer	oluwo	Nan
 waarneming	iwoye	Nan
 waarnemingen	awọn akiyesi	Nan
 waarom	idi	Nan
-waaronder	laarin eyiti	Nan
+waaronder	laarin	None
 waarop	lori eyiti	Nan
 waarover	nipa kini	Nan
 waarschijnlijk	boya	Nan
@@ -2682,7 +2682,7 @@ waardoor	nfa	Nan
 vuur	ina	Nan
 vuurwerk	iṣẹ ina	Nan
 vvd	vvd	Nan
-vóór	niwaju ti	Nan
+vóór	niwaju	None
 w	w	Nan
 waal	obi	Nan
 waals	wolika	Nan
@@ -2720,27 +2720,27 @@ voorsteden	ìgberiko	Nan
 voorstanders	onigbawi	Nan
 voorlichting	alaye	Nan
 voorloper	ṣaaju	Nan
-voorlopig	fun akoko kan	Nan
+voorlopig	kan	None
 voormalig	tele	None
 voormalige	tele	None
-voornaam	oruko akoko	Nan
+voornaam	oruko	None
 voornaamste	akọkọ	Nan
 voornamelijk	o kun	Nan
 voorouders	awọn baba	Nan
 voorprogramma	igbese atilẹyin	Nan
 voorraad	ọja	Nan
 voorronde	iyipo alakoko	Nan
-voorschriften	awọn ilana	Nan
+voorschriften	ilana	None
 voorsprong	aye isaju bere	Nan
 voorstander	onigbawi	Nan
 voorste	iwaju	Nan
 vooruitgang	ilọsiwaju	Nan
 voorwaarde	pataki ṣaaju	Nan
-voorwaarden	awọn ipo	Nan
+voorwaarden	ipo	None
 vorstendom	ijoye	Nan
 vorstendommen	awọn olori	Nan
 vos	kọlọkọ	Nan
-voyager	irin ajo	Nan
+voyager	ajo	None
 vraag	béèrè	Nan
 vraagstukken	awọn ọran	Nan
 vraagt	béèrè	Nan
@@ -2757,7 +2757,7 @@ vorst	yìnyín	Nan
 vormt	awọn fọọmu	Nan
 vorming	ibiyi	Nan
 voorwerp	nnkan	Nan
-voorwerpen	awọn nkan	Nan
+voorwerpen	nkan	None
 voorzag	pese	Nan
 voorzichtig	ṣọra	Nan
 voorzien	lati pese	Nan
@@ -2773,7 +2773,7 @@ vormden	akoso	Nan
 vormen	fọọmu	Nan
 vormgeving	apẹrẹ	Nan
 voorzitter	alaga	Nan
-vlaanderen	awọn ara ilẹ abulẹ	Nan
+vlaanderen	ilẹ	None
 vlaamse	flemish	Nan
 vlaams	flemish	Nan
 vers	alabapade	Nan
@@ -2820,7 +2820,7 @@ versterkt	arawa	Nan
 versterkte	fikun	Nan
 verstoord	dojuru	Nan
 verstopt	àìrígbẹyà	Nan
-verstoren	lati yọ lẹnu	Nan
+verstoren	yọ	None
 verstoring	rudurudu	Nan
 verstrekt	pese	Nan
 versus	dipo	Nan
@@ -2888,7 +2888,7 @@ verlaten	lọ	Nan
 verleden	ti o ti kọja	Nan
 verleend	yọọda	Nan
 verlenen	yọọda	Nan
-vermeden	yago fun	Nan
+vermeden	fun	None
 vermeende	esun	Nan
 vermeer	pọ si	Nan
 vernietiging	iparun	Nan
@@ -2915,7 +2915,7 @@ vermelden	mẹnuba	Nan
 vermelding	mẹnuba	Nan
 vermeldt	nmẹnuba	Nan
 vermenigvuldigen	isodipupo	Nan
-vermijden	yago fun	Nan
+vermijden	fun	None
 verminderd	dinku	Nan
 veroorzaken	fa	Nan
 verminderde	dinku	Nan
@@ -2961,7 +2961,7 @@ verzorgd	catered	Nan
 verzorgde	toju	Nan
 verzorgen	ṣọra	Nan
 verzorging	itọju	Nan
-verzorgt	gba itoju	Nan
+verzorgt	gba	None
 verzwakt	àìlera	Nan
 vestigde	yanju	Nan
 vestigen	yanju	Nan
@@ -2974,7 +2974,7 @@ vingers	awọn ika ọwọ	Nan
 virale	gbogun ti	Nan
 virginia	virginia	Nan
 virtual	foju	Nan
-virus	kòkòrò àrùn fáírọọsì	Nan
+virus	àrùn	None
 virussen	awọn ọlọjẹ	Nan
 vis	ẹja	Nan
 visie	ìran	Nan
@@ -2990,8 +2990,8 @@ vincent	vincent	Nan
 vierkant	square	Nan
 vierkante	square	Nan
 vietnam	vietnam	Nan
-vietnamese	ede vietnam	Nan
-vietnamoorlog	ogun vietnam	Nan
+vietnamese	ede	None
+vietnamoorlog	ogun	None
 vii	vii	Nan
 vijand	ọtá	Nan
 verzamelen	kó	Nan
@@ -3027,10 +3027,10 @@ vertrouwen	gbekele	Nan
 vertrouwde	ni igbẹkẹle	Nan
 vertrokken	osi	Nan
 vertegenwoordigt	aṣoju	Nan
-verteld	so fun	Nan
-vertelde	so fun	Nan
-vertellen	lati so fun	Nan
-vertelt	wí pé	Nan
+verteld	fun	None
+vertelde	fun	None
+vertellen	fun	None
+vertelt	pé	None
 verticale	inaro	Nan
 vertolkt	itumọ	Nan
 vervolgen	tẹsiwaju	Nan
@@ -3050,7 +3050,7 @@ verwerven	gba	None
 verwezen	itọkasi	Nan
 verwierf	ipasẹ	Nan
 verwijderd	paarẹ	Nan
-verwijderen	yọ kuro	Nan
+verwijderen	yọ	None
 verwijdering	yiyọ	Nan
 verwijst	tọka	Nan
 verwijzen	tọka	Nan
@@ -3084,7 +3084,7 @@ verwekkers	awọn aarun	Nan
 verwachtte	o ti ṣe yẹ	Nan
 waaruit	lati eyiti	Nan
 waarvan	lati kini	Nan
-waarvoor	fun kini	Nan
+waarvoor	fun	None
 zette	fi	None
 zetten	fi	None
 zeus	zeus	Nan
@@ -3122,7 +3122,7 @@ zestig	ọgọta	Nan
 zetel	ijoko	Nan
 zieke	aisan eniyan	Nan
 ziekenhuis	iwosan	None
-ziekenhuizen	awọn ile iwosan	Nan
+ziekenhuizen	iwosan	None
 zinnen	awọn gbolohun ọrọ	Nan
 zintuigen	ogbon	Nan
 zintuiglijke	imọlara	Nan
@@ -3154,7 +3154,7 @@ zijde	siliki	Nan
 zijn	lati jẹ	Nan
 zijnde	jije	None
 zijne	tirẹ	Nan
-zijnhaar	irun ori rẹ	Nan
+zijnhaar	rẹ	None
 zilver	fadaka	Nan
 zilveren	fadaka	Nan
 zimbabwe	orilẹ-ede zimbabwe	Nan
@@ -3201,14 +3201,14 @@ zaken	oro	Nan
 zakenman	oníṣòwò	Nan
 zakken	awọn baagi	Nan
 zeeuwsvlaanderen	dutch flanders	Nan
-zeewater	omi okun	Nan
+zeewater	omi	None
 zeewolven	àwọn ìkookò òkun	Nan
 zeeën	òkun	Nan
 zeg	sọ	None
 zegen	ibukun	Nan
 zeggen	sọ	None
 zeggenschap	iṣakoso	Nan
-zegt	wí pé	Nan
+zegt	pé	None
 zei	wi	Nan
 zeker	daju	Nan
 zekere	daju	Nan
@@ -3218,11 +3218,11 @@ zeldzaam	ṣọwọn	Nan
 zeeuwse	zeeland	Nan
 zeeschildpadden	ijapa okun	Nan
 zeer	pupọ	Nan
-zeeniveau	ipele omi okun	Nan
+zeeniveau	omi	None
 zal	yoo	None
 zalen	àwọn gbọngàn	Nan
 zand	iyanrin	Nan
-zang	awọn leè	Nan
+zang	leè	None
 zanger	akorin	Nan
 zangeres	akorin	Nan
 zangers	awọn akọrin	Nan
@@ -3232,7 +3232,7 @@ zaterdag	satide	Nan
 ze	wọn	None
 zee	okun	Nan
 zeegebied	agbegbe okun	Nan
-zeeklimaat	afefe oju omi	Nan
+zeeklimaat	omi	None
 zeekomkommers	awọn ẹfọ okun	Nan
 zeeland	silandia	Nan
 zaten	joko	Nan
@@ -3252,8 +3252,8 @@ zürich	zurich	Nan
 |align=left|als	| align = osi | bi	Nan
 |align=left|born	| align = osi | bi	Nan
 |align=left|de	| align = osi | de	Nan
-|align=left|dont	| align = osi | maṣe yọ	Nan
-|align=left|get	| align = osi | gba	Nan
+|align=left|dont	yọ	None
+|align=left|get	gba	None
 zweedse	ara ilu sweden	Nan
 |align=left|if	| align = osi | ti o ba ti	Nan
 zweeds	ara ilu sweden	Nan
@@ -3277,10 +3277,10 @@ zweden	sweden	Nan
 |align=left|ik	| align = osi | i	Nan
 |align=left|im	| align = osi | im	Nan
 |align=left|in	| align = osi | ni	Nan
- km²	km²	Nan
- m	m	Nan
- mm	mm	Nan
- °c	° c	Nan
+km²	km²	Nan
+m	m	Nan
+mm	mm	Nan
+°c	° c	Nan
 £	£	Nan
 °c	° c	Nan
 ±	±	Nan
@@ -3292,11 +3292,11 @@ zweden	sweden	Nan
 én	ati	Nan
 één	a	Nan
 županija	upanija	Nan
- kmh	km	Nan
- km	km	Nan
- kg	kg	Nan
- cm	cm	Nan
-|align=left|just	| align = osi | o kan	Nan
+kmh	km	Nan
+km	km	Nan
+kg	kg	Nan
+cm	cm	Nan
+|align=left|just	kan	None
 |align=left|love	| align = osi | ifẹ	Nan
 |align=left|my	| align = osi | mi	Nan
 |align=left|one	| align = osi | ọkan	Nan
@@ -3324,14 +3324,14 @@ zoo	zoo	Nan
 zoogdier	mamma	Nan
 zoogdieren	osin	Nan
 zoon	ọmọ	None
-zoons	awọn ọmọ	Nan
+zoons	ọmọ	None
 zorg	itọju	Nan
 zorgde	mu itọju	Nan
 zorgden	mu itọju	Nan
 zorgen	lati bikita	Nan
-zorgt	gba itoju	Nan
+zorgt	gba	None
 zorgvuldig	alãpọn	Nan
-zonen	awọn ọmọ	Nan
+zonen	ọmọ	None
 zone	agbegbe aago	Nan
 zonder	laisi	Nan
 zonden	awọn ẹṣẹ	Nan
@@ -3341,9 +3341,9 @@ zogeheten	bẹ-ti a npe	Nan
 zogenaamd	gbimo	Nan
 zogenaamde	bẹ-ti a npe	Nan
 zogenoemde	bẹ-ti a npe	Nan
-zolang	o digba kan na	Nan
+zolang	kan	None
 zorreguieta	zorreguieta	Nan
-zomaar	ko si idi	Nan
+zomaar	ko	None
 zomers	awọn igba ooru	Nan
 zomerspelen	awọn ere ooru	Nan
 zomertijd	akoko fifipamọ if&#39;oju	Nan
@@ -3371,8 +3371,8 @@ zutphen	zutphen	Nan
 zuur	acid	Nan
 zuurstof	atẹgun	Nan
 zuidwest	guusu	None
-zuidvietnam	guusu vietnam	Nan
-zuidoosten	guusu ila oorun	Nan
+zuidvietnam	guusu	None
+zuidoosten	guusu	None
 zuidoostazië	south east asia	Nan
 zoveel	yi elo	Nan
 zover	titi si asiko yi	Nan
@@ -3380,23 +3380,23 @@ zowel	mejeeji	Nan
 zozeer	pupọ gaan	Nan
 zuid	guusu	None
 zuidafrika	gusu afrika	Nan
-zuidafrikaanse	guusu afirika	Nan
+zuidafrikaanse	guusu	None
 zouden	yoo	None
-zuidamerika	ila gusu amerika	Nan
+zuidamerika	amerika	None
 zuidelijk	guusu	None
 zuidelijke	guusu	None
 zuiden	guusu	None
 zuideuropa	gusu yuroopu	Nan
 zuidholland	guusu-holland	Nan
-zuidkant	guusu ẹgbẹ	Nan
+zuidkant	guusu	None
 zuidkorea	south korea	Nan
-zuidamerikaanse	guusu amẹrika	Nan
+zuidamerikaanse	guusu	None
 verkoop	tita	Nan
 wright	wuyi	Nan
 wouter	aṣu	Nan
 wekken	jii dide	Nan
 wel	daradara	Nan
-weliswaar	gba wọle	Nan
+weliswaar	gba	None
 welk	ewo	Nan
 welke	ewo	Nan
 welkom	kaabọ	Nan
@@ -3421,7 +3421,7 @@ wegdek	opopona dada	Nan
 wegen	ṣe iwọn	Nan
 wegennet	opopona opopona	Nan
 wegens	nitori	Nan
-weggelegd	gbe kuro	Nan
+weggelegd	gbe	None
 wegverkeer	opopona opopona	Nan
 wehrmacht	wehrmacht	Nan
 weigerde	kọ	Nan
@@ -3456,16 +3456,16 @@ werden	wà	Nan
 were	wà	Nan
 wereld	agbaye	None
 wereldbeeld	aye awotẹlẹ	Nan
-wereldberoemd	olokiki agbaye	Nan
-wereldberoemde	olokiki agbaye	Nan
+wereldberoemd	agbaye	None
+wereldberoemde	agbaye	None
 weerszijden	boya ẹgbẹ	Nan
 werelddeel	kọntinia	Nan
-werelderfgoedlijst	atokọ ohun-ini agbaye	Nan
-wereldgezondheidsorganisatie	ajo agbaye ilera	Nan
-wereldkampioen	agbajo agbaye	Nan
-wereldkampioenschap	idije agbaye	Nan
+werelderfgoedlijst	agbaye	None
+wereldgezondheidsorganisatie	agbaye	None
+wereldkampioen	agbaye	None
+wereldkampioenschap	agbaye	None
 wereldlijke	alailesin	Nan
-wereldoorlog	ogun agbaye	Nan
+wereldoorlog	agbaye	None
 werelds	agbaye	None
 werelderfgoed	ajogunba aye	Nan
 werner	werner	Nan
@@ -3525,14 +3525,14 @@ weer	lẹẹkansi	Nan
 weergave	ifihan	Nan
 weergegeven	han	Nan
 wedergeboorte	atunbi	Nan
-wed	ṣe igbeyawo	Nan
+wed	igbeyawo	None
 websites	awọn oju opo wẹẹbu	Nan
 website	aaye ayelujara	Nan
 washington	washington	Nan
 wat	kini	Nan
 water	omi	None
 wateren	omi	None
-watergentiaanfamilie	omi gentian ebi	Nan
+watergentiaanfamilie	ebi	None
 waterloo	waterloo	Nan
 waters	omi	None
 weerstaan	lati tako	Nan
@@ -3552,7 +3552,7 @@ winst	èrè	Nan
 winsten	awọn ere	Nan
 winston	winston	Nan
 wint	aamieye	Nan
-winter	igba otutu	Nan
+winter	otutu	None
 winters	winitutu	Nan
 wiskunde	isiro	Nan
 wiskundige	oniṣiro-ọrọ	Nan
@@ -3595,11 +3595,11 @@ woorden	awọn ọrọ	Nan
 word	di	Nan
 worden	tan-sinu	Nan
 wordende	di	Nan
-wordt	yoo wa ni	Nan
+wordt	yoo	None
 work	iṣẹ	Nan
 world	agbaye	None
 worlds	agbaye	None
-world||||||||||	agbaye ||||| kuka kuka	Nan
+world||||||||||	agbaye	None
 wortels	wá	Nan
 woonachtig	olugbe	Nan
 wood	igi	Nan
@@ -3630,10 +3630,10 @@ wetenschappers	sayensi	Nan
 wetgevende	isofin	Nan
 wetgeving	ofin	None
 wethouder	igbimọ	Nan
-wethouders	awọn ọmọ ẹgbẹ igbimọ	Nan
+wethouders	ọmọ	None
 wettelijk	t’olofin	Nan
 wettelijke	t’olofin	Nan
-wetten	awọn ofin	Nan
+wetten	ofin	None
 wezen	jije	None
 wezens	awọn ẹda	Nan
 when	nigbawo	Nan
@@ -3646,7 +3646,7 @@ wetenschap	sayensi	Nan
 weten	mọ	Nan
 west	iwọ oorun	Nan
 westberlijn	iwọ oorun iwọ oorun	Nan
-westduitsland	ìwọ̀-oòrùn jẹ́mánì	Nan
+westduitsland	jẹ́mánì	None
 westelijke	iwọ oorun	Nan
 westen	oorun	Nan
 westerbork	westerbork	Nan
@@ -3694,8 +3694,8 @@ widthin	fifẹ	Nan
 wiet	igbo	Nan
 wii	wii	Nan
 wijk	adugbo	Nan
-wijken	fi ọna	Nan
-wijkt	yoo fun ọna	Nan
+wijken	fi	None
+wijkt	fun	None
 wijn	waini	Nan
 wijsheid	ọgbọn	Nan
 wijst	awọn aaye	Nan
@@ -3743,7 +3743,7 @@ syndroom	aarun	Nan
 synoniem	amuṣiṣẹpọ	Nan
 tachtig	ọgọrin	Nan
 tachtigjarige	octogenarian	Nan
-tactiek	awọn ilana	Nan
+tactiek	ilana	None
 tafel	tabili	None
 taiwan	taiwan	Nan
 tak	ẹka	Nan
@@ -3751,7 +3751,7 @@ take	mu	Nan
 taken	awọn iṣẹ-ṣiṣe	Nan
 takken	awọn ẹka	Nan
 tal	lọpọlọpọ	Nan
-talen	awọn ede	Nan
+talen	ede	None
 talent	ẹbun	Nan
 talenten	ẹbun	Nan
 talloze	ainiye	Nan
@@ -3759,7 +3759,7 @@ talrijke	lọpọlọpọ	Nan
 taboe	taboo	Nan
 tabel	tabili	None
 tabak	taba	Nan
-taaltalen	awọn ede ede	Nan
+taaltalen	ede	None
 synoniemen	awọn ọrọ ti o jọra	Nan
 synthese	kolaginni	Nan
 syrië	síríà	Nan
@@ -3772,10 +3772,10 @@ systemen	awọn ọna šiše	Nan
 t	t	Nan
 taak	iṣẹ-ṣiṣe	Nan
 taal	ede	None
-taalgebied	agbegbe ede	Nan
-taalgebruik	lilo ede	Nan
+taalgebied	ede	None
+taalgebruik	ede	None
 taalgrens	ààlà èdè	Nan
-taalkundig	ede kika	Nan
+taalkundig	ede	None
 são	ãò	Nan
 tamelijk	iṣẹtọ	Nan
 stuurman	mate	Nan
@@ -3785,7 +3785,7 @@ straal	ray	Nan
 straat	opopona	Nan
 straf	iya	Nan
 strafbaar	ifiyajẹ	Nan
-straffen	lati fi iya jiya	Nan
+straffen	fi	None
 strafschop	tapa ifiyaje	Nan
 stralen	tàn	Nan
 straling	itu	None
@@ -3820,9 +3820,9 @@ streeft	tiraka	Nan
 streek	ẹkùn	Nan
 stuart	stuart	Nan
 studeerde	iwadi	None
-student	ọmọ ile-iwe	Nan
+student	ọmọ	None
 studenten	omo ile	Nan
-studeren	lati iwadi	Nan
+studeren	iwadi	None
 studie	iwadi	None
 studies	awọn ijinlẹ	Nan
 studio	ile isise	Nan
@@ -3844,7 +3844,7 @@ streng	muna	Nan
 strenge	muna	Nan
 stress	aapọn	Nan
 streven	lati tiraka	Nan
-stuurgroep	egbe oludari	Nan
+stuurgroep	egbe	None
 strijd	ijakadi	None
 strijdkrachten	ologun	Nan
 strikt	muna	Nan
@@ -3869,7 +3869,7 @@ terry	ilẹkun	Nan
 terug	sẹhin	Nan
 teruggaat	padà	Nan
 teruggetrokken	yorawonkuro	Nan
-teruggevonden	gba pada	Nan
+teruggevonden	gba	None
 terugkeer	padà	Nan
 terugkeren	padà	Nan
 terra	terra	Nan
@@ -3877,20 +3877,20 @@ terugkerende	padà	Nan
 terminologie	imọ-jinlẹ	Nan
 termijn	igba	Nan
 tennessee	tennessee	Nan
-tenslotte	ati nikẹhin ṣugbọn ko kere ju	Nan
+tenslotte	ko	None
 tentoonstelling	ifihan	Nan
 tentoonstellingen	awọn ifihan	Nan
 tenue	aṣọ	Nan
 tenzij	ayafi ti	Nan
-tepel	ori ọmu	Nan
-tepels	ori omu	Nan
+tepel	ori	None
+tepels	ori	None
 ter	ter	Nan
 terecht	deede	Nan
 terechtgekomen	pari	Nan
 terechtkomen	pari	Nan
 terlouw	terlouw	Nan
 term	igba	Nan
-termen	awọn ofin	Nan
+termen	ofin	None
 terminal	ebute	Nan
 terugkomen	n bọ pada	Nan
 terugtrekken	lati yọkuro	Nan
@@ -3898,7 +3898,7 @@ terwijl	nigba ti	Nan
 thailand	thailand	Nan
 thaise	thai	Nan
 than	ju	Nan
-thans	ni bayi	Nan
+thans	bayi	None
 that	iyẹn	Nan
 thats	iyẹn	Nan
 theater	itage	Nan
@@ -3908,7 +3908,7 @@ thema	akori	Nan
 themas	awọn akori	Nan
 theo	ẹmọ	Nan
 theodosius	theodosius	Nan
-theologie	eko nipa esin	Nan
+theologie	eko	None
 theologische	imq ẹkọ	Nan
 thai	thai	Nan
 tfrac	tfrac	None
@@ -3933,11 +3933,11 @@ textiel	aṣọ	Nan
 tevergeefs	lasan	Nan
 tank	ojò	Nan
 tenerife	ayalegbe	Nan
-teneinde	lati le	Nan
-teek	fi ami si	Nan
-teen	ika ẹsẹ	Nan
-tegelijk	ni akoko kan naa	Nan
-tegelijkertijd	ni akoko kan naa	Nan
+teneinde	le	None
+teek	fi	None
+teen	ẹsẹ	None
+tegelijk	kan	None
+tegelijkertijd	kan	None
 tegen	lodi si	Nan
 tegengestelde	idakeji	Nan
 tegenhanger	pendanti	Nan
@@ -3958,7 +3958,7 @@ tanzania	tanzania	Nan
 tarief	oṣuwọn	Nan
 tarwe	alikama	Nan
 taxi	ọkọ ayọkẹlẹ	Nan
-taxis	rin rin ọkọ ofurufu ni ilẹ pẹlu agbara rẹ	Nan
+taxis	rẹ	None
 taxonomie	asonwoori	Nan
 taylor	taylor	Nan
 taíno	taíno	Nan
@@ -3981,7 +3981,7 @@ telt	kika	Nan
 tempel	tẹmpili	Nan
 tempeliers	knights templar	Nan
 tempels	awọn ile-oriṣa	Nan
-temperaturen	awọn iwọn otutu	Nan
+temperaturen	otutu	None
 temperatuur	otutu	None
 tempo	ije	None
 ten	mẹwa	Nan
@@ -3998,7 +3998,7 @@ tekens	ohun kikọ	Nan
 tekort	aito	Nan
 tekst	ọrọ	Nan
 teksten	awọn ọrọ	Nan
-tenen	ika ẹsẹ	Nan
+tenen	ẹsẹ	None
 tel	tẹlifoonu	Nan
 telefoon	foonu	Nan
 telefoonnummer	nomba fonu	Nan
@@ -4026,7 +4026,7 @@ spelen	mu ṣiṣẹ	Nan
 speler	player	Nan
 spelers	awọn oṣere	Nan
 spellen	sipeli	Nan
-speciale	pataki kan	Nan
+speciale	kan	None
 spelling	akọtọ	Nan
 special	pataki	Nan
 specerijen	turari	Nan
@@ -4035,7 +4035,7 @@ south	guusu	None
 sovjet	rosia	Nan
 sovjetunie	igbimo sofieti	Nan
 sp	sp	Nan
-spaans	ede spanish	Nan
+spaans	ede	None
 spaanse	sipaki	Nan
 spaarne	fipamọ	Nan
 space	aaye	Nan
@@ -4061,9 +4061,9 @@ spreekt	soro	Nan
 spreken	lati sọrọ	Nan
 spreuk	sipeli	Nan
 springen	lati fo	Nan
-springsteen	orisun omi	Nan
+springsteen	omi	None
 sprong	fo	Nan
-spuiten	fun sokiri	Nan
+spuiten	fun	None
 sport	idaraya	Nan
 sporen	awọn orin	Nan
 sporadisch	lopin	Nan
@@ -4181,14 +4181,14 @@ ster	irawo	Nan
 sterft	kú	Nan
 sterfte	iku	None
 stellen	ṣeto	Nan
-sterftecijfer	iku oṣuwọn	Nan
+sterftecijfer	iku	None
 stelen	jale	Nan
 stelde	beere	Nan
 ste	ste	Nan
 stedelijk	ilu	Nan
 stedelijke	ilu	Nan
 steden	awọn ilu	Nan
-stedenbanden	ilu ibeji	Nan
+stedenbanden	ibeji	None
 steeds	nigbagbogbo	Nan
 steeg	dide	Nan
 steek	aranpo	Nan
@@ -4226,12 +4226,12 @@ sterker	okun sii	Nan
 sterkere	okun sii	Nan
 sterkste	lágbára	Nan
 sterkte	sar giri o	Nan
-sterktes	awọn agbara	Nan
+sterktes	agbara	None
 sterktezwakteanalyse	onínọmbà okun ailera	Nan
 sterren	irawọ	Nan
 stauffenberg	stauffenberg	Nan
 sterrenbeeld	ami zodiac	Nan
-sterven	lati ku	Nan
+sterven	ku	None
 steun	atilẹyin	Nan
 steunblaadje	petal	Nan
 steunde	atilẹyin	Nan
@@ -4247,7 +4247,7 @@ stabiliteit	iduroṣinṣin	Nan
 stad	ilu	Nan
 stadhouder	oluṣetọju	Nan
 stadhuis	gbongan ilu	Nan
-stadia	awọn ipele	Nan
+stadia	ipele	None
 stadion	papa-iṣere	Nan
 stadions	papa-iṣere	Nan
 stadium	ipele	None
@@ -4259,7 +4259,7 @@ stadsdeel	adugbo ilu	Nan
 stadsdelen	awọn agbegbe ilu	Nan
 stabiel	idurosinsin	Nan
 staatsvorm	fọọmu ipinle	Nan
-staatsschuld	gbese orilẹ-ede	Nan
+staatsschuld	gbese	None
 staatsinrichting	ipinle igbekalẹ	Nan
 ssers	awọn onṣẹ	Nan
 ssr	ssr	Nan
@@ -4291,16 +4291,16 @@ startin	ibẹrẹ	Nan
 startte	bẹrẹ	Nan
 state	ipinle	Nan
 staten	awọn ipinlẹ	Nan
-statengeneraal	gbogbogbo states	Nan
+statengeneraal	gbogbogbo	None
 statenverkiezingen	idibo ipinle	Nan
 station	ibudo	Nan
 stations	awọn ibudo	Nan
 statistiek	eeka	Nan
 stap	igbesẹ	Nan
 stanley	ìlù	Nan
-standpunten	awọn ipo	Nan
+standpunten	ipo	None
 standpunt	bi o se ri si	Nan
-stak	gbe jade	Nan
+stak	gbe	None
 staken	lati lu	Nan
 staking	kọlu	Nan
 stal	idurosinsin	Nan
@@ -4338,13 +4338,13 @@ valleien	afonifoji	Nan
 vaccinatie	ajesara	Nan
 vallen	ṣubu	Nan
 vaccin	ajesara	Nan
-vaatziekten	ti iṣan arun	Nan
+vaatziekten	arun	None
 usb	usb	Nan
 uss	us	Nan
 ussr	ussr	Nan
 ut	ut	Nan
 utc	utc	None
-utc+	utc +	Nan
+utc+	utc	None
 utrecht	utrecht	Nan
 utrechtse	utrechtse	Nan
 uur	wakati	Nan
@@ -4361,7 +4361,7 @@ valt	ṣubu	Nan
 variërend	orisirisi	None
 variëteiten	orisirisi	None
 varkens	elede	None
-varkensgriep	ẹlẹdẹ elede	Nan
+varkensgriep	elede	None
 vast	ti o wa titi	Nan
 vaste	ti o wa titi	Nan
 vasteland	oluile	Nan
@@ -4399,18 +4399,18 @@ us	àwa	Nan
 urine	ito	Nan
 uitspraken	awọn asọtẹlẹ	Nan
 uitspreken	faṣẹ	Nan
-uitstek	nkan dara julọ	Nan
+uitstek	nkan	None
 uitstekend	o tayọ	Nan
 uitstekende	o tayọ	Nan
 uitstraling	hihan	Nan
 uitte	fọhùn	Nan
 uitvaart	isinku	Nan
-uitverkocht	ko si ọja	Nan
+uitverkocht	ko	None
 uitvinder	olupilẹṣẹ	Nan
 uitvinding	kiikan	Nan
 uitvindingen	awọn ipilẹṣẹ	Nan
 uitvoer	o wu	Nan
-uitvoeren	lati gbe jade	Nan
+uitvoeren	gbe	None
 uitvoerende	adari	Nan
 uitspraak	alaye	Nan
 uitvoering	imuṣere	Nan
@@ -4430,7 +4430,7 @@ uitleg	alaye	Nan
 uitmaakt	ọrọ	Nan
 uitmaken	ya kuro	Nan
 uitoefenen	ere idaraya	Nan
-uitrusting	ohun èlò	Nan
+uitrusting	èlò	None
 uitsluitend	iyasọtọ	Nan
 uitvoeringen	awọn iṣe	Nan
 uitwendige	ita	Nan
@@ -4498,16 +4498,16 @@ verdelen	pin	Nan
 verdeling	pinpin	Nan
 verder	siwaju	Nan
 verdere	siwaju	Nan
-verdiende	yẹ fun	Nan
+verdiende	fun	None
 verdienen	lati jo&#39;gun	Nan
 verdieping	ilẹ	None
-verdiepingen	awọn ilẹ ipakà	Nan
+verdiepingen	ilẹ	None
 verdoving	akuniloorun	Nan
 verdrag	àdéhùn	Nan
 verdragen	farada	Nan
 verdreven	tii jade	Nan
 verdriet	ibanujẹ	Nan
-verdrijven	le jade	Nan
+verdrijven	le	None
 verduren	farada	Nan
 vergeleken	afiwe	Nan
 vergelijk	afiwe	Nan
@@ -4516,10 +4516,10 @@ verhouding	ipin	None
 verhoudingen	awọn ibatan	Nan
 verhuisde	ṣí	Nan
 verhuizen	gbigbe kuro	Nan
-verjaardag	ojo ibi	Nan
+verjaardag	ojo	None
 verkeer	ijabọ	Nan
-verkeerd	ti ko tọ	Nan
-verkeerde	ti ko tọ	Nan
+verkeerd	ko	None
+verkeerde	ko	None
 verkiezing	idibo	Nan
 verkiezingen	awọn idibo	Nan
 verklaard	ṣalaye	Nan
@@ -4598,7 +4598,7 @@ verbood	ewọ	Nan
 verborgen	farapamọ	Nan
 verbouwd	tun-kọ	Nan
 verbrand	jó	Nan
-verbranden	lati jo	Nan
+verbranden	jo	None
 verbranding	ijona	Nan
 verbroken	fifọ	Nan
 verdacht	ifura	Nan
@@ -4609,7 +4609,7 @@ verblijven	dúró	None
 verblijf	ibugbe	Nan
 verbleef	dúró	None
 verbindt	sopọ	Nan
-verantwoordelijkheden	awọn ojuse	Nan
+verantwoordelijkheden	ojuse	None
 verantwoordelijkheid	ojuse	None
 verantwoording	iṣiro	Nan
 verband	bandage	Nan
@@ -4621,7 +4621,7 @@ verbeterd	imudarasi	Nan
 verbeteren	imudarasi	Nan
 verbetering	ilọsiwaju	Nan
 verbeteringen	awọn ilọsiwaju	Nan
-verbieden	yago fun	Nan
+verbieden	fun	None
 verbinden	lati sopọ	Nan
 verbinding	ọna asopọ	Nan
 verbindingen	awọn isopọ	Nan
@@ -4638,7 +4638,7 @@ toepassen	lati waye	Nan
 toepassing	ohun elo	Nan
 toepassingen	awọn ohun elo	Nan
 toerisme	irin-ajo	Nan
-toeristen	aririn ajo	Nan
+toeristen	ajo	None
 toeristische	oniriajo	Nan
 toernooi	figagbaga	Nan
 toernooien	awọn idije	Nan
@@ -4652,16 +4652,16 @@ toegang	iraye si	Nan
 toegankelijk	wiwọle	Nan
 toegediend	ti a nṣakoso	Nan
 toegekend	yọọda	Nan
-toegelaten	gba laaye	Nan
+toegelaten	gba	None
 toegenomen	pọ si	Nan
 toegepast	gbẹyin	Nan
 toegepaste	gbẹyin	Nan
 toegeschreven	ikawe	Nan
-toegestaan	ti gba laaye	Nan
-toegevoegd	fi kun	Nan
+toegestaan	gba	None
+toegevoegd	fi	None
 toegewezen	sọtọ	Nan
-toekomst	ojo iwaju	Nan
-toekomstige	ojo iwaju	Nan
+toekomst	ojo	None
+toekomstige	ojo	None
 toen	lẹhinna	Nan
 toenam	dide	Nan
 toestand	ipo	None
@@ -4682,7 +4682,7 @@ torres	awon odo	Nan
 tot	titi	Nan
 totaal	lapapọ	Nan
 totale	lapapọ	Nan
-tony	ikan isere	Nan
+tony	ikan	None
 tong	ahọn	Nan
 tonen	ṣafihan	Nan
 toneelstuk	mu ṣiṣẹ	Nan
@@ -4728,7 +4728,7 @@ thumb|een	atampako | a	Nan
 theorieën	awọn imọ-jinlẹ	Nan
 theory	yii	Nan
 therapie	itọju ailera	Nan
-there	ní bẹ	Nan
+there	ní	None
 thing	ohun	Nan
 think	ronu	Nan
 this	eyi	Nan
@@ -4740,7 +4740,7 @@ thuisbasis	ipilẹ ile	Nan
 thuishaven	ibudo ile	Nan
 thuiswedstrijden	awọn ere ile	Nan
 thumb|de	àá | | de	Nan
-thumb|het	atanpako | rẹ	Nan
+thumb|het	rẹ	None
 tienduizenden	mewa ti egbegberun	Nan
 tieners	odo	Nan
 tientallen	mewa	Nan
@@ -4765,8 +4765,8 @@ tillend	gbígbé	Nan
 till	titi	Nan
 tijd	aago	Nan
 tijde	aago	Nan
-tijdelijk	fun igba diẹ	Nan
-tijdelijke	fun igba diẹ	Nan
+tijdelijk	fun	None
+tijdelijke	fun	None
 tijden	awọn akoko	Nan
 tijdens	nigba ti	Nan
 tijdgenoten	awọn ẹlẹgbẹ	Nan
@@ -4781,7 +4781,7 @@ tijgers	ẹyẹ	Nan
 tilburg	tilburg	Nan
 tijdlijn	ago	Nan
 tournee	ajo	None
-tournees	irin ajo	Nan
+tournees	ajo	None
 tov	ojulumo si	Nan
 u	iwo	Nan
 uit	lati	Nan
@@ -4835,7 +4835,7 @@ uitgerust	ni ipese	Nan
 uitgeschakeld	wa ni pipa	Nan
 uitgesloten	rara	Nan
 uitgesproken	oyè	Nan
-uitgesteld	sun siwaju	Nan
+uitgesteld	sun	None
 uitgegaan	jade	Nan
 uitgedrukt	ti ṣalaye	Nan
 uitgebreide	sanlalu	Nan
@@ -4898,7 +4898,7 @@ trainers	olukọni	Nan
 traden	iṣowo	Nan
 uitgestrekte	gbooro	Nan
 trio	meta	Nan
-troepen	awọn ọmọ ogun	Nan
+troepen	ogun	None
 tsjernobyl	chernobyl	Nan
 tsunami	tsunami	Nan
 tu	tu	Nan
@@ -4915,7 +4915,7 @@ turkse	tọki	Nan
 turner	elere idaraya	Nan
 tussen	laarin	None
 tsjechoslowakije	czechoslovakia	Nan
-tsjechië	apapọ ilẹ ṣẹẹki	Nan
+tsjechië	ilẹ	None
 tsjechische	sosipo	Nan
 tsjechisch	czech	Nan
 trof	lu	Nan
@@ -4928,7 +4928,7 @@ tropische	tropical	Nan
 trivia	yeye	Nan
 tros	opo	Nan
 trouw	oloootitọ	Nan
-trouwde	ti ni iyawo	Nan
+trouwde	iyawo	None
 trouwe	adúróṣinṣin	Nan
 trouwen	fẹ	Nan
 trouwens	yato si	Nan
@@ -4942,7 +4942,7 @@ college	kọlẹji	Nan
 colleges	awọn ikowe	Nan
 colombia	ilu columbia	Nan
 colorgray	ẹlẹwa	Nan
-colormagenta	awo awọ	Nan
+colormagenta	awo	None
 colors	awọn awọ	Nan
 colosseum	colosseum	Nan
 columbia	ẹṣẹ	Nan
@@ -4950,7 +4950,7 @@ columbus	ilu columbus	Nan
 coma	kọma	Nan
 combinatie	apapo	Nan
 combinaties	awọn akojọpọ	Nan
-combineren	lati darapo	Nan
+combineren	darapo	None
 come	wá	Nan
 comeback	pada wa	Nan
 collegas	awọn ẹlẹgbẹ	Nan
@@ -4968,11 +4968,11 @@ code	koodu	Nan
 codes	awọn koodu	Nan
 cognitieve	imoye	Nan
 cohen	cohen	Nan
-coldplay	ẹrọ otutu	Nan
+coldplay	otutu	None
 colitis	àrun	Nan
 collectie	gbigba	Nan
 collectief	collective	Nan
-collection||||||||||	ikojọpọ || dịka ko si	Nan
+collection||||||||||	ko	None
 commandant	balogun	Nan
 commando	pipaṣẹ	Nan
 commentaar	asọye	Nan
@@ -5004,8 +5004,8 @@ communicatie	ibaraẹnisọrọ	Nan
 communiceren	lati baraẹnisọrọ	Nan
 club	ọgọ	Nan
 communisme	ibarapọpọ	Nan
-communistisch	ọmọ ẹgbẹ ilu	Nan
-communistische	ọmọ ẹgbẹ ilu	Nan
+communistisch	ọmọ	None
+communistische	ọmọ	None
 compagnie	ile-iṣẹ	Nan
 company	ile-iṣẹ	Nan
 compensatie	biinu	Nan
@@ -5065,7 +5065,7 @@ claude	robi	Nan
 claudius	claudius	Nan
 claus	kilo	Nan
 clay	amọ	Nan
-clemens	awọn ọmọ ile-iṣẹ	Nan
+clemens	ọmọ	None
 cleopatra	cleopatra	Nan
 clinton	clintoni	Nan
 civiele	ara ilu	Nan
@@ -5089,13 +5089,13 @@ circuits	awọn iyika	Nan
 circulatie	san	Nan
 circus	circle	Nan
 cincinnati	cincinnati	Nan
-cheliceren	ku oriire	Nan
+cheliceren	oriire	None
 conceptie	oyun	Nan
 concerten	awọn ere orin	Nan
 crown	ade	Nan
 cruciaal	pataki	Nan
-cruijff	ọkọ oju-omi kekere	Nan
-cruise	ọkọ oju-omi kekere	Nan
+cruijff	kekere	None
+cruise	kekere	None
 cry	kigbe	Nan
 crystal	kristali	Nan
 cuba	kuba	Nan
@@ -5130,11 +5130,11 @@ critici	alariwisi	Nan
 curry	korri	Nan
 curtis	curtis	Nan
 cyclonen	kẹkẹ ẹlẹṣin	Nan
-daarna	lẹyìn náà	Nan
+daarna	náà	None
 daarnaast	ni afikun	Nan
 daarom	nitorinaa	Nan
 daaronder	nisalẹ	Nan
-daarop	lori iyen	Nan
+daarop	iyen	None
 daaropvolgende	atẹle	Nan
 daarover	nipa iyẹn	Nan
 daartoe	si ti opin	Nan
@@ -5161,8 +5161,8 @@ da	da	None
 daadwerkelijk	gangan	Nan
 daalde	kọ	Nan
 daalt	sil.	Nan
-daar	nibe yen	Nan
-daaraan	si iyen	Nan
+daar	nibe	None
+daaraan	iyen	None
 daarbij	nitorina	Nan
 daarbuiten	jade nibẹ	Nan
 daad	iṣe	Nan
@@ -5199,7 +5199,7 @@ concurrenten	awọn oludije	Nan
 concurrentie	idije	Nan
 concurrerende	ifigagbaga	Nan
 condensator	capacitor	Nan
-condensatoren	awọn agbara	Nan
+condensatoren	agbara	None
 conditie	majemu	Nan
 condoom	kondomu	Nan
 confederatie	confederation	Nan
@@ -5227,7 +5227,7 @@ convectie	convection	Nan
 controversiële	ariyanjiyan	Nan
 controversieel	ariyanjiyan	Nan
 consumptie	lilo	Nan
-contact	kan si	Nan
+contact	kan	None
 contacten	awọn olubasọrọ	Nan
 context	o tọ	Nan
 continent	kọntinia	Nan
@@ -5259,15 +5259,15 @@ bridge	afara	Nan
 brief	leta	Nan
 brieven	awọn lẹta	Nan
 bril	gilaasi	Nan
-brink	alawọ ewe	Nan
+brink	ewe	None
 brit	brit	Nan
-breekt	fi opin si	Nan
+breekt	fi	None
 british	oloogun	Nan
 breedtegraad	latitude	Nan
 breed	gbooro	Nan
 bram	bram	Nan
 brand	ina	Nan
-branden	lati jo	Nan
+branden	jo	None
 brandende	sisun	Nan
 brandstof	epo	Nan
 brandstoffen	epo	Nan
@@ -5285,7 +5285,7 @@ britney	britney	Nan
 brits	ara ilu gẹẹsi	Nan
 britse	oloogun	Nan
 brugse	awọn ologbo	Nan
-bruikbaar	nkan elo	Nan
+bruikbaar	nkan	None
 bruiloft	igbeyawo	None
 bruin	brown	Nan
 bruine	brown	Nan
@@ -5311,7 +5311,7 @@ broer	arakunrin	Nan
 broers	awọn arakunrin	Nan
 bron	orisun	None
 braken	eebi	Nan
-bronnen	awọn orisun	Nan
+bronnen	orisun	None
 brood	burẹdi	Nan
 brooke	brooke	Nan
 brooklyn	brooklyn	Nan
@@ -5324,10 +5324,10 @@ building	ile	Nan
 brak	bu	None
 brachten	mu	Nan
 boos	binu	Nan
-boot	ọkọ oju omi	Nan
+boot	omi	None
 bootleg	bootleg	Nan
 borderline	ààlà	Nan
-border|pxvlag	aala | px asia	Nan
+border|pxvlag	aala	None
 borg	idogo	Nan
 boris	boris	Nan
 borsato	borsato	Nan
@@ -5380,7 +5380,7 @@ bovenaan	ni oke	Nan
 boven	orí òkè	Nan
 bouwwerken	awọn ẹya	Nan
 bouwwerk	edifice	Nan
-boten	awọn ọkọ oju-omi kekere	Nan
+boten	kekere	None
 boter	bota	Nan
 botsing	jamba	Nan
 botten	egungun	Nan
@@ -5411,7 +5411,7 @@ categoriefilm	fiimu ẹka	Nan
 categoriegemenebest	ẹka lasan	Nan
 categoriegeschiedenis	itan ẹka	Nan
 categoriehoofdstad	olu ẹka	Nan
-categorieinfectieziekte	ẹka arun	Nan
+categorieinfectieziekte	arun	None
 categorieitaliaans	ẹka ẹka	Nan
 categorieland	orilẹ-ede ẹka	Nan
 categorienederlands	dutch ẹka	Nan
@@ -5445,7 +5445,7 @@ century	orundun	Nan
 cf	cf	Nan
 challenge	ipenija	Nan
 champions	awọn aṣaju	Nan
-chan	ipo igboro	Nan
+chan	ipo	None
 change	yipada	None
 channel	ikanni	Nan
 chaos	rudurudu	Nan
@@ -5457,7 +5457,7 @@ central	aringbungbun	Nan
 centraaleuropa	aringbungbun yuroopu	Nan
 centraalazië	aringbungbun asia	Nan
 centraal	aringbungbun	Nan
-categoriewerelderfgoed	ohun-ini agbaye	Nan
+categoriewerelderfgoed	agbaye	None
 categorieën	awọn ẹka	Nan
 catharina	catharina	Nan
 cavalerie	ẹlẹṣin	Nan
@@ -5480,7 +5480,7 @@ card	kaadi	Nan
 burgerij	bourgeoisie	Nan
 burgerlijk	ara ilu	Nan
 burgerlijke	ara ilu	Nan
-burgeroorlog	ogun abẹlé	Nan
+burgeroorlog	ogun	None
 burgers	ara ilu	Nan
 burton	ajekii	Nan
 bus	bosi	Nan
@@ -5585,7 +5585,7 @@ dublin	dublin	Nan
 duel	duel	Nan
 duet	duet	Nan
 duidelijk	kedere	Nan
-duidelijke	ko o	Nan
+duidelijke	ko	None
 duidelijker	diẹ sii kedere	Nan
 duiden	tọka	Nan
 duidt	tọka	Nan
@@ -5627,7 +5627,7 @@ dwerg	arara	Nan
 dwingen	ipa	Nan
 dylan	arabinrin	Nan
 dylans	arabinrin	Nan
-dynastie	idile oba	Nan
+dynastie	oba	None
 dvd	dvd	Nan
 eddy	eddy	Nan
 drums	awọn ilu	Nan
@@ -5647,14 +5647,14 @@ dragers	awọn ọkọ ayọkẹlẹ	Nan
 dragon	dragoni	Nan
 drake	sike	Nan
 drama	eré	Nan
-downloaden	lati gba lati ayelujara	Nan
+downloaden	gba	None
 dramatische	ìgbésẹ	Nan
 down	silẹ	Nan
 double	ilọpo meji	Nan
 doorgevoerd	imuse	Nan
 doorheen	nipasẹ	Nan
 doorlopen	ṣiṣe nipasẹ	Nan
-doormidden	ni idaji	Nan
+doormidden	idaji	None
 doorn	elegun	Nan
 doors	awọn ilẹkun	Nan
 doorstaan	lati farada	Nan
@@ -5674,7 +5674,7 @@ droeg	wọ	Nan
 droegen	wọ	Nan
 droge	gbẹ	Nan
 dromen	àlá	Nan
-drong	ro o	Nan
+drong	ro	None
 dronken	yó	Nan
 droog	gbẹ	Nan
 droom	àlá	Nan
@@ -5688,7 +5688,7 @@ drukste	busrest	Nan
 drinkt	ohun mimu	Nan
 drinken	mu	Nan
 dringt	rọ	Nan
-dringen	ta ku	Nan
+dringen	ku	None
 drastisch	bosipo	Nan
 dre	ti	Nan
 dream	àlá	Nan
@@ -5704,7 +5704,7 @@ driehoek	onigun mẹta	Nan
 driekwart	ibi meta	Nan
 driemaal	emeta	Nan
 drietal	mẹta	Nan
-drijven	leefofo loju omi	Nan
+drijven	omi	None
 dreven	drif	Nan
 doorgegeven	koja	Nan
 edelen	awọn ọlọla	Nan
@@ -5715,14 +5715,14 @@ elite	gbajumo	Nan
 elizabeth	elizabeth	Nan
 elk	kọọkan	Nan
 elkaar	olukuluuku ara wa	Nan
-elkaars	kọọkan miiran ká	Nan
+elkaars	ká	None
 elke	kọọkan	Nan
 eluens	eleke	Nan
 elvis	igbonwo	Nan
 email	í-meèlì	Nan
 emanuel	manuelmmanuelnì	Nan
 embleem	apẹẹrẹ	Nan
-embryo	ọmọ inu oyun	Nan
+embryo	ọmọ	None
 emigratie	ijira	Nan
 elfstedentocht	irin-ajo mọkanla ilu	Nan
 eminem	eminem	Nan
@@ -5753,8 +5753,8 @@ enig	eyikeyi	Nan
 enige	nikan	Nan
 enigszins	bikita	Nan
 enkel	nikan	Nan
-enkele	kan diẹ	Nan
-enof	ati tabi	Nan
+enkele	kan	None
+enof	tabi	None
 enorm	tobi pupo	Nan
 enorme	tobi	Nan
 enterprise	kekeke	Nan
@@ -5786,7 +5786,7 @@ end	ipari	Nan
 edgar	edgar	Nan
 eisen	awọn ibeere	Nan
 einsteins	einsteins	Nan
-eenzelfde	ikan na	Nan
+eenzelfde	ikan	None
 eer	ọlá	Nan
 eerbetoon	oriyin	Nan
 eerder	sẹyìn	Nan
@@ -5797,7 +5797,7 @@ eersten	akoko	Nan
 eet	jẹ	Nan
 eeuw	orundun	Nan
 eeuwen	sehin	Nan
-eeuwenlang	fun sehin	Nan
+eeuwenlang	fun	None
 eeuwig	lailai	Nan
 eeuwige	ayeraye	Nan
 eeuwse	orundun	Nan
@@ -5860,9 +5860,9 @@ eiffeltoren	ile iṣọ eiffel	Nan
 eigen	tirẹ	Nan
 eigenaar	oniwun	Nan
 ei	ẹyin	Nan
-doorgang	fi aye	Nan
+doorgang	fi	None
 doorgaans	nigbagbogbo	Nan
-doorgaan	gba loju	Nan
+doorgaan	gba	None
 delen	pin	Nan
 delftse	delft	Nan
 deling	pipin	Nan
@@ -5895,7 +5895,7 @@ definities	awọn asọye	Nan
 definitieve	ipari	Nan
 definiëren	lati setumo	Nan
 degelijk	líle	Nan
-degene	oun gangan	Nan
+degene	oun	None
 degenen	awọn naa	Nan
 dekking	agbegbe	Nan
 den	igi pine	Nan
@@ -5921,7 +5921,7 @@ dergelijke	ti iru	Nan
 dergelijk	iru	Nan
 derde	kẹta	None
 denkbeelden	awọn imọran	Nan
-denken	lati ro	Nan
+denken	ro	None
 denkt	ronu	Nan
 dennis	dennis	Nan
 denters	ehin	Nan
@@ -5973,7 +5973,7 @@ daling	silẹ	Nan
 dalí	dalí	Nan
 dam	idido	Nan
 dame	arabinrin	Nan
-dames	awọn tara	Nan
+dames	tara	None
 dan	ju	Nan
 das	tai	Nan
 dat	ewo ni	Nan
@@ -6003,7 +6003,7 @@ dateformat	dateformat	Nan
 dateren	ọjọ	Nan
 datgene	iyẹn	Nan
 datum	ọjọ	Nan
-datzelfde	ikan na	Nan
+datzelfde	ikan	None
 deelnemer	alabaṣe	Nan
 dave	dave	Nan
 davis	davis	Nan
@@ -6021,8 +6021,8 @@ document	iwe	Nan
 documentaire	itan	Nan
 documenten	awọn iwe aṣẹ	Nan
 dode	kú	Nan
-dodelijk	ti ku	Nan
-dodelijke	ti ku	Nan
+dodelijk	ku	None
+dodelijke	ku	None
 doden	pa	Nan
 doe	ṣe	Nan
 doek	aṣọ	Nan
@@ -6063,9 +6063,9 @@ donkere	dudu	Nan
 donna	donna	Nan
 dont	maṣe	Nan
 dood	iku	None
-dooddoeners	iku olore	Nan
+dooddoeners	iku	None
 doodgeschoten	gbon pa	Nan
-doodsoorzaak	ohun ti o fa iku	Nan
+doodsoorzaak	iku	None
 doodstraf	ijiya olu	Nan
 door	nipasẹ	Nan
 doorbraak	itusilẹ	Nan
@@ -6074,7 +6074,7 @@ donald	donald	Nan
 don	don	Nan
 dominicaanse	dominican	Nan
 domingo	domingo	Nan
-doet	ti wa ni nse	Nan
+doet	nse	None
 dog	aja	Nan
 dogs	ajá	Nan
 dokter	dokita	Nan
@@ -6105,8 +6105,8 @@ dieet	ounje	Nan
 diefstal	olè	Nan
 diem	kú	Nan
 dien	sìn	Nan
-diende	yoo wa	Nan
-dienden	yoo wa	Nan
+diende	yoo	None
+dienden	yoo	None
 dienen	sìn	Nan
 diens	tirẹ	Nan
 dichters	awọn ewi	Nan
@@ -6114,7 +6114,7 @@ dichter	sunmọ	Nan
 dichtbij	sún mọ	Nan
 dicht	sunmọ	Nan
 deze	eyi	Nan
-dezelfde	ikan na	Nan
+dezelfde	ikan	None
 dharma	dharma	Nan
 di	ṣii	Nan
 diabetes	atọgbẹ	Nan
@@ -6145,7 +6145,7 @@ directe	taara	Nan
 directeur	oludari	Nan
 dirk	dirk	Nan
 discipline	ibawi	Nan
-disciplines	awọn ilana	Nan
+disciplines	ilana	None
 discografie	itan	Nan
 discotheken	discotheques	Nan
 dikke	nipọn	Nan
@@ -6156,15 +6156,15 @@ dienstverlening	iṣẹ	Nan
 dient	sin	Nan
 diep	jinjin	Nan
 diepe	jinjin	Nan
-dieper	ko wole si	Nan
+dieper	wole	None
 diepte	ijinle	Nan
 dier	ẹranko	Nan
-dienstensector	eka iṣẹ	Nan
+dienstensector	eka	None
 dieren	ẹranko	Nan
 dierlijk	ẹranko	Nan
 dierlijke	ẹranko-bi	Nan
-diersoorten	eya eranko	Nan
-diezelfde	ikan na	Nan
+diersoorten	eya	None
+diezelfde	ikan	None
 digitaal	oni-nọmba	Nan
 digital	oni-nọmba	Nan
 digitale	oni-nọmba	Nan
@@ -6190,7 +6190,7 @@ anime	anime	Nan
 anderzijds	ti a ba tun wo lo	Nan
 aniston	aganran	Nan
 andersom	pada sẹhin	Nan
-anderhalf	ọkan ati idaji	Nan
+anderhalf	idaji	None
 amfibieën	amphibians	Nan
 aminozuren	amino acids	Nan
 amstel	amẹ́ẹ́rẹ́	Nan
@@ -6238,7 +6238,7 @@ antarctica	antarctica	Nan
 antenne	eriali	Nan
 amersfoort	amersfoort	Nan
 antennes	eriali	Nan
-antibiotica	ogun apakokoro	Nan
+antibiotica	ogun	None
 antidepressiva	awọn antidepressants	Nan
 antieke	ohun atijọ	Nan
 antillen	awọn eegun	Nan
@@ -6268,11 +6268,11 @@ algoritmen	awọn alugoridimu	Nan
 allen	gbogbo	Nan
 algerije	algeria	Nan
 algemeen	gbogbogbo	None
-alcoholgebruik	oti agbara	Nan
+alcoholgebruik	agbara	None
 alcoholische	ọmuti	Nan
 alcoholisme	ọti amupara	Nan
 alcoholisten	ọmuti	Nan
-aldaar	ní bẹ	Nan
+aldaar	ní	None
 aldus	bayi	None
 alejandro	alejandro	Nan
 aleksandr	titaniji	Nan
@@ -6295,7 +6295,7 @@ am	emi	Nan
 amazone	amazon	Nan
 ambassade	ifiweranṣẹ	Nan
 ambassadeur	aṣoju	Nan
-amber	awọ yẹlo to ṣokunkun	Nan
+amber	to	None
 ambt	ọfiisi	Nan
 ambtenaren	awọn oṣiṣẹ	Nan
 america	america	Nan
@@ -6368,9 +6368,9 @@ bach	biriki	Nan
 bachelor	oye	Nan
 bachs	awọn bachs	Nan
 back	sẹhin	Nan
-bacterie	awọn kokoro arun	Nan
+bacterie	arun	None
 bacteriële	alamọdaju	Nan
-bacteriën	awọn kokoro arun	Nan
+bacteriën	arun	None
 bad	iwẹ	Nan
 baker	alagbẹdẹ	Nan
 bakermat	jojolo	Nan
@@ -6420,16 +6420,16 @@ aristoteles	aristotle	Nan
 arizona	arizona	Nan
 archipel	ile ikawe	Nan
 arm	apa	Nan
-archieven	awọn ile ifi nkan pamosi	Nan
+archieven	nkan	None
 archeologische	igba atijọ	Nan
-apparatuur	ohun èlò	Nan
+apparatuur	èlò	None
 appartement	iyẹwu	Nan
 appel	apu	Nan
 apple	apu	Nan
-april	oṣu kẹrin	Nan
+april	kẹrin	None
 aquino	aquino	Nan
 arabieren	ara	Nan
-arabisch	dè lárúbáwá	Nan
+arabisch	lárúbáwá	None
 arabische	arab	Nan
 aragon	wiwoon	Nan
 arbeid	laala	Nan
@@ -6437,7 +6437,7 @@ arbeiders	osise	Nan
 arbeiderspartij	ẹgbẹ laala	Nan
 arc	aaki	Nan
 archeologisch	igba atijọ	Nan
-archief	ile ifi nkan pamosi	Nan
+archief	nkan	None
 arme	talaka	None
 armeense	ara ilu armenia	Nan
 armen	awọn ọwọ	Nan
@@ -6459,12 +6459,12 @@ astronoom	awòràwọ	Nan
 artistieke	iṣẹ ọna	Nan
 artistiek	iṣẹ ọna	Nan
 artillerie	ohun ija	Nan
-artikelen	awọn nkan	Nan
+artikelen	nkan	None
 armenië	armenia	Nan
 armeniërs	armenia	Nan
 armoede	osi	Nan
 armstrong	amusowo	Nan
-army	ọmọ ogun	Nan
+army	ogun	None
 arnhem	arnhem	Nan
 arnold	arnold	Nan
 atelier	idanileko	Nan
@@ -6500,7 +6500,7 @@ aarde	ile	Nan
 aanvraag	ohun elo	Nan
 aanvoer	ipese	Nan
 aantonen	ṣafihan	Nan
-aantreden	gba ọfiisi	Nan
+aantreden	gba	None
 aantrekkelijk	ẹlẹwa	Nan
 aantrekken	ifamọra	Nan
 aantrekkingskracht	ifamọra	Nan
@@ -6524,21 +6524,21 @@ accepteren	gba	None
 acdc	acdc	Nan
 acht	mẹjọ	Nan
 achter	sile	None
-achteraf	lẹyìn náà	Nan
+achteraf	náà	None
 achtereenvolgens	itẹlera	Nan
 achteren	sile	None
 achtergelaten	kọ silẹ	Nan
 achtergrond	lẹhin	Nan
 achterkant	idi	Nan
 achterlijf	ikun	Nan
-achternaam	oruko idile	Nan
+achternaam	oruko	None
 achterpoten	hind ese	Nan
 academische	omowe	Nan
 academisch	omowe	Nan
 academie	omowe	Nan
 ac	ac	Nan
 aardolie	epo	Nan
-aardoppervlak	ori ilẹ	Nan
+aardoppervlak	ilẹ	None
 aardse	ti ayé	Nan
 aartsbisschop	archbishop	Nan
 ab	ab	Nan
@@ -6569,10 +6569,10 @@ aangegeven	itọkasi	Nan
 aangehaald	sọ	None
 aangekomen	dé	None
 aangekondigd	kede	Nan
-aangelegd	gbe jade	Nan
+aangelegd	gbe	None
 aangelegde	ti idena	Nan
 aangelegenheden	ọrọ	Nan
-aandringen	ta ku	Nan
+aandringen	ku	None
 aangemerkt	samisi	Nan
 aandoeningen	arun	None
 aandelen	mọlẹbi	Nan
@@ -6672,7 +6672,7 @@ afspraken	awọn adehun	Nan
 afwisselend	bibẹẹkọ	Nan
 afzetten	ju silẹ	Nan
 afzonderlijk	lọtọ	Nan
-airport	papa ọkọ ofurufu	Nan
+airport	papa	None
 airways	atẹgun	Nan
 ajax	ajax	Nan
 aka	aka	Nan
@@ -6687,8 +6687,8 @@ albanezen	awọn ara alibani	Nan
 albanië	albania	Nan
 albert	ominira	Nan
 alberto	alberto	Nan
-airlinesvlucht	awon oko ofurufu	Nan
-airlines	awon oko ofurufu	Nan
+airlinesvlucht	oko	None
+airlines	oko	None
 aires	afẹfẹ	Nan
 airbus	ategun afẹfẹ	Nan
 afzonderlijke	lọtọ	Nan
@@ -6784,8 +6784,8 @@ afdelingen	awọn apa	Nan
 affaire	ibalopọ	Nan
 afgebeeld	han	Nan
 afgebroken	wó	Nan
-afgegeven	fi sinu	Nan
-afbraak	ko ṣiṣẹ	Nan
+afgegeven	fi	None
+afbraak	ko	None
 ball	bọọlu	Nan
 ballet	baluu	Nan
 ballingschap	igbekun	Nan
@@ -6793,7 +6793,7 @@ bevond	ni a ri	Nan
 bevonden	ri	Nan
 bevorderd	ni igbega	Nan
 bevorderen	igbelaruge	Nan
-bevordert	nse igbelaruge	Nan
+bevordert	nse	None
 bevriend	ọrẹ	Nan
 bevrijd	ominira	Nan
 bevrijden	láti lómìnira	Nan
@@ -6804,10 +6804,10 @@ bewaard	tọju	Nan
 bewaren	tọjú ẹ	Nan
 beweegt	e	Nan
 beweerd	so	None
-bevolkt	gbe jade	Nan
+bevolkt	gbe	None
 beweerde	so	None
 bevolkingssamenstelling	tiwqn olugbe	Nan
-bevolkingsgroei	idagbasoke olugbe	Nan
+bevolkingsgroei	idagbasoke	None
 bevel	paṣẹ	Nan
 bevelhebber	balogun	Nan
 beveren	beaver	Nan
@@ -6825,11 +6825,11 @@ bevolking	olugbe	Nan
 bevolkingsdichtheid	iwuwo olugbe	Nan
 bevolkingsgroepen	awọn ẹgbẹ olugbe	Nan
 beweert	nperare	Nan
-bewegen	lati gbe	Nan
+bewegen	gbe	None
 bewegende	gbigbe	Nan
 bewustzijn	akiyesi	Nan
 bezat	ohun ini	Nan
-bezaten	ti gba	Nan
+bezaten	gba	None
 bezet	ti tẹdo	Nan
 bezette	ti tẹdo	Nan
 bezetten	gbalaye	Nan
@@ -6855,7 +6855,7 @@ bewerkstelligen	ṣe	Nan
 bewerkt	satunkọ	Nan
 beveiliging	aabo	Nan
 bewezen	fihan	None
-bewijzen	fi mule	Nan
+bewijzen	fi	None
 bewind	jọba	Nan
 bewogen	ṣí	Nan
 bewonderen	lati ẹwa	Nan
@@ -6867,7 +6867,7 @@ bezittingen	ohun-ini	Nan
 bevatten	ni	Nan
 bevat	ni	Nan
 bestemd	ti a pinnu	Nan
-bestemming	opin irin ajo	Nan
+bestemming	ajo	None
 bestemmingen	awọn ibi	Nan
 bestempeld	aami	Nan
 bestond	wa	Nan
@@ -6878,7 +6878,7 @@ bestrijden	ija	Nan
 bestrijding	ija	Nan
 bestudeerd	iwadi	None
 bestudeert	awọn ijinlẹ	Nan
-bestuderen	lati iwadi	Nan
+bestuderen	iwadi	None
 besturen	iṣakoso	Nan
 besturingssysteem	eto isesise	Nan
 besteedde	lo	Nan
@@ -6886,9 +6886,9 @@ bestuur	ọkọ	Nan
 besteed	lo	Nan
 beste	dara julọ	Nan
 besluitvorming	ipinnu	Nan
-besmet	ti kó àrùn	Nan
-besmette	ti kó àrùn	Nan
-besmettelijk	tó leè ranni	Nan
+besmet	àrùn	None
+besmette	àrùn	None
+besmettelijk	leè	None
 besmetting	ibajẹ	Nan
 besprekingen	awọn ijiroro	Nan
 besproken	sísọ	Nan
@@ -6959,7 +6959,7 @@ bloeiende	itanna	Nan
 bloeiperiode	akoko aladodo	Nan
 bloem	òdòdó	Nan
 blijvende	pẹ	Nan
-bloemen	awọn ododo	Nan
+bloemen	ododo	None
 blijvend	pẹ	Nan
 blijkt	wa ni	Nan
 blair	blir	Nan
@@ -6970,13 +6970,13 @@ blanken	alawo funfun	Nan
 blauw	bulu	Nan
 blauwe	bulu	Nan
 blazen	fẹ	Nan
-bleef	o ku	Nan
+bleef	ku	None
 bleek	wa ni tan-jade	Nan
 bleken	gbigbo	Nan
 bleven	dúró	None
 blij	dun	None
 blijft	ku	None
-blijken	gbe jade	Nan
+blijken	gbe	None
 blijven	dúró	None
 blog	bulọọgi	Nan
 blok	dina	Nan
@@ -7047,7 +7047,7 @@ beëindigd	fopin si	Nan
 beëindigen	lati pari	Nan
 beïnvloed	fowo	Nan
 bijgezet	interred	Nan
-beïnvloeden	lati ni agba	Nan
+beïnvloeden	agba	None
 bibliografie	iwe itan	Nan
 bibliotheek	ile ikawe	Nan
 bibliotheken	awọn ile ikawe	Nan
@@ -7055,7 +7055,7 @@ bieber	eegun	Nan
 bieden	ìfilọ	Nan
 biedt	awọn ipese	Nan
 bier	oti sekengberi	Nan
-beïnvloedt	yoo ni ipa lori	Nan
+beïnvloedt	yoo	None
 besluiten	pinnu	Nan
 bijkomende	afikun	Nan
 bijnaam	inagije	Nan
@@ -7077,12 +7077,12 @@ björn	björn	Nan
 binnenstad	ti inu ilu	Nan
 binnenlandse	t’ile	Nan
 binnenlands	t’ile	Nan
-binnenland	loke ilẹ	Nan
+binnenland	ilẹ	None
 bijnamen	lórúkọ	Nan
 bijten	lati jáni	Nan
 bijv	apẹẹrẹ	Nan
 bijvangst	nipasẹ-yẹ	Nan
-bijvoorbeeld	fun apere	Nan
+bijvoorbeeld	fun	None
 bijwerkingen	ẹgbẹ igbelaruge	Nan
 bijwoord	adverb	Nan
 bijna	fẹẹrẹ	Nan
@@ -7170,7 +7170,7 @@ beheerste	dari	Nan
 behield	ni idaduro	Nan
 behoefte	nilo	Nan
 behoeften	aini	Nan
-behoeve	fun idi	Nan
+behoeve	fun	None
 beheer	iṣakoso	Nan
 bekendheid	okiki	Nan
 bedrijven	iṣowo	Nan
@@ -7181,7 +7181,7 @@ barok	baroki	Nan
 baron	baron	Nan
 barrett	iṣẹ	Nan
 barry	abọ	Nan
-bart	oko igbo	Nan
+bart	oko	None
 barwikipedias	barwikipedias	Nan
 bas	baasi	Nan
 basale	basali	Nan
@@ -7201,7 +7201,7 @@ banaan	ogede	Nan
 bananen	banas	Nan
 band	ẹgbẹ	Nan
 banden	awọn taya	Nan
-bandleden	omo egbe	Nan
+bandleden	egbe	None
 bands	igbohunsafefe	Nan
 banen	awọn iṣẹ	Nan
 bang	àníyàn	Nan
@@ -7262,7 +7262,7 @@ beroemdheden	gbajumo osere	Nan
 beroemdste	olokiki julọ	Nan
 beroep	oojọ	Nan
 beroepen	awọn oojọ	Nan
-beroepsonderwijs	eko ise	Nan
+beroepsonderwijs	eko	None
 berry	berry	Nan
 bert	dọti	Nan
 berucht	olokiki-nla	Nan
@@ -7347,8 +7347,8 @@ beloofde	ti ṣèlérí	Nan
 belegering	dotì	Nan
 beleg	topping	Nan
 beleefde	oníwà-rere	Nan
-belastingen	owo ori	Nan
-bekeren	lati yipada	Nan
+belastingen	ori	None
+bekeren	yipada	None
 bekering	ironupiwada	Nan
 bekijken	wo	Nan
 bekken	pelvis	Nan
@@ -7366,7 +7366,7 @@ belast	idiyele	Nan
 belasting	owo-ori	Nan
 belangen	nifesi	Nan
 besloten	ikọkọ	Nan
-bemachtigen	gba a	Nan
+bemachtigen	gba	None
 bemanningsleden	awọn atukọ ẹgbẹ	Nan
 benzine	petirolu	Nan
 beoefend	adaṣe	Nan
@@ -7379,7 +7379,7 @@ bepaalt	ipinnu	Nan
 bepalen	pinnu	Nan
 bepalend	ti npinnu	Nan
 bepaling	ipinnu	Nan
-beperken	iye to	Nan
+beperken	to	None
 beperking	inira	Nan
 beperkingen	awọn idiwọn	Nan
 beperkte	lopin	Nan
@@ -7419,7 +7419,7 @@ invloed	ipa	Nan
 invloeden	awọn ipa	Nan
 invloedrijke	gbajugbaja	Nan
 invloedssfeer	ayika ti ipa	Nan
-invoer	awọn agbewọle lati ilu okeere	Nan
+invoer	okeere	None
 invoering	ifihan	Nan
 invulling	ipari	Nan
 intocht	titẹsi	Nan
@@ -7539,7 +7539,7 @@ intellectuelen	omowe	Nan
 intelligent	oloye	None
 inspireren	iwuri	Nan
 inspireerde	atilẹyin	Nan
-inspiratiebron	orisun ti awokose	Nan
+inspiratiebron	orisun	None
 inspiratie	awokose	Nan
 initiatief	ipilẹṣẹ	Nan
 initiatieven	awọn ipilẹṣẹ	Nan
@@ -7600,14 +7600,14 @@ jozef	jósẹ́fù	Nan
 jr	jr	Nan
 juan	juan	Nan
 jury	imomopaniyan	Nan
-just	o kan	Nan
-justify	da lare	Nan
+just	kan	None
+justify	da	None
 justin	justin	Nan
 justitie	ododo	None
 k	k	Nan
 kaak	eegun	Nan
 kaap	iho	Nan
-kaapstad	ilu cape	Nan
+kaapstad	cape	None
 kaart	maapu	None
 kaarten	awọn kaadi	Nan
 kaas	warankasi	Nan
@@ -7632,13 +7632,13 @@ julian	julian	Nan
 juliana	juliana	Nan
 julius	julius	Nan
 jungle	igbo	Nan
-juni	oṣu karun	Nan
+juni	karun	None
 junior	junior	Nan
 juli	oṣu keje	Nan
 j	j	Nan
 joe	joe	Nan
 joden	ju	Nan
-jamaica	ilu ilu jamaica	Nan
+jamaica	jamaica	None
 jamal	jamal	Nan
 james	awọn orukọ james	Nan
 jan	jan	Nan
@@ -7650,11 +7650,11 @@ jansz	jansz	Nan
 jantje	jantje	Nan
 januari	oṣu kini	Nan
 japan	japan	Nan
-japanners	ede japan	Nan
+japanners	ede	None
 japanse	japanese	Nan
 jaren	ọdun	Nan
 jam	jam	Nan
-jarenlang	fun ọdun	Nan
+jarenlang	fun	None
 jakob	jakobu	Nan
 jagger	jagger	Nan
 jaap	jaap	Nan
@@ -7673,9 +7673,9 @@ jacqueline	isakiri	Nan
 jacques	jacques	Nan
 jagen	lati sode	Nan
 jakarta	jakarta	Nan
-jarenlange	fun ọdun	Nan
-jarig	ojo ibi	Nan
-jarige	ojo ibi	Nan
+jarenlange	fun	None
+jarig	ojo	None
+jarige	ojo	None
 jersey	jẹ́ríà	Nan
 jeruzalem	jerusalẹmu	Nan
 jesse	jesse	Nan
@@ -7758,7 +7758,7 @@ hoofdstuk	orí	Nan
 hoofdzakelijk	o kun	Nan
 hoog	ga	Nan
 hoogendijk	hoogendijk	Nan
-hooggerechtshof	kotu tio kaju lo ni orile ede	Nan
+hooggerechtshof	ede	None
 hoogland	orí òkè	Nan
 hooglanden	awọn ilu giga	Nan
 hoogleraar	alamọdaju	Nan
@@ -7778,7 +7778,7 @@ hongaars	ara ilu hungary	Nan
 hongaarse	agunrin	Nan
 hongaren	awọn ọdẹ	Nan
 hongarije	họnari	Nan
-honger	ebi n pa	Nan
+honger	ebi	None
 hn	loni	Nan
 hongersnood	ìyàn	Nan
 hoofd	ori	None
@@ -7793,7 +7793,7 @@ hoopt	awọn ireti	Nan
 hiërarchie	olori	Nan
 hitte	igbona	Nan
 hetgeen	ewo	Nan
-hetzelfde	ikan na	Nan
+hetzelfde	ikan	None
 hetzij	boya	Nan
 heuvel	òkè	Nan
 heuvels	awọn oke-nla	Nan
@@ -7817,7 +7817,7 @@ heroïne	akọni obinrin	Nan
 hersenen	ọpọlọ	Nan
 herstel	gbigba	Nan
 hersteld	pada sipo	Nan
-herstelde	gba pada	Nan
+herstelde	gba	None
 herstellen	lati bọsipọ	Nan
 hertog	ewurẹ	Nan
 hertogdom	adodo	Nan
@@ -7855,10 +7855,10 @@ hieronder	ni isalẹ	Nan
 hierop	lori eyi	Nan
 hierover	nipa eyi	Nan
 hiertegen	lodi si eyi	Nan
-hiertoe	fun idi eyi	Nan
+hiertoe	fun	None
 hiv	hiv	Nan
 hieruit	lati eyi	Nan
-hiervoor	fun eyi	Nan
+hiervoor	fun	None
 high	ga	Nan
 hij	oun	None
 hijzelf	iho	Nan
@@ -7869,10 +7869,10 @@ hiervan	ti eyi	Nan
 hoopte	nireti	Nan
 hoorde	gbo	Nan
 hoorn	iwo	Nan
-ijsland	ede iceland	Nan
+ijsland	iceland	None
 ijslandse	yinyin	Nan
 ijssel	ijssel	Nan
-ijstijd	yinyin ori	Nan
+ijstijd	ori	None
 ijzer	irin	Nan
 ijzeren	irin	Nan
 ijzererts	irin irin	Nan
@@ -7915,7 +7915,7 @@ india	india	Nan
 indiaanse	ilu abinibi	Nan
 indian	ara ilu	Nan
 indiana	indiana	Nan
-indianen	abinibi ara amerika	Nan
+indianen	amerika	None
 indiase	ara ilu	Nan
 indicatie	itọkasi	Nan
 indien	ti o ba ti	Nan
@@ -7966,7 +7966,7 @@ houd	dimu	Nan
 hou	ni ife	Nan
 hotmail	igbona	Nan
 hoornaar	awó	Nan
-hoornplaten	awo awo	Nan
+hoornplaten	awo	None
 hoort	gbọ	Nan
 hope	ireti	Nan
 horatius	hora	Nan
@@ -7984,7 +7984,7 @@ hotels	awọn hotẹẹli	Nan
 horizontale	petele	Nan
 kaken	faari	Nan
 huidskleur	awọ awọ	Nan
-huisarts	oṣiṣẹ gbogbogbo	Nan
+huisarts	gbogbogbo	None
 hypothalamus	hypothalamus	Nan
 hypotheken	awọn idogo	Nan
 hypothese	idawọle	Nan
@@ -8008,8 +8008,8 @@ huisvest	awọn ile	Nan
 huisvesting	ile	Nan
 huizen	awọn ile	Nan
 huizenprijzen	owo ile	Nan
-hulp	egba mi o	Nan
-hulpbronnen	awọn orisun	Nan
+hulp	egba	None
+hulpbronnen	orisun	None
 human	ènìyàn	Nan
 huis	ile	Nan
 humanisme	ẹda eniyan	Nan
@@ -8017,9 +8017,9 @@ humor	arakunrin	Nan
 hun	wọn	None
 hunt	ọdẹ	Nan
 hunter	ọdẹ	Nan
-huwde	ti ni iyawo	Nan
+huwde	iyawo	None
 huwelijk	igbeyawo	None
-huwelijken	awọn igbeyawo	Nan
+huwelijken	igbeyawo	None
 humanisten	eniyan	Nan
 kaká	kaka	Nan
 kalender	kalẹnda	Nan
@@ -8039,11 +8039,11 @@ larve	idin	Nan
 larven	idin	Nan
 las	ka	Nan
 last	ẹru	Nan
-langdurige	gun lasting	Nan
+langdurige	gun	None
 lastig	nira	Nan
-langdurig	gun lasting	Nan
+langdurig	gun	None
 lane	ọna tooro	Nan
-landbouwgrond	oko oko	Nan
+landbouwgrond	oko	None
 landbouwproducten	awọn ọja ogbin	Nan
 landelijk	jakejado orilẹ-ede	Nan
 landelijke	igberiko	None
@@ -8051,10 +8051,10 @@ landen	awọn orilẹ-ede	Nan
 landgoed	ohun-ini	Nan
 landing	ibalẹ	Nan
 landklimaat	afefe ile aye	Nan
-landmacht	ọmọ ogun	Nan
+landmacht	ogun	None
 landschap	ala-ilẹ	Nan
 landschildpadden	ijapa	Nan
-landsgrenzen	awọn aala orilẹ-ede	Nan
+landsgrenzen	aala	None
 landskampioen	aṣaju ti orilẹ-ede	Nan
 landsnaam	orukọ orilẹ-ede	Nan
 landvoogd	gomina	None
@@ -8062,15 +8062,15 @@ lang	gun	None
 late	pẹ	Nan
 laten	lọ	Nan
 later	nigbamii	Nan
-leeftijd	ọjọ ori	Nan
+leeftijd	ori	None
 leeftijden	awọn ọjọ-ori	Nan
 leeg	ofo	Nan
 leek	dabi enipe	Nan
 leem	loam	Nan
 leer	kọ ẹkọ	Nan
 leerde	kọ ẹkọ	Nan
-leerling	ọmọ ile-iwe	Nan
-leerlingen	awọn ọmọ ile-iwe	Nan
+leerling	ọmọ	None
+leerlingen	ọmọ	None
 leert	kọ ẹkọ	Nan
 leest	ti wa ni kika	Nan
 leeuw	kiniun	Nan
@@ -8082,8 +8082,8 @@ leefden	gbé	None
 leefde	gbé	None
 leefbaar	lila	Nan
 latere	nigbamii	Nan
-latijn	ede latini	Nan
-latijnsamerika	latin amerika	Nan
+latijn	latini	None
+latijnsamerika	amerika	None
 latijnse	latari	Nan
 laude	ihoho	Nan
 laura	laura	Nan
@@ -8093,7 +8093,7 @@ lawrence	agbofinro	Nan
 leader	oludari	Nan
 league	ajumọṣe	Nan
 led	darí	Nan
-leden	ọmọ ẹgbẹ	Nan
+leden	ọmọ	None
 leds	leds	Nan
 lee	lee	Nan
 leed	ibanujẹ	Nan
@@ -8124,8 +8124,8 @@ kruiden	ewe	None
 kruipt	àwọn eré	Nan
 kruis	rekọja	Nan
 kruising	líla	Nan
-kruistocht	ogun ti ogun	Nan
-kruistochten	awọn ọmọ ogun	Nan
+kruistocht	ogun	None
+kruistochten	ogun	None
 kruisvaarders	awọn onija	Nan
 ku	ku	None
 kubisme	igbọnwọ	Nan
@@ -8136,7 +8136,7 @@ kunsten	ona ona	Nan
 kunstenaar	olorin	Nan
 kunstenaars	awọn oṣere	Nan
 kunstmatige	atọwọda	Nan
-kwaliteiten	awọn agbara	Nan
+kwaliteiten	agbara	None
 kwam	wa	Nan
 kwamen	wa	Nan
 laden	ẹru	Nan
@@ -8147,7 +8147,7 @@ lage	kekere	None
 lagen	fẹlẹfẹlẹ	Nan
 lager	kere	Nan
 lagere	kere	Nan
-lagerhuis	ile kekere	Nan
+lagerhuis	kekere	None
 lake	adagun	Nan
 lakeman	adagun	Nan
 lama	llama	Nan
@@ -8178,9 +8178,9 @@ kwetsbaar	alailewu	Nan
 legale	t’olofin	Nan
 legde	se alaye	Nan
 legden	se alaye	Nan
-lid	ọmọ ẹgbẹ	Nan
+lid	ọmọ	None
 lidmaatschap	ẹgbẹ	Nan
-lidstaten	awọn ọmọ ẹgbẹ egbe	Nan
+lidstaten	egbe	None
 liechtenstein	liechtenstein	Nan
 lied	orin	Nan
 liederen	awọn orin	Nan
@@ -8206,7 +8206,7 @@ libië	libya	Nan
 library	ile ikawe	Nan
 lichaam	ara	Nan
 lichaamsdelen	awọn ẹya ara	Nan
-lichaamstemperatuur	ara otutu	Nan
+lichaamstemperatuur	otutu	None
 lichamelijk	nipa ti ara	Nan
 lichamelijke	ti ara	Nan
 lichamen	awọn ara	Nan
@@ -8258,7 +8258,7 @@ lezing	kika	Nan
 leipzig	leipzig	Nan
 lek	jo	None
 leken	laymen	Nan
-lekken	lati jo	Nan
+lekken	jo	None
 lelystad	lelystad	Nan
 lenen	lati yawo	Nan
 lengte	gigun	Nan
@@ -8266,7 +8266,7 @@ lenin	lenin	Nan
 lening	awin	Nan
 leningen	awọn awin	Nan
 lennon	lennon	Nan
-lente	orisun omi	Nan
+lente	omi	None
 leo	leo	None
 leon	leon	Nan
 leonard	adẹtẹ	Nan
@@ -8278,8 +8278,8 @@ lege	ofo	Nan
 legend	arosọ	Nan
 legendarische	arosọ	Nan
 legende	arosọ	Nan
-leger	ọmọ ogun	Nan
-legers	ọmọ ogun	Nan
+leger	ogun	None
+legers	ogun	None
 leggen	lati dubulẹ	Nan
 leonardo	leonardo	Nan
 legioen	ẹgbẹ pataki	Nan
@@ -8339,7 +8339,7 @@ kerken	awọn ile ijọsin	Nan
 kerkhof	ibojì	None
 kern	mojuto	Nan
 kernen	ohun kohun	Nan
-kerstman	santa claus	Nan
+kerstman	santa	None
 kerstmis	keresimesi	Nan
 keten	pq	Nan
 ketterij	emi	Nan
@@ -8390,7 +8390,7 @@ kindertijd	ewe	None
 kinderen	ọmọ	None
 kind	ọmọ	None
 kin	agbọn	Nan
-kid	ọmọ kekere	Nan
+kid	kekere	None
 kiel	keel	Nan
 kiest	yan	None
 kiev	kiev	Nan
@@ -8410,11 +8410,11 @@ kijken	wo	Nan
 klansmen	klansmen	Nan
 keltische	sẹẹli	Nan
 kelly	kelly	Nan
-kantons	awọn ilu kekere	Nan
+kantons	kekere	None
 kantoor	ọfiisi	Nan
 kantoren	awọn ọfiisi	Nan
 kanye	kanye	Nan
-kapel	ile ijosin	Nan
+kapel	ijosin	None
 kapitaal	olu	Nan
 kapitalisme	kapitalisimu	Nan
 kapitalistische	kapitalisimu	Nan
@@ -8500,8 +8500,8 @@ korter	kikuru	Nan
 kortere	kikuru	Nan
 kortrijk	kortrijk	Nan
 kortste	kuru ju	Nan
-kortweg	fun kukuru	Nan
-kosmische	agba ara	Nan
+kortweg	fun	None
+kosmische	agba	None
 koppel	tọkọtaya	Nan
 kosovo	kosovo	Nan
 kopje	ife	Nan
@@ -8519,7 +8519,7 @@ koor	akọrin	Nan
 koorts	ibà	Nan
 koos	yàn	Nan
 kop	akọle	Nan
-kopen	lati ra	Nan
+kopen	ra	None
 kopenhagen	copenhagen	Nan
 kopie	ẹda	Nan
 kost	awọn idiyele	Nan
@@ -8527,7 +8527,7 @@ koste	inawo	Nan
 kosten	iye owo	Nan
 krezip	igbaya	Nan
 krijgen	lati mu	Nan
-krijgsgevangenen	awọn ẹlẹwọn ogun	Nan
+krijgsgevangenen	ogun	None
 krijgsmacht	ologun	Nan
 krijgt	gba	None
 krijt	chalk	Nan
@@ -8549,7 +8549,7 @@ kostuums	aṣọ	Nan
 koud	tutu	Nan
 koude	tutu	Nan
 kouder	otutu	None
-kozen	ti a ti yan	Nan
+kozen	yan	None
 kraakbeen	kerekere	Nan
 koningschap	ọba	Nan
 kracht	agbara	None
@@ -8573,7 +8573,7 @@ klm	klm	Nan
 klok	aago	Nan
 klooster	monastery	Nan
 kloosters	monasiti	Nan
-kloppen	lati kan	Nan
+kloppen	kan	None
 klopt	jẹ ẹtọ	Nan
 kluis	lailewu	Nan
 klux	klux	Nan
@@ -8621,7 +8621,7 @@ koning	ọba	Nan
 kolonies	awọn ileto	Nan
 kolonie	ileto	Nan
 koloniale	amunisin	Nan
-kolonel	ọmọ ogun	Nan
+kolonel	ogun	None
 knip	ge	Nan
 knipperen	ikosan	Nan
 knollen	isu	Nan
@@ -8636,7 +8636,7 @@ koepel	éù	Nan
 koers	dajudaju	Nan
 koeweit	kuwait	Nan
 koffie	kọfi	Nan
-kofi	ọmọ ẹgbẹ	Nan
+kofi	ọmọ	None
 kok	alase	Nan
 koe	maalu	Nan
 litouwen	lithuania	Nan
@@ -8675,7 +8675,7 @@ geallieerde	apapọ	Nan
 geallieerden	awọn ọrẹ	Nan
 gear	jia	Nan
 gearresteerd	mu	Nan
-geassocieerd	ni nkan ṣe	Nan
+geassocieerd	nkan	None
 gebaseerd	orisun	None
 gebogen	te	Nan
 gebonden	wa ni owun si	Nan
@@ -8690,7 +8690,7 @@ gecombineerde	ni idapo	Nan
 gecompenseerd	isanpada	Nan
 gecomponeerd	kq	Nan
 geconcentreerd	ogidi	Nan
-geconfronteerd	dojú kọ	Nan
+geconfronteerd	dojú	None
 gecontroleerd	ṣayẹwo	Nan
 gecreëerd	ṣẹda	Nan
 gedaald	dinku	Nan
@@ -8700,7 +8700,7 @@ gebruiker	olumulo	Nan
 gebruiken	lo	Nan
 gebruikelijke	tẹlẹ	Nan
 geboortecijfer	ibi oṣuwọn	Nan
-geboortedatum	ojo ibi	Nan
+geboortedatum	ojo	None
 geboortehuis	ile ibi	Nan
 geboorteplaats	ibi ibi	Nan
 geboren	bi	Nan
@@ -8735,7 +8735,7 @@ fungeren	iṣe	Nan
 funk	funk	Nan
 fusie	apapọ	Nan
 fruit	eso	Nan
-future	ojo iwaju	Nan
+future	ojo	None
 fronten	iwaju	Nan
 from	lati	Nan
 frederik	frederik	Nan
@@ -8756,7 +8756,7 @@ fritz	fritz	Nan
 front	iwaju	Nan
 fysiek	ti ara	Nan
 fysieke	ti ara	Nan
-fysiologische	ti ẹkọ iwulo ẹya	Nan
+fysiologische	iwulo	None
 ganesha	ganesha	Nan
 gang	ọdẹdẹ	Nan
 gangbare	wọpọ	Nan
@@ -8926,7 +8926,7 @@ gekregen	gba	None
 gekroond	ti ade	Nan
 gekweekt	dagba	Nan
 geladen	ti kojọpọ	Nan
-gehuisvest	ti gbe	Nan
+gehuisvest	gbe	None
 gehouden	tọju	Nan
 gehoord	gbo	Nan
 gehoor	gbo	Nan
@@ -8977,9 +8977,9 @@ eva	eva	Nan
 evacuatie	sisilo	Nan
 evangelie	ihinrere	None
 evangelische	ihinrere	None
-evangeliën	awọn ihinrere	Nan
+evangeliën	ihinrere	None
 evans	awọn ikede	Nan
-even	fun diẹ	Nan
+even	fun	None
 evenaar	olumeta	Nan
 evenals	gẹgẹ bi	Nan
 eveneens	tun	Nan
@@ -9010,7 +9010,7 @@ extra	afikun	Nan
 exodus	ẹ́kísódù	Nan
 exotische	alailẹgbẹ	Nan
 expansie	imugboroosi	Nan
-expeditie	irin ajo	Nan
+expeditie	ajo	None
 experience	iriri	Nan
 experiment	ṣàdánwò	Nan
 experimentele	esiperimenta	Nan
@@ -9019,7 +9019,7 @@ experimenten	awọn adanwo	Nan
 explosie	bugbamu	Nan
 explosieve	awọn ibẹjadi	Nan
 export	okeere	None
-exportproducten	okeere awọn ọja	Nan
+exportproducten	okeere	None
 expressionisme	ikosile	Nan
 expressionistische	ikosile	Nan
 externe	ita	Nan
@@ -9037,22 +9037,22 @@ erkende	mọ	Nan
 erkennen	jẹwọ	Nan
 erkenning	idanimọ	Nan
 erkent	jẹwọ	Nan
-ermee	pẹlu rẹ	Nan
-erna	lẹyìn náà	Nan
+ermee	rẹ	None
+erna	náà	None
 ernst	pataki	Nan
-ernstig	to ṣe pataki	Nan
-ernstige	to ṣe pataki	Nan
+ernstig	to	None
+ernstige	to	None
 ergens	ibikan	Nan
 erogene	erogenous	Nan
 erg	pupọ	Nan
 erfgoed	ogún	Nan
 epilepsie	warapa	Nan
 episode	isele	Nan
-er	ní bẹ	Nan
+er	ní	None
 eraan	si o	Nan
-erachter	lẹhin rẹ	Nan
+erachter	rẹ	None
 erasmus	erasmus	Nan
-erbij	ní bẹ	Nan
+erbij	ní	None
 ere	ọlá	Nan
 erectie	ere	Nan
 eredienst	jọsin	Nan
@@ -9085,7 +9085,7 @@ etappe	ipele	None
 estse	estse	Nan
 estland	estonia	Nan
 erotiek	ẹlẹgbin	Nan
-erover	nipa rẹ	Nan
+erover	rẹ	None
 ertoe	si o	Nan
 eruit	jade	Nan
 ervaart	awọn iriri	Nan
@@ -9108,7 +9108,7 @@ florence	florence	Nan
 floyd	floyd	Nan
 fm	fm	Nan
 focus	idojukọ	Nan
-foetus	ọmọ inu oyun	Nan
+foetus	ọmọ	None
 folklore	arosọ	Nan
 fonds	owo-ifilọlẹ	Nan
 fontsizes	fontsizes	Nan
@@ -9152,10 +9152,10 @@ frankische	ododo	None
 frankrijk	faranse	None
 frans	faranse	None
 franse	faranse	None
-fransman	ara ilu faranse	Nan
+fransman	faranse	None
 franstalig	faranse	None
-franstalige	faranse soro	Nan
-franstaligen	awọn agbọrọsọ faranse	Nan
+franstalige	faranse	None
+franstaligen	faranse	None
 franz	franz	Nan
 francesco	faranse	None
 france	itanran	Nan
@@ -9174,13 +9174,13 @@ foto	aworan	Nan
 fotografie	fọtoyiya	Nan
 fotos	awọn fọto	Nan
 foundation	ipile	Nan
-fout	ti ko tọ	Nan
+fout	ko	None
 fouten	awọn abawọn	Nan
 fox	kọlọkọ	Nan
 fossielen	awọn fosaili	Nan
 final	ipari	Nan
 filosoof	onitumọ	Nan
-filosofische	ogbon ori	Nan
+filosofische	ori	None
 fc	fc	Nan
 februari	oṣu kínní	Nan
 federaal	federal	Nan
@@ -9202,7 +9202,7 @@ favoriete	ayanfẹ	Nan
 fauna	fauna	Nan
 fame	okiki	Nan
 familie	idile	Nan
-familieleden	awọn ọmọ ẹgbẹ ẹbi	Nan
+familieleden	ọmọ	None
 families	idile	Nan
 family	idile	Nan
 fan	àìpẹ	Nan
@@ -9213,12 +9213,12 @@ fascisme	fascism	Nan
 fascisten	fascists	Nan
 fascistische	fascist	Nan
 fase	alakoso	Nan
-fasen	awọn ipele	Nan
-fases	awọn ipele	Nan
+fasen	ipele	None
+fases	ipele	None
 fatale	apani	Nan
 farao	fáráò	Nan
 general	gbogboogbo	Nan
-feiten	awọn ododo	Nan
+feiten	ododo	None
 felix	felix	Nan
 filipijnse	filipino	Nan
 filips	awọn agekuru	Nan
@@ -9234,7 +9234,7 @@ filmreeks	fiimu jara	Nan
 films	sinima	Nan
 filosofen	onimoye	Nan
 filosofie	imoye	Nan
-filosofisch	ogbon ori	Nan
+filosofisch	ori	None
 filipijnen	awọn agekuru	Nan
 fijn	wuyi	Nan
 figuur	eeya	Nan
@@ -9259,27 +9259,27 @@ festivals	ajọdun	Nan
 generatie	iran	Nan
 generaties	iran	Nan
 generation	iran	Nan
-groots	baba agba	Nan
+groots	agba	None
 grootschalige	titobi	Nan
-grootse	baba agba	Nan
+grootse	agba	None
 grootst	tobi julo	Nan
 grootste	tobi julo	Nan
 grootte	iwọn	Nan
-grootvader	baba agba	Nan
+grootvader	agba	None
 grot	ihò	Nan
 grote	nla	Nan
-grotendeels	fun apakan julọ	Nan
+grotendeels	fun	None
 groter	ga	Nan
 grotere	ti o tobi ju	Nan
 grotten	awọn iho	Nan
 grove	gbogbogbo	None
 gruzielement	airi	Nan
-grootmoeder	iya agba	Nan
+grootmoeder	agba	None
 gta	gta	Nan
 grootmeester	iya-agba	Nan
 groothertog	baba duke	Nan
 groeperingen	awọn ẹgbẹ	Nan
-groepsfase	ipele egbe	Nan
+groepsfase	egbe	None
 grofweg	ni aijọju	Nan
 grond	ilẹ	None
 gronden	awọn aaye	Nan
@@ -9339,7 +9339,7 @@ groenten	ẹfọ	Nan
 graaf	ka	Nan
 graafschap	county	Nan
 graafschappen	awọn kaunti	Nan
-graag	fi ayọ	Nan
+graag	fi	None
 graan	ọkà	Nan
 grace	oore	Nan
 gracht	odo odo	Nan
@@ -9353,7 +9353,7 @@ grammatica	jagunjagun	Nan
 grammy	arẹmọ	Nan
 graad	ìyí	Nan
 gran	gran	Nan
-gouverneurs	awọn gomina	Nan
+gouverneurs	gomina	None
 gouverneur	gomina	None
 golf	gọọfu	Nan
 golflengte	igigirisẹ	Nan
@@ -9370,9 +9370,9 @@ gotische	onibaje	Nan
 goud	wúrà	Nan
 gouda	gouda	Nan
 gouden	ti goolu	Nan
-gouverneurgeneraal	gomina gbogbogbo	Nan
+gouverneurgeneraal	gbogbogbo	None
 granada	granada	Nan
-grand	baba agba	Nan
+grand	agba	None
 grande	giga	Nan
 griekse	ọfun	Nan
 griep	aisan	Nan
@@ -9385,10 +9385,10 @@ groeiden	dagba	Nan
 groeien	lati dagba	Nan
 groeiende	ndagba	Nan
 groeit	gbooro	Nan
-groen	alawọ ewe	Nan
-groene	alawọ ewe	Nan
+groen	ewe	None
+groene	ewe	None
 groenland	gẹẹsi	Nan
-groenlinks	alawọ ewe osi	Nan
+groenlinks	ewe	None
 grieks	griki	Nan
 griekenland	griki	Nan
 grieken	awọn hellene	Nan
@@ -9402,11 +9402,11 @@ gray	grẹy	Nan
 great	nla	Nan
 groep	ẹgbẹ	Nan
 greater	tobi	Nan
-green	alawọ ewe	Nan
+green	ewe	None
 greep	di mu	Nan
 grens	ààlà	Nan
-grensgebied	agbegbe aala	Nan
-grenst	awọn aala	Nan
+grensgebied	aala	None
+grenst	aala	None
 grenzen	awọn ifilelẹ lọ	Nan
 gretchen	gretchen	Nan
 greatest	tobi julo	Nan
@@ -9436,11 +9436,11 @@ heerschappij	ijọba	Nan
 heersende	ti nmulẹ	Nan
 heerser	adarí	Nan
 heersers	awọn alaṣẹ	Nan
-heerst	awọn ofin	Nan
+heerst	ofin	None
 heerste	ṣàkóso	Nan
 heet	gbona	Nan
 heette	ni a pe	Nan
-heffen	lati gbe	Nan
+heffen	gbe	None
 heftige	iwa-ipa	Nan
 hegel	hegel	Nan
 hegemonie	hegemony	Nan
@@ -9454,7 +9454,7 @@ helpt	iranlọwọ	Nan
 herder	oluṣọ-agutan	Nan
 heren	onigbagbọ	Nan
 hereniging	isọdọkan	Nan
-herfst	igba irẹdanu ewe	Nan
+herfst	ewe	None
 herhaald	tun	Nan
 herhaalde	tun	Nan
 herhaaldelijk	leralera	Nan
@@ -9474,7 +9474,7 @@ hem	rẹ	None
 hemel	ọrun	Nan
 hemellichamen	awọn ẹya ọrun	Nan
 hemelse	ti ọrun	Nan
-hemelvaart	ojo ascension	Nan
+hemelvaart	ojo	None
 hemiplegie	hemiplegia	Nan
 hemoglobine	haemololobin	Nan
 heerenveen	heerenveen	Nan
@@ -9498,7 +9498,7 @@ handicap	ailera ara	Nan
 handig	wulo	Nan
 handvest	iwe adehun	Nan
 hangbrug	afara idaduro	Nan
-hangen	láti gbé	Nan
+hangen	gbé	None
 hangt	gbarale	Nan
 hannah	hannah	Nan
 hannibal	hannibal	Nan
@@ -9509,7 +9509,7 @@ handelen	lati isowo	Nan
 handelaren	àwọn oníṣòwò	Nan
 handel	isowo	Nan
 handboek	afọwọkọ	Nan
-halen	gba a	Nan
+halen	gba	None
 haley	haley	Nan
 half	idaji	None
 halfbloed	idaji-ẹjẹ	Nan
@@ -9540,7 +9540,7 @@ hebben	lati ni	Nan
 hebreeuws	heberu	Nan
 hebreeuwse	hebrew	Nan
 hebt	ni	Nan
-heden	ni ojo eni	Nan
+heden	ojo	None
 hedendaagse	imusin	None
 heeft	ní	None
 heel	pupọ	Nan
@@ -9548,7 +9548,7 @@ haydn	haydn	Nan
 hawking	yinyin	Nan
 hawaï	hawaii	None
 havenstad	ilu ibudo	Nan
-harder	gba gan	Nan
+harder	gba	None
 haren	irun	Nan
 hari	ọjọ	Nan
 harmonie	isokan	Nan
@@ -9557,19 +9557,19 @@ harris	harris	Nan
 harrison	ẹwọn	Nan
 hard	lile	Nan
 harry	harry	Nan
-hartaanval	arun okan	Nan
+hartaanval	arun	None
 hartslag	lilu	Nan
 has	ní	None
 hasselt	hasselt	Nan
 have	ni	Nan
 haven	ibudo	Nan
-havens	awọn ebute oko oju omi	Nan
+havens	omi	None
 hart	obi	Nan
 herman	herman	Nan
 gold	wúrà	Nan
 gogh	gogh	Nan
 geschreven	kọ	Nan
-gescoord	gba wọle	Nan
+gescoord	gba	None
 gesigneerd	fowo si	Nan
 gesitueerd	o wa	Nan
 geslaagd	aṣeyọri	Nan
@@ -9612,13 +9612,13 @@ getal	nọmba	Nan
 getallen	awọn nọmba	Nan
 getekend	fowo si	Nan
 getest	idanwo	Nan
-getiteld	ti akole	Nan
+getiteld	akole	None
 getoond	han	Nan
 getracht	igbidanwo	Nan
 getransporteerd	gbigbe	Nan
 getroffen	fowo	Nan
 getrokken	ya	Nan
-getrouwd	ti ni iyawo	Nan
+getrouwd	iyawo	None
 getuige	ẹlẹri	Nan
 getuigen	awọn ẹlẹri	Nan
 gestreden	ja	Nan
@@ -9654,27 +9654,27 @@ gent	ẹtọ	Nan
 gentse	ẹtọ	Nan
 genua	genoa	Nan
 genève	geneva	None
-geografie	ẹkọ nipa ilẹ	Nan
+geografie	ilẹ	None
 geografisch	àgbègbè	Nan
 geografische	àgbègbè	Nan
-geologie	ẹkọ nipa ilẹ	Nan
-geologisch	ẹkọ nipa ilẹ	Nan
-geologische	ẹkọ nipa ilẹ	Nan
+geologie	ilẹ	None
+geologisch	ilẹ	None
+geologische	ilẹ	None
 genoot	gbadun	Nan
-geopenbaard	fi han	Nan
+geopenbaard	fi	None
 genoomtype	oriṣi	Nan
 genoodzaakt	pataki	Nan
 genereren	lati se ina	Nan
 genesis	jẹnẹsisi	Nan
 genetisch	jiini	Nan
 genetische	jiini	Nan
-genezen	láti wo sàn	Nan
+genezen	sàn	None
 genezing	iwosan	None
 genie	oloye-pupọ	Nan
 geniet	gbadun	Nan
 genieten	gbadun	Nan
 genocide	ipaeyarun	Nan
-genoeg	ti to	Nan
+genoeg	to	None
 genoemd	mẹnuba	Nan
 genoemde	ti a npè ni	Nan
 genomen	mu	Nan
@@ -9685,7 +9685,7 @@ georg	georg	Nan
 georganiseerd	ṣeto	Nan
 gerecht	satelaiti	Nan
 gerechten	awopọ	Nan
-gerechtshof	ejo ododo	Nan
+gerechtshof	ododo	None
 gered	ti o ti fipamọ	Nan
 gereden	iwakọ	Nan
 gereed	ṣetan	Nan
@@ -9707,7 +9707,7 @@ georges	georges	Nan
 georgia	georgia	None
 georgië	georgia	None
 georiënteerde	iṣalaye	Nan
-gepaard	so pọ	Nan
+gepaard	so	None
 geplaatst	gbe	None
 gering	kekere	None
 gepland	ngbero	None
@@ -9750,9 +9750,9 @@ geëxecuteerd	pa	Nan
 geëxploiteerd	o ṣiṣẹ	Nan
 geïdentificeerd	ṣe idanimọ	Nan
 geïndustrialiseerde	ti iṣelọpọ	Nan
-geïnfecteerd	ti kó àrùn	Nan
+geïnfecteerd	àrùn	None
 geïnspireerd	atilẹyin	Nan
-geïnstalleerd	fi sori ẹrọ	Nan
+geïnstalleerd	fi	None
 geïntegreerd	ese	Nan
 geïnteresseerd	nife	Nan
 geïnterpreteerd	itumọ	Nan
@@ -9773,7 +9773,7 @@ goedkeuren	lati fọwọsi	Nan
 goedkeuring	ifọwọsi	Nan
 goedkoop	olowo poku	Nan
 goedkope	olowo poku	Nan
-goedkoper	din owo	Nan
+goedkoper	din	None
 goes	lọ	Nan
 godinnen	oriṣa	Nan
 godin	oriṣa	Nan
@@ -9810,7 +9810,7 @@ gevolg	nitori	Nan
 gevolgd	tẹle	Nan
 gevolge	nitorina na	Nan
 gevolgen	awọn ipa	Nan
-gevonden	ri rẹ	Nan
+gevonden	rẹ	None
 gevormd	akoso	Nan
 gevormde	akoso	Nan
 gevraagd	beere	Nan
@@ -9853,7 +9853,7 @@ gezeten	joko	Nan
 gezicht	oju	Nan
 gezichten	awọn oju	Nan
 gezien	ti ri	Nan
-gewoon	o kan	Nan
+gewoon	kan	None
 gewonnen	bori	Nan
 gewone	arinrin	Nan
 gewond	farapa	Nan
